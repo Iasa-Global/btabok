@@ -1,3 +1,6 @@
+layout: page
+title: "Design"
+
 > “All architecture is design, but not all design is architecture.
 > Architecture represents the significant design decisions that shape the
 > form and function of a system, where ‘significant’ is measured by the
