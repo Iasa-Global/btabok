@@ -1,37 +1,49 @@
 ## Welcome to BTABoK Pages
 
-You can use the [editor on GitHub](https://github.com/Iasa-Global/btabok/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Iasa BTABoK. This is the primary source material for the BTABoK which is converted to maintain the BTABoK Wordpress Site which is our more advanced navigation and content site. The wordpress site includes many addtional tools for members of Iasa such as learning shots and examples. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Who is the BTABoK for?
 
-### Markdown
+The BTABoK was designed ground up to be a practical resource for any type of architect in any type of organization. It includes as much business as technical thinking as well as up to date tools in both of these spaces. It has a very strong approach to stakeholder management as well as an easy to use competency model which can be modified for your organization. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is in this Site?
 
-```markdown
-Syntax highlighted code block
+The BTABoK repository includes all of the main content for the BTABoK. It is navigable in the same way as the primary BTABoK site. 
 
-# Header 1
-## Header 2
-### Header 3
+1. The Engagement Model - includes the articles related to building and managing an architecture practice. 
+   
+   1. While we are experimenting we have uploaded an article [__Design__](Design.md)
+   
+   2. The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor. 
 
-- Bulleted
-- List
+2. The Competency Model - includes the articles related to architecture competencies
 
-1. Numbered
-2. List
+3. The Maturity Model - includes the articles related to understanding architecture practice maturity
 
-**Bold** and _Italic_ and `Code` text
+4. Lists of useful tools
+   
+   1. The BTABoK is capturing many useful tools in addition to the canvases. For example, it includes a pattern library, where we hope to store all of the useful patterns which are vendor neutral. Feel free to add to these libraries where useful. 
 
-[Link](url) and ![Image](src)
-```
+## Roadmap
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The plan is to have version 3.0 as the main branch by the end of the summer. From hear we will create a new branch for 4.0 which we expect to freeze next summer. The goals of 4.0 are to 
 
-### Jekyll Themes
+- rework and modernize the competency model
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Iasa-Global/btabok/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- develop a further connection with engineering and other architect partners
 
-### Support or Contact
+- create a complete set of deliverables using the btabok
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- complete the patterns library and other libraries of the btabok
+
+## Committers and Editors
+
+The BTABoK is the only truly open source and maintained body of knowledge for architects. As an open source bok anyone can do a pull request after fixing or suggesting changes to the bok or adding material. The committers on the project are a group of board certified architects who have worked very hard to create the body of knowledge. They will determine what pull requests get included into the bok. To become a committer you will have to have a large number of successful pull requests and have a discussion with the committer team. 
+
+You can use the [editor on GitHub](https://github.com/Iasa-Global/btabok/edit/main/README.md) to maintain and preview the content for the website in Markdown files.
+
+## Additional Help Needed
+
+We are also looking for committers to help develop and extend the functionality of the site. For example, we would like to commit
+
+### 
