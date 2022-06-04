@@ -1,6 +1,3 @@
-layout: page
-title: "Design"
-
 > “All architecture is design, but not all design is architecture.
 > Architecture represents the significant design decisions that shape the
 > form and function of a system, where ‘significant’ is measured by the
@@ -134,15 +131,15 @@ capability scope it becomes apparent much more is necessary.
 Every design problem, set of requirements and principles serves to extend or limit the available options. The Design Landscape canvases allow the architect to think about the services and design elements needed without connecting them immediately to a product or a particular style. This stage of design allows the architect to think about
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
-<img title="" src="file:///C:/Users/pault/OneDrive/Documents/btabok/canvases/MODERN ARCHITECTURE LANDSCAPE ONE CARD-056.SVG" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./canvases/MODERN ARCHITECTURE LANDSCAPE ONE CARD-056.SVG" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 3 Architecture Landscape 1*
 
-<img title="" src="file:///C:/Users/pault/OneDrive/Documents/btabok/canvases/MODERN ARCHITECTURE LANDSCAPE ONE CARD-057.SVG" alt="" style="width:6.25in;height:4.6875in">
+<img title="" src="./canvases/MODERN ARCHITECTURE LANDSCAPE ONE CARD-057.SVG" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 4 Architecture Landscape 2*
 
-<img title="" src="file:///C:/Users/pault/OneDrive/Documents/btabok/canvases/MODERN ARCHITECTURE LANDSCAPE ONE CARD-058.SVG" alt="" style="width:6.25in;height:4.6875in">
+<img title="" src="./MODERN ARCHITECTURE LANDSCAPE ONE CARD-058.SVG" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 5 Architecture Landscape 3*
 
@@ -150,7 +147,7 @@ requirements and options. Then narrow down to what is needed via a set of views 
 
 The process of design is rigorous and must be followed with extreme care, especially where a desired technology or design outcome is already in place. This happens because of cognitive bias or because of a desire ‘modern’ architecture. This notion of a modern architecture is itself a kind of cognitive bias where one assumes a set of design choices based on a perception of what is latest and most advanced in the design options space. According to the BTABoK there is no such thing as a ‘modern’ architecture or design, there are simply design patterns and styles which are more or less suited for solving the design challenges at hand. It is essential that the architect trace each design outcome (decision) to a requirement, a principle, or an objective to prove their use in the final system.
 
-![d](C:\Users\pault\OneDrive\Documents\btabok\media\image9.png)
+![d](media\image9.png)
 
 Figure 6 Ensuring Design Matches Objectives
 
