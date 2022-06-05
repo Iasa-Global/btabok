@@ -150,7 +150,11 @@ requirements and options. Then narrow down to what is needed via a set of views 
 
 The process of design is rigorous and must be followed with extreme care, especially where a desired technology or design outcome is already in place. This happens because of cognitive bias or because of a desire ‘modern’ architecture. This notion of a modern architecture is itself a kind of cognitive bias where one assumes a set of design choices based on a perception of what is latest and most advanced in the design options space. According to the BTABoK there is no such thing as a ‘modern’ architecture or design, there are simply design patterns and styles which are more or less suited for solving the design challenges at hand. It is essential that the architect trace each design outcome (decision) to a requirement, a principle, or an objective to prove their use in the final system.
 
-<img title=“” src=“./media/image9.png” alt=“” >
+<img src=“./media/structuredcanvases.png” >
+
+
+<img src=“./media/structuredcanvases.png” style=“width:6.5in;height:3.65625in” />
+
 
 Figure 6 Ensuring Design Matches Objectives
 
@@ -294,7 +298,7 @@ The process seeks to bring together what is desired of a solution with what is t
 
 In most modern projects, it is not sufficient to be a good designer. Design and engineering are partnered as they struggle with competing goals, requirements, and constraints. Henry Petroski makes the distinction clear: “What distinguishes the engineer from the technician\[or designer\] is largely the ability to formulate and carry out the detailed calculations of forces and deflections, concentrations and flows, voltages and currents, that are required to test a proposed design on paper with regard to failure criteria.” Applied to software, the difference between engineering it and “merely” designing it is the ability to test the proposed design against various criteria, including failure modes, before code exists to test. This extra effort doesn’t add much difficulty to the task, nor does it take very long. Over time, the teams learn to apply it to only those design decisions you haven’t made before or don’t understand well.
 
-<img src="./media/image10.png" style="width:6.5in;height:3.65625in" />
+<img src="./media/healthytension.png" style="width:6.5in;height:3.65625in" />
 
 Figure 7 Healthy Tension
 
