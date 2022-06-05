@@ -12,7 +12,7 @@ The BTABoK repository includes all of the main content for the BTABoK. It is nav
 
 1. The Engagement Model - includes the articles related to building and managing an architecture practice. 
    
-   1. While we are experimenting we have uploaded an article [__Design__](Design.md)
+   1. While we are experimenting we have uploaded an article [__Design__](./Engagement Model/Design.md)
    
    2. The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor. 
 
