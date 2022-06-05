@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Design
 ---
 > “All architecture is design, but not all design is architecture.
