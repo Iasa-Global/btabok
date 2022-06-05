@@ -36,7 +36,7 @@ Design is both a noun and a verb. “Design” is the verb-form of architecture,
 
 Design is deliberate, that is it purposefully set out to create a design that works safely, achieves a specific objective, and is elegant, in that order.  
 
-![Diagram Description automatically generated](C:\Users\pault\OneDrive\Documents\btabok\media\Structured%20Canvases%20-%20Design%20Relationships.svg)
+<img title=“” src=“./media/image1.png”/>
 
 *Figure 1 Design Relationships*
 
@@ -112,10 +112,10 @@ Set-based design is a technique championed by SAFe which allows design
 decisions to remain open and supported until learning can help eliminate
 less capable options
 
-![Diagram Description automatically generated](./media/image2.png)
+<img title=“” src=“./media/image2.png”/>
 
-Figure 2 Set-based vs point-based design -
-https://www.scaledagileframework.com/set-based-design/
+*Figure 2 Set-based vs point-based design -
+https://www.scaledagileframework.com/set-based-design/*
 
 ## YAGNI – You Aren’t Going to Need It
 
@@ -150,7 +150,7 @@ requirements and options. Then narrow down to what is needed via a set of views 
 
 The process of design is rigorous and must be followed with extreme care, especially where a desired technology or design outcome is already in place. This happens because of cognitive bias or because of a desire ‘modern’ architecture. This notion of a modern architecture is itself a kind of cognitive bias where one assumes a set of design choices based on a perception of what is latest and most advanced in the design options space. According to the BTABoK there is no such thing as a ‘modern’ architecture or design, there are simply design patterns and styles which are more or less suited for solving the design challenges at hand. It is essential that the architect trace each design outcome (decision) to a requirement, a principle, or an objective to prove their use in the final system.
 
-![d](media\image9.png)
+<img title=“” src=“./media/image9.png” alt=“” >
 
 Figure 6 Ensuring Design Matches Objectives
 
@@ -221,7 +221,7 @@ Design is a sequence of choices. Design decisions become much easier and more re
 
 ## Design Principles
 
-The most complete set of design principles was developed in the context of object-oriented programming but apply equally well to other programming styles. Many of these principles have been around since the 1980s and have proven themselves in practice. The last two are the result of more than one finding in a project post-mortem. Here’s the list:
+The most complete set of design principles was developed in the context of object-oriented programming but apply equally well to other programming styles. Many of these principles have been around since the 1980s and have proven themselves in practice. The last two are the result of more than one finding in a project post-mortem. 
 
 - Single Responsibility 
 
