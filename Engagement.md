@@ -57,7 +57,7 @@ There are several tools in the BTABoK for understanding customers and even more 
 
 The Persona Card contains what is called a set of empathy map ideas. The Empathy Map was designed at XPLANE many years ago as part of a human-centered design toolkit they call [Gamestorming](http://gamestorming.com/).
 
-![Figure 2 Empathy Map](media/8d905b710fc802687559b1e82e01148b.png)
+<img target="_new" title="" src="./media/engagement02.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 2 Empathy Map
 
