@@ -37,7 +37,6 @@ Design is both a noun and a verb. “Design” is the verb-form of architecture,
 Design is deliberate, that is it purposefully set out to create a design that works safely, achieves a specific objective, and is elegant, in that order.  
 
 
-![](media/designbreakdown.png)
 <img target="_new" title="" src="./media/designbreakdown.png" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 1 Design Relationships*
@@ -114,7 +113,6 @@ Set-based design is a technique championed by SAFe which allows design
 decisions to remain open and supported until learning can help eliminate
 less capable options
 
-![](media/setbaseddesign.png)
 <img target="_new" title="" src="./media/setbaseddesign.png" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 2 Set-based vs point-based design -
