@@ -151,10 +151,11 @@ requirements and options. Then narrow down to what is needed via a set of views 
 
 The process of design is rigorous and must be followed with extreme care, especially where a desired technology or design outcome is already in place. This happens because of cognitive bias or because of a desire ‘modern’ architecture. This notion of a modern architecture is itself a kind of cognitive bias where one assumes a set of design choices based on a perception of what is latest and most advanced in the design options space. According to the BTABoK there is no such thing as a ‘modern’ architecture or design, there are simply design patterns and styles which are more or less suited for solving the design challenges at hand. It is essential that the architect trace each design outcome (decision) to a requirement, a principle, or an objective to prove their use in the final system.
 
-<img src=“./media/structuredcanvases.png” >
+
+<img target="_new" title="" src="./media/structuredcanvases.png" alt="" style="width:6.25in;height:4.6875in">
 
 
-<img src=“./media/structuredcanvases.png” style=“width:6.5in;height:3.65625in” />
+<img src="./media/structuredcanvases.png" style="width:6.5in;height:3.65625in" />
 
 
 Figure 6 Ensuring Design Matches Objectives
