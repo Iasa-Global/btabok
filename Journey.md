@@ -25,8 +25,6 @@ The most obvious answer to this is, it is the organization and the sponsor that 
 
 The customer journey map helps identify the full interaction lifecycle of our customer (based on personas) to engaging with the organization.
 
-<a href="https://btabok.iasaglobal.org/customer-journey-map/" target="_blank"><img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
-
 <a href="https://github.com/Iasa-Global/btabok/blob/c2a00c7629cb567a419aefcc1941c4fd132a41a4/Customer%20Journey%20Map.md" target="_blank"><img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
 
@@ -34,11 +32,12 @@ The customer journey map helps identify the full interaction lifecycle of our cu
 
 For each of the stages of a customer journey we can identify the details of the interaction and opportunities based on it using the journey stage card.
 
-<img target="_new" title="" src="./media/journey02.svg" alt="" style="width:6.25in;height:4.6875in">
+<a href="https://github.com/Iasa-Global/btabok/blob/c2a00c7629cb567a419aefcc1941c4fd132a41a4/Customer%20Journey%20Map.md" target="_blank"><img target="_new" title="" src="./media/journey02.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
 **Customer Persona Card**
 
-<img target="_new" title="" src="./media/journey03.svg" alt="" style="width:6.25in;height:4.6875in">
+
+<a href="https://github.com/Iasa-Global/btabok/blob/af95a37316904eb157261da7fd53590eda3340f8/Persona_Card.md" target="_blank"><img target="_new" title="" src="./media/journey03.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
 Which bring us to the next question, how do we discover this Customer?
 
