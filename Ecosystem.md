@@ -1,3 +1,7 @@
+> “A group of businesses or business activities that affect each other and work well together”
+
+*Definition of Ecosystem, Cambridge Dictionary*
+
 **What is the Ecosystem**
 
 The Ecosystem represents the external environment within which an organization participates, interacts and is affected by other parties in the ecosystem. Typical parties in an ecosystem are:
@@ -80,7 +84,7 @@ An ecosystem can be viewed from many different perspectives, and each organizati
 
 The following is an Ecosystem Map Canvas, it shows an ecosystem, rather like a universe of different parties around a particular Subject.
 
-![](media/233d68bce26561d368a62f334d3bfb3f.png)
+<img target="_new" title="" src="./media/ecosystem01.svg" alt="" style="width:6.25in;height:4.6875in">
 
 The ecosystem map consists of four concepts:
 
