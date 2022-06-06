@@ -77,7 +77,7 @@ The BTABoK uses the following definitions:
 
 Many of the tools in this article can be used for any of the previous examples of individuals. The following persona card is used to get into the mind of a person or group of people who have a similar story. It makes a customer segment into a real person. It is easier to design success for Tom, the father of 2, who picks his kids up from school at 3:30 and works a job as a virtual assistant, lives in Breda, and likes American football than design for a ‘user.’ It is also easier to understand his jobs to be done (get the kids home safely while succeeding at work) and his experiences, what his friends say, etc. The Persona Card is the first step in understanding the mind and emotions of a customer in a particular scenario.
 
-![Figure 3 Persona Card](media/b804f5f36e4d0f71db5892d4441a0caa.jpeg)
+<img target="_new" title="" src="./media/engagement03.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 3 Persona Card
 
@@ -85,7 +85,7 @@ Figure 3 Persona Card
 
 The work on Jobs to Be Done focuses on what a customer is trying to do, not what product they are using. For example, while a person may order a bottle of wine at dinner, they may be trying to impress a client with their sophistication. There are countless examples, but the most famous is “People don’t want a quarter-inch drill. They want a quarter-inch hole.” – Theodore Levitt. The goal of using the Jobs to Be Done method is to understand what the customer is trying to achieve and align architecture decisions with that goal. For example, a customer often does not want to take a flight; they want to be at a meeting in a particular city at a specific time. Thus the architect is actively focused on helping the customer to finish their job, not simply interact with the company.
 
-![](media/14c7a49946889cad2168c9a2ebbca568.png)
+<img target="_new" title="" src="./media/engagement04.svg" alt="" style="width:6.25in;height:4.6875in">
 
 The strategy has done fantastic work with the JTBD canvases. They provide significant business thought leadership, and their work can be found here: [https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/?gclid=CjwKCAiA6seQBhAfEiwAvPqu17VCLBjeX6BJ7DbeMNrvkm2zld5N98Qbt0qSiidyuRmYFNz1ZVWOKRoCvqkQAvD_BwE). Their canvases have offered many of the thought patterns that shaped the customer elements of the BTABoK Structured Canvas Approach.
 
@@ -97,7 +97,7 @@ Architects use these tools to explore the solution and customer space to identif
 
 The architect’s goal is to facilitate and participate as an innovator throughout the customer’s process. The JTBD Timeline provides the basis for understanding the relationship between the customer and the organization, backed by the technology underpinning the relationship.
 
-![Figure 4 JBTD Timeline Canvas](media/415ef3362e482c88ac9838d93daa532e.png)
+<img target="_new" title="" src="./media/engagement05.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 4 JBTD Timeline Canvas
 
@@ -107,7 +107,7 @@ Notice that the timeline provides the tools to connect JBTD to the customer jour
 
 Another canvas that can be used to understand the customers’ behavior in the process is to understand the forces affecting the customers’ behavior and choices during the JBTD. This canvas outlines the forces that allow architects to understand why a customer may choose a new way of doing things. A great example of this comes from Uber. One of the forces on using traditional taxis was the difficulty in payment. Using a credit card with a random taxi driver or having cash were difficulties (what are called pains) in the job of getting from one place in a city to another. By using the Uber app, payment was fully automated. This ‘pain reliever’ is a major attractive force to using the product instead of the more traditional way. However, it is also important to note the forces pushing in the opposite direction. For example, consider the mindset of the individual. Suppose they are deeply unfamiliar with technology or it is difficult to set up a credit card, or they do not have a credit card. In that case, the Uber application may actually create enough anxiety to push the customer into traditional taxis and cash methods.
 
-![Figure 5 JBTD Forces Canvas](media/31ed7020a697179af6535531794e4359.png)
+<img target="_new" title="" src="./media/engagement06.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 5 JBTD Forces Canvas
 
@@ -115,7 +115,7 @@ Figure 5 JBTD Forces Canvas
 
 The wonderful thing about people is that they are still people whether they work for the enterprise or the customer. Many if not all of the digital customer tools and methods work for stakeholders and customers. For example, the following canvas, the Stakeholder Engagement canvas, is effectively a modified Empathy Map that allows the architect to explore a stakeholder’s environment, ecosystem, pains/gains, and personality. Similar overlap exists with JBTD and other customer engagement methods.
 
-![Figure 6 Stakeholder Engagement Card](media/cd544583f4f3367c62583a515a7275cd.png)
+<img target="_new" title="" src="./media/engagement07.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 6 Stakeholder Engagement Card
 
@@ -161,7 +161,7 @@ Engagement is a shared goal among many business units. The architecture team mus
 
 The JTBD Filter provides the tools to understand how jobs should be served. It allows the team to prioritize jobs from an overall customer and value perspective. This will enable the team to discuss overall how valuable a particular job is to the company and the importance. Use a JTBD filtering session instead of a traditional investment prioritization session to get customer-obsessed. This will help define priorities alongside other outcome model objectives.
 
-![Figure 7 JTBD Filter](media/87886cc255c24ee239505bf0690e56f7.png)
+<img target="_new" title="" src="./media/engagement08.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 7 JTBD Filter
 
@@ -169,7 +169,7 @@ Figure 7 JTBD Filter
 
 The benefits dependency canvas provides a way of translating technology enablers like cloud, AI, or integration back into business objectives, and the BTABoK Structured Canvas Approach displays the value contribution of technology to the initiative, which is essential in budgeting and value contribution reporting in benefits realization.
 
-![Figure 8 Benefits Dependency Canvas](media/811c775b789a71a1680b5a38cd52d98a.png)
+<img target="_new" title="" src="./media/engagement09.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 8 Benefits Dependency Canvas
 
@@ -177,7 +177,7 @@ Figure 8 Benefits Dependency Canvas
 
 The architect does not prioritize outside of tier 1 safety and liability issues. Outside that scope, the architect must work with product owners and other stakeholders to understand and manage the priority and detail of engaged customers. This is done through metrics, contribution, and prioritization. Speaking the language of feature, structure, value creates the optimum communication environment for facilitating outcomes. The JTBD Prioritization canvas can help facilitate precisely this kind of dialog.
 
-![](media/3c4c17ca6fc248a0c544d483c12aa2a3.png)
+<img target="_new" title="" src="./media/engagement10.svg" alt="" style="width:6.25in;height:4.6875in">
 
 **Metrics and Measurements in Engagement**
 
