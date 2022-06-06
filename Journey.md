@@ -1,3 +1,10 @@
+---
+title: Journey
+---
+> “You’ve got to start with the customer experience and work back the technology, not the other way round.”
+
+*Steve Jobs*
+
 **INTRODUCTION**
 
 Before the advent of industrialization, goods and services were local and consisted primarily of limited, handcrafted, customized and labour-intensive home-based production and consumption. Industrialization, with its large centralized machines powered first by water and subsequently electricity changed all that. Henry Ford made famous the concept of mass production, with his much-quoted quip “Any customer can have a car painted any colour that he wants so long as it is black” aided by technology and the assembly line paradigm. He was able to profoundly change not just the transportation landscape but industry and [culture](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/culture/) itself.
