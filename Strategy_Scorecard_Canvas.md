@@ -7,7 +7,7 @@ The strategy scorecard is a combination of a strategy map and a balanced scoreca
 
 <img target="_new" title="" src="./media/strategy06.svg" alt="" style="width:6.25in;height:4.6875in">
 
-[Download PPT](https://btabok.iasaglobal.org/wp-content/uploads/2021/08/STRATEGY-SCORECARD-CANVAS-031.ppt)
+[Download PPT](https://github.com/Iasa-Global/btabok/blob/a3d5ff334455ddbf8ddf47569d2d0803757d4465/media/files/STRATEGY-SCORECARD-CANVAS-031.ppt)
 
 | **Area**                | **Description**                                                                                                                                         | **Links To**                                                    |
 |-------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
