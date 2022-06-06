@@ -134,7 +134,7 @@ In order to further illustrate the ecosystem map canvas, the following examples 
 
 The following example uses a fictional “Tinkleman Coffee Roasters” company, where the subject is a customer to a Tinkleman Coffee Shop. In this ecosystem, the aspects essential, valued and desirable are used to indicate how important the parties are to the customer. Several dimensions have been identified in the ecosystem which provide services or products to the customer when they want to get a cup of Tinkelman coffee.
 
-![](media/c939a32305eafde97ec589374c0de75b.png)
+<img target="_new" title="" src="./media/ecosystem02.svg" alt="" style="width:6.25in;height:4.6875in">
 
 n the above map, notice that the customer values transport to the coffee shop, in particular through the taxi service company “TAXI-HI R”, and other customers prefer to have their coffee delivered home, via the “DELIVER 2 U” order and collect company. Customers who are students at the ABC UNIVERSITY value access to Tinkleman Coffee during their studies, hopefully close to the campus. Customers at the nearby Super Hotel often order coffee for conferences or meetings, and some customers often pick up coffee on their way to see a film at the CINEMA 1 complex. In this example, we can see a number of opportunities for Tinkleman to increase value to the customer by working with other parties in the ecosystem.
 
@@ -142,7 +142,7 @@ n the above map, notice that the customer values transport to the coffee shop, i
 
 The following example uses “Tinkleman Coffee Roasters” company as the subject. In this ecosystem, the aspects partner, producer and consumer, are used to indicate the relationship between Tinkleman and the parties. Several dimensions have been identified in the ecosystem, which perhaps represent types of business, but may also represent [capabilities](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/) which are of interest to Tinkleman.
 
-![](media/1072908d5a5c0d4ea3708d586e22f593.png)
+<img target="_new" title="" src="./media/ecosystem03.svg" alt="" style="width:6.25in;height:4.6875in">
 
 In this ecosystem there are a number of partnerships with several companies, BIG BEANS for provision of coffee beans, LBN GOODS for logistics from the roasting facilities to the coffee shop, and HOLBY PARTNERS who help with legal administration.
 
@@ -156,7 +156,7 @@ It is possible to combine the Ecosystem Map with techniques used in the planning
 
 This provides a way of examining the ecosystem from a strategic perspective.
 
-![](media/b4412b605bf5c3b23dbeb95e8e3487af.png)
+<img target="_new" title="" src="./media/ecosystem04.svg" alt="" style="width:6.25in;height:4.6875in">
 
 **Influencing the Ecosystem**
 
