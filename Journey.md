@@ -27,7 +27,6 @@ The customer journey map helps identify the full interaction lifecycle of our cu
 
 <a href="https://btabok.iasaglobal.org/customer-journey-map/" target="_blank"><img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
-[![Text](./media/journey01.svg "Alt text")](https://btabok.iasaglobal.org/customer-journey-map/)
 
 **Journey Stage Card**
 
