@@ -1,3 +1,10 @@
+---
+title: Engagement
+---
+> “We see our customers as invited guests to a party, and we are the hosts. It’s our job every day to make every important aspect of the customer experience a little bit better.”
+
+*Jeff Bezos*
+
 **What is Engagement**
 
 “Noun: the processes of engaging or engagement with
@@ -24,7 +31,7 @@ The BTABoK is based on an architecture practice creating digital outcomes reliab
 
 Architects, as digital innovators driving digital advantage, must be customer-obsessed. From business architecture to infrastructure to complex systems, each decision may fundamentally impact a customer, changing how they behave and perceive a company.
 
-![](media/c3dda9678031e19e09e2c927e1d9896b.png)
+<img target="_new" title="" src="./media/engagement01.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 1 Empathy and Features
 
