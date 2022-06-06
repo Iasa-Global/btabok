@@ -1,3 +1,10 @@
+---
+title: Strategy
+---
+> “The essence of strategy is choosing what not to do”
+
+*Michael Porter*
+
 **What is strategy**
 
 *“a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations”* – **definition of Strategy, Cambridge Dictionary**
