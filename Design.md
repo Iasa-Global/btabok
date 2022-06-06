@@ -36,9 +36,9 @@ Design is both a noun and a verb. “Design” is the verb-form of architecture,
 
 Design is deliberate, that is it purposefully set out to create a design that works safely, achieves a specific objective, and is elegant, in that order.  
 
-<img src="./media/image1.png” style=“width:6.5in;height:3.65625in" />
+<img src="./media/image1.png style=“width:6.5in;height:3.65625in" />
 
-![](media/image1.png” style=“width:6.5in;height:3.65625in)
+![](./media/image1.png)
 
 *Figure 1 Design Relationships*
 
