@@ -38,6 +38,8 @@ Design is deliberate, that is it purposefully set out to create a design that wo
 
 <img src="./media/image1.png” style=“width:6.5in;height:3.65625in" />
 
+![](media/image1.png” style=“width:6.5in;height:3.65625in)
+
 *Figure 1 Design Relationships*
 
 The figure describes the critical relationships between concepts that make up ‘design’. When designing the architect has to consider <u>requirements</u> which are derived from benefits, features, quality attributes and constraints (also <u>principles</u>). These requirements create options which have breadth, depth, may apply patterns and reference models. From these options, the architect makes a decision which impacts value, risk, quality attributes (tested through fitness functions), conformance across the design as well as principles (and exceptions). This happens for all architecturally relevant decisions where each decision may force rethinking or reworking previous designs. This leads to the balance and elegance of an excellent architecture.
