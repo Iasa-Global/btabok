@@ -27,6 +27,8 @@ The customer journey map helps identify the full interaction lifecycle of our cu
 
 <img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in">
 
+[This is an external link to genome.gov](https://www.genome.gov/)
+
 **Journey Stage Card**
 
 For each of the stages of a customer journey we can identify the details of the interaction and opportunities based on it using the journey stage card.
