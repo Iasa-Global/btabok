@@ -25,27 +25,29 @@ The most obvious answer to this is, it is the organization and the sponsor that 
 
 The customer journey map helps identify the full interaction lifecycle of our customer (based on personas) to engaging with the organization.
 
-![](media/cebae45ef110074b46af55b68f630627.png)
+<img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in">
 
 **Journey Stage Card**
 
 For each of the stages of a customer journey we can identify the details of the interaction and opportunities based on it using the journey stage card.
 
-![](media/2981a7fe395e77fc9a5838774bd87aa1.png)
+<img target="_new" title="" src="./media/journey02.svg" alt="" style="width:6.25in;height:4.6875in">
 
 **Customer Persona Card**
 
-![](media/157222bdc86c77ecfd1a6b42efc93f09.png)
+<img target="_new" title="" src="./media/journey03.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Which bring us to the next question, how do we discover this Customer?
 
-![](media/2faad13022b4006a9d8f16ddd8d60edb.png)Business Model
+<img target="_new" title="" src="./media/journey04.svg" alt="" style="width:6.25in;height:4.6875in">
+Business Model
 
 Developing (or using if they already exist) both of two models are the first step in this discovery. The first is the *Business Model (BM)*. The Business Model is interesting because not only is it a concise one pager that gives us a high level and extremely pertinent view, but developing it also helps in situating the problem and solution in the larger context and not just within a narrower product/service related paradigm. In my opinion, developing this model is also a great way to up our game and get access to business and the real decision makers as well as to make sure we have a shared vision of where value is and what it means for the Customer. The BM describes important aspects; from the Customer Segment, distribution channels, revenue to be realized and the cost that will be incurred before that happens, to the key value proposition for the service/product.
 
 The second is the 5P’s marketing model.
 
-![](media/5735f1effc5dea5ca2f452f54ea141ae.png)5 P’s
+<img target="_new" title="" src="./media/journey05.svg" alt="" style="width:6.25in;height:4.6875in">
+5 P’s
 
 The 5P’s is normally what the marketing folk use to understand and describe the ecosystem for the product/service to be developed. This model is more focused on the product/service and defines the attributes of the Product, the Pricing strategies, the channels or Places through which the product can be distributed, the Promotional strategies that would influence consumption of the product, and the People at whom the product is aimed as well as the kind of experience they would expect and their specific needs that need to be fulfilled.
 
