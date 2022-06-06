@@ -38,7 +38,7 @@ Design is deliberate, that is it purposefully set out to create a design that wo
 
 <img src="./media/image1.png style=“width:6.5in;height:3.65625in" />
 
-![](./media/image1.png)
+![](media/designbreakdown.png)
 
 *Figure 1 Design Relationships*
 
