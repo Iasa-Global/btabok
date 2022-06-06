@@ -1,3 +1,7 @@
+> “Ways of planning and doing work in which it is understood that making changes as they are needed is an important part of the job”
+
+*Cambridge Dictionary, definition of Agility*
+
 **What is Agility**
 
 Agility in terms of business or product development can be thought of as the ability to adapt quickly to change, and thus take advantage of the opportunities that change brings. Technology and IT have been major facilitators for disruption, the rate of change has accelerated significantly in the 2000s and continues to accelerate.
@@ -107,7 +111,10 @@ Agility relies on the ability to adapt as the surrounding world changes. Agile m
 
 For example, a product development team may run a series of sprints. The product owner may decide to release the product with the scope that was delivered during these sprints. However, if it is felt that the scope does not provide a minimum viable product, then further sprints can be run until a minimum viable product or release is achieved. This means that there has to be flexibility in time, cost and scope.
 
-![](media/6ee69b29f0319faadef66cfc2f2896ff.png)
+<img target="_new" title="" src="./media/agility01.png" alt="" style="width:6.25in;height:4.6875in">
+
+
+![](media/agility01.png)
 
 If we consider the “iron triangle” of project management we can see that there is a relation between cost, time and scope. The following scenarios apply:
 
