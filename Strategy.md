@@ -84,10 +84,10 @@ The order of these perspectives is important, learning drives the internal persp
 
 Some examples of objectives in these perspectives are listed below:
 
-**Financial**  *: “Increase profit margin”*  
-**Customer**  *: “Increase customer satisfaction”*  
-**Internal**  *: “Improve service quality”*  
-**Learning and Growth**  *“Improve automated support tools”*
+- **Financial**  *: “Increase profit margin”*  
+- **Customer**  *: “Increase customer satisfaction”*  
+- **Internal**  *: “Improve service quality”*  
+- **Learning and Growth**  *“Improve automated support tools”*
 
 On the strategy map relations are drawn between the different objectives to show cause-and-effect. The arrow between two objectives means that the source objective will provide an effect on the target objective. For example, “Increase customer satisfaction” will have an effect on “Increase profit margin”.
 
