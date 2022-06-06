@@ -13,10 +13,10 @@ A strategy is a plan for how to achieve success. Strategies can be created for d
 
 All strategies are different, and depending on the subject of the strategy, will require input from different strategic perspectives. In the book “Fruition” by Chris Potts, the following four perspectives are identified:
 
--   ### Environmental  – external context, legislation, regulation, politics (outside the organization)
--   ### Organizational  – organizational structure, culture, internal politics
--   ### Operational   – internal processes and operations
--   ### Technical   – specifications, products/services and technologies
+-   **Environmental**  – external context, legislation, regulation, politics (outside the organization)
+-   **Organizational**  – organizational structure, culture, internal politics
+-   **Operational**   – internal processes and operations
+-   **Technical**   – specifications, products/services and technologies
 
 When working with a strategy it is useful to evaluate which of the perspectives are important, this will help to secure people with the right skills set for working with the strategy.
 
