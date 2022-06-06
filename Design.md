@@ -38,6 +38,7 @@ Design is deliberate, that is it purposefully set out to create a design that wo
 
 
 ![](media/designbreakdown.png)
+<img target="_new" title="" src="./media/designbreakdown.png" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 1 Design Relationships*
 
@@ -114,6 +115,7 @@ decisions to remain open and supported until learning can help eliminate
 less capable options
 
 ![](media/setbaseddesign.png)
+<img target="_new" title="" src="./media/setbaseddesign.png" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 2 Set-based vs point-based design -
 https://www.scaledagileframework.com/set-based-design/*
