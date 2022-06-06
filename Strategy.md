@@ -71,7 +71,8 @@ One way to work with strategic objectives is to use a Strategy Scorecard. The st
 
 The strategy map provides a way to map out objectives required in order to achieve the strategic aims, and to show the relationships between objectives.
 
-<a href="https://btabok.iasaglobal.org/strategy-scorecard-canvas/" target="_blank"><img target="_new" title="" src="./media/strategy01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
+
+<a href="https://btabok.iasaglobal.org/strategy-scorecard-canvas/" target="_blank"> <img target="_new" title="" src="./media/strategy01.svg" alt="" style="width:6.25in;height:4.6875in"> </a>
 
 Objectives are placed on the strategy map in four perspectives:
 
