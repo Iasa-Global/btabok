@@ -1,3 +1,7 @@
+---
+title: Ecosystem
+---
+
 > “A group of businesses or business activities that affect each other and work well together”
 
 *Definition of Ecosystem, Cambridge Dictionary*
