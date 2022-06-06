@@ -115,7 +115,7 @@ Figure 5 JBTD Forces Canvas
 
 The wonderful thing about people is that they are still people whether they work for the enterprise or the customer. Many if not all of the digital customer tools and methods work for stakeholders and customers. For example, the following canvas, the Stakeholder Engagement canvas, is effectively a modified Empathy Map that allows the architect to explore a stakeholder’s environment, ecosystem, pains/gains, and personality. Similar overlap exists with JBTD and other customer engagement methods.
 
-<img target="_new" title="" src="./media/engagement07.svg" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/engagement08.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 6 Stakeholder Engagement Card
 
@@ -161,7 +161,7 @@ Engagement is a shared goal among many business units. The architecture team mus
 
 The JTBD Filter provides the tools to understand how jobs should be served. It allows the team to prioritize jobs from an overall customer and value perspective. This will enable the team to discuss overall how valuable a particular job is to the company and the importance. Use a JTBD filtering session instead of a traditional investment prioritization session to get customer-obsessed. This will help define priorities alongside other outcome model objectives.
 
-<img target="_new" title="" src="./media/engagement08.svg" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/engagement09.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 7 JTBD Filter
 
@@ -169,7 +169,7 @@ Figure 7 JTBD Filter
 
 The benefits dependency canvas provides a way of translating technology enablers like cloud, AI, or integration back into business objectives, and the BTABoK Structured Canvas Approach displays the value contribution of technology to the initiative, which is essential in budgeting and value contribution reporting in benefits realization.
 
-<img target="_new" title="" src="./media/engagement09.svg" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/engagement10.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Figure 8 Benefits Dependency Canvas
 
@@ -177,7 +177,7 @@ Figure 8 Benefits Dependency Canvas
 
 The architect does not prioritize outside of tier 1 safety and liability issues. Outside that scope, the architect must work with product owners and other stakeholders to understand and manage the priority and detail of engaged customers. This is done through metrics, contribution, and prioritization. Speaking the language of feature, structure, value creates the optimum communication environment for facilitating outcomes. The JTBD Prioritization canvas can help facilitate precisely this kind of dialog.
 
-<img target="_new" title="" src="./media/engagement10.svg" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/engagement11.svg" alt="" style="width:6.25in;height:4.6875in">
 
 **Metrics and Measurements in Engagement**
 
