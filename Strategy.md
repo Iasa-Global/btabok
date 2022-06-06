@@ -5,7 +5,7 @@ title: Strategy
 
 *Michael Porter*
 
-**What is strategy**
+# What is strategy
 
 *“a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations”* – **definition of Strategy, Cambridge Dictionary**
 
@@ -22,7 +22,7 @@ When working with a strategy it is useful to evaluate which of the perspectives 
 
 A key factor of building a strategy is creating objectives and an aim, as well as the tactics required to succeed. In this article the specific focus is placed on creating a Business Technology Strategy.
 
-**Why do we need a strategy**
+# Why do we need a strategy
 
 Very simply, if there is no plan, there is no direction or coordination. A strategy most importantly provides common aim for all the stakeholders concerned and makes sure they are all pulling in the same direction.
 
@@ -30,7 +30,7 @@ There can be a number of different strategies in play in a single organization, 
 
 The strategy provides a measurable target by which the organization can measure progress. This is important as it allows corporate management to measure the effect of execution, and for the members of the organization, who gain motivation from a culture of working towards a common goal.
 
-**Strategy Approach**
+# Strategy Approach
 
 **Strategy is everybody’s business**
 
