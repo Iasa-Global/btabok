@@ -122,7 +122,7 @@ SWOT analysis is a useful tool for identifying strengths, weaknesses, opportunit
 
 The SWOT analysis works best as a brainstorming tool with a team in a workshop environment. Before beginning the analysis, it should be clear to all participants what the subject of the analysis is. The objectives from the Strategy Scorecard may be used to form the SWOT subject.
 
-![](media/408c2dc27c0f5cbd7d903ef6593a0396.png)
+<img target="_new" title="" src="./media/strategy02.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Participants discuss, brainstorm and place the different strengths, weaknesses, opportunities and threats on the canvas.
 
@@ -139,7 +139,7 @@ A PESTEL analysis considers the surrounding environment of an organization, and 
 -   **Environmental** – this aspect considers environmental concerns such as climate, ethical sustainability, pollution and eco-friendliness.
 -   **Legal** – the legal aspect refers to laws and regulations which affect the organization and its products and services. This may include laws or regulations regarding, for example, privacy, health and safety, security, pollution or employment.
 
-![](media/a9e150ab128aea88727161b13a247e44.png)
+<img target="_new" title="" src="./media/strategy03.svg" alt="" style="width:6.25in;height:4.6875in">
 
 The working method for performing a PESTEL analysis is similar to SWOT. This works best in a team workshop using brainstorming techniques to add factors to each aspect. When the participants feel they have identified all the factors which influence the organization, they can begin to discuss tactics to mitigate threats and take advantage of opportunities. This analysis can be used in combination with SWOT.
 
@@ -155,7 +155,7 @@ Assessing and managing risks is central to the feasibility and the success of a 
 
 A risk matrix is a useful way to identify risks and rate them accordingly. Risks are listed in a column, and each risk is given a probability rating, from very unlikely (1) to most likely (5). A rating is also given for the consequences the risk will have if it is realized, from trivial (1) to critical (5).
 
-![](media/815557173cba3934fd973514ea39405d.png)
+<img target="_new" title="" src="./media/strategy04.svg" alt="" style="width:6.25in;height:4.6875in">
 
 The values for probability and consequence are used together with the risk matrix to provide an overall rating, ranging from low to critical. After rating the risks, an assessment can be made of the strategy and tactics required to best provide mitigation.
 
@@ -163,7 +163,7 @@ The values for probability and consequence are used together with the risk matri
 
 The power-interest grid is a useful tool for identifying tactics based on stakeholders. The grid is used to identify important strategic stakeholders based on the stakeholder interest and power (or influence).
 
-![](media/641d799cde75a21a15b311a0699105f5.png)
+<img target="_new" title="" src="./media/strategy05.svg" alt="" style="width:6.25in;height:4.6875in">
 
 Stakeholders with a high level of interest and power are often central to the success of the strategy, and tactics regarding the management of these stakeholders should be defined. Further information about the power-interest grid and stakeholder management can be found in the stakeholders element.
 
