@@ -164,7 +164,7 @@ The values for probability and consequence are used together with the risk matri
 
 The power-interest grid is a useful tool for identifying tactics based on stakeholders. The grid is used to identify important strategic stakeholders based on the stakeholder interest and power (or influence).
 
-<a href="https://btabok.iasaglobal.org/strategy-scorecard-canvas/" target="_blank"><img target="_new" title="" src="./media/strategy05.svg" alt="" style="width:6.25in;height:4.6875in"></a>
+<a href="https://btabok.iasaglobal.org/power-interest-grid/" target="_blank"> <img target="_new" title="" src="./media/strategy05.svg" alt="" style="width:6.25in;height:4.6875in"> </a>
 
 Stakeholders with a high level of interest and power are often central to the success of the strategy, and tactics regarding the management of these stakeholders should be defined. Further information about the power-interest grid and stakeholder management can be found in the stakeholders element.
 
