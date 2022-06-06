@@ -114,8 +114,6 @@ For example, a product development team may run a series of sprints. The product
 <img target="_new" title="" src="./media/agility01.png" alt="" style="width:6.25in;height:4.6875in">
 
 
-![](media/agility01.png)
-
 If we consider the “iron triangle” of project management we can see that there is a relation between cost, time and scope. The following scenarios apply:
 
 -   Increase scope = increased cost or time
