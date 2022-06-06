@@ -75,27 +75,27 @@ The strategy map provides a way to map out objectives required in order to achie
 
 Objectives are placed on the strategy map in four perspectives:
 
--   ### Financial  – provides a view of the financial objectives of the organization
--   ### Customer  – provides a view of objectives from a customer perspective
--   ### Internal  – provides a view of objectives for the internal processes of the organization including services and products
--   ### Learning and Growth  – provides a view of objectives from a human resource, infrastructure or technology perspective
+-   **Financial**  – provides a view of the financial objectives of the organization
+-   **Customer**  – provides a view of objectives from a customer perspective
+-   **Internal**  – provides a view of objectives for the internal processes of the organization including services and products
+-   **Learning and Growth**  – provides a view of objectives from a human resource, infrastructure or technology perspective
 
 The order of these perspectives is important, learning drives the internal perspective, the internal perspective drives the customer perspective and the customer perspective drives the financial perspective. This is true for most profit-making organizations, but in some cases where profit may not be the focus of the organization (for example non-profit organizations, public sector), the customer may be placed as the top most perspective.
 
 Some examples of objectives in these perspectives are listed below:
 
-### Financial  *: “Increase profit margin”*  
-### Customer  *: “Increase customer satisfaction”*  
-### Internal  *: “Improve service quality”*  
-### Learning and Growth:  *“Improve automated support tools”*
+**Financial**  *: “Increase profit margin”*  
+**Customer**  *: “Increase customer satisfaction”*  
+**Internal**  *: “Improve service quality”*  
+**Learning and Growth**  *“Improve automated support tools”*
 
 On the strategy map relations are drawn between the different objectives to show cause-and-effect. The arrow between two objectives means that the source objective will provide an effect on the target objective. For example, “Increase customer satisfaction” will have an effect on “Increase profit margin”.
 
 Once the strategy map is complete, the scorecard can be used to list the objectives and define the following:
 
--   # Measurement#  – this describes how the objective will be measured by listing the performance indicators (KPI’s)
--   # Targets#  – this describes the target value of the objective for the performance indicator
--   # Initiatives#  – a list of projects/programs which may be executed to help reach the objective
+-   **Measurement**  – this describes how the objective will be measured by listing the performance indicators (KPI’s)
+-   **Targets**  – this describes the target value of the objective for the performance indicator
+-   **Initiatives**  – a list of projects/programs which may be executed to help reach the objective
 
 The balanced scorecard and OKR’s (Objective Key Results) are strategic tools which share some common concepts. The balanced scorecard method tends to be used for “big picture” strategies, for example at corporate level. The strategy is long-term and objectives are perhaps not as agile as OKR’s. OKR’s on the other hand, provide an agile way of managing objectives with a 90-day perspective. While this works well with objectives at an individual/team level it perhaps lacks the perspectives and the “big picture” provided by the scorecard.
 
