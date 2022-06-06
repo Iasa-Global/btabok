@@ -25,7 +25,7 @@ The most obvious answer to this is, it is the organization and the sponsor that 
 
 The customer journey map helps identify the full interaction lifecycle of our customer (based on personas) to engaging with the organization.
 
-<a href="https://btabok.iasaglobal.org/customer-journey-map/" target="_blank"><img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
+<a href="[https://btabok.iasaglobal.org/customer-journey-map/](https://github.com/Iasa-Global/btabok/blob/a82405030c7384f2fb994a85f7b5cf675c66fe5d/Customer%20Journey%20Map.md)" target="_blank"><img target="_new" title="" src="./media/journey01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
 
 **Journey Stage Card**
