@@ -71,7 +71,7 @@ One way to work with strategic objectives is to use a Strategy Scorecard. The st
 
 The strategy map provides a way to map out objectives required in order to achieve the strategic aims, and to show the relationships between objectives.
 
-![](media/7e51e742fdebcae015c30f9c361186ff.png)
+<img target="_new" title="" src="./media/strategy01" alt="" style="width:6.25in;height:4.6875in">
 
 Objectives are placed on the strategy map in four perspectives:
 
