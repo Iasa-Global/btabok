@@ -113,7 +113,7 @@ Set-based design is a technique championed by SAFe which allows design
 decisions to remain open and supported until learning can help eliminate
 less capable options
 
-<img target="_new" title="" src="./media/setbaseddesign.png" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/setbaseddesign01.png" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 2 Set-based vs point-based design -
 https://www.scaledagileframework.com/set-based-design/*
