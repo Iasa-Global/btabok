@@ -71,7 +71,7 @@ One way to work with strategic objectives is to use a Strategy Scorecard. The st
 
 The strategy map provides a way to map out objectives required in order to achieve the strategic aims, and to show the relationships between objectives.
 
-<img target="_new" title="" src="./media/strategy01.svg" alt="" style="width:6.25in;height:4.6875in">
+<a href="https://btabok.iasaglobal.org/strategy-scorecard-canvas/" target="_blank"><img target="_new" title="" src="./media/strategy01.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
 Objectives are placed on the strategy map in four perspectives:
 
@@ -163,7 +163,7 @@ The values for probability and consequence are used together with the risk matri
 
 The power-interest grid is a useful tool for identifying tactics based on stakeholders. The grid is used to identify important strategic stakeholders based on the stakeholder interest and power (or influence).
 
-<img target="_new" title="" src="./media/strategy05.svg" alt="" style="width:6.25in;height:4.6875in">
+<a href="https://btabok.iasaglobal.org/strategy-scorecard-canvas/" target="_blank"><img target="_new" title="" src="./media/strategy05.svg" alt="" style="width:6.25in;height:4.6875in"></a>
 
 Stakeholders with a high level of interest and power are often central to the success of the strategy, and tactics regarding the management of these stakeholders should be defined. Further information about the power-interest grid and stakeholder management can be found in the stakeholders element.
 
