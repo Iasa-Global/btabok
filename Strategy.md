@@ -159,7 +159,7 @@ A risk matrix is a useful way to identify risks and rate them accordingly. Risks
 
 The values for probability and consequence are used together with the risk matrix to provide an overall rating, ranging from low to critical. After rating the risks, an assessment can be made of the strategy and tactics required to best provide mitigation.
 
-## Power-Interest Grid# 
+## Power-Interest Grid
 
 The power-interest grid is a useful tool for identifying tactics based on stakeholders. The grid is used to identify important strategic stakeholders based on the stakeholder interest and power (or influence).
 
