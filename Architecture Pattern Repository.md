@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Architecture Pattern Repository
 ---
 > “All well-structured object-oriented architectures are full of patterns. Indeed, one of the ways that I measure the quality of an object-oriented system is to judge whether or not its developers have paid careful attention to the common collaborations among its objects.”
 
