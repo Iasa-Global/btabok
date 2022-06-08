@@ -21,7 +21,7 @@ Architectural requirements are hard to determine, primarily because they need to
 
 ASR representation in the [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/).
 
-| ## Characteristic       | ## Explanation                                     |
+|  Characteristic       |  Explanation                                     |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Innovation/Ideation**  | ASRs are represented as ideas and characteristics according to the innovation cycle. These are funneled either into experimentation or into a business case by a value stream owner. All ASRs at this level are considered architecturally relevant.                         |
 | **Business Case**        | ASRs are represented as course-grained ideas with the goal of understanding program cost or value generation. Traditionally these are used for rough scoping purposes to satisfy budget and staffing needs. Most ASRs at this level are considered architecturally relevant. |
@@ -89,7 +89,7 @@ The final type of architecturally significant requirement often comes from the a
 
 Architectural requirements generally do no match detailed requirements specifications. Instead the following chart identifies areas of importance for ASRs.
 
-| ## Characteristic | ## Explanation                                                                                                                            |
+| Characteristic |  Explanation                                                                                                                            |
 |--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | **Complete**       | The requirement is fully stated in one place with no missing information.                                                                  |
 | **Traceable**      | The requirement meets all or part of a business need as stated by stakeholders and authoritatively documented.                             |
