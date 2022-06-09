@@ -81,3 +81,4 @@ Pattern Types and Catalog
         <img src="media/3.png" alt="">
     </figure>
 </article>
+
