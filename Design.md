@@ -113,7 +113,7 @@ Set-based design is a technique championed by SAFe which allows design
 decisions to remain open and supported until learning can help eliminate
 less capable options
 
-<img target="_new" title="" src="./media/setbaseddesign01.png" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/setbaseddesign.png" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 2 Set-based vs point-based design -
 https://www.scaledagileframework.com/set-based-design/*
@@ -135,15 +135,15 @@ capability scope it becomes apparent much more is necessary.
 Every design problem, set of requirements and principles serves to extend or limit the available options. The Design Landscape canvases allow the architect to think about the services and design elements needed without connecting them immediately to a product or a particular style. This stage of design allows the architect to think about
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
-<img target="_new" title="" src="./canvases/MODERN_ARCHITECTURE_LANDSCAPE_ONE_CARD_056.SVG" alt="" style="width:6.25in;height:4.6875in">
+<img target="_new" title="" src="./media/canvases/MODERN_ARCHITECTURE_LANDSCAPE_ONE_CARD_056.SVG" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 3 Architecture Landscape 1*
 
-<img title="" src="./canvases/MODERN_ARCHITECTURE_LANDSCAPE_ONE_CARD_057.SVG" alt="" style="width:6.25in;height:4.6875in">
+<img title="" src="./media/canvases/MODERN_ARCHITECTURE_LANDSCAPE_ONE_CARD_057.SVG" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 4 Architecture Landscape 2*
 
-<img title="" src="./canvases/MODERN_ARCHITECTURE_LANDSCAPE_ONE_CARD_058.SVG" alt="" style="width:6.25in;height:4.6875in">
+<img title="" src="./media/canvases/MODERN_ARCHITECTURE_LANDSCAPE_ONE_CARD_058.SVG" alt="" style="width:6.25in;height:4.6875in">
 
 *Figure 5 Architecture Landscape 3*
 
