@@ -8,6 +8,8 @@ The BTABoK was designed ground up to be a practical resource for any type of arc
 
 ## What is in this Site?
 
+The gitpages version of the site is here: https://iasa-global.github.io/btabok/
+
 The BTABoK repository includes all of the main content for the BTABoK. It is navigable in the same way as the primary BTABoK site. 
 
 1. The Engagement Model - includes the articles related to building and managing an architecture practice. 
