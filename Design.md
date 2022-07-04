@@ -1,6 +1,8 @@
 ---
+
 title: Design
 ---
+
 > “All architecture is design, but not all design is architecture.
 > Architecture represents the significant design decisions that shape the
 > form and function of a system, where ‘significant’ is measured by the
@@ -24,18 +26,17 @@ and encounter an unexpected condition they need to handle. Whenever it
 happens, it needs to be done deliberately. The documents that result
 from “big up-front” design are not the design, they are a representation
 of it. The design is the thinking and decisions that go into creating those
-documents. For a design to be clear the thinking, and the decisions have to be obvious. That is one of the factors that make a design into an architecture. 
+documents. For a design to be clear the thinking, and the decisions have to be obvious. That is one of the factors that make a design into architecture. 
 
-This article will explore the nature of design, not just how to do it. Design itself is woven through the BTABoK so the article will connect those ideas and tools to the core concepts of design. It looks at the factors (benefits, costs, trade-offs, quality attributions) in the problem being solved and the domain in which it exists that influence and constrain the design. It also describes how decisions were made that can also influence and constrain the design in the end.
+This article will explore the nature of design, not just how to do it. The design itself is woven through the BTABoK so the article will connect those ideas and tools to the core concepts of design. It looks at the factors (benefits, costs, trade-offs, quality attributions) in the problem being solved and the domain in which it exists that influence and constrains the design. It also describes how decisions were made that can also influence and constrain the design in the end.
 
 # What is Design?
 
-Design is both a noun and a verb. “Design” is the verb-form of architecture, although there is debate about this (one *designs* an architecture for a structure, they don’t *architect* a structure).
+Design is both a noun and a verb. “Design” is the verb form of architecture, although there is debate about this (one *designs* an architecture for a structure, they don’t *architect* a structure).
 
 ## Design Emerges but Architecture is Deliberate
 
 Design is deliberate, that is it purposefully set out to create a design that works safely, achieves a specific objective, and is elegant, in that order.  
-
 
 <img target="_new" title="" src="./media/designbreakdown.png" alt="" style="width:6.25in;height:4.6875in">
 
@@ -147,16 +148,17 @@ requirements and options. Then narrow down to what is needed via a set of views 
 
 *Figure 5 Architecture Landscape 3*
 
+### Options Come From Breadth and Depth
+
+The options to meet a requirement come from 4 primary areas which represent the 
+
 ## Don’t Mistake Desires or Biases for Design
 
 The process of design is rigorous and must be followed with extreme care, especially where a desired technology or design outcome is already in place. This happens because of cognitive bias or because of a desire ‘modern’ architecture. This notion of a modern architecture is itself a kind of cognitive bias where one assumes a set of design choices based on a perception of what is latest and most advanced in the design options space. According to the BTABoK there is no such thing as a ‘modern’ architecture or design, there are simply design patterns and styles which are more or less suited for solving the design challenges at hand. It is essential that the architect trace each design outcome (decision) to a requirement, a principle, or an objective to prove their use in the final system.
 
-
 <img target="_new" title="" src="./media/structuredcanvases.png" alt="" style="width:6.25in;height:4.6875in">
 
-
 <img src="./media/structuredcanvases.png" style="width:6.5in;height:3.65625in" />
-
 
 Figure 6 Ensuring Design Matches Objectives
 
