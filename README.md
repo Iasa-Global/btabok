@@ -12,26 +12,26 @@ The gitpages version of the site is here: https://iasa-global.github.io/btabok/
 
 The BTABoK repository includes all of the main content for the BTABoK. It is navigable in the same way as the primary BTABoK site.
 
-1.  The Engagement Model - includes the articles related to building and managing an architecture practice.
-    1.  While we are experimenting we have uploaded this articles
-        1.  [**Design**](./Design.md)
-        2.  [**Requirements**](./requirements.md)
-        3.  [**Requirements Modeling**](./requirements_modeling.md)
-        4.  [**Architecture Pattern Repository**](./architecture_pattern_repository.md)
-    2.  The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor.
-2.  The Competency Model - includes the articles related to architecture competencies
-3.  The Maturity Model - includes the articles related to understanding architecture practice maturity
-4.  Lists of useful tools
-    1.  The BTABoK is capturing many useful tools in addition to the canvases. For example, it includes a pattern library, where we hope to store all of the useful patterns which are vendor neutral. Feel free to add to these libraries where useful.
+1. The Engagement Model - includes the articles related to building and managing an architecture practice.
+   1. While we are experimenting we have uploaded this articles
+      1. [**Design**](./Design.md)
+      2. [**Requirements**](./requirements.md)
+      3. [**Requirements Modeling**](./requirements_modeling.md)
+      4. [**Architecture Pattern Repository**](./architecture_pattern_repository.md)
+   2. The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor.
+2. The Competency Model - includes the articles related to architecture competencies
+3. The Maturity Model - includes the articles related to understanding architecture practice maturity
+4. Lists of useful tools
+   1. The BTABoK is capturing many useful tools in addition to the canvases. For example, it includes a pattern library, where we hope to store all of the useful patterns which are vendor neutral. Feel free to add to these libraries where useful.
 
 ## Roadmap
 
 The plan is to have version 3.0 as the main branch by the end of the summer. From hear we will create a new branch for 4.0 which we expect to freeze next summer. The goals of 4.0 are to
 
--   rework and modernize the competency model
--   develop a further connection with engineering and other architect partners
--   create a complete set of deliverables using the btabok
--   complete the patterns library and other libraries of the btabok
+- rework and modernize the competency model
+- develop a further connection with engineering and other architect partners
+- create a complete set of deliverables using the btabok
+- complete the patterns library and other libraries of the btabok
 
 ## Committers and Editors
 
@@ -43,11 +43,11 @@ The BTABoK is designed with a theme, linking and embedding primarily targeted at
 
 The major elements of the guidelines include
 
--   How to write BTABoK Articles – Writing Guidelines (separate link)
--   Markdown Editors – The committers primarily use MarkText or Word with an addon called Writage (<https://www.writage.com/>). However as long as it is valid markdown using simple formatting it is up to the author what to use.
--   Images – standard images should be stored in the media folder in png format. The images must be licensed for free use or created by the author of the article and express permissions put in the GitHub ‘add’ comments. This frees us from concern over image licensing issues.
--   Canvases – canvases and cards should be stored in two primary formats – ppt and SVG. This makes the editing of canvases relatively easy for anyone in the world as well as making them usable to architects doing presentations. These should be stored in media/canvases for the SVG files and media/files for the ppt files (the SVG files are considered the master copy).
--   Linking – linking should always be relative within the BTABoK as the files are published to gitpages. However, the goal is to convert these to published files on the official WordPress pages as well. This will be covered in a separate section.
+- How to write BTABoK Articles – Writing Guidelines (separate link)
+- Markdown Editors – The committers primarily use MarkText or Word with an addon called Writage (<https://www.writage.com/>). However as long as it is valid markdown using simple formatting it is up to the author what to use.
+- Images – standard images should be stored in the media folder in png format. The images must be licensed for free use or created by the author of the article and express permissions put in the GitHub ‘add’ comments. This frees us from concern over image licensing issues.
+- Canvases – canvases and cards should be stored in two primary formats – ppt and SVG. This makes the editing of canvases relatively easy for anyone in the world as well as making them usable to architects doing presentations. These should be stored in media/canvases for the SVG files and media/files for the ppt files (the SVG files are considered the master copy).
+- Linking – linking should always be relative within the BTABoK as the files are published to gitpages. However, the goal is to convert these to published files on the official WordPress pages as well. This will be covered in a separate section.
 
 ## Additional Help Needed
 
