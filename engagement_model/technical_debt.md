@@ -189,9 +189,7 @@ so organizations are actively managing it then. Actually, they are not,
 Carnegie Mellon surveyed 1800 organizations, it can be seen in the chart
 below that 65% had no standard approach to dealing with technical debit.
 
- 
-
-(Do we have a reference for this chart?)
+(Do we have a reference for this chart? or a )
 
 The different types of technical debt need to be managed in different
 ways, by different levels in the organization:
@@ -221,8 +219,6 @@ ways, by different levels in the organization:
 
 Managing technical debt is not easy and depends on the organizational
 context, but there are some activities which can help.
-
- 
 
 ## Measuring Technical Debt
 
