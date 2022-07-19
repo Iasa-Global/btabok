@@ -84,7 +84,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://btabok.iasaglobal.org/wp-content/uploads/2022/01/ITABoK_graphic_small50x50.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -161,7 +161,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/img/favicons
+      path: https://btabok.iasaglobal.org/wp-content/uploads/2022/01/ITABoK_graphic_small50x50.png # assets/img/favicons
     values:
       swcache: true
   - scope:
