@@ -21,7 +21,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: BTABoK                          # the main title
+title: BTABoK # the main title
 
 tagline: Business Technology Architecture Body of Knowledge   # it will display as the sub-title
 
@@ -30,7 +30,7 @@ description: >-                        # used by seo meta and the atom feed
   developed from the experience of individual and corporate members of Iasa, the world’s largest IT architecture professional organization.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://iasa-global.github.io'
 
 github:
   username: github_username             # change to your github username
