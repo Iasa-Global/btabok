@@ -22,7 +22,7 @@ timezone: America/Chicago
 # ↓ --------------------------
 
 title: BTABoK                          # the main title
-
+ 
 tagline: Business Technology Architecture Body of Knowledge   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
