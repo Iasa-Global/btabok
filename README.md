@@ -2,7 +2,7 @@
 
 ## Whats inside BTABoK?
 
-* Defining the IT Architect Profession – What is an IT architect? We provide industry reference models for architects skills and competencies backed by international certifications.
+* Defining the BT Architect Profession – What is an BT architect? We provide industry reference models for architects skills and competencies backed by international certifications.
 
 ## What you should know before you read the BoK
 

@@ -138,6 +138,11 @@ collections:
   tabs:
     output: true
     sort_by: order
+  engagement_model:
+    output: true
+    sort_by: order
+
+  
 
 defaults:
   - scope:
