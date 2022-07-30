@@ -13,7 +13,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Products
+    - title: BTABoK
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
