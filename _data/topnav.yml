@@ -12,28 +12,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: BTABoK
-        folderitems:
-         - title: Getting Started
-            url: /XYZ.html
-          - title: Manifesto
-            url: /XYZ.html
-          - title: Engagemente Model
-            url: /XYZ.html
-          - title: Competency Model
-            url: /XYZ.html
-          - title: Maturity Model
-            url: /XYZ.html
-          - title: Topic Areas
-            url: /XYZ.html
-          - title: Structured Canvases
-            url: /XYZ.html
-          - title: Ethical Practice
-            url: /XYZ.html
-          - title: Reference Dictionary
-            url: /XYZ.html
-          - title: Contributors
-            url: /XYZ.html
+    
 
     #- title: Jekyll Help
      # folderitems:
