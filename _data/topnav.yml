@@ -15,11 +15,11 @@ topnav_dropdowns:
   folders:
     - title: BTABoK
       folderitems:
-        - title: Jekyll Documentation Theme
+        - title: Getting Started
           url: /mydoc_introduction.html
-        - title: Product 1
+        - title: Manifesto
           url: /p1_landing_page.html
-        - title: Product 2
+        - title: Engagemente Model
           url: /p2_landing_page.html
 
 # Copyright 2022 Google LLC
