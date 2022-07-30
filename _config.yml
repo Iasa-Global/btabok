@@ -107,7 +107,7 @@ sidebars:
 - other
 - engagement_model
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "The Business Technology Architecture Body of Knowledge (Btabok) is a free public archive of IT architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest IT architecture professional organization."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
