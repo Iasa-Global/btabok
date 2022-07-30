@@ -25,7 +25,7 @@ The BTABoK repository includes all of the main content for the BTABoK. It is nav
 
 1. The Engagement Model - includes the articles related to building and managing an architecture practice.
    1. While we are experimenting we have uploaded this articles
-      1. [**Design**](./Design.md)
+      1. [**Design**](./Design.md) 
       2. [**Requirements**](./requirements.md)
       3. [**Requirements Modeling**](./requirements_modeling.md)
       4. [**Architecture Pattern Repository**](./architecture_pattern_repository.md)
