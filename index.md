@@ -64,6 +64,5 @@ The major elements of the guidelines include
 
 We are also looking for committers to help develop and extend the functionality of the site. For example, we would like to commit
 
-### 
 
 {% include links.html %}
