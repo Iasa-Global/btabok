@@ -64,7 +64,6 @@ entries:
           url: /XYZ.html
           output: web
 
-      subfolders:
       - title: Human Dynamics
         output: web
         subfolderitems:
