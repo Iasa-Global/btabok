@@ -51,6 +51,16 @@ entries:
     output: web, pdf
     folderitems:
 
+      subfolders:
+      - title: Business Technology Strategy (BTS)
+        output: web
+        subfolderitems:
+
+        - title: Business Fundamentals
+          url: /XYZ.html
+          output: web
+
+
 # Maturity Model
 
   - title: Maturity Model
