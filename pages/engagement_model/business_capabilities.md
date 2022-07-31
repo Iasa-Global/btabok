@@ -1,8 +1,6 @@
 ---
 title: Business Capabilities
-tags: 
-  - business
-  - capabilities
+tags: [getting_started, troubleshooting]
 keywords:
 summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
 sidebar: mydoc_sidebar
