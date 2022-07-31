@@ -25,8 +25,7 @@ very different from designing any other complex structure: Few people
 are good at it; no single recipe always produces a good product; and the
 more people involved, the smaller the probability of success.” This refers to the difficulty of representing human systems in technical arenas. Architecture design is difficult because it requires both broad and deep knowledge and crosses many areas of domain knowledge in addition to the base difficulties in design itself. 
 
-Design happens no matter how a project/product (btabok link) is organized. If it doesn’t
-happen in its own “phase,” it happens when a team is in the middle of code
+Design happens no matter how a project/product (btabok link) is organized. If it doesn’t happen in its own “phase,” it happens when a team is in the middle of code
 and encounter an unexpected condition they need to handle. Whenever it
 happens, it needs to be done deliberately. The documents that result
 from “big up-front” design are not the design, they are a representation
@@ -97,7 +96,7 @@ Design can be said to be the primary job of architects, though that carries sign
 
 # Design Approach
 
-## Design is the Process of Making Decisions ()
+## Design is the Process of Making Decisions
 
 The most important part of design are the decisions that are made how those decisions are made. There are three elements that are essential in this process:
 
@@ -308,7 +307,7 @@ The process seeks to bring together what is desired of a solution with what is t
 In most modern projects, it is not sufficient to be a good designer. Design and engineering are partnered as they struggle with competing goals, requirements, and constraints. Henry Petroski makes the distinction clear: “What distinguishes the engineer from the technician\[or designer\] is largely the ability to formulate and carry out the detailed calculations of forces and deflections, concentrations and flows, voltages and currents, that are required to test a proposed design on paper with regard to failure criteria.” Applied to software, the difference between engineering it and “merely” designing it is the ability to test the proposed design against various criteria, including failure modes, before code exists to test. This extra effort doesn’t add much difficulty to the task, nor does it take very long. Over time, the teams learn to apply it to only those design decisions you haven’t made before or don’t understand well.
 
 
-![Figure_6](media/design/healthytension.png)
+>![Figure_6](media/design/healthytension.png)
 
 >Figure 7 Healthy Tension
 

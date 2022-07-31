@@ -1,11 +1,11 @@
 ---
 title: Requirements
-tags: [business_capabilities, business]
+tags: [requirements]
 keywords:
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+summary: "Requirements are recognized and developed throughout the entire portfolio of the enterprise."
 sidebar: mydoc_sidebar
 permalink: requirements.html
-folder: competency_model
+folder: btabok
 ---
 
 > “The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems.”
@@ -20,7 +20,7 @@ Requirements are recognized and developed throughout the entire portfolio of the
 
 For the purpose of the BTABoK, all thinking, ideas and desires about a business or technology system can be characterized as requirements, though depending on the full engagement model in use by an organization they may be called other names and use other format.
 
-![](media/ASR01.png)
+![Figure_1](media/requirements/ASR01.png)
 
 ## Description
 
