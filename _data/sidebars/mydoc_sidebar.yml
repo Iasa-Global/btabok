@@ -51,17 +51,17 @@ entries:
     output: web
     folderitems:
 
-  - title: Tag archives
-    output: web
-    folderitems:
+    - title: Get Started
+      url: /XYZ.html
+      output: web
 
       subfolders:
-      - title: Tag archive pages
+      - title: Business Technology Strategy (BTS)
         output: web
         subfolderitems:
 
-        - title: Formatting pages
-          url: /tag_formatting.html
+        - title: Business Fundamentals
+          url: /XYZ.html
           output: web
 
 
