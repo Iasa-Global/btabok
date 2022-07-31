@@ -1,107 +1,121 @@
-title: "BTABoK"
+repository: Iasa-Global/btabok
 
-#remote
-remote_theme: just-the-docs/just-the-docs
+output: web
+# this property is useful for conditional filtering of content that is separate from the PDF.
 
-# Regression tests
-# By default, the pages in /docs/tests are excluded when the ste is built.
-# To include them, comment-out the relevant line above.
-# Uncommenting the following line doesn't work - see https://github.com/jekyll/jekyll/issues/4791
-# include: ["docs/tests/"]
+topnav_title: IASA - BTABoK
+# this appears on the top navigation bar next to the home button
 
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/btabok_logo.jpg"
+site_title: IASA - BTABoK
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
+company_name: IASA
+# this appears in the footer
 
-# Enable or disable heading anchors
-heading_anchors: true
+github_editme_path: Iasa-Global/btabok
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# Aux links for the upper right navigation
-aux_links:
-  "IASA Global":
-    - "//iasaglobal.org"
+# gitlab_editme_path: Iasa-Global/btabok
+# if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-# Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+google_analytics: 
+# if you have google-analytics ID, put it in. if not, edit this value to blank.
 
-# Sort order for navigation links
-# nav_sort: case_insensitive # default, equivalent to nil
-nav_sort: case_sensitive # Capital letters sorted before lowercase
+host: 127.0.0.1
+# the preview server used. Leave as is.
 
-# Footer content
-# appears at the bottom of every page's main content
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
 
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
+exclude:
+  - .idea/
+  - .gitignore
+  - vendor
+# these are the files and directories that jekyll will exclude from the build
 
-footer_content: "Copyright &copy; 2022 IASA. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a> <a href=\"https://www.netlify.com/\">This site is powered by IASA.</a>"
+feedback_subject_line: IASA - BTABoK
 
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+feedback_email: iasa@iasa.com
+# used as a contact email for the Feedback link in the top navigation bar
 
+# feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
 
+# feedback_text: "Need help?"
+# if you uncomment the previous line, it changes the Feedback text
 
-# Footer "Edit this page on GitHub" link text
-gh_edit_link: false # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
-gh_edit_branch: "main" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+# feedback_link: "http://helpy.io/"
+# if you uncomment the previous line, it changes where the feedback link points to
 
-# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+highlighter: rouge
+# library used for syntax highlighting
 
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: 
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
-
-plugins:
-  - jekyll-seo-tag
-
+markdown: kramdown
 kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+ syntax_highlighter: rouge
 
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  startings: []
-  blanklines: false
-  profile: false
-  # ignore:
-  #   envs: all
+# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
-#children
-has_children: true
+collections:
+  tooltips:
+    output: false
+# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      sidebar: home_sidebar
+      topnav: topnav
+  -
+    scope:
+      path: ""
+      type: "tooltips"
+    values:
+      layout: "page"
+      search: true
+      tooltip: true
+
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
+      search: true
+      sidebar: home_sidebar
+      topnav: topnav
+
+# these are defaults used for the frontmatter for these file types
+
+sidebars:
+- home_sidebar
+- mydoc_sidebar
+- product1_sidebar
+- product2_sidebar
+- other
+- engagement_model
+
+description: "The Business Technology Architecture Body of Knowledge (Btabok) is a free public archive of IT architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest IT architecture professional organization."
+# the description is used in the feed.xml file
+
+# needed for sitemap.xml file only
+# url: http://idratherbewriting.com
+# baseurl: /documentation-theme-jekyll
+
+
+github: [metadata]
+
+
+# Copyright 2021 Google LLC

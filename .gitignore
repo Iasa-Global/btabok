@@ -1,5 +1,8 @@
 _site/
 .sass-cache/
-.jekyll-cache/
 .jekyll-metadata
-docs/engagement-model/views.md.backup
+_pdf
+.DS_Store
+.idea
+vendor/
+.bundle/
