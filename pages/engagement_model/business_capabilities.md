@@ -111,7 +111,6 @@ make it clear to understand how a business capability is defined.
 
 
 ![Figure_1](media/business_capabilities/bc3.png) 
-![Desktop View](media/business_capabilities/bc3.png){: width="100" height="100" }
 
 > Figure 1. The relationship between capabilities and processes[^3].
 
