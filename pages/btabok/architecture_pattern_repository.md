@@ -4,7 +4,7 @@ tags: [architecture]
 keywords:
 summary: "Developers must design clean, clearly designed code to avoid bug creep into the system, and avoid complexity."
 sidebar: mydoc_sidebar
-permalink: requirements_modeling.html
+permalink: architecture_pattern_repository.html
 folder: btabok
 ---
 
