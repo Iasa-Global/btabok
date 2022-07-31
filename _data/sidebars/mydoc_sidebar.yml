@@ -52,7 +52,7 @@ entries:
     folderitems:
 
     - title: Get Started
-      url: /XYZ.html
+      url: /get_started_cm.html
       output: web
 
       subfolders:
