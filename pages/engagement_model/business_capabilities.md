@@ -110,7 +110,7 @@ make it clear to understand how a business capability is defined.
   made to improve the capability.
 
 
-![Figure_1](media/bc3.png)
+![Figure_1](business_capabilities/media/bc3.png)
 
 > Figure 1. The relationship between capabilities and processes[^3].
 
@@ -143,15 +143,13 @@ scale where green is “good” (less investment, more maturity) and red is
 the utility of the heat map, given its confusing meaning, but they
 continue to be widely used[^4].
 
-<img src=".//media/image7.png" style="width:6.5in;height:4.15556in"
-alt="Business Capability Model Sample.png" />
+![Figure_2](business_capabilities/media/bc4.png)
 
-Figure 2 Sample capability model.
+>Figure 2 Sample capability model.
 
-<img src="./media/image5.png" style="width:6.5in;height:2.51181in"
-alt="A screenshot of a cell phone Description automatically generated" />
+![Figure_3](business_capabilities/media/bc5.png)
 
-Figure 3. Sample capability heat map.
+>Figure 3. Sample capability heat map.
 
 # Identifying Business Capabilities
 
