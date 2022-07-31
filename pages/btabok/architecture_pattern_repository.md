@@ -73,4 +73,3 @@ Pattern Types and Catalog
 | Cloud            | Infrastructure, Software, Solution | [Cloud Patterns Library](https://btabok.iasaglobal.org/btabok_3/cloud-patterns/) |
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
-
