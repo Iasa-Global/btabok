@@ -1,11 +1,11 @@
 ---
 title: Requirements Modeling
-tags: [business_capabilities, business]
+tags: [requirements]
 keywords:
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+summary: "Requirements modeling is carried out after the requirements and constraints for an area have been captured and analysed, it is an important activity to ensure the consistency and completeness of the requirements."
 sidebar: mydoc_sidebar
 permalink: requirements_modeling.html
-folder: competency_model
+folder: btabok
 ---
 
 # Description

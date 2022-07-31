@@ -1,11 +1,11 @@
 ---
 title: Architecture Pattern Repository
-tags: [business_capabilities, business]
+tags: [architecture]
 keywords:
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+summary: "Developers must design clean, clearly designed code to avoid bug creep into the system, and avoid complexity."
 sidebar: mydoc_sidebar
 permalink: requirements_modeling.html
-folder: competency_model
+folder: btabok
 ---
 
 > “All well-structured object-oriented architectures are full of patterns. Indeed, one of the ways that I measure the quality of an object-oriented system is to judge whether or not its developers have paid careful attention to the common collaborations among its objects.”
@@ -73,19 +73,4 @@ Pattern Types and Catalog
 | Cloud            | Infrastructure, Software, Solution | [Cloud Patterns Library](https://btabok.iasaglobal.org/btabok_3/cloud-patterns/) |
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
-
-
-<article class="example gallery-cols-3">
-    <figure>
-        <img src="media/1.png" alt="Image 1">
-        <figcaption>Image 1</figcaption>
-    </figure>
-    <figure>
-        <a href="http://example.com/image2_big.jpg"><img src="media/2.png" alt="Image 2">
-        <figcaption>Image 2</figcaption></a>
-    </figure>
-    <figure>
-        <img src="media/3.png" alt="">
-    </figure>
-</article>
 
