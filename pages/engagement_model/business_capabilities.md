@@ -109,7 +109,7 @@ make it clear to understand how a business capability is defined.
   These measures are used to determine when investments need to be
   made to improve the capability.
 
-> <img src="media/bc3.png" style="width:6.5in;height:3.16389in"
+> <img src="/media/bc3.png" style="width:6.5in;height:3.16389in"
 > alt="A picture containing sitting, silver Description automatically generated" />
 > 
 > Figure 1. The relationship between capabilities and processes[^3].
