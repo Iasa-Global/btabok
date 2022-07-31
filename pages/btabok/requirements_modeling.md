@@ -4,7 +4,7 @@ tags: [business_capabilities, business]
 keywords:
 summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
 sidebar: mydoc_sidebar
-permalink: get_started_cm.html
+permalink: requirements_modeling.html
 folder: competency_model
 ---
 
