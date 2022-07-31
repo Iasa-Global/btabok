@@ -51,7 +51,7 @@ entries:
     output: web, pdf
     folderitems:
 
-      subfolders:
+    subfolders:
       - title: Business Technology Strategy (BTS)
         output: web
         subfolderitems:
