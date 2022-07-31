@@ -5,11 +5,11 @@ topnav:
   items:
     - title: GitHub
       external_url: https://iasa-global.github.io/btabok/
-    - title: News
-      url: /news
+    #- title: News
+    #  url: /news
 
 #Topnav dropdowns
-#Topnav dropdowns
+
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
