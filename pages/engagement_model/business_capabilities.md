@@ -2,7 +2,7 @@
 title: Business Capabilities
 tags: [business_capabilities, business]
 keywords:
-summary: ""
+summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
 sidebar: mydoc_sidebar
 permalink: business_capabilities.html
 folder: engagement_model
