@@ -9,19 +9,14 @@
         {% include images/reddit.svg %}
       </a>
     </li>
-    <li class="hn">
-      <a href="http://news.ycombinator.com/submitlink?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&t={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include images/share-icon-hn.svg %}
-      </a>
-    </li>
     <li class="twitter">
       <a href="https://twitter.com/intent/tweet?via=iasaGlobal&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include images/share-icon-twitter.svg %}
+        {% include images/twitter.svg %}
       </a>
     </li>
     <li class="linkedin">
       <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
-        {% include images/share-icon-linkedin.svg %}
+        {% include images/linkedin.svg %}
       </a>
     </li>
   </ul>
