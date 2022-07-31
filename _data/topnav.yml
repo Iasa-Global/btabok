@@ -21,5 +21,13 @@ topnav_dropdowns:
           url: /p1_landing_page.html
         - title: Engagemente Model
           url: /p2_landing_page.html
+        - title: Competency Model
+          url: /p2_landing_page.html
+        - title: Maturity Model
+          url: /p2_landing_page.html
+        - title: Topic Areas
+          url: /p2_landing_page.html
+        - title: Structured Canvases
+          url: /p2_landing_page.html
 
 # Copyright 2022 Google LLC
