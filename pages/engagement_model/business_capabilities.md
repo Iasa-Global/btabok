@@ -406,3 +406,5 @@ improvement project or program, depending on its size.
 [^6]: Perry, Stott, and Smallwood, Real-Time Strategy: Improvising
     Team-Based Planning for a Fast-Changing World, New York, NY: Wiley,
     1993.
+
+    {% include share.html %}
