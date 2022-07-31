@@ -25,10 +25,10 @@ The BTABoK repository includes all of the main content for the BTABoK. It is nav
 
 1. The Engagement Model - includes the articles related to building and managing an architecture practice.
    1. While we are experimenting we have uploaded this articles
-      1. [**Design**](pages/design.md) 
-      2. [**Requirements**](pages/requirements.md)
-      3. [**Requirements Modeling**](pages/requirements_modeling.md)
-      4. [**Architecture Pattern Repository**](pages/architecture_pattern_repository.md)
+      1. [**Design**](pages/btabok/design.md) 
+      2. [**Requirements**](pages/btabok/requirements.md)
+      3. [**Requirements Modeling**](pages/btabok/requirements_modeling.md)
+      4. [**Architecture Pattern Repository**](pages/btabok/architecture_pattern_repository.md)
    2. The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor.
 2. The Competency Model - includes the articles related to architecture competencies
 3. The Maturity Model - includes the articles related to understanding architecture practice maturity
