@@ -110,7 +110,7 @@ make it clear to understand how a business capability is defined.
   made to improve the capability.
 
 
-![Figure_1](business_capabilities/media/bc3.png)
+![Figure_1](media/business_capabilities/bc3.png)
 
 > Figure 1. The relationship between capabilities and processes[^3].
 
@@ -143,11 +143,11 @@ scale where green is “good” (less investment, more maturity) and red is
 the utility of the heat map, given its confusing meaning, but they
 continue to be widely used[^4].
 
-![Figure_2](business_capabilities/media/bc4.png)
+![Figure_2](media/business_capabilities/bc4.png)
 
 >Figure 2 Sample capability model.
 
-![Figure_3](business_capabilities/media/bc5.png)
+![Figure_3](media/business_capabilities/bc5.png)
 
 >Figure 3. Sample capability heat map.
 
@@ -274,10 +274,9 @@ following steps have been shown to work quite well:
 
 - Identify supporting capabilities
 
-<img src="../media/bc6.png" style="width:6.5in;height:4.11319in"
-alt="A screen shot of a social media post Description automatically generated" />
+![Figure_4](media/business_capabilities/bc6.png)
 
-Figure 4. Customer journey map template.
+>Figure 4. Customer journey map template.
 
 Identify Touch Points and Value-Delivering Capabilities
 
@@ -315,10 +314,9 @@ Many capabilities, especially indirect support, may appear on more than
 one diagram. This is a good indication of shared capabilities and
 provides some clues as to how they can be organized and managed.
 
-<img src="./media/image7.png" style="width:6.5in;height:4.00417in"
-alt="A close up of a logo Description automatically generated" />
+![Figure_5](media/business_capabilities/bc7.png)
 
-Figure 5. Ishikawa or Fishbone diagram.
+>Figure 5. Ishikawa or Fishbone diagram.
 
 Table 1 shows two characteristics of support capabilities that help
 determine how they should be organized and managed. Support
