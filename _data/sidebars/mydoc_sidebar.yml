@@ -22,6 +22,7 @@ entries:
 # Getting Started
 
   - title: Getting Started
+    url: /index.html
     output: web, pdf
     folderitems:
 
