@@ -48,16 +48,15 @@ entries:
 # Competency Model
 
   - title: Competency Model
-    output: web, pdf
+    output: web
     folderitems:
 
-    subfolders:
-      - title: Business Technology Strategy (BTS)
-        output: web
-        subfolderitems:
-
-        - title: Business Fundamentals
-          url: /XYZ.html
+    - title: First Test
+      output: web, pdf
+      subfolderitems:
+      
+        - title: Formatting pages
+          url: /tag_formatting.html
           output: web
 
 
