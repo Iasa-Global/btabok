@@ -64,6 +64,15 @@ entries:
           url: /XYZ.html
           output: web
 
+      subfolders:
+      - title: Human Dynamics
+        output: web
+        subfolderitems:
+
+        - title: Managing the Culture
+          url: /XYZ.html
+          output: web
+
 
 
 # Maturity Model
