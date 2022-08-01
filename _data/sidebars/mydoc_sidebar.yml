@@ -24,6 +24,10 @@ entries:
   - title: Getting Started
     url: /index.html
     output: web, pdf
+
+    - title: Overview
+      url: /index.html
+      output: web, pdf
    
 
 # Manifesto
