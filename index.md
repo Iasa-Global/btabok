@@ -9,9 +9,13 @@ summary: The Business Technology Architecture Body of Knowledge (Btabok) is a fr
 
 {% include note.html content="This site is currently a working draft." %}
 
-## Welcome to BTABoK Pages
+## Welcome to BTABoK
 
-Welcome to the Iasa BTABoK. This is the primary source material for the BTABoK which is converted to maintain the BTABoK Wordpress Site which is our more advanced navigation and content site. The wordpress site includes many addtional tools for members of Iasa such as learning shots and examples.
+The Business Technology Architecture Body of Knowledge (BTABoK) is a free public archive of Business Technology architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest architecture professional organization.  
+
+BTABoK provides the tools and resources needed by individuals and organizations to set industry standards for professional career development and well as hiring practices and incorporation of IT architects into established or developing institutions.
+
+![](media/311ca0bebe2188ba201da0e9211ff2ddf0acacad.svg)
 
 ## Who is the BTABoK for?
 
@@ -21,19 +25,27 @@ The BTABoK was designed ground up to be a practical resource for any type of arc
 
 The gitpages version of the site is here: https://iasa-global.github.io/btabok/
 
-The BTABoK repository includes all of the main content for the BTABoK. It is navigable in the same way as the primary BTABoK site.
+<iframe width="100%" src="https://www.youtube.com/embed/aHkVyrrHbx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. The Engagement Model - includes the articles related to building and managing an architecture practice.
-   1. While we are experimenting we have uploaded this articles
-      1. [**Design**](pages/btabok/design.md) 
-      2. [**Requirements**](pages/btabok/requirements.md)
-      3. [**Requirements Modeling**](pages/btabok/requirements_modeling.md)
-      4. [**Architecture Pattern Repository**](pages/btabok/architecture_pattern_repository.md)
-   2. The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor.
-2. The Competency Model - includes the articles related to architecture competencies
-3. The Maturity Model - includes the articles related to understanding architecture practice maturity
-4. Lists of useful tools
-   1. The BTABoK is capturing many useful tools in addition to the canvases. For example, it includes a pattern library, where we hope to store all of the useful patterns which are vendor neutral. Feel free to add to these libraries where useful.
+**Defining the IT Architect Profession** – What is a BT architect? We provide industry reference models for architects skills and competencies backed by international certifications.
+
+**Utilization & Engagement of IT Architects** – How are IT architects utilized within organizations and what are the interaction models between them and their clients or employers?
+
+**Career Pathway** – Describes the standard career path of an architect including specializations and career achievement milestones.
+
+## Overview
+
+The Business Technology Architecture Body of Knowledge (BTABoK) has been developed from the experience and practice of individual and corporate members.
+
+In addition to being a reference, a knowledge base and a list of professional capabilities, the BTABoK is meant to be essential in implementing an architecture practice within an organization, without significant changes to other standards, roles, practices and lifecycles. An architecture practice provides high levels of value in both business and technical strategy, and that value can be measured as a contribution to the organization. Architecture is appropriate and essential for extremely small businesses, as well as, the largest businesses in the world, including non-profit, government, and defense.
+
+The BTABoK is first and foremost intended for individual practicing architects, though it does include significant portions dedicated to organizational excellence. It is meant as a people framework as opposed to a process, methodology or standard. It is meant to be the living body of knowledge for the practice of an architect attempting to fulfill their duty to their customer or employer. While Iasa includes corporate examples and concerns, the BTABoK must be useful by the independent practitioner and must assume that a single architect is as important as a group of architects. In addition, the BTABoK must be consistent and useful at any degree of scale, regardless of the number of architects involved in the endeavor, whether that be the delivery of a global fortune 100 business strategy or the delivery of a single solution for a small business.
+
+The BTABoK is inclusive of all specializations, sub-specializations and career levels of the architect profession. Although the title includes the terms information technology, the content has been written by keeping business, enterprise, solutions, software, information and infrastructure architects and their derivations in mind. Practitioners from each of these specializations continue to help in the development and maintenance of the body of knowledge.
+
+## What is Architecture
+
+As the favorite topic of architects everywhere, what is architecture and what are architects is central to the theme of the BTABoK. Read the [What is Architecture Article](../btabok/what_is_architecture.md). 
 
 ## Roadmap
 
@@ -41,12 +53,12 @@ The plan is to have version 3.0 as the main branch by the end of the summer. Fro
 
 - rework and modernize the competency model
 - develop a further connection with engineering and other architect partners
-- create a complete set of deliverables using the btabok
-- complete the patterns library and other libraries of the btabok
+- create a complete set of deliverables using the BTABoK
+- complete the patterns library and other libraries of the BTABoK
 
 ## Committers and Editors
 
-The BTABoK is the only truly open source and maintained body of knowledge for architects. As an open source bok anyone can do a pull request after fixing or suggesting changes to the bok or adding material. The committers on the project are a group of board certified architects who have worked very hard to create the body of knowledge. They will determine what pull requests get included into the bok. To become a committer you will have to have a large number of successful pull requests and have a discussion with the committer team.
+The BTABoK is the only truly open source and maintained body of knowledge for architects. As an open source BoK anyone can do a pull request after fixing or suggesting changes to the BoKor adding material. The committers on the project are a group of board certified architects who have worked very hard to create the body of knowledge. They will determine what pull requests get included into the bok. To become a committer you will have to have a large number of successful pull requests and have a discussion with the committer team.
 
 ### BTABoK Editing Guidelines
 
@@ -62,7 +74,6 @@ The major elements of the guidelines include
 
 ## Additional Help Needed
 
-We are also looking for committers to help develop and extend the functionality of the site. For example, we would like to commit
-
+We are also looking for committers to help develop and extend the functionality of the site. For example, we would like to commit automatically to wordpress from this site so that it is always up to date. 
 
 {% include links.html %}
