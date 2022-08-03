@@ -21,10 +21,9 @@ entries:
 
 # Getting Started
 
-  - title: Getting Started
-    url: /index.html
-    output: web, pdf
-   
+  - title: Get Started
+    url: /get_started_cm.html
+    output: web
 
 # Manifesto
 
@@ -51,10 +50,6 @@ entries:
   - title: Competency Model
     output: web
     folderitems:
-
-    - title: Get Started
-      url: /get_started_cm.html
-      output: web
 
       subfolders:
       - title: Business Technology Strategy (BTS)
