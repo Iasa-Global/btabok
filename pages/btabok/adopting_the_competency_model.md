@@ -14,7 +14,7 @@ One of the most impactful elements of an architecture practice is its size. The 
 
 The BTABoK Competency Model describes the critical competencies of all architects. It is based on similar efforts in medicine, building architecture, and other professions. The BTABoK is unique in the industry as it creates an obvious value proposition for architects, builds specializations on top of a shared body of knowledge and set of competencies, and is entirely independent of particular implementations, techniques, and frameworks. In addition, the BTABoK Competency Model is adaptable to special areas of knowledge specific to a particular architecture specialization, technique, or even technologies and architecture style.
 
-![](../media/2022-07-06-16-45-08-image.png)
+![](../../media/62cd1b533bf5eedb67a66ad2c25a46f44edce7e0.jpg)
 
 The competency model is broken out into the following concepts.
 
@@ -92,7 +92,7 @@ The BTABoK does not recognize these as specializations as they either refer to S
 
 To understand how to deal with Scope (link) and domain (which is a scope in BTABoK) as a title it is important to understand the relationship between scope and seniority. For example, in medicine, while a chief of medicine oversees and mentors less senior (with lower levels of competency) doctors, they still very much see patients. It is important when using scope as a distinguishing factor in titles that the higher levels of scope do not result in loss of competencies and loss of active architecture experience. The hierarchical relationship between enterprise architects and solution architects is seen as an anti-pattern. Instead, the BTABoK recommends the use of chief architect or principal architect titles to represent seniority, and scope is applied to specialization or domain area. Principe Software Architect for 'Domain Area' for example.
 
-![](../media/scope_role.png "Scope Role Patterns")
+![](../../media/cb96aaadc19c44f216750697715d7da3bcbf3a71.jpg "Scope Role Patterns")
 
 ## Decide Specializations
 
@@ -108,7 +108,7 @@ HR Levels are those internal markers for achieving new pay grades, seniority, or
 
 Most organizations use a numerical model for employee level. This method is common across industries to handle compensation, benefits, and other aspects of roles and jobs. The architect's career path most resembles that of other professionals and should include an understanding of how the internal levels map to the external levels.
 
-![](../media/2022-07-06-16-27-23-image.png)
+![](../../media/116629556b2657e16f0fa361b28368b178be2491.jpg)
 
 It is possible to have multiple HR Levels mapped to a single external certification level. For example, the CITA-Professional level may be augmented with a Principle Architect level inside the company. This mapping should be relatively easy to accomplish.
 
@@ -139,10 +139,49 @@ Most organizations use a numerical model for employee level. This method is stan
 
 There is a significant difference between managing an architect and seeing a demonstration of their competencies at different career levels. The demonstration of competencies cannot be measured by non-professionals easily. Thus, other professions have a manager role and a mentor or advisor role in managing professionals. The manager is responsible for the day-to-day activities and assignments of the professional, while the mentor is responsible for identifying competencies, reviewing progress, and signing off on career milestones. Thus, the professional is able to work effectively for the organization through its management function, but career progression requires signed of demonstration of excellence. 
 
+The Iasa Mentoring Method was designed based on similar programs used by the [American Institute of Architects ]([Making_Mentoring_Work.pdf (catalyst.org)](https://www.catalyst.org/wp-content/uploads/2019/01/Making_Mentoring_Work.pdf)). The program directly separates the concept of management from mentor(s). This allows the greatest flexibility in how architects are deployed throughout the organization while also optimizing their career advancement to the benefit of the client and employer. The basic structure of mentoring follows a few major rules:
+
+1. Architects cannot progress without reviewed outputs from one or more qualified mentors (qualification may be based on career level or certification levels).
+
+2. Managers are responsible for the day-to-day assignments and tasks but are required to ensure opportunity for broad skill development is in place for all architects. 
+
+3. Mentors/mentees meet regularly (frequency determined by internal architecture practice standards). 
+
+4. Mentors are available to support the delivery of tasks that extend beyond the architects current skill level, or mentees are given time to work on these tasks with a mentor. 
+
+5. The promotion of architects beyond critical milestones must include mentor support for the promotion and must be documented by the mentor as to their experience with the mentee. Both mentee and mentor are held  accountable for this growth. 
+
+![](../../media/2e6b8cd826537a731834c9f70e96dfda26d9714e.jpg)
+
 ## Growing Competencies
 
-The ultimate goal of the competency model is helping to ensure that individual architects are prepared to do the job at the correct level and are able to grow their competencies without undue risk to the organization and to projects.
+The ultimate goal of the competency model is helping to ensure that individual architects are prepared to do the job at the correct level and are able to grow their competencies. However as each of the pillars has numerous competencies and architects often grow different competencies at different rates, the BTABoK uses a total average for the pillar to determine the individuals overall professional level. 
+
+
+
+**THE FOLLOWING NUMBERS ARE FOR DEMONSTRATION ONLY. A FULL VERSION WILL BE AVAILABLE SOON**
+
+We match the total estimate of each pillar to the number of competencies it contains. BTS (business technology strategy)  So a professional level architect would need an overall recommended skill level at BTS of 26+. While at first this seems complicated it is actually very easy to manage through online personal and peer assessments. In addition the mentoring program actually documents the particular skill growth areas and their demonstrations so each step can be backed up by real world work. 
+
+| Capability                                    | Foundation | Associate | Professional | Distinguished |
+| --------------------------------------------- | ---------- | --------- | ------------ | ------------- |
+| Business Technology Strategy                  | 6          | 17        | 26           | 33            |
+| IT Environment                                |            |           |              |               |
+| Design Skills                                 |            |           |              |               |
+| Human Dynamics                                |            |           |              |               |
+| Quality Attributes                            |            |           |              |               |
+| Specialization Skills (Choose<br> 1 Category) |            |           |              |               |
+| Software Architecture                         |            |           |              |               |
+| Infrastructure Architecture                   |            |           |              |               |
+| Business Architecture                         |            |           |              |               |
+| Information Architecture                      |            |           |              |               |
 
 ## Managing a Hiring Program
 
-To effectively hire architects using this competency model is significantly easier and more cost-effective than current methods. The individual may show external validation from mentors/managers as to their competency evaluation using any number of tools and showing that the individual performed those task to the external level indicated on their 
+To effectively hire architects using this competency model is significantly easier and more cost-effective than current methods. The individual may show external validation from mentors/managers as to their competency evaluation using any number of [tools ](https://assessments.iasaglobal.org) and showing that the individual performed those task to the external level indicated on their assessment through mentor assessments using the Iasa mentoring method. 
+
+Using the external reference points of a structured competency model with supporting certifications, training and degrees is a part of the maintenance that the BTABoK provides to hiring managers. For example, the CITA-P board certification, is an extremely rigorous process that a potential architect can achieve through Iasa. It is also based fully on the competency model and the ethical standards of Iasa. Thus much of the evaluation of a potential candidate can be focused primarily on culture fit, specific areas of focus (such as industry or particular business domains or other relevant topics), saving the hiring company many hundreds of hours of interviews with potential candidates. 
+
+# References
+
+[AXP resources - AIA](https://www.aia.org/pages/2661-idp-resources)
