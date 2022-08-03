@@ -25,7 +25,7 @@ The BTABoK was designed ground up to be a practical resource for any type of arc
 
 The gitpages version of the site is here: https://iasa-global.github.io/btabok/
 
-<iframe width="100%" src="https://www.youtube.com/embed/aHkVyrrHbx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="640" src="https://www.youtube.com/embed/aHkVyrrHbx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Defining the IT Architect Profession** – What is a BT architect? We provide industry reference models for architects skills and competencies backed by international certifications.
 
