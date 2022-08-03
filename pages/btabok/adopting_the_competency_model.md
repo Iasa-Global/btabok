@@ -161,11 +161,11 @@ The ultimate goal of the competency model is helping to ensure that individual a
 
 **THE FOLLOWING NUMBERS ARE FOR DEMONSTRATION ONLY. A FULL VERSION WILL BE AVAILABLE SOON**
 
-We match the total estimate of each pillar to the number of competencies it contains. BTS (business technology strategy)  So a professional level architect would need an overall recommended skill level at BTS of 26+. While at first this seems complicated it is actually very easy to manage through online personal and peer assessments. In addition the mentoring program actually documents the particular skill growth areas and their demonstrations so each step can be backed up by real world work. 
+We match the total estimate of each pillar to the number of competencies it contains. BTS (business technology strategy) contains 10 competencies. We estimate that the architect needs to be a level 3 (professional) at around 2/3 or more of them. It is unheard of for an architect to be an equal level at every competency in a pillar. So a professional level architect would need an overall recommended skill level at BTS of 21+. While at first this seems complicated it is actually very easy to manage through online personal and peer assessments. In addition the mentoring program actually documents the particular skill growth areas and their demonstrations so each step can be backed up by real world work. 
 
 | Capability                                    | Foundation | Associate | Professional | Distinguished |
 | --------------------------------------------- | ---------- | --------- | ------------ | ------------- |
-| Business Technology Strategy                  | 6          | 17        | 26           | 33            |
+| Business Technology Strategy                  | 7+         | 14+       | 21+          | 28+           |
 | IT Environment                                |            |           |              |               |
 | Design Skills                                 |            |           |              |               |
 | Human Dynamics                                |            |           |              |               |
