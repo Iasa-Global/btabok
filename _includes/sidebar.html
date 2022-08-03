@@ -58,9 +58,10 @@
 <script>$("li.active").parents('li').toggleClass("active");</script>
 
 <ul>
-{% for element in site.engagement_model %}
-  <li><a href="{{ element.url }}">
-      {{ element.title }}
+{% for modelelement in site.engagement_model %}
+  <li>Test Item</li>
+  <li><a href="{{ modelelement.url }}">
+      {{ modelelement.title }}
     </a></li>
 {% endfor %}
 </ul>
