@@ -14,7 +14,7 @@ One of the most impactful elements of an architecture practice is its size. The 
 
 The BTABoK Competency Model describes the critical competencies of all architects. It is based on similar efforts in medicine, building architecture, and other professions. The BTABoK is unique in the industry as it creates an obvious value proposition for architects, builds specializations on top of a shared body of knowledge and set of competencies, and is entirely independent of particular implementations, techniques, and frameworks. In addition, the BTABoK Competency Model is adaptable to special areas of knowledge specific to a particular architecture specialization, technique, or even technologies and architecture style.
 
-![](../../media/62cd1b533bf5eedb67a66ad2c25a46f44edce7e0.jpg)
+<img src="../../media/62cd1b533bf5eedb67a66ad2c25a46f44edce7e0.jpg" title="" alt="" width="661">
 
 The competency model is broken out into the following concepts.
 
@@ -92,7 +92,7 @@ The BTABoK does not recognize these as specializations as they either refer to S
 
 To understand how to deal with Scope (link) and domain (which is a scope in BTABoK) as a title it is important to understand the relationship between scope and seniority. For example, in medicine, while a chief of medicine oversees and mentors less senior (with lower levels of competency) doctors, they still very much see patients. It is important when using scope as a distinguishing factor in titles that the higher levels of scope do not result in loss of competencies and loss of active architecture experience. The hierarchical relationship between enterprise architects and solution architects is seen as an anti-pattern. Instead, the BTABoK recommends the use of chief architect or principal architect titles to represent seniority, and scope is applied to specialization or domain area. Principe Software Architect for 'Domain Area' for example.
 
-![](../../media/cb96aaadc19c44f216750697715d7da3bcbf3a71.jpg "Scope Role Patterns")
+<img src="../../media/cb96aaadc19c44f216750697715d7da3bcbf3a71.jpg" title="" alt="" width="661">
 
 ## Decide Specializations
 
@@ -108,7 +108,7 @@ HR Levels are those internal markers for achieving new pay grades, seniority, or
 
 Most organizations use a numerical model for employee level. This method is common across industries to handle compensation, benefits, and other aspects of roles and jobs. The architect's career path most resembles that of other professionals and should include an understanding of how the internal levels map to the external levels.
 
-![](../../media/116629556b2657e16f0fa361b28368b178be2491.jpg)
+<img src="../../media/116629556b2657e16f0fa361b28368b178be2491.jpg" title="" alt="" width="661">
 
 It is possible to have multiple HR Levels mapped to a single external certification level. For example, the CITA-Professional level may be augmented with a Principle Architect level inside the company. This mapping should be relatively easy to accomplish.
 
@@ -151,7 +151,7 @@ The Iasa Mentoring Method was designed based on similar programs used by the [Am
 
 5. The promotion of architects beyond critical milestones must include mentor support for the promotion and must be documented by the mentor as to their experience with the mentee. Both mentee and mentor are held  accountable for this growth. 
 
-![](../../media/2e6b8cd826537a731834c9f70e96dfda26d9714e.jpg)
+<img src="../../media/2e6b8cd826537a731834c9f70e96dfda26d9714e.jpg" title="" alt="" width="661">
 
 ## Growing Competencies
 
