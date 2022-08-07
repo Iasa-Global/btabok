@@ -64,7 +64,6 @@ collections:
     output: false
   engagements:
     output: true
-
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
   
 defaults:

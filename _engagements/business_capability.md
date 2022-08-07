@@ -1,11 +1,9 @@
 ---
-title: Business Capabilities
+title: Business Capability
 tags: [business_capabilities, business]
 keywords:
 summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
-sidebar: mydoc_sidebar
-permalink: business_capabilities.html
-folder: engagement_model
+
 ---
 
 # Why do we need to think Business Capabilities?
