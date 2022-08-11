@@ -1,4 +1,3 @@
-
 # What is a View
 
 "what you can see from a particular place, or the ability to see from a
@@ -14,7 +13,6 @@ the views.
 Views and Viewpoints are a fundamental part of architecture work, and
 are included in many books or courses which teach architecture.  
 
-
 They must be important, so why do they exist? Basically, they provide a
 structured approach to think about and describe an architecture, so
 let\'s think about that a little bit.  
@@ -28,20 +26,20 @@ interest in the features of the car, some need to understand how the car
 works in different ways or provide input in to how it should behave.
 These include: 
 
--   **People who use the car** -- these are probably the main
-    stakeholders, and include drivers and passengers. They need to have
-    features which allow them to control the car and make driving
-    easier, such as cruise control and ABS. 
+- **People who use the car** -- these are probably the main
+  stakeholders, and include drivers and passengers. They need to have
+  features which allow them to control the car and make driving
+  easier, such as cruise control and ABS. 
 
--   **People who service the car** -- mechanics need technical
-    descriptions of the inner workings and specifications of service
-    procedures 
+- **People who service the car** -- mechanics need technical
+  descriptions of the inner workings and specifications of service
+  procedures 
 
--   **People who sell the car** -- salesmen need the facts and figures
-    available in a way that will tempt the customer to buy the car 
+- **People who sell the car** -- salesmen need the facts and figures
+  available in a way that will tempt the customer to buy the car 
 
--   **Fuel stations or charging providers** -- these are interested in
-    the demand for their products and how they will be delivered 
+- **Fuel stations or charging providers** -- these are interested in
+  the demand for their products and how they will be delivered 
 
 In the car example there are many more groups with specific interest,
 but these are perhaps the main stakeholders. All of these people are
@@ -84,9 +82,9 @@ Views are the primary method for communicating an architecture to both architect
 
 Using models (and modelling tools) rather than static diagrams to design an architecture provides distinct advantages in creating views. Since the views are connected to the model, changes in the model can be will be reflected immediately in any views. This provides the architect with a very useful way to assess the impact of change. Changes can be made to the model and impact on the architecture views can be analysed togther with the different stakeholders.
 
-# The Origins of Views and Viewpoints 
+# The Origins of Views and Viewpoints
 
-**<u>COMMENT:SD:</u> _We should look at the structure of this section, perhaps describe viewpoints clearly before moving on to views. Some of the following sections fell like a mix._**
+<mark>COMMENT:SD: _We should look at the structure of this section, perhaps describe viewpoints clearly before moving on to views. Some of the following sections felt like a mix.</mark>
 
 The concept of views and viewpoints originated back in the 1970's (ref:
 Ross's Structure Analysis and Design Technique) the Views became widely
@@ -107,33 +105,31 @@ organizations. The definitions adopted by IASA are:
 > for constructing one type of view. It defines the stakeholders whose
 > concerns are reflected in the viewpoint and the guidelines,
 > principles, and template models for constructing its views. "
->
+> 
 > "A **View** is a representation of one or more aspects of an architecture
 > that illustrates how the architecture addresses the concerns held by
 > one or more of its stakeholders." 
 
-
-
-# Working With Views in Practice 
+# Working With Views in Practice
 
 When developing an architecture for any business need there are a many
 of challenging questions the architect needs to answer, for example: 
 
--   What functionality is required at the business capability level and
-    who will use it? 
+- What functionality is required at the business capability level and
+  who will use it? 
 
--   What information needs to be managed, how is it stored and sourced? 
+- What information needs to be managed, how is it stored and sourced? 
 
--   How will the elements of your system interact with each other,
-    internally and externally, will it provide an API? 
+- How will the elements of your system interact with each other,
+  internally and externally, will it provide an API? 
 
--   Where will the system run, on prem or in the cloud and what software
-    components are needed 
+- Where will the system run, on prem or in the cloud and what software
+  components are needed 
 
--   How will the system be developed and what environments such as: dev,
-    test, performance test are needed? 
+- How will the system be developed and what environments such as: dev,
+  test, performance test are needed? 
 
--   What are the operational needs of your system? 
+- What are the operational needs of your system? 
 
 When the architect considers such questions, the groups of
 stakeholders start to take shape and the architect can determine what is
@@ -157,15 +153,15 @@ aspects, hence providing different Views of the architecture.
 
 The architect creates or uses viewpoint to communicate the architecture in a way that addresses a particluar set of stakeholder concerns. The viewpoint provides the basis, or tools for constucting views for the stakeholders. The following diagram shows several viewpoints the architect may use with different types of stakeholder.
 
-![image](../../assets/images/articles/views_viewpoints-1.png "ISO Model")
+![image](./media/views_viewpoints-1.png "ISO Model")
 
 Often an organization will mandate a set of viewpoints defined in the
 template for the architecture description, but sometimes it will be up
 to the architect to make the selection. A number of factors may influence the selection of viewpoints:
- 
--	the complexity of the architecture being defined 
--	the type of system or systems being described
--	the stakeholder whose concerns are being addressed 
+
+- the complexity of the architecture being defined 
+- the type of system or systems being described
+- the stakeholder whose concerns are being addressed 
 
 However, experience will allow the architect to extend the set of views
 as needed, especially if the mandated framework only has a few views.
@@ -179,17 +175,15 @@ architect has to make.
 
 In summary, the architect is responsibile for:
 
--   The completeness (fitness-for-purpose) of the architecture, in terms of adequately addressing all the pertinent concerns of its stakeholders
+- The completeness (fitness-for-purpose) of the architecture, in terms of adequately addressing all the pertinent concerns of its stakeholders
 
--   the integrity of the architecture, in terms of connecting all the various views to each other, satisfactorily reconciling the conflicting concerns of different stakeholders 
+- the integrity of the architecture, in terms of connecting all the various views to each other, satisfactorily reconciling the conflicting concerns of different stakeholders 
 
--   showing the trade-offs made in so doing (as between security and performance, for example).  
+- showing the trade-offs made in so doing (as between security and performance, for example).  
 
--   The architect should choose viewpoints from a viewpoint repository. 
+- The architect should choose viewpoints from a viewpoint repository. 
 
--   The architect can then prepare models to detail views and make each of the views conform to a viewpoint. 
-
-
+- The architect can then prepare models to detail views and make each of the views conform to a viewpoint. 
 
 ## Viewpoint Libraries
 
@@ -203,22 +197,22 @@ Each Viewpoint library has different strengths and they are targeted at
 different aspects of architecture description. Software intensive
 systems commonly use the following models:
 
--   Kruchten's 4 + 1 architecture view model
+- Kruchten's 4 + 1 architecture view model
 
--   Views and Beyond -- Documenting Software Architectures
+- Views and Beyond -- Documenting Software Architectures
 
--   Rozanski and Woods Software Systems Architecture 
+- Rozanski and Woods Software Systems Architecture 
 
--   C4 model from Simon Brown (https://c4model.com/) 
+- C4 model from Simon Brown (https://c4model.com/) 
 
 There is also a wide range of frameworks for Enterprise Architecture.
 The following are examples of commonly used frameworks:
 
--   [Tom Graves Approach](https://itabok.iasaglobal.org/itabok3_0/views-and-viewpoints/views-viewpoints-3-0-tom_graves/) 
+- [Tom Graves Approach](https://itabok.iasaglobal.org/itabok3_0/views-and-viewpoints/views-viewpoints-3-0-tom_graves/) 
 
--   [Architmate and TOGAF](https://itabok.iasaglobal.org/itabok3_0/views-and-viewpoints/views-viewpoints-3-0-archimate/)
+- [Architmate and TOGAF](https://itabok.iasaglobal.org/itabok3_0/views-and-viewpoints/views-viewpoints-3-0-archimate/)
 
--   [FEAF](https://itabok.iasaglobal.org/itabok3_0/engagement-model-overview-3-0/federal-enterprise-architecture-framework/) 
+- [FEAF](https://itabok.iasaglobal.org/itabok3_0/engagement-model-overview-3-0/federal-enterprise-architecture-framework/) 
 
 Organizations have very different levels of maturity with regards to
 developing architectures, and the architect needs to determine if there
@@ -237,53 +231,65 @@ repeatable fashion.
 # Examples of Viewpoints and Views
 
 ## Strategic Viewpoint
-Describe...
+
+<mark>Describe...</mark>
 
 Examples of information which may be communicated in stratigic views are:
+
 - Strategic Roadmap
 - Capability Map
 - Organisation
 
 ## Landscape Viewpoint
-Describe...
+
+<mark>Describe...</mark>
 
 Examples of information which may be communicated in as part of a landscape view are:
+
 - Systems
 - Services
 - Information flows
 
 ## Context Viewpoint
-Describe...
+
+<mark>Describe...</mark>
 
 Examples of information which may be communicated in context views are:
+
 - Systems and components
 - Interaction/Information flows
 - Actors
 
 ## Process Viewpoint
-Describe...
+
+<mark>Describe...</mark>
 
 Examples of information which may be communicated in process views are:
--	Processes
--	Activities
--	Control flows
+
+- Processes
+- Activities
+- Control flows
 
 ## Development Viewpoint
-Describe...
+
+<mark>Describe...</mark>
 
 Examples of information which may be communicated in development views are:
--	Components
--	Classes
--	Information Structure
--	Relationships (association, generalization, etc...)
+
+- Components
+- Classes
+- Information Structure
+- Relationships (association, generalization, etc...)
 
 ## Physical Viewpoint
-Describe...
+
+<mark>Describe...</mark>
 
 Examples of information which may be communicated in physical views are:
--	Execution environments
--	Hardware
--	Communication flows and protocols
+
+- Execution environments
+- Hardware
+- Communication flows and protocols
 
 # References and Further Reading
 
@@ -297,7 +303,7 @@ Examples of information which may be communicated in physical views are:
 
 **Generic Viewpoints**
 
-[https://en.wikipedia.org/wiki/View_model#Viewpoints]{.underline}](https://en.wikipedia.org/wiki/View_model#Viewpoints) 
+https://en.wikipedia.org/wiki/View_model#Viewpoints 
 
 **An introduction to the IBM Views and Viewpoints Framework for IT
 systems -**
