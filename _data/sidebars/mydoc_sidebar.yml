@@ -25,6 +25,11 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Overview
+      url: /index.html
+      output: web, pdf
+   
+
 # Manifesto
 
   - title: Manifesto
@@ -111,4 +116,4 @@ entries:
     folderitems:
 
 
-# Copyright 2021 Google LLC
+# Copyright 2022 IASA

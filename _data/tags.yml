@@ -2,6 +2,7 @@
 # If you are using the createtag script, don't leave a blank line at the end of this file.
 # In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
+  - welcome_page
   - getting_started
   - content_types
   - navigation
@@ -15,4 +16,4 @@ allowed-tags:
   - mobile
   - business
   - business_capabilities
-# Copyright 2022 Google LLC
+# Copyright 2022 IASA

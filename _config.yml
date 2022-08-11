@@ -12,7 +12,7 @@ site_title: IASA - BTABoK
 company_name: IASA
 # this appears in the footer
 
-github_editme_path: Iasa-Global/btabok
+github_editme_path: iasa-global/btabok/main
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: Iasa-Global/btabok
@@ -35,7 +35,7 @@ exclude:
 
 feedback_subject_line: IASA - BTABoK
 
-feedback_email: iasa@iasa.com
+feedback_email: contactus@iasaoffice.org
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -62,8 +62,10 @@ kramdown:
 collections:
   tooltips:
     output: false
+  engagements:
+    output: true
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
-
+  
 defaults:
   -
     scope:
@@ -118,4 +120,4 @@ description: "The Business Technology Architecture Body of Knowledge (Btabok) is
 github: [metadata]
 
 
-# Copyright 2021 Google LLC
+# Copyright 2022 IASA

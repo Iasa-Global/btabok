@@ -25,6 +25,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Overview
+      url: /index.html
+      output: web, pdf
+
 # Manifesto
 
   - title: Manifesto
