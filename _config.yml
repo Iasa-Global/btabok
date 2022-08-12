@@ -12,7 +12,7 @@ site_title: IASA - BTABoK
 company_name: IASA
 # this appears in the footer
 
-github_editme_path: iasa-global/btabok/main
+github_editme_path: 
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: Iasa-Global/btabok
