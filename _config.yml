@@ -107,7 +107,6 @@ sidebars:
 - product1_sidebar
 - product2_sidebar
 - other
-- engagement_model
 
 description: "The Business Technology Architecture Body of Knowledge (Btabok) is a free public archive of IT architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest IT architecture professional organization."
 # the description is used in the feed.xml file
