@@ -1,0 +1,110 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Business Technology 
+  version: Architecture Body of Knowledge
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+# Getting Started
+
+  - title: Get Started
+    url: /get_started_cm.html
+    output: web
+
+# Manifesto
+
+  - title: Manifesto
+    output: web, pdf
+    folderitems:
+
+# Engagement Model
+
+  - title: Engagemente Model
+    output: web, pdf
+    folderitems:
+
+    - title: Business Capabilities
+      url: /business_capabilities.html
+      output: web, pdf
+    
+    - title: Requirements
+      url: /requirements.html
+      output: web, pdf
+
+# Competency Model
+
+  - title: Competency Model
+    output: web
+    folderitems:
+
+      subfolders:
+      - title: Business Technology Strategy (BTS)
+        output: web
+        subfolderitems:
+
+        - title: Business Fundamentals
+          url: /XYZ.html
+          output: web
+
+      - title: Human Dynamics
+        output: web
+        subfolderitems:
+
+        - title: Managing the Culture
+          url: /XYZ.html
+          output: web
+
+
+
+# Maturity Model
+
+  - title: Maturity Model
+    output: web, pdf
+    folderitems:
+
+# Topic Areas
+
+  - title: Topic Areas
+    output: web, pdf
+    folderitems:
+
+# Structured Canvases
+
+  - title: Structured Canvases
+    output: web, pdf
+    folderitems:
+
+# Ethical Practice
+
+  - title: Ethical Practice
+    output: web, pdf
+    folderitems:
+
+# Reference Dictionary
+
+  - title: Reference Dictionary
+    output: web, pdf
+    folderitems:
+
+# Contributors
+  
+  - title: Contributors
+    output: web, pdf
+    folderitems:
+
+
+# Copyright 2021 IASA
