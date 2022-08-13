@@ -42,10 +42,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: First Test
-      url: /engagement_model_test.html
-      output: web, pdf
-
     - title: Business Capabilities
       url: /business_capabilities.html
       output: web, pdf
