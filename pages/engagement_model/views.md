@@ -80,19 +80,19 @@ Views are the primary method for communicating an architecture to both architect
 
 ## Models Facilitate Views
 
-Using models (and modelling tools) rather than static diagrams to design an architecture provides distinct advantages in creating views. Since the views are connected to the model, changes in the model can be will be reflected immediately in any views. This provides the architect with a very useful way to assess the impact of change. Changes can be made to the model and the impact on the architecture views can be analysed together with the different stakeholders.
+Using models (and modeling tools) rather than static diagrams to design an architecture provides distinct advantages in creating views. Since the views are connected to the model, changes in the model can be will be reflected immediately in any views. This provides the architect with a very useful way to assess the impact of change. Changes can be made to the model and the impact on the architectural views can be analyzed together with the different stakeholders.
 
 # The Origins of Views and Viewpoints
 
 <mark>COMMENT:SD: _We should look at the structure of this section, perhaps describe viewpoints clearly before moving on to views. Some of the following sections felt like a mix.</mark>
 
-The concept of views and viewpoints originated back in the 1970's (ref:
+The concept of views and viewpoints originated back in the 1970s (ref:
 Ross's Structure Analysis and Design Technique) the Views became widely
 accepted following the development of Kruchten's 4 + 1 architecture
 model, they have since been formalized in the *"[ISO/IEC/IEEE
 42010:2011], Systems and software engineering --- Architecture description"*(http://en.wikipedia.org/wiki/ISO/IEC_42010). The model below
 shows the context and relationships of views and viewpoints with the
-architecture description, stakeholders and concerns: 
+architecture description, stakeholders, and concerns: 
 
 ![image](./media/views_ISO-model.png "ISO Model") 
 
@@ -190,7 +190,7 @@ In summary, the architect is responsible for:
 There are many Viewpoints sets or libraries which are used in different
 architecture methods. The number of Viewpoints in each set varies
 depending on the scope and level of granularity of the architecture
-method being applied. A comprehensive list of frameworks are available
+method being applied. A comprehensive list of frameworks is available
 at [iso-architecture.org](http://www.iso-architecture.org/42010/afs/frameworks-table.html).
 
 Each Viewpoint library has different strengths and they are targeted at
@@ -225,7 +225,7 @@ may use one of the available frameworks listed above.
 Well-formed viewpoints will answer the challenging questions asked of an
 architecture. When reviewing a viewpoint, determine what information to
 include in the views that are to be created. A viewpoint can be thought
-of as a template which can be used to provide predictable artefacts in a
+of as a template that can be used to provide predictable artifacts in a
 repeatable fashion. 
 
 # Examples of Viewpoints and Views
@@ -238,7 +238,7 @@ Examples of information which may be communicated in strategic views are:
 
 - Strategic Roadmap
 - Capability Map
-- Organisation
+- Organization
 
 ## Landscape Viewpoint
 

@@ -42,9 +42,9 @@ Design is both a noun and a verb. “Design” is the verb form of architecture,
 
 Design is deliberate, that is it purposefully set out to create a design that works safely, achieves a specific objective, and is elegant, in that order.  
 
-![Figure_1](media/design/designbreakdown.png) 
+![loading-ag-2383](../../media/ae6c710b8a2acca374e7640acf500bf42972d756.png) 
 
->*Figure 1 Design Relationships*
+> *Figure 1 Design Relationships*
 
 The figure describes the critical relationships between concepts that make up ‘design’. When designing the architect has to consider <u>requirements</u> which are derived from benefits, features, quality attributes and constraints (also <u>principles</u>). These requirements create options which have breadth, depth, may apply patterns and reference models. From these options, the architect makes a decision which impacts value, risk, quality attributes (tested through fitness functions), conformance across the design as well as principles (and exceptions). This happens for all architecturally relevant decisions where each decision may force rethinking or reworking previous designs. This leads to the balance and elegance of an excellent architecture.
 
@@ -118,11 +118,10 @@ Set-based design is a technique championed by SAFe which allows design
 decisions to remain open and supported until learning can help eliminate
 less capable options
 
-
 ![Figure_2](media/design/setbaseddesign.png) 
 
->*Figure 2 Set-based vs point-based design -
-https://www.scaledagileframework.com/set-based-design/*
+> *Figure 2 Set-based vs point-based design -
+> https://www.scaledagileframework.com/set-based-design/*
 
 ## YAGNI – You Aren’t Going to Need It
 
@@ -141,18 +140,17 @@ capability scope it becomes apparent much more is necessary.
 Every design problem, set of requirements and principles serves to extend or limit the available options. The Design Landscape canvases allow the architect to think about the services and design elements needed without connecting them immediately to a product or a particular style. This stage of design allows the architect to think about
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
-
 ![Figure_3](media/design/maloc-56.svg) 
 
->*Figure 3 Architecture Landscape 1*
+> *Figure 3 Architecture Landscape 1*
 
 ![Figure_4](media/design/maloc-56.svg)
 
->*Figure 4 Architecture Landscape 2*
+> *Figure 4 Architecture Landscape 2*
 
 ![Figure_5](media/design/maloc-58.svg)
 
->*Figure 5 Architecture Landscape 3*
+> *Figure 5 Architecture Landscape 3*
 
 ### Options Come From Breadth and Depth
 
@@ -306,10 +304,9 @@ The process seeks to bring together what is desired of a solution with what is t
 
 In most modern projects, it is not sufficient to be a good designer. Design and engineering are partnered as they struggle with competing goals, requirements, and constraints. Henry Petroski makes the distinction clear: “What distinguishes the engineer from the technician\[or designer\] is largely the ability to formulate and carry out the detailed calculations of forces and deflections, concentrations and flows, voltages and currents, that are required to test a proposed design on paper with regard to failure criteria.” Applied to software, the difference between engineering it and “merely” designing it is the ability to test the proposed design against various criteria, including failure modes, before code exists to test. This extra effort doesn’t add much difficulty to the task, nor does it take very long. Over time, the teams learn to apply it to only those design decisions you haven’t made before or don’t understand well.
 
+> ![Figure_6](media/design/healthytension.png)
 
->![Figure_6](media/design/healthytension.png)
-
->Figure 7 Healthy Tension
+> Figure 7 Healthy Tension
 
 In healthy tension, both architecture and engineering overlap and share responsibility. The architect is responsible for form (value) and structure (quality attribute decisions) and the engineer is responsible for structure and function (features and functionality).
 
