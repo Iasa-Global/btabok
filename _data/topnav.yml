@@ -22,7 +22,7 @@ topnav_dropdowns:
         - title: Engagemente Model
           url: engagement_models_m.html
         - title: Competency Model
-          url: /XYZ.html
+          url: competency_model_m.html
         - title: Maturity Model
           url: /XYZ.html
         - title: Topic Areas
