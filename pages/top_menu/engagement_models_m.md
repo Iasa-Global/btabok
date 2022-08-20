@@ -1,10 +1,11 @@
 ---
-title: "Engagement Models"
-keywords: BTABoK
-tags: [getting_started, welcome_page]
+title: Engagement Models
+tags: [business_capabilities, business]
+keywords:
+summary: "The Iasa Engagement Model are the combined activities, deliverables, and work that an organization of architects use to achieve a mature and valuable architecture practice."
 sidebar: mydoc_sidebar
 permalink: engagement_models_m.html
-summary: The Iasa Engagement Model are the combined activities, deliverables, and work that an organization of architects use to achieve a mature and valuable architecture practice.
+folder: top_menu
 ---
 
 ## What is an Engagement Model
