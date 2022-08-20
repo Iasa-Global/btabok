@@ -17,8 +17,8 @@ topnav_dropdowns:
       folderitems:
         - title: Getting Started
           url: /pages/btabok/getting_started.md
-        - title: Manifesto
-          url: /XYZ.html
+      # - title: Manifesto
+      #   url: /XYZ.html
         - title: Engagemente Model
           url: engagement_models_m.html
         - title: Competency Model
