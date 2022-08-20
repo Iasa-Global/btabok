@@ -75,5 +75,3 @@ The major elements of the guidelines include
 ## Additional Help Needed
 
 We are also looking for committers to help develop and extend the functionality of the site. For example, we would like to commit automatically to wordpress from this site so that it is always up to date. 
-
-{% include links.html %}
