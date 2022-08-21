@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: views.html
 folder: engagement_model
-summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+summary: "Views and Viewpoints are a fundamental part of architecture work, and are included in many books or courses which teach architecture. "
 ---
 
 # What is a View

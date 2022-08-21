@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: design.html
 folder: engagement_model
-summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+summary: "Design has become more important because software has become more and more complex"
 ---
 
 > “All architecture is design, but not all design is architecture.
