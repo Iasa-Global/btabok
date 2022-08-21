@@ -36,8 +36,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Ecosystem001
-      url: /engagement_model/ecosystem.html
+    - title: Ecosystem0002
+      url: ecosystem.html
       output: web, pdf
 
 # Competency Model
