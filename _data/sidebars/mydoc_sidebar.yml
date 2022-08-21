@@ -75,6 +75,10 @@ entries:
         output: web
         subfolderitems:
 
+        - title: Services
+          url: services.html
+          output: web
+
         - title: Design
           url: design.html
           output: web
