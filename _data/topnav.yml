@@ -26,8 +26,8 @@ topnav_dropdowns:
         - title: Maturity Model
           url: maturity_model_m.html
         - title: Topic Areas
-          url: /XYZ.html
+          url: topic_areas_m.html
         - title: Structured Canvases
-          url: /p2_landing_page.html
+          url: structured_canvases_m.html
 
 # Copyright 2022 IASA
