@@ -149,7 +149,8 @@ expectations.
 
 A practical example of planning velocity is shown in the OKR card below.
 
-<img src=".\media\velocity_okr1.png" title="" alt="" data-align="center">
+![image001](media/velocity_okr1.png) 
+
 
 It can be seen in the OKR card above, that for each Key Result in the
 card there is a field for measurement, and a field for target. Depending
@@ -264,7 +265,7 @@ competing to deliver value to their stakeholders or customers. Each
 scenario can be thought to represent businesses with different strategic
 challenges.
 
-<img src=".\media\velocity_race2.png" title="" alt="" data-align="center">
+![image001](media/velocity_race2.png) 
 
 In scenario 1 the road is straight so the racing car has a clear
 direction and can achieve a high and sustainable velocity on the journey
@@ -350,7 +351,7 @@ Velocity has a relationship with a number of items in the Engagement
 Model. The diagram below shows some of the key relationships with items
 which have a significant bearing or effect on velocity.
 
-<img title="" src=".\media\velocity_chart3.png" alt="" data-align="center">
+![image001](media/velocity_chart3.png) 
 
 # References and further reading
 
