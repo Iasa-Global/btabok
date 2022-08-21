@@ -75,10 +75,6 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Services
-          url: test004.html
-          output: web
-
         - title: Design
           url: design.html
           output: web
@@ -93,4 +89,8 @@ entries:
         
         - title: Views
           url: views.html
+          output: web
+
+        - title: Services001
+          url: test004.html
           output: web
