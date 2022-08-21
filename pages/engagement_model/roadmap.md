@@ -163,7 +163,7 @@ practice with Strategic Roadmaps and Product Development Roadmaps. In
 order to place these in context it is important to understand the
 relationship between these two types of roadmap.
 
-<img title="" src="./media/roadmaps_plan2.png" alt="" data-align="center">
+![image001](media/roadmaps_plan2.png) 
 
 Strategic roadmaps are concerned with planning change in enterprises or
 large portfolios of products and have a broad scope. These roadmaps are
@@ -207,7 +207,7 @@ This diagram below uses a fictional pizza company as an example where
 the roadmap shows the transitions required to launch a new Super Pizza
 product.
 
-<img title="" src="./media/roadmaps_plan3.png" alt="" data-align="center">
+![image001](media/roadmaps_plan3.png)
 
 Deliverables which are part of the Transition can take different forms
 depending on the kind of change enterprise is going through. The
@@ -253,7 +253,7 @@ workshop. A simple method which can be used is to pin the canvas to the
 wall and throughout the workshop stakeholders can use sticky notes to
 add information to the canvas.
 
-<img title="" src="./media/roadmaps_canvas4.png" alt="" data-align="center">
+![image001](media/roadmaps_canvas4.png)
 
 The following describes a process which may be used to formulate the
 transitions in a roadmap.
@@ -295,7 +295,7 @@ The following canvas can support the workshop by placing the canvas on a
 wall where the stakeholders can visualize the details of the transition.
 A recommendation is to use sticky notes method.
 
-<img title="" src="./media/roadmaps_canvas5.png" alt="" data-align="center">
+![image001](media/roadmaps_canvas5.png)
 
 The following describes a process which may be used to formulate the
 details of a transition in a roadmap.
@@ -366,7 +366,7 @@ The diagram below illustrates a fictional roadmap for the Pizza Order
 System previously described in the example strategic roadmap. It shows
 the features and events related to each release.
 
-<img title="" src="./media/roadmaps_plan6.png" alt="" data-align="center">
+![image001](media/roadmaps_plan6.png)
 
 The product development roadmap provides the basis for detailed
 planning. This gives a framework for product management and the
@@ -400,7 +400,7 @@ The following Product Roadmap Canvas can be used to support the
 workshop. The canvas can be pinned to the wall and sticky notes used to
 visualize information on the canvas.
 
-<img title="" src="./media/roadmaps_canvas7.png" alt="" data-align="center">
+![image001](media/roadmaps_canvas7.png)
 
 The following describes a process which may be used to formulate the
 product roadmap.
@@ -449,7 +449,7 @@ The following Release Roadmap Canvas can be used to support the
 workshop. As with the other workshops the canvas can be pinned to the
 wall and sticky notes used to visualize information on the canvas.
 
-<img title="" src="./media/roadmaps_canvas8.png" alt="" data-align="center">
+![image001](media/roadmaps_canvas8.png)
 
 The following process may be used to formulate a release.
 
