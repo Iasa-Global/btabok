@@ -45,6 +45,10 @@ entries:
     output: web
     folderitems:
 
+    - title: Get Started
+      url: /get_started_cm.html
+      output: web
+
       subfolders:
       - title: Digital Customer
         output: web
