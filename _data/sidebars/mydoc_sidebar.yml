@@ -94,3 +94,19 @@ entries:
         - title: Services001
           url: services.html
           output: web
+
+      - title: Value Model
+        output: web
+        subfolderitems:
+
+        - title: Design
+          url: design.html
+          output: web
+
+      - title: People Model
+        output: web
+        subfolderitems:
+
+        - title: Design
+          url: design.html
+          output: web
