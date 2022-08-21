@@ -315,7 +315,7 @@ During the review each of the key results can be assessed using a Key
 Result Retrospective. The following status can be assigned to each key
 result:
 
-- **Stuck** -- there is no result
+- **Stuck** -- there is no result.
 
 - **Not Even Close** -- there is value in the result but nowhere close
   to what was expected
