@@ -24,11 +24,11 @@ entries:
     folderitems:
 
     - title: Ecosystem
-      url: /pages/ecosystem.html
+      url: /pages/engagement_model/ecosystem.html
       output: web, pdf
 
     - title: Ecosystem
-      url: pages/ecosystem.html
+      url: pages/engagement_model/ecosystem.html
       output: web, pdf
 
     - title: Business Capabilities
