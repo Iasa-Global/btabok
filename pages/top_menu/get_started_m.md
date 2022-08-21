@@ -9,7 +9,6 @@ summary: "In today’s fast-changing business environment the ability to innovat
 ---
 
 
-
 “I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.”
 
 Leonard Nimoy
