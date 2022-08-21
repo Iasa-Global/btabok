@@ -95,12 +95,32 @@ entries:
           url: services.html
           output: web
 
+        - title: Governance
+          url: governance.html
+          output: web
+
+        - title: Legacy Modernization
+          url: legacy_modernization.html
+          output: web
+
+        - title: Quality Assurance
+          url: quality_assurance.html
+          output: web
+
+        - title: Roadmap
+          url: roadmap.html
+          output: web
+
       - title: Value Model
         output: web
         subfolderitems:
 
-        - title: Design
-          url: design.html
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
           output: web
 
       - title: People Model
