@@ -41,27 +41,23 @@ entries:
 
 # Competency Model
 
-  - title: Competency Model
+  - title: Engagemente Model
     output: web
     folderitems:
 
-    - title: Get Started
-      url: /get_started_cm.html
-      output: web
-
       subfolders:
-      - title: Business Technology Strategy (BTS)
+      - title: Digital Customer
         output: web
         subfolderitems:
 
-        - title: Business Fundamentals
-          url: /XYZ.html
+        - title: Ecosystem
+          url: ecosystem.html
           output: web
 
-      - title: Human Dynamics
+      - title: Digital Busness
         output: web
         subfolderitems:
 
-        - title: Managing the Culture
-          url: /XYZ.html
+        - title: Agility
+          url: agility.html
           output: web
