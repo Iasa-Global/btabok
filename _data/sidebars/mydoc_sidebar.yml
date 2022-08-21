@@ -35,18 +35,14 @@ entries:
       url: automation.html
       output: web, pdf
 
-    - title: Business Capabilities
-      url: business_capabilities.html
-      output: web, pdf
+# Engagement Model
 
-# Competency Model
-
-  - title: Engagemente Model001
+  - title: Engagemente Model002
     output: web
     folderitems:
 
-    - title: Get Started
-      url: /get_started_cm.html
+    - title: Overview
+      url: engagement_models_m.html
       output: web
 
       subfolders:
@@ -64,4 +60,24 @@ entries:
 
         - title: Agility
           url: agility.html
+          output: web
+        
+        - title: Business Capabilities
+          url: business_capabilities.html
+          output: web
+
+      - title: Digital Employee
+        output: web
+        subfolderitems:
+
+        - title: Collaboration
+          url: collaboration.html
+          output: web
+
+      - title: Digital Operations
+        output: web
+        subfolderitems:
+
+        - title: Automation
+          url: automation.html
           output: web
