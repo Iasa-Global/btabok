@@ -9,7 +9,7 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    output: 444444444444444444444444, pdf
+    output: web, pdf
     folderitems:
 
     - title: Overview
