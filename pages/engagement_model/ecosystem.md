@@ -201,7 +201,7 @@ customers.
 The following is an Ecosystem Map Canvas, it shows an ecosystem, rather
 like a universe of different parties around a particular Subject.
 
-<img src=".\media\ecosystem_eco1.png" title="" alt="" data-align="center">
+![image001](media/ecosystem_eco1.png) 
 
 The ecosystem map consists of four concepts:
 
@@ -296,7 +296,7 @@ dimensions have been identified in the ecosystem which provide services
 or products to the customer when they want to get a cup of Tinkelman
 coffee.
 
-<img src=".\media\ecosystem_eco2.png" title="" alt="" data-align="center">
+![image001](media/ecosystem_eco2.png) 
 
 In the above map, notice that the customer values transport to the
 coffee shop, in particular through the taxi service company "TAXI-HI R",
@@ -319,7 +319,7 @@ Several dimensions have been identified in the ecosystem, which perhaps
 represent types of business, but may also represent
 [capabilities](business_capabilities.md) which are of interest to Tinkleman.
 
-<img src=".\media\ecosystem_eco3.png" title="" alt="" data-align="center">
+![image001](media/ecosystem_eco3.png) 
 
 In this ecosystem there are a number of partnerships with several
 companies, BIG BEANS for provision of coffee beans, LBN GOODS for
@@ -353,7 +353,7 @@ opportunity.
 This provides a way of examining the ecosystem from a strategic
 perspective.
 
-<img src=".\media\ecosystem_eco4.png" title="" alt="" data-align="center">
+![image001](media/ecosystem_eco4.png) 
 
 # Influencing the Ecosystem
 
