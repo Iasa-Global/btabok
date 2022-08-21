@@ -40,6 +40,10 @@ entries:
       url: /ecosystem.html
       output: web, pdf
 
+    - title: Ecosystem
+      url: /competency_model_m.html
+      output: web, pdf
+
 # Competency Model
 
   - title: Competency Model
