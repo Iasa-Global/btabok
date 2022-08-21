@@ -118,15 +118,3 @@ entries:
         - title: Objectives
           url: objectives.html
           output: web
-
-        - title: Objectives
-          url: objectives.html
-          output: web
-
-      - title: People Model
-        output: web
-        subfolderitems:
-
-        - title: Design
-          url: design.html
-          output: web
