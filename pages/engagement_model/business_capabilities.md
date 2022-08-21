@@ -110,7 +110,7 @@ make it clear to understand how a business capability is defined.
   made to improve the capability.
 
 
-![Figure_1](media/business_capabilities/bc3.png) 
+![image001](media/bc3.png) 
 
 > Figure 1. The relationship between capabilities and processes[^3].
 
@@ -143,11 +143,11 @@ scale where green is “good” (less investment, more maturity) and red is
 the utility of the heat map, given its confusing meaning, but they
 continue to be widely used[^4].
 
-![Figure_2](media/business_capabilities/bc4.png)
+![image001](media/bc4.png)
 
 >Figure 2 Sample capability model.
 
-![Figure_3](media/business_capabilities/bc5.png)
+![image001](media/bc5.png)
 
 >Figure 3. Sample capability heat map.
 
@@ -274,7 +274,7 @@ following steps have been shown to work quite well:
 
 - Identify supporting capabilities
 
-![Figure_4](media/business_capabilities/bc6.png)
+![image001](media/bc6.png)
 
 >Figure 4. Customer journey map template.
 
@@ -314,7 +314,7 @@ Many capabilities, especially indirect support, may appear on more than
 one diagram. This is a good indication of shared capabilities and
 provides some clues as to how they can be organized and managed.
 
-![Figure_5](media/business_capabilities/bc7.png)
+![image001](media/bc7.png)
 
 >Figure 5. Ishikawa or Fishbone diagram.
 
