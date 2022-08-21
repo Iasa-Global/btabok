@@ -34,3 +34,7 @@ entries:
     - title: Automation
       url: automation.html
       output: web, pdf
+
+    - title: Business Capabilities
+      url: business_capabilities.html
+      output: web, pdf
