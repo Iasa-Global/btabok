@@ -1,5 +1,5 @@
 ---
-title: "BTABoK Home Page"
+title: "Welcome to BTABoK"
 keywords: BTABoK
 tags: [getting_started, welcome_page]
 toc: true
@@ -8,7 +8,6 @@ permalink: index.html
 summary: The Business Technology Architecture Body of Knowledge (Btabok) is a free public archive of IT architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest IT architecture professional organization.
 ---
 
-## Welcome to BTABoK
 
 The Business Technology Architecture Body of Knowledge (BTABoK) is a free public archive of Business Technology architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest architecture professional organization.  
 
