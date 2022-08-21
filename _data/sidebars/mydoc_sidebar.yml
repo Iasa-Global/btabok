@@ -6,19 +6,6 @@ entries:
   version: Architecture Body of Knowledge
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
 # Getting Started
 
   - title: Getting Started
@@ -26,15 +13,9 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /index.html
+      url: /get_started_m.html
       output: web, pdf
    
-
-# Manifesto
-
-  - title: Manifesto
-    output: web, pdf
-    folderitems:
 
 # Engagement Model
 
