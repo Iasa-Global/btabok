@@ -96,7 +96,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-plus-circle fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -111,7 +111,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-crosshairs fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -129,7 +129,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-server fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -144,7 +144,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-industry fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -159,7 +159,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-link fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -177,7 +177,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-battery-quarter fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -192,7 +192,7 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-thermometer-three-quarters fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
@@ -207,12 +207,12 @@ Pattern Types and Catalog
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                           <i class="fa fa-exclamation-triangle fa-stack-1x fa-inverse"></i>
                      </span>
                  </div>
                  <div class="panel-body">
                      <h4>Retry Pattern</h4>
-                     <p>Retry pattern improves the stability of a system by enabling a service consumer to handle anticipated, temporary failures  of the service</p>
+                     <p>Retry pattern improves the stability of a system by enabling a service consumer to handle anticipated, temporary failures  of the service.</p>
                      <a href="XYZ.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
