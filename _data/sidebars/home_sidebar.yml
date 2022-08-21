@@ -6,18 +6,7 @@ entries:
   version: Architecture Body of Knowledge
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
+
 
 # Getting Started
 
