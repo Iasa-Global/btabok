@@ -40,7 +40,7 @@ processes and technology, a service may also be composed of people who
 provide the service, process which describes the workings of the service
 and technology which automates the service.
 
-<img src=".\media\services_overview1.png" title="" alt="" data-align="center">
+![image001](media/services_overview1.png) 
 
 In this article services are considered in two contexts:
 
@@ -157,7 +157,7 @@ While the capabilities describe **what** a business does or needs to do,
 the service provides a way of realizing capabilities and delivering them
 to consumers.
 
-<img src=".\media\services_flow2.png" title="" alt="" data-align="center">{width="5.0in" height="1.28125in"}
+![image001](media/services_flow2.png) 
 
 In the diagram above example capabilities are shown for customer support
 at various levels. In order to deliver the "Resolve Customer Enquiry"
@@ -195,7 +195,7 @@ the service. A Service Contract applies to business services and
 technical services, although the description of the contract may be very
 different.
 
-<img src=".\media\services_contract3.png" title="" alt="" data-align="center">
+![image001](media/services_contract3.png) 
 
 The following three areas describe a Service Contract for both business
 and technical services:
@@ -259,7 +259,7 @@ capability, where "Customer Details" are required from the consumer, and
 the result of the interaction is that the consumer receives a "Customer
 Membership Number".
 
-<img src=".\media\services_canvas4.png" title="" alt="" data-align="center">
+![image001](media/services_canvas4.png) 
 
 **Step 2: Service Level Agreement**
 
@@ -338,7 +338,7 @@ before tackling more complex or special case scenarios.
 
 Detail the expected outcome the service will provide from the scenario.
 
-<img src=".\media\services_canvas5.png" title="" alt="" data-align="center">
+![image001](media/services_canvas5.png)
 
 **Step 2: Consumer and Provider Frontstage actions**
 
@@ -399,7 +399,7 @@ structure of the service domains can depend on a number of factors such
 as culture of the company, specialist skills or organizational
 structure.
 
-<img src=".\media\services_landscape6.png" title="" alt="" data-align="center">{width="5.0in" height="2.96875in"}
+![image001](media/services_landscape6.png)
 
 The canvas above shows a simple way to create a service landscape using
 service domains and stakeholders. This can be performed by individual
@@ -449,7 +449,7 @@ To start the workshop make a short statement describing the Service
 Domain and ensure that all participants in the workshop are agreed upon
 the scope and context of the Service Domain.
 
-<img src=".\media\services_canvas7.png" title="" alt="" data-align="center">
+![image001](media/services_canvas7.png)
 
 **Step 2: List the services**
 
