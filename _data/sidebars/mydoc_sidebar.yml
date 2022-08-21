@@ -9,7 +9,7 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    output: web, pdf
+    output: 444444444444444444444444, pdf
     folderitems:
 
     - title: Overview
@@ -45,11 +45,23 @@ entries:
     output: web
     folderitems:
 
-    - title: Digital Customer
-      url: /XYZ.html
+    - title: Get Started
+      url: /get_started_cm.html
       output: web
 
       subfolders:
-      - title: Ecosystem
-      url: ecosystem.html
-      output: web, pdf
+      - title: Business Technology Strategy (BTS)
+        output: web
+        subfolderitems:
+
+        - title: Business Fundamentals
+          url: /XYZ.html
+          output: web
+
+      - title: Human Dynamics
+        output: web
+        subfolderitems:
+
+        - title: Managing the Culture
+          url: /XYZ.html
+          output: web
