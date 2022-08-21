@@ -76,7 +76,7 @@ entries:
         subfolderitems:
 
         - title: Services
-          url: services.html
+          url: services_om.html
           output: web
 
         - title: Design
