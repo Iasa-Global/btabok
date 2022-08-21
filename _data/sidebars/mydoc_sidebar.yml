@@ -91,7 +91,7 @@ entries:
           url: views.html
           output: web
 
-        - title: Services001
+        - title: Services
           url: services.html
           output: web
 
