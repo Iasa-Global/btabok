@@ -5,7 +5,7 @@ keywords:
 summary: "Developers must design clean, clearly designed code to avoid bug creep into the system, and avoid complexity."
 sidebar: mydoc_sidebar
 permalink: architecture_pattern_repository.html
-folder: btabok
+folder: patterns
 ---
 
 > “All well-structured object-oriented architectures are full of patterns. Indeed, one of the ways that I measure the quality of an object-oriented system is to judge whether or not its developers have paid careful attention to the common collaborations among its objects.”

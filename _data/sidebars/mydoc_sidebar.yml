@@ -25,7 +25,7 @@ entries:
     - title: Overview
       url: engagement_models_m.html
       output: web
-
+      
       subfolders:
       - title: Digital Customer
         output: web
@@ -35,7 +35,7 @@ entries:
           url: ecosystem.html
           output: web
 
-      - title: Digital Busness
+      - title: Digital Business
         output: web
         subfolderitems:
 
@@ -85,6 +85,10 @@ entries:
 
         - title: Design
           url: design.html
+          output: web
+
+        - title: Patterns
+          url: architecture_pattern_repository.html
           output: web
 
         - title: Stakeholders
