@@ -24,7 +24,7 @@ topnav_dropdowns:
         - title: Competency Model
           url: competency_model_m.html
         - title: Maturity Model
-          url: /XYZ.html
+          url: maturity_model_m.html
         - title: Topic Areas
           url: /XYZ.html
         - title: Structured Canvases
