@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://iasa-global.github.io/btabok/
+      external_url: https://github.com/Iasa-Global/btabok
     #- title: News
     #  url: /news
 
