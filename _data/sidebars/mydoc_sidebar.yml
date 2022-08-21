@@ -47,6 +47,10 @@ entries:
           url: business_capabilities.html
           output: web
 
+        - title: Strategy
+          url: strategy.html
+          output: web
+
       - title: Digital Employee
         output: web
         subfolderitems:
