@@ -16,7 +16,7 @@ topnav_dropdowns:
     - title: BTABoK
       folderitems:
         - title: Getting Started
-          url: get_started_m.md
+          url: get_started_m.html
       # - title: Manifesto
       #   url: /XYZ.html
         - title: Engagemente Model
