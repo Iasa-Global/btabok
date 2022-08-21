@@ -24,7 +24,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 8. Architecture Methodologies & Frameworks
 9. Risk Management
 
-# Human Dynamics
+## Human Dynamics
 
 1. Managing the Culture
 2. Customer Relations
@@ -34,7 +34,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 6. Presentation Skills
 7. Writing Skills
 
-# Design
+## Design
 
 1. Requirements Modeling
 2. Architecture Description
@@ -46,7 +46,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 8. Views & Viewpoints
 9. The Whole Systems Design
 
-# IT Environment
+## IT Environment
 
 1. Technical Project Management
 2. Asset Management
@@ -59,7 +59,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 9. Decision Support
 10. Platforms and Frameworks
 
-# Quality Attributes
+## Quality Attributes
 
 1. Balancing and Optimizing Quality Attributes
 2. Manageability, Maintainability, Supportability, Extensibility, and Flexibility
@@ -69,7 +69,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 6. Usability, Localization, Accessibility, Personalization/Customizability
 7. Packaging, Delivery, Post Deployment
 
-# Business Architecture
+## Business Architecture
 
 1. Business Management
 2. Business Strategy
@@ -81,7 +81,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 8. Business Views and Models
 9. Leading Organizational Change
 
-# Information Architecture
+## Information Architecture
 
 1. Data Integration
 2. Information Management
@@ -92,7 +92,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 7. Information Governance and Management
 8. Information Value
 
-# Infrastructure Architecture
+## Infrastructure Architecture
 
 1. Access and Identity Management
 2. Capacity Planning
@@ -107,7 +107,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 11. Disaster Recovery and Backup
 12. High Availability Computing Environment
 
-# Software Architecture
+## Software Architecture
 
 1. Development, Methodologies and Processes
 2. Software Architecture Tools
