@@ -378,7 +378,7 @@ become. Then, determine the changes to each affected capacity required
 to achieve the new measures. The collective set of changes becomes an
 improvement project or program, depending on its size.
 
-## References
+## References  
 
 [^1]: Goldratt, Eliyahu M. and Jeff Cox, The Goal: A Process of Ongoing
     Improvement, North River Press, Great Barrington, MA: 1984.
