@@ -30,3 +30,7 @@ entries:
     - title: Agility
       url: agility.html
       output: web, pdf
+
+    - title: Automation
+      url: automation.html
+      output: web, pdf
