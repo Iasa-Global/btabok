@@ -37,11 +37,7 @@ entries:
     folderitems:
 
     - title: Ecosystem
-      url: /ecosystem.html
-      output: web, pdf
-
-    - title: Ecosystem
-      url: /competency_model_m.html
+      url: ecosystem_em.html
       output: web, pdf
 
 # Competency Model
