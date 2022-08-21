@@ -39,16 +39,16 @@ entries:
         output: web
         subfolderitems:
 
+        - title: Strategy
+          url: strategy.html
+          output: web
+
         - title: Agility
           url: agility.html
           output: web
         
         - title: Business Capabilities
           url: business_capabilities.html
-          output: web
-
-        - title: Strategy
-          url: strategy.html
           output: web
 
       - title: Digital Employee
@@ -65,4 +65,8 @@ entries:
 
         - title: Automation
           url: automation.html
+          output: web
+
+        - title: Velocity
+          url: velocity.html
           output: web
