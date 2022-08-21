@@ -6,19 +6,11 @@ entries:
   version: Architecture Body of Knowledge
   folders:
 
-
-
 # Getting Started
 
   - title: Get Started
     url: /get_started_cm.html
     output: web
-
-# Manifesto
-
-  - title: Manifesto
-    output: web, pdf
-    folderitems:
 
 # Engagement Model
 
