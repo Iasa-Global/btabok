@@ -75,13 +75,8 @@ Pattern Types and Catalog
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
 
 
-Here's the sample knowledge-base style layout:
-
 <div class="row">
-         <div class="col-lg-12">
-             <h2 class="page-header">Knowledge Base Categories</h2>
-         </div>
-         <div class="col-md-3 col-sm-6">
+         <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
@@ -90,13 +85,13 @@ Here's the sample knowledge-base style layout:
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Getting started</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_getting_started.html" class="btn btn-primary">Learn More</a>
+                     <h4>Aggregator Pattern</h4>
+                     <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
+                     <a href="XYZ.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
-         <div class="col-md-3 col-sm-6">
+         <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
@@ -105,13 +100,13 @@ Here's the sample knowledge-base style layout:
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Navigation</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <h4>API Gateway Pattern</h4>
+                     <p>The API Gateway is usually an entry-point to the system.</p>
                      <a href="tag_navigation.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
-         <div class="col-md-3 col-sm-6">
+         <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
                      <span class="fa-stack fa-5x">
@@ -120,24 +115,9 @@ Here's the sample knowledge-base style layout:
                      </span>
                  </div>
                  <div class="panel-body">
-                     <h4>Single sourcing</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <h4>Proxy Pattern</h4>
+                     <p>When upgrading from a monolithic architecture to a microservice-based architecture, the designer(s) can encounter situations where one service depends upon another.</p>
                      <a href="tag_single_sourcing.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-         <div class="col-md-3 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Formatting</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                     <a href="tag_formatting.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
