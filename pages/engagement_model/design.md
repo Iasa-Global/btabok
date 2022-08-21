@@ -1,11 +1,11 @@
 ---
-title: Design
-tags: [design]
-keywords:
-summary: "The ability to design—to create something where nothing was before—is one of the most important competencies of an architect."
+title: "Design"
+keywords: 
 sidebar: mydoc_sidebar
+toc: true
 permalink: design.html
-folder: btabok
+folder: engagement_model
+summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
 ---
 
 > “All architecture is design, but not all design is architecture.

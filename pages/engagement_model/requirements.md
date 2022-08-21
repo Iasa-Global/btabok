@@ -1,11 +1,11 @@
 ---
-title: Requirements
-tags: [requirements]
-keywords:
-summary: "Requirements are recognized and developed throughout the entire portfolio of the enterprise."
+title: "Requirements"
+keywords: 
 sidebar: mydoc_sidebar
+toc: true
 permalink: requirements.html
-folder: btabok
+folder: engagement_model
+summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
 ---
 
 > “The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems.”

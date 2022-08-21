@@ -1,3 +1,13 @@
+---
+title: "Views"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: views.html
+folder: engagement_model
+summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+---
+
 # What is a View
 
 "what you can see from a particular place, or the ability to see from a

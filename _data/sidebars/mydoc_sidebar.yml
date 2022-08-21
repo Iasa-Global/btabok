@@ -15,29 +15,10 @@ entries:
     - title: Overview
       url: /get_started_m.html
       output: web, pdf
-   
 
 # Engagement Model
 
   - title: Engagemente Model
-    output: web, pdf
-    folderitems:
-
-    - title: Ecosystem
-      url: ecosystem.html
-      output: web, pdf
-
-    - title: Agility
-      url: agility.html
-      output: web, pdf
-
-    - title: Automation
-      url: automation.html
-      output: web, pdf
-
-# Engagement Model
-
-  - title: Engagemente Model002
     output: web
     folderitems:
 

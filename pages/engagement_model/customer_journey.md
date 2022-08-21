@@ -1,11 +1,11 @@
 ---
-title: customer_journey
-tags: [business_model]
-keywords:
-summary: "The entire experience customers have with the business."
+title: "Customer Journey"
+keywords: 
 sidebar: mydoc_sidebar
+toc: true
 permalink: customer_journey.html
-folder: btabok
+folder: engagement_model
+summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
 ---
 
 > "You are in the customer experience business &mdash; whether you know it or not."
