@@ -6,19 +6,6 @@ entries:
   version: Architecture Body of Knowledge
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-      
 # Getting Started
 
   - title: Getting Started
@@ -36,74 +23,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Ecosystem003
-      url: /ecosystem.html
+    - title: Ecosystem004
+      url: test.html
       output: web, pdf
-
-# Competency Model
-
-  - title: Competency Model
-    output: web
-    folderitems:
-
-    - title: Get Started
-      url: /get_started_cm.html
-      output: web
-
-      subfolders:
-      - title: Business Technology Strategy (BTS)
-        output: web
-        subfolderitems:
-
-        - title: Business Fundamentals
-          url: /XYZ.html
-          output: web
-
-      - title: Human Dynamics
-        output: web
-        subfolderitems:
-
-        - title: Managing the Culture
-          url: /XYZ.html
-          output: web
-
-
-
-# Maturity Model
-
-  - title: Maturity Model
-    output: web, pdf
-    folderitems:
-
-# Topic Areas
-
-  - title: Topic Areas
-    output: web, pdf
-    folderitems:
-
-# Structured Canvases
-
-  - title: Structured Canvases
-    output: web, pdf
-    folderitems:
-
-# Ethical Practice
-
-  - title: Ethical Practice
-    output: web, pdf
-    folderitems:
-
-# Reference Dictionary
-
-  - title: Reference Dictionary
-    output: web, pdf
-    folderitems:
-
-# Contributors
-  
-  - title: Contributors
-    output: web, pdf
-    folderitems:
-
-
-# Copyright 2022 IASA
