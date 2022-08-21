@@ -285,7 +285,7 @@ on the value stream, there may be different scenarios to test, in which
 case a canvas can be used for each scenario. The expected outcome of the
 scenario should be clearly stated.
 
-<img src=".\media\automation_valuestream_automation_canvas.png" title="" alt="" data-align="center">
+![image001](media/automation_valuestream_automation_canvas.png) 
 
 For each process or task in the value stream scenario the following
 metrics can be measured:
@@ -318,9 +318,10 @@ metrics can be measured:
   is being met.
 
 - **Capacity** -- the capacity shows how well the process is meeting
-  the demand for value units as a percent using the formula:\
-  \
-  ![](.\media\automation_capacity_equation.png)
+  the demand for value units as a percent using the formula:
+
+  ![image001](media/automation_capacity_equation.png) 
+
   For example,
   
   **200 orders /(3600 secs / 10 sec) = 50% Capacity**\
