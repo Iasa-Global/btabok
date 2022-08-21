@@ -42,7 +42,7 @@ Design is both a noun and a verb. “Design” is the verb form of architecture,
 
 Design is deliberate, that is it purposefully set out to create a design that works safely, achieves a specific objective, and is elegant, in that order.  
 
-![loading-ag-2383](../../media/ae6c710b8a2acca374e7640acf500bf42972d756.png) 
+![image001](media/design001.png) 
 
 > *Figure 1 Design Relationships*
 
@@ -118,7 +118,8 @@ Set-based design is a technique championed by SAFe which allows design
 decisions to remain open and supported until learning can help eliminate
 less capable options
 
-![Figure_2](media/design/setbaseddesign.png) 
+
+![image001](media/design002.png) 
 
 > *Figure 2 Set-based vs point-based design -
 > https://www.scaledagileframework.com/set-based-design/*
@@ -140,15 +141,15 @@ capability scope it becomes apparent much more is necessary.
 Every design problem, set of requirements and principles serves to extend or limit the available options. The Design Landscape canvases allow the architect to think about the services and design elements needed without connecting them immediately to a product or a particular style. This stage of design allows the architect to think about
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
-![Figure_3](media/design/maloc-56.svg) 
+![image001](media/design003.png) 
 
 > *Figure 3 Architecture Landscape 1*
 
-![Figure_4](media/design/maloc-56.svg)
+![image001](media/design004.png) 
 
 > *Figure 4 Architecture Landscape 2*
 
-![Figure_5](media/design/maloc-58.svg)
+![image001](media/design005.png) 
 
 > *Figure 5 Architecture Landscape 3*
 
@@ -160,7 +161,7 @@ The options to meet a requirement come from 4 primary areas which represent the
 
 The process of design is rigorous and must be followed with extreme care, especially where a desired technology or design outcome is already in place. This happens because of cognitive bias or because of a desire ‘modern’ architecture. This notion of a modern architecture is itself a kind of cognitive bias where one assumes a set of design choices based on a perception of what is latest and most advanced in the design options space. According to the BTABoK there is no such thing as a ‘modern’ architecture or design, there are simply design patterns and styles which are more or less suited for solving the design challenges at hand. It is essential that the architect trace each design outcome (decision) to a requirement, a principle, or an objective to prove their use in the final system.
 
-![Figure_6](media/design/structuredcanvases.png)
+![image001](media/design006.png) 
 
 Figure 6 Ensuring Design Matches Objectives
 
@@ -304,7 +305,7 @@ The process seeks to bring together what is desired of a solution with what is t
 
 In most modern projects, it is not sufficient to be a good designer. Design and engineering are partnered as they struggle with competing goals, requirements, and constraints. Henry Petroski makes the distinction clear: “What distinguishes the engineer from the technician\[or designer\] is largely the ability to formulate and carry out the detailed calculations of forces and deflections, concentrations and flows, voltages and currents, that are required to test a proposed design on paper with regard to failure criteria.” Applied to software, the difference between engineering it and “merely” designing it is the ability to test the proposed design against various criteria, including failure modes, before code exists to test. This extra effort doesn’t add much difficulty to the task, nor does it take very long. Over time, the teams learn to apply it to only those design decisions you haven’t made before or don’t understand well.
 
-> ![Figure_6](media/design/healthytension.png)
+![image001](media/design007.png) 
 
 > Figure 7 Healthy Tension
 
