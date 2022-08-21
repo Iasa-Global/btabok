@@ -1,11 +1,11 @@
 ---
 title: Get Started
-tags: [business_capabilities, business, getting_started]
-keywords:
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+keywords: 
 sidebar: mydoc_sidebar
-permalink: get_started_cm.html
-folder: btabok
+toc: false
+permalink: get_started_m.html
+folder: top_menu
+summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
 ---
 
 “I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.”
@@ -42,7 +42,7 @@ Digital transformation is a vendor phrase. It is about changing into something a
 
 ## What Goes Where
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/Btabok-edit-570x512.jpg)
+![image001](media/get_started_m01.png)
 
 The right hand navigation leads to semi-independent areas of knowledge exploration in the BTABoK and Iasa. The engagement model is represented by the primary diagram, however it is matched by the competency model, topic areas, the maturity model and structured canvases. All of these areas are connected under the BTABoK umbrella but may be used in independent ways.
 
@@ -94,7 +94,7 @@ The competency model is a very well established body of knowledge on the compete
 
 The maturity model is a very new element of the BTABoK and derives from work Iasa does with companies to evaluate their architecture practice and its impact on digital advantage. The maturity model connects the outcome measures of an organization with the maturity of the concepts of the engagement model and the competencies of the practitioners.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2021/12/maturity-model-767x432.png)
+![image001](media/get_started_m02.png)
 
 ## What is the Structured Canvas Approach
 
