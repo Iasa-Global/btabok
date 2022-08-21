@@ -1,12 +1,13 @@
 ---
-title: Get Started
+title: "Get Started"
 keywords: 
 sidebar: mydoc_sidebar
-toc: false
 permalink: get_started_m.html
 folder: top_menu
 summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
 ---
+
+
 
 “I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.”
 
