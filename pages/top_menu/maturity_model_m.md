@@ -1,13 +1,15 @@
 ---
-title: Maturity Model
+title: "Maturity Model"
 keywords: 
 sidebar: mydoc_sidebar
-toc: false
+toc: true
 permalink: maturity_model_m.html
 folder: top_menu
+summary: "There are numerous maturity models for architecture mostly EA focused."
 ---
 
-There are numerous maturity models for architecture mostly EA focused. In addition their are other maturity models which touch or influence architecture maturity. This section of the ITABoK provides three primary sections. One proposes an architecture maturity model as a part of the ITABoK. The second section provides references and connection points to 3rd party architecture maturity models and related maturity models, some of which are much more robust than the built in Iasa maturity assessment. The third section provides a mechanism for maturity assessment using the ITABoK method or another method to gather practical success and improvement data in a functional engagement model.
+
+There are numerous maturity models for architecture mostly EA focused. In addition their are other maturity models which touch or influence architecture maturity. This section of the BTABoK provides three primary sections. One proposes an architecture maturity model as a part of the BTABoK. The second section provides references and connection points to 3rd party architecture maturity models and related maturity models, some of which are much more robust than the built in Iasa maturity assessment. The third section provides a mechanism for maturity assessment using the BTABoK method or another method to gather practical success and improvement data in a functional engagement model.
 
 ## Section 1: A Simple Value Based Maturity Model
 

@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: get_started_m.html
 folder: top_menu
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+summary: "The most important is it connects all types of architects instead of dividing us further."
 ---
 
 

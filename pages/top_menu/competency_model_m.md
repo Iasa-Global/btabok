@@ -1,10 +1,11 @@
 ---
-title: Competency Model
-keywords: mydoc
+title: "Competency Model"
+keywords: 
 sidebar: mydoc_sidebar
-toc: false
+toc: true
 permalink: competency_model_m.html
 folder: top_menu
+summary: "This guidebook will also assist hiring managers, business managers and human resource representatives."
 ---
 
 The goal is to create an BT architecture competency guidebook based on a people-first approach that conveys best practices and learning objectives at each level of architectural growth. This guidebook will also assist hiring managers, business managers and human resource representatives.

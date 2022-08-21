@@ -1,10 +1,11 @@
 ---
-title: Engagement Models
-keywords: mydoc
+title: "Engagement Models"
+keywords: 
 sidebar: mydoc_sidebar
-toc: false
+toc: true
 permalink: engagement_models_m.html
 folder: top_menu
+summary: "The goal of the engagement model is to make the best use of architecture teams work to deliver on business technology strategy."
 ---
 
 ## What is an Engagement Model
