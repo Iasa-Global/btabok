@@ -234,7 +234,7 @@ that all parties in the collaboration get the information they need.
 When starting a collaboration initiative, it is a good idea to consider
 a communication strategy.
 
-<img src=".\media\collaboration_communication_strategy.png" title="" alt="" data-align="center">
+![image001](media/collaboration_communication_strategy.png) 
 
 The communication strategy helps to define the methods by which
 information is communicated to participants in the collaboration. It is
@@ -324,7 +324,7 @@ stakeholders or teams which belong to different organizations.
 In order to help plan for a collaboration, the Collaboration Planning
 Canvas can be used.
 
-<img src="./media/collaboration_collaboration_planning_canvas.png" title="" alt="" data-align="center">
+![image001](media/collaboration_collaboration_planning_canvas.png) 
 
 The Collaboration Planning Canvas highlights several different areas
 which are valuable when planning a collaboration.
