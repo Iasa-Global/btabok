@@ -38,3 +38,30 @@ entries:
     - title: Business Capabilities
       url: business_capabilities.html
       output: web, pdf
+
+# Competency Model
+
+  - title: Competency Model
+    output: web
+    folderitems:
+
+    - title: Get Started
+      url: /get_started_cm.html
+      output: web
+
+      subfolders:
+      - title: Business Technology Strategy (BTS)
+        output: web
+        subfolderitems:
+
+        - title: Business Fundamentals
+          url: /XYZ.html
+          output: web
+
+      - title: Human Dynamics
+        output: web
+        subfolderitems:
+
+        - title: Managing the Culture
+          url: /XYZ.html
+          output: web
