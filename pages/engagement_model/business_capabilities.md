@@ -8,7 +8,7 @@ folder: engagement_model
 summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
 ---
 
-# Why do we need to think Business Capabilities?
+## Why do we need to think Business Capabilities?
 
 
 In today’s fast-changing business environment the ability to innovate
@@ -78,7 +78,7 @@ things differently in order to meet the needs of our market. Both of
 these usually, but not always, involve changing or building business
 capabilities.
 
-# What is a Business Capability?
+## What is a Business Capability?
 
 As we understand the need for a business capability. The following will
 make it clear to understand how a business capability is defined.
@@ -114,7 +114,7 @@ make it clear to understand how a business capability is defined.
 
 > Figure 1. The relationship between capabilities and processes[^3].
 
-# Business Capability Models
+## Business Capability Models
 
 Models of the set of business capabilities are almost always presented
 as a hierarchical structure that represents increased specificity as you
@@ -151,7 +151,7 @@ continue to be widely used[^4].
 
 >Figure 3. Sample capability heat map.
 
-# Identifying Business Capabilities
+## Identifying Business Capabilities
 
 All participants in a given industry have a common capability model. The
 demands of the industry dictate the capabilities required to
@@ -339,7 +339,7 @@ careful attention to make sure the work is done to specification. To
 supplier, but not pay much attention to it except to monitor compliance
 with the contract.
 
-# Assessing the Impact of Change
+## Assessing the Impact of Change
 
 One of the tasks of the architect is to determine the scope of a change.
 Simply, this means looking at the capability model and identifying those
