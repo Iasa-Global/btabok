@@ -261,7 +261,8 @@ work with developing an architecture. For example, these may be ethical,
 environmental, technology standards. These may not even be specific to
 the organization and can be regarded as industry standards.
 
-<img title="" src="./media/governance_process1.png" alt="" data-align="center">
+
+![image001](media/governance_process1.png) 
 
 The architect can inherit, or develop architecture
 [principles](principles.md), these help the architecture to comply with
@@ -287,7 +288,7 @@ system should be traceable to an individual user, but the governance
 does not state what this means in the context of any given solution, or
 how it should be designed or implemented.
 
-<img src="./media/governance_process2.png" title="" alt="" data-align="center">
+![image001](media/governance_process2.png)
 
 Instead, it is up to the architect and the stakeholders to interpret
 which [requirements](requirements.md) should be placed on the architecture in
@@ -312,7 +313,7 @@ standards. This provides assurance for the resulting architecture
 [deliverables](deliverables.md). In this case, it is the architect and the
 architecture which are the subjects of governance.
 
-<img src="./media/governance_process3.png" title="" alt="" data-align="center">
+![image001](media/governance_process3.png)
 
 However, it is not enough to ensure that the architecture follows
 governance, it is also important to provide assurance that the
@@ -365,7 +366,7 @@ governance for their architecture. This can lead to several different
 interpretations of standards and principles as well as, making
 inspection complex.
 
-<img src="./media/governance_process4.png" title="" alt="" data-align="center">
+![image001](media/governance_process4.png)
 
 One way the architecture practice can make it easier for architectures
 and solutions to comply to governance is to use a reference

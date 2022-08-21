@@ -299,7 +299,8 @@ applications are then categorized as follows:
 The diagram below shows an example of a TIME model based on Tinkelman
 Coffee Shop.
 
-![](C:\IASA\Repro\btabok\pages\engagement_model\media\legacymodernization_time1.png)
+![image001](media/legacymodernization_time1.png)
+
 
 In the example above, several applications are supporting the Tinkelman
 business capabilities. Notice that the same application may support
