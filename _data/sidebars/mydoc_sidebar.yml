@@ -26,3 +26,7 @@ entries:
     - title: Ecosystem
       url: ecosystem.html
       output: web, pdf
+
+    - title: Agility
+      url: agility.html
+      output: web, pdf
