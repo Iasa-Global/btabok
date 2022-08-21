@@ -23,6 +23,6 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Ecosystem004
-      url: test.html
+    - title: Ecosystem
+      url: ecosystem.html
       output: web, pdf
