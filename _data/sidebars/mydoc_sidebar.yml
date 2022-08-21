@@ -75,7 +75,7 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Services
+        - title: Services OM
           url: services_om.html
           output: web
 
