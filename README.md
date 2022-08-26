@@ -16,9 +16,9 @@ The BTABoK repository includes all of the main content for the BTABoK. It is nav
    
    1. While we are experimenting we have uploaded this articles 
       * [__Design__](./pages/engagement_model/design.md)
-      * [__Requirements__](./requirements.md)
-      * [__Requirements Modeling__](./requirements_modeling.md)
-      * [__Architecture Pattern Repository__](./architecture_pattern_repository.md)
+      * [__Requirements__](./pages/engagement_model/requirements.md)
+      * [__Requirements Modeling__](./pages/competency_model/requirements_modeling.md)
+      * [__Architecture Pattern Repository__](./pages/patterns/architecture_pattern_repository.md)
    
    2. The Structure Canvas Approach is listed as a part of the engagement model. All canvases are being stored in the cavases folder as .svg files which are editable by anyone with an SVG editor. 
 
