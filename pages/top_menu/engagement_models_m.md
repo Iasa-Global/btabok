@@ -35,7 +35,6 @@ and navigation lending itself to a somewhat sequential order. It should
 be understood that many of these activities happen concurrently,
 iteratively and with multiple team members leading and participating.
 
-
 ## The Red Thread
 
 For smaller solutions and products, the Red Thread will generally be
