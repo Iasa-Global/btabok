@@ -117,7 +117,7 @@ Pattern Types and Catalog
                  <div class="panel-body">
                      <h4>Proxy Pattern</h4>
                      <p>When upgrading from a monolithic architecture to a microservice-based architecture, the designer(s) can encounter situations where one service depends upon another.</p>
-                     <a href="" class="btn btn-primary">Learn More</a>
+                     <a href="proxy_pattern.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
