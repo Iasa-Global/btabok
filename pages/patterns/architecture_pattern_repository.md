@@ -102,7 +102,7 @@ Pattern Types and Catalog
                  <div class="panel-body">
                      <h4>API Gateway Pattern</h4>
                      <p>The API Gateway is usually an entry-point to the system.</p>
-                     <a href="" class="btn btn-primary">Learn More</a>
+                     <a href="api_gateway_pattern.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
