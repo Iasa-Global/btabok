@@ -1,10 +1,10 @@
 ---
-title: "Aggregator Pattern"
+title: "Throttling"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: aggregator_pattern.html
+permalink: throttling.html
 folder: patterns
-summary: "The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices. Unlike the API Gateway pattern, the Aggregator is usually not be an entry point to the system."
+summary: " "
 ---
 
