@@ -87,7 +87,7 @@ Pattern Types and Catalog
                  <div class="panel-body">
                      <h4>Aggregator Pattern</h4>
                      <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
-                     <a href="" class="btn btn-primary">Learn More</a>
+                     <a href="architecture_pattern_repository.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
