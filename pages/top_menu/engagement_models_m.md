@@ -36,14 +36,22 @@ be understood that many of these activities happen concurrently,
 iteratively and with multiple team members leading and participating.
 
 <ul id="profileTabs" class="nav nav-tabs">
-    <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
-    <li><a href="#about" data-toggle="tab">About</a></li>
-    <li><a href="#match" data-toggle="tab">Match</a></li>
+    <li class="active"><a href="#usageandvalue" data-toggle="tab">Usage and Value</a></li>
+    <li><a href="#assessment" data-toggle="tab">Assessment</a></li>
+    <li><a href="#agiledevOps" data-toggle="tab">Agile DevOps</a></li>
+    <li><a href="#viewpoints" data-toggle="tab">Viewpoints</a></li>
+    <li><a href="#qualityattributes" data-toggle="tab">Quality Attributes</a></li>
+    <li><a href="#decisions" data-toggle="tab">Decisions</a></li>
+    <li><a href="#options" data-toggle="tab">Options</a></li>
+    <li><a href="#requirements" data-toggle="tab">Requirements</a></li>
+    <li><a href="#stakeholders" data-toggle="tab">Stakeholders</a></li>
+    <li><a href="#teamdesign" data-toggle="tab">Team Design</a></li>
 </ul>
   <div class="tab-content">
-<div role="tabpanel" class="tab-pane active" id="profile">
-    <h2>Profile</h2>
-<p>Praesent sit amet fermentum leo....</p>
+<div role="tabpanel" class="tab-pane active" id="usageandvalue">
+    <h2>Usage and Value</h2>
+     <img src="media/usageandvalue001.jpg" alt=""> 
+<p>Usage and Value is achieved after a product/project is deployed. Many architects and organizations ignore the measurements of how well the product measures against the objects and key results that were used to justify it in the first place. The ITABoK heavily suggests usage information measured on dashboards against OKRs in retrospectives against the deployed system.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="about">
