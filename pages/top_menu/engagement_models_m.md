@@ -63,7 +63,7 @@ iteratively and with multiple team members leading and participating.
 
 <div role="tabpanel" class="tab-pane" id="agiledevOps">
     <h2>Agile DevOps</h2>
-    <img src="https://github.com/Iasa-Global/btabok/blob/main/pages/top_menu/media/usageandvalue001.jpg" alt=""> 
+    <img src="https://raw.githubusercontent.com/Iasa-Global/btabok/main/pages/top_menu/media/usageandvalue001.jpg" alt=""> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
 </div>
