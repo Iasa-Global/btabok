@@ -128,8 +128,8 @@ technology strategy and outcomes of the organization.
     <li><a href="#options" data-toggle="tab">Options</a></li>
     <li><a href="#requirements" data-toggle="tab">Requirements</a></li>
     <li><a href="#businesscase" data-toggle="tab">Business Case</a></li>
-    <li><a href="#teamdesign" data-toggle="tab">Team Design</a></li>
-    <li><a href="#teamdesign" data-toggle="tab">Team Design</a></li>
+    <li><a href="#okr" data-toggle="tab">Objective Key Results</a></li>
+    <li><a href="#introduction" data-toggle="tab">Introduction to the Red Thread</a></li>
 </ul>
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="usageandvalue">
@@ -182,20 +182,21 @@ technology strategy and outcomes of the organization.
 
 <div role="tabpanel" class="tab-pane" id="businesscase">
     <h2>Business Case</h2>
-    <img src= "https://btabok.iasaglobal.org/media/stakeholders.png" alt="Business Case"> 
+    <img src= "https://btabok.iasaglobal.org/media/NABC.png" alt="Business Case"> 
     <p>The BTABoK is driven by a Stakeholder Led Approach which provides many tools for the architect and team to create a rigorous stakeholder community.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="teamdesign">
-    <h2>Team Design</h2>
-    <img src= "https://btabok.iasaglobal.org/media/Team-Designer.png" alt="Team Design"> 
-    <p>Product and project team assignments and structure are deeply important to the success of any solution. Aligning the competencies of the architect(s) and the team(s) will have a huge impact on the outcomes. The goal of the Team Designer, Assignments and prioritization activities go together very well whether using agile or more traditional methods of delivery.</p>
+<div role="tabpanel" class="tab-pane" id="okr">
+    <h2>Objective Key Results</h2>
+    <img src= "https://btabok.iasaglobal.org/media/OKRs-2.png" alt="Objective Key Results"> 
+    <p>Objectives and key results is a technique used to derive measurements of success and goals on a specific set of capabilities and the enterprise.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="teamdesign">
-    <h2>Team Design</h2>
-    <img src= "https://btabok.iasaglobal.org/media/Team-Designer.png" alt="Team Design"> 
-    <p>Product and project team assignments and structure are deeply important to the success of any solution. Aligning the competencies of the architect(s) and the team(s) will have a huge impact on the outcomes. The goal of the Team Designer, Assignments and prioritization activities go together very well whether using agile or more traditional methods of delivery.</p>
+<div role="tabpanel" class="tab-pane" id="introduction">
+    <h2>Introduction to the Red Thread</h2>
+    <img src= "https://btabok.iasaglobal.org/media/introduction001.png" alt="Introduction to the Red Thread"> 
+    <p>The red thread represents the minimum architecture steps which provide traceability, rigorous decision making and value management measured against real business outcomes.
+    This should be the minimum architecture applied to every product/project in an enterprise that meets minimum size/complexity requirements (for example maintenance work would not need this level).</p>
 </div>
 
 </div>
