@@ -36,7 +36,7 @@ be understood that many of these activities happen concurrently,
 iteratively and with multiple team members leading and participating.
 
 
-<ul id="profileTabs" class="nav nav-tabs">
+<ul id="" class="nav nav-tabs">
     <li class="active"><a href="#usageandvalue" data-toggle="tab">Usage and Value</a></li>
     <li><a href="#assessment" data-toggle="tab">Assessment</a></li>
     <li><a href="#agiledevOps" data-toggle="tab">Agile DevOps</a></li>
@@ -51,6 +51,7 @@ iteratively and with multiple team members leading and participating.
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="usageandvalue">
     <h2>Usage and Value</h2>
+    <img src="https://raw.githubusercontent.com/Iasa-Global/btabok/main/pages/top_menu/media/usageandvalue001.jpg" alt="123">
     <img src= "./media/usageandvalue001.jpg" alt="123"> 
     <p>Usage and Value is achieved after a product/project is deployed. Many architects and organizations ignore the measurements of how well the product measures against the objects and key results that were used to justify it in the first place. The ITABoK heavily suggests usage information measured on dashboards against OKRs in retrospectives against the deployed system.</p>
 </div>
@@ -63,7 +64,7 @@ iteratively and with multiple team members leading and participating.
 
 <div role="tabpanel" class="tab-pane" id="agiledevOps">
     <h2>Agile DevOps</h2>
-    <img src="https://raw.githubusercontent.com/Iasa-Global/btabok/main/pages/top_menu/media/usageandvalue001.jpg" alt=""> 
+    <img src="" alt=""> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
 </div>
@@ -71,9 +72,6 @@ iteratively and with multiple team members leading and participating.
 
 ## The Red Thread
 
-<div>
-<img src="./media/assessment001.png" alt=""> 
-</div>
 For smaller solutions and products, the Red Thread will generally be
 enough to ensure the product delivers value and is aligned with the
 technology strategy and outcomes of the organization.
