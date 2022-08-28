@@ -51,7 +51,7 @@ iteratively and with multiple team members leading and participating.
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="usageandvalue">
     <h2>Usage and Value</h2>
-    <img src="media/usageandvalue001.jpg" alt=""> 
+    <img src="media/usageandvalue001.jpg" alt="aaaa"> 
     <p>Usage and Value is achieved after a product/project is deployed. Many architects and organizations ignore the measurements of how well the product measures against the objects and key results that were used to justify it in the first place. The ITABoK heavily suggests usage information measured on dashboards against OKRs in retrospectives against the deployed system.</p>
 </div>
 
