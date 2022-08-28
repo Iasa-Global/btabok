@@ -12,7 +12,9 @@ The BTABoK was designed ground up to be a practical resource for any type of arc
 
 The BTABoK is a tool. It works for all architects whether you consider yourself a business focused architect or a technical one. It is also the only truly open body of knowledge in existence. In the following video Paul Preiss describes the value and the use of the BTABoK (he uses it's previous title, ITABoK but they are the same thing). 
 
-<iframe width="100%" height="640" src="https://www.youtube.com/embed/aHkVyrrHbx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="640" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=aHkVyrrHbx4)
 
 **Defining the IT Architect Profession** – What is a BT architect? We provide industry reference models for architects skills and competencies backed by international certifications.
 
