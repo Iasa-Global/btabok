@@ -66,6 +66,49 @@ iteratively and with multiple team members leading and participating.
     <img src= "https://btabok.iasaglobal.org/media/agiledevOps001.png" alt="Agile DevOps"> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
+
+<div role="tabpanel" class="tab-pane" id="viewpoints">
+    <h2>Viewpoints</h2>
+    <img src= "https://btabok.iasaglobal.org/media/OKRs.png" alt="Viewpoints"> 
+    <p>Views and Viewpoints give the architect different ways to look at an architecture using different decision making and design paradigms. For example, one might look at the information view of an architecture to understand the data, information and entities in the system or systems. The availability of views is a hallmark of great architecture thinking and communication.</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="qualityattributes">
+    <h2>Quality Attributes</h2>
+    <img src= "https://btabok.iasaglobal.org/media/QATT.png" alt="Quality Attributes"> 
+    <p>Quality Attributes are the cross-cutting concerns of an architecture related to its structure and quality attribute requirements. Scalability, usability, flexibility, etc are all considered as a part of the quality attribute assessments and design activities. Each area impacts the others so quality attribute design can be a very powerful tool in understanding the overall functioning of the system. Quality attributes also feed directly into the architecture assessment methods presented by Iasa and organizations like the SEI.</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="decisions">
+    <h2>Decisions</h2>
+    <img src= "https://btabok.iasaglobal.org/media/decision.png" alt="decisions"> 
+    <p>Decisions are the heart of architecture. Understanding why a decision was made, how it impacts the solution, how it interacts with other decisions is the core of a great architecture. Being able to trace decisions to cost, benefit and outcome is the pinnacle of delivery and design. The ITABoK is centered on making decisions easier, more relevant and more timely. Decisions relate to requirements, quality attributes, views, structure and complexity, and architecture descriptions in their context.</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="options">
+    <h2>Options</h2>
+    <img src= "https://btabok.iasaglobal.org/media/agiledevOps001.png" alt="Options"> 
+    <p>Decisions are the heart of architecture. Understanding why a decision was made, how it impacts the solution, how it interacts with other decisions is the core of a great architecture. Being able to trace decisions to cost, benefit and outcome is the pinnacle of delivery and design. The ITABoK is centered on making decisions easier, more relevant and more timely. Decisions relate to requirements, quality attributes, views, structure and complexity, and architecture descriptions in their context.</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="requirements">
+    <h2>Requirements</h2>
+    <img src= "https://btabok.iasaglobal.org/media/ASR-CARD.jpg" alt="Requirements"> 
+    <p>Requirements management is a full art and science but what the architect is interested in are Architecturally Signficant Requirements. These requirements come in many shapes and sizes but the architect is interested in requirements that impact structural issues (mostly quality attributes), value (measurable benefits and cost), and constraints (standards, compliance, risk).</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="stakeholders">
+    <h2>Stakeholders</h2>
+    <img src= "https://btabok.iasaglobal.org/media/stakeholders.png" alt="Stakeholders"> 
+    <p>The BTABoK is driven by a Stakeholder Led Approach which provides many tools for the architect and team to create a rigorous stakeholder community.</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="teamdesign">
+    <h2>Team Design</h2>
+    <img src= "https://btabok.iasaglobal.org/media/Team-Designer.png" alt="Team Design"> 
+    <p>Product and project team assignments and structure are deeply important to the success of any solution. Aligning the competencies of the architect(s) and the team(s) will have a huge impact on the outcomes. The goal of the Team Designer, Assignments and prioritization activities go together very well whether using agile or more traditional methods of delivery.</p>
+</div>
+
 </div>
 
 
