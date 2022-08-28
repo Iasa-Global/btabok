@@ -119,29 +119,22 @@ enough to ensure the product delivers value and is aligned with the
 technology strategy and outcomes of the organization.
 
 <ul id="" class="nav nav-tabs">
-    <li class="active"><a href="#usageandvalue" data-toggle="tab">Usage and Value</a></li>
-    <li><a href="#assessment01" data-toggle="tab">Assessment</a></li>
+    <li class="active"><a href="#usageandvalue01" data-toggle="tab">Usage and Value</a></li>
     <li><a href="#agiledevOps01" data-toggle="tab">Agile DevOps</a></li>
     <li><a href="#viewpoints01" data-toggle="tab">Viewpoints</a></li>
     <li><a href="#qualityattributes01" data-toggle="tab">Quality Attributes</a></li>
     <li><a href="#decisions01" data-toggle="tab">Decisions</a></li>
     <li><a href="#options01" data-toggle="tab">Options</a></li>
     <li><a href="#requirements01" data-toggle="tab">Requirements</a></li>
-    <li><a href="#businesscase" data-toggle="tab">Business Case</a></li>
-    <li><a href="#okr" data-toggle="tab">Objective Key Results</a></li>
-    <li><a href="#introduction" data-toggle="tab">Introduction to the Red Thread</a></li>
+    <li><a href="#businesscase01" data-toggle="tab">Business Case</a></li>
+    <li><a href="#okr01" data-toggle="tab">Objective Key Results</a></li>
+    <li><a href="#introduction01" data-toggle="tab">Introduction to the Red Thread</a></li>
 </ul>
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="usageandvalue01">
     <h2>Usage and Value</h2>
     <img src= "https://btabok.iasaglobal.org/media/uav01.jpg" width="100%" height="100%" alt="Usage and Value"> 
     <p>Usage and Value is achieved after a product/project is deployed. Many architects and organizations ignore the measurements of how well the product measures against the objects and key results that were used to justify it in the first place. The BTABoK heavily suggests usage information measured on dashboards against OKRs in retrospectives against the deployed system.</p>
-</div>
-
-<div role="tabpanel" class="tab-pane" id="assessment01">
-    <h2>Assessment</h2>
-    <img src= "https://btabok.iasaglobal.org/media/assessment001.png" width="1200" height="900" alt="Assessment"> 
-    <p>Architecture Assessments are the methods employed to design, review and assess architecture choices against options and to review the choices made in relation to the outcomes expected in the product/project. The goals of assessment are to find missing elements of architecture, things that wont meet quality attribute requirements or design tradeoffs that are not effective for the intended purpose.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="agiledevOps01">
@@ -180,19 +173,19 @@ technology strategy and outcomes of the organization.
     <p>Requirements management is a full art and science but what the architect is interested in are Architecturally Signficant Requirements. These requirements come in many shapes and sizes but the architect is interested in requirements that impact structural issues (mostly quality attributes), value (measurable benefits and cost), and constraints (standards, compliance, risk).</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="businesscase">
+<div role="tabpanel" class="tab-pane" id="businesscase01">
     <h2>Business Case</h2>
     <img src= "https://btabok.iasaglobal.org/media/NABC.png" alt="Business Case"> 
     <p>The BTABoK is driven by a Stakeholder Led Approach which provides many tools for the architect and team to create a rigorous stakeholder community.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="okr">
+<div role="tabpanel" class="tab-pane" id="okr01">
     <h2>Objective Key Results</h2>
     <img src= "https://btabok.iasaglobal.org/media/OKRs-2.png" alt="Objective Key Results"> 
     <p>Objectives and key results is a technique used to derive measurements of success and goals on a specific set of capabilities and the enterprise.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="introduction">
+<div role="tabpanel" class="tab-pane" id="introduction01">
     <h2>Introduction to the Red Thread</h2>
     <img src= "https://btabok.iasaglobal.org/media/introduction001.png" alt="Introduction to the Red Thread"> 
     <p>The red thread represents the minimum architecture steps which provide traceability, rigorous decision making and value management measured against real business outcomes.
