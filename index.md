@@ -132,9 +132,7 @@ We are also looking for committers to help develop and extend the functionality 
 	<area shape="rect" href="/people-model/community/" coords="379,419,419,457" alt="Community">
 	<area shape="rect" href="/getting-started-with-the-btabok/" coords="996,96,1182,123" alt="Getting Started">
 	<area shape="rect" href="/engagement-model-overview-3-0/" coords="987,168,1182,194" alt="Engagement Models">
-	
 	<a href="#competencymodel"><area shape="rect" href="/btabok_3/capability-taxonomy-and-descriptions-3-0/" coords="991,208,1184,233" alt="Competency Model"></a>
-	
 	<area shape="rect" href="/maturity-model/" coords="1003,243,1186,266" alt="Maturity Model">
 	<area shape="rect" href="/trends-and-techniques/" coords="1009,284,1183,306" alt="Topic Areas">
 	<area shape="rect" href="/structured-canvases/" coords="991,318,1184,344" alt="Structured Canvases">
