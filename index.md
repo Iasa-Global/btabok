@@ -143,4 +143,4 @@ We are also looking for committers to help develop and extend the functionality 
 	<area shape="rect" href="#" coords="284,467,337,543" alt="Benefits Realization">
 	<area shape="rect" href="/btabok_3/architecture-practice/" coords="455,448,561,561" alt="Architecture Practice">
 </map>
-<img src="https://btabok.iasaglobal.org/wp-content/uploads/2022/04/Enterprise-3.0-BTABoK04-10.png" alt="" usemap="#image_map" width="1200" height="1000">
+<img src="https://btabok.iasaglobal.org/wp-content/uploads/2022/04/Enterprise-3.0-BTABoK04-10.png" alt="" usemap="#image_map" >
