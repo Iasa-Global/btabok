@@ -51,13 +51,13 @@ iteratively and with multiple team members leading and participating.
   <div class="tab-content">
 <div role="tabpanel" class="tab-pane active" id="usageandvalue">
     <h2>Usage and Value</h2>
-    <img src="media/usageandvalue001.jpg" alt="aaaa"> 
+    <img src= "./media/usageandvalue001.jpg" alt="123"> 
     <p>Usage and Value is achieved after a product/project is deployed. Many architects and organizations ignore the measurements of how well the product measures against the objects and key results that were used to justify it in the first place. The ITABoK heavily suggests usage information measured on dashboards against OKRs in retrospectives against the deployed system.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="assessment">
     <h2>Assessment</h2>
-    <img src="media/assessment001.png" alt=""> 
+    <img src="./media/assessment001.png" alt=""> 
     <p>Architecture Assessments are the methods employed to design, review and assess architecture choices against options and to review the choices made in relation to the outcomes expected in the product/project. The goals of assessment are to find missing elements of architecture, things that wont meet quality attribute requirements or design tradeoffs that are not effective for the intended purpose.</p>
 </div>
 
