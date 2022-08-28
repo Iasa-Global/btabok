@@ -63,7 +63,7 @@ iteratively and with multiple team members leading and participating.
 
 <div role="tabpanel" class="tab-pane" id="agiledevOps">
     <h2>Agile DevOps</h2>
-    <img src="media/agiledevOps001.png" alt=""> 
+    <img src="/blob/main/media/agiledevOps001.png" alt=""> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
 </div>
@@ -71,6 +71,9 @@ iteratively and with multiple team members leading and participating.
 
 ## The Red Thread
 
+<div>
+<img src="./media/assessment001.png" alt=""> 
+</div>
 For smaller solutions and products, the Red Thread will generally be
 enough to ensure the product delivers value and is aligned with the
 technology strategy and outcomes of the organization.
