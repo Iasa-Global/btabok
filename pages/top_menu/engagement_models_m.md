@@ -57,13 +57,13 @@ iteratively and with multiple team members leading and participating.
 
 <div role="tabpanel" class="tab-pane" id="assessment">
     <h2>Assessment</h2>
-    <img src= "images/uav01.jpg" alt="123"> 
+    <img src= "./media/get_started_m01.png" alt="123"> 
     <p>Architecture Assessments are the methods employed to design, review and assess architecture choices against options and to review the choices made in relation to the outcomes expected in the product/project. The goals of assessment are to find missing elements of architecture, things that wont meet quality attribute requirements or design tradeoffs that are not effective for the intended purpose.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="agiledevOps">
     <h2>Agile DevOps</h2>
-    <img src= "media/maturity_model_m01.png" alt="123"> 
+    <img src= "media/get_started_m01.png" alt="123"> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
 </div>
