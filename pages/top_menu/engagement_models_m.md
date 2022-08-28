@@ -120,61 +120,61 @@ technology strategy and outcomes of the organization.
 
 <ul id="" class="nav nav-tabs">
     <li class="active"><a href="#usageandvalue" data-toggle="tab">Usage and Value</a></li>
-    <li><a href="#assessment" data-toggle="tab">Assessment</a></li>
-    <li><a href="#agiledevOps" data-toggle="tab">Agile DevOps</a></li>
-    <li><a href="#viewpoints" data-toggle="tab">Viewpoints</a></li>
-    <li><a href="#qualityattributes" data-toggle="tab">Quality Attributes</a></li>
-    <li><a href="#decisions" data-toggle="tab">Decisions</a></li>
-    <li><a href="#options" data-toggle="tab">Options</a></li>
-    <li><a href="#requirements" data-toggle="tab">Requirements</a></li>
+    <li><a href="#assessment01" data-toggle="tab">Assessment</a></li>
+    <li><a href="#agiledevOps01" data-toggle="tab">Agile DevOps</a></li>
+    <li><a href="#viewpoints01" data-toggle="tab">Viewpoints</a></li>
+    <li><a href="#qualityattributes01" data-toggle="tab">Quality Attributes</a></li>
+    <li><a href="#decisions01" data-toggle="tab">Decisions</a></li>
+    <li><a href="#options01" data-toggle="tab">Options</a></li>
+    <li><a href="#requirements01" data-toggle="tab">Requirements</a></li>
     <li><a href="#businesscase" data-toggle="tab">Business Case</a></li>
     <li><a href="#okr" data-toggle="tab">Objective Key Results</a></li>
     <li><a href="#introduction" data-toggle="tab">Introduction to the Red Thread</a></li>
 </ul>
   <div class="tab-content">
-<div role="tabpanel" class="tab-pane active" id="usageandvalue">
+<div role="tabpanel" class="tab-pane active" id="usageandvalue01">
     <h2>Usage and Value</h2>
     <img src= "https://btabok.iasaglobal.org/media/uav01.jpg" width="100%" height="100%" alt="Usage and Value"> 
     <p>Usage and Value is achieved after a product/project is deployed. Many architects and organizations ignore the measurements of how well the product measures against the objects and key results that were used to justify it in the first place. The BTABoK heavily suggests usage information measured on dashboards against OKRs in retrospectives against the deployed system.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="assessment">
+<div role="tabpanel" class="tab-pane" id="assessment01">
     <h2>Assessment</h2>
     <img src= "https://btabok.iasaglobal.org/media/assessment001.png" width="1200" height="900" alt="Assessment"> 
     <p>Architecture Assessments are the methods employed to design, review and assess architecture choices against options and to review the choices made in relation to the outcomes expected in the product/project. The goals of assessment are to find missing elements of architecture, things that wont meet quality attribute requirements or design tradeoffs that are not effective for the intended purpose.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="agiledevOps">
+<div role="tabpanel" class="tab-pane" id="agiledevOps01">
     <h2>Agile DevOps</h2>
     <img src= "https://btabok.iasaglobal.org/media/agiledevOps001.png" alt="Agile DevOps"> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="viewpoints">
+<div role="tabpanel" class="tab-pane" id="viewpoints01">
     <h2>Viewpoints</h2>
     <img src= "https://btabok.iasaglobal.org/media/OKRs.png" alt="Viewpoints"> 
     <p>Views and Viewpoints give the architect different ways to look at an architecture using different decision making and design paradigms. For example, one might look at the information view of an architecture to understand the data, information and entities in the system or systems. The availability of views is a hallmark of great architecture thinking and communication.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="qualityattributes">
+<div role="tabpanel" class="tab-pane" id="qualityattributes01">
     <h2>Quality Attributes</h2>
     <img src= "https://btabok.iasaglobal.org/media/QATT.png" alt="Quality Attributes"> 
     <p>Quality Attributes are the cross-cutting concerns of an architecture related to its structure and quality attribute requirements. Scalability, usability, flexibility, etc are all considered as a part of the quality attribute assessments and design activities. Each area impacts the others so quality attribute design can be a very powerful tool in understanding the overall functioning of the system. Quality attributes also feed directly into the architecture assessment methods presented by Iasa and organizations like the SEI.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="decisions">
+<div role="tabpanel" class="tab-pane" id="decisions01">
     <h2>Decisions</h2>
     <img src= "https://btabok.iasaglobal.org/media/decision.png" alt="decisions"> 
     <p>Decisions are the heart of architecture. Understanding why a decision was made, how it impacts the solution, how it interacts with other decisions is the core of a great architecture. Being able to trace decisions to cost, benefit and outcome is the pinnacle of delivery and design. The ITABoK is centered on making decisions easier, more relevant and more timely. Decisions relate to requirements, quality attributes, views, structure and complexity, and architecture descriptions in their context.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="options">
+<div role="tabpanel" class="tab-pane" id="options01">
     <h2>Options</h2>
     <img src= "https://btabok.iasaglobal.org/media/agiledevOps001.png" alt="Options"> 
     <p>Decisions are the heart of architecture. Understanding why a decision was made, how it impacts the solution, how it interacts with other decisions is the core of a great architecture. Being able to trace decisions to cost, benefit and outcome is the pinnacle of delivery and design. The ITABoK is centered on making decisions easier, more relevant and more timely. Decisions relate to requirements, quality attributes, views, structure and complexity, and architecture descriptions in their context.</p>
 </div>
 
-<div role="tabpanel" class="tab-pane" id="requirements">
+<div role="tabpanel" class="tab-pane" id="requirements01">
     <h2>Requirements</h2>
     <img src= "https://btabok.iasaglobal.org/media/ASR-CARD.jpg" alt="Requirements"> 
     <p>Requirements management is a full art and science but what the architect is interested in are Architecturally Signficant Requirements. These requirements come in many shapes and sizes but the architect is interested in requirements that impact structural issues (mostly quality attributes), value (measurable benefits and cost), and constraints (standards, compliance, risk).</p>
