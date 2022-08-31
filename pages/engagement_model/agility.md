@@ -296,6 +296,8 @@ that there has to be flexibility in time, cost and scope.
 
 ![image001](media/agility_iron_triangle.png) 
 
+![!image001](media/agility_iron_triangle.png)
+
 The "iron triangle" of project management shows that there is a relation
 between cost, time and scope. The following scenarios apply:
 
