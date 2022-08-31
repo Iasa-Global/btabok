@@ -94,7 +94,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Infrastructure Architecture
 
-1. Access and Identity Management
+1. [Access and Identity Management](../competency_model/aim.md)
 2. Capacity Planning
 3. Common Application Services
 4. Device Management
@@ -109,7 +109,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Software Architecture
 
-1. Development, Methodologies and Processes
+1. [Development, Methodologies and Processes](../competency_model/dmp.md)
 2. Software Architecture Tools
 3. Software Engineering for Architects
 4. Services, Workflow and Messaging
