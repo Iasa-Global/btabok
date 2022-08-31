@@ -61,7 +61,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Quality Attributes
 
-1. Balancing and Optimizing Quality Attributes
+1. [Balancing and Optimizing Quality Attributes](../competency_model/boqa.md)
 2. Manageability, Maintainability, Supportability, Extensibility, and Flexibility
 3. Monitoring and Management
 4. Performance, Reliability, Availability, Scalability
@@ -71,7 +71,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Business Architecture
 
-1. Business Management
+1. [Business Management](../competency_model/business_management.md)
 2. Business Strategy
 3. Portfolio and Program Management
 4. Financial Methods
@@ -83,7 +83,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Information Architecture
 
-1. Data Integration
+1. [Data Integration](../competency_model/data_integration.md)
 2. Information Management
 3. Information Modeling
 4. Information Usage
