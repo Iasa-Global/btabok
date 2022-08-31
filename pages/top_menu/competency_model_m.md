@@ -36,7 +36,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Design
 
-1. Requirements Modeling
+1. [Requirements Modeling](../competency_model/requirements_modeling.md)
 2. Architecture Description
 3. Decomposition and Reuse
 4. Design Methodologies and Processes
