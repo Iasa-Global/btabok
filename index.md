@@ -9,4 +9,4 @@ summary:
 ---
 
 
-![image001](images/BTABoK_map.png)
+![image001](images/BTABoK_map.png){:height="36px" width="36px"}
