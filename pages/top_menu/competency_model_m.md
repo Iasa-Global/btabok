@@ -14,7 +14,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Business Technology Strategy (BTS)
 
-1. Business Fundamentals
+1. [Business Fundamentals](../competency_model/business_fundamentals.md) 
 2. Strategy Development and Rationalization
 3. Industry Analysis
 4. Business Valuation
