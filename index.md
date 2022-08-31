@@ -9,13 +9,4 @@ summary:
 ---
 
 
-<html>
-<head>
-    <script src="js/imageMapResizer.js"></script> 
-</head>
-
-<body>
-    <img src="images/BTABoK_map.png" alt="">
-</body>    
-</html>
-
+![image001](images/BTABoK_map.png)
