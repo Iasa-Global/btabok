@@ -9,8 +9,6 @@ summary:
 ---
 
 
-![image001](images/BTABoK_map.png){:height="36px" width="36px"}
-
-<img src="images/BTABoK_map.png"  width=10% height=10%>
+![image001](images/BTABoK_map.png)
 
 
