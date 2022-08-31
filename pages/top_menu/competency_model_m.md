@@ -26,7 +26,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Human Dynamics
 
-1. Managing the Culture
+1. [Managing the Culture](../competency_model/managing_the_culture.md)
 2. Customer Relations
 3. Leadership and Management
 4. Peer Interaction
@@ -48,7 +48,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## IT Environment
 
-1. Technical Project Management
+1. [Technical Project Management](../competency_model/technical_pm.md)
 2. Asset Management
 3. Change Management
 4. Infrastructure
