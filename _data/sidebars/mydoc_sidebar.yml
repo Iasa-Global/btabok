@@ -34,6 +34,10 @@ entries:
         - title: Ecosystem
           url: ecosystem.html
           output: web
+        
+        - title: Ecosystem
+          url: ecosystem.html
+          output: web
 
       - title: Digital Business
         output: web
