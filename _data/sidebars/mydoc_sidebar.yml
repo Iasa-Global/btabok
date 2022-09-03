@@ -35,8 +35,12 @@ entries:
           url: ecosystem.html
           output: web
         
-        - title: Ecosystem
-          url: ecosystem.html
+        - title: Engagement
+          url: engagement.html
+          output: web
+
+        - title: Journey
+          url: journey.html
           output: web
 
       - title: Digital Business
