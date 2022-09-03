@@ -67,6 +67,14 @@ entries:
         output: web
         subfolderitems:
 
+        - title: Culture
+          url: culture.html
+          output: web
+
+        - title: Mindset
+          url: mindset.html
+          output: web
+
         - title: Collaboration
           url: collaboration.html
           output: web

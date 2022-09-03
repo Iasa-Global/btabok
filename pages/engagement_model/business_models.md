@@ -232,4 +232,7 @@ Understanding a digital business is critical in the success of any architecture 
 
 [![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc-300x105.png)](https://btabok.iasaglobal.org/wp-content/uploads/2019/09/BUSINESS-MODEL-CANVAS.ppt)
 
+![image001](media/by-nc.png)
+
+
 ## [ITABoK 3.0 by](https://btabok.iasaglobal.org/wp-content/uploads/2019/09/BUSINESS-MODEL-CANVAS.ppt) [ITABoK 3.0](https://itabok.iasaglobal.org/itabok3_0/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://itabok.iasaglobal.org/itabok3\_0/](https://itabok.iasaglobal.org/itabok3_0/).
