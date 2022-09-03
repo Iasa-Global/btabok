@@ -87,8 +87,16 @@ entries:
           url: automation.html
           output: web
 
+        - title: Safety & Liability
+          url: safety_liability.html
+          output: web
+
         - title: Velocity
           url: velocity.html
+          output: web
+
+        - title: Simplicity
+          url: simplicity.html
           output: web
 
       - title: Operating Model
