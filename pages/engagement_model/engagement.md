@@ -175,7 +175,17 @@ The architect does not prioritize outside of tier 1 safety and liability issues.
 
 Architects are responsible at all levels of scope for digital engagement. The BTABoK lists numerous areas of possible influence, outcome, and objectives for the team to which the team can commit.
 
-**MeasureDescriptionConnect ConceptsNet Promoter Score**How likely a customer is to recommend something to friends and family.Stakeholder, Product/Project, Capability, Value Stream**Customer Satisfaction**How satisfied the customer is based on a combination of interaction measures. Often a survey is combined with measures like key results like chat success, live call reporting, etc.Customer Journey, Services, Capabilities, Value Stream, Mindset, Value Methods**Customer Lifetime Value**[CLV=(frequency of purchase)\*(Time period)\*(Profit)](https://surveysparrow.com/blog/customer-engagement-metrics/#section5)Benefits Realization, Value Methods, Investment Prioritization, Product/Project**Customer Stickiness**How long a customer is retained. This includes customer retention measures and changes from existing to new.Benefits Realization, Value Methods, Investment Prioritization, Product/Project**Technology Interaction Statistics**How customers interact through digital means and omnichannel experiences.Quality Attributes (Usability, Security, etc.), Benefits Realization, Value Methods, Investment Prioritization, Product/Project**Social Media Measures**How to trace metrics through social media’s ‘long-tail’ effects such as mentions, positive reviews, brand championships.Benefits Realization, Value Methods, Investment Prioritization, Product/Project
+
+
+
+| **Measure**   |      **Description**      |  **Connect Concepts** |
+|----------|:-------------:|------:|
+| **Net Promoter Score** |  How likely a customer is to recommend something to friends and family. | Stakeholder, Product/Project, Capability, Value Stream |
+| **Customer Satisfaction** |    How satisfied the customer is based on a combination of interaction measures. Often a survey is combined with measures like key results like chat success, live call reporting, etc.   |   Customer Journey, Services, Capabilities, Value Stream, Mindset, Value Methods |
+| **Customer Lifetime Value** |  [CLV=(frequency of purchase)*(Time period)*(Profit)](https://surveysparrow.com/blog/customer-engagement-metrics/#section5) |    Benefits Realization, Value Methods, Investment Prioritization, Product/Project |
+| **Customer Stickiness** | How long a customer is retained. This includes customer retention measures and changes from existing to new. |    Benefits Realization, Value Methods, Investment Prioritization, Product/Project |
+| **Technology Interaction Statistics** | How customers interact through digital means and omnichannel experiences. |    Quality Attributes (Usability, Security, etc.), Benefits Realization, Value Methods, Investment Prioritization, Product/Project |
+| **Social Media Measures** | How to trace metrics through social media’s ‘long-tail’ effects such as mentions, positive reviews, brand championships. |    Benefits Realization, Value Methods, Investment Prioritization, Product/Project |
 
 # References and Further Reading
 
