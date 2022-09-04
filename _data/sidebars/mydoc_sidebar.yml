@@ -43,6 +43,10 @@ entries:
           url: journey.html
           output: web
 
+        - title: Innovate
+          url: innovate.html
+          output: web
+
       - title: Digital Business
         output: web
         subfolderitems:
@@ -63,6 +67,10 @@ entries:
           url: business_capabilities.html
           output: web
 
+        - title: Transform
+          url: transform.html
+          output: web
+
       - title: Digital Employee
         output: web
         subfolderitems:
@@ -77,6 +85,10 @@ entries:
 
         - title: Collaboration
           url: collaboration.html
+          output: web
+
+        - title: Utilize
+          url: utilize.html
           output: web
 
       - title: Digital Operations
@@ -258,6 +270,14 @@ entries:
         - title: Community
           url: community.html
           output: web           
+
+      - title: Architecture Practice
+        output: web
+        subfolderitems:
+
+        - title: Overview
+          url: architecture_practice.html
+          output: web
 
       - title: Architecture Practice
         output: web
