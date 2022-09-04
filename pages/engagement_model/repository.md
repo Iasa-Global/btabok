@@ -44,7 +44,7 @@ Most architecture teams will need very little documentation to describe an archi
 
 For example, many organizations use capability models to describe their enterprise and in many of those environments the architecture team is responsible for introducing the model as well as maintaining it. These models are extremely useful to both stakeholder as well as architecture decisions. However, commonly the architecture team needs a very minimal version of the capability model whereas the enterprise requires a much more robust and well maintained version. In this scenario the team would design a capability model for its use first. Then introduce the model to the enterprise. If other stakeholders found value in this model, they should be willing and able to maintain it, otherwise the team should switch back to the original easy to maintain version useful to the architects.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/05/image002-1.png)
+![image001](media/repository001.png)
 
 ### Repository v Usage
 
@@ -56,7 +56,7 @@ In addition the level of maintenance for aspects of the repository must be consi
 
 A repository must have some loose structure at least which guides what types of things should be stored and how. Probably the most well know structural model of an architecture repository is the TOGAF architecture repository description. This standard provides an enterprise-level description of architecture repositories.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/05/image003-1-617x512.png)
+![image001](media/repository002.png)
 
 Figure 1 TOGAF Repository Structure
 
@@ -97,7 +97,7 @@ Repository and Tools
 
 The marketplace is filled with tools for the architect. When considering tools it is best to understand when and how it will be used within the architecture delivery methodology. The team can use the process engagement canvas to determine the appropriate level of artifacts, information and tools necessary to support their current engagement. 
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTS-PROCESS-ENGAGEMENT-CANVAS-028-cropped-745x512.png)](https://itabok.iasaglobal.org/architects-process-engagement-canvas/)
+![image001](media/repository003.png)
 
 The Process Engagement Canvas allows a team to define the artifacts and processes the tooling needs to support.
 
@@ -150,6 +150,6 @@ References
 
 <https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html>
 
-![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc.png)
+![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at <https://btabok.iasaglobal.org/>
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

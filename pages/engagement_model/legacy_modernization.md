@@ -432,3 +432,7 @@ the new system, this may involve using time-consuming manual processes.
 Triage**
 
 <https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod>
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

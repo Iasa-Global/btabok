@@ -37,7 +37,7 @@ Experimenation can be very lightweight in most companies but it provides the per
 
 The experiment card can be used to design experiments for a team or group or for the individual. Starting with observations, problems or opportunities, the team brainstorms options which might impact the opportunity. They select one of the options as a possible experiment and create a set of actions to test it, including a hypothesis and possible qualitative and quantitative measure which can be evaluated agains actual results.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/EXPERIMENT-CARD-012-cropped-742x512.png)
+![image001](media/experiments001.png)
 
 Requirements and Business Cases are Also Just Experiments
 ---------------------------------------------------------
@@ -109,6 +109,7 @@ Using Hypotheses
 To generate hypothesis and to develop a possible experiment use the Architecture Hypothesis Card.
 
 ![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTURE-HYPOTHESIS-CARD-063-cropped-744x512.png)
+![image001](media/experiments002.png)
 
 References and Further Reading
 ==============================
@@ -127,6 +128,6 @@ https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experim
 
 > [Private Workshop: Continuous Innovation & Change with PopcornFlow](https://agilesensei.com/popcornflow/)
 
-![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc.png)
+![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at <https://btabok.iasaglobal.org/>
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

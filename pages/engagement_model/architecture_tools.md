@@ -66,13 +66,13 @@ The process of architecture tool selection requires the team coordinate and unde
 
 **Step 2:** Use the Tool Requirements Canvas to list and describe usage requirements using a sticky note and dot-voting mechanism to identify the primary impact areas of the tool in question.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/image002-2-767x427-cropped.png)
+![image001](media/tools001.png)
 
 ### Using the Decision Record to Select
 
 The BTABoK Decision Record Card is an excellent tool to compare and contrast different architecture tools on the marketplace.
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTURE-DECISION-RECORD-CARD-014-cropped-755x512.png)](https://itabok.iasaglobal.org/architecture-decision-record/)
+![image001](media/tools002.png)
 
 Additional elements to consider in tool evaluation are more related to the method by which the tool is deployed. Keep in mind tools like canvases while paper still require versioning, communication, printing and other physical limitations.
 
@@ -102,6 +102,6 @@ References
 
 <https://www.academia.edu/6549603/Enterprise_Architecture_Tool_Selection_Guide>
 
-![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc.png)
+![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at <https://btabok.iasaglobal.org/>
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

@@ -80,7 +80,7 @@ The Product Lifecycle
 
 The product approach defines an approximate lifecycle that all products go through, to support this journey there should be a long-lived team which continues to deliver business value as the needs change.  
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2021/08/image002-767x427.png)
+![image001](media/p_p001.png)
 
 The key focus of the architect in these phases of the life cycle are:
 
@@ -123,6 +123,6 @@ References and Further Reading
 **SAFe**\
 <https://www.scaledagileframework.com/>  
 
-![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc.png)
+![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at <https://btabok.iasaglobal.org/>
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

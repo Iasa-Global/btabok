@@ -405,3 +405,7 @@ https://www.governancetoday.com/GT/Material/Governance__what_is_it_and_why_is_it
 **ITIL**
 
 <https://www.axelos.com/best-practice-solutions/itil>
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
