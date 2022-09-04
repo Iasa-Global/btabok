@@ -157,8 +157,7 @@ Both of these environments are displayed in the figure below.  In order to�
 
 The business sponsor says that your component needs to be 99.99% available (~53 minutes of unplanned downtime per year).  The two red boxes show where this availability is required -- where the clients call in to your API component in each environment. 
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2021/10/image-6-767x401.png)
-![image001](media/q_a002.png)
+![image001](media/q_a003.png)
 
 *Example system under analysis for high availability* 
 
