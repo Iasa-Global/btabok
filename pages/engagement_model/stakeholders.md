@@ -148,7 +148,7 @@ architect. The following sections provide a description of some tools
 which can help the architect analyze stakeholders and decide how best to
 manage stakeholders.
 
-<img src=".\media\stakeholders_overview1.png" title="" alt="" data-align="center">ers_overview1.png){width="5.0in" height="3.78125in"}
+![image001](media/stakeholders001.png)
 
 These can be used in many different scenarios. The diagram above shows
 when these tools can be used to support the management of stakeholders.
@@ -198,7 +198,7 @@ with each other.
 Ask each participant to place the stakeholders on the Power-Interest
 Grid according to the perceived interest and power of the stakeholder.
 
-<img src=".\media\stakeholders_grid2.png" title="" alt="" data-align="center">
+![image001](media/stakeholders002.png)
 
 **Step 3: Reach consensus**
 
@@ -294,7 +294,7 @@ in connecting the stakeholders with relationship lines. At this point
 the participants only need to indicate that they are aware that a
 relationship exists between stakeholders.
 
-<img src=".\media\stakeholders_canvas3.png" title="" alt="" data-align="center">
+![image001](media/stakeholders003.png)
 
 **Step 5: Assess the relationships**
 
@@ -356,7 +356,7 @@ stakeholder can be associated with more than one of the proposed
 changes. Also ask the participants to think about how the stakeholder is
 currently positioned to the proposed change.
 
-<img title="" src=".\media\stakeholders_canvas4.png" alt="" data-align="center">
+![image001](media/stakeholders004.png)
 
 **Step 3: Position the stakeholders**
 
@@ -407,7 +407,7 @@ what are the participants trying to achieve. For example, "Why should I
 replace the business system?" or "Why should I support the new data
 center?".
 
-<img src=".\media\stakeholders_empathy5.png" title="" alt="" data-align="center">
+![image001](media/stakeholders005.png)
 
 **Step 3: Put yourself in the stakeholder's shoes**
 
@@ -476,7 +476,7 @@ Each communication method will also have a list of stakeholders whose
 needs will be fulfilled by the communication method. The same
 stakeholder may be present in a number of communication methods.
 
-<img title="" src=".\media\stakeholders_canvas6.png" alt="" data-align="center">
+![image001](media/stakeholders006.png)
 
 The canvas above shows an example of a communication strategy. There are
 different ways to work with this canvas, sometimes the stakeholders may
@@ -496,3 +496,6 @@ strategy gives a practical plan for managing stakeholder communication.
 
 **TOGAF 9: Stakeholder Management**
 <https://pubs.opengroup.org/architecture/togaf9-doc/m/chap21.html>
+
+![image001](media/by-nc.png)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
