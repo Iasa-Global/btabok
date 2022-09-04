@@ -236,7 +236,7 @@ entries:
         subfolderitems:
 
         - title: Extended Team
-          url: objectives.html
+          url: extended_team.html
           output: web
 
         - title: Organization
@@ -264,5 +264,5 @@ entries:
         subfolderitems:
 
         - title: Overview
-          url: overview_ap.html
+          url: architecture_practice.html
           output: web
