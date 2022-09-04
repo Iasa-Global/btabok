@@ -107,8 +107,16 @@ entries:
           url: services.html
           output: web
 
-        - title: Lifecycle
+        - title: Assignment
+          url: assignment.html
+          output: web
+
+        - title: Architecture Lifecycle
           url: lifecycle.html
+          output: web
+
+        - title: Decisions
+          url: decisions.html
           output: web
 
         - title: Design
@@ -122,29 +130,53 @@ entries:
         - title: Stakeholders
           url: stakeholders.html
           output: web
-        
+
         - title: Requirements
           url: requirements.html
           output: web
-        
+
         - title: Views
           url: views.html
           output: web
 
-        - title: Governance
-          url: governance.html
+        - title: Quality Attributes
+          url: quality_attributes.html
+          output: web
+
+        - title: Deliverables
+          url: deliverables.html
           output: web
 
         - title: Legacy Modernization
           url: legacy_modernization.html
           output: web
 
+        - title: Repository
+          url: repository.html
+          output: web
+
+        - title: Architecture Tools
+          url: architecture_tools.html
+          output: web
+
         - title: Quality Assurance
           url: quality_assurance.html
           output: web
 
+        - title: Governance
+          url: governance.html
+          output: web
+
+        - title: Product & Project
+          url: product_project.html
+          output: web
+
         - title: Roadmap
           url: roadmap.html
+          output: web
+
+        - title: Experiments
+          url: experiments.html
           output: web
 
       - title: Value Model
