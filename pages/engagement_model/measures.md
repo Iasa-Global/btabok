@@ -127,7 +127,6 @@ Use Measurement in Technical Debt
 
 The technical debt metaphor has its roots in converting technology choices to measurements that can help deliver value. A team or product may implement features in a less desirable way to improve delivery time. But this must be translated into clear value measures to identify a payback period and amount for these decisions. This makes decisions related to technical debt ripe for measurement. The technical loan card can be used alongside measures to frame all technical debt as a financial payback problem.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2022/03/image007-1-683x512.png)
 ![image001](media/measures006.png)
 
 Figure 6 Technical Loan Card
