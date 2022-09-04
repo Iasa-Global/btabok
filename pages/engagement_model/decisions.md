@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: decisions.html
 folder: engagement_model
-summary: " "
+summary: "Architectural decisions are at the root of our practice but they are often hard to spot."
 ---
 
 "Making good decisions is a crucial skill at every level."
@@ -54,32 +54,27 @@ To effectively manage decisions, the architecture team should put in place a dec
 5.  Create a set of [engagement model](https://btabok.iasaglobal.org/btabok_3/engagement/) principles to address each of these situations based on the outcomes the team would like to achieve.
 6.  Revisit during engagement method update.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/04/Picture1-767x453.png)
-![image001](media/by-nc.png)
+![image001](media/decisions001.png)
 
 Figure 1 Architecture Traceability
 
 Use the architecture decision record card as a way to identify option categories and comparisons for framework decisions. The cards can be used on all but the most complex decision categories. To use the card download the PowerPoint file and a) if using alone simply fill out the card with the decision context, linkage to requirements, and other fields, or b) print at canvas size and use sticky notes with a team to brainstorm decision categories and other fields.
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTURE-DECISION-RECORD-CARD-014-cropped-755x512.png)](https://itabok.iasaglobal.org/architecture-decision-record/)
-![image001](media/by-nc.png)
+![image001](media/decisions002.jpg)
 
 ### Decisions Come with Cognitive Biases
 
 All decisions are vulnerable to human failings and weaknesses, which is why it is so important to make them clearly and with as many objective tools possible. Cognitive biases represent the ways in which human biases impact decisions. The team, product owner, all the way to executive should be intimately familiar with biases as they are generally the root of bad decisions.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/04/cognitive-bias-758x512.jpg)
-![image001](media/by-nc.png)
+![image001](media/decisions003.jpg)
 
 Figure 3 Cognitive Bias -- <https://www.raconteur.net/infographics/cognitive-bias>
 
 To re-enforce a decision and to ensure it is as free of bias as possible, use the decision bias calibrator card to understand and reframe the decision away from biases.
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2021/12/DECISION-BIAS-CALIBRATOR-1-CARD-017-cropped-762x512.png)](https://itabok.iasaglobal.org/decision-bias-calibrator-1/)
-![image001](media/by-nc.png)
+![image001](media/decisions004.jpg)
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2021/12/DECISION-BIAS-CALIBRATOR-2-CARD-018-cropped-756x512.png)](https://itabok.iasaglobal.org/decision-bias-calibrator-2/)
-![image001](media/by-nc.png)
+![image001](media/decisions005.jpg)
 
 ### Decisions and their Characteristics and Methods
 
@@ -153,8 +148,8 @@ This is the Last Responsible Moment to make the decision, Glenn Ballard and Todd
 
 One decision tends to lead to another. However, it is distinctly important to consider how one impacts another and whether that deserves its own independent tradeoff analysis. Having an HTML front end generally necessitates a web server, but which one and how will it impact the other elements and structural integrity of your architecture? Decision cascades are a means by which some decisions get covered up and cause systemic problems later. As the organization gets more experience making decisions first order objects, these cascades tend to get halted around elements that have deep structural or business outcomes.
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTURE-DECISION-CASCADE-CARD-015-cropped-756x512.png)](https://itabok.iasaglobal.org/architecture-decision-cascade-card/)
-![image001](media/by-nc.png)
+
+![image001](media/decisions006.jpg)
 
 #### Decisions Affect the Enterprise
 
@@ -190,16 +185,14 @@ The following tools and techniques can be useful in managing architecture decisi
 
 ### Architecture Decision Record
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTURE-DECISION-RECORD-CARD-014-cropped-755x512.png)](https://itabok.iasaglobal.org/architecture-decision-record/)
-![image001](media/by-nc.png)
+![image001](media/decisions007.png)
 
 ### Decision Bias Calibrator
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2021/12/DECISION-BIAS-CALIBRATOR-1-CARD-017-cropped-762x512.png)](https://itabok.iasaglobal.org/decision-bias-calibrator-1/)
-![image001](media/by-nc.png)
 
-[![](https://itabok.iasaglobal.org/wp-content/uploads/2021/12/DECISION-BIAS-CALIBRATOR-2-CARD-018-cropped-1-756x512.png)](https://itabok.iasaglobal.org/decision-bias-calibrator-2/)
-![image001](media/by-nc.png)
+![image001](media/decisions008.png)
+
+![image001](media/decisions009.png)
 
 References
 ==========

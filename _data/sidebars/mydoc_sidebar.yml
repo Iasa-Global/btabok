@@ -112,7 +112,7 @@ entries:
           output: web
 
         - title: Architecture Lifecycle
-          url: lifecycle.html
+          url: architecture_lifecycle.html
           output: web
 
         - title: Decisions
