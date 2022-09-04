@@ -235,16 +235,16 @@ entries:
         output: web
         subfolderitems:
 
-        - title: Objectives
+        - title: Extended Team
           url: objectives.html
           output: web
 
-        - title: Objectives
-          url: benefits_realization.html
+        - title: Organization
+          url: organization.html
           output: web
 
-        - title: Objectives
-          url: value_methods.html
+        - title: Roles
+          url: roles.html
           output: web
 
         - title: Objectives
