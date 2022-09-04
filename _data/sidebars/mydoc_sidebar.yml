@@ -111,6 +111,10 @@ entries:
           url: simplicity.html
           output: web
 
+        - title: Measures
+          url: measures.html
+          output: web
+
       - title: Operating Model
         output: web
         subfolderitems:
