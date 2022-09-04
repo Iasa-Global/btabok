@@ -247,16 +247,16 @@ entries:
           url: roles.html
           output: web
 
-        - title: Objectives
-          url: risk_methods.html
+        - title: Competency
+          url: competency.html
           output: web 
 
-        - title: Objectives
-          url: objectives.html
+        - title: Job Description
+          url: job_description.html
           output: web
           
-        - title: Objectives
-          url: benefits_realization.html
+        - title: Community
+          url: community.html
           output: web           
 
       - title: Architecture Practice
