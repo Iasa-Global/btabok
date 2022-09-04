@@ -20,7 +20,7 @@ Requirements are recognized and developed throughout the entire portfolio of the
 
 For the purpose of the BTABoK, all thinking, ideas and desires about a business or technology system can be characterized as requirements, though depending on the full engagement model in use by an organization they may be called other names and use other format. 
 
-![Figure_1](media/requirements/ASR01.png)
+![Figure_1](media/requirements001.png)
 
 ## Description
 
@@ -105,3 +105,6 @@ Architectural requirements generally do no match detailed requirements specifica
 | **Valuable**       | The implementation of the requirement can demonstrate measurable value to one or more areas of the organization.                           |
 
 
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

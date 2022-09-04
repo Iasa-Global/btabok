@@ -1,5 +1,5 @@
 ---
-title: "Views"
+title: "Views and Viewpoints"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

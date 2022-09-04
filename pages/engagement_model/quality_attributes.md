@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: quality_attributes.html
 folder: engagement_model
-summary: " "
+summary: "A quality attribute around security might be to prevent malicious code being added to the system through a plug-in developed by another organization."
 ---
 
 "Quality is never an accident. It is always the result of intelligent effort."
@@ -44,8 +44,7 @@ We will show how to get started with analyzing a project for quality attribute
 
 First, we will start by identifying a list of the attributes through conversation and workshops with the primary stakeholders and sponsors of the system.  With this list, we should identify one to five quality attributes which are critical to the system, which we can likely delegate to software developers through our "definition of done" (a shared understanding of how to make decisions and implement any functionality in the system), and which quality attributes are not challenging above standard practice for the project.  In the figure below, we identify five critical quality attributes for performing additional analysis on. 
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2021/10/image-4-767x268.png)
-![image001](media/by-nc.png)
+![image001](media/q_a001.png)
 
 I*dentifying and prioritizing quality attributes*
 
@@ -74,8 +73,7 @@ Does that mean that all hope is lost?  No.  But we need to watch a couple thin
 
 For the first steps, we may use a canvas or card like the one shown below to capture our starting point: epic title, principles, enablers (suggested to be put in Backlog or Jira), and monitoring strategy. 
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2021/10/image-5-e1634683448489-767x414.png)
-![image001](media/by-nc.png)
+![image001](media/q_a002.png)
 
 *A quality attribute planning canvas*
 
@@ -160,7 +158,7 @@ Both of these environments are displayed in the figure below.  In order to�
 The business sponsor says that your component needs to be 99.99% available (~53 minutes of unplanned downtime per year).  The two red boxes show where this availability is required -- where the clients call in to your API component in each environment. 
 
 ![](https://itabok.iasaglobal.org/wp-content/uploads/2021/10/image-6-767x401.png)
-![image001](media/by-nc.png)
+![image001](media/q_a002.png)
 
 *Example system under analysis for high availability* 
 
