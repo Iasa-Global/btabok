@@ -108,7 +108,6 @@ Using Hypotheses
 
 To generate hypothesis and to develop a possible experiment use the Architecture Hypothesis Card.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/ARCHITECTURE-HYPOTHESIS-CARD-063-cropped-744x512.png)
 ![image001](media/experiments002.png)
 
 References and Further Reading

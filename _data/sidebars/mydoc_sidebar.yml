@@ -186,3 +186,64 @@ entries:
         - title: Objectives
           url: objectives.html
           output: web
+
+        - title: Technical Debt
+          url: technical_debt.html
+          output: web
+
+        - title: Investment Planning
+          url: investment_planning.html
+          output: web
+
+        - title: Scope and Context
+          url: scope_context.html
+          output: web
+
+        - title: Structural Complexity
+          url: structural_complexity.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+        - title: Objectives
+          url: objectives.html
+          output: web  
+
+
+      - title: People Model
+        output: web
+        subfolderitems:
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+
+      - title: Architecture Practice
+        output: web
+        subfolderitems:
+
+        - title: Overview
+          url: overview_ap.html
+          output: web

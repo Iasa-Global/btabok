@@ -1,5 +1,5 @@
 ---
-title: "Business Technology Architecture Body of Knowledge"
+title: "Business Technology </br>Architecture Body of Knowledge"
 keywords: BTABoK
 tags: [getting_started, welcome_page]
 toc: true
