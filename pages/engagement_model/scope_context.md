@@ -23,7 +23,6 @@ Levels of Scope in the BTABoK
 
 The BTABoK contains many references to scope. The following diagram depicts the relationships within the meta-model and the glossary defines them for their use in practice.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/07/image002-3-634x512.png)
 ![image001](media/s_c001.png)
 
 | **Scope** | **Definition** |
@@ -61,7 +60,6 @@ Additional contextual influences are location, including geography, language, an
 
 Here's an example mapping of an organization's context.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/07/image004-1.png)
 ![image001](media/s_c002.png)
 
 -   The difference between a US- or small Asian country--based business
@@ -73,7 +71,6 @@ Here's an example mapping of an organization's context.
 
 Let's look at this a little closer. Most companies have very similar operations and business units. They have a finance group that handles the global ledger, accounting, budgeting, and reporting.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2020/07/image003-2.png)
 ![image001](media/s_c003.png)
 
 There will be some differences based on their organization type. However the sales group may differ drastically The architect will have to understand where you fit into this equation. Are you externally or internally focused? Service firms often provide external architecture to their clients but often fail to adopt it formally for themselves---a situation we like to call "eating their own dog food." What other differences might exist based on these two particular architecture contexts?

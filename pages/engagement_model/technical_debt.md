@@ -92,7 +92,6 @@ Managing technical debt
 
 It is obvious that technical debt in not going to go away by it's own, so organizations are actively managing it then. Actually, they are not, Carnegie Mellon surveyed 1800 organizations, it can be seen in the chart below that 65% had no standard approach to dealing with technical debit.
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2021/08/image003-767x447.png)
 ![image001](media/t_d002.png)
 
 The different types of technical debt need to be managed in different ways, by different levels in the organization:

@@ -203,20 +203,20 @@ entries:
           url: structural_complexity.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Coverage
+          url: coverage.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Principles
+          url: principles.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Analysis
+          url: analysis.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Value Streams
+          url: value_streams.html
           output: web
 
         - title: Objectives
