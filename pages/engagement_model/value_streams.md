@@ -76,8 +76,9 @@ Capability Value Stream Mapping
 Capability Value Stream Mapping is a technique that involves exploring and understanding the capabilities required to deliver on an organisations value proposition to a stakeholder. A generic model looks something like Figure 2: Generic Capability Value stream.
 
 ![image001](media/v_s002.png)
-
 Figure 2: Archimate 3 -- Generic Capability Value Stream -- Descriptive
+
+
 
 The Value Stream describes the value flow, the connections between capabilities indicate boundaries. Concepts such as Bounded Contexts from Domain Driven Design provide a useful way of organising elements of the map. Each exchange between capabilities can be subsequently modelled as a Service Interaction between a consumer & a provider. This approach lends itself to the identification and development of Service Models supporting collaboration across Capabilities.
 
@@ -160,7 +161,6 @@ Capabilities come in all shapes and sizes. Capability Contribution captures the 
 -   Essential: Capabilities that drive financial performance but not little value proposition impact
 -   Business Necessity: Capabilities that are necessary but not seen as creating value or driving financial performance
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2018/02/CapabilityContributionMap.png)
 ![image001](media/v_s004.png)
 
 Figure 5: Capability Contribution
@@ -191,7 +191,6 @@ Goal: Understand Service Boundaries, Service Interactions and Value Flow
 
 Purpose: Find Services, Service Boundaries
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2018/02/ServicesAreConnected.png)
 ![image001](media/v_s005.png)
 
 Figure 6: Services are Connected

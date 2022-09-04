@@ -219,18 +219,17 @@ entries:
           url: value_streams.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Benefits Realization
+          url: benefits_realization.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Value Methods
+          url: value_methods.html
           output: web
 
-        - title: Objectives
-          url: objectives.html
+        - title: Risk Methods
+          url: risk_methods.html
           output: web  
-
 
       - title: People Model
         output: web
@@ -239,6 +238,26 @@ entries:
         - title: Objectives
           url: objectives.html
           output: web
+
+        - title: Objectives
+          url: benefits_realization.html
+          output: web
+
+        - title: Objectives
+          url: value_methods.html
+          output: web
+
+        - title: Objectives
+          url: risk_methods.html
+          output: web 
+
+        - title: Objectives
+          url: objectives.html
+          output: web
+          
+        - title: Objectives
+          url: benefits_realization.html
+          output: web           
 
       - title: Architecture Practice
         output: web
