@@ -3,7 +3,7 @@ title: "Agile Team Desinger"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: agile_team_desinger.html
+permalink: agile_team_designer.html
 folder: engagement_model
 summary: ""
 ---

@@ -28,6 +28,6 @@ topnav_dropdowns:
         - title: Topic Areas
           url: topic_areas_m.html
         - title: Structured Canvases
-          url: structured_canvases_m.html
+          url: structured_canvases/structured_canvases_m.html
 
 # Copyright 2022 IASA
