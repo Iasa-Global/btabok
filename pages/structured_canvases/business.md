@@ -14,3 +14,4 @@ summary: ""
 4. [Value Stream Details Canvas](value_stream_details_canvas.md)
 5. [Value Stream Canvas](value_stream_canvas.md)
 6. [Transition Roadmap Canvas](transition_roadmap_canvas.md)
+7. [Three Horizon Canvas](three_horizon_canvas.md)
