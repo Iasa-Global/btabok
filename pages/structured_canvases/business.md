@@ -16,4 +16,7 @@ summary: ""
 6. [Transition Roadmap Canvas](transition_roadmap_canvas.md)
 7. [Three Horizon Canvas](three_horizon_canvas.md)
 8. [Technical Loan Request Card](technical_loan_request_card.md)
-9. [Strategy Scorecard Canvass](strategy_scorecard_canvas.md)
+9. [Strategy Scorecard Canvas](strategy_scorecard_canvas.md)
+10. [Strategic Roadmap Canvas](strategic_roadmap_canvas.md)
+11. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md)
+12. [Stakeholder Initiative Canvas](stakeholder_initiative_canvas.md)
