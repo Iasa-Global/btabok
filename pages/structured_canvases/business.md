@@ -15,3 +15,5 @@ summary: ""
 5. [Value Stream Canvas](value_stream_canvas.md)
 6. [Transition Roadmap Canvas](transition_roadmap_canvas.md)
 7. [Three Horizon Canvas](three_horizon_canvas.md)
+8. [Technical Loan Request Card](technical_loan_request_card.md)
+9. [Strategy Scorecard Canvass](strategy_scorecard_canvas.md)

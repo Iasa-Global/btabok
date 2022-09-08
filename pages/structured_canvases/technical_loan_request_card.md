@@ -1,9 +1,9 @@
 ---
-title: "Three Horizon Canvas"
+title: "Technical Loan Request Card"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: three_horizon_canvas.html
+permalink: technical_loan_request_card.html
 folder: structured_canvases
 summary: ""
 ---
