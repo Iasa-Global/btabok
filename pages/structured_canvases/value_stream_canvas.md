@@ -10,9 +10,9 @@ summary: ""
 
 The value stream canvas is used to understand where value is created in an organization driven from customers through control, suppliers and operations. The first canvas available in the ITABoK is derived visually from traditional manufacturing value streams where it originated. Other value stream canvases (such as the [development value stream canvas](https://btabok.iasaglobal.org/value-stream-canvas)) may be more useful in digital activities.
 
-![](https://btabok.iasaglobal.org/wp-content/uploads/2022/01/DEVELOPMENT-VALUE-STREAM-CANVAS-038-cropped.png)
+![image001](media/value_stream_canvas001.svg)
 
-[Download PPT](https://btabok.iasaglobal.org/wp-content/uploads/2021/08/VALUE-STREAM-CANVAS-037.ppt)
+[Download PPT](media/ppt/transition_roadmap_canvas.ppt)
 
 | Area | Description | Links To |
 | --- | --- | --- |
