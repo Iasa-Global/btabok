@@ -4,7 +4,7 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 permalink: ecosystem_map_canvas.html
-folder: engagement_model
+folder: structured_canvases
 summary: ""
 ---
 

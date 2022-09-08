@@ -4,7 +4,7 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 permalink: PESTLE_canvas.html
-folder: engagement_model
+folder: structured_canvases
 summary: "Traditionally automation is often thought of in terms of industrial automation, which is a subject in itself."
 ---
 

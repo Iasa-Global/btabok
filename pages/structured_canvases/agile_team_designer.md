@@ -4,7 +4,7 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 permalink: agile_team_designer.html
-folder: engagement_model
+folder: structured_canvases
 summary: ""
 ---
 
