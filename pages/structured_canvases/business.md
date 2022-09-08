@@ -20,3 +20,6 @@ summary: ""
 10. [Strategic Roadmap Canvas](strategic_roadmap_canvas.md)
 11. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md)
 12. [Stakeholder Initiative Canvas](stakeholder_initiative_canvas.md)
+13. [Service Landscape Canvas](service_landscape_canvas.md)
+14. [Service Domain Canvas](service_domain_canvas.md)
+15. [Service Contract Canvas](service_contract_canvas.md)
