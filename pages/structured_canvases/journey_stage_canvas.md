@@ -1,13 +1,25 @@
 ---
-title: "Business"
+title: "Journey Stage Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: business.html
+permalink: journey_stage_canvas.html
 folder: structured_canvases
 summary: ""
 ---
 
-![image001](media/values_stream_canvas001.svg)
+![image001](media/journey_stage_canvas001.svg)
 
-[Download PPT](media/ppt/ppt/values_stream_detail_canvas.ppt)
+[Download PPT](media/ppt/journey_stage_canvas.ppt)
+
+| Area | Description | Links To |
+| --- | --- | --- |
+| Persona |   |   |
+| Scenario |   |   |
+| Goals & Expectations |   |   |
+| Stage |   |   |
+| Doing |   |   |
+| Thinking |   |   |
+| Feeling |   |   |
+| Opportunities |   |   |
+| Time |   |   |

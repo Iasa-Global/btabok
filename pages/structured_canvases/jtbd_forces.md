@@ -1,13 +1,18 @@
 ---
-title: "Business"
+title: "JTBD Forces"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: business.html
+permalink: jtbd_forces.html
 folder: structured_canvases
 summary: ""
 ---
 
-![image001](media/values_stream_canvas001.svg)
+![image001](media/jtbd_forces001.svg)
 
-[Download PPT](media/ppt/ppt/values_stream_detail_canvas.ppt)
+[Download PPT](media/ppt/jtbd_forces.ppt)
+
+| Area | Description | Links To |
+| --- | --- | --- |
+| Forces Promoting Change |   |   |
+| Forces Blocking Change |   |   |
