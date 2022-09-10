@@ -1,0 +1,23 @@
+---
+title: "Canvas Flow Map"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: canvas_flow_map.html
+folder: structured_canvases
+summary: ""
+---
+
+![image001](media/canvas_flow_map001.svg)
+
+[Download PPT](media/ppt/canvas_flow_map.ppt)
+
+| Area | Description | Links To |
+| --- | --- | --- |
+| Elevator Pitch |   |   |
+| Valuable Client Insight |   |   |
+| Solution Idea |   |   |
+| Customer and Solution Features |   |   |
+| Architecture Description |   |   |
+| Operational, Measurable Implementation |   |   |
+| Insight |   |   |
