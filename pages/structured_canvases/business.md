@@ -39,7 +39,6 @@ summary: ""
 29. [Customer Journey Map](customer_journey_map.md)
 30. [Course Change Card](course_change_card.md)
 31. [Context View Card](context_view_card.md)
-
 33. [Communication Strategy](communication_strategy.md)
 34. [Canvas Flow Map](canvas_flow_map.md)
 35. [Lean Business Case: NABC Card](business_case_nabc_card.md)
@@ -48,24 +47,24 @@ summary: ""
 38. [Benefits Realization View Canvas](benefits_realization_view_canvas.md)
 39. [Architecturally Significant Requirements Card](asr_card.md)
 40. [Benefit Dependency Network Canvas](benefits_dependency_network_canvas.md)
-
 41. [Architecture Pains and Gains Canvas](architecture_pains_and_gains.md)
 42. [Architecture Hypothesis Card](architecture_hypothesis_card.md)
 43. [Architecture Definition Canvas](architecture_definition_canvas.md)
 44. [Architect Team Goals Canvas](architect_team_goals_canvas.md)
 45. [Architect Stakeholder Card](architect_stakeholder_card.md)
 46. [Architect Stakeholder Canvas](architect_stakeholder_canvas.md)
+47. [Architects Process Engagement Canvas](architects_process_engagement_canvas.md)
+48. [Architects Engagement Touchpoints](architects_engagement_touchpoints.md)
+49. [Architect Skills GAP Analysis](architect_skills_gap_analysis.md)
 
-47. [XX](XX.md)
-48. [XX](XX.md)
-49. [XX](XX.md)
-
-50. [XX](XX.md)
+50. [Architect Organization Capability Canvas](architect_organization_canvas.md)
 51. [XX](XX.md)
 52. [XX](XX.md)
+
 53. [XX](XX.md)
 54. [XX](XX.md)
 55. [XX](XX.md)
+
 56. [XX](XX.md)
 58. [XX](XX.md)
 59. [XX](XX.md)
