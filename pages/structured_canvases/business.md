@@ -56,14 +56,12 @@ summary: ""
 47. [Architects Process Engagement Canvas](architects_process_engagement_canvas.md)
 48. [Architects Engagement Touchpoints](architects_engagement_touchpoints.md)
 49. [Architect Skills GAP Analysis](architect_skills_gap_analysis.md)
-
 50. [Architect Organization Capability Canvas](architect_organization_canvas.md)
-51. [XX](XX.md)
-52. [XX](XX.md)
-
-53. [XX](XX.md)
-54. [XX](XX.md)
-55. [XX](XX.md)
+51. [Architect Ethical Principles](architect_ethical_principles.md)
+52. [Agile Enterprise Impact Canvas](agile_enterprise_impact_canvas.md)
+53. [Architects Roadmap Canvas](architects_roadmap_canvas.md)
+54. [Layered Roadmap Canvas](layered_roadmap_canvas.md)
+55. [QAT Card](qat_card.md)
 
 56. [XX](XX.md)
 58. [XX](XX.md)
