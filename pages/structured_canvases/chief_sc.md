@@ -65,4 +65,3 @@ summary: ""
 55. [Westrum Culture Diagnostic](westrum_culture_diagnostic.md)
 56. [ARS Card](ars_card.md)
 
-
