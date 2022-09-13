@@ -1,0 +1,68 @@
+---
+title: "Chief"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: chief.html
+folder: structured_canvases
+summary: ""
+---
+
+1. [Agile Team Designer](agile_team_designer.md)
+2. [Ecosystem Map](ecosystem_map.md)
+3. [Value Stream Canvas](value_stream_canvas.md)
+4. [Transition Roadmap Canvas](transition_roadmap_canvas.md)
+5. [Three Horizon Canvas](three_horizon_canvas.md)
+6. [Technical Loan Request Card](technical_loan_request_card.md)
+7. [Strategy Scorecard Canvas](strategy_scorecard_canvas.md)
+8. [Strategic Roadmap Canvas](strategic_roadmap_canvas.md)
+9. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md)
+10. [Stakeholder Initiative Canvas](stakeholder_initiative_canvas.md)
+11. [Service Landscape Canvas](service_landscape_canvas.md)
+12. [Product Roadmap Canvas](product_roadmap_canvas.md)
+13. [Development Value Stream Canvas](development_value_stream_canvas.md)
+14. [Market Segmentation Canvas](market_segmentation_canvas.md)
+15. [JTBD Forces](jtbd_forces.md)
+16. [Journey Stage Canvas](journey_stage_canvas.md)
+17. [Impact Effort Assessment Card](impact_effort_assessment_card.md)
+18. [Experiment Card](experiment_card.md)
+19. [Envisioning Canvas](envisioning_canvas.md)
+20. [Doability Canvas](doability_canvas.md)
+21. [Demand Signal Card](demand_signal_card.md)
+22. [Decision Bias Calibrator (1 of 2)](decision_bias_calibrator_1.md)
+23. [Decision Bias Calibrator (2 of 2)](decision_bias_calibrator_2.md)
+24. [Customer Journey Map](customer_journey_map.md)
+25. [Course Change Card](course_change_card.md)
+26. [Context View Card](context_view_card.md)
+27. [Communication Strategy](communication_strategy.md)
+28. [Business Capability Canvas](business_capability_canvas.md)
+29. [Lean Business Case: NABC Card](business_case_nabc_card.md)
+30. [Canvas Flow Map](canvas_flow_map.md)
+31. [Blue Ocean Canvas](blue_ocean_canvas.md)
+32. [Benefits Realization View Canvas](benefits_realization_view_canvas.md)
+33. [Benefit Dependency Network Canvas](benefits_dependency_network_canvas.md)
+34. [Architecturally Significant Requirements Card](asr_card.md)
+35. [Architecture Pains and Gains Canvas](architecture_pains_and_gains.md)
+36. [Architecture Hypothesis Card](architecture_hypothesis_card.md)
+37. [Architect Team Goals Canvas](architect_team_goals_canvas.md)
+38. [Architect Stakeholder Card](architect_stakeholder_card.md)
+39. [Architect Stakeholder Canvas](architect_stakeholder_canvas.md)
+40. [Architects Process Engagement Canvas](architects_process_engagement_canvas.md)
+41. [Architects Engagement Touchpoints](architects_engagement_touchpoints.md)
+42. [Architect Skills GAP Analysis](architect_skills_gap_analysis.md)
+43. [Architect Organization Capability Canvas](architect_organization_canvas.md)
+44. [Architect Ethical Principles](architect_ethical_principles.md)
+45. [Agile Enterprise Impact Canvas](agile_enterprise_impact_canvas.md)
+46. [Layered Roadmap Canvas](layered_roadmap_canvas.md)
+47. [QAT Card](qat_card.md)
+48. [SCARF Stakeholder Assessment](scarf_stakeholder_assessment.md)
+49. [Stakeholder Engagement Map Card](stakeholder_engagement_map_card.md)
+50. [Stakeholder Management Plan](stakholder_management_plan.md)
+51. [Benefit Card](benefit_card.md)
+52. [Capability Card](capability_card.md)
+53. [Business Model Canvas](business_model_canvas.md)
+54. [Architecture Decision Record](architecture_decision_record.md)
+55. [Westrum Culture Diagnostic](westrum_culture_diagnostic.md)
+56. [ARS Card](ars_card.md)
+
+
