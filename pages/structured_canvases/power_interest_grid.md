@@ -1,5 +1,5 @@
 ---
-title: "XX"
+title: "Power – Interest Grid"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

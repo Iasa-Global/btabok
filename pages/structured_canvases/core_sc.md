@@ -1,9 +1,9 @@
 ---
-title: "Business"
+title: "Core"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: business.html
+permalink: core_sc.html
 folder: structured_canvases
 summary: ""
 ---
@@ -19,14 +19,13 @@ summary: ""
 9. [Service Interface Design Canvas](service_interface_design_canvas.md)
 10. [Risk and Cost Card](risk_and_cost_card.md)
 11. [Stakeholder Analysis: Power – Interest Grid](power_interest_grid.md)
-
-12. [Persona Card](XX.md)
-13. [Mission Vision Card](XX.md)
-14. [Modern Architecture Landscape One Card](XX.md)
-15. [Modern Architecture Landscape Two Card](XX.md)
-16. [Modern Architecture Landscape Three Card](XX.md)
-17. [Architecture Decision Cascade Card](XX.md)
-18. [XX](XX.md)
+12. [Persona Card](persona_card.md)
+13. [Mission Vision Card](mission_vision_card.md)
+14. [Modern Architecture Landscape One Card](modern_architecture_landscape_one_card.md)
+15. [Modern Architecture Landscape Two Card](modern_architecture_landscape_two_card.md)
+16. [Modern Architecture Landscape Three Card](modern_architecture_landscape_three_card.md)
+17. [Architecture Decision Cascade Card](architecture_decision_cascade_card.md)
+18. [OKR Card](okr_card.md)
 
 
 
