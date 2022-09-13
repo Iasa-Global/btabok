@@ -16,10 +16,10 @@ summary: ""
 6. [Stakeholder Engagement Map Card](stakeholder_engagement_map_card.md)
 7. [Stakeholder Management Plan](stakholder_management_plan.md)
 8. [Decision Bias Calibrator (1 of 2)](decision_bias_calibrator_1.md)
+9. [Service Interface Design Canvas](service_interface_design_canvas.md)
+10. [Risk and Cost Card](risk_and_cost_card.md)
+11. [Stakeholder Analysis: Power – Interest Grid](power_interest_grid.md)
 
-9. [Service Interface Design Canvas](XX.md)
-10. [Risk and Cost Card](XX.md)
-11. [Stakeholder Analysis: Power – Interest Grid](XX.md)
 12. [Persona Card](XX.md)
 13. [Mission Vision Card](XX.md)
 14. [Modern Architecture Landscape One Card](XX.md)
