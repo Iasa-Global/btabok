@@ -1,9 +1,9 @@
 ---
-title: "Chief"
+title: "Structured Canvases - Chief"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: chief.html
+permalink: chief_sc.html
 folder: structured_canvases
 summary: ""
 ---

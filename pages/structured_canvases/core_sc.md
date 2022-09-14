@@ -1,5 +1,5 @@
 ---
-title: "Core"
+title: "Structured Canvases - Core"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

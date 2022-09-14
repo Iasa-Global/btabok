@@ -1,5 +1,5 @@
 ---
-title: "Software"
+title: "Structured Canvases - Software"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

@@ -1,9 +1,9 @@
 ---
-title: "Business"
+title: "Structured Canvases - Business"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: business.html
+permalink: business_sc.html
 folder: structured_canvases
 summary: ""
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Solution"
+title: "Structured Canvases - Solution"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
