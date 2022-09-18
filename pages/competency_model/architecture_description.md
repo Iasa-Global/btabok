@@ -1,9 +1,9 @@
 ---
-title: "XXXXX"
+title: "Architecture Description"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: XXX.html
+permalink: architecture_description.html
 folder: competency_model
 summary: ""
 ---

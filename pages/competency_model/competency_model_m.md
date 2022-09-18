@@ -26,25 +26,25 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Human Dynamics
 
-1. [Managing the Culture](../competency_model/managing_the_culture.md)
-2. Customer Relations
-3. Leadership and Management
-4. Peer Interaction
-5. Collaboration and Negotiation
-6. Presentation Skills
-7. Writing Skills
+1. [Managing the Culture](managing_the_culture.md)
+2. [Customer Relations](customer_relations.md)
+3. [Leadership and Management](leadership_and_management.md)
+4. [Peer Interaction](peer_interaction.md)
+5. [Collaboration and Negotiation](collaboration_and_negotiation.md)
+6. [Presentation Skills](presentation_skills.md)
+7. [Writing Skills](writing_skills.md)
 
 ## Design
 
-1. [Requirements Modeling](../competency_model/requirements_modeling.md)
-2. Architecture Description
-3. Decomposition and Reuse
-4. Design Methodologies and Processes
-5. Design Patterns and Styles
-6. Design Analysis and Testing
-7. Traceability Throughout the Lifecycle
-8. Views & Viewpoints
-9. The Whole Systems Design
+1. [Requirements Modeling](requirements_modeling.md)
+2. [Architecture Description](architecture_description.md)
+3. [Decomposition and Reuse](decomposition_and_reuse.md)
+4. [Design Methodologies and Processes](design_methodologies_and_processes.md)
+5. [Design Patterns and Styles](design_patterns_and_styles.md)
+6. [Design Analysis and Testing](design_analysis_and_testing.md)
+7. [Traceability Throughout the Lifecycle](traceability_throughout_the_lifecycle.md)
+8. [Views & Viewpoints](views_viewpoints.md)
+9. [The Whole Systems Design](the_whole_systems_design.md)
 
 ## IT Environment
 
