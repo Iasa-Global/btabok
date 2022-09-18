@@ -14,15 +14,15 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Business Technology Strategy (BTS)
 
-1. [Business Fundamentals](../competency_model/business_fundamentals.md) 
-2. Strategy Development and Rationalization
-3. Industry Analysis
-4. Business Valuation
-5. Investment Prioritization and Planning
-6. Requirements Discovery and Constraints Analysis
-7. Compliance
-8. Architecture Methodologies & Frameworks
-9. Risk Management
+1. [Business Fundamentals](business_fundamentals.md)
+2. [Strategy Development and Rationalization](strategy_development_and_rationalization.md)
+3. [Industry Analysis](industry_analysis.md)
+4. [Business Valuation](business_valuation.md)
+5. [Investment Prioritization and Planning](investment_prioritization_and_planning.md)
+6. [Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md)
+7. [Compliance](compliance.md)
+8. [Architecture Methodologies & Frameworks](amf.md) 
+9. [Risk Management](risk_management.md)
 
 ## Human Dynamics
 
