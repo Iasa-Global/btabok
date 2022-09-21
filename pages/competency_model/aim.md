@@ -186,11 +186,7 @@ http://www.identitymanagementinstitute.org/
 
 # Author
 
-  
-
 ![Farzad Ahmed](media/farzad_ahmed.jpg)
-
-
 ### **Farzad Ahmed**
 
 ### **IT Consultant – Gartner**
