@@ -72,14 +72,14 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 ## Business Architecture
 
 1. [Business Management](business_management.md)
-2. Business Strategy](views_viewpoints.md)
-3. Portfolio and Program Management](views_viewpoints.md)
-4. Financial Methods](views_viewpoints.md)
-5. Technology Investment](views_viewpoints.md)
-6. Technology Strategy and Innovation](views_viewpoints.md)
-7. Governance, Risk and Compliance](views_viewpoints.md)
-8. Business Views and Models](views_viewpoints.md)
-9. Leading Organizational Change](views_viewpoints.md)
+2. [Business Strategy](business_strategy.md)
+3. [Portfolio and Program Management](views_viewpoints.md)
+4. [Financial Methods](views_viewpoints.md)
+5. [Technology Investment](views_viewpoints.md)
+6. [Technology Strategy and Innovation](views_viewpoints.md)
+7. [Governance, Risk and Compliance](views_viewpoints.md)
+8. [Business Views and Models](views_viewpoints.md)
+9. [Leading Organizational Change](views_viewpoints.md)
 
 ## Information Architecture
 
