@@ -62,12 +62,12 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 ## Quality Attributes
 
 1. [Balancing and Optimizing Quality Attributes](boqa.md)
-2. Manageability, Maintainability, Supportability, Extensibility, and Flexibility](views_viewpoints.md)
-3. Monitoring and Management](views_viewpoints.md)
-4. Performance, Reliability, Availability, Scalability](views_viewpoints.md)
-5. Security](views_viewpoints.md)
-6. Usability, Localization, Accessibility, Personalization/Customizability](views_viewpoints.md)
-7. Packaging, Delivery, Post Deployment](views_viewpoints.md)
+2. [Manageability, Maintainability, Supportability, Extensibility, and Flexibility](mmsef.md)
+3. [Monitoring and Management](monitoring_and_management.md)
+4. [Performance, Reliability, Availability, Scalability](pras.md)
+5. [Security](security.md)
+6. [Usability, Localization, Accessibility, Personalization/Customizability](ulapc.md)
+7. [Packaging, Delivery, Post Deployment](pdpd.md)
 
 ## Business Architecture
 
