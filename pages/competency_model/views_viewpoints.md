@@ -1,4 +1,4 @@
----
+Financial Methods---
 title: "Views & Viewpoints"
 keywords: 
 sidebar: mydoc_sidebar
