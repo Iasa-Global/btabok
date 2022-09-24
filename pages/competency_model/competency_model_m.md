@@ -95,17 +95,17 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 ## Infrastructure Architecture
 
 1. [Access and Identity Management](aim.md)
-2. Capacity Planning](views_viewpoints.md)
-3. Common Application Services](views_viewpoints.md)
-4. Device Management](views_viewpoints.md)
-5. Infrastructure RAS](views_viewpoints.md)
-6. Network Design](views_viewpoints.md)
-7. Operations](views_viewpoints.md)
-8. System Management and Services](views_viewpoints.md)
-9. Data Center Design](views_viewpoints.md)
-10. Provisioning](views_viewpoints.md)
-11. Disaster Recovery and Backup](views_viewpoints.md)
-12. High Availability Computing Environment](views_viewpoints.md)
+2. [Capacity Planning](capacity_planning.md)
+3. [Common Application Services](cas.md)
+4. [Device Management](device_management.md)
+5. [Infrastructure RAS](infrastructure_ras.md)
+6. [Network Design](network_design.md)
+7. [Operations](operations.md)
+8. [System Management and Services](sms.md)
+9. [Data Center Design](dcd.md)
+10. [Provisioning](provisioning.md)
+11. [Disaster Recovery and Backup](drb.md)
+12. [High Availability Computing Environment](hace.md)
 
 ## Software Architecture
 
