@@ -73,24 +73,24 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 1. [Business Management](business_management.md)
 2. [Business Strategy](business_strategy.md)
-3. [Portfolio and Program Management](views_viewpoints.md)
-4. [Financial Methods](views_viewpoints.md)
-5. [Technology Investment](views_viewpoints.md)
-6. [Technology Strategy and Innovation](views_viewpoints.md)
-7. [Governance, Risk and Compliance](views_viewpoints.md)
-8. [Business Views and Models](views_viewpoints.md)
-9. [Leading Organizational Change](views_viewpoints.md)
+3. [Portfolio and Program Management](ppm.md)
+4. [Financial Methods](financial_methods.md)
+5. [Technology Investment](technology_investment.md)
+6. [Technology Strategy and Innovation](tsi.md)
+7. [Governance, Risk and Compliance](grc.md)
+8. [Business Views and Models](bvm.md)
+9. [Leading Organizational Change](loc.md)
 
 ## Information Architecture
 
 1. [Data Integration](data_integration.md)
-2. Information Management](views_viewpoints.md)
-3. Information Modeling](views_viewpoints.md)
-4. Information Usage](views_viewpoints.md)
-5. Business Intelligence and Data Warehousing](views_viewpoints.md)
-6. Information Operations](views_viewpoints.md)
-7. Information Governance and Management](views_viewpoints.md)
-8. Information Value](views_viewpoints.md)
+2. [Information Management](information_management.md)
+3. [Information Modeling](information_modeling.md)
+4. [Information Usage](information_usage.md)
+5. [Business Intelligence and Data Warehousing](bidw.md)
+6. [Information Operations](information_operations.md)
+7. [Information Governance and Management](igm.md)
+8. [Information Value](information_value.md)
 
 ## Infrastructure Architecture
 
