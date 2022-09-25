@@ -9,8 +9,7 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    hideTitle: true
-    output: web
+    url: /get_started_m.html
     folderitems:
 
     - title: Overview
