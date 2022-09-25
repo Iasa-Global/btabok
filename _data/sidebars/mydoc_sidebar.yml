@@ -9,12 +9,9 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    output: web, pdf
-    folderitems:
+    url: /get_started_m.html
+    output: web
 
-    - title: Overview
-      url: /get_started_m.html
-      output: web, pdf
 
 # Engagement Model
 
