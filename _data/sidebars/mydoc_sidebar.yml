@@ -8,10 +8,9 @@ entries:
 
 # Getting Started
 
-    - title: Getting Started
-      url: /get_started_m.html
-      output: web, pdf
-      folderitems:
+  - title: Getting Started
+    output: web, pdf
+    folderitems:
 
     - title: Overview
       url: /get_started_m.html
