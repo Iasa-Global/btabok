@@ -109,12 +109,12 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 
 ## Software Architecture
 
-1. [Development, Methodologies and Processes](dmp.md)
-2. Software Architecture Tools](views_viewpoints.md)
-3. Software Engineering for Architects](views_viewpoints.md)
-4. Services, Workflow and Messaging](views_viewpoints.md)
-5. Advanced Quality Attributes](views_viewpoints.md)
-6. Advanced Stakeholder Management](views_viewpoints.md)
-7. Software Architecture Patterns](views_viewpoints.md)
-8. Technology Platforms and Frameworks](views_viewpoints.md)
-10. Data/Information/Knowledge Management](views_viewpoints.md)
+1. [Development, Methodologies and Processes](development_mp.md)
+2. [Software Architecture Tools](software_at.md)
+3. [Software Engineering for Architects](software_ea.md)
+4. [Services, Workflow and Messaging](services_wm.md)
+5. [Advanced Quality Attributes](advanced_qa.md)
+6. [Advanced Stakeholder Management](advanced_sm.md)
+7. [Software Architecture Patterns](software_ap.md)
+8. [Technology Platforms and Frameworks](technology_pf.md)
+10. [Data/Information/Knowledge Management](data_ikm.md)
