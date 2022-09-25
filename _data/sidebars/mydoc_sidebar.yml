@@ -9,6 +9,7 @@ entries:
 # Getting Started
 
   - title: Getting Started
+    hideTitle: true
     output: web
     folderitems:
 
