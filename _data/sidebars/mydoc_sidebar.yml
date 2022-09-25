@@ -10,6 +10,7 @@ entries:
 
   - title: Getting Started
     url: engagement_models_m.html
+    output: web
     folderitems:
 
     - title: Overview
