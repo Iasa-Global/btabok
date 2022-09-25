@@ -6,6 +6,7 @@ toc: true
 permalink: get_started_m.html
 folder: top_menu
 summary: "The most important is it connects all types of architects instead of dividing us further."
+toc_sticky: true
 ---
 
 
