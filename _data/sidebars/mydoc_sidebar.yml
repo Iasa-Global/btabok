@@ -9,8 +9,7 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    url: /get_started_m.html
-      output: web
+    output: web
 
 # Engagement Model
 
