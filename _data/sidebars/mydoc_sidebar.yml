@@ -12,6 +12,10 @@ entries:
     url: /get_started_m.html
     output: web
 
+  - title: Getting Started02
+    url: get_started_m.html
+    output: web
+
 
 # Engagement Model
 
