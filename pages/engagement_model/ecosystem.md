@@ -32,8 +32,8 @@ and scalable, they are loosely coupled and there is no explicit control
 of the parties in the ecosystem. By nature they are complex disordered
 systems and will change over time due to internal and external forces.
 
-The interaction or [collaboration](collaboration.md) of parties in the
-ecosystem creates [value streams](valuestreams.md) which provide
+The interaction or [collaboration](collaboration.md){:target="_blank"} of parties in the
+ecosystem creates [value streams](value_streams.md){:target="_blank"} which provide
 opportunities. When value increases the ecosystem grows, and when value
 decreases the ecosystem retracts, this may result in the ecosystem being
 overtaken by another ecosystem with greater value.
@@ -48,7 +48,7 @@ It is important for the architect to understand the ecosystem in order
 to uncover opportunities and mitigate risks. Understanding how an
 organization provides value for its customers, provides the basis for
 innovation and optimization of operations. The strategies and
-[decisions](decisions.md) an organization has made to integrate with the
+[decisions](decisions.md){:target="_blank"} an organization has made to integrate with the
 ecosystem are a key factor in forming an architecture. Architects who
 ignore the ecosystem risk missing constraints or opportunities when
 developing the architecture.
@@ -88,7 +88,7 @@ against the ecosystem is good practice and supports sustainability.
 ## Understand the Customer Journey
 
 In order to understand the ecosystem it is important to understand the
-[customer journey,](customer_journey.md) including the customer interaction with
+[customer journey,](customer_journey.md){:target="_blank"} including the customer interaction with
 parties external to the organization. This provides the basis for
 potential collaboration, and an understanding about how parties can work
 together to provide a greater value for the customer. For example, when
@@ -174,7 +174,7 @@ are invisible to the customer. These are the parties in the ecosystem
 which provide essential business services and products required for an
 organization to deliver value, and may even be essential to business
 operations. This can perhaps be thought of as the organization
-outsourcing a [capability](business_capabilities.md) that is required in order to
+outsourcing a [capability](business_capabilities.md){:target="_blank"} that is required in order to
 deliver its products and services. For example, a car manufacturer has a
 relationship with suppliers of various car parts, companies providing
 raw materials (such as steel), and car dealerships.
@@ -279,7 +279,7 @@ interest groups.
 
 Mapping and analyzing the ecosystem can provide valuable insights to
 relations, services and opportunities. It can highlight potential for
-[collaboration](collaboration.md), and draw attention to the really important
+[collaboration](collaboration.md){:target="_blank"}, and draw attention to the really important
 parties in the ecosystem.
 
 In order to further illustrate the ecosystem map canvas, the following
@@ -317,7 +317,7 @@ subject. In this ecosystem, the aspects partner, producer and consumer,
 are used to indicate the relationship between Tinkleman and the parties.
 Several dimensions have been identified in the ecosystem, which perhaps
 represent types of business, but may also represent
-[capabilities](business_capabilities.md) which are of interest to Tinkleman.
+[capabilities](business_capabilities.md){:target="_blank"} which are of interest to Tinkleman.
 
 ![image001](media/ecosystem_eco3.png) 
 
@@ -341,7 +341,7 @@ SUPER HOTELS.
 # Combining the Ecosystem Map with Strategy
 
 It is possible to combine the Ecosystem Map with techniques used in the
-planning of an organization's [strategy](strategy.md). Two commonly used
+planning of an organization's [strategy](strategy.md){:target="_blank"}. Two commonly used
 methods in strategic planning are PESTEL and SWOT. The output from both
 these methods can be used to map an ecosystem. These can be combined on
 the ecosystem to show the PESTEL categories as dimensions, and the SWOT
