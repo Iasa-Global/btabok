@@ -189,19 +189,21 @@ Architects are responsible at all levels of scope for digital engagement. The BT
 
 # References and Further Reading
 
-[10 Key Customer Engagement Metrics to Track in 2022 (surveysparrow.com)](https://surveysparrow.com/blog/customer-engagement-metrics/)
+[10 Key Customer Engagement Metrics to Track in 2022 (surveysparrow.com)](https://surveysparrow.com/blog/customer-engagement-metrics/){:target="_blank"}
 
-[What is digital engagement? What drives digital customer engagement? (zendesk.com)](https://www.zendesk.com/blog/digital-customer-engagement/)
+[What is digital engagement? What drives digital customer engagement? (zendesk.com)](https://www.zendesk.com/blog/digital-customer-engagement/){:target="_blank"}
 
-https://strategyn.com/jobs-to-be-done/
 
-https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
+[https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/){:target="_blank"}
 
-https://hbr.org/2016/09/know-your-customers-jobs-to-be-done
 
-https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
+[https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca){:target="_blank"}
 
-[http://innovatorstoolkit.com/content/technique-3-outcome-expectations](http://innovatorstoolkit.com/content/technique-3-outcome-expectations)
+[https://hbr.org/2016/09/know-your-customers-jobs-to-be-done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done){:target="_blank"}
+
+[https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a){:target="_blank"}
+
+[http://innovatorstoolkit.com/content/technique-3-outcome-expectations](http://innovatorstoolkit.com/content/technique-3-outcome-expectations){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

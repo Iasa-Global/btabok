@@ -383,10 +383,10 @@ take action, gives a competitive advantage to the organization.
 # References and Further Reading
 
 **Ecosystem Map**
-<https://servicedesigntools.org/tools/ecosystem-map>
+[Ecosystem Map](https://servicedesigntools.org/tools/ecosystem-map){:target="_blank"}
 
 **Ecosystem Tools (Platform Design Toolkit)**
-<https://platformdesigntoolkit.com/toolkit/>
+[Ecosystem Tools](https://platformdesigntoolkit.com/toolkit/){:target="_blank"}
 
 **Platform Business Model**
-<https://www2.deloitte.com/ch/en/pages/innovation/articles/platform-business-model-explained.html>
+[Platform Business Model](https://www2.deloitte.com/ch/en/pages/innovation/articles/platform-business-model-explained.html){:target="_blank"}
