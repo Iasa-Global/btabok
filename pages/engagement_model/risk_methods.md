@@ -187,16 +187,13 @@ References and Further Reading
 ==============================
 
 **Practical Risk Management Approach, PMI**
-
-<https://www.pmi.org/learning/library/practical-risk-management-approach-8248>
+[Practical Risk Management Approach](https://www.pmi.org/learning/library/practical-risk-management-approach-8248){:target="_blank"}
 
 **IRM's Risk management standard:**
-
-<https://www.theirm.org/what-we-do/what-is-enterprise-risk-management/irms-risk-management-standard/>
+[IRM](https://www.theirm.org/what-we-do/what-is-enterprise-risk-management/irms-risk-management-standard/){:target="_blank"}
 
 **TOGAF Risk Management Chapter:**
-
-https://pubs.opengroup.org/architecture/togaf9-doc/m/chap27.html
+[TOGAF](https://pubs.opengroup.org/architecture/togaf9-doc/m/chap27.html){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
