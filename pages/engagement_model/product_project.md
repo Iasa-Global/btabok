@@ -23,9 +23,10 @@ For many years the primary approach to planning the development of IT solutions 
 
 If you want to discover more about projects there are many sources available, useful resources can be found here: https://www.apm.org.uk/
 
-The increased rate of business change and the focus on B2C has exposed the flaws in the traditional project approach and, to cut a long story short, [*agile*](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/agility/) SDLCs emerged. Where we are focused on growing value by building *[business capabilities](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/)* in response to rapid market evolution and increasing technical complexity.
+The increased rate of business change and the focus on B2C has exposed the flaws in the traditional project approach and, to cut a long story short, [*agile*](agility.md){:target="_blank"} SDLCs emerged. Where we are focused on growing value by building 
+*[business capabilities](business_capabilities.md){:target="_blank"}* in response to rapid market evolution and increasing technical complexity.
 
-This shift toward agile means the delivery of new functionality can be a steady flow of change rather than fixed big releases. The problem with this is that the concept of projects doesn't align well with the concept of long-lived teams producing value continuously. So, in recent years a much longer view has emerged by focusing the product, this looks at the lifetime of the business problem being addressed. In fact this shift actually aligns naturally with the responsibilities of the architects who have always had to think about the lifetime of the systems, because you need to consider thing like migration, the total cost of ownership and *[Quality Attributes](https://btabok.iasaglobal.org/btabok_3/value-model/quality-attributes/)* when making architecture *[decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions/)*.
+This shift toward agile means the delivery of new functionality can be a steady flow of change rather than fixed big releases. The problem with this is that the concept of projects doesn't align well with the concept of long-lived teams producing value continuously. So, in recent years a much longer view has emerged by focusing the product, this looks at the lifetime of the business problem being addressed. In fact this shift actually aligns naturally with the responsibilities of the architects who have always had to think about the lifetime of the systems, because you need to consider thing like migration, the total cost of ownership and *[Quality Attributes](quality_attributes.md){:target="_blank"}* when making architecture *[decisions](decisions.md){:target="_blank"}*.
 
 > **A definition:**\
 > A product is something (physical or not) that is created through a process and that provides benefit to a market.  
@@ -34,12 +35,12 @@ This shift toward agile means the delivery of new functionality can be a steady 
 
 Interestingly neither SAFE nor Less provide a simple definition of what a product is, although the concept is central to their frameworks, so we need to clarify this further to make it useful.
 
-Sriram Narayan provides a useful side by side comparison of products and projects in [his blog post](https://martinfowler.com/articles/products-over-projects.html).
+Sriram Narayan provides a useful side by side comparison of products and projects in [his blog post](https://martinfowler.com/articles/products-over-projects.html){:target="_blank"}.
 
 Why are Products Important?
 ===========================
 
-A product is how the organisation presents one or more *[Business Capabilities](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/)* to a group of its customers, in simple terms -- what is it selling?  Frequently, there is a specific pricing model associated with a product.
+A product is how the organisation presents one or more *[Business Capabilities](business_capabilities.md){:target="_blank"}* to a group of its customers, in simple terms -- what is it selling?  Frequently, there is a specific pricing model associated with a product.
 
 In small organizations or startups there is often a simple mapping between what is sold and what is delivered by the engineering teams. When looking a larger or more mature organisations there is often a difference between how the sales and marketing people describe a product and a Product Catalogue and how this is delivered within the IT organization which has adopted a Scrum based agile approach, where a Product Owner defines what is delivered by the engineering team.
 
@@ -71,9 +72,9 @@ When you are looking at how to build the IT solutions to deliver these business 
 **Consider the following scenario:\
 **A Business has multiple products which deliver the same functionality to different markets -- for example: a bank provides corporate accounts and personal accounts. There is a large overlap in functionality required, but the bank will treat these as completely different business products with separate Product Managers. Looking at the systems -- technology products -- that delivers this functionality, it is very likely that there are many shared components which are managed as products with a Product Owner.
 
-The relationship between the business products to the technical products is an area where the Architect works closely with the Product Managers and Product Owners to define the most appropriate mapping, taking into consideration the functional requirements, quality attributes, delivery timescales, cost and risk and the tradeoffs between them. Shaping the product involves making many *[decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions/),* using the appropriate techniques, such Last Responsible Moment and Trade-off Analysis.
+The relationship between the business products to the technical products is an area where the Architect works closely with the Product Managers and Product Owners to define the most appropriate mapping, taking into consideration the functional requirements, quality attributes, delivery timescales, cost and risk and the tradeoffs between them. Shaping the product involves making many *[decisions](decisions.md){:target="_blank"}*, using the appropriate techniques, such Last Responsible Moment and Trade-off Analysis.
 
-When you have defined the product, it is valuable to put together a [*product development roadmap. *](https://btabok.iasaglobal.org/btabok_3/operating-model/roadmap/)These are used for long term planning of a single specific product. Product development roadmaps are focused on releases, features and events.
+When you have defined the product, it is valuable to put together a [*product development roadmap. *](roadmap.md){:target="_blank"}These are used for long term planning of a single specific product. Product development roadmaps are focused on releases, features and events.
 
 The Product Lifecycle
 ---------------------

@@ -15,10 +15,10 @@ Ward Cunningham
 Technical Debt Overview
 =======================
 
-The concept of Technical Debt is commonly used, and misused, in [agile](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/agility/) projects. When used correctly it can be a valuable way of delivering business value early and avoiding waste, when used badly it can lead to fragile products which become harder and harder to change. Architects need to understand when to use the concept in the right way to help deliver value for the business.
+The concept of Technical Debt is commonly used, and misused, in [agile](agility.md){:target="_blank"} projects. When used correctly it can be a valuable way of delivering business value early and avoiding waste, when used badly it can lead to fragile products which become harder and harder to change. Architects need to understand when to use the concept in the right way to help deliver value for the business.
 
-**A definition:\
-**Technical Debt consists of design or implementation constructs that are expedient in the short term but that set up a technical context that can make a future change more costly or impossible. Technical debt is a contingent liability whose impact is limited to internal system qualities -- primarily, but not only, maintainability and evolvability      
+**A definition:**
+Technical Debt consists of design or implementation constructs that are expedient in the short term but that set up a technical context that can make a future change more costly or impossible. Technical debt is a contingent liability whose impact is limited to internal system qualities -- primarily, but not only, maintainability and evolvability      
 
  Kruchten, Nord and Ozkaya "Managing Technical Debt" -- 2019
 
@@ -39,7 +39,7 @@ This classification is useful because different approaches are needed to manage 
 The Debt Metaphor
 -----------------
 
-We can look at financial debt management for some interesting guidance on how to cope with technical debt. The debt metaphor is appropriate because taking a shortcut design choice incurs a cost/debt "principal" just like a financial debt, typically the cost to get from the shortcut design to the correct design. It is useful because it helps to understand the problem and provides a mechanism to explain it to non-technical [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/).
+We can look at financial debt management for some interesting guidance on how to cope with technical debt. The debt metaphor is appropriate because taking a shortcut design choice incurs a cost/debt "principal" just like a financial debt, typically the cost to get from the shortcut design to the correct design. It is useful because it helps to understand the problem and provides a mechanism to explain it to non-technical [stakeholders](stakeholders.md){:target="_blank"}.
 
 Like a financial debt, the technical debt incurs interest payments in the form of extra effort for future developments because of the sub-optimal design choice. The longer you put off fixing the decision the more it will cost when you do. There is a choice to keep paying the interest or remove/reduce it by refactoring the shortcut design decision, i.e. paying down the principal. You can't avoid paying the interest, it will continue to be more difficult to maintain the product until the technical debt is removed.
 
@@ -144,7 +144,7 @@ SQALE
 
 It is based on the software lifecycle and specifically designed to measure technical debt.
 
-The Standard Definition and multiple whitepapers are available on the site [www.sqale.org](http://www.sqale.org/)
+The Standard Definition and multiple whitepapers are available on the site [www.sqale.org](http://www.sqale.org/){:target="_blank"}
 
 In summary, organizations can used SQALE to establish their own concrete definition of "right code" and what constitutes technical debt and what doesn't, by:
 
@@ -161,7 +161,7 @@ SonarQube is an open-source platform developed by SonarSource for continuous ins
 
 It implements all the SQALE metrics with dashboard visualizations and Plugins can be built (or purchased ones amended) to provide custom support. The output from the analysis can be used to feed the product backlog to address the identified Technical Debt.
 
-Details available on [www.sonarsource.com](http://www.sonarsource.com/)
+Details available on [www.sonarsource.com](http://www.sonarsource.com/){:target="_blank"}
 
 Architecture Loan Request
 -------------------------
@@ -182,8 +182,8 @@ References and Further Reading
 
 **Kruchten, Nord and Ozkaya "Managing Technical Debt" -- 2019**
 
-**Ward Cunningham explains the debt metaphor\
-**<https://www.youtube.com/watch?v=pqeJFYwnkjE>
+**Ward Cunningham explains the debt metaphor**
+<https://www.youtube.com/watch?v=pqeJFYwnkjE>
 
 <https://lostechies.com/derickbailey/2010/10/01/technical-debt-is-like-your-friend-the-mafia-bookie/>
 

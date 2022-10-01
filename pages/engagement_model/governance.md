@@ -34,7 +34,7 @@ organizations in strongly regulated business sectors are also likely to
 have strong governance frameworks, since consequences of poor practices
 or decisions may be severe. Consider sectors such as the medical,
 pharmaceutical, nuclear or banking, where the consequences of poor
-[decisions](decisions.md) may result in loss of life, or substantial
+[decisions](decisions.md){:target="_blank"} may result in loss of life, or substantial
 financial loss that leads to economic problems at a much higher scope.
 
 Governance applies to architecture for the same reasons, and the
@@ -46,7 +46,7 @@ A governance framework includes the structures and processes for:
 
 - [Decision making](decisions.md)
 
-- Accountability
+- Accountability 
 
 - Values and norms
 
@@ -80,7 +80,7 @@ Practicing good governance facilitates transparency. Inspections in the
 governance process raise issues, non-conformances and openly publish
 recommendations for resolutions. This provides support for the
 organization in maintaining standards and allows architects involved in
-different [assignments](assignments.md) to learn from recommendations which
+different [assignments](assignments.md){:target="_blank"} to learn from recommendations which
 are openly discussed.
 
 Having a governance framework in place helps to develop a culture of
@@ -105,14 +105,14 @@ Engagement with stakeholders at an early stage will help form governance
 so it is less intrusive, and create a wider acceptance. The role of the
 architect is to ensure that the architecture takes governance in to
 consideration, so that the architecture aligns with the
-[objectives](objectives.md) of the business, as well as ensuring that
+[objectives](objectives.md){:target="_blank"} of the business, as well as ensuring that
 resulting implementations comply to the architecture.
 
 ## Avoid "police state"
 
 Governance is used to help the organization make good decisions, however
 if governance is practiced badly, it can create a "police state"
-culture. [Stakeholders](stakeholders.md) will feel controlled, and may not be
+culture. [Stakeholders](stakeholders.md){:target="_blank"} will feel controlled, and may not be
 aware of why they have to follow the policies, processes or the
 architecture. Practicing good governance means that the organization
 must communicate and motivate governance. This can be achieved through
@@ -121,7 +121,7 @@ mentoring and training.
 ## Governance Helps Agility
 
 Sometimes in agile practices, governance is seen as a negative. This is
-perhaps as it goes against the [principle](principles.md) of keeping
+perhaps as it goes against the [principle](principles.md){:target="_blank"} of keeping
 decisions as close to the agile teams as possible. However, in most
 industries it is unrealistic to assume that each team is responsible for
 decisions which affect the whole organization. If done well, governance
@@ -137,7 +137,7 @@ This means that decisions are clear prior to delivery and the resulting
 delivery follows the building codes of the organization. This makes
 inspections less painful and much less costly. In the BTABoK this is
 termed bottom-up governance. In addition, this aspect works extremely
-well with a rigorous [extended team](extended_team.md) approach, and a
+well with a rigorous [extended team](extended_team.md){:target="_blank"} approach, and a
 partnership between architecture and engineering.
 
 ## Governance for Governance Sake
@@ -218,7 +218,7 @@ governance framework together with stakeholders:
 
 Governance not only influences the process of developing an architecture
 but even affects the architecture itself. Governance may place
-requirements or constraint requirements on many [products](products.md)
+requirements or constraint requirements on many [products](products.md){:target="_blank"}
 in the organization. For example, in the pharmaceutical industry,
 manufacturing technologies have to comply to FDA (Food and Drug
 Administration) regulations, if products are to be accepted to the US
@@ -265,7 +265,7 @@ the organization and can be regarded as industry standards.
 ![image001](media/governance_process1.png) 
 
 The architect can inherit, or develop architecture
-[principles](principles.md), these help the architecture to comply with
+[principles](principles.md){:target="_blank"}, these help the architecture to comply with
 governance. This helps to align the architecture with the aims of the
 organization, for example goals and objectives. Developing principles
 help to give context and direction, which aids decision-making.
@@ -281,7 +281,7 @@ governance for the architecture.
 
 ## Developing the Architecture
 
-Governance may put forward standards and [principles,](principles.md) but
+Governance may put forward standards and [principles,](principles.md){:target="_blank"} but
 these often have to be interpreted for a solution in a given business
 context. For example, the governance may state that transactions in a
 system should be traceable to an individual user, but the governance
@@ -291,11 +291,11 @@ how it should be designed or implemented.
 ![image001](media/governance_process2.png)
 
 Instead, it is up to the architect and the stakeholders to interpret
-which [requirements](requirements.md) should be placed on the architecture in
+which [requirements](requirements.md){:target="_blank"} should be placed on the architecture in
 order to comply to the governance. The architecture, and solution can
 then be designed using these requirements. Ensuring that the
 requirements on the architecture comply to governance is key to reducing
-business [risk](risk.md). If the resulting solution does not meet the
+business [risk](risk.md){:target="_blank"}. If the resulting solution does not meet the
 governance standards, the product may never make it to production. With
 this in mind, it is recommended to perform a review of the architecture
 requirements against any applicable governance, to ensure that the
@@ -310,7 +310,7 @@ place, it will want to check that the governance is being followed. The
 same is true for governance of the architecture. An architecture is
 often validated via an inspection, to assess if it meets the governance
 standards. This provides assurance for the resulting architecture
-[deliverables](deliverables.md). In this case, it is the architect and the
+[deliverables](deliverables.md){:target="_blank"}. In this case, it is the architect and the
 architecture which are the subjects of governance.
 
 ![image001](media/governance_process3.png)
@@ -383,28 +383,22 @@ architecture is followed.
 # References and Further Reading
 
 **Governance, what it is and why it is important -- Governance Today**
-
-https://www.governancetoday.com/GT/Material/Governance__what_is_it_and_why_is_it_important_.aspx>
+[Governance](https://www.governancetoday.com/GT/Material/Governance__what_is_it_and_why_is_it_important_.aspx){:target="_blank"}
 
 **What is governance -- Institute on Governance**
-
-<https://iog.ca/what-is-governance/>
+[What is governance](https://iog.ca/what-is-governance/){:target="_blank"}
 
 **What is governance -- Chartered Governance Institute UK and Ireland**
-
-<https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance>
+[What is governance](https://www.cgi.org.uk/professional-development/discover-governance/looking-to-start-a-career-in-governance/what-is-governance){:target="_blank"}
 
 **Architecture Governance (Chapter 44), TOGAF**
-
-<https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap44.html>
+[Architecture Governance](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap44.html){:target="_blank"}
 
 **COBIT**
-
-<https://www.isaca.org/resources/cobit>
+[COBIT](https://www.isaca.org/resources/cobit){:target="_blank"}
 
 **ITIL**
-
-<https://www.axelos.com/best-practice-solutions/itil>
+[ITIL](https://www.axelos.com/best-practice-solutions/itil){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

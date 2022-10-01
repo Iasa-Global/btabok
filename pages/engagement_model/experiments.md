@@ -121,11 +121,11 @@ https://blog.acolyer.org/2017/09/29/the-evolution-of-continuous-experimentation-
 
 https://link.springer.com/chapter/10.1007/978-3-319-91602-6_20
 
-> [DevOps: From Continuous Delivery to Continuous Experimentation](https://cloudacademy.com/blog/devops-from-continuous-delivery-to-continuous-experimentation/)
+> [DevOps: From Continuous Delivery to Continuous Experimentation](https://cloudacademy.com/blog/devops-from-continuous-delivery-to-continuous-experimentation/){:target="_blank"}
 
 https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experimentation-and-learning-and-how-overcome
 
-> [Private Workshop: Continuous Innovation & Change with PopcornFlow](https://agilesensei.com/popcornflow/)
+> [Private Workshop: Continuous Innovation & Change with PopcornFlow](https://agilesensei.com/popcornflow/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
