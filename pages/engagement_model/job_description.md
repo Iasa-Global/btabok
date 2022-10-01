@@ -8,7 +8,7 @@ folder: engagement_model
 summary: ""
 ---
 
-The Iasa default job descriptions are published as an aid to organizations setting up or reorganizing their architecture practice. These job descriptions in combination with the Iasa skills taxonomy, engagement model, training and certifications serve as the baseline by which organizations may define a robust [architecture practice](https://btabok.iasaglobal.org/btabok_3/architecture-practice/) with balanced and focused architecture practices.
+The Iasa default job descriptions are published as an aid to organizations setting up or reorganizing their architecture practice. These job descriptions in combination with the Iasa skills taxonomy, engagement model, training and certifications serve as the baseline by which organizations may define a robust [architecture practice](architecture_practice.md){:target="_blank"} with balanced and focused architecture practices.
 
 **The Value of Using Iasa Education Components**
 ------------------------------------------------
@@ -25,7 +25,7 @@ The value of using the Iasa Education models can be summarized easily. Iasa is t
 Structuring A Team
 ==================
 
-The Iasa CoE describes the rough structure of a connected and successful architect organization. Successful architecture teams work together and touch every aspect of a business. They report into the technology organization but a majority of their work involves [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/) from every group in the enterprise. The goal of the entire team is first and foremost the generation of value to the enterprise through technology. This value can be in financial, constituent, reuse, market growth or other elements of the Iasa Architect Value Framework (see Iasa website).
+The Iasa CoE describes the rough structure of a connected and successful architect organization. Successful architecture teams work together and touch every aspect of a business. They report into the technology organization but a majority of their work involves [stakeholders](stakeholders.md){:target="_blank"} from every group in the enterprise. The goal of the entire team is first and foremost the generation of value to the enterprise through technology. This value can be in financial, constituent, reuse, market growth or other elements of the Iasa Architect Value Framework (see Iasa website).
 
 **Skills Taxonomy and Value Focus**
 -----------------------------------
@@ -39,7 +39,7 @@ The Iasa Skills Taxonomy is unique in the industry as it is both extremely detai
 Business Architect
 ==================
 
-The business architect provides leadership of business initiatives through technology strategy by participating in the development of a business strategy to accomplish specific business goals. They provide [innovation](https://btabok.iasaglobal.org/btabok_3/operating-model/innovation/) and opportunity recognition within business units. Specifically the business architect has mastered the delivery of value through technology support of business strategy. The business architect has developed their understanding of business valuation, business process and business strategy delivery. They act as a liaison from the technology groups to enhance business development and have tremendously advanced skills in business valuation of technology as well has human dynamics.
+The business architect provides leadership of business initiatives through technology strategy by participating in the development of a business strategy to accomplish specific business goals. They provide [innovation](innovate.md){:target="_blank"} and opportunity recognition within business units. Specifically the business architect has mastered the delivery of value through technology support of business strategy. The business architect has developed their understanding of business valuation, business process and business strategy delivery. They act as a liaison from the technology groups to enhance business development and have tremendously advanced skills in business valuation of technology as well has human dynamics.
 
 The business architect understands the business unit and organization within which they function using both formal methods, such as modeling, as well as informal techniques. They will likely have significant experience within the industry and the particular business function where they work. The business architect functions as a part of the business team as a trusted partner and the models they create may be used to extend beyond just the application of technology strategy as they give useful and powerful pictures of the processes, people and capabilities of the business unit.
 
@@ -51,7 +51,7 @@ The Business architect may act as a solutions architect within the realm of a pa
 **Ownership**
 -------------
 
-The business architect owns the technology value of a particular business unit (vertically organized) or a [business c](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/)apability (horizontally organized). They ensure that all technology strategies developed deliver exactly the amount of value specified during inception. They own the project prioritization and technology governance processes for all aspects of business that is owned by their business unit. In addition, the business architect owns and develops [business models](https://btabok.iasaglobal.org/btabok_3/business-models/) which will illuminate their technology strategy and participates in any business planning activity which makes use of these models.
+The business architect owns the technology value of a particular business unit (vertically organized) or a [business c](business_capabilities.md){:target="_blank"}apability (horizontally organized). They ensure that all technology strategies developed deliver exactly the amount of value specified during inception. They own the project prioritization and technology governance processes for all aspects of business that is owned by their business unit. In addition, the business architect owns and develops [business models](business_models.md){:target="_blank"} which will illuminate their technology strategy and participates in any business planning activity which makes use of these models.
 
 **Other Industry Role Names**
 -----------------------------
@@ -185,12 +185,12 @@ Infrastructure Architect
 
 The infrastructure architect provides strategic uses of infrastructure, network, and operations as an asset. They create and deliver technology strategies to optimize the use of technology resources related to hardware and physical system. It should be noted, this is not meant as quantitative overlap with the upcoming physical system architect who focuses on highly complex physical systems engineering domains such as satellite, defense, and embedded technology though there is some overlap. The infrastructure architect uses their mastery of network, computing platform and operations to guide the organization to valuable investments in hardware and platform.
 
-The infrastructure architect works regularly with business, information and software architects to ensure the overall health of the organizations infrastructure and to optimize technology strategy delivery.  The infrastructure architect has mastered the [design](https://btabok.iasaglobal.org/btabok_3/operating-model/design/), delivery and maintenance of hardware and network technologies throughout the organization.
+The infrastructure architect works regularly with business, information and software architects to ensure the overall health of the organizations infrastructure and to optimize technology strategy delivery.  The infrastructure architect has mastered the [design](design.md){:target="_blank"}, delivery and maintenance of hardware and network technologies throughout the organization.
 
 **Solutions Role Activities**
 -----------------------------
 
-The infrastructure architect may act as a solutions architect within the realm of a particularly challenging infrastructure related project or as a part of a general [role](https://btabok.iasaglobal.org/btabok_3/people-model/roles/) activity within the current employer. Acting within this role the infrastructure architect would coordinate and work with other architecture specialists such as information, software and business or may be required to develop architectures within these areas themselves. However, a infrastructure architect is primarily responsible for the systems themselves and is not primarily a delivery job function. It is left to the employer to designate the number and amount of infrastructure architecture design and decision functions of the infrastructure architect in relation to the a) the systems they own and b) the projects to which they are assigned.
+The infrastructure architect may act as a solutions architect within the realm of a particularly challenging infrastructure related project or as a part of a general [role](roles.md){:target="_blank"} activity within the current employer. Acting within this role the infrastructure architect would coordinate and work with other architecture specialists such as information, software and business or may be required to develop architectures within these areas themselves. However, a infrastructure architect is primarily responsible for the systems themselves and is not primarily a delivery job function. It is left to the employer to designate the number and amount of infrastructure architecture design and decision functions of the infrastructure architect in relation to the a) the systems they own and b) the projects to which they are assigned.
 
 **Ownership**
 -------------
