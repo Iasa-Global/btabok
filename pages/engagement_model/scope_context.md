@@ -18,7 +18,7 @@ In architecture, scope refers to the amount of business technology strategy impa
 
 For architecture to be successful it must be effective in both the scope it engages in as well as the contexts in which it occurs. This means that the architecture team must make clear scoping decisions about its engagement.
 
-Levels of Scope in the BTABoK
+Levels of Scope in the BTABoK 
 -----------------------------
 
 The BTABoK contains many references to scope. The following diagram depicts the relationships within the meta-model and the glossary defines them for their use in practice.
@@ -27,9 +27,9 @@ The BTABoK contains many references to scope. The following diagram depicts the 
 
 | **Scope** | **Definition** |
 | --- | --- |
-| Ecosystem | The [ecosystem](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/ecosystem/) is the surrounding and connected environment to the enterprise. It includes partners, competitors, suppliers, regulators, customers and other participants which directly influence the health and activities of the enterprise. |
+| Ecosystem | The [ecosystem](ecosystem.md){:target="_blank"} is the surrounding and connected environment to the enterprise. It includes partners, competitors, suppliers, regulators, customers and other participants which directly influence the health and activities of the enterprise. |
 | Enterprise | The enterprise or organization is the entirety of the company or legal entity. It includes all forms of business and organizational models. |
-| Value Stream | [Value streams](https://btabok.iasaglobal.org/btabok_3/value-model/value-streams/) allow the team to organize around customer or constituent facing flows through the organization. Beyond portfolio they are becoming extremely common methods of organizing work and architecture practice. |
+| Value Stream | [Value streams](value_streams.md){:target="_blank"} allow the team to organize around customer or constituent facing flows through the organization. Beyond portfolio they are becoming extremely common methods of organizing work and architecture practice. |
 | Domain | Domain scope has been a loose term and is often also used in conjunction or as a synonym for platform. The domain scope is used to denote a depth area of technical or business. Thus there may be a focus on the data domain, the integration domain or the security domain or the accounting domain.   |
 | Capability | Capability scope are all of the elements including in a business capability or a service as defined in the itabok. They are the 2^nd^ and 3^rd^ level activities that a company executes to perform its mission. |
 | Application/Product Portfolio | The product portfolio contains the applications, products and tools within the enterprise. This is most commonly used to understand the number of customer, purchased or rented products the enterprise uses to deliver its mission. |
