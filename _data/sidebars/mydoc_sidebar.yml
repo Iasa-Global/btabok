@@ -279,34 +279,34 @@ entries:
           url: architecture_practice.html
           output: web
 
-      - title: Competency Model
+  - title: Competency Model
+    output: web
+    subfolderitems:
+
+    - title: Overview
+      url: architecture_practice.html
+      output: web
+
+  - title: Maturity Model
+    output: web
+    subfolderitems:
+
+    - title: Overview
+      url: architecture_practice.html
+      output: web
+
+  - title: Topic Areas
+    output: web
+    subfolderitems:
+
+      - title: Overview
+        url: architecture_practice.html
         output: web
-        subfolderitems:
 
-        - title: Overview
-          url: architecture_practice.html
-          output: web
+  - title: Structed Canvases
+    output: web
+    subfolderitems:
 
-      - title: Maturity Model
+      - title: Overview
+        url: architecture_practice.html
         output: web
-        subfolderitems:
-
-        - title: Overview
-          url: architecture_practice.html
-          output: web
-
-      - title: Topic Areas
-        output: web
-        subfolderitems:
-
-        - title: Overview
-          url: architecture_practice.html
-          output: web
-
-      - title: Structed Canvases
-        output: web
-        subfolderitems:
-
-        - title: Overview
-          url: architecture_practice.html
-          output: web
