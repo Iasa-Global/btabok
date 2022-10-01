@@ -40,18 +40,18 @@ A digital mindset is personal. Swati Kamath from Knolskape gives the followi
 
 Let’s assume the person in the example is a general manager at a manufacturing plant with 1,000 employees. He is frustrated with something that seems to him should be very simple. Then he is asked to buy into a robotic process automation investment for his plant which will be managed by phone and web applications as well as AI. What will his degree of investment be? How will he feel about the possibility of success, especially as this might put many of his workers and friends out of jobs? This is the nature of change in a digital mindset.  
 
-# How Does Mindset Interact with [Culture](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/culture/) 
+# How Does Mindset Interact with [Culture](culture.md){:target="_blank"} 
 
-Digital culture is the outcome of a change in the employee, partner, and customer [ecosystem](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/ecosystem/) and the mindset of its participants. The root of that change is in the digital mindset of its [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/). Thus a single change in the mindset of a person in the organization can take root in the culture and expand to begin changing all of it. However, it is important to note that this must take root in many places in the modern enterprise to create the kind of digital advantage that allows technology to become a fundamental pillar of business [strategy](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/strategy/).  
+Digital culture is the outcome of a change in the employee, partner, and customer [ecosystem](ecosystem.md){:target="_blank"} and the mindset of its participants. The root of that change is in the digital mindset of its [stakeholders](stakeholders.md){:target="_blank"}. Thus a single change in the mindset of a person in the organization can take root in the culture and expand to begin changing all of it. However, it is important to note that this must take root in many places in the modern enterprise to create the kind of digital advantage that allows technology to become a fundamental pillar of business [strategy](strategy.md){:target="_blank"}.  
 
 KPMG defines four key aspects of the impact of Digital Mindset:  
 
 *   Courage to act/challenge: this encourages the notion that everyone is a leader 
-*   Connecting end to end: which provides the basis of enterprise [complexity](https://btabok.iasaglobal.org/btabok_3/structural-complexity/) and cross-organizational [objectives](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/objectives/) 
+*   Connecting end to end: which provides the basis of enterprise [complexity](structural_complexity.md){:target="_blank"} and cross-organizational [objectives](objectives.md){:target="_blank"} 
 *   Growth mindset: which welcomes flexibility, agility, and rapid change 
 *   Everyone is an innovator: which describes how anyone should be able to generate ideas that shape the organization’s outcomes 
 
-These elements of mindset can seriously impact the ability of an organization to take advantage of technology to shift its day-to-day work into true digital [business models](https://btabok.iasaglobal.org/btabok_3/business-models/). For each stakeholder there is a a need to understand their personal relationship with technology and its impact on their work and lives.  
+These elements of mindset can seriously impact the ability of an organization to take advantage of technology to shift its day-to-day work into true digital [business models](business_models.md){:target="_blank"}. For each stakeholder there is a a need to understand their personal relationship with technology and its impact on their work and lives.  
 
 ![image001](media/mindset001.png)
 _Change Resistance – Art by Gar Mac Criosta_ 
@@ -106,7 +106,7 @@ Many architecture practices work hard to get access to stakeholders at very high
 
 ## Align with Resource Allocation/Debate Points  
 
-As discussed in [Investment Prioritization](https://btabok.iasaglobal.org/btabok_3/investment-planning/), the architecture practice can benefit the organization most by interacting at key areas of the [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/) where resources are allocated or consumed. These points tend to create tension and zero-sum thinking and behavior especially where a digital agenda may appear to conflict with or even override traditional investments into operations, people or processes. It is essential that growth oriented/expandable sum leadership be available and involved in those discussions to help alleviate the fears of other stakeholders and ensure that digital outcomes are considered alongside more traditional goals.  
+As discussed in [Investment Prioritization](investment_planning.md){:target="_blank"}, the architecture practice can benefit the organization most by interacting at key areas of the [lifecycle](architecture_lifecycle.md){:target="_blank"} where resources are allocated or consumed. These points tend to create tension and zero-sum thinking and behavior especially where a digital agenda may appear to conflict with or even override traditional investments into operations, people or processes. It is essential that growth oriented/expandable sum leadership be available and involved in those discussions to help alleviate the fears of other stakeholders and ensure that digital outcomes are considered alongside more traditional goals.  
 
 ## Using the SCARF Assessment in Stakeholder Analysis 
 
@@ -182,17 +182,17 @@ As professionals it is the architects responsibility to give truth over convenie
 
 # References and Further Reading
 
-[https://cmr.berkeley.edu/2020/08/62-4-solberg/](https://cmr.berkeley.edu/2020/08/62-4-solberg/)
+[https://cmr.berkeley.edu/2020/08/62-4-solberg/](https://cmr.berkeley.edu/2020/08/62-4-solberg/){:target="_blank"}
 
-[https://www.knolskape.com/blog-what-is-a-digital-mindset-and-why-is-it-important/#.YWfnRRyxVaY](https://www.knolskape.com/blog-what-is-a-digital-mindset-and-why-is-it-important/#.YWfnRRyxVaY)
+[https://www.knolskape.com/blog-what-is-a-digital-mindset-and-why-is-it-important/#.YWfnRRyxVaY](https://www.knolskape.com/blog-what-is-a-digital-mindset-and-why-is-it-important/#.YWfnRRyxVaY){:target="_blank"}
 
-[https://www.deepdyve.com/lp/sage/digital-mindsets-recognizing-and-leveraging-individual-beliefs-for-U6wPQrFdo9](https://www.deepdyve.com/lp/sage/digital-mindsets-recognizing-and-leveraging-individual-beliefs-for-U6wPQrFdo9)
+[https://www.deepdyve.com/lp/sage/digital-mindsets-recognizing-and-leveraging-individual-beliefs-for-U6wPQrFdo9](https://www.deepdyve.com/lp/sage/digital-mindsets-recognizing-and-leveraging-individual-beliefs-for-U6wPQrFdo9){:target="_blank"}
 
-[https://www.forbes.com/sites/joemckendrick/2020/02/29/5-rules-for-developing-a-digital-mindset/?sh=2a050e606664](https://www.forbes.com/sites/joemckendrick/2020/02/29/5-rules-for-developing-a-digital-mindset/?sh=2a050e606664)
+[https://www.forbes.com/sites/joemckendrick/2020/02/29/5-rules-for-developing-a-digital-mindset/?sh=2a050e606664](https://www.forbes.com/sites/joemckendrick/2020/02/29/5-rules-for-developing-a-digital-mindset/?sh=2a050e606664){:target="_blank"}
 
-[https://home.kpmg/xx/en/home/insights/2020/07/kpmg-digital-mindset.html](https://home.kpmg/xx/en/home/insights/2020/07/kpmg-digital-mindset.html)
+[https://home.kpmg/xx/en/home/insights/2020/07/kpmg-digital-mindset.html](https://home.kpmg/xx/en/home/insights/2020/07/kpmg-digital-mindset.html){:target="_blank"}
 
-[https://www.mindtools.com/pages/article/SCARF.htm](https://www.mindtools.com/pages/article/SCARF.htm)
+[https://www.mindtools.com/pages/article/SCARF.htm](https://www.mindtools.com/pages/article/SCARF.htm){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

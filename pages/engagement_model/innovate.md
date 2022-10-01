@@ -185,8 +185,8 @@ References and Further Reading
 [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/){:target="_blank"}
 
 
-**Reference BOLT assessment\
-**<http://www.b-mc2.com/learn/> and HBR article on Taxonomy of Innovation
+**Reference BOLT assessment**
+[Reference BOLT assessment](http://www.b-mc2.com/learn/){:target="_blank"} and HBR article on Taxonomy of Innovation
 
 ![image001](media/by-nc.png)
 

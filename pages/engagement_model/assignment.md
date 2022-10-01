@@ -21,7 +21,7 @@ Architecture assignment is the process, methods and goals which describe the way
 
 1.  How architects choose work within the portfolio (or continuous delivery cycle).
 2.  How architects work together to grow in experience, mentor, and ensure success.
-3.  How the team prioritizes work with a client or project management office or [agile](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/agility/) releases.  
+3.  How the team prioritizes work with a client or project management office or [agile](agility.md){:target="_blank"} releases.  
 4.  How the team delivers the roadmap.
 
 Assignment Methodology
@@ -72,13 +72,13 @@ The most motivating work for an architecture team is the change the business or 
 | **Characteristic** | **Explanation** |
 | --- | --- |
 | Cost to Change | Projects or changes which are extremely expensive. |
-| Cost to Undo | Changes which will be very difficult or expensive to come back from or create a large amount of [technical debt](https://btabok.iasaglobal.org/btabok_3/technical-debt/). |
+| Cost to Undo | Changes which will be very difficult or expensive to come back from or create a large amount of [technicaldebt](technical_debt.md){:target="_blank"}. |
 | Newness | Unfamiliar business models or technologies. |
 | Resources | High resource consumption or work that requires very specialized or rare skills. |
 | Capability Milestone | Work which will achieve significant milestones in business or technical capabilities. |
 | Financial Return | Work which has very high returns on the investment using value measurements. |
-| Customer (real customer) Impact | Work with direct impact on [Customer Journey](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/journey/), Experience, etc. |
-| Risk | High [risk](https://btabok.iasaglobal.org/risk-methods/) with large impact and high probability of occurrence or where risk must be managed actively throughout the program. |
+| Customer (real customer) Impact | Work with direct impact on [Customer Journey](customer_journey.md){:target="_blank"}, Experience, etc. |
+| Risk | High [risk](risk_methods.md){:target="_blank"} with large impact and high probability of occurrence or where risk must be managed actively throughout the program. |
 | Domain Complexity | Areas where the knowledge domain is sufficiently complex as in scientific processes or specialized architectures. |
 | Political/Stakeholder Desirability | Impact from high power, high interest stakeholders who must be managed carefully. |
 
@@ -107,7 +107,7 @@ The architects roadmap is a combination of architectural priorities and the esti
 Architect Assignment
 --------------------
 
-Once architectural priority is determined architects may be assigned to the work. It is likely there will be more work than there are architects. This is where architects must make decisions about what to say No to and what must be done. Much of the difficulty in architect teams is taking on more work than the team can do proactively (they are assigned during the whole [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/)).
+Once architectural priority is determined architects may be assigned to the work. It is likely there will be more work than there are architects. This is where architects must make decisions about what to say No to and what must be done. Much of the difficulty in architect teams is taking on more work than the team can do proactively (they are assigned during the whole [lifecycle](architecture_lifecycle.md){:target="_blank"}.
 
 ### T-shirt Sizing Assignment
 
@@ -121,7 +121,7 @@ Focus on the right fit for the work. Assign architects based on their desire for
 
 Assign architects based on capability ownership whether it is technical or business capabilities. This leaves the architect in charge of the capabilities to which they are assigned and they coordinate and work together on multi-capability assignments.
 
-Integration Into the [Extended Team](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/)
+Integration Into the [Extended Team](extended_team.md){:target="_blank"}
 --------------------------------------------------------------------------------------------------------
 
 In many organizations the extended team is used as architects. For example, there may be an enterprise architect team centralized while all software delivery work is done by agile teams with a senior engineer. This method is covered fully in the extended team article but it should be noted that it is both necessary and highly risky unless competencies in the extended team are well understood.

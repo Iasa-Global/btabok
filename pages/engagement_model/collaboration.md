@@ -77,7 +77,7 @@ delivery mechanism for value.
 
 It is important for an architecture practice to collaborate well with
 the different parts of the organization. This allows the architecture
-practice to gain traction and [coverage](coverage.md) throughout the
+practice to gain traction and [coverage](coverage.md){:target="_blank"} throughout the
 organization. This leads to respect and understanding for the
 architecture practice itself, and the architectures that the practice
 produce.
@@ -88,7 +88,7 @@ produce.
 
 The parties participating in a collaboration have an invested interest
 and influence, on the outcome of the collaboration. These participants
-are [stakeholders](stakeholders.md). In order for a collaboration to be
+are [stakeholders](stakeholders.md){:target="_blank"}. In order for a collaboration to be
 successful, it is important to understand the stakeholders needs. This
 ensures that the participants can work well together, and that the
 participants will be motivated and satisfied with the outcome of the
@@ -181,7 +181,7 @@ Collaborations within an organization can take many forms. In order to
 facilitate good collaboration, tools like collaboration platforms,
 document management systems, wikis or the organization\'s intranet can
 be used. These provide a good starting point for the organization to
-share knowledge and information. The [value streams](valuestreams.md) within
+share knowledge and information. The [value streams](value_streams.md){:target="_blank"} within
 the organization require collaboration between different parties in
 order to effectively deliver value. So good collaboration is essential
 to effective value delivery.
@@ -218,7 +218,7 @@ participants is not feasible.
 ## Internal politics
 
 Internal politics influence and affect collaborations.
-[Stakeholders](stakeholders.md), internal or external, will have vested
+[Stakeholders](stakeholders.md){:target="_blank"}, internal or external, will have vested
 interests in the different outcomes of the collaboration. These
 stakeholders are likely to try and influence the collaboration to their
 best advantage. Analysis of the stakeholders in a collaboration is
@@ -238,7 +238,7 @@ a communication strategy.
 
 The communication strategy helps to define the methods by which
 information is communicated to participants in the collaboration. It is
-also used to plan communication to [stakeholders](stakeholders.md) who are
+also used to plan communication to [stakeholders](stakeholders.md){:target="_blank"} who are
 interested in the outcome of the collaboration. The canvas above can be
 used as a method for helping to define a communication strategy.
 
@@ -248,7 +248,7 @@ In large organizations there is often a complex structure for the
 organizational units and capabilities. These organizational units have
 their own interests (political, financial, influence, competition,
 etc..) and this can create organizational barriers to a collaboration. A
-[value stream](valuestream.md) may rely on several organizational units
+[value stream](value_streams.md){:target="_blank"} may rely on several organizational units
 working together effectively in order to deliver value, organizational
 barriers represent a threat to efficient value delivery. To reduce
 organizational barriers, make sure key stakeholders from the
@@ -293,7 +293,7 @@ participants.
 ## Cultural differences
 
 Cultural differences within a collaboration may create tension.
-Companies and organizations nurture their own [cultures](culture.md). In addition,
+Companies and organizations nurture their own [cultures](culture.md){:target="_blank"}. In addition,
 cultures may differ depending on country and even regions within a
 country. A collaboration which involves many cultures can be challenging
 and require a lot of effort and tolerance from the participants. At the
@@ -304,7 +304,7 @@ simply may not occur if the culture is homogonous.
 
 Collaborations may involve the inclusion of individuals from several
 different professions (UX, Development, Test, Business Management,
-Subject Matter Experts), like an [extended team](extendedteam.md). In such
+Subject Matter Experts), like an [extended team](extended_team.md){:target="_blank"}. In such
 collaborations it can be challenging to find a common way of working.
 Each profession has their own working practices and it is important to
 take time to build a collaborative process which works for all
@@ -422,9 +422,11 @@ should also be given to legal issues.
 # References and Further Reading
 
 **Work Out Loud, Bryce Williams**
-
-<https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/>
+[Work Out Loud](https://thebryceswrite.com/2010/11/29/when-will-we-work-out-loud-soon/){:target="_blank"}
 
 **Organisation Network Analysis, Deloitta**
+[Organisation Network Analysis](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html){:target="_blank"}
 
-https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

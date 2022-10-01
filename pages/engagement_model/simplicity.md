@@ -18,30 +18,30 @@ What Is Simplicity
 Simplicity, noun
 
 1.  the quality or condition of being easy to understand or do.
-2.  the quality or condition of being plain or uncomplicated in form or [design](https://btabok.iasaglobal.org/btabok_3/operating-model/design/).
+2.  the quality or condition of being plain or uncomplicated in form or [design](design.md){:target="_blank"}.
 
-Simplicity as a function of an enterprise, business context or design is difficult to fully define especially in modern complex businesses, projects and [ecosystems](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/ecosystem/). The goal is to make our environments 'as simple as possible but no simpler', though Einstein's actual quote was much more complex.
+Simplicity as a function of an enterprise, business context or design is difficult to fully define especially in modern complex businesses, projects and [ecosystems](ecosystem.md){:target="_blank"}. The goal is to make our environments 'as simple as possible but no simpler', though Einstein's actual quote was much more complex.
 
 Simplicity can be thought of in two ways based on its definitions. Easy to understand is itself somewhat complicated as an expert might find something easy to understand that is complicated and confusing to a novice and a layman. This notion that something is easy to understand
 
 Why is Simplicity Important to Architects
 =========================================
 
-The simplicity concept is noted here as a measurement of business success. If two businesses of the same size, with relatively similar [business models](https://btabok.iasaglobal.org/btabok_3/business-models/) compete in a marketplace, and with similarly skilled staff, the one with more simplicity should be able to compete better. The reasoning behind this is that they will be able to respond to market demands faster and that they will have fewer errors/issues in satisfying customers.
+The simplicity concept is noted here as a measurement of business success. If two businesses of the same size, with relatively similar [business models](business_models.md){:target="_blank"} compete in a marketplace, and with similarly skilled staff, the one with more simplicity should be able to compete better. The reasoning behind this is that they will be able to respond to market demands faster and that they will have fewer errors/issues in satisfying customers.
 
 In this article, simplicity, then, is not just the lack of complexity but a way of looking at a system of people, process and technology to optimize it for understanding, action and form or design.
 
 Simplicity as a Basis for Competition
 -------------------------------------
 
-Corporate strategy seeks to enable experimentation in [business models](https://btabok.iasaglobal.org/btabok_3/business-models/), [value streams](https://btabok.iasaglobal.org/btabok_3/value-model/value-streams/), and customer delight while minimizing change impact on the corporate landscape. For example, Amazon's offer of a Prime Video service was a radical shift requiring significant investment across the company and created a great deal of complexity in terms of business model. This level of separation between models, shipping and movie production, are not necessarily compatible. While Amazon's profitability holds the two together a less profitable company would find this kind of business model complexity difficult to maintain and stay competitive.
+Corporate strategy seeks to enable experimentation in [business models](business_models.md){:target="_blank"}, [value streams](value_streams.md){:target="_blank"}, and customer delight while minimizing change impact on the corporate landscape. For example, Amazon's offer of a Prime Video service was a radical shift requiring significant investment across the company and created a great deal of complexity in terms of business model. This level of separation between models, shipping and movie production, are not necessarily compatible. While Amazon's profitability holds the two together a less profitable company would find this kind of business model complexity difficult to maintain and stay competitive.
 
-Simplicity for competitive purposes would describe a business model which explores surrounding ecosystem business models, [innovations](https://btabok.iasaglobal.org/btabok_3/operating-model/innovation/), and [customer journeys](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/journey/) which augment or extend the primary model of the company while enhancing competitive stance. For example, many air travel companies offer package deals for cars and hotels through partnerships. While today this is not new, at the time it was created it more attractive deals to customers who flew on the airline. Similar examples of partnerships and innovation in business models provides background on targeting the simplest business model which can compete and innovate.
+Simplicity for competitive purposes would describe a business model which explores surrounding ecosystem business models, [innovations](innovate.md){:target="_blank"}, and [customer journeys](customer_journey.md){:target="_blank"} which augment or extend the primary model of the company while enhancing competitive stance. For example, many air travel companies offer package deals for cars and hotels through partnerships. While today this is not new, at the time it was created it more attractive deals to customers who flew on the airline. Similar examples of partnerships and innovation in business models provides background on targeting the simplest business model which can compete and innovate.
 
 Simplicity as a Protection Against Technical Debt
 -------------------------------------------------
 
-[Technical debt](https://btabok.iasaglobal.org/btabok_3/technical-debt/) can limit the competitiveness, effectiveness and longevity of a product within the enterprise. There are numerous areas where a simplicity goal as a principle of solution architecture and system delivery will protect against technical debt.
+[Technical debt](technical_debt.md){:target="_blank"} can limit the competitiveness, effectiveness and longevity of a product within the enterprise. There are numerous areas where a simplicity goal as a principle of solution architecture and system delivery will protect against technical debt.
 
 ### Modernize or Die
 
@@ -49,13 +49,13 @@ Targets in simplicity will impact the prioritization of modernizing applications
 
 ### New Might Not Be Better
 
-The opposite pattern to modernization is the acquisition of new technology solutions for existing patterns without thought as to the complexity created by the resulting proliferation of [design patterns](https://btabok.iasaglobal.org/architecture-pattern-repository/), technologies in production and spread of skills and maintenance required. Curbing the desire to implement the 'bleeding edge' of frameworks, libraries and tools may be the best outcome an organization can achieve.
+The opposite pattern to modernization is the acquisition of new technology solutions for existing patterns without thought as to the complexity created by the resulting proliferation of [design patterns](patterns/architecture_pattern_repository.md){:target="_blank"}, technologies in production and spread of skills and maintenance required. Curbing the desire to implement the 'bleeding edge' of frameworks, libraries and tools may be the best outcome an organization can achieve.
 
 ### Everything and the Kitchen Sink
 
-Most often this arises when the solution becomes bloated with features that are not used or are used very seldom. These features then cause the solution teams to invent structural design paradigms which complicate the overall architecture. Thus the system becomes weighed down with complex patterns which may not be needed to provide the most effective solution. By making simplicity a target of architecture output (and the architects themselves in their job description and role) the enterprise can help offset the risk associated with over-designing systems. This serves as a front-line defence against growth in [technical debt](https://btabok.iasaglobal.org/btabok_3/technical-debt/).
+Most often this arises when the solution becomes bloated with features that are not used or are used very seldom. These features then cause the solution teams to invent structural design paradigms which complicate the overall architecture. Thus the system becomes weighed down with complex patterns which may not be needed to provide the most effective solution. By making simplicity a target of architecture output (and the architects themselves in their job description and role) the enterprise can help offset the risk associated with over-designing systems. This serves as a front-line defence against growth in [technical debt](technical_debt.md){:target="_blank"}.
 
-Simplicity as a Set of [Objectives](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/objectives/)
+Simplicity as a Set of [Objectives](objectives.md){:target="_blank"}
 -------------------------------------------------------------------------------------------------------------
 
 There are many papers on understanding code complexity in traditional code bases, however modern architecture has significantly higher numbers of connections, complications, integrations and quality attribute concerns than a single code base. Consider microservices as built by a set of 15 different teams, with significant interdependencies. Simplicity in this scenario must be looked at from a higher vantage point than a single team.
@@ -79,13 +79,13 @@ There are many many papers on understanding code complexity in traditional code 
 | Cyclomatic | The number of pathways through a code base or set of services during execution. | Cyclomatic Complexity |
 | Delivery | The method used to create code and deploy to production. | DevOps, Development Lead Times, Code Commits, Production Releases per Month/Year, Framework Utilization |
 | Integration | Service dependencies internal and external and their level of coupling. | Service interface contracts, service SLA, service interdependence, transaction telemetry |
-| [Stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) | Stakeholder power/interest and effectiveness of stakeholder understanding and management | Stakeholder management plans, well understood roles, stakeholder communication |
-| [Quality Attribute(s)](https://btabok.iasaglobal.org/btabok_3/value-model/quality-attributes/) | Cross cutting concerns such as security and performance. | Measures by type of quality attribute, up-time, mean time to recovery, systemic performance, infrastructure dashboards |
-| Domain | [Value stream](https://btabok.iasaglobal.org/btabok_3/value-model/value-streams/) or business area including conceptual or IP based complexity | Domain dependency visualizations, conceptual complexity (ex. DNA modifications vs retail store), [business capability](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/) measures, business process measures |
-| Political | Simplicity in communication and [culture](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/culture/) related to human politics. | Architect stakeholder maps with assessments of complex political landscapes |
+| [Stakeholder](stakeholders.md){:target="_blank"} | Stakeholder power/interest and effectiveness of stakeholder understanding and management | Stakeholder management plans, well understood roles, stakeholder communication |
+| [Quality Attribute(s)](quality_attributes.md/){:target="_blank"} | Cross cutting concerns such as security and performance. | Measures by type of quality attribute, up-time, mean time to recovery, systemic performance, infrastructure dashboards |
+| Domain | [Value stream](value_streams.md){:target="_blank"} or business area including conceptual or IP based complexity | Domain dependency visualizations, conceptual complexity (ex. DNA modifications vs retail store), [business capability](business_capabilities.md){:target="_blank"} measures, business process measures |
+| Political | Simplicity in communication and [culture](culture.md){:target="_blank"} related to human politics. | Architect stakeholder maps with assessments of complex political landscapes |
 | Information | Data, Integration and Usage related to complexity of the information stored and used regularly in an organization. | Domain driven design tools, data interdependency, information utilization, information ownership grids |
 
-Another area to look at is Fitness Functions as defined by Neal Ford, Rebecca Parsons and Patrick Kua in their [book on Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures).
+Another area to look at is Fitness Functions as defined by Neal Ford, Rebecca Parsons and Patrick Kua in their [book on Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures){:target="_blank"}.
 
 Think About Simplicity in Business Terms
 ----------------------------------------
@@ -123,7 +123,7 @@ Key Considerations for Simplicity
 Velocity is Related to Simplicity
 ---------------------------------
 
-[Velocity](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/velocity/) of delivery of value is a critical competitive advantage in todays organization and enterprise. But velocity is impacted by the amount of change required to deliver value to the market. With complex organizations weighed down by technical debt and complex dependent business processes supported by large systems and services, it is difficult to change direction quickly. Thus simplicity has a direct impact on velocity.
+[Velocity](velocity.md){:target="_blank"} of delivery of value is a critical competitive advantage in todays organization and enterprise. But velocity is impacted by the amount of change required to deliver value to the market. With complex organizations weighed down by technical debt and complex dependent business processes supported by large systems and services, it is difficult to change direction quickly. Thus simplicity has a direct impact on velocity.
 
 Simple Solutions Become Complex
 -------------------------------
@@ -143,12 +143,12 @@ A team should be fully aware that complexity is always associated with human sys
 References and further reading
 ==============================
 
-**Enterprise Complexity Management\
-**<https://informationwithinsight.com/2018/01/08/enterprise-complexity-management/>
+**Enterprise Complexity Management**
+[Enterprise Complexity Management](https://informationwithinsight.com/2018/01/08/enterprise-complexity-management/){:target="_blank"}
 
-<https://architectelevator.com/architecture/it-complexity/>
+[https://architectelevator.com/architecture/it-complexity/](https://architectelevator.com/architecture/it-complexity/){:target="_blank"}
 
-<https://www.researchgate.net/publication/326845076_An_Enterprise_Complexity_Model_Enterprises_Organizational_Systems_and_Dynamic_Capabilities/link/607aa298881fa114b40a18a7/download>
+[https://www.researchgate.net/publication/326845076_An_Enterprise_Complexity_Model_Enterprises_Organizational_Systems_and_Dynamic_Capabilities/link/607aa298881fa114b40a18a7/download](https://www.researchgate.net/publication/326845076_An_Enterprise_Complexity_Model_Enterprises_Organizational_Systems_and_Dynamic_Capabilities/link/607aa298881fa114b40a18a7/download){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
