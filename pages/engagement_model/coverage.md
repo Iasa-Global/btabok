@@ -93,7 +93,7 @@ The diagram about mentor-based architecture practices also leads to another unex
 Growing Coverage Over Time
 --------------------------
 
-The goal of coverage is to estimate the size of the overall set of architecturally significant decisions, objectives, and activities to estimate coverage. In the average enterprise this is a significant figure. It is not necessary for every decision to include an architect, in fact this method will reduce the overall workload of the team as the organization begins to understand the difference between architectural decision, [velocity](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/velocity/){:target="_blank"} and information needed. Also there are many tools and techniques that can scale decision effectiveness over time. For example decision boards and delegation poker are two techniques often used to help teams understand what decisions can be made by whom.
+The goal of coverage is to estimate the size of the overall set of architecturally significant decisions, objectives, and activities to estimate coverage. In the average enterprise this is a significant figure. It is not necessary for every decision to include an architect, in fact this method will reduce the overall workload of the team as the organization begins to understand the difference between architectural decision, [velocity](velocity.md){:target="_blank"} and information needed. Also there are many tools and techniques that can scale decision effectiveness over time. For example decision boards and delegation poker are two techniques often used to help teams understand what decisions can be made by whom.
 
 Understanding Coverage and Measures
 ===================================
