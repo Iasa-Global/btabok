@@ -14,7 +14,7 @@ summary: "Requirements are recognized and developed throughout the entire portfo
 
 # Architecturally Significant Requirements
 
-Architecturally significant requirements is a term used in the BTABoK to describe a set of concepts which relate to the development and delivery of value to an organization. Architecturally significant requirements can be broken into several different factors, depending on how the [engagement model](https://btabok.iasaglobal.org/btabok_3/engagement-model-overview-3-0/) is implemented.
+Architecturally significant requirements is a term used in the BTABoK to describe a set of concepts which relate to the development and delivery of value to an organization. Architecturally significant requirements can be broken into several different factors, depending on how the [engagement model](engagement.md){:target="_blank"} is implemented.
 
 Requirements are recognized and developed throughout the entire portfolio of the enterprise. The goal of which is to represent value streams across the enterprise and to trace those value streams through the decision making process. Traditional architecturally significant requirements are mapped to innovation and ideation, business case development, project and or product requirements, epics and stories. And represent needs from both business and technology leadership.
 
@@ -26,7 +26,7 @@ For the purpose of the BTABoK, all thinking, ideas and desires about a business 
 
 Architectural requirements are hard to determine, primarily because they need to be gathered so early in the lifecycle before details are known. Many organizations continually add detail and refinement to ASRs through the enterprise lifecycle with a common architecture goal of value traceability in decision making. Architects should start early in project life-cycles based on when an architect engages in a project, with the end goal being integration into the innovation and project/product funding lifecycle itself.
 
-ASR representation in the [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/).
+ASR representation in the [lifecycle](architecture_lifecycle.md){:target="_blank"}.
 
 |  Characteristic       |  Explanation                                     |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -75,7 +75,7 @@ When you are in the process of design you should gather any requirements that le
 
 ## Quality Attribute Impacts
 
-Another area of requirement decisions are those that deeply impact [quality attributes](https://btabok.iasaglobal.org/btabok_3/value-model/quality-attributes/). Often called the ‘\~ilities and \~illiancies’ of a system, these are the horizontal cross-cutting concerns that impact a system such as performance, security, usability, RAS, and flexibility. During a requirements gathering phase the architect should be deeply alert for any requirement or idea that impact one of these items and should illicit requirements that allow for measurement of effective quality attributes. A great tool for the practicing architect is to build a set of questions which have definite impact on quality attributes and can be measured. Here are a couple of examples from my own practice:
+Another area of requirement decisions are those that deeply impact [quality attributes](quality_attributes.md){:target="_blank"}. Often called the ‘\~ilities and \~illiancies’ of a system, these are the horizontal cross-cutting concerns that impact a system such as performance, security, usability, RAS, and flexibility. During a requirements gathering phase the architect should be deeply alert for any requirement or idea that impact one of these items and should illicit requirements that allow for measurement of effective quality attributes. A great tool for the practicing architect is to build a set of questions which have definite impact on quality attributes and can be measured. Here are a couple of examples from my own practice:
 
 -   “How many concurrent users do we need to support and in what portions of the system?”
 -   “How flexible and decoupled should the system be? Which functional components will change often over time?”

@@ -167,9 +167,9 @@ Figure 6 Ensuring Design Matches Objectives
 
 ## Design For Structural Concerns
 
-In bridge design, the nature of the crossing, and the length of the span in particular, have the most influence on the resulting design. Together, the different aspects of the crossing form the environment or [context ](./scope_and_contexts.md) for the bridge. These will impact all aspects of the design process, much like corporate or company culture, location and business type will inform all aspects of architecture decision making. As the span lengthens, the types of bridges you can build become more constrained, to the point that for spans over 1000 feet, you basically have three options.
+In bridge design, the nature of the crossing, and the length of the span in particular, have the most influence on the resulting design. Together, the different aspects of the crossing form the environment or [context ](scope_context.md) for the bridge. These will impact all aspects of the design process, much like corporate or company culture, location and business type will inform all aspects of architecture decision making. As the span lengthens, the types of bridges you can build become more constrained, to the point that for spans over 1000 feet, you basically have three options.
 
-So it is with technology systems. The [context ](./scope_and_context.md) in which the system will live has as much influence to the design as the functional, quality attribute and constraint requirements. 
+So it is with technology systems. The [context ](scope_context.md) in which the system will live has as much influence to the design as the functional, quality attribute and constraint requirements. 
 
 The main influences over the design are:
 
@@ -367,3 +367,7 @@ https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamenta
 
 **Petroski, Henry, *Invention by Design: How Engineers Get from Thought
 to Thing*, Harvard University Press, Camebridge, MA: 1996.**
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
