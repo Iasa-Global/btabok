@@ -180,10 +180,10 @@ We have identified five primary pitfalls to successfully architecting qualit
 See also (other BTABOK articles):
 ---------------------------------
 
--   [Requirements](https://btabok.iasaglobal.org/btabok_3/operating-model/requirements/) elicitation 
--   Residual [design](https://btabok.iasaglobal.org/btabok_3/operating-model/design/), evolutionary architecture 
--   Testing [strategies ](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/strategy/)
--   [Agile process](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/agility/), architectural runway 
+-   [Requirements](requirements.md){:target="_blank"}, elicitation 
+-   Residual [design](design.md){:target="_blank"}, evolutionary architecture 
+-   Testing [strategies](strategy.md){:target="_blank"}
+-   [Agile process](agility.md){:target="_blank"}, architectural runway 
 
 References and Further Reading
 ==============================
