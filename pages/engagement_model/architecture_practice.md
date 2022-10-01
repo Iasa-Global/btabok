@@ -29,7 +29,7 @@ There is no method, for example, of promoting someone to a surgeon within an org
 Why is a Practice Important to Architects
 =========================================
 
-A practice mindset may be the most essential change in architecture and technology over the next few decades. While technology advances and management techniques and remain driving forces, they have reached a level of societal impact (human safety, fiscal impact, [culture](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/culture/), and law) which require a fundamental shift in the approach of technologists to employment, growth and scope of impact.
+A practice mindset may be the most essential change in architecture and technology over the next few decades. While technology advances and management techniques and remain driving forces, they have reached a level of societal impact (human safety, fiscal impact, [culture](culture.md), and law) which require a fundamental shift in the approach of technologists to employment, growth and scope of impact.
 
 In addition, a practice model brings significant benefits to all parties within the system. Problems that have plagued IT and organizations both vendor and non-vendor alike can be linked with the solutions provided by using a practice model rather than a management model for professionals involved in the field. This is not limited to architects but they and engineers are the most obvious candidates for the development of a true professional model. Below are issues and benefits that can be achieved through this shift in employment and experiential model.
 
@@ -64,7 +64,7 @@ The competency model in the BTABoK is very well established and in use by organi
 
 Figure 1 BTABoK Competencies and Specialization
 
-The competency model used in the BTABoK establishes a clear value proposition within the profession and that is Business Technology Strategy. Later sections of this article will clarify how that applies to specialists such as business or software architects as well as how sub-specialists or technical experts are included. In addition, the [Extended Team](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/) article explores ways to use the competencies in environments where architecture as a profession is not firmly established. Below is a common canvas used to highlight competency strengths and weaknesses in both individuals and architecture teams.
+The competency model used in the BTABoK establishes a clear value proposition within the profession and that is Business Technology Strategy. Later sections of this article will clarify how that applies to specialists such as business or software architects as well as how sub-specialists or technical experts are included. In addition, the [Extended Team](extended_team.md) article explores ways to use the competencies in environments where architecture as a profession is not firmly established. Below is a common canvas used to highlight competency strengths and weaknesses in both individuals and architecture teams.
 
 ![image001](media/a_p002.png)
 
@@ -143,13 +143,13 @@ Figure 3 Architecture Touchpoints Canvas
 Growing Maturity
 ----------------
 
-The maturity of an architect practice is measured by understanding its impact on the outcomes (zone measures) of the digital advantage of an organization. It is impacted primarily by the competence of the team and the maturity of the engagement model. However, it should be noted that even an extremely competent team may only mature the architecture practice within the limits of the overall company maturity. For example, if the executive team is not mature in operations, finance, etc or is resistant to digital transformation, the architecture practice maturity will be limited. See BTABoK [Maturity Model](https://btabok.iasaglobal.org/maturity-model/) and Architecture Capability.
+The maturity of an architect practice is measured by understanding its impact on the outcomes (zone measures) of the digital advantage of an organization. It is impacted primarily by the competence of the team and the maturity of the engagement model. However, it should be noted that even an extremely competent team may only mature the architecture practice within the limits of the overall company maturity. For example, if the executive team is not mature in operations, finance, etc or is resistant to digital transformation, the architecture practice maturity will be limited. See BTABoK [Maturity Model](https://btabok.iasaglobal.org/maturity-model/){:target="_blank"} and Architecture Capability.
 
 ![image001](media/a_p004.png)
 
 ### Architecture Practice Objectives
 
-As a part of the practice and engagement model there should be clear objectives for the entire group of architects employed by an organization, including vendors and SI partners. This means the practice has to set and measure these objectives and how they are being achieved alongside working with other business units on digital advantage. In most cases these two elements will cross over significantly. Effectively the architecture practice becomes responsible for a portion of outcomes related to all areas of the business it officially supports. However, it needs to be noted that based on the BTABoK, this level of support must be proactive involvement in the delivery of value for the business units the practice engages with, including the IT business unit, thus enterprise wide objectives are only possible if there are enough architects to commit to such proactive engagement. See the [Coverage](https://btabok.iasaglobal.org/btabok_3/value-model/coverage/) article for more guidance.
+As a part of the practice and engagement model there should be clear objectives for the entire group of architects employed by an organization, including vendors and SI partners. This means the practice has to set and measure these objectives and how they are being achieved alongside working with other business units on digital advantage. In most cases these two elements will cross over significantly. Effectively the architecture practice becomes responsible for a portion of outcomes related to all areas of the business it officially supports. However, it needs to be noted that based on the BTABoK, this level of support must be proactive involvement in the delivery of value for the business units the practice engages with, including the IT business unit, thus enterprise wide objectives are only possible if there are enough architects to commit to such proactive engagement. See the [Coverage](coverage.md){:target="_blank"} article for more guidance.
 
 ![image001](media/a_p005.png)
 
@@ -166,7 +166,7 @@ Some examples and opportunities include:
 
 -   Sharing experiences applying BTABoK concepts or methods of a concept or method on a project -- both and good and bad results (of course this contribution must have private data removed but the learning remains)
 -   Creating videos, articles, or other records of applying patterns or techniques and tagging them to the body of knowledge
--   [Patterns](https://btabok.iasaglobal.org/architecture-pattern-repository/), [quality attributes](https://btabok.iasaglobal.org/btabok_3/value-model/quality-attributes/) and [viewpoint](https://btabok.iasaglobal.org/views-and-viewpoints/) examples
+-   [Patterns](.\patterns\architecture_pattern_repository.md){:target="_blank"}, [quality attributes](quality_attributes.md){:target="_blank"} and [viewpoint](views.md){:target="_blank"} examples
 -   Supporting working groups delivery especially where the working group needs more junior members to help with the overall time contribution required
 
 For more senior members
@@ -182,11 +182,11 @@ For more senior members
 Managing the Engagement Model
 -----------------------------
 
-It is essential that this group create an understandable [engagement model](https://btabok.iasaglobal.org/btabok_3/engagement/) and that they do so in a way that represents the real work of the architects in the organization. For a full description of developing an engagement model see Engagement Models.
+It is essential that this group create an understandable [engagement model](engagement.md){:target="_blank"} and that they do so in a way that represents the real work of the architects in the organization. For a full description of developing an engagement model see Engagement Models.
 
 ![image001](media/a_p006.png)
 
-The Architect Capability Canvas provides a tool for overall capability management of the architecture practice and there are multiple additional [canvases](https://btabok.iasaglobal.org/btabok_3/structured-canvases/) that aid the development of a truly well-understood and accepted model of practice.
+The Architect Capability Canvas provides a tool for overall capability management of the architecture practice and there are multiple additional [canvases](.\structured_canvases\structured_canvases_m.md){:target="_blank"} that aid the development of a truly well-understood and accepted model of practice.
 
 ### Processes, Deliverables and Tools
 
