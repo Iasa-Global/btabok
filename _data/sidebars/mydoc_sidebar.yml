@@ -284,7 +284,7 @@ entries:
     subfolderitems:
 
     - title: Overview
-      url: architecture_practice.html
+      url: competency_model_m.html
       output: web
 
   - title: Maturity Model
@@ -292,7 +292,7 @@ entries:
     subfolderitems:
 
     - title: Overview
-      url: architecture_practice.html
+      url: xxxx.html
       output: web
 
   - title: Topic Areas
@@ -308,5 +308,5 @@ entries:
     subfolderitems:
 
       - title: Overview
-        url: architecture_practice.html
+        url: structured_canvases_m.html
         output: web
