@@ -239,23 +239,24 @@ Resources
     *<http://www.informationweek.com/it-leadership/it-spending-innovation-talk-vs-survival-walk/d/d-id/1103852?>*
 
 Related Capabilities
-====================
+==================== 
 
--   [Business Strategy](https://btabok.iasaglobal.org/btabok_3/business-strategy/)
+-   [Business Strategy](business_strategy.md){:target="_blank"}
 
--   [Financial Methods](https://btabok.iasaglobal.org/btabok_3/financial-methods/)
+-   [Financial Methods](financial_methods.md){:target="_blank"}
 
--   [Technology Investments](https://btabok.iasaglobal.org/btabok_3/technology-investment/)
+-   [Technology Investments](technology_investment.md){:target="_blank"}
 
--   [Portfolio and Program Management](https://btabok.iasaglobal.org/btabok_3/portfolio-and-program-management/)
+-   [Portfolio and Program Management](ppm.md){:target="_blank"}
 
--   [Compliance](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/compliance/)
+-   [Compliance](compliance.md){:target="_blank"}
 
 Author
 ======
 
 ![Juan Mestas](media/juan_mestas.jpg)
-Senior Solution Architect -- Deloitte Ireland**
+
+**Senior Solution Architect - Deloitte Ireland**
 
 Juan Mestas is a Senior Architect in the Deloitte Technology Centre of Excellence with more than 15 years of experience in consultancy services and vertical industries, specializing on Enterprise Architecture (EA) and Solutions Architecture (SA).
 

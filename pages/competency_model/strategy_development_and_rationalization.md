@@ -70,7 +70,7 @@ This involves using a systematic approach to classifying the influences on an or
 
 And two additional components can be added to give PESTLE analysis:
 
--   Legal -- Factors include employment law, [health and safety law](https://en.wikipedia.org/wiki/Health_and_safety_law) and regulation which applies to specific industries, for example Sarbanes Oxley These factors can affect how a company operates, its costs, and the demand for its products.
+-   Legal -- Factors include employment law, [health and safety law](https://en.wikipedia.org/wiki/Health_and_safety_law){:target="_blank"} and regulation which applies to specific industries, for example Sarbanes Oxley These factors can affect how a company operates, its costs, and the demand for its products.
 -   Environmental -- This covers ecological and environmental aspects such as weather, climate, and[climate change](https://en.wikipedia.org/wiki/Climate_change), which may especially affect industries such as tourism, farming, and insurance
 
 Scenario analysis with SWOT
@@ -181,7 +181,6 @@ The value of the innovation depends on which area of the business it can be appl
 
 When the architect promotes the adoption of an innovation it is absolutely essential that the risk is understood by the business, the IASA BTS course contains a risk taxonomy shown below:
 
-[![Risk Taxonomy - BTS](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Risk-Taxonomy-BTS.jpg)](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Risk-Taxonomy-BTS.jpg)
 ![Risk Taxonomy - BTS](media/sdar002.svg)
 
 The architect must be able to apply the risk taxonomy in the context of their organization and the area of the innovation. Every organization will each have an attitude to risk, which is dependent on the market sectors they are in and their place in them.
@@ -231,12 +230,10 @@ New Technology
 
 There are several commonly use models to describe the adoption of new things. The technology adoption curve is a useful way to identify where the organization is in relation to others, with respect to how soon a technology will be use after it emerges.  The point of adoption may vary within an organization depending on how critical the technology is to operational running. The diagram below shows the stages in the curve:
 
-[![Tech Adoption](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Tech-Adoption.jpg)](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Tech-Adoption.jpg)
 ![SWOT](media/sdar001.svg)
 
 When looking at adoption from the perspective of the product, the Hyper-Cycle, produced by Gartner, is frequently used. This is a useful model to apply when identifying when your organization should jump into using a technology, as most organizations will want to avoid adopting something which will be the subject of supplier consolidations or failures. This is a general model so it must be used with caution, there are no rules to say a technology must follow this path.
 
-[![Hyper Cycle](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Hyper-Cycle.jpg)](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Hyper-Cycle.jpg)
 ![SWOT](media/sdar001.svg)
 
 | **Iasa Certification Level** | **Learning Objective** |
@@ -296,8 +293,7 @@ Principles come with three associated elements.
 
 The diagram shows how these ideas all fit together.
 
-[![Principles](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Principles.jpg)](https://itabok.iasaglobal.org/wp-content/uploads/2015/05/Principles.jpg)
-![SWOT](media/sdar001.svg)
+![Principles](media/sdar001.svg)
 
 The diagram illustrates in particular one of the key benefits of developing principles: they can be used to justify architectural decisions right back to business drivers and goals. This is illustrated in the diagram by means of an example, in this (simplified) example, the architectural choice using some existing hardware can be justified back to the business driver which requires an improved financial position.
 

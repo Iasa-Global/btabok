@@ -297,8 +297,7 @@ Author
 
 ![Dan Fain](media/dan_fain.jpg)
 
-### **Dan Fain\
-Security & Identity Architect -- Microsoft**
+### **Dan Fain Security & Identity Architect -- Microsoft**
 
 Driven executive specializing in applying proven sales, relationship management and professional services background to deliver exceptional technical leadership in both domestic and international environments. 20-year management background with strong experience directing staff members from Australia, Asia, Europe and the Middle East. Effectively apply IT resources to achieve organizational goals while improving efficiency and profitability. Strong technical background includes MCITP, MCSE, IA/CND Level III DoD, CISSP, CITA-P, and CEH certifications and expertise in LAN, WAN and VPN technologies and information systems security.
 

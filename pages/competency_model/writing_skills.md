@@ -177,11 +177,11 @@ Ability to use text formatting to structure text and make it more readable. The 
 Related Capabilities
 ====================
 
--   **[Architecture Description](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/architecture-description/)**\
+-   **[Architecture Description](architecture_description.md){:target="_blank"}**
     *-- An architecture is usually described in a document, which has a framework of written text. Writing skills help create a document that is easy to follow.*
--   [**Requirements Modeling**](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-modeling/)\
+-   **[Requirements Modeling](requirements_modeling.md){:target="_blank"}
     *-- Requirements are usually captured in some form of written text. Writing Skills will make the requirements more clear and easy to follow.*
--   **[Presentation Skills](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/presentation-skills/)**\
+-   **[Presentation Skills](presentation_skills.md){:target="_blank"}**\
     *-- Creating presentation material with elements of written text can greatly benefit from Writing Skills.*
 
 Resources
@@ -198,7 +198,9 @@ Wikipedia Manual of Text Formatting: <https://en.wikipedia.org/wiki/Wikipedia:Ma
 Author
 ======
 
-### **![sven_jug](media/s_jug.jpg)Sven Jug**
+![sven_jug](media/s_jug.jpg)
+
+**Sven Jug**
 
 Sven is a Senior Engineering Manager at KLA-Tencor, a global semi-conductor company. He is responsible for managing projects, people and architectural solutions for data management and analysis software products.
 

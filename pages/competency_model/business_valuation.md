@@ -200,8 +200,8 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 Related Capabilities
 ====================
 
--   [Business Fundamentals](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/business-fundamentals/)
--   [Investment Planning and Priortization](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/investment-prioritization-and-planning/)
+-   [Business Fundamentals](business_fundamentals.md)
+-   [Investment Planning and Priortization](investment_prioritization_and_planning.md)
 
 Resources
 =========

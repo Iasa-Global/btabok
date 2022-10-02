@@ -13,7 +13,7 @@ Description
 
 Risk Management for an architect is an ongoing effort to offset occurrences which would jeopardize or negatively impact the value generated from a project, program or set of activities. Risk management includes any and all activities which identify and help to lessen these occurrences. Because there is an element of risk in any action taken by a company or it's employees it is most often handled through an internal group responsible for the management of all corporate risk (enterprise risk management) even for smaller companies, not just those which impact the architect. However, due to the unique context, scope and activities of architecture, at the enterprise, program and project levels, architects have a significant impact on risk management activities.
 
-Wikipedia Definition: Risk management is the identification, assessment, and prioritization of [risks](http://en.wikipedia.org/wiki/Risk) (defined in [ISO 31000](http://en.wikipedia.org/wiki/ISO_31000) as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability and/or impact of unfortunate events[[1]](http://en.wikipedia.org/wiki/Risk_management#cite_note-Risk_Management_pg._46-1) or to maximize the realization of opportunities.
+Wikipedia Definition: Risk management is the identification, assessment, and prioritization of [risks](http://en.wikipedia.org/wiki/Risk){:target="_blank"} (defined in [ISO 31000](http://en.wikipedia.org/wiki/ISO_31000){:target="_blank"} as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability and/or impact of unfortunate events[[1]](http://en.wikipedia.org/wiki/Risk_management#cite_note-Risk_Management_pg._46-1){:target="_blank"} or to maximize the realization of opportunities.
 
 Overview
 ========
@@ -49,7 +49,7 @@ Sub-Capabilities
 
 The risk management organization regardless of formality, is the area of the business associated with risk strategy, risk identification, risk analysis and risk mitigation as well as ongoing monitoring and control of risks. The goal of risk management is to reduce the probability and impact of risk to the organization or initiative.
 
-![risk2](media/risk_management002.jpg)
+![risk2](media/risk_management002.png)
 
 Architects will work with the risk management organization will complete the following elements to be used across the enterprise:
 
@@ -216,7 +216,8 @@ Resources
 
 **5.1 Templates:**
 
-Vendor Risk Assessment Guide: <http://cdn2.hubspot.net/hub/37288/file-1849675513-pdf/docs/SettingTheStandard.Evantix_Template_Final.pdf?t=1422557772630>
+Vendor Risk Assessment Guide:
+[Vendor Risk Assessment Guide](http://cdn2.hubspot.net/hub/37288/file-1849675513-pdf/docs/SettingTheStandard.Evantix_Template_Final.pdf?t=1422557772630){:target="_blank"}
 
 **5.2 Articles:**
 
@@ -241,9 +242,7 @@ Author
 ======
 
 ![Paul Preiss](media/p_preiss.jpg)
-### **Paul Preiss\
-CEO -- Iasa Global\
-**
+### **Paul Preiss CEO -- Iasa Global**
 
 During his tenure at Iasa, Paul has taken it from a single user group with 50 members to an influential global organization with over 80,000 in its professional network. He orchestrated the development of dozens of chapters and leaders in over 50 countries. He brought Iasa to the forefront of the architect profession and employs staff around the world in the growth of the organization. He led the development of the Iasa Board of Education, the Certified IT Architect Professional (CITA-P), the Iasa skills curriculum and is actively working with universities, governments and other professional bodies to stabilize the profession of IT architecture.
 

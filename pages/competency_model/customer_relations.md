@@ -293,7 +293,7 @@ Enterprise Architecture is a strategic planning function that uses a methodical 
 -   Are we reaching our customers in the geographies and locales in which they live and work, and if not, why not? (Geographies and Locales)
 -   Have we relied on partners in the right way, leveraging their strengths and the cost implications of using them without opening ourselves to problems of key dependencies? (partner profiles)
 
-[General Systems Theory: Four Types of Systems](http://www.acasa.upenn.edu/scholarly.htm)
+[General Systems Theory: Four Types of Systems](http://www.acasa.upenn.edu/scholarly.htm){:target="_blank"}
 
 There are four basic types of system depending on whether the parts and the whole can display choice, and therefore, be purposeful.
 
@@ -469,31 +469,31 @@ Resources
 
 ### **Blogs/Webcasts/News/Reference Sources --**
 
-1.  [Human Dynamics International](http://www.humandynamics.com/)
+1.  [Human Dynamics International](http://www.humandynamics.com/){:target="_blank"}
 2.  [Zachman International](http://www.zachman.com/ea-articles-reference/54-the-zachman-framework-evolution)
-3.  [Capability Maturity Model Integration (CMMI) Institute](http://cmmiinstitute.com/)
-4.  [The Enterprise Business Motivation Model](http://motivationmodel.com/wp/)
+3.  [Capability Maturity Model Integration (CMMI) Institute](http://cmmiinstitute.com/){:target="_blank"}
+4.  [The Enterprise Business Motivation Model](http://motivationmodel.com/wp/){:target="_blank"}
 5.  [Standards organization](http://en.wikipedia.org/wiki/Standards_organization#Regional_standards_organizations)
-6.  [Society for Industrial and Organizational Psychology (SIOP)](http://www.siop.org/)
-7.  [Systems thinking](http://en.wikipedia.org/wiki/Systems_thinking)
-8.  [The Fifth Discipline](http://en.wikipedia.org/wiki/The_Fifth_Discipline)
-9.  [Architecting Better Customer Experiences: The Nexus of EA and CX](https://www.softwareag.com/_sso/order_check.asp?pb=/corporate&r=5&cid=70120000000sFlo&tp=Webinars&ld=201403%5FWeb%5Fsite%5FWebinar%5FArchitecting+Better+Customer+Experiences%3A+The+Nexus+of+EA%2C+BPM+and+CX&ref=%2Fcorporate%2Fimages%2Fsec%5FArchitecting%5FBetter%5FCustomer%5FExperiences%5FThe%2520Nexus%5Fof%5FEA%5FBPM%5Fand%5FCX%5Ftcm16%2D119795%2Emp4&mtype=movie&w=1024&h=768&compID=tcm:16-119795)
+6.  [Society for Industrial and Organizational Psychology (SIOP)](http://www.siop.org/){:target="_blank"}
+7.  [Systems thinking](http://en.wikipedia.org/wiki/Systems_thinking){:target="_blank"}
+8.  [The Fifth Discipline](http://en.wikipedia.org/wiki/The_Fifth_Discipline){:target="_blank"}
+9.  [Architecting Better Customer Experiences: The Nexus of EA and CX](https://www.softwareag.com/_sso/order_check.asp?pb=/corporate&r=5&cid=70120000000sFlo&tp=Webinars&ld=201403%5FWeb%5Fsite%5FWebinar%5FArchitecting+Better+Customer+Experiences%3A+The+Nexus+of+EA%2C+BPM+and+CX&ref=%2Fcorporate%2Fimages%2Fsec%5FArchitecting%5FBetter%5FCustomer%5FExperiences%5FThe%2520Nexus%5Fof%5FEA%5FBPM%5Fand%5FCX%5Ftcm16%2D119795%2Emp4&mtype=movie&w=1024&h=768&compID=tcm:16-119795){:target="_blank"}
 
 ### **Training --**
 
-1.  [Fierce, Inc.](http://www.fierceinc.com/)
-2.  [Situational Self Leadership](http://www.kenblanchard.com/Solutions/Situational-Leadership-Development/Situational-Self-Leadership), The Ken Blanchard Companies
-3.  [Star Achievement Series](http://www.officedynamics.com/Services/CertificationCourses/TheStarAchievementSeries.aspx), Office Dynamics International
+1.  [Fierce, Inc.](http://www.fierceinc.com/){:target="_blank"}
+2.  [Situational Self Leadership](http://www.kenblanchard.com/Solutions/Situational-Leadership-Development/Situational-Self-Leadership){:target="_blank"}, The Ken Blanchard Companies
+3.  [Star Achievement Series](http://www.officedynamics.com/Services/CertificationCourses/TheStarAchievementSeries.aspx){:target="_blank"}, Office Dynamics International
 
 ### **Certifications --**
 
 1.  Risk Management
-    1.  [Certified Information Systems Auditor](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx) (CISA), ISACA
-    2.  [Certified in Risk and Information Systems Control](http://www.isaca.org/Certification/CRISC-Certified-in-Risk-and-Information-Systems-Control/Pages/default.aspx) (CRISC), ISACA
+    1.  [Certified Information Systems Auditor](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx){:target="_blank"} (CISA), ISACA
+    2.  [Certified in Risk and Information Systems Control](http://www.isaca.org/Certification/CRISC-Certified-in-Risk-and-Information-Systems-Control/Pages/default.aspx){:target="_blank"} (CRISC), ISACA
 2.  Architecture
-    1.  [Certified in the Governance of Enterprise IT](http://www.isaca.org/Certification/CGEIT-Certified-in-the-Governance-of-Enterprise-IT/Pages/default.aspx) (CGEIT), ISACA
-    2.  [Certified Information Technology Architect](https://iasaglobal.org/) (CITA), IASA
-    3.  [The Open Group Architecture Framework](https://www.opengroup.org/togaf9/cert/index.html) (TOGAF), The Open Group
+    1.  [Certified in the Governance of Enterprise IT](http://www.isaca.org/Certification/CGEIT-Certified-in-the-Governance-of-Enterprise-IT/Pages/default.aspx){:target="_blank"} (CGEIT), ISACA
+    2.  [Certified Information Technology Architect](https://iasaglobal.org/){:target="_blank"} (CITA), IASA
+    3.  [The Open Group Architecture Framework](https://www.opengroup.org/togaf9/cert/index.html){:target="_blank"} (TOGAF), The Open Group
 
 ### **Glossary of terms --**
 
@@ -529,8 +529,7 @@ Author
 
 ![richard vijay](media/r_vijay.jpg)
 
-### **Richard Vijay\
-Consultant, Lead -- Jaguar**
+### **Richard Vijay Consultant, Lead -- Jaguar**
 
 Richard possesses expertise in implementing world class IT systems and Product Lifecycle Management(PLM) solutions to automotive and aerospace OEMs worldwide. He has over 10 years of experience working for well-known organizations such as Jaguar Land Rover UK, TATA Motors European Technology Centre, TATA Daewoo Commercial vehicles, TATA Motors, and Airbus. He is currently on assignments requiring specialized service management, leadership, business architecture, solutions architecture, analysis, and project management expertise.
 

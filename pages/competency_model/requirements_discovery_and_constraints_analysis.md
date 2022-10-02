@@ -174,10 +174,10 @@ Usability requirements are the establishment, clarification and communication of
 Related Capabilities
 ====================
 
--   [Industry Analysis](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/industry-analysis/)
--   [Requirements Modeling](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-modeling/)
--   [Views and Viewpoints](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/views-and-viewpoints/)
--   [Balancing and Optimizing Quality Attributes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/balancing-and-optimizing-quality-attributes/)
+-   [Industry Analysis](industry_analysis.md){:target="_blank"}
+-   [Requirements Modeling](requirements_modeling.md){:target="_blank"}
+-   [Views and Viewpoints](views_viewpoints.md){:target="_blank"}
+-   [Balancing and Optimizing Quality Attributes](boqa.md){:target="_blank"}
 
 Resources
 =========

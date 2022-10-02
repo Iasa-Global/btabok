@@ -211,8 +211,8 @@ The preparation of a sustainability strategy for IT, taking into account politic
 Related Capabilities
 ====================
 
--   [Business Fundamentals](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/business-fundamentals/)
--   [Business Valuation](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/business-valuation/)
+-   [Business Fundamentals](business_fundamentals.md){:target="_blank"}
+-   [Business Valuation](business_valuation.md){:target="_blank"}
 
 Resources
 =========
