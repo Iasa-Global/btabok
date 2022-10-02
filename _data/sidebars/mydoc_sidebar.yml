@@ -281,32 +281,32 @@ entries:
 
   - title: Competency Model
     output: web
-    subfolderitems:
+    folderitems:
 
     - title: Overview
-      url: competency_model_m.html
+      url: engagement_models_m.html
       output: web
 
   - title: Maturity Model
     output: web
-    subfolderitems:
+    folderitems:
 
     - title: Overview
-      url: xxxx.html
+      url: engagement_models_m.html
       output: web
 
   - title: Topic Areas
     output: web
-    subfolderitems:
+    folderitems:
 
-      - title: Overview
-        url: architecture_practice.html
-        output: web
+    - title: Overview
+      url: engagement_models_m.html
+      output: web
 
   - title: Structed Canvases
     output: web
-    subfolderitems:
+    folderitems:
 
-      - title: Overview
-        url: structured_canvases_m.html
-        output: web
+    - title: Overview
+      url: engagement_models_m.html
+      output: web
