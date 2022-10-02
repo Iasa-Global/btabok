@@ -92,7 +92,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 7. [Information Governance and Management](igm.md)
 8. [Information Value](information_value.md)
 
-## Infrastructure Architecture**
+## Infrastructure Architecture
 
 1. [Access and Identity Management](aim.md)
 2. [Capacity Planning](capacity_planning.md)

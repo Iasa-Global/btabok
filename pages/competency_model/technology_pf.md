@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Technologies, platforms and frameworks are all common references in software architecture and yet they each have subtleties which distinguish them.
@@ -154,9 +154,8 @@ Author
 ======
 
 ![Paul Preiss](media/p_preiss.jpg)
-### **Paul Preiss\
-CEO -- Iasa Global\
-**
+### **Paul Preiss**
+**CEO -- Iasa Global**
 
 During his tenure at Iasa, Paul has taken it from a single user group with 50 members to an influential global organization with over 80,000 in its professional network. He orchestrated the development of dozens of chapters and leaders in over 50 countries. He brought Iasa to the forefront of the architect profession and employs staff around the world in the growth of the organization. He led the development of the Iasa Board of Education, the Certified IT Architect Professional (CITA-P), the Iasa skills curriculum and is actively working with universities, governments and other professional bodies to stabilize the profession of IT architecture.
 

@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Knowledge Management (KM) is a discipline that crosses many areas such as economics, informatics, psychology and technology. KM is seen as a strategy that creates, acquires, transfers, consolidates, shares and enhances the use of **knowledge** in order to improve organizational performance and survival in a business environment.
@@ -250,8 +250,8 @@ Author
 ======
 
 ![Juan Mestas](media/juan_mestas.jpg)
-Juan Mestas
-Senior Solution Architect -- Deloitte Ireland**
+## **Juan Mestas**
+**Senior Solution Architect -- Deloitte Ireland**
 
 Juan Mestas is a Senior Architect in the Deloitte Technology Centre of Excellence with more than 15 years of experience in consultancy services and vertical industries, specializing on Enterprise Architecture (EA) and Solutions Architecture (SA).
 

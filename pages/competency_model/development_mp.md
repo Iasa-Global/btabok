@@ -8,3 +8,4 @@ folder: competency_model
 summary: ""
 ---
 
+ 

@@ -42,7 +42,7 @@ Quality attributes are not visibly listed in requirement documentation. They are
 
 ### **A**rchitecturally **S**ignificant **R**equirements (ASR)
 
-Refer [Requirement discovery and constraint Analysis under Business Technology Strategy](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-discovery-and-constraints-analysis/) for how to do requirement discovery.
+Refer [Requirement discovery and constraint Analysis under Business Technology Strategy](requirements_discovery_and_constraints_analysis.md){:target="_blank"} for how to do requirement discovery.
 
 The first step in collecting ASR is to read the requirement documents carefully. Look for requirements that fall in one of the following categories:
 
@@ -147,7 +147,7 @@ The checklist can also be sourced from internal to the company. For e.g. if comp
 
 ### Balancing and optimizing quality attributes
 
-Refer [Balancing and Optimizing Quality attributes under Quality Attribute Pillar](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/balancing-and-optimizing-quality-attributes/)
+Refer [Balancing and Optimizing Quality attributes under Quality Attribute Pillar](boqa.md){:target="_blank"}
 
 ### Architecture Evaluation
 
@@ -173,7 +173,7 @@ It has 4 phases as follows:
 
 ### Economic analysis of Quality Attributes
 
-Also refer [Business Valuation under Business Technology Strategy](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/business-valuation/)
+Also refer [Business Valuation under Business Technology Strategy](business_valuation.md){:target="_blank"}
 
 When listing out various design strategies for a Quality Attribute the architect should be able to weigh the financial cost of the strategy too.
 
@@ -187,7 +187,7 @@ Sub-Capabilities
 Quality Attribute Discovery
 ---------------------------
 
-Refer individual Quality Attributes under [Quality Attribute Pillar](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/iasas-5-pillars/quality-attributes-pillar/)
+Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:target="_blank"}
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to define Quality Attribute

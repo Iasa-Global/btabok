@@ -115,8 +115,8 @@ Author
 ======
 
 ![Vinu Jade](media/v_jade.jpg)
-### **Vinu Jade\
-Enterprise Architect -- jDruids**
+## **Vinu Jade**
+**Enterprise Architect -- jDruids**
 
 In 25+ years of work experience, Mr. Vinu Jade, a practicing Enterprise Architect at jDruids presently, has held leadership roles including Technology Advisor, and Chief Architect & Technology Officer at Major Automotives in United States as well as India. He presently heads the IASA India Operations as its Chapter Lead and Ambassador. He is involved in Strategic directions to Banks and regulatory boards in APAC.
 

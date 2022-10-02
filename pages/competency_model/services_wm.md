@@ -184,7 +184,7 @@ Resources
 Author
 ======
 
-### **Pankaj Dev**\
-*Lead MECOMS, Product Development -- Ferranti Computer Systems*
+## **Pankaj Dev**
+**Lead MECOMS, Product Development -- Ferranti Computer Systems**
 
 
