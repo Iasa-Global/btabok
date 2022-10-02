@@ -24,4 +24,4 @@ Reactor underpins extremely common libraries such as libevent, twisted, node.js,
 
 ## **References**
 
-*   Article on DZone: [https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve)
+*   Article on DZone: [https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve){:target="_blank"}

@@ -292,7 +292,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: xxxxxxxx.html
+      url: maturity_model_m.html
       output: web
 
   - title: Topic Areas
@@ -300,7 +300,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: xxxxxxx.html
+      url: topic_areas_m.html
       output: web
 
   - title: Structed Canvases
