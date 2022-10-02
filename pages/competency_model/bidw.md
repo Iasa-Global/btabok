@@ -212,13 +212,14 @@ Authors
 =======
 
 ![Andres Hurtado](media/a_hurtado.jpg)
-### **Andres Hurtado\
-Software Architect & Developer**
+### **Andres Hurtado**
+**Software Architect & Developer**
 
 Software architect and developer working inside private and public sectors. He has worked in Colombia, designing and implementing enterprise solutions and has over 14 years of experience in software development process, enterprise application integration and research about technologies to leverage the product development.
 
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
+## **Jaya Mudugal**
 **Information & Solution Architect**
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\

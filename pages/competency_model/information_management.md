@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 **Information management** concerns a cycle of organisational activity: the acquisition of information from one or more sources, the ownership and the distribution of that information to those who need it, and ultimately archived or deleted.
@@ -30,8 +30,7 @@ The recipe for success begins with a good, well-rounded and complete architectur
 
 The need of the architecture skills is important because he/she can turn information into business success.
 
-Information management therefore encompasses 3 sections (usually referred as *infamous three circles of information architecture)*:[\
-](https://btabok.iasaglobal.org/wp-content/uploads/2015/06/Infor-Oper1.png)
+Information management therefore encompasses 3 sections (usually referred as *infamous three circles of information architecture)*:
 
 ![Inf Mgt](media/information_management001.png)
 
@@ -103,13 +102,13 @@ Effective information management does not come together all at once. Before ado
 Related Capabilities
 ====================
 
-**Human Dynamics** **:**[Leadership and Management](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/leadership-and-management/)
+**Human Dynamics** **:**[Leadership and Management](leadership_and_management.md){:target="_blank"}
 
-**BTS :** [Governance risk and compliance](https://btabok.iasaglobal.org/btabok_3/governance-risk-and-compliance/), [Architecture Methodology and Frameworks](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/architecture-methodologies-and-frameworks/)
+**BTS :** [Governance risk and compliance](grc.md){:target="_blank"}, [Architecture Methodology and Frameworks](amf.md){:target="_blank"}
 
-**IT Environment :** [Knowledge Management](https://btabok.iasaglobal.org/btabok_3/knowledge-management/)
+**IT Environment :** [Knowledge Management](knowledge_management.md){:target="_blank"}
 
-**Information Architecture:** [Information Governance and Management](https://btabok.iasaglobal.org/btabok_3/information-governance-and-management/), [Information Value](https://btabok.iasaglobal.org/btabok_3/information-value/), [Information Operations](https://btabok.iasaglobal.org/btabok_3/information-operations/)
+**Information Architecture:** [Information Governance and Management](igm.md){:target="_blank"}, [Information Value](information_value.md){:target="_blank"}, [Information Operations](information_operations.md){:target="_blank"}
 
 Sub-Capabilities
 ================
@@ -178,7 +177,8 @@ Author
 ======
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
-Information & Solution Architect
+## **Jaya Mudugal**
+**Information & Solution Architect**
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\
 Proven mentor and trainer and can adapt quickly to the organisation's objectives and needs.

@@ -86,7 +86,7 @@ Overview
 Resources
 =========
 
-<http://dictionary.reference.com/browse/value>\
-<http://dictionary.reference.com/browse/information>\
+<http://dictionary.reference.com/browse/value>
+<http://dictionary.reference.com/browse/information>
 <http://www.oracle.com/us/solutions/thoughtleadership/journal-mgmt-excellence-june-2010-116920.pdf>
 

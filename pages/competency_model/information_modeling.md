@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Information modeling is the set of practices that determine the structure, lifecycle and accessibility requirements of the information in the domain of a business. It  is required in today's businesses to enable information flow throughout the organization. Much like the modeling during software development, where designers create models of the class structure, database schemas, and systems architecture, developing an information model that is flexible enough to absorb future changes is an art that requires balancing functionality, performance, resilience, security, and flexibility.
@@ -250,8 +250,8 @@ Author
 ======
 
 ![Bina Reed](media/b_reed.jpg)
-Bina Reed
-Enterprise Information Architect -- MPI Research
+## **Bina Reed**
+**Enterprise Information Architect -- MPI Research**
 
 Bina has held many roles in IT over the past two decades, including Software Developer, Systems Programmer and Information Architect. She has worked in a variety of industries in the U.S. -- software, higher education, CPG, healthcare and drug-development -- implementing large, complex technology solutions with multiple components. She has extensive experience managing the interplay between enterprise, legacy, customized and vendor systems, with the objective of achieving beneficial results in cost-restricted environments.
 

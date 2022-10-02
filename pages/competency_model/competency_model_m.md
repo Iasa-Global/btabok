@@ -69,7 +69,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 6. [Usability, Localization, Accessibility, Personalization/Customizability](ulapc.md)
 7. [Packaging, Delivery, Post Deployment](pdpd.md)
 
-## Business Architecture**
+## Business Architecture
 
 1. [Business Management](business_management.md)
 2. [Business Strategy](business_strategy.md)
@@ -92,7 +92,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 7. [Information Governance and Management](igm.md)
 8. [Information Value](information_value.md)
 
-## Infrastructure Architecture
+## Infrastructure Architecture**
 
 1. [Access and Identity Management](aim.md)
 2. [Capacity Planning](capacity_planning.md)

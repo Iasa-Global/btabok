@@ -15,7 +15,7 @@ A phrase more commonly heard at C-level meetings is "information is an enterpris
 
 Information Governance and Management ensures that the information needed throughout an enterprise is available, valid, reliable and secure to the increasing number of people who have ready to access it. The need for governance and management is partially due to the explosion of information generated in an enterprise. New challenges from having growing numbers of data sources (e.g. social media), more types of information (e.g. RFIDs), more volumes of information, more locations of information (from a mix of on-premise and cloud sources, and possibly from merges and acquisitions).
 
-The [Information Management](https://btabok.iasaglobal.org/btabok_3/information-management/) capability will provide more details regarding organizing, analyzing, and integrating the many kinds of data created in an enterprise. Together with information governance, the organization creates value and manages costs through the establishment of policies, procedures, vocabularies, and models to administer and use information.
+The [Information Management](information_management.md){:target="_blank"} capability will provide more details regarding organizing, analyzing, and integrating the many kinds of data created in an enterprise. Together with information governance, the organization creates value and manages costs through the establishment of policies, procedures, vocabularies, and models to administer and use information.
 
 Overview
 ========
@@ -113,13 +113,13 @@ Sub-Capabilities
 
 ### **Related Sub-Capabilities**
 
-[Human Dynamics: All capabilities](https://btabok.iasaglobal.org/btabok_3/capability-taxonomy-and-descriptions-3-0/)
+[Human Dynamics: All capabilities](competency_model_m.md){:target="_blank"}
 
-[IT Environment: IT Governance](https://btabok.iasaglobal.org/btabok_3/it-governance/)
+[IT Environment: IT Governance](governance.md){:target="_blank"}
 
-[Business Architecture: Governance, Risk and Compliance](https://btabok.iasaglobal.org/btabok_3/governance-risk-and-compliance/)
+[Business Architecture: Governance, Risk and Compliance](grc.md){:target="_blank"}
 
-[Information Architecture: Information Management](https://btabok.iasaglobal.org/btabok_3/information-management/)
+[Information Architecture: Information Management](information_management.md){:target="_blank"}
 
 ### **Provide support and tools for Information Governance council**
 
@@ -166,7 +166,7 @@ Resources
 
 ### **Articles/Websites:**
 
-Business Intelligence Solutions, What Enterprises Can Realistically Expect From Their Investment , April 2015 p. 32. <<http://www.cybertrend.com/article/16925/business-intelligence-solutions>>
+Business Intelligence Solutions, What Enterprises Can Realistically Expect From Their Investment , April 2015 p. 32. <http://www.cybertrend.com/article/16925/business-intelligence-solutions>
 
 Ambler, Scott. Agile/Lean Data Governance Best Practices. <http://agiledata.org/essays/dataGovernance.html>
 
@@ -189,7 +189,8 @@ Author
 
 
 ![Bina Reed](media/b_reed.jpg)
-Enterprise Information Architect -- MPI Research
+## **Bina Reed**
+**Enterprise Information Architect -- MPI Research**
 
 Bina has held many roles in IT over the past two decades, including Software Developer, Systems Programmer and Information Architect. She has worked in a variety of industries in the U.S. -- software, higher education, CPG, healthcare and drug-development -- implementing large, complex technology solutions with multiple components. She has extensive experience managing the interplay between enterprise, legacy, customized and vendor systems, with the objective of achieving beneficial results in cost-restricted environments.
 

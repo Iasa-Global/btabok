@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Information/Knowledge Management is at the core of every business, occupation and task we perform on a daily basis whether we realize it or not. The easier it is to find the information we are looking for the more time we can spend on supporting our customers, enhancing our business and completing the task at hand.

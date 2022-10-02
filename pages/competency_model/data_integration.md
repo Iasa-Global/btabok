@@ -177,13 +177,13 @@ ETL jobs are usually run on a schedule and they will fail from time to time, un
 
 ### **Enterprise Application Integration Design**
 
-While the ETL process is about consolidating data from many sources into one, Enterprise Application Integration, or EAI, is about distributing data between two or more systems. Data exchanged using EAI is often transactional and related to an event in a business process or the distribution of master data. EAI includes message broker and [enterprise service bus (ESB)](https://en.wikipedia.org/wiki/Enterprise_service_bus) technologies.
+While the ETL process is about consolidating data from many sources into one, Enterprise Application Integration, or EAI, is about distributing data between two or more systems. Data exchanged using EAI is often transactional and related to an event in a business process or the distribution of master data. EAI includes message broker and [enterprise service bus (ESB)](https://en.wikipedia.org/wiki/Enterprise_service_bus){:target="_blank"} technologies.
 
 **Why is it needed?**
 
 As the number of data exchanges or data integration points in a company grows so does the need for a structured approach to the design of the data integration. If data integration is implemented in an ad hoc manner with many point-to-point implementations, it will create unwanted dependencies between applications which in turn makes changing the application landscape a painful and expensive exercise.
 
-A loosely coupled approach to data integration is preferable as it minimizes application dependencies in terms of availability, location, technology and data format. A loosely coupled architecture can be achieved by using a combination of [EAI design patterns](http://www.enterpriseintegrationpatterns.com/eaipatterns.html) and middle-ware products as implementation building blocks.
+A loosely coupled approach to data integration is preferable as it minimizes application dependencies in terms of availability, location, technology and data format. A loosely coupled architecture can be achieved by using a combination of [EAI design patterns](http://www.enterpriseintegrationpatterns.com/eaipatterns.html){:target="_blank"} and middle-ware products as implementation building blocks.
 
 ### **Design Considerations**
 
@@ -201,7 +201,7 @@ Using asynchronous messaging shields the sender from the receiver in the followi
 
 For an architect who is designing an integration solution, the usage of EAI Patterns act as a language in which to express the architecture. Patterns assist with component selection, this helps to prevent over engineering while meeting the requirements of the solution. EAI patterns can be combined with functionality in middle-ware platforms to form the solution.
 
-For example, a common approach to minimizing dependencies between application data models is to use the [Canonical Data Model pattern](http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html) which is implemented using two Message Translators. A Message Translator can be implemented in a number of ways, on most technology platforms and by most middle-ware products.
+For example, a common approach to minimizing dependencies between application data models is to use the [Canonical Data Model pattern](http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html){:target="_blank"} which is implemented using two Message Translators. A Message Translator can be implemented in a number of ways, on most technology platforms and by most middle-ware products.
 
 **External Integration (B2B / EDI)**
 
@@ -254,9 +254,9 @@ With a federation server, multiple data stores can be made to look as one. Consu
 
   
 
-*   [Information Management](https://itabok.iasaglobal.org/itabok/capability-descriptions/information-management/)
-*   [Information Modeling](https://itabok.iasaglobal.org/itabok/capability-descriptions/information-modeling/)
-*   [Information Usage](https://itabok.iasaglobal.org/itabok/capability-descriptions/information-usage/)
+*   [Information Management](information_management.md){:target="_blank"}
+*   [Information Modeling](information_modeling.md){:target="_blank"}
+*   [Information Usage](information_usage.md){:target="_blank"}
 
 # Resources
 
@@ -277,15 +277,11 @@ With a federation server, multiple data stores can be made to look as one. Consu
 
   
 
-### 
 ![Declan Bright](media/declan_bright.jpg)
- 
-**Declan Bright**
-
-### Chief Software Architect
+## **Declan Bright**
+**Chief Software Architect**
 
 Declan Bright is a Chief Software Architect based in Dublin, Ireland. He has worked in the IT industry since 1999, primarily within the aviation, telecommunications and financial services sectors and has extensive experience in the design and implementation of enterprise solutions. Areas of specialisation include system integration, system evolution, user experience and analytics.  [www.declanbright.com](http://www.declanbright.com)
 
-### **John Kaber**
-
-### _IT Architect – Volvo IT_
+## **John Kaber**
+**IT Architect – Volvo IT**

@@ -11,7 +11,7 @@ summary: ""
 Description
 ===========
 
-**Information Operations** is an area concerned with overseeing, designing, and controlling the process of information and redesigning [business operations](https://en.wikipedia.org/wiki/Business_operations "Business operations") for the benefit of the organisation. It involves the responsibility of ensuring that [business](https://en.wikipedia.org/wiki/Business "Business") operations are [efficient](https://en.wikipedia.org/wiki/Efficiency "Efficiency") in terms of using information that is available , and is [effective](https://en.wikipedia.org/wiki/Effectiveness "Effectiveness") in terms of meeting customer requirements.
+**Information Operations** is an area concerned with overseeing, designing, and controlling the process of information and redesigning [business operations](https://en.wikipedia.org/wiki/Business_operations "Business operations"){:target="_blank"} for the benefit of the organisation. It involves the responsibility of ensuring that [business](https://en.wikipedia.org/wiki/Business "Business"){:target="_blank"} operations are [efficient](https://en.wikipedia.org/wiki/Efficiency "Efficiency"){:target="_blank"} in terms of using information that is available , and is [effective](https://en.wikipedia.org/wiki/Effectiveness "Effectiveness"){:target="_blank"} in terms of meeting customer requirements.
 
 Overview
 ========
@@ -84,13 +84,13 @@ Hence, a good practice is a highly recommended in today's dynamic business env
 Related Capabilities
 ====================
 
-**Quality Attributes :**[ All Skills](https://btabok.iasaglobal.org/btabok_3/capability-taxonomy-and-descriptions-3-0/)
+**Quality Attributes :**[ All Skills](competency_model_m.md){:target="_blank"}
 
-**IT Environment:** [Infrastructure](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/infrastructure/) , [Governance](https://btabok.iasaglobal.org/btabok_3/it-governance/), [Platforms and frameworks](https://btabok.iasaglobal.org/btabok_3/platforms-and-frameworks/)
+**IT Environment:** [Infrastructure](infrastructure.md){:target="_blank"}, [Governance](governance.md){:target="_blank"}, [Platforms and frameworks](platforms_and_frameworks.md){:target="_blank"}
 
-**Infrastructure Architecture :** [Capacity Planning](https://btabok.iasaglobal.org/btabok_3/capacity-planning/)
+**Infrastructure Architecture :** [Capacity Planning](capacity_planning.md){:target="_blank"}
 
-**Information Architecture:** [Information Management](https://btabok.iasaglobal.org/btabok_3/information-management/), [Information Usage](https://btabok.iasaglobal.org/btabok_3/information-usage/), [Information Governance](https://btabok.iasaglobal.org/btabok_3/information-governance-and-management/)
+**Information Architecture:** [Information Management](information_management.md){:target="_blank"}, [Information Usage](information_usage.md){:target="_blank"}, [Information Governance](governance.md){:target="_blank"}
 
 Sub-Capabilities
 ================
@@ -143,8 +143,8 @@ Authors
 
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
-Jaya Mudugal
-Information & Solution Architect
+## **Jaya Mudugal**
+**Information & Solution Architect**
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\
 Proven mentor and trainer and can adapt quickly to the organisation's objectives and needs.
