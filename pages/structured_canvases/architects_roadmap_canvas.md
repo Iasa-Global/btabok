@@ -13,7 +13,7 @@ The architects roadmap is used to prioritize, assign and connect multiple initia
 
 ![image001](media/architects_roadmap_canvas001.svg)
 
-[Download PPT](media/ppt/architects_roadmap_canvas.ppt)
+[Download PPT](media/ppt/architects_roadmap_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

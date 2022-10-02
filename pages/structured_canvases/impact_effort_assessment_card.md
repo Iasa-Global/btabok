@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/impact_effort_assessment_card001.svg)
 
-[Download PPT](media/ppt/impact_effort_assessment_card.ppt)
+[Download PPT](media/ppt/impact_effort_assessment_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

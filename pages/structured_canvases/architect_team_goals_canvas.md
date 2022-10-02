@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/architect_team_goals_canvas001.svg)
 
-[Download PPT](media/ppt/architect_team_goals_canvas.ppt)
+[Download PPT](media/ppt/architect_team_goals_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

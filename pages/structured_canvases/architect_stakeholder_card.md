@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/architect_stakeholder_card001.svg)
 
-[Download PPT](media/ppt/architect_stakeholder_card.ppt)
+[Download PPT](media/ppt/architect_stakeholder_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

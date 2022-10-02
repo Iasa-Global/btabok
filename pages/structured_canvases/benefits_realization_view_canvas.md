@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/benefits_realization_view_canvas001.svg)
 
-[Download PPT](media/ppt/benefits_realization_view_canvas.ppt)
+[Download PPT](media/ppt/benefits_realization_view_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

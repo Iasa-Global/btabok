@@ -12,7 +12,7 @@ The modern architecture landscape describes technology types and impact areas fo
 
 ![image001](media/modern_architecture_landscape_one_card001.svg)
 
-[Download PPT](media/ppt/modern_architecture_landscape_one_card.ppt)
+[Download PPT](media/ppt/modern_architecture_landscape_one_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

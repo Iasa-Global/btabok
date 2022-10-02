@@ -12,7 +12,7 @@ The layered roadmap provides a tool for understanding the business capability ch
 
 ![image001](media/layered_roadmap_canvas001.svg)
 
-[Download PPT](media/ppt/layered_roadmap_canvas.ppt)
+[Download PPT](media/ppt/layered_roadmap_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -11,7 +11,7 @@ summary: ""
 
 ![image001](media/mission_vision_card001.svg)
 
-[Download PPT](media/ppt/mission_vision_card.ppt)
+[Download PPT](media/ppt/mission_vision_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

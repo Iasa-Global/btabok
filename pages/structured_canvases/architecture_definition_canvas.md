@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/architecture_definition_canvas001.svg)
 
-[Download PPT](media/ppt/architecture_definition_canvas.ppt)
+[Download PPT](media/ppt/architecture_definition_canvas.ppt){:target="_blank"}
 
 
 | Area | Description | Links To |

@@ -11,7 +11,7 @@ summary: ""
 
 ![image001](media/architect_do_document_week_in_the_life001.svg)
 
-[Download PPT](media/ppt/architect_do_document_week_in_the_life.ppt)
+[Download PPT](media/ppt/architect_do_document_week_in_the_life.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/course_change_card001.svg)
 
-[Download PPT](media/ppt/course_change_card.ppt)
+[Download PPT](media/ppt/course_change_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

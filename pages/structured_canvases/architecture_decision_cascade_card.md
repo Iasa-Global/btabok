@@ -12,7 +12,7 @@ The decision cascade card looks for downstream impacts from a technology decisio
 
 ![image001](media/architecture_decision_cascade_card.svg)
 
-[Download PPT](media/ppt/architecture_decision_cascade_card.ppt)
+[Download PPT](media/ppt/architecture_decision_cascade_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

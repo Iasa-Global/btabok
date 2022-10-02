@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/architect_skills_gap_analysis001.svg)
 
-[Download PPT](media/ppt/architect_skills_gap_analysis.ppt)
+[Download PPT](media/ppt/architect_skills_gap_analysis.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

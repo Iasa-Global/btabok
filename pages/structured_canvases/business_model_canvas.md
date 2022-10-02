@@ -12,7 +12,7 @@ The BMC provides a business model on a page used for architecture and innovation
 
 ![image001](media/business_model_canvas001.svg)
 
-[Download PPT](media/ppt/business_model_canvas.ppt)
+[Download PPT](media/ppt/business_model_canvas.ppt){:target="_blank"}
 
 
 | Area | Description | Links To |

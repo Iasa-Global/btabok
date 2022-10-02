@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/context_view_card001.svg)
 
-[Download PPT](media/ppt/context_view_card.ppt)
+[Download PPT](media/ppt/context_view_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

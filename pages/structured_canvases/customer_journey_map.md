@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/customer_journey_map001.svg)
 
-[Download PPT](media/ppt/customer_journey_map.ppt)
+[Download PPT](media/ppt/customer_journey_map.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -12,7 +12,7 @@ The bias calibrator helps architects determine whether cognitive bias is impacti
 
 ![image001](media/decision_bias_calibrator_1001.svg)
 
-[Download PPT](media/ppt/decision_bias_calibrator_1.ppt)
+[Download PPT](media/ppt/decision_bias_calibrator_1.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

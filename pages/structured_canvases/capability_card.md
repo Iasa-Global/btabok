@@ -12,7 +12,7 @@ The capability card provides a capability analysis tool for understanding a busi
 
 ![image001](media/capability_card001.svg)
 
-[Download PPT](media/ppt/capability_card.ppt)
+[Download PPT](media/ppt/capability_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

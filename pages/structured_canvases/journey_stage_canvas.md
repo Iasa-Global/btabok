@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/journey_stage_canvas001.svg)
 
-[Download PPT](media/ppt/journey_stage_canvas.ppt)
+[Download PPT](media/ppt/journey_stage_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

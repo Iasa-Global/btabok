@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/envisioning_canvas001.svg)
 
-[Download PPT](media/ppt/envisioning_canvas.ppt)
+[Download PPT](media/ppt/envisioning_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

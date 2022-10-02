@@ -14,7 +14,7 @@ Subject.​
 
 ![image001](media/ecosystem_map001.jpg)
 
-[Download PPT](media/ppt/ECOSYSTEM-MAP.pptx)
+[Download PPT](media/ppt/ECOSYSTEM-MAP.pptx){:target="_blank"}
 
 | Area | Description | Links To |
 | :-- | :-- | :-- |

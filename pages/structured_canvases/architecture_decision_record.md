@@ -12,7 +12,7 @@ The ADR provides a decision management tool for discrete decisions for traceabil
 
 ![image001](media/architecture_decision_record001.svg)
 
-[Download PPT](media/ppt/architecture_decision_record.ppt)
+[Download PPT](media/ppt/architecture_decision_record.ppt){:target="_blank"}
 
 
 | Area | Description | Links To |
