@@ -59,7 +59,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 9. [Decision Support](decision_support.md)
 10. [Platforms and Frameworks](platforms_and_frameworks.md)
 
-## Quality Attributes **
+## Quality Attributes
 
 1. [Balancing and Optimizing Quality Attributes](boqa.md)
 2. [Manageability, Maintainability, Supportability, Extensibility, and Flexibility](mmsef.md)
@@ -69,7 +69,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 6. [Usability, Localization, Accessibility, Personalization/Customizability](ulapc.md)
 7. [Packaging, Delivery, Post Deployment](pdpd.md)
 
-## Business Architecture
+## Business Architecture**
 
 1. [Business Management](business_management.md)
 2. [Business Strategy](business_strategy.md)

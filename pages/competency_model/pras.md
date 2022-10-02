@@ -141,7 +141,7 @@ Resources
 **Articles**
 
 -   [IASA BTABoK](https://btabok.iasaglobal.org)
--   [CITA-S Overview Manual](https://www.dropbox.com/sh/1o4osbplk1upswl/vuGheF6HA3)
+-   CITA-S Overview Manual
 -   [Fielding's Dissertation about REST](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 -   [SLA vs. OLA](http://itsm.certification.info/slavola.html)
 -   [MSDN: Quality Attributes](https://msdn.microsoft.com/en-us/library/ee658094.aspx)
@@ -171,8 +171,8 @@ Author
 
 
 ![Danut Prisacaru](media/d_prisacaru.jpg)
-### **Danut Prisacaru\
-Sr. Principal/Engineer V (Integration Architect) -- The Advisory Board Company**
+### **Danut Prisacaru**
+**Sr. Principal/Engineer V (Integration Architect) -- The Advisory Board Company**
 
 Danut Prisacaru has been a Software Engineer for over 20 years and a Software Architect for over 7 years serving in different roles: Application Architecture, Integration and Solutions Architecture. His current focus is SOA with Web APIs and Lightweight ESBs and API Management tools to serve the business integrate complex parts and components in an efficient manner.
 

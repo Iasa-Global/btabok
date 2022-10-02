@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Demonstrated management/mitigation of issues relative to manageability, maintainability, supportability, extensibility, and flexibility. Demonstrated competence in implementation techniques.

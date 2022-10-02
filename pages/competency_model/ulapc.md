@@ -109,7 +109,7 @@ Sub-Capabilities
 
  |
 
-Resources
+Resources 
 =========
 
 ### **Articles:**

@@ -27,7 +27,7 @@ Demonstrated competence in highest-priority management techniques.
 Sub-Capabilities
 ================
 
-### Packaging, Delivery, Post Deployment
+### Packaging, Delivery, Post Deployment 
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |

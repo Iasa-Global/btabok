@@ -46,7 +46,7 @@ Corporate Proven Practices
 
 Governance allows project oversight for alignment to business needs and compliance to regulations. Architects must participate in the governance process and avoid disconnecting from the decision-making framework. Monitoring and management are quality attributes that provide verifiable parameters to the governance process.
 
-Sub-Capabilities
+Sub-Capabilities 
 ================
 
 ### **IT Service Management (ITSM)**
@@ -146,7 +146,6 @@ Monitoring is awareness of the state of a system.
 
  |
 | **CITA -- Professional** |
-
 -   Learner will be able to evaluate quality attribute trade-offs
 -   Learner will be able to justify financial value of quality attributes
 
@@ -210,7 +209,9 @@ Author
 ======
 
 ![Alberto Boczar](media/a_boczar.jpg)
-Infrastructure Architect -- Microsoft**
+
+## **Alberto Boczar**
+**Infrastructure Architect -- Microsoft**
 
 Alberto Boczar is an Infrastructure Architect in Microsoft Services HQ in Redmond, WA. He is the Chief Architect in a team developing worldwide services offerings and solutions based on Microsoft products, technologies, and cloud services like Azure, so that consultants and architects can provide expertise to Microsoft customers and partners, for maximum return on their investment in Microsoft products and technologies.
 

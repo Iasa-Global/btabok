@@ -263,7 +263,7 @@ Environment hardening, penetration testing, problem and incident management, pro
 
 ### **Business continuity and disaster recovery planning**
 
-As part of the Availability concern (from the C.I.A. acronym), the architect needs to know about critical business process protection, business continuity planning and execution, disaster detection, containment and recovery. These topics are covered in other capabilities, like the [Availability Quality Attribute in 'Performance, Reliability, Availability, Scalability'](https://itabok.iasaglobal.org/itabok/capability-descriptions/performance-reliability-availability-scalability-2/) and [Disaster Recovery in Disaster Recovery and Backup](https://itabok.iasaglobal.org/itabok/capability-descriptions/disaster-recovery-and-backup/).
+As part of the Availability concern (from the C.I.A. acronym), the architect needs to know about critical business process protection, business continuity planning and execution, disaster detection, containment and recovery. These topics are covered in other capabilities, like the Availability Quality Attribute in 'Performance, Reliability, Availability, Scalability' and Disaster Recovery in Disaster Recovery and Backup.
 
 ### **Security Regulations and Compliance**
 
