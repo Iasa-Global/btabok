@@ -11,13 +11,13 @@ summary: ""
 Description
 ===========
 
-"Data Centers house critical computing resources in controlled environments and under centralized management, which enable enterprises to operate around the clock or according to their business needs".  Ultimately data centers need to support the applications that the business uses.[[1]](https://btabok.iasaglobal.org/btabok_3/data-center-design/#_ftn1)
+"Data Centers house critical computing resources in controlled environments and under centralized management, which enable enterprises to operate around the clock or according to their business needs".  Ultimately data centers need to support the applications that the business uses.
 
 Although at a fundamental level all data centers consist mainly of three functional capabilities: processing, storage, and connectivity (networks); the technologies have evolved considerably since the early days.  Originally, a data center was a physical location that housed a mainframe.  The implementation technology has evolved in several significant leaps that have led to the idea of cloud services and even software defined 'virtual' data centers (based on Infrastructure as a service, IaaS).  Along with these changes the way that we realize and take into account the quality attributes that define these data centers has also changed, and it will likely continue to evolve.
 
 The architect needs to understand the trade-offs between technologies based on overall business objectives.  The Architect needs to work closely across a variety of disciplines to deal with physical issues such as data center location, and the construction of the premises; the overall approach to technology such as traditional mid-range servers, data devices and network or perhaps even multi-tenant cloud configurations needs to be based on realistic scenarios with a careful consideration of costs and risk elements along with quality attributes.  Whole system design is important when one considers that in many cases the quality attributes may be defined around application quality attributes but need to be derived from a consideration of components that impact the overall quality attributes (e.g. the availability of an application depends on the availability of the premises, the availability inherent in the infrastructure as well as software considerations).
 
-[[1]](https://btabok.iasaglobal.org/btabok_3/data-center-design/#_ftnref1) Infrastructure Architecture -- Infrastructure Building Blocks and Concepts Second Edition (Kindle Location 3607). Laan, Sjaak (2012-01-31).  Lulu Press Inc. Kindle Edition.
+Infrastructure Architecture -- Infrastructure Building Blocks and Concepts Second Edition (Kindle Location 3607). Laan, Sjaak (2012-01-31).  Lulu Press Inc. Kindle Edition.
 
 Overview
 ========
@@ -56,7 +56,7 @@ Availability = IT infrastructure availability X data center availability
 
 (HVAC)
 
-Data center availability from Uptime Institute.[[1]](https://btabok.iasaglobal.org/btabok_3/data-center-design/#_ftn1)
+Data center availability from Uptime Institute.
 
 | Tier | Measures | Downtime Expectation |
 | Tier 1
@@ -163,7 +163,7 @@ Performance is the ability to meet the user's expectations in terms of 'wait' ti
     -   Stress testing indicates how a system performs under extreme load and when stretched.
     -   Endurance testing show how a system performs under load for long periods.
 
-Scalability refers to the ease with which a system can be modified to handle changing load.  With traditional data centers a great deal of upfront capacity planning and sizing is required. Cloud datacenters help to decouple some of the sizing issues.[[2]](https://btabok.iasaglobal.org/btabok_3/data-center-design/#_ftn2)
+Scalability refers to the ease with which a system can be modified to handle changing load.  With traditional data centers a great deal of upfront capacity planning and sizing is required. Cloud datacenters help to decouple some of the sizing issues.
 
 Similar to availability performance architecture references need to be evaluated. With cloud computing performance may not be as much an issue as the ability to deal with resource assignments and the proper granularity to add on resources or withdraw resources to cost effectively manages end user performance.  However bottlenecks could exist anywhere in the architecture and need to be addressed. Performance and scalability are deep subjects on their own.
 
@@ -213,9 +213,9 @@ The Architect would be expected to be able to:
 -   Provide guidance on the management of these policies in the context of configuration management processes and service processes such as ITIL.
 -   Understand whole system design and how to make quality attribute trade-offs within the infrastructure.
 
-[[1]](https://btabok.iasaglobal.org/btabok_3/data-center-design/#_ftnref1) http://www.uptimeinstitute.com/
+http://www.uptimeinstitute.com/
 
-[[2]](https://btabok.iasaglobal.org/btabok_3/data-center-design/#_ftnref2) Infrastructure Architecture -- Infrastructure Building Block and Concepts Second Edition.
+Infrastructure Architecture -- Infrastructure Building Block and Concepts Second Edition.
 
 Proven Practices
 ================
@@ -278,7 +278,7 @@ Author
 ======
 
 ![Brice Ominski](media/b_ominski.jpg)
-### **Brice Ominski**\
-ITAP Consultant -- Microsoft
+### **Brice Ominski**
+**ITAP Consultant -- Microsoft**
 
 Provides thought leadership and practical trusted advice that enables business strategy through technology to C-level and senior management. He is an Information Technology and Architecture Planning (ITAP) advisor for Microsoft who successfully translates business strategy and requirements to propose, develop and implement Enterprise level solutions to meet overall business objectives and manage risk. Recently obtained IASA CITA-P certification

@@ -169,8 +169,8 @@ Author
 ======
 
 ![Farzad Ahmed](media/b_ominski.jpg)
-### **Brice Ominski**\
-ITAP Consultant -- Microsoft
+### **Brice Ominski**
+**ITAP Consultant -- Microsoft**
 
 Provides thought leadership and practical trusted advice that enables business strategy through technology to C-level and senior management. He is an Information Technology and Architecture Planning (ITAP) advisor for Microsoft who successfully translates business strategy and requirements to propose, develop and implement Enterprise level solutions to meet overall business objectives and manage risk. Recently obtained IASA CITA-P certification.
 

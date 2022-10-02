@@ -109,7 +109,7 @@ Grid computing is the combination of discrete computers are bound together and s
     -   Hybrid Cloud
     -   Hosted Services
 -   Examples
-    -   Microsoft Azure
+    -   Microsoft Azure 
     -   Amazon EC2
 
 Also known as infrastructure as a service, cloud computing is part of the most recent favorable trends in technology these days. From a financial aspect, cloud solutions that are hosted by external providers allow organizations to shift expenditures from capital to operational expenses, which can provide financial benefit to an IT department.

@@ -8,7 +8,7 @@ folder: competency_model
 summary: "Identity and Access Management is a core infrastructure capability and is one of the most important components of an organization’s security infrastructure. "
 ---
 
-# Description
+# Description 
 
   
 
@@ -188,8 +188,7 @@ http://www.identitymanagementinstitute.org/
 
 ![Farzad Ahmed](media/farzad_ahmed.jpg)
 ### **Farzad Ahmed**
-
-### **IT Consultant – Gartner**
+**IT Consultant – Gartner**
 
 Farzad Ahmed has a firm background in IT Governance within the private and public sector with focus on Enterprise Architecture, business intelligence, business development and total quality management. His current position as Management Consultant for Gartner, focuses on ensuring that IT delivers value to the business and supports their goals, visions and objectives through effective governance, architecture, risk management and portfolio management. In other words, making the IT organization a strategic business partner. Farzad worked formerly as a Management Consultant for PwC where he defined requirements and defined solutions, which he still does.
 

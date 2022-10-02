@@ -111,10 +111,9 @@ http://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Aug2014/CVD-DataCenterDes
 Author
 ======
 
-### ![nabeel yousif](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/n_yousif.jpg)Nabeel Yousif\
 ![Nabeel Yousif](media/n_yousif.jpg)
-Nabeel Yousif
-Chief Architect, IT at Brinks Inc
+## **Nabeel Yousif**
+**Chief Architect, IT at Brinks Inc**
 
 Nabeel Yousif is the Chief Architect, IT for Brinks Inc, in his role Nabeel is responsible for defining Global infrastructure strategic roadmaps such as cloud initiatives, DRaaS and virtualization. Prior to assuming this role Nabeel was responsible for the global system engineering group within Brinks and the Canadian infrastructure team.
 

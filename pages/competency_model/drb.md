@@ -74,7 +74,7 @@ As defined above the architect is responsible for linking technology decisions w
 Sub-Capabilities
 ================
 
-Business IMPACT ANALysis
+Business IMPACT ANALysis 
 ------------------------
 
 Initial step in DR/BCP planning process and should include the: Assessment and prioritization of all business functions and processes, including their interdependencies.
@@ -113,7 +113,7 @@ Resources
 
 https://en.wikipedia.org/wiki/Disaster_recovery
 
-> [Home](https://www.disasterrecovery.org/)
+> [Home](https://www.disasterrecovery.org/){:target="_blank"}
 
 http://www.ready.gov/business/implementation/IT
 
@@ -121,8 +121,8 @@ Author
 ======
 
 ![Nabeel Yousif](media/n_yousif.jpg)
-Nabeel Yousif
-Chief Architect, IT at Brinks Inc
+## **Nabeel Yousif**
+**Chief Architect, IT at Brinks Inc**
 
 Nabeel Yousif is the Chief Architect, IT for Brinks Inc, in his role Nabeel is responsible for defining Global infrastructure strategic roadmaps such as cloud initiatives, DRaaS and virtualization. Prior to assuming this role Nabeel was responsible for the global system engineering group within Brinks and the Canadian infrastructure team.
 

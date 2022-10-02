@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Infrastructure applications are those that provide infrastructure services, which can be consumed by servers and business applications alike. Every environment has these components in some form or another, whether they are automated or not.

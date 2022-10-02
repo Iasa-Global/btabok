@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Capacity is a key feature of any value delivering system. Failure to plan, design and oversee system capacity correctly can lead to the failure of the system to meet the needs of its stakeholders due to issues such as availability, performance or total cost of ownership.
@@ -21,7 +21,7 @@ Cloud based systems are turning capacity planning on its head. Real-time or near
 
 In this context the ITIL defined Capacity Management process in the Service Design phase is also a good source of guidance for architects of cloud solutions. In ITIL 3.0 the purpose of Capacity Management is defined as follows:
 
-> *[Capacity Management](http://wiki.en.it-processmaps.com/index.php/Capacity_Management#Business_Capacity_Management_ITIL) aims to ensure that the capacity of IT services and the IT infrastructure is able to deliver the agreed service level targets in a cost effective and timely manner. Capacity Management considers all resources required to deliver the IT service, and plans for short, medium and long term business requirements.*
+> *[Capacity Management](http://wiki.en.it-processmaps.com/index.php/Capacity_Management#Business_Capacity_Management_ITIL){:target="_blank"} aims to ensure that the capacity of IT services and the IT infrastructure is able to deliver the agreed service level targets in a cost effective and timely manner. Capacity Management considers all resources required to deliver the IT service, and plans for short, medium and long term business requirements.*
 
 Doing architecture within the ITIL framework is one possible path to a more continuous form of architecture. For example, within ITIL, system requirements for capacity (demand) can be captured in a living contract -- the Service or Operating Level Agreement. This artefact can be actively maintained by service architects throughout the lifetime of the service, rather than potentially lost and forgotten by all active stakeholders in the solution requirements specifications from the original project. ITIL's focus on continuous service improvement may provide a valuable framework for architects accountable for capacity planning in a cloud based world.
 
@@ -33,11 +33,11 @@ Capacity Planning is a foundation capability for all architects. Tied closely to
 General Definition
 ------------------
 
-The Wikipedia definition of [Capacity Planning](https://en.wikipedia.org/wiki/Capacity_planning), taken from the [Supply Chain Resource Co-Operative](http://scm.ncsu.edu/scm-articles/article/capacity-planning), while described in language more aligned to manufacturing, can also be applied to IT and IT systems/services. (As in many other areas, it is often good practice for IT architects to leverage approaches developed in other disciplines to advance the maturity of capacity planning and management in IT systems).
+The Wikipedia definition of [Capacity Planning](https://en.wikipedia.org/wiki/Capacity_planning){:target="_blank"}, taken from the [Supply Chain Resource Co-Operative](http://scm.ncsu.edu/scm-articles/article/capacity-planning{:target="_blank"}), while described in language more aligned to manufacturing, can also be applied to IT and IT systems/services. (As in many other areas, it is often good practice for IT architects to leverage approaches developed in other disciplines to advance the maturity of capacity planning and management in IT systems).
 
-> *[**Capacity planning** ](https://en.wikipedia.org/wiki/Capacity_planning)is the process of determining the production [capacity](https://en.wikipedia.org/wiki/Capacity_utilization) needed by an organization to meet changing [demands](https://en.wikipedia.org/wiki/Demand_curve) for its [products](https://en.wikipedia.org/wiki/Product_(business)).[^[1]^](https://en.wikipedia.org/wiki/Capacity_planning#cite_note-NCSU-1) In the context of capacity planning, **Design Capacity** is the maximum amount of work that an organization is capable of completing in a given period. **Effective Capacity** is the maximum amount of work that an organization is capable of completing in a given period due to constraints such as quality problems, delays, material handling, etc. The phrase is also used in business computing as a synonym for [capacity management](https://en.wikipedia.org/wiki/Capacity_management).*
+> *[**Capacity planning** ](https://en.wikipedia.org/wiki/Capacity_planning){:target="_blank"}is the process of determining the production [capacity](https://en.wikipedia.org/wiki/Capacity_utilization) needed by an organization to meet changing [demands](https://en.wikipedia.org/wiki/Demand_curve) for its [products](https://en.wikipedia.org/wiki/Product_(business)).[^[1]^](https://en.wikipedia.org/wiki/Capacity_planning#cite_note-NCSU-1) In the context of capacity planning, **Design Capacity** is the maximum amount of work that an organization is capable of completing in a given period. **Effective Capacity** is the maximum amount of work that an organization is capable of completing in a given period due to constraints such as quality problems, delays, material handling, etc. The phrase is also used in business computing as a synonym for [capacity management](https://en.wikipedia.org/wiki/Capacity_management).*
 
-A discrepancy between the capacity of an organization and the demands of its customers results in inefficiency, either in under-utilized resources or unfulfilled customers. The goal of capacity planning is to minimize this discrepancy. Demand for an organization's capacity varies based on changes in production output, such as increasing or decreasing the production quantity of an existing product, or producing new products. Better utilization of existing capacity can be accomplished through improvements in [overall equipment effectiveness](https://en.wikipedia.org/wiki/Overall_equipment_effectiveness) (OEE). Capacity can be increased through introducing new techniques, equipment and materials, increasing the number of workers or machines, increasing the number of shifts, or acquiring additional production facilities.
+A discrepancy between the capacity of an organization and the demands of its customers results in inefficiency, either in under-utilized resources or unfulfilled customers. The goal of capacity planning is to minimize this discrepancy. Demand for an organization's capacity varies based on changes in production output, such as increasing or decreasing the production quantity of an existing product, or producing new products. Better utilization of existing capacity can be accomplished through improvements in [overall equipment effectiveness](https://en.wikipedia.org/wiki/Overall_equipment_effectiveness){:target="_blank"} (OEE). Capacity can be increased through introducing new techniques, equipment and materials, increasing the number of workers or machines, increasing the number of shifts, or acquiring additional production facilities.
 
 As already suggested, combining a service oriented framework, such as ITIL, with concepts from other disciplines such as manufacturing will allow architects to design, plan and manage capacity more effectively.
 
@@ -125,7 +125,7 @@ Closely related to View and Viewpoints, it is critical that the infrastructure a
 -   Traditionally architects have not been involved in the day to day running of a system and therefore changes that are a result of increased load are not always tracked against the original capacity design leading to capacity related issues that are perceived as an IT service delivery issue rather than a known capacity constraint that is linked to the original design and associated capital investment.
 -   In large enterprise systems, tracking change through the different architectural layers is complex and difficult to achieve. Changes at one level may be difficult to communicate clearly at all architectural levels. This can make root cause analysis complex and as a result capacity related issues are not always identified correctly as such.
 
-One approach to tackling this challenge is to ensure that where architectural accountability switches from one architect to another, a formal agreement of some sort is put in place that captures clear capacity related terms and conditions. Examples of such formal operating agreements are Service and Operating Level Agreements as defined in ITIL or [standardized service contracts](https://en.wikipedia.org/wiki/Standardized_service_contract) as defined in SOA.  The architect's role is typically to create these contracts and hand over to the service management team to monitor and manage. Architectural involvement is also recommended when and where these contracts need to be renegotiated.
+One approach to tackling this challenge is to ensure that where architectural accountability switches from one architect to another, a formal agreement of some sort is put in place that captures clear capacity related terms and conditions. Examples of such formal operating agreements are Service and Operating Level Agreements as defined in ITIL or [standardized service contracts](https://en.wikipedia.org/wiki/Standardized_service_contract){:target="_blank"} as defined in SOA.  The architect's role is typically to create these contracts and hand over to the service management team to monitor and manage. Architectural involvement is also recommended when and where these contracts need to be renegotiated.
 
 Capacity Planning, Platforms and SDLC Approaches
 ------------------------------------------------
@@ -140,9 +140,9 @@ Well-designed cloud systems -- public or private -- should always support this a
 
 Carry out some form of analytical modelling to identify capacity related trends and allow for timely capital investments to add additional capacity.
 
-[[1]](https://btabok.iasaglobal.org/btabok_3/capacity-planning/#_ftnref1) *Iasa ITABOK:* A ***viewpoint*** defines the perspective from which a view is taken. More specifically, a viewpoint defines: how to construct and use a view (by means of an appropriate schema or template); the information that should appear in the view; the modeling techniques for expressing and analyzing the information; and a rationale for these choices (e.g., by describing the purpose and intended audience of the view).
+*Iasa BTABoK:* A ***viewpoint*** defines the perspective from which a view is taken. More specifically, a viewpoint defines: how to construct and use a view (by means of an appropriate schema or template); the information that should appear in the view; the modeling techniques for expressing and analyzing the information; and a rationale for these choices (e.g., by describing the purpose and intended audience of the view).
 
-[[2]](https://btabok.iasaglobal.org/btabok_3/capacity-planning/#_ftnref2) *Iasa ITABOK:* A **view** is a representation of one or more structural aspects of an architecture that illustrates how the architecture addresses one or more concerns held by one or more of its stakeholders.
+*Iasa BTABoK:* A **view** is a representation of one or more structural aspects of an architecture that illustrates how the architecture addresses one or more concerns held by one or more of its stakeholders.
 
 Proven Practices
 ================
@@ -334,16 +334,16 @@ Determine & Agree Capacity Requirements
 Related Capabilities
 ====================
 
--   [BTS -- Requirements Discovery and Constraints Analysis](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-discovery-and-constraints-analysis/)
--   [HD -- Collaboration & Negotiation](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/collaboration-and-negotiation/)
--   [DES -- Requirements Modeling](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-modeling/)
--   [DES -- Whole System Design](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/)
--   [DES -- Traceability throughout the Lifecycle](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/traceability-throughout-the-lifecycle/)
--   [DES -- Views & Viewpoints](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/views-and-viewpoints/)
--   [ITE -- Change Management](https://btabok.iasaglobal.org/btabok_3/change-management/)
--   [ITE -- Infrastructure](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/infrastructure/)
--   [ITE -- Testing, Methods, Tools and Techniques](https://btabok.iasaglobal.org/btabok_3/testing-methods-tools-and-techniques/)
--   [QA -- All Capabilities](https://btabok.iasaglobal.org/btabok_3/capability-taxonomy-and-descriptions-3-0/)
+-   [BTS -- Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
+-   [HD -- Collaboration & Negotiation](collaboration_and_negotiation.md){:target="_blank"}
+-   [DES -- Requirements Modeling](requirements_modeling.md){:target="_blank"}
+-   [DES -- Whole System Design](the_whole_systems_design.md){:target="_blank"}
+-   [DES -- Traceability throughout the Lifecycle](traceability_throughout_the_lifecycle.md){:target="_blank"}
+-   [DES -- Views & Viewpoints](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/views-and-viewpoints/){:target="_blank"}
+-   [ITE -- Change Management](https://btabok.iasaglobal.org/btabok_3/change-management/){:target="_blank"}
+-   [ITE -- Infrastructure](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/infrastructure/){:target="_blank"}
+-   [ITE -- Testing, Methods, Tools and Techniques](https://btabok.iasaglobal.org/btabok_3/testing-methods-tools-and-techniques/){:target="_blank"}
+-   [QA -- All Capabilities](competency_model_m.md){:target="_blank"}
 
 Resources
 =========
@@ -373,9 +373,9 @@ How to do capacity planning: <https://www.youtube.com/watch?v=w0cD26CLBA0>
 Author
 ======
 
-![Farzad Ahmed](media/p_baxter.jpg)
-### **Paddy Baxter**\
-IT Architect
+![Paddy Baxter](media/p_baxter.jpg)
+### **Paddy Baxter**
+**IT Architect**
 
 Paddy's natural strengths of intuitive, big picture analysis, combined with a strong desire to improve on existing systems for the benefits of all stakeholders, have led him to the profession of enterprise architecture. Paddy has over 25 years' experience in large enterprise IT environments across the globe, working in Europe, Australia, Asia and the US with major industry players such as HP (Digital/Compaq), Microsoft, Intel and EY.
 

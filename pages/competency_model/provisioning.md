@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Provisioning is a process that focuses on enabling the services defined within a service catalog as per the agreed service level agreements driven through a combination of tools, technologies and processes. Typically, the provisioning process includes the orchestration of business processes, IT processes and service management processes working in tandem to aggregate, deploy and make the services available as per the service definition.
@@ -136,7 +136,9 @@ Author
 ======
 
 ![Chandra](media/Chandra.jpg)
-Chandra Sekhar Allaka is a TOGAF 9.1 certified Architect with more than 12 years of experience in consulting, design and delivery across vertical industries, specializing on Solutions Architecture (SA). He has been actively working on Cloud, IT Automation and Transformation solutions. Passionate and seasoned technologist with core focus on Consulting, Strategy Definition, Design and Delivery of business value added strategic technology solutions and Processes
+## **Chandra Sekhar Allaka** 
+
+Is a TOGAF 9.1 certified Architect with more than 12 years of experience in consulting, design and delivery across vertical industries, specializing on Solutions Architecture (SA). He has been actively working on Cloud, IT Automation and Transformation solutions. Passionate and seasoned technologist with core focus on Consulting, Strategy Definition, Design and Delivery of business value added strategic technology solutions and Processes
 
 Chandra's core skills include Solution Strategy, Design and Implementation around Cloud, Cloud Orchestration and Brokerage, Enterprise Modernization, IT Automation and Transformation and Systems Management. Most recently, Chandra has worked with a major wealth management company in Australia helping the customer with their cloud journey
 
