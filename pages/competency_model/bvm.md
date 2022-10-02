@@ -24,7 +24,7 @@ All need to be described in order to get a clear picture of what is intended.
 
 #### **Primary Views in Business Architecture**
 
--   Strategy
+-   Strategy 
 -   Value
 -   Service
 -   Capability

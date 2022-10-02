@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Governance, Risk and Compliance (GRC) for an architect is an ongoing effort to ensure business objectives are taken into account in determining the required evolution of an enterprise through supporting prioritization and decision-making process and monitor performance and compliance (defined in laws, regulations, contracts, strategies and policies) against an agreed-upon evolution in support of those business objectives. Mapping ownerships of organizational capabilities and responsibilities to resolve overlaps based on the RACI (Responsible, Accountable, Consulted, and Informed) model are also included in GRC. This model can lead directly to improved business performance, smarter investments, and increased productivity when managed and controlled at an enterprise-wide level.
@@ -441,8 +441,8 @@ Author
 
 
 ![Farzad Ahmed](media/farzad_ahmed.jpg)
-### **Farzad Ahmed\
-IT Consultant -- Gartner**
+### **Farzad Ahmed**
+**IT Consultant -- Gartner**
 
 Farzad Ahmed has a firm background in IT Governance within the private and public sector with focus on Enterprise Architecture, business intelligence, business development and total quality management. His current position as Management Consultant for Gartner, focuses on ensuring that IT delivers value to the business and supports their goals, visions and objectives through effective governance, architecture, risk management and portfolio management. In other words, making the IT organization a strategic business partner. Farzad worked formerly as a Management Consultant for PwC where he defined requirements and defined solutions, which he still does.
 

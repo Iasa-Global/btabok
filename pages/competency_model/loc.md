@@ -19,7 +19,7 @@ With so many changes happening to the dynamics of the work force, businesses in 
 
 Managing changes effectively is just as critical as accepting the change, sometimes changes can be pervasive in nature and can impact employees from entry level all the way to the senior leadership. Changes require a balancing act between achieving the transformation while ensuring steady work conditions to maintain day to day activities. This requires leadership at all levels and enterprise architects are critical part of the team that will institutionalize the change.
 
-Overview
+Overview 
 ========
 
 Why Does an Architect need this Skill?
@@ -136,8 +136,9 @@ Author
 ======
 
 ![Nabeel Yousif](media/n_yousif.jpg)
-Nabeel Yousif
-Chief Architect, IT at Brinks Inc
+
+## **Nabeel Yousif**
+**Chief Architect, IT at Brinks Inc**
 
 Nabeel Yousif is the Chief Architect, IT for Brinks Inc, in his role Nabeel is responsible for defining Global infrastructure strategic roadmaps such as cloud initiatives, DRaaS and virtualization. Prior to assuming this role Nabeel was responsible for the global system engineering group within Brinks and the Canadian infrastructure team.
 

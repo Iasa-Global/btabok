@@ -88,7 +88,7 @@ The basic financial skill of being able to analyze a set of financial statements
 
  |
 
-### **Financial Effects of Investment**
+### **Financial Effects of Investment** 
 
 All change initiatives have at their root improvements in financial performance, but it is nearly impossible to change financial performance directly. There is a linkage and degree of influence between changes the business can implement directly and the desired changes in financial performance. Different measures of performance are influenced by different kinds of changes, and the business architect needs to understand how the potential changes the business can make directly are linked to those measures of financial performance. This is "understanding the plumbing" of the business and can help the business architect guide senior leaders into investing in the changes that have the most potential to impact the targeted financial measures.
 
@@ -233,9 +233,8 @@ Author
 ======
 
 ![Scott Whitmire](media/s_whitmire.jpg)
-Scott Whitmire
-Research Manager/Systems Architect, The Mayo Clinic\
-Chair, IASA Board of Education
+## **Scott Whitmire**
+**Research Manager/Systems Architect, The Mayo Clinic Chair, IASA Board of Education**
 
 Scott Whitmire is the research manager and systems architect for the Neurosurgery Research Lab at the Mayo Clinic in Phoenix, Arizona. He has over 30 years of business change and software development experience, including serving as lead architect on a number of major applications. His interest in software engineering and architecture began over 20 years ago as he became frustrated with the state of the systems on which he worked as well as those he had built. He has built or designed applications and entire lines of business for several industries, including aerospace, health care, manufacturing, professional practice management, financial services, wholesale, retail, and telecommunications.
 

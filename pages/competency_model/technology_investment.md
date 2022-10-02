@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Technology investment includes the motivation for and management of investments in technology. The technology investment portfolio is part of a larger portfolio of investments in business changes, and is driven by the need to improve one or more performance measures of the business as a whole based on a cascade of required changes identified by tools such as a Balanced Scorecard and Strategy Map. Technology investment includes methods and processes for aligning technology investments to business changes, determining the value contribution of a technology investment, and the overall management of an investment portfolio.
@@ -162,9 +162,8 @@ Author
 ======
 
 ![Scott Whitmire](media/s_whitmire.jpg)
-Scott Whitmire
-Research Manager/Systems Architect, The Mayo Clinic\
-Chair, IASA Board of Education
+## **Scott Whitmire**
+**Research Manager/Systems Architect, The Mayo Clinic Chair, IASA Board of Education**
 
 Scott Whitmire is the research manager and systems architect for the Neurosurgery Research Lab at the Mayo Clinic in Phoenix, Arizona. He has over 30 years of business change and software development experience, including serving as lead architect on a number of major applications. His interest in software engineering and architecture began over 20 years ago as he became frustrated with the state of the systems on which he worked as well as those he had built. He has built or designed applications and entire lines of business for several industries, including aerospace, health care, manufacturing, professional practice management, financial services, wholesale, retail, and telecommunications.
 

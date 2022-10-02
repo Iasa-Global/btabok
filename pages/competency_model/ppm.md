@@ -182,32 +182,24 @@ Resources
 Related Capabilities
 ====================
 
--   [Business Strategy](https://btabok.iasaglobal.org/btabok_3/business-strategy/)
-
--   [Investments, Prioritization and Planning](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/investment-prioritization-and-planning/)
-
--   [Governance, Risk and Compliance](https://btabok.iasaglobal.org/btabok_3/governance-risk-and-compliance/)
-
--   [Capacity Planning](https://btabok.iasaglobal.org/btabok_3/capacity-planning/)
-
--   [Managing the culture](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/managing-the-culture/)
-
--   [Customer relations](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/customer-relations/)
-
--   [Leadership and Management](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/leadership-and-management/)
-
--   [Collaboration and negotiation](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/collaboration-and-negotiation/)
-
--   [Technical Project Management](https://btabok.iasaglobal.org/btabok_3/technical-project-management/)
-
--   [Compliance](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/compliance/)
+-   [Business Strategy](business_strategy.md){:target="_blank"}
+-   [Investments, Prioritization and Planning](investment_prioritization_and_planning.md/){:target="_blank"}
+-   [Governance, Risk and Compliance](grc.md){:target="_blank"}
+-   [Capacity Planning](capacity_planning.md){:target="_blank"}
+-   [Managing the culture](managing_the_culture.md){:target="_blank"}
+-   [Customer relations](customer_relations.md){:target="_blank"}
+-   [Leadership and Management](leadership_and_management.md){:target="_blank"}
+-   [Collaboration and negotiation](collaboration_and_negotiation.md){:target="_blank"}
+-   [Technical Project Management](technical_pm.md){:target="_blank"}
+-   [Compliance](compliance.md){:target="_blank"}
 
 Author
 ======
 
 ![Juan Mestas](media/juan_mestas.jpg)
-Juan Mestas
-Senior Solution Architect -- Deloitte Ireland**
+
+## **Juan Mestas**
+**Senior Solution Architect -- Deloitte Ireland**
 
 Juan Mestas is a Senior Architect in the Deloitte Technology Centre of Excellence with more than 15 years of experience in consultancy services and vertical industries, specializing on Enterprise Architecture (EA) and Solutions Architecture (SA).
 

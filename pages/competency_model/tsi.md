@@ -8,7 +8,7 @@ folder: competency_model
 summary: ""
 ---
 
-Description
+Description 
 ===========
 
 Strategy is any plan or method for achieving a particular goal or overall aim usually over a long period of time. While technology strategy is the overall plan consists of objectives, principles and tactics related to use and development of the technologies within a particular organization. Usually written down in a document, it can be implied from the organization's behaviors towards technology decisions which in the end confer advantage(s) to our organization.
@@ -237,9 +237,7 @@ The Open Group Architecture Framework (TOGAF) <http://www.opengroup.org/publicat
 
 IASA Architect Core
 
-<https://itabok.iasaglobal.org/assnfe/CourseView.asp?MODE=VIEW&clCourseID=1&csCategory=&csFrom=&csTo=&csKeyWord=&csSortBy=1&clPageNumber=1>
-
-IASA Training <https://itabok.iasaglobal.org/education-training/>
+IASA Training <https://iasaglobal.org/>
 
 TOGAF <http://www3.opengroup.org/certifications/togaf9-program>
 
@@ -256,9 +254,8 @@ The Open Group Certification <http://www.opengroup.org/certifications>
 Author
 ======
 
-![Goutama Bachtiar](media/g)
-Goutama Bachtiar
-Consulting Partner and Principal Advisor, Consultoria
+## **Goutama Bachtiar**
+**Consulting Partner and Principal Advisor, Consultoria**
 
 An enterprise technologist and entrepreneur with 17 years of in-depth exposure in advisory, consulting, auditing, training in IT Governance, Risk, Assurance, Architecture and Management areas. To date, he is also an advisor at 6 companies and serving as ISACA International Subject Matter Expert, Program Mentor, Editorial Journal Reviewer, PMI International SME and Program Evaluator, The Open Group and SABSA Global Working Group Member, IIBA Reviewer Panel, Guest Lecturer at top-tier American and Indonesian universities for Master programs, as well as Moderator, Panelist and Speaker at various conference, workshop and seminar.
 
