@@ -212,7 +212,8 @@ Author
 ======
 
 ![Vidyasagar Chitchula](media/v_chitchula.jpg)
-IT Architect -- Microsoft Global Services (India)**
+
+**IT Architect -- Microsoft Global Services (India)**
 
 Vidyasagar is a certified CITA-P, TM Forum BDM and TOGAF Practitioner. He has led architecturally significant enterprise engagements for Global Top 500 Companies.
 

@@ -183,10 +183,10 @@ Patterns could be evaluated against different quality attributes. Patterns are o
 Related Capabilities
 ====================
 
--   [Balancing and Optimizing Quality Attributes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/balancing-and-optimizing-quality-attributes/)
--   [Design Methods and Processes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-methods-and-processes/)
--   [Decomposition and Reuse](https://btabok.iasaglobal.org/btabok_3/decomposition-and-reuse-3-0/)
--   [Software Architecture and Patterns](https://btabok.iasaglobal.org/btabok_3/software-architecture-patterns/)
+-   [Balancing and Optimizing Quality Attributes](boqa.md){:target="_blank"}
+-   [Design Methods and Processes](design_methodologies_and_processes.md){:target="_blank"}
+-   [Decomposition and Reuse](decomposition_and_reuse.md){:target="_blank"}
+-   [Software Architecture and Patterns](software_ap.md){:target="_blank"}
 
 Resources
 =========
@@ -210,7 +210,7 @@ Author
 
 ![Anders Larsson](media/a_larsson1.jpg)
 
-### **Anders Larsson\
-Solution Architect -- Softronic**
+### **Anders Larsson**
+**Solution Architect -- Softronic**
 
 Anders Larsson has been working in the IT industry since 1994 and for more than ten years within IT-architecture related assignments. His focus is on solution architecture and is primarily working in turning business requirements into realizable solutions. He's also working at the intersection of IT-architecture, technical design and software engineering. Anders has served on the board of Iasa Sweden since 2007 and in recent years as a training manager in Sweden.

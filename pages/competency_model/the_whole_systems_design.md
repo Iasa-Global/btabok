@@ -11,7 +11,7 @@ summary: ""
 Description
 ===========
 
-Architects often think of design narrowly, in terms of software components or a computing system that has interfacing applications that serve a bounding scope. "Whole Systems Design" considers the "whole" rather than the individual parts of a solution and emphasizes the role of interconnection between elements of the system(s), and promotes the concept of "Design as a Discipline"[[1]](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/#_ftn1).
+Architects often think of design narrowly, in terms of software components or a computing system that has interfacing applications that serve a bounding scope. "Whole Systems Design" considers the "whole" rather than the individual parts of a solution and emphasizes the role of interconnection between elements of the system(s), and promotes the concept of "Design as a Discipline"[[1]](the_whole_systems_design.md){:target="_blank"}.
 
 As an architect, taking a whole systems design approach means you must understand the entire IT environment, including the people, infrastructure, development environment and organizational structure -- to name just a few. The consequences of not taking a whole systems approach to design include poor overall design efficiency (optimizing part of the system does not optimize the whole system), increased costs, decreased solution effectiveness and decreased quality attributes support.
 
@@ -26,7 +26,7 @@ Whole system design:
 
 Software architecture brings together the two worlds of technology and design, and as a systems or software architect, you are a member of an emerging design profession.
 
-[[1]](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/#_ftnref1) A discipline is a way of thinking; it is a branch of knowledge with rules of practice and established methods of conduct. A discipline is about learning.
+[[1]](the_whole_systems_design.md) A discipline is a way of thinking; it is a branch of knowledge with rules of practice and established methods of conduct. A discipline is about learning.
 
 Overview
 ========
@@ -185,11 +185,11 @@ Design judgment and the construction of meaning, including work redesign, indust
 Related Capabilites
 ===================
 
--   [Architecture Description](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/architecture-description/)
--   [Requirements Discovery and Constraints Analysis](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-discovery-and-constraints-analysis/)
--   [Design Methods and Processes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-methods-and-processes/)
--   [Decomposition and Reuse](https://btabok.iasaglobal.org/btabok_3/decomposition-and-reuse-3-0/)
--   [Design Analysis and Testing](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-analysis-and-testing/)
+-   [Architecture Description](architecture_description.md){:target="_blank"}
+-   [Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
+-   [Design Methods and Processes](design_methodologies_and_processes.md){:target="_blank"}
+-   [Decomposition and Reuse](decomposition_and_reuse.md){:target="_blank"}
+-   [Design Analysis and Testing](design_analysis_and_testing.md){:target="_blank"}
 
 Resources
 =========

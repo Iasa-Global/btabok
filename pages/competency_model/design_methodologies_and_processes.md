@@ -133,22 +133,22 @@ Methodologies and Concepts
 Related Capabilities
 ====================
 
-[Application Development](https://btabok.iasaglobal.org/btabok_3/application-development/)
+[Application Development](application_development.md){:target="_blank"}
 ----------------------------------------------------------------------------------------------------------------
 
 > Understanding of common Solution Development Lifecycles and the role/placement of design process within them.
 
-[Whole System Design](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/)
+[Whole System Design](the_whole_systems_design.md){:target="_blank"}
 --------------------------------------------------------------------------------------------------------
 
 > Additional concerns when designing complex architectures spanning multiple systems.
 
-[Architecture Description](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/architecture-description/)
+[Architecture Description](architecture_description.md){:target="_blank"}
 ------------------------------------------------------------------------------------------------------------------
 
 > Representing design outputs in a formal ADL (Architecture Design Languages)
 
-[Design Patterns and Styles](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-patterns-and-styles/)
+[Design Patterns and Styles](design_patterns_and_styles.md){:target="_blank"}
 ----------------------------------------------------------------------------------------------------------------------
 
 > Patterns provide a mechanism to document an approach that has been successfully used to solve a problem in the past
@@ -161,7 +161,6 @@ Author
 
 ### **Technical Expert for Solution Architecture -- Chevron**
 
-### **-- Chevron**
 
 Sean Gordon works for Chevron (<http://www.chevron.com/>) where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
 
