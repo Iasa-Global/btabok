@@ -13,7 +13,7 @@ The stakeholder empathy map is one of the most useful tools in the stakeholder c
 
 ![image001](media/stakeholder_engagement_map_card001.svg)
 
-[Download PPT](media/ppt/stakeholder_engagement_map_card.ppt)
+[Download PPT](media/ppt/stakeholder_engagement_map_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

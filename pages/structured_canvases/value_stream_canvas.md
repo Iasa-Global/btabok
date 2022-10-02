@@ -12,15 +12,15 @@ The value stream canvas is used to understand where value is created in an organ
 
 ![image001](media/value_stream_canvas001.svg)
 
-[Download PPT](media/ppt/transition_roadmap_canvas.ppt)
+[Download PPT](media/ppt/transition_roadmap_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |
-| Customer | The customer begins the traditional value stream with an event that initiates the value stream. This could be placing an order | [Business Model Canvas](https://btabok.iasaglobal.org/business-model-canvas-2/) (derives from customer), [Customer Persona Card](https://btabok.iasaglobal.org/persona-card/) (related to) |
+| Customer | The customer begins the traditional value stream with an event that initiates the value stream. This could be placing an order | [Business Model Canvas](business_model_canvas.md){:target="_blank"} (derives from customer), [Customer Persona Card](persona_card.md){:target="_blank"} (related to) |
 | Control | The operations and capabilities of the organization which process the event from the customer and begin the delivery of value. |   |
-| Supplier | Partners, suppliers necessary for the fulfillment of value to begin. | Ecosystem Canvas (partners with), [Business Model Canvas](https://btabok.iasaglobal.org/business-model-canvas-2/) (delivery from) |
-| Process | Processes necessary to create the value for the customer. Derived from [capabilities](https://btabok.iasaglobal.org/business-capabilities/). | [Business Capability Card](https://btabok.iasaglobal.org/capability-card/) (derived from processes) |
+| Supplier | Partners, suppliers necessary for the fulfillment of value to begin. | Ecosystem Canvas (partners with), [Business Model Canvas](business_model_canvas.md){:target="_blank"} (delivery from) |
+| Process | Processes necessary to create the value for the customer. Derived from [capabilities](../engagement_model/business_capabilities.md){:target="_blank"}. | [Business Capability Card](capability_card.md){:target="_blank"} (derived from processes) |
 | Time | Lead times related to active processing and lead times before next process activates. | Not Applicable |
 | Core Idea | What is the big idea? What is the Value Stream? | Not Applicable |
 | Facts & Figures | Key metrics which impact the value stream. Often understood as either internally related to the execution or externally related to value. | Objective Key Results (related to), Benefits (related to) |
-| Quotes | Key quotes from [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/) or [customers](https://btabok.iasaglobal.org/customer-personas/). | [Customer Journeys](https://btabok.iasaglobal.org/customer-journey-map/) (taken from), [Customer Personas](https://btabok.iasaglobal.org/persona-card/) (taken from), [Stakeholder Engagement Map](https://btabok.iasaglobal.org/stakeholder-engagement-map-card/) (taken from) |
+| Quotes | Key quotes from [stakeholders](../engagement_model/stakeholders.md){:target="_blank"} or [customers](https://btabok.iasaglobal.org/customer-personas/){:target="_blank"}. | [Customer Journeys](customer_journey_map.md) (taken from), [Customer Personas](persona_card.md){:target="_blank"} (taken from), [Stakeholder Engagement Map](stakeholder_engagement_map_card.md){:target="_blank"} (taken from) |

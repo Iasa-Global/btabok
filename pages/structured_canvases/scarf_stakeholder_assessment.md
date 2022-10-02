@@ -14,7 +14,7 @@ The SCARF Stakeholder Assessment allows the understanding of how a change, proje
 
 ![image001](media/scarf_stakeholder_assessment001.svg)
 
-[Download PPT](media/ppt/scarf_stakeholder_assessment.ppt)
+[Download PPT](media/ppt/scarf_stakeholder_assessment.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

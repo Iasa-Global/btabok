@@ -13,7 +13,7 @@ The service interface design canvas fully describes the elements needed to descr
 
 ![image001](media/service_interface_design_canvas001.svg)
 
-[Download PPT](media/ppt/service_interface_design_canvas.ppt)
+[Download PPT](media/ppt/service_interface_design_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

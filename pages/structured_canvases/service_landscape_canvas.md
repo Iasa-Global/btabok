@@ -18,7 +18,7 @@ Service domains can be grouped in a number of ways, for example:
 
 ![image001](media/service_landscape_canvas001.svg)
 
-[Download PPT](media/ppt/service_landscape_canvas.ppt)
+[Download PPT](media/ppt/service_landscape_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

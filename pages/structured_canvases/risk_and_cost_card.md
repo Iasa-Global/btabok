@@ -13,7 +13,7 @@ The Risk and Cost Card allows the evaluation of risk or costs as well as the rel
 
 ![image001](media/risk_and_cost_card001.svg)
 
-[Download PPT](media/ppt/risk_and_cost_card.ppt)
+[Download PPT](media/ppt/risk_and_cost_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

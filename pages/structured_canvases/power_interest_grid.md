@@ -11,7 +11,7 @@ summary: ""
 
 ![image001](media/power_interest_grid001.svg)
 
-[Download PPT](media/ppt/power_interest_grid.ppt)
+[Download PPT](media/ppt/power_interest_grid.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

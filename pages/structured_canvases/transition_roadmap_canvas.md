@@ -12,11 +12,11 @@ The transition roadmap canvas helps to define the major changes which are needed
 
 ![image001](media/transition_roadmap_canvas001.svg)
 
-[Download PPT](media/ppt/transition_roadmap_canvas.pptx)
+[Download PPT](media/ppt/transition_roadmap_canvas.pptx){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |
-| Goal and Deadline | The goal and deadline of the transition. Use SMART objectives for the goals. | [OKR Card](https://btabok.iasaglobal.org/okr-card/) (derives from), [Benefit Card](https://btabok.iasaglobal.org/benefit-card/) (derives from) |
-| Stakeholders | Define the stakeholders in the enterprise who are likely to be affected by the transition. | [Stakeholder Management Plan](https://btabok.iasaglobal.org/stakholder-management-plan/) (linked to) |
-| Deliverables | Consider the details of the transition and changes which will occur in the transition. Express these in terms of deliverables. | [Engagement Model Designer](https://btabok.iasaglobal.org/architects-process-engagement-canvas/) (derives from) |
-| Key Dependencies | Consider the dependencies between deliverables which will affect how the roadmap is planned. | [Architects Roadmap Canvas](https://btabok.iasaglobal.org/architects-roadmap-canvas/) (defines dependencies) |
+| Goal and Deadline | The goal and deadline of the transition. Use SMART objectives for the goals. | [OKR Card](okr_card.md){:target="_blank"} (derives from), [Benefit Card](benefit_card.md){:target="_blank"} (derives from) |
+| Stakeholders | Define the stakeholders in the enterprise who are likely to be affected by the transition. | [Stakeholder Management Plan](stakholder_management_plan.md){:target="_blank"} (linked to) |
+| Deliverables | Consider the details of the transition and changes which will occur in the transition. Express these in terms of deliverables. | [Engagement Model Designer](architects_process_engagement_canvas.md){:target="_blank"} (derives from) |
+| Key Dependencies | Consider the dependencies between deliverables which will affect how the roadmap is planned. | [Architects Roadmap Canvas](architects_roadmap_canvas.md){:target="_blank"} (defines dependencies) |

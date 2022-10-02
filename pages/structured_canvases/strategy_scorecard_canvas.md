@@ -12,7 +12,7 @@ The strategy scorecard is a combination of a strategy map and a balanced scoreca
 
 ![image001](media/strategy_scorecard_canvas001.svg)
 
-[Download PPT](media/ppt/strategy_scorecard_canvas.ppt)
+[Download PPT](media/ppt/strategy_scorecard_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

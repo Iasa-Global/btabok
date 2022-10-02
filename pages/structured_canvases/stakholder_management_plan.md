@@ -13,7 +13,7 @@ The stakeholder management plan provides the list of groups and individuals that
 
 ![image001](media/stakholder_management_plan001.png)
 
-[Download PPT](media/ppt/stakholder_management_plan.xlsx)
+[Download PPT](media/ppt/stakholder_management_plan.xlsx){:target="_blank"}
 
 
 | Area | Description | Links To |

@@ -12,7 +12,7 @@ The values stream detail canvas is a tool used to understand and design the supp
 
 ![image001](media/values_stream_canvas001.svg)
 
-[Download PPT](media/ppt/values_stream_detail_canvas.ppt)
+[Download PPT](media/ppt/values_stream_detail_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

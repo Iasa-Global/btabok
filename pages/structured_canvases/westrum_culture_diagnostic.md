@@ -12,7 +12,7 @@ The WCD helps teams and organizations understand the culture they are working wi
 
 ![image001](media/values_stream_detail_canvas001.svg)
 
-[Download PPT](media/ppt/value_stream_canvas.ppt)
+[Download PPT](media/ppt/value_stream_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

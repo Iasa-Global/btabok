@@ -12,7 +12,7 @@ The technology tracker helps architects evaluate a new technology tracker for im
 
 ![image001](media/technology_tracker_card001.svg)
 
-[Download PPT](media/ppt/technology_tracker_card.ppt)
+[Download PPT](media/ppt/technology_tracker_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

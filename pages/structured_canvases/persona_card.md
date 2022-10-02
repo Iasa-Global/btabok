@@ -11,7 +11,7 @@ summary: ""
 
 ![image001](media/persona_card001.svg)
 
-[Download PPT](media/ppt/persona_card.ppt)
+[Download PPT](media/ppt/persona_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

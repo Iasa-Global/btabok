@@ -11,7 +11,7 @@ summary: ""
 
 ![image001](media/okr_card001.svg)
 
-[Download PPT](media/ppt/okr_card.ppt)
+[Download PPT](media/ppt/okr_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/qat_card001.svg)
 
-[Download PPT](media/ppt/qat_card.ppt)
+[Download PPT](media/ppt/qat_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |
