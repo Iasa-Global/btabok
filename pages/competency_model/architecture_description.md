@@ -138,13 +138,13 @@ Architects will need to advise on the appropriate tools & techniques to support 
 Related Capabilities
 ====================
 
--   [Requirements Modeling](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-modeling/)
--   [Views and Viewpoints](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/views-and-viewpoints/)
--   [Design Patterns and Styles](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-patterns-and-styles/)
--   [Whole Systems Design](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/)
--   [Design Methods and Processes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-methods-and-processes/)
--   [Software Architecture Tools](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/software-architecture-tools/)
--   [Writing Skills](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/writing-skills/)
+-   [Requirements Modeling](requirements_modeling.md){:target="_blank"}
+-   [Views and Viewpoints](views_viewpoints.md){:target="_blank"}
+-   [Design Patterns and Styles](design_patterns_and_styles.md){:target="_blank"}
+-   [Whole Systems Design](the_whole_systems_design.md){:target="_blank"}
+-   [Design Methods and Processes](design_methodologies_and_processes.md){:target="_blank"}
+-   [Software Architecture Tools](software_at.md){:target="_blank"}
+-   [Writing Skills](writing_skills.md){:target="_blank"}
 
 Resources
 =========
@@ -186,6 +186,7 @@ Author
 
 ![Sean Gordon](media/s_gordon.jpg)
 
+**Sean Gordon**
 ### **Technical Expert for Solution Architecture -- Chevron**
 
 Sean Gordon works for Chevron (<http://www.chevron.com/>) where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.

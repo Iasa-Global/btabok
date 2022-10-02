@@ -26,7 +26,7 @@ Advantages of a decomposed system:
 -   More effective testing, testing can be concentrated on individual components.
 -   Components can be refactored, retested or even replaced with reduced risk.
 
-Reusing components and patterns improves developer productivity and reduces maintenance costs. A common philosophy for describing reuse is [Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself).
+Reusing components and patterns improves developer productivity and reduces maintenance costs. A common philosophy for describing reuse is [Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself){:target="_blank"}.
 
 Advantages of reusable components:
 
@@ -100,20 +100,20 @@ The structure of the code can change significantly during this refactoring exerc
 
 The use of pre-built components, either commercial or open-source can significantly reduce the overall cost of a project and reduce the time-to-market. Analyzing a system for decomposition is also an opportunity to identify where pre-built components can be utilized. If a pre-built component is the product of a well established project then the code will have been well tested, tuned for performance, documented with examples and have an active support community.
 
-Poor selection of pre-built components can have a negative impact on a project therefore careful consideration must be given to licensing, compatibility, interoperability, support, end-user environments etc. Examples of common pre-built components include data access & [ORM](http://en.wikipedia.org/wiki/Object-relational_mapping) frameworks, logging components, messaging middle-ware and [business rules engines](http://en.wikipedia.org/wiki/Business_rules_engine).
+Poor selection of pre-built components can have a negative impact on a project therefore careful consideration must be given to licensing, compatibility, interoperability, support, end-user environments etc. Examples of common pre-built components include data access & [ORM](http://en.wikipedia.org/wiki/Object-relational_mapping){:target="_blank"} frameworks, logging components, messaging middle-ware and [business rules engines](http://en.wikipedia.org/wiki/Business_rules_engine){:target="_blank"}.
 
 **The Dependency Inversion Principle\
 **
 
-When using pre-built components it is generally advantageous to apply the [dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle) by adding a layer of abstraction between your system and the pre-built component. By defining and coding against your own interface it is easier to replace a pre-built component at a later date. In this scenario the only code which needs to change is the code in the abstraction layer.
+When using pre-built components it is generally advantageous to apply the [dependency inversion principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle){:target="_blank"}{:target="_blank"} by adding a layer of abstraction between your system and the pre-built component. By defining and coding against your own interface it is easier to replace a pre-built component at a later date. In this scenario the only code which needs to change is the code in the abstraction layer.
 
-For example, imagine we sell several applications to enterprise customers and our applications communicate via asynchronous messaging middle-ware. We have decided to use [AMQP](http://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol) based messaging and have chosen a particular enterprise messaging system. To create an abstraction layer we have developed some wrapper code around the AMQP messaging client so that the systems using the component are not coded directly against the vendors client component.
+For example, imagine we sell several applications to enterprise customers and our applications communicate via asynchronous messaging middle-ware. We have decided to use [AMQP](http://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol){:target="_blank"} based messaging and have chosen a particular enterprise messaging system. To create an abstraction layer we have developed some wrapper code around the AMQP messaging client so that the systems using the component are not coded directly against the vendors client component.
 
-Taking this example a step further we can set-up our abstraction layer to load the messaging wrapper by using [Dependency Injection](http://en.wikipedia.org/wiki/Dependency_injection). If our next customer wants to leverage their existing [JMS](http://en.wikipedia.org/wiki/Java_Message_Service) messaging middle-ware instead of the AMQP messaging middle-ware then we can load a JMS messaging client via dependency injection without having to modify our system. This approach can make our systems more vendor agnostic although it does require some extra design and planning and may also require some compromise on features as a common set of features must be found across all interfaced components. This example is an implementation of the [Adapter Pattern](https://en.wikipedia.org/wiki/Adapter_pattern).
+Taking this example a step further we can set-up our abstraction layer to load the messaging wrapper by using [Dependency Injection](http://en.wikipedia.org/wiki/Dependency_injection){:target="_blank"}. If our next customer wants to leverage their existing [JMS](http://en.wikipedia.org/wiki/Java_Message_Service){:target="_blank"} messaging middle-ware instead of the AMQP messaging middle-ware then we can load a JMS messaging client via dependency injection without having to modify our system. This approach can make our systems more vendor agnostic although it does require some extra design and planning and may also require some compromise on features as a common set of features must be found across all interfaced components. This example is an implementation of the [Adapter Pattern](https://en.wikipedia.org/wiki/Adapter_pattern){:target="_blank"}.
 
 **Package Managers**
 
-[Package managers](http://en.wikipedia.org/wiki/Package_manager) provide an easy way to add pre-built components to your project. They will save you time but they can also lead to problems as it is extremely easy for a developer to add a new pre-built component to a project without understanding the full impact of the decision. For instance, adding a package to a web based solution may add a nice feature but it can also add a lot of bloat in the form of large JavaScript and CSS files, most of which may never be utilized by the project.
+[Package managers](http://en.wikipedia.org/wiki/Package_manager){:target="_blank"} provide an easy way to add pre-built components to your project. They will save you time but they can also lead to problems as it is extremely easy for a developer to add a new pre-built component to a project without understanding the full impact of the decision. For instance, adding a package to a web based solution may add a nice feature but it can also add a lot of bloat in the form of large JavaScript and CSS files, most of which may never be utilized by the project.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
@@ -146,7 +146,7 @@ Taking this example a step further we can set-up our abstraction layer to load t
 
 Designing, developing and testing a reusable component is a strategic investment, a return on that investment will not be realised until the component has been used multiple times. When deciding to design a new component you must ensure that there are enough use cases to justify your decision.
 
-Reusable component design is similar to any other design task, for more information see the "[Design Methodologies and Processes](https://itabok.iasaglobal.org/itabok/capability-descriptions/design-methods-and-processes/)" capability.
+Reusable component design is similar to any other design task, for more information see the "[Design Methodologies and Processes](design_methodologies_and_processes.md){:target="_blank"}" capability.
 
 Design Considerations:
 
@@ -193,25 +193,26 @@ Presenting and demonstrating reuse to the development team is an opportunity to 
 Related Capabilites
 ===================
 
--   [Architecture Description](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/architecture-description/)
--   [Whole System Design](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/)
--   [Design Methods & Processes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-methods-and-processes/)
--   [Design Patterns & Styles](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-patterns-and-styles/)
+-   [Architecture Description](architecture_description.md){:target="_blank"}
+-   [Whole System Design](the_whole_systems_design.md){:target="_blank"}
+-   [Design Methods & Processes](design_methodologies_and_processes.md){:target="_blank"}
+-   [Design Patterns & Styles](design_patterns_and_styles.md){:target="_blank"}
 
 Resources and Further Reading
 =============================
 
--   [Decomposition in Computer Science](http://en.wikipedia.org/wiki/Decomposition_%28computer_science%29) (Wikipedia)
--   [Code Reuse](http://en.wikipedia.org/wiki/Code_reuse) (Wikipedia)
--   [Reusability](http://en.wikipedia.org/wiki/Reusability) (Wikipedia)
--   [Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (Wikipedia)
--   [Separation of Concerns](http://en.wikipedia.org/wiki/Separation_of_concerns) (Wikipedia)
+-   [Decomposition in Computer Science](http://en.wikipedia.org/wiki/Decomposition_%28computer_science%29){:target="_blank"} (Wikipedia)
+-   [Code Reuse](http://en.wikipedia.org/wiki/Code_reuse){:target="_blank"} (Wikipedia)
+-   [Reusability](http://en.wikipedia.org/wiki/Reusability){:target="_blank"} (Wikipedia)
+-   [Don't Repeat Yourself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself){:target="_blank"} (Wikipedia)
+-   [Separation of Concerns](http://en.wikipedia.org/wiki/Separation_of_concerns){:target="_blank"} (Wikipedia)
 -   [Software Reuse 101: What Is Software Reuse?](http://lombardhill.com/articles/software-reuse-101-what-is-software-reuse/)
 
 Author
 ======
 
-![Declan Bright](media/declan_bright.jpg.jpg)
-Chief Software Architect
+![Declan Bright](media/declan_bright.jpg)
+
+**Declan Bright -- Chief Software Architect**
 
 Declan Bright is a Chief Software Architect based in Dublin, Ireland. He has worked in the IT industry since 1999, primarily within the aviation, telecommunications and financial services sectors and has extensive experience in the design and implementation of enterprise solutions. Areas of specialisation include system integration, system evolution, user experience and analytics.  [www.declanbright.com](http://www.declanbright.com)
