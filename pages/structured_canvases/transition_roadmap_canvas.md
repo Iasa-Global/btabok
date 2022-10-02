@@ -12,7 +12,7 @@ The transition roadmap canvas helps to define the major changes which are needed
 
 ![image001](media/transition_roadmap_canvas001.svg)
 
-[Download PPT](media/ppt/transition_roadmap_canvas.pptx){:target="_blank"}
+[Download PPT](media/ppt/transition_roadmap_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |
