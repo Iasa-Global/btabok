@@ -199,7 +199,7 @@ The architect will facilitate improvements by changing approaches and working pr
 Related Capabilities
 ====================
 
-[Technical Project Management](https://btabok.iasaglobal.org/btabok_3/technical-project-management/) (especially Estimating)
+[Technical Project Management](technical_pm.md){:target="_blank"} (especially Estimating)
 
 Resources
 =========

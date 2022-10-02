@@ -140,8 +140,8 @@ Information Security and Risk Management is the overall framework for control of
 **Related Capabilities**
 ------------------------
 
--   [BTS -- Risk Management](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/risk-management/)
--   [BTS -- Compliance](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/compliance/)
+-   [BTS -- Risk Management](risk_management.md){:target="_blank"}
+-   [BTS -- Compliance](compliance.md){:target="_blank"}
 
 Resources
 =========
@@ -165,7 +165,10 @@ Author
 ======
 
 ![Maya More](media/maya_more.jpg)
-AVP -- Enterprise Architecture Center of Excellence**
+
+**Maya More**
+
+**AVP -- Enterprise Architecture Center of Excellence**
 
 Maya More is an IASA member and CITA-Foundation certified architect having over 19 years experience in business technology consulting, enterprise architecture and technology implementation. She has worked with global businesses in multiple countries and industries such as insurance, healthcare and oil & gas. She currently works as Architecture and Technology SME for a leading oil & gas corporation in India.
 

@@ -198,7 +198,10 @@ Author
 ======
 
 ![Elton Tucker](media/e_tucker.jpg)
-Enterprise Architect -- Microsoft**
+
+**Elton Tucker**
+
+**Enterprise Architect -- Microsoft**
 
 Elton Tucker is an Enterprise Architect for Microsoft Canada's Enterprise Services group.   He engages in assisting Microsoft's largest Canadian customers and partner's in long term strategy and planning activities to drive increased benefits from their investments in Microsoft platforms and technologies.  Elton has served as a community lead in both of Microsoft Canada and Americas geographies for enterprise strategy and architecture.  Formerly Elton worked as both a consultant and technical account manager for Microsoft Canada.
 

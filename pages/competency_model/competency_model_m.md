@@ -59,7 +59,7 @@ As you digest the BTABoK competencies we ask that you realize that while this kn
 9. [Decision Support](decision_support.md)
 10. [Platforms and Frameworks](platforms_and_frameworks.md)
 
-## Quality Attributes
+## Quality Attributes **
 
 1. [Balancing and Optimizing Quality Attributes](boqa.md)
 2. [Manageability, Maintainability, Supportability, Extensibility, and Flexibility](mmsef.md)

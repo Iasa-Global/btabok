@@ -100,9 +100,9 @@ During the project life time the requirements need to be prioritized, kept up to
 
 # Related Capabilities
 
--   [Requirements Discovery and Constraint Analysis](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-discovery-and-constraints-analysis/)
--   [Traceability through the Lifecycle](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/traceability-throughout-the-lifecycle/)
--   [Information Modeling](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/information-modeling/)
+-   [Requirements Discovery and Constraint Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
+-   [Traceability through the Lifecycle](traceability_throughout_the_lifecycle.md){:target="_blank"}
+-   [Information Modeling](information_modeling.md){:target="_blank"}
 
 # Resources
 

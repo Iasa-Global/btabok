@@ -22,8 +22,6 @@ It is not uncommon that the Architect can hold both the Administrative Project M
 
 # Overview
 
-  
-
 **Why does an architect need this skill?**
 
 In many IT projects we are transitioning from a current architecture to a new architecture and as an Architect we need Technical Project Management skills in order to realize this transition. Administrative Project Management does not have the depth of technical knowledge required to plan, execute and deliver the project and therefore relies on the support of Technical Project Management typically provided by the Architect.
@@ -158,7 +156,7 @@ This support of Administrative Project Management in project delivery ensuring t
 
 #### **Blogs/Webcasts/News/Reference sources:**
 
-IASA IT Architecture Body of Knowledge (ITBOK) [https://itabok.iasaglobal.org/iasa/ITABoK.asp](https://itabok.iasaglobal.org/iasa/ITABoK.asp)
+IASA IT Architecture Body of Knowledge (BTABoK)
 
 Project Estimation Techniques: [http://www.projectmanagementguru.com/estimating.html](http://www.projectmanagementguru.com/estimating.html)
 
@@ -198,6 +196,6 @@ Scrum.org [https://www.scrum.org](https://www.scrum.org)
 
 **Stephen Dougall**
 
-### Enterprise Architect – CGI
+**Enterprise Architect – CGI**
 
 Stephen Dougall is consultant Enterprise/Solution Architect working in Sweden. Stephen has many years’ experience in a number of sectors including Telecom, Manufacturing, Automotive and Pharmaceuticals. Assignments have included areas such as Business Technology Strategy, Web/Application Development, Integration and Test. Stephen also holds the highest Iasa certification of CITA-Professional.
