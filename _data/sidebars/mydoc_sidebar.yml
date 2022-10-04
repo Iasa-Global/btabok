@@ -9,8 +9,12 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    url: https://btabok.iasaglobal.org/
     output: web
+    folderitems:
+
+    - title: Overview
+      url: get_started_m.html
+      output: web
 
 # Engagement Model
 
