@@ -7,7 +7,7 @@ permalink: engagement_model_sc.html
 folder: structured_canvases
 summary: ""
 ---
-
+ 
 1. [Westrum Culture Diagnostic](westrum_culture_diagnostic.md){:target="_blank"}
 2. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}
 3. [Viewpoint Template Card](viewpoint_template_card.md){:target="_blank"}
