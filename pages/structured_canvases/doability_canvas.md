@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/doability_canvas001.svg)
 
-[Download PPT](media/ppt/doability_canvas.ppt)
+[Download PPT](media/ppt/doability_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

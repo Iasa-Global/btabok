@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/development_value_stream_canvas001.svg)
 
-[Download PPT](media/ppt/development_value_stream_canvas.ppt)
+[Download PPT](media/ppt/development_value_stream_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

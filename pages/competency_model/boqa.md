@@ -9,7 +9,7 @@ summary: "Applications and Systems will spend the majority of their lives in the
 ---
 
 # Description
-
+ 
 The task of balancing the quality attributes as part of the design process can be one of the more complex activities that the IT Architect has to perform.
 
 # Overview
@@ -146,7 +146,7 @@ Economics-Driven Software Architecture by Ivan Mistrik , Rami Bahsoon , Rick Ka
 
 ### **Training:**
 
-ITIL Training [https://www.axelos.com/qualifications/itil-qualifications](https://www.axelos.com/qualifications/itil-qualifications)
+ITIL Training [https://www.axelos.com/qualifications/itil-qualifications](https://www.axelos.com/qualifications/itil-qualifications){:target="_blank"}
 
 # Author
 

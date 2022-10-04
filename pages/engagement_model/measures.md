@@ -134,9 +134,11 @@ Figure 6 Technical Loan Card
 References and Further Reading
 ==============================
 
-[Calculating Lead Times in a Value Stream Map | Harish's Notebook -- My notes... Lean, Cybernetics, Quality & Data Science. (wordpress.com)](https://harishsnotebook.wordpress.com/2015/03/01/calculating-lead-times-in-a-value-stream-map/)
+[Calculating Lead Times in a Value Stream Map | Harish's Notebook -- My notes... Lean, Cybernetics, Quality & Data Science. (wordpress.com)](https://harishsnotebook.wordpress.com/2015/03/01/calculating-lead-times-in-a-value-stream-map/){:target="_blank"}
 
-[Lead Time Calculator (omnicalculator.com)](https://www.omnicalculator.com/everyday-life/lead-time#:~:text=Lead%20time%20%3D%20pre%2Dprocessing%20%2B,make%20or%20collect%20the%20order.)[How To Calculate Lead Time? | ClickUp Blog](https://clickup.com/blog/lead-time-formula/)
+[Lead Time Calculator (omnicalculator.com)](https://www.omnicalculator.com/everyday-life/lead-time#:~:text=Lead%20time%20%3D%20pre%2Dprocessing%20%2B,make%20or%20collect%20the%20order.){:target="_blank"}
+
+[How To Calculate Lead Time? | ClickUp Blog](https://clickup.com/blog/lead-time-formula/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

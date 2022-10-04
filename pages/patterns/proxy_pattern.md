@@ -38,16 +38,16 @@ The Proxy may be dumb, in that it just delegates a request to the services it re
 
 ## Contextual Example
 
-An example of the Proxy is provided in \[[1](https://medium.com/nerd-for-tech/proxy-microservice-design-pattern-91d455b0d05a)\].
+An example of the Proxy is provided in \[[1](https://medium.com/nerd-for-tech/proxy-microservice-design-pattern-91d455b0d05a){:target="_blank"}\].
 
 ## Online Code Examples
 
-An example for code can be found [here](https://github.com/iluwatar/java-design-patterns/tree/master/proxy).
+An example for code can be found [here](https://github.com/iluwatar/java-design-patterns/tree/master/proxy){:target="_blank"}.
 
 ## References
 
-\[1\] Proxy Microservice Design Pattern – [https://medium.com/nerd-for-tech/proxy-microservice-design-pattern-91d455b0d05a](https://medium.com/nerd-for-tech/proxy-microservice-design-pattern-91d455b0d05a)
+\[1\] Proxy Microservice Design Pattern – [https://medium.com/nerd-for-tech/proxy-microservice-design-pattern-91d455b0d05a](https://medium.com/nerd-for-tech/proxy-microservice-design-pattern-91d455b0d05a){:target="_blank"}
 
-\[2\] Proxy Design Pattern – [https://www.geeksforgeeks.org/proxy-design-pattern/](https://www.geeksforgeeks.org/proxy-design-pattern/)
+\[2\] Proxy Design Pattern – [https://www.geeksforgeeks.org/proxy-design-pattern/](https://www.geeksforgeeks.org/proxy-design-pattern/){:target="_blank"}
 
-\[3\] The Ambassador Pattern – [https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador)
+\[3\] The Ambassador Pattern – [https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador){:target="_blank"}

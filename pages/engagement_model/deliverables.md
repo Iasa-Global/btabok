@@ -32,7 +32,7 @@ In the Iasa Engagement model, deliverables should be considered tools for thinki
 Don't Confuse Views and Viewpoints with Deliverables
 ----------------------------------------------------
 
-[Views and viewpoints](https://btabok.iasaglobal.org/views-and-viewpoints/) are used to describe a specific system (people, process and technology) inside an architecture description within a particular architecture [context](https://btabok.iasaglobal.org/btabok_3/scope-and-context/). They should be left up to the architect to decide which are necessary in most cases. Deliverables on the other hand are items that the team delivers to the enterprise, client or organization. These are very often completely different things as deliverables may include meetings, presentations, influence, decision points in addition to an architecture description.
+[Views and viewpoints](views.md){:target="_blank"} are used to describe a specific system (people, process and technology) inside an architecture description within a particular architecture [context](scope_context.md){:target="_blank"}. They should be left up to the architect to decide which are necessary in most cases. Deliverables on the other hand are items that the team delivers to the enterprise, client or organization. These are very often completely different things as deliverables may include meetings, presentations, influence, decision points in addition to an architecture description.
 
 Influence is not Ownership
 --------------------------
@@ -101,7 +101,7 @@ Figure 1 Deliverable Ownership
 Align Handoff Between Architects
 --------------------------------
 
-Architects function at different stages and scopes around the enterprise lifecycle. The handoffs and deliverables should be aligned so that they always have an owner and are updated according to the appropriate phase, specialization and [scope](https://btabok.iasaglobal.org/btabok_3/scope-and-context/).
+Architects function at different stages and scopes around the enterprise lifecycle. The handoffs and deliverables should be aligned so that they always have an owner and are updated according to the appropriate phase, specialization and [scope](scope_context.md){:target="_blank"}.
 
 ![image001](media/deliverables002.png)
 
@@ -110,11 +110,11 @@ Figure 2 Example Deliverable Alignment Business to Solution
 Basic Engagement Model
 ----------------------
 
-When using the Iasa Basic [Engagement Model](https://btabok.iasaglobal.org/btabok_3/engagement/) the following deliverables have been found to be most effective.
+When using the Iasa Basic [Engagement Model](engagement.md){:target="_blank"} the following deliverables have been found to be most effective.
 
 | **Artifact** | **Description ** | **Source** | **Models** |
 | --- | --- | --- | --- |
-| **Business Models and Strategy Scorecards** | A shared combination of business models including business model [canvas](https://btabok.iasaglobal.org/btabok_3/structured-canvases/), basic business and technical capability models and a strategy scorecard indexed to the program/project list | Architecture Team | Business Model Canvas, Capability Models, Strategy Scorecard |
+| **Business Models and Strategy Scorecards** | A shared combination of business models including business model [canvas](.\structured_canvases_m.md), basic business and technical capability models and a strategy scorecard indexed to the program/project list | Architecture Team | Business Model Canvas, Capability Models, Strategy Scorecard |
 | **Business Case(s)** |   | Architect Team |   |
 | **Estimation Model ** | Agreed estimation approach supported by finance and management teams along with specification of required metrics, hurdle rate and valuation calculations. | Finance/IT Executive | Value Stream |
 | **Stakeholder Mapping ** | Stakeholder mapping capturing the key stakeholders for a given context their title, level of authority, reporting lines etc. Used by architect team and project teams to better understand stakeholder concerns. | Architect Team | Stakeholder Power and Influence Grid |

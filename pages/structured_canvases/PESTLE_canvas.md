@@ -12,7 +12,7 @@ The PESTLE canvas provides and ecosystem view of the enterprise or an initiative
 
 ![image001](media/pestle001.svg)
 
-[Download PPT](media/ppt/PESTLE.pptx)
+[Download PPT](media/ppt/PESTLE.pptx){:target="_blank"}
 
 | Area | Description | Links To |
 | :-- | :-- | :-- |

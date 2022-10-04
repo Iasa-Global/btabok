@@ -155,7 +155,7 @@ Address single process with limited scope or might address all processes in the 
 
 ##### **Blogs/Webcasts/News:**
 
-IASA IT Architecture Body of Knowledge (ITABoK) [https://itabok.iasaglobal.org/iasa/ITABoK.asp](https://itabok.iasaglobal.org/iasa/ITABoK.asp)
+IASA IT Architecture Body of Knowledge (BTABoK) [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
 
 The Open Group Architecture Framework (TOGAF) [http://www.opengroup.org/publications/togaf](http://www.opengroup.org/publications/togaf)
 
@@ -171,9 +171,7 @@ International Institute of Business Analysis (IIBA) Business Analysis Competency
 
 IASA Architect Core
 
-[https://itabok.iasaglobal.org/assnfe/CourseView.asp?MODE=VIEW&clCourseID=1&csCategory=&csFrom=&csTo=&csKeyWord=&csSortBy=1&clPageNumber=1](https://itabok.iasaglobal.org/assnfe/CourseView.asp?MODE=VIEW&clCourseID=1&csCategory=&csFrom=&csTo=&csKeyWord=&csSortBy=1&clPageNumber=1)
-
-IASA Training [https://itabok.iasaglobal.org/education-training/](https://itabok.iasaglobal.org/education-training/)
+IASA Training [https://iasaglobal.org/](https://iasaglobal.org/)
 
 TOGAF [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program)
 
@@ -181,7 +179,7 @@ IIBA [https://www.iiba.org/Learning-Development.aspx](https://www.iiba.org/Learn
 
 #### **Certifications:**
 
-IASA Certification [https://itabok.iasaglobal.org/certifications/](https://itabok.iasaglobal.org/certifications/)
+IASA Certification [https://iasaglobal.org/](https://iasaglobal.org/)
 
 The Open Group Certification [http://www.opengroup.org/certifications](http://www.opengroup.org/certifications)
 

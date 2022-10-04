@@ -100,7 +100,7 @@ Figure 3. Mission Model Canvas.
 
 ### Customer Segments
 
-The “market” represents all of the potential customers for products or services. Individual members of the market, whether they be consumers or other companies, have different needs, desires, tastes, and willingness to buy. There are two main approaches to the market: Treat all potential customers as one group, or segment them into multiple groups[\[3\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_edn3).
+The “market” represents all of the potential customers for products or services. Individual members of the market, whether they be consumers or other companies, have different needs, desires, tastes, and willingness to buy. There are two main approaches to the market: Treat all potential customers as one group, or segment them into multiple groups.
 
 The first option is also known as the mass market approach and means that a company offers the same goods and services to the entire market. The bet is that there are enough members in the market who will accept the offer to make it worthwhile. The second option is called segmented marketing, for obvious reasons, in which groups of customers are formed based on some common set of characteristics: age, location, income, marital and family status, occupation, or any number of other possible dimensions. It is also possible to use multiple dimensions to create ever smaller and more specialized segments.
 
@@ -202,7 +202,7 @@ Understanding a digital business is critical in the success of any architecture 
 
 ![image001](media/b_m002.jpg)
 
-[BUSINESS-MODEL-CANVAS.ppt](media/ppt/BUSINESS-MODEL-CANVAS.ppt)
+[BUSINESS-MODEL-CANVAS.ppt](media/ppt/BUSINESS-MODEL-CANVAS.ppt){:target="_blank"}
 
 | **Strategic Planning** | Ensure the organization strategy is being formulated to ensure most value can be derived from current and future technology |
 | **Business Planning**              |      Ensure that tactical and operational objectives for the period of the plan can be achieved in a way that derives most value from technology investments while factoring in architectural concerns & constraints                     |
@@ -218,21 +218,18 @@ Understanding a digital business is critical in the success of any architecture 
 
 # References and Further Reading
 
-[\[1\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_ednref1) Reeves, Love, and Tillmann, “Your Strategy Needs a Strategy”, _Harvard Business Review_, September, 2012, pp 76-83.
+Reeves, Love, and Tillmann, “Your Strategy Needs a Strategy”, _Harvard Business Review_, September, 2012, pp 76-83.
 
-[\[2\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_ednref2) Perry, Lee Tom, Randall G. Stott, and W. Norman Smallwood, _Real-Time Strategy: Improvising Team-Based Planning for a Fast-Changing World_, John Wiley & Sons, New York, NY: 1993
+Perry, Lee Tom, Randall G. Stott, and W. Norman Smallwood, _Real-Time Strategy: Improvising Team-Based Planning for a Fast-Changing World_, John Wiley & Sons, New York, NY: 1993
 
-[\[3\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_ednref3) Hiam, Alexander and Charles D. Shewe, _The Portable MBA in Marketing_, John Wiley & Sons, New York, NY: 1992.
+Hiam, Alexander and Charles D. Shewe, _The Portable MBA in Marketing_, John Wiley & Sons, New York, NY: 1992.
 
-[\[4\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_ednref4) Osterwalder, Alexander, and Yves Pigneur, _Business Model Generation_, John Wiley & Sons, Hoboken, NJ: 2010.
+Osterwalder, Alexander, and Yves Pigneur, _Business Model Generation_, John Wiley & Sons, Hoboken, NJ: 2010.
 
-[\[5\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_ednref5) Osterwalder, Alexander, Yves Pigneur, Greg Bernarda, and Alan Smith, _Value Proposition Design_, John Wiley & Sons, Hoboken, NJ: 2014.
+Osterwalder, Alexander, Yves Pigneur, Greg Bernarda, and Alan Smith, _Value Proposition Design_, John Wiley & Sons, Hoboken, NJ: 2014.
 
-[\[6\]](https://itabok.iasaglobal.org/itabok3_0-2/business-models/#_ednref6) van der Pijl, Patrick, Justin Lokitz, and Lisa Kay Solomon, _Design a Better Business_, John Wiley & Sons, Hoboken, NJ: 2016.
-
-[![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc-300x105.png)](https://btabok.iasaglobal.org/wp-content/uploads/2019/09/BUSINESS-MODEL-CANVAS.ppt)
+van der Pijl, Patrick, Justin Lokitz, and Lisa Kay Solomon, _Design a Better Business_, John Wiley & Sons, Hoboken, NJ: 2016.
 
 ![image001](media/by-nc.png)
 
-
-## [ITABoK 3.0 by](https://btabok.iasaglobal.org/wp-content/uploads/2019/09/BUSINESS-MODEL-CANVAS.ppt) [ITABoK 3.0](https://itabok.iasaglobal.org/itabok3_0/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://itabok.iasaglobal.org/itabok3\_0/](https://itabok.iasaglobal.org/itabok3_0/).
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

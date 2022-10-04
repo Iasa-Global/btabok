@@ -12,7 +12,7 @@ Product and project team assignments and structure are deeply important to the s
 
 ![image001](media/agile_team_designer001.svg)
 
-[Download PPT](media/ppt/Agile-Architect-Team-Designer.pptx)
+[Download PPT](media/ppt/Agile-Architect-Team-Designer.ppt){:target="_blank"}
 
 Resources
 ---------

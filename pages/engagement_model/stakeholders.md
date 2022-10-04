@@ -14,8 +14,8 @@ summary: "Managing stakeholders can take a lot of effort, and where an assignmen
 organization."* - **www.business dictionary.com**
 
 A stakeholder is a person or organization which as an interest or
-concern in a given [objective](objectives.md), [business case](.\businesscase.md) or
-[assignment](.\assignment.md). Stakeholders have a vested interest in the
+concern in a given [objective](objectives.md){:target="_blank"}, [business case](.\businesscase.md){:target="_blank"} or
+[assignment](assignment.md){:target="_blank"}. Stakeholders have a vested interest in the
 success of assignments, which can affect the stakeholder positively or
 negatively. A stakeholder may use their influence to promote and help an
 assignment succeed, or hinder the success of an assignment if the
@@ -29,7 +29,7 @@ departments.
 # Why are stakeholders important
 
 Stakeholders are important as they influence the progress of an
-[assignment](.\assignment.md) and in some cases can make the difference
+[assignment](assignment.md){:target="_blank"} and in some cases can make the difference
 between success and failure. Different stakeholders have varying degrees
 of influence and needs for information.
 
@@ -126,7 +126,7 @@ Stakeholders often come from different backgrounds and have different
 interests in the architecture. For example, some stakeholders may have
 an interest in the technical perspective of the architecture, while
 other stakeholders are interested in the business perspective. Selecting
-the right architecture [viewpoints](.\views.md) for the right
+the right architecture [viewpoints](views.md){:target="_blank"} for the right
 stakeholders ensures that the information is relevant and increases the
 understanding of the architecture.
 
@@ -492,10 +492,11 @@ strategy gives a practical plan for managing stakeholder communication.
 # References and further reading
 
 **Dave Gray - Empathy Map**
-<http://gamestorming.com/empathy-map/>
+[Dave Gray - Empathy Map](http://gamestorming.com/empathy-map/){:target="_blank"}
 
 **TOGAF 9: Stakeholder Management**
-<https://pubs.opengroup.org/architecture/togaf9-doc/m/chap21.html>
+[TOGAF 9](https://pubs.opengroup.org/architecture/togaf9-doc/m/chap21.html){:target="_blank"}
 
 ![image001](media/by-nc.png)
+
 BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

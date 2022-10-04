@@ -1,8 +1,6 @@
 ---
 title: "Business Technology </br>Architecture Body of Knowledge"
 keywords: BTABoK
-tags: [getting_started, welcome_page]
-toc: true
 sidebar: mydoc_sidebar
 permalink: index.html
 ---

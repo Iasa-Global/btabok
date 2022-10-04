@@ -12,7 +12,7 @@ Stakeholder motivation helps in understanding the status of stakeholders in resp
 
 ![image001](media/stakeholder_motivation_canvas001.svg)
 
-[Download PPT](media/ppt/stakeholder_motivation_canvas.ppt)
+[Download PPT](media/ppt/stakeholder_motivation_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

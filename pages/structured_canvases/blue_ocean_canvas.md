@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/blue_ocean_canvas001.svg)
 
-[Download PPT](media/ppt/blue_ocean_canvas.ppt)
+[Download PPT](media/ppt/blue_ocean_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

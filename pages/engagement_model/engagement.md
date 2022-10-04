@@ -61,7 +61,7 @@ The first rule of customer engagement is that it is about people. Real people ar
 
 There are several tools in the BTABoK for understanding customers and even more from places like Strategyn.com.
 
-The Persona Card contains what is called a set of empathy map ideas. The Empathy Map was designed at XPLANE many years ago as part of a human-centered design toolkit they call [Gamestorming](http://gamestorming.com/).
+The Persona Card contains what is called a set of empathy map ideas. The Empathy Map was designed at XPLANE many years ago as part of a human-centered design toolkit they call [Gamestorming](http://gamestorming.com/){:target="_blank"}.
 
 ![Figure 2 Empathy Map](media/engagement002.png)Figure 2 Empathy Map
 
@@ -89,7 +89,7 @@ The work on Jobs to Be Done focuses on what a customer is trying to do, not what
 
 ![image001](media/engagement004.png)
 
-The strategy has done fantastic work with the JTBD canvases. They provide significant business thought leadership, and their work can be found here: [https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/?gclid=CjwKCAiA6seQBhAfEiwAvPqu17VCLBjeX6BJ7DbeMNrvkm2zld5N98Qbt0qSiidyuRmYFNz1ZVWOKRoCvqkQAvD_BwE). Their canvases have offered many of the thought patterns that shaped the customer elements of the BTABoK Structured Canvas Approach.
+The strategy has done fantastic work with the JTBD canvases. They provide significant business thought leadership, and their work can be found here: [https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/?gclid=CjwKCAiA6seQBhAfEiwAvPqu17VCLBjeX6BJ7DbeMNrvkm2zld5N98Qbt0qSiidyuRmYFNz1ZVWOKRoCvqkQAvD_BwE){:target="_blank"}. Their canvases have offered many of the thought patterns that shaped the customer elements of the BTABoK Structured Canvas Approach.
 
 Doing things right requires an up-front investment of time. Asking difficult questions causes discomfort, people struggle, awkward silences ensue. Architects will need to get comfortable with the unknown. Market researchers and product developers can focus too heavily on the superficial questions— probing into whether customers like this or that better. People miss the decisions managers seek to justify their conclusions, and data is rarely readily available about Jobs to be Done. Companies already incumbent in an industry tend to ignore \[new\] niches, focusing on their business as they’ve traditionally defined it.
 
@@ -189,19 +189,21 @@ Architects are responsible at all levels of scope for digital engagement. The BT
 
 # References and Further Reading
 
-[10 Key Customer Engagement Metrics to Track in 2022 (surveysparrow.com)](https://surveysparrow.com/blog/customer-engagement-metrics/)
+[10 Key Customer Engagement Metrics to Track in 2022 (surveysparrow.com)](https://surveysparrow.com/blog/customer-engagement-metrics/){:target="_blank"}
 
-[What is digital engagement? What drives digital customer engagement? (zendesk.com)](https://www.zendesk.com/blog/digital-customer-engagement/)
+[What is digital engagement? What drives digital customer engagement? (zendesk.com)](https://www.zendesk.com/blog/digital-customer-engagement/){:target="_blank"}
 
-https://strategyn.com/jobs-to-be-done/
 
-https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca
+[https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/){:target="_blank"}
 
-https://hbr.org/2016/09/know-your-customers-jobs-to-be-done
 
-https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a
+[https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca){:target="_blank"}
 
-[http://innovatorstoolkit.com/content/technique-3-outcome-expectations](http://innovatorstoolkit.com/content/technique-3-outcome-expectations)
+[https://hbr.org/2016/09/know-your-customers-jobs-to-be-done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done){:target="_blank"}
+
+[https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a){:target="_blank"}
+
+[http://innovatorstoolkit.com/content/technique-3-outcome-expectations](http://innovatorstoolkit.com/content/technique-3-outcome-expectations){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

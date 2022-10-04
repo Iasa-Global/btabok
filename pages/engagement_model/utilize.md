@@ -21,24 +21,24 @@ Utilization in architecture is the most important part of delivering products, c
 
 When we think about utilization this is after delivery when a product is being put to test in the market or with its stakeholders and users. Utilization provides the metrics by which a team measures the objectives that started the project in the first place.
 
-Utilization is the primary gateway to architects impacting many key measures throughout the company, including things like [culture](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/culture/), [velocity](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/velocity/), and [customer journeys](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/journey/). However, utilization is not really about measures, it is about understanding what people and systems are doing now and finding the innovation to change that.
+Utilization is the primary gateway to architects impacting many key measures throughout the company, including things like [culture](culture.md){:target="_blank"}, [velocity](velocity.md){:target="_blank"}, and [customer journeys](journey.md){:target="_blank"}. However, utilization is not really about measures, it is about understanding what people and systems are doing now and finding the innovation to change that.
 
 Continuous Utilization as Internal and External
 ===============================================
 
-Utilization of capabilities and services is obviously continuous. Whether the order management system is up or down, does not mean the organization stops taking orders. So utilization can be seen not just as a system event but at as a [business capability](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/)  and a services activity.
+Utilization of capabilities and services is obviously continuous. Whether the order management system is up or down, does not mean the organization stops taking orders. So utilization can be seen not just as a system event but at as a [business capability](business_capabilities.md){:target="_blank"}  and a services activity.
 
-In addition the capabilities and services on which our business depends are in constant use and [transformation](https://btabok.iasaglobal.org/btabok_3/transform/). It is in utilization that the team sees all of the ideas, methods, and changes come together to form an understanding of business problems. External organizations use the companies services, customers are satisfied or dissatisfied.
+In addition the capabilities and services on which our business depends are in constant use and [transformation](transform.md){:target="_blank"}. It is in utilization that the team sees all of the ideas, methods, and changes come together to form an understanding of business problems. External organizations use the companies services, customers are satisfied or dissatisfied.
 
 Why do we need Utilization
 ==========================
 
-It is at first difficult to understand why utilization is required when there is a measurement article. However, utilization and how measurement occurs are very different as utilization is about what is actually happening and how it feels (see [Stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/) and [Customer Journeys](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/journey/) for understanding empathy in architecture) more than how it is measured. However, this is what is so interesting about utilization as an architecture concept; it is extremely organic, human, connect and practical.
+It is at first difficult to understand why utilization is required when there is a measurement article. However, utilization and how measurement occurs are very different as utilization is about what is actually happening and how it feels (see [Stakeholders](stakeholders.md){:target="_blank"} and [Customer Journeys](journey.md){:target="_blank"} for understanding empathy in architecture) more than how it is measured. However, this is what is so interesting about utilization as an architecture concept; it is extremely organic, human, connect and practical.
 
 Utilization Approach
 ====================
 
-How the [engagement model](https://btabok.iasaglobal.org/btabok_3/engagement/) addresses utilization will describe a great deal about the architecture practice and its effectiveness in the other areas.
+How the [engagement model](engagement.md){:target="_blank"} addresses utilization will describe a great deal about the architecture practice and its effectiveness in the other areas.
 
 Utilization Throughout the Whole Process
 ----------------------------------------
@@ -53,9 +53,9 @@ For many years the holy grail of technology was productivity as it was primarily
 Make Utilization a Part of Architecture Assignment
 --------------------------------------------------
 
-There are two methods by which utilization becomes important to the architecture team. The first is utilization as an assignment phase of any product/project. Meaning the solution or delivery architect is assigned until utilization is understood (past the system stabilization phase), measures are identified and any value metrics are gathered and cataloged. This allows the architect to continue with business partners. This appears to be a [risky method](https://btabok.iasaglobal.org/btabok_3/risk-methods/) as it is subject to many different and 'silent' ways of not being completed. New projects, too few architects, outsourcing, and even business indifference can lead to architects moving on more quickly than optimal.
+There are two methods by which utilization becomes important to the architecture team. The first is utilization as an assignment phase of any product/project. Meaning the solution or delivery architect is assigned until utilization is understood (past the system stabilization phase), measures are identified and any value metrics are gathered and cataloged. This allows the architect to continue with business partners. This appears to be a [risky method](risk_methods.md){:target="_blank"} as it is subject to many different and 'silent' ways of not being completed. New projects, too few architects, outsourcing, and even business indifference can lead to architects moving on more quickly than optimal.
 
-The second method is domain focused architects (normally business architects) who are with business partners and customers continuously and therefore are deeply embedded in the value outcomes of any set of activities. This method is stable and tested and appears (based solely at this time on anecdotal evidence) that is is primarily subject to risk in the separation of the architect [community](https://btabok.iasaglobal.org/btabok_3/people-model/community/), practice model, and [competencies.](https://btabok.iasaglobal.org/btabok_3/people-model/competency/) That is the architects may 'go native' which is a reality in many specialization areas. It is also subject to a turn-over risk if the architecture repository does not include critical deliverables that are up to date.
+The second method is domain focused architects (normally business architects) who are with business partners and customers continuously and therefore are deeply embedded in the value outcomes of any set of activities. This method is stable and tested and appears (based solely at this time on anecdotal evidence) that is is primarily subject to risk in the separation of the architect [community](community.md){:target="_blank"}, practice model, and [competencies.](competency.md){:target="_blank"} That is the architects may 'go native' which is a reality in many specialization areas. It is also subject to a turn-over risk if the architecture repository does not include critical deliverables that are up to date.
 
 Gemba Walks Are Not Just For Building or Transformation
 -------------------------------------------------------

@@ -75,7 +75,7 @@ availability, resiliency etc.).
 
 ## Promote Sustainability
 
-Sustainability is an important [quality attribute](qualityattributes.md) for
+Sustainability is an important [quality attribute](qualityattributes.md){:target="_blank"} for
 prolonging the lifetime of a system. Ensuring that the architecture is
 sustainable means that the system can meet the current expectations,
 without compromising future expectations. While this is not easy, this
@@ -220,7 +220,7 @@ the business to cope with change.
 ## Bottlenecks
 
 A system landscape can contain many modern systems, but a single legacy
-system can create a bottleneck in a [value stream](valuestream.md) or
+system can create a bottleneck in a [value stream](value_stream.md){:target="_blank"} or
 business process. In the flow of work, the presence of an upstream
 legacy system may well prevent or reduce the benefits of modernized
 systems further down the stream. Work and effort bunch up at the
@@ -276,7 +276,7 @@ used to strategically monitor and plan actions for legacy modernization
 is the TIME model (Gartner).
 
 The TIME model shows the applications in the portfolio and places them
-in the business [capabilities](business_capabilities.md) they support. The
+in the business [capabilities](business_capabilities.md){:target="_blank"} they support. The
 applications are then categorized as follows:
 
 - **Tolerate** -- the application is tolerated since the application
@@ -353,7 +353,7 @@ improve the quality of the implementation.
 Sometimes legacy systems are too expensive to fully re-engineer but
 still contain core functions and data which is valuable to the business.
 The difficulty is that the legacy system is placing a constraint on the
-[agility](agility.md) of the organization. One approach is to wrap the
+[agility](agility.md){:target="_blank"} of the organization. One approach is to wrap the
 legacy system in a fa├ºade using modern technologies and use the
 inter-operability of the modern technology to gain access to the legacy
 functions and data.

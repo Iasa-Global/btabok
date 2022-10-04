@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/service_domain_canvas001.svg)
 
-[Download PPT](media/ppt/service_domain_canvas.ppt)
+[Download PPT](media/ppt/service_domain_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

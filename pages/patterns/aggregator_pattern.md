@@ -65,22 +65,22 @@ Some issues with the usage of this pattern may be:
 
 ## Contextual Example
 
-An example can be found in \[[6](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)\].
+An example can be found in \[[6](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation){:target="_blank"}\].
 
 ## Online Code Examples
 
-\[Example 1\] [https://github.com/iluwatar/java-design-patterns/tree/master/aggregator-microservices](https://github.com/iluwatar/java-design-patterns/tree/master/aggregator-microservices)
+\[Example 1\] [https://github.com/iluwatar/java-design-patterns/tree/master/aggregator-microservices](https://github.com/iluwatar/java-design-patterns/tree/master/aggregator-microservices){:target="_blank"}
 
 ## References
 
-\[1\] DZone on the Aggregator Pattern: [https://dzone.com/articles/design-patterns-for-microservices](https://dzone.com/articles/design-patterns-for-microservices)
+\[1\] DZone on the Aggregator Pattern: [https://dzone.com/articles/design-patterns-for-microservices](https://dzone.com/articles/design-patterns-for-microservices){:target="_blank"}
 
-\[2\] API Gateway Pattern: [https://medium.com/nerd-for-tech/design-patterns-for-microservices-aggregator-pattern-99c122ac6b73](https://medium.com/nerd-for-tech/design-patterns-for-microservices-aggregator-pattern-99c122ac6b73)
+\[2\] API Gateway Pattern: [https://medium.com/nerd-for-tech/design-patterns-for-microservices-aggregator-pattern-99c122ac6b73](https://medium.com/nerd-for-tech/design-patterns-for-microservices-aggregator-pattern-99c122ac6b73){:target="_blank"}
 
-\[3\] Aggregator vs. API Gateway: [https://stackoverflow.com/questions/68044745/api-gateway-pattern-vs-aggregator-pattern-in-the-context-of-microservices](https://stackoverflow.com/questions/68044745/api-gateway-pattern-vs-aggregator-pattern-in-the-context-of-microservices)
+\[3\] Aggregator vs. API Gateway: [https://stackoverflow.com/questions/68044745/api-gateway-pattern-vs-aggregator-pattern-in-the-context-of-microservices](https://stackoverflow.com/questions/68044745/api-gateway-pattern-vs-aggregator-pattern-in-the-context-of-microservices){:target="_blank"}
 
-\[4\] Aggregator on the AKF page: [https://akfpartners.com/growth-blog/microservice-aggregator-pattern](https://akfpartners.com/growth-blog/microservice-aggregator-pattern)
+\[4\] Aggregator on the AKF page: [https://akfpartners.com/growth-blog/microservice-aggregator-pattern](https://akfpartners.com/growth-blog/microservice-aggregator-pattern){:target="_blank"}
 
-\[5\] Fan-out Antipattern : [https://akfpartners.com/growth-blog/microservice-anti-pattern-service-fan-out](https://akfpartners.com/growth-blog/microservice-anti-pattern-service-fan-out)
+\[5\] Fan-out Antipattern : [https://akfpartners.com/growth-blog/microservice-anti-pattern-service-fan-out](https://akfpartners.com/growth-blog/microservice-anti-pattern-service-fan-out){:target="_blank"}
 
-\[6\] Gateway aggregation : [https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
+\[6\] Gateway aggregation : [https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation){:target="_blank"}

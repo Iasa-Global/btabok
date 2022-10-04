@@ -87,7 +87,7 @@ But for technologists the question remains.
 
 # Why is Culture Important to Architects
 
-The way a corporate culture works affects almost all aspects of an architecture practice. Is the company more risk averse or more innovation focused? Do managers support or punish failure? Are the employees motivated or just earning a paycheck? These kinds [decision](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions-2/) systems, metaphors and social dynamics impact how the architect engagement model may be implemented. Think of an environment where IT and other business units only interact through very well defined points of contact. This limits both the agility of the organization as well as the ability to understand [architectural requirements](https://btabok.iasaglobal.org/btabok_3/operating-model/requirements/), [decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions-2/) and the [value](https://btabok.iasaglobal.org/btabok_3/value-model/value-streams/) generated from delivery.
+The way a corporate culture works affects almost all aspects of an architecture practice. Is the company more risk averse or more innovation focused? Do managers support or punish failure? Are the employees motivated or just earning a paycheck? These kinds [decision](decisions.md){:target="_blank"} systems, metaphors and social dynamics impact how the architect engagement model may be implemented. Think of an environment where IT and other business units only interact through very well defined points of contact. This limits both the agility of the organization as well as the ability to understand [architectural requirements](requirements.md){:target="_blank"}, [decisions](decisions.md){:target="_blank"} and the [value](value_streams.md){:target="_blank"} generated from delivery.
 
 Remember we don’t get certainty; we get better at dealing with uncertainty.
 
@@ -95,15 +95,15 @@ Here are some elements of culture which impact directly the architect engagement
 
 | Culture Item | Description | Impact/Measures |
 | --- | --- | --- |
-| [Innovation](https://btabok.iasaglobal.org/btabok_3/operating-model/innovation/) | The desire and understanding of trying new things with the shared understanding that many, if not most, will fail. | Measured through the type of business cases which come through, the ability to [experiment](https://btabok.iasaglobal.org/btabok_3/experiments/) and the types and numbers of experiments run. |
-| Motivation | How staff is rewarded, punished, and influenced. The primary driver for positive culture is that self-motivation of employees is respected and acted upon. | Motivation is one of the direct links to architecture work. Architects tend towards self-driven motivation as a whole meaning organizations without strong support for self-motivated work can create a negative engagement model driven primarily by [governance](https://btabok.iasaglobal.org/btabok_3/operating-model/governance/) and control. |
-| Risk-Tolerance | The level of risk that is acceptable in any aspect of work in the organization. | Risk-tolerance is the primary driver for an [innovation](https://btabok.iasaglobal.org/btabok_3/operating-model/innovation/) driven engagement model versus a [governance](https://btabok.iasaglobal.org/btabok_3/operating-model/governance/) focused one. It also deeply affects the use of assessments, the [agility](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/agility/) and [velocity](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/velocity/) of an organization. |
+| [Innovation](innovate.md){:target="_blank"} | The desire and understanding of trying new things with the shared understanding that many, if not most, will fail. | Measured through the type of business cases which come through, the ability to [experiment](experiments.md){:target="_blank"} and the types and numbers of experiments run. |
+| Motivation | How staff is rewarded, punished, and influenced. The primary driver for positive culture is that self-motivation of employees is respected and acted upon. | Motivation is one of the direct links to architecture work. Architects tend towards self-driven motivation as a whole meaning organizations without strong support for self-motivated work can create a negative engagement model driven primarily by [governance](governance.md){:target="_blank"} and control. |
+| Risk-Tolerance | The level of risk that is acceptable in any aspect of work in the organization. | Risk-tolerance is the primary driver for an [innovation](innovate.md){:target="_blank"} driven engagement model versus a [governance](governance.md){:target="_blank"} focused one. It also deeply affects the use of assessments, the [agility](agility.md){:target="_blank"} and [velocity](velocity.md){:target="_blank"} of an organization. |
 | Empowerment | Describes how and where decisions are made and how they are supported. Most successful enterprises in the long term learn to empower employees to make decisions. | For architects decisions form the very core of the practice. Thus empowerment and how an organization influences and impacts its employees decisions is one of the single most important cultural elements. |
 | Fairness | The ability to see all points of view and to make clear and fair evaluations of employees and decisions. | Architects must be very careful to implement fairness and measures of fairness into the engagement model or risk being pushed out of the primary cycles of strategy and execution. |
-| Celebrating Others | The focus on others successes and the ability to broadcast those successes to others in the organization. | Architects must be sure of their own value. As a part of the deep skills in human dynamics and [stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) driven architecture the architect becomes a tool of highlighting others success and thereby becomes critical in making teams successful. |
-| Trust | The belief in the reliability, truth or ability of someone or something. | Trust is the basis of positive human (stakeholder) relationships. For architects earning trust, developing a trust based engagement model including trusting the decisions of the [extended team](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/) is a critical milestone in maturity. |
+| Celebrating Others | The focus on others successes and the ability to broadcast those successes to others in the organization. | Architects must be sure of their own value. As a part of the deep skills in human dynamics and [stakeholder](stakeholders.md){:target="_blank"} driven architecture the architect becomes a tool of highlighting others success and thereby becomes critical in making teams successful. |
+| Trust | The belief in the reliability, truth or ability of someone or something. | Trust is the basis of positive human (stakeholder) relationships. For architects earning trust, developing a trust based engagement model including trusting the decisions of the [extended team](extended_team.md){:target="_blank"} is a critical milestone in maturity. |
 | Empathy | The ability to understand and share the feelings of others. | The stakeholder driven architecture approach puts empathy ahead of many other aspects of design and delivery. It allows the architect to understand the customers journey, the stakeholders outcomes and the essential human forces which shape a solution. |
-| [Safety](https://itabok.iasaglobal.org/itabok3_0/Safety-Liability) | The condition of being protected from risk, danger or injury. | The culture of an organization can be inherently risky (like a startup) and yet feel safer than a large corporation (where layoffs may be common). The architect team both needs to create safety for its stakeholders and [extended team](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/) as well as needs safety to experiment, innovate and deliver business technology [strategy](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/strategy/). |
+| [Safety](safety_liability.md){:target="_blank"} | The condition of being protected from risk, danger or injury. | The culture of an organization can be inherently risky (like a startup) and yet feel safer than a large corporation (where layoffs may be common). The architect team both needs to create safety for its stakeholders and [extended team](extended_team.md){:target="_blank"} as well as needs safety to experiment, innovate and deliver business technology [strategy](strategy.md){:target="_blank"}. |
 
 ## Tenets
 
@@ -115,7 +115,7 @@ One of the first steps of the architecture practice is developing its stakeholde
 
 ### Be a Pessimistic/Optimist or the Other Way Around
 
-Both pessimism and optimism are necessary in a mature practice. Driving [innovation](https://btabok.iasaglobal.org/btabok_3/operating-model/innovation/) without careful thought or [decision](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions-2/) methodologies can create unnecessary [risk](https://btabok.iasaglobal.org/btabok_3/risk-methods/) and possibly issues with [safety](https://btabok.iasaglobal.org/btabok_3/safety-liability/). Thus we say the architects in the practice can be pessimistic/optimists or optimistic/pessimists but not the same in both categories. This practice will force both a drive towards innovation as well as the realism and numbers necessary to increase stakeholder satisfaction and benefits realization.
+Both pessimism and optimism are necessary in a mature practice. Driving [innovation](innovate.md){:target="_blank"} without careful thought or [decision](decisions.md){:target="_blank"} methodologies can create unnecessary [risk](risk_methods.md){:target="_blank"} and possibly issues with [safety](safety_liability.md){:target="_blank"}. Thus we say the architects in the practice can be pessimistic/optimists or optimistic/pessimists but not the same in both categories. This practice will force both a drive towards innovation as well as the realism and numbers necessary to increase stakeholder satisfaction and benefits realization.
 
 ### Empathy Trumps Design Daily
 
@@ -123,7 +123,7 @@ Learning to understand customers, stakeholders, partners and people is a real is
 
 ### Different But Equal
 
-Previous decades were filled with stories of ‘the ivory tower architects’ or ‘top-down architecture’ or ‘architects over engineers’. The architecture practice must establish that the focus for architecture is on something different from engineering, management, product owners, and other roles and that it is not an ego driven activity. This different but equal approach is what creates healthy tension in how the architect [organization](https://btabok.iasaglobal.org/btabok_3/people-model/organization/) is assigned and how it interacts with other [roles](https://btabok.iasaglobal.org/btabok_3/people-model/roles-2/).
+Previous decades were filled with stories of ‘the ivory tower architects’ or ‘top-down architecture’ or ‘architects over engineers’. The architecture practice must establish that the focus for architecture is on something different from engineering, management, product owners, and other roles and that it is not an ego driven activity. This different but equal approach is what creates healthy tension in how the architect [organization](organization.md){:target="_blank"} is assigned and how it interacts with other [roles](roles.md){:target="_blank"}.
 
 ### Owners Are Burnt Not Born
 
@@ -136,11 +136,11 @@ SATIR Change Model
 
 ## How should culture impact solutions?
 
-Metaphors help decode culture include people, relationships, the politics, beliefs, assumptions, shared meaning, and other aspects enabling us to work more effectively with the organization and the people within it. These will impact the [Scope and Context](https://btabok.iasaglobal.org/btabok_3/scope-and-context/) of architecture engagement as well as potential [Coverage](https://btabok.iasaglobal.org/btabok_3/value-model/coverage/). They may give a sense of what kind of technologies may work or not and the principles which should apply to the organization, the teams, the delivery methods, decisions and [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/) of the engagement model. They define an organizations adaptive style which in turn affects [strategy](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/strategy/) and solution [structure](https://btabok.iasaglobal.org/btabok_3/structural-complexity/).
+Metaphors help decode culture include people, relationships, the politics, beliefs, assumptions, shared meaning, and other aspects enabling us to work more effectively with the organization and the people within it. These will impact the [Scope and Context](scope_context.md){:target="_blank"} of architecture engagement as well as potential [Coverage](coverage.md){:target="_blank"}. They may give a sense of what kind of technologies may work or not and the principles which should apply to the organization, the teams, the delivery methods, decisions and [lifecycle](architecture_lifecycle.md){:target="_blank"} of the engagement model. They define an organizations adaptive style which in turn affects [strategy](strategy.md){:target="_blank"} and solution [structure](structural_complexity.md){:target="_blank"}.
 
 ![image001](media/culture004.png)
 
-There are five different archetypes of culture that organizations are supposed to fit in to a greater or lesser degree. No organization fits entirely into one archetype. But one will be dominant. The archetype, according to the psychologists, is defined by the organization’s leader/key leader’s mindset. An archetype is neither good nor bad. It is more a question of balance and fit. It is only when there is an excessive use of one archetype that the organization tends to become dysfunctional. Further it is not necessary all the characteristics of a specific archetype have to exist. Consider the characteristics of the different archetypes in the diagram. Notice the points in bold. They suggest the advantages of each archetype. How would an architect [design](https://btabok.iasaglobal.org/btabok_3/operating-model/design/) and build technology solutions per archetype?
+There are five different archetypes of culture that organizations are supposed to fit in to a greater or lesser degree. No organization fits entirely into one archetype. But one will be dominant. The archetype, according to the psychologists, is defined by the organization’s leader/key leader’s mindset. An archetype is neither good nor bad. It is more a question of balance and fit. It is only when there is an excessive use of one archetype that the organization tends to become dysfunctional. Further it is not necessary all the characteristics of a specific archetype have to exist. Consider the characteristics of the different archetypes in the diagram. Notice the points in bold. They suggest the advantages of each archetype. How would an architect [design](design.md){:target="_blank"} and build technology solutions per archetype?
 
 For the Dramatic organization I would think of a free-flowing knowledge solution where connections in the information to be made were left to the users or systems that enabled innovation and helped employees transform their ideas into opportunities could be another possible area.
 
@@ -184,7 +184,7 @@ Go to the standups of teams. Join design sessions. Even if the architect knows t
 
 ## All Architects Still See Patients
 
-This is an axiom/tenet from medicine. It means that every architect is delivering something just like the chief of medicine still sees patients. It is pretty hard to question the value of an entire architecture practice that is delivering on the most important vision/mission/value of the organization. Look specifically at [assignment methods](https://btabok.iasaglobal.org/btabok_3/assignment/) in the engagement model.
+This is an axiom/tenet from medicine. It means that every architect is delivering something just like the chief of medicine still sees patients. It is pretty hard to question the value of an entire architecture practice that is delivering on the most important vision/mission/value of the organization. Look specifically at [assignment methods](assignment.md){:target="_blank"} in the engagement model.
 
 ## Never Have Lunch in the Same Place Twice
 
@@ -192,7 +192,7 @@ Architects can become very insular or very busy. This limits contact with other 
 
 ## Ask to be Mentored/Taught
 
-People love to talk about what they know. Architects often say they are not invited to meetings with ‘the business’ or about [strategy](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/strategy/). Instead of trying to get formally invited, have the members of the architecture practice ask a stakeholder in marketing to teach them personally. Do it with sales. Do it with operations. Do it with finance. Soon the team will have a huge [stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) community who knows that the architecture practice ‘understands them’. Doing this over and over again will give the team large numbers of ideas for business cases as well as much stronger cultural integration across the company.
+People love to talk about what they know. Architects often say they are not invited to meetings with ‘the business’ or about [strategy](strategy.md){:target="_blank"}. Instead of trying to get formally invited, have the members of the architecture practice ask a stakeholder in marketing to teach them personally. Do it with sales. Do it with operations. Do it with finance. Soon the team will have a huge [stakeholder](stakeholders.md){:target="_blank"} community who knows that the architecture practice ‘understands them’. Doing this over and over again will give the team large numbers of ideas for business cases as well as much stronger cultural integration across the company.
 
 ## Make Someone Else Successful
 
@@ -210,29 +210,29 @@ Architects are often worried about the perception of their value. And there is a
 
 **Morgan, G., n.d. Images of Organization. 2nd ed. s.l.:CA: SAGE.**
 
-[https://www.thealternativeboard.com/blog/culture-eats-strategy](https://www.thealternativeboard.com/blog/culture-eats-strategy)
+[https://www.thealternativeboard.com/blog/culture-eats-strategy](https://www.thealternativeboard.com/blog/culture-eats-strategy){:target="_blank"}
 
-[https://www.linkedin.com/pulse/enterprise-architecture-culture-erik-van-der-voorden/](https://www.linkedin.com/pulse/enterprise-architecture-culture-erik-van-der-voorden/)
+[https://www.linkedin.com/pulse/enterprise-architecture-culture-erik-van-der-voorden/](https://www.linkedin.com/pulse/enterprise-architecture-culture-erik-van-der-voorden/){:target="_blank"}
 
-[https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture)
+[https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture](https://hbr.org/2018/01/the-leaders-guide-to-corporate-culture){:target="_blank"}
 
-[https://www.greatplacetowork.com/resources/blog/6-elements-of-great-company-culture](https://www.greatplacetowork.com/resources/blog/6-elements-of-great-company-culture)
+[https://www.greatplacetowork.com/resources/blog/6-elements-of-great-company-culture](https://www.greatplacetowork.com/resources/blog/6-elements-of-great-company-culture){:target="_blank"}
 
 **Netflix Culture**
 
-[https://www.slideshare.net/BarbaraGill3/netflix-culture-deck](https://www.slideshare.net/BarbaraGill3/netflix-culture-deck)
+[https://www.slideshare.net/BarbaraGill3/netflix-culture-deck](https://www.slideshare.net/BarbaraGill3/netflix-culture-deck){:target="_blank"}
 
 **Edgar Schein Book(s)**
 
-[https://www.amazon.com/kindle-dbs/entity/author/B000APSBI8/ref=dp\_byline\_cont\_book\_1](https://www.amazon.com/kindle-dbs/entity/author/B000APSBI8/ref=dp_byline_cont_book_1)
+[https://www.amazon.com/kindle-dbs/entity/author/B000APSBI8/ref=dp\_byline\_cont\_book\_1](https://www.amazon.com/kindle-dbs/entity/author/B000APSBI8/ref=dp_byline_cont_book_1){:target="_blank"}
 
 **Gamestorming**
 
-[http://gamestorming.com/mapping-organizational-culture/](http://gamestorming.com/mapping-organizational-culture/)
+[http://gamestorming.com/mapping-organizational-culture/](http://gamestorming.com/mapping-organizational-culture/){:target="_blank"}
 
 **Strategyser**
 
-[https://blog.strategyzer.com/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture](https://blog.strategyzer.com/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture) 
+[https://blog.strategyzer.com/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture](https://blog.strategyzer.com/posts/2015/10/13/the-culture-map-a-systematic-intentional-tool-for-designing-great-company-culture){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

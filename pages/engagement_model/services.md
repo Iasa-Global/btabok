@@ -18,7 +18,7 @@ Version 2.0**
 
 In the IT sector the term "service" is widely used in a number of
 contexts. In the context of this article, services are a way of
-realising a of realizing a [capability](.\business_capabilites.md). This is to say that
+realising a of realizing a [capability](business_capabilities.md){:target="_blank"}. This is to say that
 a capability will deliver value though providing services.
 
 The Open Group provides a description of the characteristics of service
@@ -153,7 +153,7 @@ fragmentation.
 
 # Delivering Services
 
-Services have a strong relationship with the [capabilities](.\business_capabilities.md).
+Services have a strong relationship with the [capabilities](business_capabilities.md){:target="_blank"}.
 While the capabilities describe **what** a business does or needs to do,
 the service provides a way of realizing capabilities and delivering them
 to consumers.
@@ -502,13 +502,10 @@ service.
 **Service Oriented Architecture Standards** -- The Open Group
 
 **Gartner's TIME model**
-
-<https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod>
+[Gartner's TIME model](https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod){:target="_blank"}
 
 **What is Service-Oriented Architecture**
-
-<https://www.infoworld.com/article/2071889/what-is-service-oriented-architecture.html>
+[What is Service-Oriented Architecture](https://www.infoworld.com/article/2071889/what-is-service-oriented-architecture.html){:target="_blank"}
 
 **Service-Oriented Architecture**
-
-<https://www.geeksforgeeks.org/service-oriented-architecture/>
+[Service-Oriented Architecture](https://www.geeksforgeeks.org/service-oriented-architecture/){:target="_blank"}

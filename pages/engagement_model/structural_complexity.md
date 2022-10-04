@@ -11,7 +11,7 @@ summary: ""
 "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it."
 
 Alan Perlis
-
+ 
 Complexity definition
 =====================
 
@@ -90,9 +90,9 @@ Apply FMEA: (*Chris Cooper Bland to add)*
 
 Undertake desk-based stress testing. Find out what are the key stressors that could affect your design, as well as interviews with stakeholders, think of non-obvious stressors that could impact the system, Pandemic, earthquakes, regulation change, loss of key resource.
 
-Stressors are NOT [risks](https://btabok.iasaglobal.org/btabok_3/risk-methods/) and we do not measure the probability of the stressor happening, we assume it will happen and ask "How would the system behave under the conditions of this stressor" -- adjust design accordingly.
+Stressors are NOT [risks](risk_methods.md){:target="_blank"} and we do not measure the probability of the stressor happening, we assume it will happen and ask "How would the system behave under the conditions of this stressor" -- adjust design accordingly.
 
-Apply context to your [design](https://btabok.iasaglobal.org/btabok_3/operating-model/design/). Think about how impactful particular stressor could be should they occur. For example, a global communications system would be very important in a disaster scenario such as a meteor impact, however this stressor would be less impactful to the ordering system for a local Pizza shop.
+Apply context to your [design](design.md){:target="_blank"}. Think about how impactful particular stressor could be should they occur. For example, a global communications system would be very important in a disaster scenario such as a meteor impact, however this stressor would be less impactful to the ordering system for a local Pizza shop.
 
 Summary
 -------

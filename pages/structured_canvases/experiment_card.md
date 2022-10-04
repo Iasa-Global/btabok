@@ -12,7 +12,7 @@ The experiment card provides a method for structuring an individual experiment. 
 
 ![image001](media/experiment_card001.svg)
 
-[Download PPT](media/ppt/experiment_card.ppt)
+[Download PPT](media/ppt/experiment_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

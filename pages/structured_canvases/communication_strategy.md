@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/communication_strategy001.svg)
 
-[Download PPT](media/ppt/communication_strategy.ppt)
+[Download PPT](media/ppt/communication_strategy.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

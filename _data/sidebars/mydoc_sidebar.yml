@@ -9,12 +9,8 @@ entries:
 # Getting Started
 
   - title: Getting Started
-    output: web, pdf
-    folderitems:
-
-    - title: Overview
-      url: /get_started_m.html
-      output: web, pdf
+    url: https://btabok.iasaglobal.org/
+    output: web
 
 # Engagement Model
 
@@ -283,10 +279,34 @@ entries:
           url: architecture_practice.html
           output: web
 
-      - title: Architecture Practice
-        output: web
-        subfolderitems:
+  - title: Competency Model
+    output: web
+    folderitems:
 
-        - title: Overview
-          url: architecture_practice.html
-          output: web
+    - title: Overview
+      url: competency_model_m.html
+      output: web
+
+  - title: Maturity Model
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: maturity_model_m.html
+      output: web
+
+  - title: Topic Areas
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: topic_areas_m.html
+      output: web
+
+  - title: Structed Canvases
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: structured_canvases_m.html
+      output: web

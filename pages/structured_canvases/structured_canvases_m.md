@@ -30,7 +30,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Business</h4>
-                     <a href="business.html" class="btn btn-primary">Learn More</a>
+                     <a href="business_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -58,7 +58,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Chief</h4>
-                     <a href="chief.html" class="btn btn-primary">Learn More</a>
+                     <a href="chief_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -75,7 +75,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Core</h4>
-                     <a href="core.html" class="btn btn-primary">Learn More</a>
+                     <a href="core_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -89,7 +89,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Engagement Model</h4>
-                     <a href="engagement_model.html" class="btn btn-primary">Learn More</a>
+                     <a href="engagement_model_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -103,7 +103,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Information</h4>
-                     <a href="information.html" class="btn btn-primary">Learn More</a>
+                     <a href="information_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -120,7 +120,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Infrastructure</h4>
-                     <a href="infrastructure.html" class="btn btn-primary">Learn More</a>
+                     <a href="infrastructure_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -134,7 +134,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Software</h4>
-                     <a href="software.html" class="btn btn-primary">Learn More</a>
+                     <a href="software_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -148,7 +148,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Solution</h4>
-                     <a href="solution.html" class="btn btn-primary">Learn More</a>
+                     <a href="solution_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>

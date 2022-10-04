@@ -72,7 +72,7 @@ This is the first step in being actively involved in the investment process is t
 
 There are many simple questions that lead to identifying techniques employed by the organization
 
--   "Who is the sponsor for this project?" -- If you are project or product focused you can often find out who the sponsor was and more. Utilize [stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) management techniques to find out more.
+-   "Who is the sponsor for this project?" -- If you are project or product focused you can often find out who the sponsor was and more. Utilize [stakeholder](stakeholders.md){:target="_blank"} management techniques to find out more.
 -   "How is the project funded?" -- this will often lead you to the budget information about a project. That information can be used to find the owners of the budget line item or the funding source.
 -   "Is it possible for me to understand and learn the funding method for our projects?" -- often sponsors and funding methods are readily available and stakeholders are eager to talk about the value they are creating.
 -   "What other projects were considered when this project was funded?" -- this leads to information on the types of techniques used in comparing projects for investment.
@@ -100,7 +100,7 @@ In either case each initiative comes with a set of other tools and techniques wh
 
 As a team begin practicing creation of simple NABCs and discuss the initiatives in comparison with each other. Is technology truly shaping this business case? Could it be? How many areas of impact will it have? What is its strategic importance?
 
-### Use [roadmapping](https://btabok.iasaglobal.org/btabok_3/operating-model/roadmap/) to understand initiatives relationships to each other and architecture goals
+### Use [roadmapping](roadmap.md){:target="_blank"} to understand initiatives relationships to each other and architecture goals
 
 The business cases will describe initiative timelines and their budgets and some general shaping descriptions. Use the roadmapping tools to derive relationships between the projects and their technology and business benefits. Also using the assignment methods tools the architect team can generate priority statements about the implementation of these initiatives. These activities can be timeboxed to ensure that the team is able to handle their regular workloads while getting more actively involved.
 
@@ -110,11 +110,11 @@ Principle: All architects should be involved in understanding initiatives in gro
 
 The initiation of the activity will be the most difficult part as the team develops relationships with key stakeholders and demonstrates possible scenarios and advice which could derive value for them and the programs.
 
-Start by sharing interesting results related to business case evaluation and opportunities. Watch for negativity in this space as stakeholders are often heavily invested in the outcomes of their projects. Look for big simple wins which attract the attention of powerful stakeholders but also are clear and easy to understand opportunities that may have been over looked. For example, shared components or services in the roadmap can reduce the scope of an initiative. Things like better security, more features, better products or services on the market that do not disrupt timelines or existing relationships too much can be appreciated. In addition, often during this process the team will identify additional business cases and [experiments](https://btabok.iasaglobal.org/btabok_3/experiments/) which might generate value for the [stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) or initiative and these can be created and shared.
+Start by sharing interesting results related to business case evaluation and opportunities. Watch for negativity in this space as stakeholders are often heavily invested in the outcomes of their projects. Look for big simple wins which attract the attention of powerful stakeholders but also are clear and easy to understand opportunities that may have been over looked. For example, shared components or services in the roadmap can reduce the scope of an initiative. Things like better security, more features, better products or services on the market that do not disrupt timelines or existing relationships too much can be appreciated. In addition, often during this process the team will identify additional business cases and [experiments](experiments.md){:target="_blank"} which might generate value for the [stakeholder](stakeholders.md){:target="_blank"} or initiative and these can be created and shared.
 
 ### Begin developing a standard approach to architect involvement
 
-Often business architects form the tip of the spear in more advanced architecture practices where they work heavily with business stakeholders where they help formulate business cases based off of larger business architecture areas. Look for ways the entire architecture team related to a [value stream](https://btabok.iasaglobal.org/btabok_3/value-model/value-streams/) or [capability](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/) can participate in this process and for solid hand off methods between business, solution and specialist architects. This will not only create a strong architecture community, it will scale the architecture practice horizontally to better cover entire business areas. Again be careful not to push to fast or too broad until you have generated the value and stakeholder support to do so.
+Often business architects form the tip of the spear in more advanced architecture practices where they work heavily with business stakeholders where they help formulate business cases based off of larger business architecture areas. Look for ways the entire architecture team related to a [value stream](value_streams.md){:target="_blank"} or [capability](business_capabilities.md){:target="_blank"} can participate in this process and for solid hand off methods between business, solution and specialist architects. This will not only create a strong architecture community, it will scale the architecture practice horizontally to better cover entire business areas. Again be careful not to push to fast or too broad until you have generated the value and stakeholder support to do so.
 
 ![image001](media/i_p003.png)
 
@@ -125,7 +125,7 @@ The BTABoK contains many tools for developing the architecture standard practice
 Applying investment planning techniques in practice
 ===================================================
 
-Baseline involvement in the investment cycle gives the architecture team a great deal of visibility and influence over technology strategy and the opportunity to create truly robust digital ecosystems both internal to the organization as well as with partners, suppliers, synergistic businesses (which participate in the [customers ecosystem](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/ecosystem/)), and in some cases even competitors. Advanced capabilities in practice will allow the team to truly create a horizontal mindset aligned to value streams and delivery of value.
+Baseline involvement in the investment cycle gives the architecture team a great deal of visibility and influence over technology strategy and the opportunity to create truly robust digital ecosystems both internal to the organization as well as with partners, suppliers, synergistic businesses (which participate in the [customers ecosystem](ecosystem.md){:target="_blank"}, and in some cases even competitors. Advanced capabilities in practice will allow the team to truly create a horizontal mindset aligned to value streams and delivery of value.
 
 Principle: Creating a horizontal mindset in architecture removes the top down ivory tower approach.
 
@@ -139,7 +139,7 @@ Using business architecture tools related to digital business models, mission mo
 Scope of investment or value creation should power assignment
 -------------------------------------------------------------
 
-Architects are generally a very scarce resource in an organization. Many teams comprise less than 1% of the total IT footprint (size of staff plus consultants and vendors). This means that architect teams must be careful with their time. When value and effort are properly aligned in the investment value stream architects will spend little or no time on low value activities and leave that work to traditional technical and business staff. The following chart shows how proper investment planning can impact architecture work. For more information review the [Assignment article.](https://btabok.iasaglobal.org/btabok_3/assignment/)
+Architects are generally a very scarce resource in an organization. Many teams comprise less than 1% of the total IT footprint (size of staff plus consultants and vendors). This means that architect teams must be careful with their time. When value and effort are properly aligned in the investment value stream architects will spend little or no time on low value activities and leave that work to traditional technical and business staff. The following chart shows how proper investment planning can impact architecture work. For more information review the [Assignment article.](assignment.md){:target="_blank"}
 
 ![image001](media/i_p005.png)
 
@@ -163,8 +163,8 @@ The modern digital landscape and business has learned to constantly evolve. This
 References and further reading
 ==============================
 
-**TOGAF ADM\
-**<https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap03.html>
+**TOGAF ADM**
+[TOGAF ADM](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap03.html){:target="_blank"}
 
 **The Real Business of IT, Richard Hunter, George Westerman, HBR Press**
 

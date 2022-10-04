@@ -140,10 +140,10 @@ planning projects or work packages.
 
 Business Objectives are often focused on direct value. That is to say,
 these Objectives are defined for clear and specific business gains. The
-[business cases](.\businesscase.md) in the organization express a value gain,
+[business cases]businesscase.md){:target="_blank"} in the organization express a value gain,
 often linked to the core business purpose, or the consumer of the
 business services and products (Customer). Business Objectives are often
-related to or support the execution of a [business case](.\businesscase.md).
+related to or support the execution of a [business case]businesscase.md){:target="_blank"}.
 Typical business Objectives focus on business outcomes, such as
 profitability, market share or cost optimization. For example:
 
@@ -182,7 +182,7 @@ the business practices architecture. The Architecture Practice works
 with the process of developing architecture in an effective way, in
 order to facilitate the Objectives of the business. This may involve
 maintaining architecture standards, defining working processes and
-developing the architecture [lifecycle](.\lifecycle.md). As opposed to
+developing the architecture [lifecycle]lifecycle.md){:target="_blank"}. As opposed to
 business Objectives, the Objectives for the architecture practice often
 work with indirect value. That is to say, that the business value of the
 architecture practice Objectives may not be immediately apparent, but
@@ -226,7 +226,7 @@ Strategic Objectives are often set at the executive level within an
 organization and focus on long-term objectives. They are often set in a
 time frame of at least one year, and often more. These Objectives are
 created and measured from the executive perspective and based upon the
-[strategy](.\strategy.md) of the organization.
+[strategy]strategy.md){:target="_blank"} of the organization.
 
 A common technique for taking the strategy of the organization through
 to an executable plan is to use a balanced scorecard. This method relies
@@ -337,7 +337,7 @@ At each review the value that was achieved since the last review and any
 lessons learned should be noted. This can be noted under the Value and
 Learning section of the card, and provides a practical record of gains.
 These experiences can be used for other means, such as improving the
-architecture [lifecycle](.\lifecycle.md).
+architecture [lifecycle]lifecycle.md){:target="_blank"}.
 
 The OKR card may be versioned by date, so previous cards can be
 referenced to assess the journey from the initial planning of the
@@ -368,16 +368,15 @@ This method is described in the "Two Speed Execution" approach as
 detailed by Paul Niven.
 
 # References and further reading
-
 Doran, G. T. (1981). **"There\'s a S.M.A.R.T. Way to Write Management's
 Objectives and Objectives"**, Management Review, Vol. 70, Issue 11, pp.
 35-36.
 
 **"What is an OKR? Definition and Examples"**
-<https://www.whatmatters.com/faqs/okr-meaning-definition-example/>
+[What is an OKR?](https://www.whatmatters.com/faqs/okr-meaning-definition-example/){:target="_blank"}
 
-**"Using Two Speed Execution (2SE) to Capture the Value You've Been
-Missing"**, Paul R. Niven
+**"Using Two Speed Execution (2SE) to Capture the Value You've Been Missing"**, 
+Paul R. Niven
 
 ![image001](media/by-nc.png)
 

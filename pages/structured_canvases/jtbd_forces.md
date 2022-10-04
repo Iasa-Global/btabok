@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/jtbd_forces001.svg)
 
-[Download PPT](media/ppt/jtbd_forces.ppt)
+[Download PPT](media/ppt/jtbd_forces.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -390,3 +390,7 @@ stream.
 ***Ref\[1\]** Bass, Len; Weber, Ingo; Zhu, Liming (2015). DevOps: A
 Software Architect's Perspective.
 [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier))[978-0134049847](https://en.wikipedia.org/wiki/Special:BookSources/978-0134049847).*
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

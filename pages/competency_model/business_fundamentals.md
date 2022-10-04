@@ -26,7 +26,7 @@ Imagine visting a doctor for a medical check-up. What are the signs of health an
 
 **Micro & Macroeconomics:** Microeconomics studies the behaviour of individuals and small impacting organizations in making decisions on the allocation of limited resources. It applies to markets where good or services are bought and sold. Macroeconomics, on the other hand, involves the sum total of economic activity and deals with issues such as growth, inflation and unemployment.
 
-**Organizational Design** has been [defined in Wikipedia](https://en.wikipedia.org/wiki/Organizational_architecture), as the process of reshaping organization structure and roles, or it can more effectively be defined as the alignment of structure, process, rewards, metrics and talent with the strategy of the business.
+**Organizational Design** has been [defined in Wikipedia](https://en.wikipedia.org/wiki/Organizational_architecture){:target="_blank"}, as the process of reshaping organization structure and roles, or it can more effectively be defined as the alignment of structure, process, rewards, metrics and talent with the strategy of the business.
 
 ![Galbraith Star Model](media/business_fundamentals001.png)
 

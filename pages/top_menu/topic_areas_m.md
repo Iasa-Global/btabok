@@ -8,7 +8,7 @@ folder: top_menu
 summary: ""
 ---
 
-This section of the ITaBOK will examine two primary elements of architecture skills and capabilities:
+This section of the BTABoK will examine two primary elements of architecture skills and capabilities:
 
 *   Depth focus areas which can be trained independent of Iasa specialization. These areas are those that are deep enough to offer independent training and certifications such as integration and security but are not fully a part of a single specialization such as software or infrastructure.
 *   Emerging topic areas in business and technology which are not yet fully developed for the main ITaBOK or are purely technically driven but which show enough maturity that we believe practicing architects should be acquiring and improving their skills in these areas.

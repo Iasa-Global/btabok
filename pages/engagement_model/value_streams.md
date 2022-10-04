@@ -11,7 +11,7 @@ summary: ""
 Definition
 ==========
 
-Value Streams represent  how and organisation configures it's [business capabilities](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/) to deliver value to an internal or external [stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) typically a customer. The value streams explains how the core value proposition or elements of that value proposition are enabled by the organisations business capabilities. Within more complex Value Chains or within [Ecosystems](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/ecosystem/) this will include Business Capabilities performed by partners or other Ecosystem participants.
+Value Streams represent  how and organisation configures it's [business capabilities](business_capabilities.md){:target="_blank"} to deliver value to an internal or external [stakeholder](stakeholders.md){:target="_blank"} typically a customer. The value streams explains how the core value proposition or elements of that value proposition are enabled by the organisations business capabilities. Within more complex Value Chains or within [Ecosystems](ecosystem.md){:target="_blank"} this will include Business Capabilities performed by partners or other Ecosystem participants.
 
 Value streams respond to events or signals that trigger or indicate that a stakeholder wants, needs or desires the outcome 'the value' from that value stream. Value Streams include the signal/event, stakeholders (value recipients), stakeholders (enabling participants), value proposition elements
 
@@ -64,7 +64,7 @@ Step 1 in any Value Stream activity is finding the value streams. A number of st
 
 -   Option 4: Financial -- find and follow the money
 -   Option 5: Operational -- find and follow the activity
--   Option 6: [Governance](https://btabok.iasaglobal.org/btabok_3/operating-model/governance/) -- find and follow the outcomes (rules, policies, principles)
+-   Option 6: [Governance](governance.md){:target="_blank"} -- find and follow the outcomes (rules, policies, principles)
 
 Capability Value Stream Mapping
 -------------------------------
@@ -241,14 +241,14 @@ References
 **Service Orientation -- Thomas Erl\
 **<http://serviceorientation.com>
 
-**SOA Manifesto\
-**[SOA Manifesto Announcement](https://www.youtube.com/watch?v=TCg16oTZSV0)/ <http://www.soa-manifesto.org/>
+**SOA Manifesto**
+[SOA Manifesto Announcement](https://www.youtube.com/watch?v=TCg16oTZSV0)/ <http://www.soa-manifesto.org/>
 
-**Service Choreography\
-**<https://en.wikipedia.org/wiki/Service_choreography>
+**Service Choreography**
+<https://en.wikipedia.org/wiki/Service_choreography>
 
-**Identifying Value Streams\
-**<http://www.scaledagileframework.com/identify-value-streams-and-arts/>
+**Identifying Value Streams**
+<http://www.scaledagileframework.com/identify-value-streams-and-arts/>
 
 ![image001](media/by-nc.png)
 

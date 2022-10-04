@@ -12,7 +12,7 @@ The stakeholder initiatives canvas is useful in determining prioritization of pr
 
 ![image001](media/stakeholder_initiative_canvas001.svg)
 
-[Download PPT](media/ppt/stakeholder_initiative_canvas.ppt)
+[Download PPT](media/ppt/stakeholder_initiative_canvas.ppt){:target="_blank"}
 
 
 | Area | Description | Links To |

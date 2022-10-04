@@ -19,7 +19,7 @@ For example:
 
 ![image001](media/strategic_roadmap_canvas001.svg)
 
-[Download PPT](media/ppt/strategic_roadmap_canvas.ppt)
+[Download PPT](media/ppt/strategic_roadmap_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -57,7 +57,7 @@ end-product but also to the process by which the product is developed.
 This also applies to the process by which we ensure quality in the
 architecture. This is particularly important in industries that have to
 comply with strong regulatory requirements and [governance]{.underline}.
-Quality assurance supports [governance](./governance.md) ensuring that
+Quality assurance supports [governance](governance.md){:target="_blank"} ensuring that
 standards and regulations are followed.
 
 # Quality Assurance Approach
@@ -209,7 +209,7 @@ assessment. This can be a useful technique to counter any architecture
 bias within an organization, and raise questions that the internal
 organization simply has not considered. An external review, if performed
 by persons external to the organization, can also approach politically
-sensitive or [cultural](.\culture.md) issues which are perhaps difficult
+sensitive or [cultural](culture.md){:target="_blank"} issues which are perhaps difficult
 to address by the internal organization. External reviews are often not
 as frequent as peer reviews, they are used at the beginning of a large
 assignment to validate the direction of an architecture, or close to
@@ -293,7 +293,7 @@ USA).
 
 Even after the launch of a product or service, it is important to
 measure the effect of the architectural change. Expected outcomes are
-often detailed in [objectives](.\objectives.md), these can be measured to
+often detailed in [objectives](objectives.md){:target="_blank"}, these can be measured to
 assess if the architecture is performing as expected. Rather than just
 validating the architecture against requirements, this validates that
 the architecture is delivering value.
@@ -301,13 +301,13 @@ the architecture is delivering value.
 # References and Further Reading
 
 **Validation and Verification**
-<https://www.geeksforgeeks.org/software-engineering-verification-and-validation/?ref=gcse>
+[Validation and Verification](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/?ref=gcse){:target="_blank"}
 
 **UML**
-<https://www.uml.org/>
+[UML](https://www.uml.org/){:target="_blank"}
 
 **Archimate**
-<https://pubs.opengroup.org/architecture/archimate3-doc/>
+[Archimate](https://pubs.opengroup.org/architecture/archimate3-doc/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

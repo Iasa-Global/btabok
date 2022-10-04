@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: repository.html
 folder: engagement_model
-summary: " "
+summary: "A repository will likely be seen a documentation tool. However true this may be from a technology perspective, the purpose of the repository is to provide two fundamental elements to the architecture team."
 ---
 
 "I had found my religion: nothing seemed more important to me than a book. I saw the library as a temple."
@@ -36,11 +36,11 @@ A repository will likely be seen a documentation tool. However true this may be 
 
 The first engagement principle says the repository is first for architects. That means the architecture practice needs to be able to achieve its goals first and the repository should contain only what is necessary to do so and only what architects have agreed to keep 'ever green' (the concept of ever green means the deliverables which should at best be always up to date).
 
-The difficulty of architecture repositories is that architects often have a difficult time distinguishing between deliverables to [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/) and critical elements of architecture which need to be up to date and easily identifiable to other architects.
+The difficulty of architecture repositories is that architects often have a difficult time distinguishing between deliverables to [stakeholders](stakeholders.md){:target="_blank"} and critical elements of architecture which need to be up to date and easily identifiable to other architects.
 
-As a part of the [Engagement Model](https://btabok.iasaglobal.org/btabok_3/engagement-model-2/) development process the team should identify the elements of the architecture which must be kept up to date and stored and which elements may be stored in the standard enterprise content management system or as a part of another process.
+As a part of the [Engagement Model](engagement.md){:target="_blank"} development process the team should identify the elements of the architecture which must be kept up to date and stored and which elements may be stored in the standard enterprise content management system or as a part of another process.
 
-Most architecture teams will need very little documentation to describe an architecture within the team. This should be factored in to [decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions/) about what is needed for the team vs what is desired for the entire enterprise.
+Most architecture teams will need very little documentation to describe an architecture within the team. This should be factored in to [decisions](decisions.md){:target="_blank"} about what is needed for the team vs what is desired for the entire enterprise.
 
 For example, many organizations use capability models to describe their enterprise and in many of those environments the architecture team is responsible for introducing the model as well as maintaining it. These models are extremely useful to both stakeholder as well as architecture decisions. However, commonly the architecture team needs a very minimal version of the capability model whereas the enterprise requires a much more robust and well maintained version. In this scenario the team would design a capability model for its use first. Then introduce the model to the enterprise. If other stakeholders found value in this model, they should be willing and able to maintain it, otherwise the team should switch back to the original easy to maintain version useful to the architects.
 
@@ -69,8 +69,8 @@ The table emphasizes the primary elements stored in a repository and how they re
 | --- | --- | --- | --- |
 | Decision Registries | Low | High | The decision registry should be one of the first and best maintained elements of the repository |
 | Models and Meta-Models | High | Medium | There are thousands to tens of thousands of models in use in the enterprise and they require significant maintenance. Be very careful which ones are stored in the repository. Prune unused elements regularly. |
-| [Value Methods](https://itabok.iasaglobal.org/itabok3_0/Value-Methods) | Medium | High | Value or Benefits Realization elements form the baseline for value reporting and understanding delivered value through the enterprise. |
-| Principles and Standards | Low | Medium | [Principles](https://btabok.iasaglobal.org/btabok_3/principles/) including ethical, engagement and delivery principles help inform delivery. These principles may apply to different scopes and contexts. |
+| [Value Methods](value_methods.md){:target="_blank"} | Medium | High | Value or Benefits Realization elements form the baseline for value reporting and understanding delivered value through the enterprise. |
+| Principles and Standards | Low | Medium | [Principles](principles.md){:target="_blank"} including ethical, engagement and delivery principles help inform delivery. These principles may apply to different scopes and contexts. |
 | Capability and Service Models | Medium | High | Capability and service models are extremely common in the modern company and form the basis for many organizational dependencies. Services models are the technical instantiation of the capabilities and are harder to model and manage over time. |
 | Business Deliverables | Low | High | Business deliverables such as business model canvas and business strategies are used to help shape decisions within technology strategy. |
 | Transformation Deliverables | Very High | High | Transformation deliverables include project and product deliverables such as solution architectures and infrastructure architectures, they are extremely valuable if the right artifacts are stored and kept up to date. |
@@ -111,7 +111,7 @@ The scope of the engagement is defined using the number of architects, their int
 
 **Step 2: Define the interaction points in the lifecycle**
 
-Look at each 'phase' in the [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/) by type of interaction, scope and coverage. Thing about the phases in terms of a) where ideas are generated and captured, b) how those ideas are compared and invested in, c) how teams and groups are assigned to those products, d) how they are delivered, e) how they are optimized and measured.
+Look at each 'phase' in the [lifecycle](architecture_lifecycle.md){:target="_blank"} by type of interaction, scope and coverage. Thing about the phases in terms of a) where ideas are generated and captured, b) how those ideas are compared and invested in, c) how teams and groups are assigned to those products, d) how they are delivered, e) how they are optimized and measured.
 
 **Step 3: Define the owned/influenced artifacts which need to be stored**
 
@@ -131,7 +131,7 @@ The following table identifies repository elements which are important for
 | Data Integration | How the repository connects to the enterprise data strategy and its ability to integrate with other tools as a part of a joint digital strategy platform. |   |
 | Presentation Integration | How well the repository provides interfaces and inclusion in presentation tools like PowerPoint. The quality and usability of the reports, interfaces and presentations options. |   |
 | Collaboration | The repository support for collaboration and communication between architects and stakeholders. |   |
-| [Automation](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/automation/) | The automated integration of the repository in meaningful operations, collaboration and integration flows. |   |
+| [Automation](automation.md){:target="_blank"} | The automated integration of the repository in meaningful operations, collaboration and integration flows. |   |
 
 Engagement Principle: Repository management is the responsibility of every architect on the team and should be a part of the job description and team performance review.
 

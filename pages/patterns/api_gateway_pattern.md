@@ -30,7 +30,7 @@ Trends and techniques cover the following areas for version 3.0:
 
 1.  **_Cloud_** as an emerging platform
 2.  **_DevOps_**
-3.  [Architecture Patterns](https://btabok.iasaglobal.org/architecture-pattern-repository/)
+3.  [Architecture Patterns](architecture_pattern_repository.md){:target="_blank"}
 
 We will describe each domain, trend or technique using the following table of contents:
 

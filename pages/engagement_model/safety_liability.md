@@ -27,7 +27,7 @@ Failures happen, either because of errors in the software or conditions in the e
 
 Iasa Global has adopted the position that the safety of a software solution is the responsibility of the architect who designed it; the architect is professionally liable for any safety related failures that are due to their own errors or negligence. The notion of professional liability is new to most software people, but Iasa Global believes that only when architects step up and accept it will architecture truly be a profession.
 
-This article explores safety as a quality attribute of software-based solutions. We classify applications into three tiers, each requiring a different level of safety and perhaps different [risk](https://itabok.iasaglobal.org/itabok3_0/risk-methods/) analysis methods and tests. Finally, we describe a safety framework including professional qualifications, codes of ethics, licensure, standards, and enforcement.
+This article explores safety as a quality attribute of software-based solutions. We classify applications into three tiers, each requiring a different level of safety and perhaps different [risk](risk_methods.md){:target="_blank"} analysis methods and tests. Finally, we describe a safety framework including professional qualifications, codes of ethics, licensure, standards, and enforcement.
 
 As software becomes more complex and is asked to do more, failure will have increasingly severe consequences. Iasa Global believes that our architects are in the best position to ensure the safety of software-based solutions both technically and to the public.
 
@@ -37,7 +37,7 @@ Safety In Software-Based Solutions
 What is Safety?
 ---------------
 
-Simply put, safety as a [quality attribute](https://btabok.iasaglobal.org/btabok_3/value-model/quality-attributes/) means that a software-based solution, or any solution that contains software, includes the prevention of adverse events arising from normal or abnormal use and protections from harm when they do. When used as intended, a safe software system will not fail under normal conditions, and will fail gracefully when those conditions are violated. In addition, a safe system will resist being used in an unsafe manner when possible, or at the very least, prevent or limit any harm as a result of such use. A system should do no harm to people or property, including to the reputations of its builders and users.
+Simply put, safety as a [quality attribute](quality_attributes.md){:target="_blank"} means that a software-based solution, or any solution that contains software, includes the prevention of adverse events arising from normal or abnormal use and protections from harm when they do. When used as intended, a safe software system will not fail under normal conditions, and will fail gracefully when those conditions are violated. In addition, a safe system will resist being used in an unsafe manner when possible, or at the very least, prevent or limit any harm as a result of such use. A system should do no harm to people or property, including to the reputations of its builders and users.
 
 Safety includes the absence of defects, but it goes much further. Since it is not possible to guarantee that software is free from defects, measures must be taken to ensure that any failures are graceful, that is, relatively harmless.
 
@@ -56,7 +56,7 @@ Tier 1 systems are those that have been classically defined as safety-critical. 
 
 ### Tier 2
 
-The consequences of failure in a Tier 2 system do not rise to the level of Tier 1, but include large financial losses, such as recovery costs, loss of revenue, or the payment of ransom. Examples include disruption of service in a commercial website, airline reservation system, or the billing system for a mobile phone carrier. A data breach in which unencrypted personal identifying information (PII) is released also puts an application into tier 2. Rigorous application of a method such as Fault Tree Analysis should be used to identify risks, and the [design](https://btabok.iasaglobal.org/btabok_3/operating-model/design/) must include mitigation for each identified risk. Review and testing methods are left to the client organization.
+The consequences of failure in a Tier 2 system do not rise to the level of Tier 1, but include large financial losses, such as recovery costs, loss of revenue, or the payment of ransom. Examples include disruption of service in a commercial website, airline reservation system, or the billing system for a mobile phone carrier. A data breach in which unencrypted personal identifying information (PII) is released also puts an application into tier 2. Rigorous application of a method such as Fault Tree Analysis should be used to identify risks, and the [design](design.md){:target="_blank"} must include mitigation for each identified risk. Review and testing methods are left to the client organization.
 
 ### Tier 3
 
@@ -127,7 +127,7 @@ References
 **Whitmire, Scott A. *Object-Oriented Design Measurement*, John Wiley & Sons, New York, NY: 1997.**
 
 **"Safety-critical system". encyclopedia.com**\
-<http://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/safety-critical-system>
+[Safety-critical system](http://www.encyclopedia.com/computing/dictionaries-thesauruses-pictures-and-press-releases/safety-critical-system){:target="_blank"}
 
 **Vincoli, Jeffery W. *Basic Guide to System Safety*, John Wiley & Sons, New York, NY: 2014.**
 
@@ -138,7 +138,7 @@ References
 **McDermid, J. A., M. Nicholson, D. J. Pumfrey and P. Fenelon, "Experience with the application of HAZOP to computer-based systems," COMPASS '95 Proceedings of the Tenth Annual Conference on Computer Assurance Systems Integrity, Software Safety and Process Security', 1995, pp. 37-48, doi: 10.1109/CMPASS.1995.521885.**
 
 **Iasa Global. "Ethical Guidelines".\
-** <https://itabok.iasaglobal.org/itabok3_0/itabok-ethics-principles/>
+[Iasa Global. "Ethical Guidelines"](https://btabok.iasaglobal.org/itabok-ethics-principles/){:target="_blank"}
 
 **Iasa Global. "Training and Certification -- Professional",\
 **<https://iasaglobal.org/Public/Learn/Certifications/Public/Learn/Training_and_Certifications.aspx?hkey=b18264af-a223-4a2e-a77c-053356d1a486>
@@ -146,6 +146,6 @@ References
 **The Open Group, "Certified Architect (Open CA)",\
 **<https://www.opengroup.org/certifications/certified-architect-open-ca>
 
-![](https://btabok.iasaglobal.org/wp-content/uploads/2022/03/by-nc.png)
+![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at <https://btabok.iasaglobal.org/>
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

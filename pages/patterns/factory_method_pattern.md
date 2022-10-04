@@ -27,11 +27,11 @@ The disadvantage of this pattern is:
 
 These are some examples from the internet. More will follow, as we receive contributions.
 
-*   Java Design Patterns : [https://github.com/iluwatar/java-design-patterns/tree/master/factory-method](https://github.com/iluwatar/java-design-patterns/tree/master/factory-method)
-*   A slightly different implementation in C++ : [https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/factory-method](https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/factory-method)
+*   Java Design Patterns : [https://github.com/iluwatar/java-design-patterns/tree/master/factory-method](https://github.com/iluwatar/java-design-patterns/tree/master/factory-method){:target="_blank"}
+*   A slightly different implementation in C++ : [https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/factory-method](https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/factory-method){:target="_blank"}
 
 ## References
 
-*   Wikipedia: [https://en.wikipedia.org/wiki/Factory\_method\_pattern](https://en.wikipedia.org/wiki/Factory_method_pattern)
-*   Article on O’Reilly: [https://www.oreilly.com/library/view/head-first-design/0596007124/ch04.html](https://www.oreilly.com/library/view/head-first-design/0596007124/ch04.html)
-*   “Design Patterns: Elements of Reusable Object-Oriented Software”, by [Richard Helm](https://www.amazon.ca/Richard-Helm/e/B000AQ1ZP8/ref=dp_byline_cont_book_2) , [Ralph Johnson](https://www.amazon.ca/Ralph-Johnson/e/B000AQ6RMY/ref=dp_byline_cont_book_3), [John Vlissides](https://www.amazon.ca/John-Vlissides/e/B000AQ4MV2/ref=dp_byline_cont_book_4)
+*   Wikipedia: [https://en.wikipedia.org/wiki/Factory\_method\_pattern](https://en.wikipedia.org/wiki/Factory_method_pattern){:target="_blank"}
+*   Article on O’Reilly: [https://www.oreilly.com/library/view/head-first-design/0596007124/ch04.html](https://www.oreilly.com/library/view/head-first-design/0596007124/ch04.html){:target="_blank"}
+*   “Design Patterns: Elements of Reusable Object-Oriented Software”, by [Richard Helm](https://www.amazon.ca/Richard-Helm/e/B000AQ1ZP8/ref=dp_byline_cont_book_2){:target="_blank"} , [Ralph Johnson](https://www.amazon.ca/Ralph-Johnson/e/B000AQ6RMY/ref=dp_byline_cont_book_3), [John Vlissides](https://www.amazon.ca/John-Vlissides/e/B000AQ4MV2/ref=dp_byline_cont_book_4){:target="_blank"}

@@ -405,5 +405,9 @@ improvement project or program, depending on its size.
 
 [^6]: Perry, Stott, and Smallwood, Real-Time Strategy: Improvising
     Team-Based Planning for a Fast-Changing World, New York, NY: Wiley,
-    1993..
+    1993.
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
 

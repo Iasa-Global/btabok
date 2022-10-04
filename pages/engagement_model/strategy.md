@@ -252,7 +252,7 @@ of the organization. It is also fully valid for an organization to run
 both methods, using the scorecard method for corporate strategy and
 using OKR's to guide objectives at lower levels in the organization.
 More information about using OKR's and alignment with the Balanced
-Scorecard is provided in the [objectives](.\objectives.md) element of the IASA
+Scorecard is provided in the [objectives](objectives.md){:target="_blank"} element of the IASA
 Engagement Model.
 
 ## Tactics
@@ -397,7 +397,7 @@ stakeholders based on the stakeholder interest and power (or influence).
 
 ![image001](media/strategy_power_intrest.png)
 
-[Stakeholders](.\stakeholders.md) with a high level of interest and power are
+[Stakeholders](stakeholders.md){:target="_blank"} with a high level of interest and power are
 often central to the success of the strategy, and tactics regarding the
 management of these stakeholders should be defined. Further information
 about the power-interest grid and stakeholder management can be found in
@@ -413,7 +413,7 @@ engagement model elements.
 
 ### Investment planning
 
-[Investment planning](.\investmentplanning.md) considers the prioritization of the
+[Investment planning](investmentplanning.md){:target="_blank"} considers the prioritization of the
 initiatives identified as part of the work with the Strategy Scorecard,
 these may be formed as business cases. Investment planning evaluates the
 costs, benefits, complexity and value delivered from the initiatives and
@@ -421,17 +421,16 @@ plans the investment to maximize value delivery.
 
 ### Assignment
 
-[Assignment](.\assignment.md) is about planning how the architecture practice
+[Assignment](assignment.md){:target="_blank"} is about planning how the architecture practice
 evaluates and assigns resources to business cases. This is important in
 strategic planning, to ensure that the architecture practice has the
 architect capacity and competencies required to support business case
 execution. The architecture practice is an active participant in
-strategic [assignment](.\assignment.md) and [investment
-planning,](.\investmentplanning.md) to help ensure the success of the strategy.
+strategic [assignment](assignment.md){:target="_blank"} and [investment planning,](investment_planning.md){:target="_blank"} to help ensure the success of the strategy.
 
 ### Roadmap
 
-Creating a strategic [roadmap](.\roadmap.md) organizes objectives and
+Creating a strategic [roadmap](roadmap.md){:target="_blank"} organizes objectives and
 initiatives across a timeline. This puts the strategy in perspective for
 the organization and provides the plan for execution. Without the
 roadmap it is difficult for an organization to communicate how the
@@ -440,8 +439,7 @@ perspective.
 
 ### Customer Journey
 
-An important part of planning a strategy is to understand the [customer
-journey](.\customerjourney.md). This will help to plan objectives and tactics by
+An important part of planning a strategy is to understand the [customer journey](customer_journey.md){:target="_blank"}. This will help to plan objectives and tactics by
 understanding how the customer interacts with the business, it's
 products and services. Understanding the customer journey provides an
 insight into value delivery, this helps in deciding which business cases
@@ -472,21 +470,22 @@ abandons the strategy or re-thinks objectives.
 # References and Further Reading
 
 **Strategy Maps**
-<https://balancedscorecard.org/bsc-basics/what-is-a-strategy-map/>
+[Strategy Maps](https://balancedscorecard.org/bsc-basics/what-is-a-strategy-map/){:target="_blank"}
 
 **"Linking the Balanced Scorecard to Strategy.", California Management
 Review, 39 (1) - Kaplan, Robert S; Norton, David P. (1996)**
 
 **Archimate Motivation Model**
-<https://pubs.opengroup.org/architecture/archimate3-doc/chap06.html>
+[Archimate Motivation Model](https://pubs.opengroup.org/architecture/archimate3-doc/chap06.html){:target="_blank"}
 
 **SWOT Analysis**
-<https://corporatefinanceinstitute.com/resources/knowledge/strategy/swot-analysis/>
+[SWOT Analysis](https://corporatefinanceinstitute.com/resources/knowledge/strategy/swot-analysis/){:target="_blank"}
 
 **PESTEL Analysis**
-<https://www.business-to-you.com/scanning-the-environment-pestel-analysis/>
+[PESTEL Analysis](https://www.business-to-you.com/scanning-the-environment-pestel-analysis/){:target="_blank"}
 
 **Fishbone Diagrams (Ishikawa) - MindTools**
-<https://www.mindtools.com/pages/article/newTMC_03.htm> 
+[Fishbone Diagrams](https://www.mindtools.com/pages/article/newTMC_03.htm){:target="_blank"}
 
-**Porter's Generic Strategies - MindTools**<https://www.mindtools.com/pages/article/newSTR_82.htm#:~:text=According%20to%20Porter's%20Generic%20Strategies,Cost%20Leadership%2C%20Differentiation%20and%20Focus>.
+**Porter's Generic Strategies - MindTools**
+[MindTools](https://www.mindtools.com/pages/article/newSTR_82.htm#:~:text=According%20to%20Porter's%20Generic%20Strategies,Cost%20Leadership%2C%20Differentiation%20and%20Focus){:target="_blank"}

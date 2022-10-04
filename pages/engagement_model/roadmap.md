@@ -15,18 +15,18 @@ summary: "When collaboration works well, it leads to significant gains in produc
 A roadmap is a visual description which shows a plan against time for
 achieving one or more goals or objectives. It is used to plan large
 activities which deliver value to the enterprise. The roadmap can be
-used to synchronize [deliverables](.\deliverables.md) with important events and
+used to synchronize [deliverables](deliverables.md){:target="_blank"} with important events and
 uncover important dependencies between deliverables.
 
-<img src=".\media\roadmaps_overview1.png" title="" alt="" data-align="center">
+<img src="media\roadmaps_overview1.png" title="" alt="" data-align="center">
 
-Roadmaps are primarily used in the [Innovation](.\innovation.md) and
-[Transformation](.\transformation.md) stages in the engagement model. Under the
+Roadmaps are primarily used in the [Innovation](innovation.md){:target="_blank"} and
+[Transformation](transformation.md){:target="_blank"} stages in the engagement model. Under the
 innovation stage the roadmap can be used to plan and assess feasibility
 of new initiatives and plan against existing initiatives. Under the
 transformation the roadmap can be used to track and update the progress
-of deliverables in work. The [Utilization](.\utilization.md) and
-[Measurement](.\measurement.md) stages provide experience and feedback which
+of deliverables in work. The [Utilization](utilization.md){:target="_blank"} and
+[Measurement](measurement.md){:target="_blank"} stages provide experience and feedback which
 may alter the future planning on the roadmap.
 
 Roadmaps are used broadly in business for many purposes but this article
@@ -43,12 +43,12 @@ stakeholders regarding the current status of a business initiative and
 also a broad plan for future deliverables, goals and objectives. Having
 a common understanding means that stakeholders will not only be pulling
 together in the right direction using the business vision and
-[strategy](.\strategy.md), but also coordinating the timing and
+[strategy](strategy.md){:target="_blank"}, but also coordinating the timing and
 dependencies of deliverables.
 
 Visualizing the dependencies between the deliverables significantly
 reduces the risk for deliverables being blocked by other
-[deliverables](.\deliverables.md) , and supports the ability of stakeholders to
+[deliverables](deliverables.md){:target="_blank"} , and supports the ability of stakeholders to
 prioritize deliverables.
 
 The roadmap also gives a framework for making broad estimations
@@ -58,7 +58,7 @@ This avoids spending valuable resources on detail planning of
 initiatives which lack business feasibility.
 
 Being able to monitor progress and show that an initiative is moving
-forward is a highly motivating factor for [stakeholders](.\stakeholders.md).
+forward is a highly motivating factor for [stakeholders](stakeholders.md){:target="_blank"}.
 The roadmap provides a tool which shows on a long-term scale how much
 progress has been made as deliverables are completed, as well as
 providing a view of the next deliverables to be addressed.
@@ -81,7 +81,7 @@ roadmaps.
 ## Make the scope of the roadmap clear
 
 It is important for those who are developing the roadmap to have a
-common understanding of the roadmap [scope](.\scope.md). This provides
+common understanding of the roadmap [scope](scope.md){:target="_blank"}. This provides
 the boundaries for the changes to the enterprise that the roadmap will
 address. The scope provides an understanding for what is included in the
 roadmap but importantly also provides the basis for what should not be
@@ -92,9 +92,9 @@ stakeholders and reduces the risks for misunderstanding.
 
 The roadmap is defined by the business with the customer or market in
 focus and is a plan for how to achieve something of value to the
-business. In the value model the [Objectives](.\objectives.md) and the [Business
-Case](.\businesscase.md) provide the drivers for goals and the objectives on the roadmap.
-The [operating model](.\operatingmodel.md) provides [Assignment](.\strategy.md)(.\assignment.md) for
+business. In the value model the [Objectives](objectives.md){:target="_blank"} and the [Business
+Case](businesscase.md){:target="_blank"} provide the drivers for goals and the objectives on the roadmap.
+The [operating model](operatingmodel.md){:target="_blank"} provides [Assignment](strategy.md){:target="_blank"}(assignment.md){:target="_blank"} for
 the initiatives that are prioritized for work and the the roadmap
 provides the time plan for when initiatives can be achieved.
 
@@ -102,7 +102,7 @@ provides the time plan for when initiatives can be achieved.
 
 Items on a roadmap should clearly contribute to partly or completely
 meeting a goal or objective which provides value for the enterprise. If
-the item is not related to a roadmap [objective](.\objectives.md) or objective
+the item is not related to a roadmap [objective](objectives.md){:target="_blank"} or objective
 then the item may be out of the roadmap scope. On the roadmap it may be
 that many items contribute to the same goal or objective, and that one
 item can contribute to many goals and objectives.
@@ -226,7 +226,7 @@ a Transition:
 
 # Working with a Strategic Roadmap
 
-Planning a strategic roadmap starts with the [stakeholders](.\stakeholders.md)
+Planning a strategic roadmap starts with the [stakeholders](stakeholders.md){:target="_blank"}
 who are responsible for the vision and scope of the initiative. These
 stakeholders may form a steering committee for the initiative, and call
 in other key stakeholders to support the creation of the roadmap.
@@ -360,7 +360,7 @@ organize and prioritize the content of a release. A feature is a
 substantially large function which partly or completely fulfils a
 requirement on the product. In agile methods a feature is often defined
 as an Epic. Releases may also contain major events in the development
-cycle such as final QA ([quality assurance](.\qualityassurance.md)) or delivery.
+cycle such as final QA ([quality assurance](qualityassurance.md){:target="_blank"}) or delivery.
 
 The diagram below illustrates a fictional roadmap for the Pizza Order
 System previously described in the example strategic roadmap. It shows
@@ -475,13 +475,14 @@ respect to key dependencies.
 # References and further reading
 
 **UK Government**
-
-<https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap>
+[UK Government](https://www.gov.uk/service-manual/agile-delivery/developing-a-roadmap){:target="_blank"}
 
 **TOGAF ( section 32.2.7)**
-
-<https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap32.html#tag_32_02_07>
+[TOGAF](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap32.html#tag_32_02_07){:target="_blank"}
 
 **Roman Pichler**
+[Roman Pichler](https://www.romanpichler.com/blog/category/product-roadmap/){:target="_blank"}
 
-<https://www.romanpichler.com/blog/category/product-roadmap/>
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

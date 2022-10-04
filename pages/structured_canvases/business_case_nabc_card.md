@@ -13,7 +13,7 @@ The Business Case has many names and uses. However, it primarily provides the de
 
 ![image001](media/business_case_nabc_card001.svg)
 
-[Download PPT](media/ppt/business_case_nabc_card.ppt)
+[Download PPT](media/ppt/business_case_nabc_card.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

@@ -16,7 +16,7 @@ Competence: such as
 1.  the quality or state of having sufficient knowledge, judgment, skill, or strength (as for a particular duty or in a particular respect)
 2.  law : legal authority, ability, or admissibility.
 
-Competency is by far the most important aspect to a profession of architecture and to the individual practitioner. It includes all of the skills necessary to be successful in general as an architect and, in specific, within the context of organizations who employ or hire architects to deliver value. In this document, skills and competencies will be used interchangeably though formally the Iasa [Competency Model](https://btabok.iasaglobal.org/btabok_3/people-model/competency/) uses the following hierarchy:
+Competency is by far the most important aspect to a profession of architecture and to the individual practitioner. It includes all of the skills necessary to be successful in general as an architect and, in specific, within the context of organizations who employ or hire architects to deliver value. In this document, skills and competencies will be used interchangeably though formally the Iasa Competency Model uses the following hierarchy:
 
 1.  Competency Pillar: one of the 5 pillars of competency for architects including, business technology strategy, design, human dynamics, IT environment, and quality attributes.
 2.  Competency: one of the 42 total items within the Iasa 5 Pillars such as investment planning, whole systems design, application development, etc.
@@ -36,9 +36,9 @@ Competency is the most important measure of an architects capacity to deliver va
 Team Competency is the Most Important Measure of Architecture Practices
 -----------------------------------------------------------------------
 
-Many architecture practices focus on their [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/), [decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions/), [designs](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/), and similar elements while ignoring a competency model. However this is the opposite of an effective practice. Skills and skill growth provide not only motivation for the architect practitioners but also allow the practice to improve overall. Process and framework can never replace skills in terms of an individual or team of architects.
+Many architecture practices focus on their [lifecycle](architecture_lifecycle.md){:target="_blank"}, [decisions](decisions.md){:target="_blank"}, [designs](design.md){:target="_blank"}, and similar elements while ignoring a competency model. However this is the opposite of an effective practice. Skills and skill growth provide not only motivation for the architect practitioners but also allow the practice to improve overall. Process and framework can never replace skills in terms of an individual or team of architects.
 
-In addition, the competency model will define the career growth techniques and methods for the entire practice including vendors, service integrators and partners. As a part of the engagement model the entire architecture practice should choose and support and competency model and understand its impact on their individual performance, job and [role](https://btabok.iasaglobal.org/btabok_3/people-model/roles/).
+In addition, the competency model will define the career growth techniques and methods for the entire practice including vendors, service integrators and partners. As a part of the engagement model the entire architecture practice should choose and support and competency model and understand its impact on their individual performance, job and [role](roles.md){:target="_blank"}.
 
 A Competency is Developed from Skills, Experience and Knowledge
 ---------------------------------------------------------------

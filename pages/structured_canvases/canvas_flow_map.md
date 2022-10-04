@@ -10,7 +10,7 @@ summary: ""
 
 ![image001](media/canvas_flow_map001.svg)
 
-[Download PPT](media/ppt/canvas_flow_map.ppt)
+[Download PPT](media/ppt/canvas_flow_map.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | --- | --- | --- |

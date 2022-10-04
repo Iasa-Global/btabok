@@ -108,7 +108,7 @@ Is the Organization Ready for Innovation and By How Much
 
 There are two primary blockers to innovation. One is effectively the maturity of the organization or the derivative maturity of its technology capabilities. In this case the organization is unable to stably deliver technology and therefore is generally blocked from being innovative in the way the BTABoK describes it. This may be due to technical debt that is unpaid or may also be due to poor understanding of digital by business executives and therefore significantly lower funding and importance placed on technology at the organization. This is often seen in industries that are heavily physical or risk averse.
 
-The industries and business which impact lives or are dangerous such as medical care, drilling, oil and gas and government are often highly risk averse and areas are often also slower to move forward with innovation and for very good reasons. In these environments [Safety and Liability](https://btabok.iasaglobal.org/btabok_3/safety-liability/) often play extremely critical roles and therefore the architecture team may be more [Governance](https://btabok.iasaglobal.org/btabok_3/operating-model/governance/) focused and the innovations used in the industry will be fewer than in less risk averse areas. This is very important and architects must be extremely aware of how to implement engagement models that allow for reasonable innovation while ensuring the outcomes are safe and secure.
+The industries and business which impact lives or are dangerous such as medical care, drilling, oil and gas and government are often highly risk averse and areas are often also slower to move forward with innovation and for very good reasons. In these environments [Safety and Liability](safety_liability.md){:target="_blank"} often play extremely critical roles and therefore the architecture team may be more [Governance](governance.md){:target="_blank"} focused and the innovations used in the industry will be fewer than in less risk averse areas. This is very important and architects must be extremely aware of how to implement engagement models that allow for reasonable innovation while ensuring the outcomes are safe and secure.
 
 Is We Greater Than Me?
 ----------------------
@@ -175,7 +175,6 @@ This technique has been turned into the future-casting signal card and future-ca
 
 Figure 3 Signal Cards
 
-![](https://itabok.iasaglobal.org/wp-content/uploads/2022/01/image009-767x403-cropped.png)
 ![image001](media/innovate009.png)
 
 Figure 4 Future Casting Canvas
@@ -183,10 +182,11 @@ Figure 4 Future Casting Canvas
 References and Further Reading
 ==============================
 
-<https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/>
+[https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/){:target="_blank"}
 
-**Reference BOLT assessment\
-**<http://www.b-mc2.com/learn/> and HBR article on Taxonomy of Innovation
+
+**Reference BOLT assessment**
+[Reference BOLT assessment](http://www.b-mc2.com/learn/){:target="_blank"} and HBR article on Taxonomy of Innovation
 
 ![image001](media/by-nc.png)
 

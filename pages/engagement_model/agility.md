@@ -20,7 +20,7 @@ opportunities that change brings. Technology and IT have been major
 facilitators for disruption, the rate of change has accelerated
 significantly in the 2000s and continues to accelerate.
 
-Businesses increase their agility by cultivating an agile [culture](.\culture.md) and
+Businesses increase their agility by cultivating an agile [culture](culture.md){:target="_blank"} and
 employing agile methods for product or service development.
 
 Some of the key factors of an agile business are:
@@ -73,7 +73,7 @@ business. When making changes to a business for agility and developing
 agile methods, awareness of the business limitations helps to adapt any
 changes to fit the business in its current state. Trying to force
 changes or agile methods on a business without considering constraints
-can have adverse effects, such as [stakeholders](stakeholders.md) turning against the
+can have adverse effects, such as [stakeholders](stakeholders.md){:target="_blank"} turning against the
 initiative, or agile disillusionment when results do not meet
 expectations.
 
@@ -115,7 +115,7 @@ planning-up-front.
 
 ## Automation is key
 
-A key part of improving agility is [automation](.\automation.md), particularly in product
+A key part of improving agility is [automation](automation.md){:target="_blank"}, particularly in product
 development. Adopting agile practices with a low level of automation
 reduces the ability to make quick changes. This is evident in software
 development where in order to deliver working products at every
@@ -197,7 +197,7 @@ example, in customer support organizations where issues may be submitted
 at any point in time and they must be delt with as quickly as possible.
 
 Further information regarding Kanban can be found at the
-[www.agilealliance.org](http://www.agilealliance.org) .
+[www.agilealliance.org](http://www.agilealliance.org){:target="_blank"}.
 
 ## Scrum
 
@@ -230,7 +230,7 @@ very much suited to software development where the features of a product
 can be developed step by step in short increments.
 
 Further information regarding Scrum can be found at
-[Scrum.org](http://Scrum.org) .
+[Scrum.org](http://Scrum.org){:target="_blank"}.
 
 ## SAFe (Scaled Agile Framework)
 
@@ -257,7 +257,7 @@ according to the requirements for the release. The Scrum or Kanban are
 methods which can be used at the essential level.
 
 Further information regarding SAFe can be found at
-[www.scaledagileframework.com](http://www.scaledagileframework.com) .
+[www.scaledagileframework.com](http://www.scaledagileframework.com){:target="_blank"}.
 
 When considering the above methods, it is important to treat them as
 frameworks rather than "by-the-book\" methods. Adapting these methods
@@ -347,7 +347,7 @@ agility.
 
 ## Culture and agile maturity
 
-A [business culture](culture.md) is built up over many years and is often difficult to
+A [business culture](culture.md){:target="_blank"} is built up over many years and is often difficult to
 change. Assessing the agile maturity of a business is essential to
 ensuring that any new methods are a success. The pace of change to agile
 methods has to suit the ability of the organization to cope with the
@@ -365,7 +365,7 @@ time.
 
 ## Legacy systems
 
-Many businesses have [legacy systems](legacymodernization.md) in their IT-landscape which often
+Many businesses have [legacy systems](legacymodernization.md){:target="_blank"} in their IT-landscape which often
 perform essential functions for the business. These systems often remain
 active since the cost to replace the system outweighs the perceived
 benefits of migrating to modern technology, or simply that investment is
@@ -491,16 +491,16 @@ implementation.
 # References and further reading
 
 **Business Agility Manifesto**
-<https://busagilitymanifesto.org/>
+[Business Agility Manifesto](https://busagilitymanifesto.org/){:target="_blank"}
 
 **Scrum.org**
-<https://www.scrum.org/>
+[Scrum.org](https://www.scrum.org/){:target="_blank"}
 
 **Agile Alliance**
-<https://www.agilealliance.org/>
+[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
 
 **SAFe**
-<https://www.scaledagileframework.com/>
+[SAFe](https://www.scaledagileframework.com/){:target="_blank"}
 
 **Villanovau University**
-<https://www.villanovau.com/resources/project-management/iron-triangle-project-management/>
+[Villanovau University](https://www.villanovau.com/resources/project-management/iron-triangle-project-management/){:target="_blank"}

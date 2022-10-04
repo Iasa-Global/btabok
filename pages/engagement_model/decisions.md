@@ -24,34 +24,34 @@ Guidance
 
 Architectural decisions are at the root of our practice but they are often hard to spot. The vast majority of decisions get processed at the team level and do not apply architectural thinking or have an architect involved at all. This approach can be a benefit in agile organizations if managed and communicated effectively.
 
-Engagement Principle: Bottom up decision making is a benefit or a [risk](https://btabok.iasaglobal.org/btabok_3/risk-methods/). Ensure all teams are trained on decision characteristics that impact its formality
+Engagement Principle: Bottom up decision making is a benefit or a [risk](risk_methods.md){:target="_blank"}. Ensure all teams are trained on decision characteristics that impact its formality
 
 Envision an enterprise or company, then imagine all the teams in the organization working in parallel on changes, remember to add in maintenance teams and operations teams doing 'keep the lights running' work. Now if you set the decision level of architectural significance at $20,000 (this will vary by organization) in impact or cost, how many of those decisions are made with a basic tradeoff analysis? This is the fundamental world of architectural decisions and ultimately the outcomes of these decisions lead the organization to the benefits or failures of architecture.
 
 ### Manage the Scope of Decisions Carefully
 
-Decisions have an impact radius that can be much larger than many think. By understanding decision scope you can determine appropriate characteristics of the decision, its [velocity](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/velocity/) and its type. Determining a decisions scope and impact is essential to ensuring that appropriate decision tools are used.
+Decisions have an impact radius that can be much larger than many think. By understanding decision scope you can determine appropriate characteristics of the decision, its [velocity](velocity.md){:target="_blank"} and its type. Determining a decisions scope and impact is essential to ensuring that appropriate decision tools are used.
 
 | **Scope** | **Decision Management** |
 | --- | --- |
-| **[Ecosystem](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/ecosystem/)** | These decisions will impact not only the enterprise but its entire ecosystem as well. A governments choice of procurement requirements for vendors or standards for banking are examples. An enterprise choosing to enforce standards on its customers or suppliers are others. |
+| **[Ecosystem](ecosystem.md){:target="_blank"}** | These decisions will impact not only the enterprise but its entire ecosystem as well. A governments choice of procurement requirements for vendors or standards for banking are examples. An enterprise choosing to enforce standards on its customers or suppliers are others. |
 | **Enterprise** | Decisions which impact the entire enterprise. Choice of ERP, cloud strategy, or similar. These are slightly different from standards or guardrails which guide decisions at a lower level. |
-| [**Value Stream**](https://btabok.iasaglobal.org/btabok_3/value-model/value-streams/) | Those decisions which impact an entire value stream for a company. |
+| [**Value Stream**](value_streams.md){:target="_blank"} | Those decisions which impact an entire value stream for a company. |
 | **Solution** | A solution level decision impacts multiple services and products and supports a value stream. |
 | **Product/Service** | Decisions which are limited to impact on a specific product or service but which do not impact neighboring products or services. |
 | **Module** | Decisions for a sub-component of a system. |
 
 ### Manage Decisions Effectively Across the Enterprise
 
-To effectively manage decisions, the architecture team should put in place a decision management process early in its [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/), by making critical investments into how the [organization](https://btabok.iasaglobal.org/btabok_3/people-model/organization/) is going to process decision point in the architecture engagement model. During the engagement methodology update and the engagement principles definition, the team will decide what levels of decisions must be exposed in the repository and their limits in duration, quality and effort. These principles will guide the decision methods for the entire team until the next methodology update.  There are numerous decision methods and theories in the marketplace in making better decisions. The goal of the architecture decision repository is to ensure that decisions are made clearly, with appropriate tools and with respect for traceability.
+To effectively manage decisions, the architecture team should put in place a decision management process early in its [lifecycle](architecture_lifecycle.md){:target="_blank"}, by making critical investments into how the [organization](organization.md){:target="_blank"} is going to process decision point in the architecture engagement model. During the engagement methodology update and the engagement principles definition, the team will decide what levels of decisions must be exposed in the repository and their limits in duration, quality and effort. These principles will guide the decision methods for the entire team until the next methodology update.  There are numerous decision methods and theories in the marketplace in making better decisions. The goal of the architecture decision repository is to ensure that decisions are made clearly, with appropriate tools and with respect for traceability.
 
 ### A Decision Management Method/Process
 
 1.  As a team identify critical levels of and types of decisions as well as their complexity or scope of impact.
 2.  Identify which of these decisions the team has the ability to be proactively involved in (able to work towards the decision in a multi-functional environment.
 3.  Identify decisions which the team cannot (time, access, scope) be proactively involved.
-4.  Identify critical [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/) as a part of the [extended team](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/) involved in the architecture lifecycle who may be mentored into rigorous decision methods.
-5.  Create a set of [engagement model](https://btabok.iasaglobal.org/btabok_3/engagement/) principles to address each of these situations based on the outcomes the team would like to achieve.
+4.  Identify critical [stakeholders](stakeholders.md){:target="_blank"} as a part of the [extended team](extended_team.md){:target="_blank"} involved in the architecture lifecycle who may be mentored into rigorous decision methods.
+5.  Create a set of engagement models principles to address each of these situations based on the outcomes the team would like to achieve.
 6.  Revisit during engagement method update.
 
 ![image001](media/decisions001.png)
@@ -68,7 +68,8 @@ All decisions are vulnerable to human failings and weaknesses, which is why it i
 
 ![image001](media/decisions003.jpg)
 
-Figure 3 Cognitive Bias -- <https://www.raconteur.net/infographics/cognitive-bias>
+Figure 3 Cognitive Bias
+[Figure 3 Cognitive Bias](https://www.raconteur.net/infographics/cognitive-bias){:target="_blank"}
 
 To re-enforce a decision and to ensure it is as free of bias as possible, use the decision bias calibrator card to understand and reframe the decision away from biases.
 
@@ -78,7 +79,7 @@ To re-enforce a decision and to ensure it is as free of bias as possible, use th
 
 ### Decisions and their Characteristics and Methods
 
-Decisions can be implemented in numerous ways and have many characteristics. While this article includes all of them, normally only one or two are used except for the biggest decisions. These techniques are further expanded in the [Value Methods](https://btabok.iasaglobal.org/btabok_3/value-methods/) article.
+Decisions can be implemented in numerous ways and have many characteristics. While this article includes all of them, normally only one or two are used except for the biggest decisions. These techniques are further expanded in the [Value Methods](value_methods.md){:target="_blank"} article.
 
 | **Method** | **Decision Management** | **Characteristics** |
 | --- | --- | --- |
@@ -197,11 +198,11 @@ The following tools and techniques can be useful in managing architecture decisi
 References
 ==========
 
-<https://personal.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf>
+[https://personal.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf](https://personal.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf){:target="_blank"}
 
-<http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions>
+[http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions){:target="_blank"}
 
-<https://dzone.com/articles/lean-tools-last-responsible>
+[https://dzone.com/articles/lean-tools-last-responsible](https://dzone.com/articles/lean-tools-last-responsible){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

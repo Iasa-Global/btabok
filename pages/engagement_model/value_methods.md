@@ -60,15 +60,15 @@ Depending on the context, the business function, and the company in question, an
     -   What does this change tell us about other changes? (i.e. What is being learned?)
     -   Is this change actually achieving the desired outcome?
 
-In the development of an engagement model these activities are called 'The Red Thread' and are included in the Design Traceability as well as [Business Technology Strategy](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/strategy/) competencies.
+In the development of an engagement model these activities are called 'The Red Thread' and are included in the Design Traceability as well as [Business Technology Strategy](strategy.md){:target="_blank"} competencies.
 
-f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](https://btabok.iasaglobal.org/btabok_3/operating-model/governance/), [analysis](https://btabok.iasaglobal.org/btabok_3/analysis/) and [extended team](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/)).
+f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](governance.md){:target="_blank"}, [analysis](analysis.md){:target="_blank"} and [extended team](extended_team.md){:target="_blank"}.
 
 If the Architect performing these activities results in better outcomes, but there isn't a measure for how much each activity is worth to the effort in dollars, how is value defined?
 
 **What is it Worth?**
 
-The word 'value' itself has some problems in this context. The main issue is that value can be extremely subjective. What is of value to one Director of Application Development may not be of value to a Senior Manager of Risk and Compliance both [stakeholders](https://btabok.iasaglobal.org/stakeholders/) then have differing perspective on value for initiatives.
+The word 'value' itself has some problems in this context. The main issue is that value can be extremely subjective. What is of value to one Director of Application Development may not be of value to a Senior Manager of Risk and Compliance both [stakeholders](stakeholders.md){:target="_blank"} then have differing perspective on value for initiatives.
 
 ![image001](media/v_m001.png)
 
@@ -112,16 +112,16 @@ But this definition of "Value" is for the value of entire effort and doesn't ref
 Did we do what we said we'd do? 
 
 -   Create and/or Review Business Case 
--   Manage and Prioritize Initiative Portfolio ([Investment Prioritization](https://btabok.iasaglobal.org/btabok_3/investment-planning/)) 
+-   Manage and Prioritize Initiative Portfolio [Investment Prioritization](investment_planning.md){:target="_blank"} 
 -   Risk/Compliance Analyses and Assessments 
 -   Capture and Analyze Architecturally Significant Requirements 
 -   Reference Architectures: Master, Context, Product-Specific 
 -   Specialists in the Architecture Practice: Solution, Security, Data, Integration, etc. 
--   Capability Models ([Business Capabilities](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/business-capabilities/), Technical Services) 
--   Standards and Frameworks ([Principles](https://btabok.iasaglobal.org/btabok_3/principles/)) 
--   Define and Articulate Solution Options ([Decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions/)) 
--   [Objectives](https://btabok.iasaglobal.org/btabok_3/digital-outcome-model/objectives/) (Key Performance Indicators / Success Metrics) 
--   [Stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) Alignment 
+-   Capability Models [Business Capabilities](business_capabilities.md){:target="_blank"}, Technical Services) 
+-   Standards and Frameworks [Principles](principles.md){:target="_blank"} 
+-   Define and Articulate Solution Options [Decisions](decisions.md){:target="_blank"} 
+-   [Objectives](objectives.md){:target="_blank"} (Key Performance Indicators / Success Metrics) 
+-   [Stakeholder](stakeholders.md){:target="_blank"} Alignment 
 
 What did it cost? 
 
@@ -134,13 +134,13 @@ What did it cost? 
 
 How long did it take? 
 
--   [Roadmaps](https://btabok.iasaglobal.org/btabok_3/operating-model/roadmap/) 
+-   [Roadmaps](roadmap.md){:target="_blank"} 
 -   Sequencing and Prioritization  
--   [Governance](https://btabok.iasaglobal.org/btabok_3/operating-model/governance/) (Reviews, Toll-Gates) 
--   [Stakeholder](https://btabok.iasaglobal.org/btabok_3/stakeholders/) Communication 
+-   [Governance](governance.md){:target="_blank"} (Reviews, Toll-Gates) 
+-   [Stakeholder](stakeholders.md){:target="_blank"} Communication 
 -   Engagement Models 
 
-The Architect doesn't deliver value simply by drawing a Technical Services Model for the SuperWidget product. After all, if it were a bad or confusing or incomplete diagram it wouldn't be viewed as adding value but probably the opposite. The value is not in the drawing itself but in the information that it captures, the manner in which it codifies that information and the clarity with which it conveys it to [stakeholders](https://btabok.iasaglobal.org/btabok_3/stakeholders/).
+The Architect doesn't deliver value simply by drawing a Technical Services Model for the SuperWidget product. After all, if it were a bad or confusing or incomplete diagram it wouldn't be viewed as adding value but probably the opposite. The value is not in the drawing itself but in the information that it captures, the manner in which it codifies that information and the clarity with which it conveys it to [stakeholders](stakeholders.md){:target="_blank"}.
 
 It is the quality of the work product delivered (or activity performed) by the Architect that determines the degree of Value they contribute to the overall effort. It is these work products, or activities, that capture, codify and convey that help determine the overall outcomes. The better these are, the more positive the outcome, the more Value delivered.
 
@@ -159,7 +159,7 @@ The purpose of measuring value is to help make decisions on whether to invest or
 
 And there could be others. This points to the importance of ongoing assessments of outcomes delivered, which are measured against a baseline, and they value they provide not just at the end of an initiative, but on a continuous basis. Given their skillset and typical presence across many domains of business technology, Architects are well-positioned to perform this valuation work.
 
-In order to measure the value of an Architect's contributions they are often stuck trying to determine whether or not the work-products produced, or activities performed by the Architect were 'good' and therefore contributed to successful outcomes. As this can become subjective, a useful proxy can be found by looking at the [lifecycle](https://btabok.iasaglobal.org/architecture-lifecycle/) of work in which the Architect is engaged and objectively measuring one or more of the following key attributes:
+In order to measure the value of an Architect's contributions they are often stuck trying to determine whether or not the work-products produced, or activities performed by the Architect were 'good' and therefore contributed to successful outcomes. As this can become subjective, a useful proxy can be found by looking at the [lifecycle](architecture_lifecycle.md){:target="_blank"} of work in which the Architect is engaged and objectively measuring one or more of the following key attributes:
 
 1.  the **Quality** of the output
 2.  the **Cost** of delivery
@@ -197,7 +197,7 @@ Not every approach is valid all of the time. But chances are good that one of th
 
 Tenet: Aggressively Find Stakeholder Value Metrics.
 
-The architect practice should consistently and aggressively discover objectives, KPIs and other capability analysis measures in common use in the organization. This should include all architects and tracked as a part of the engagement model and be included in the [role](https://btabok.iasaglobal.org/btabok_3/people-model/roles/) and [job descriptions](https://btabok.iasaglobal.org/btabok_3/people-model/job-description/).
+The architect practice should consistently and aggressively discover objectives, KPIs and other capability analysis measures in common use in the organization. This should include all architects and tracked as a part of the engagement model and be included in the [role](roles.md){:target="_blank"} and [job descriptions](job_description.md){:target="_blank"}.
 
 Quality as a Measure
 
@@ -245,15 +245,15 @@ An Architect impacts Cost when delivering or performing any of the following:
 
 -   Create and/or Review Business Case
 -   Manage and Prioritize Initiative Portfolio
--   Capture and Analyze [Requirements](https://btabok.iasaglobal.org/btabok_3/operating-model/requirements/)
--   Define and Articulate Solution Options ([Decisions](https://btabok.iasaglobal.org/btabok_3/operating-model/decisions/))
+-   Capture and Analyze [Requirements](requirements.md){:target="_blank"}
+-   Define and Articulate Solution Options [Decisions](decisions.md){:target="_blank"}
 -   Cost/Benefit Definition and Data Collection
 -   Cost-Benefit Analyses
 -   Standards and Frameworks (For Financial Analyses)
--   Workforce Management Analyses ([Assignment](https://btabok.iasaglobal.org/btabok_3/assignment/))
+-   Workforce Management Analyses [Assignment](assignment.md){:target="_blank"}
 -   Budgeting (Benefits Realization)
 -   Financial Management and Reporting (Benefits Realization)
--   Sequencing and Prioritization ([Investment Planning](https://btabok.iasaglobal.org/btabok_3/investment-planning/) and Prioritization)
+-   Sequencing and Prioritization [Investment Planning](investment_planning.md){:target="_blank"} and Prioritization
 
 Any successful Cost Reduction or Cost Avoidance effort is attributable to analysis and activities primarily performed by an Architect. It is a powerful metric for demonstrating the Value that Architecture can deliver.
 
