@@ -1,5 +1,5 @@
 ---
-title: "Agile Team Desinger"
+title: "Agile Team Designer"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
@@ -17,9 +17,6 @@ Product and project team assignments and structure are deeply important to the s
 Resources
 ---------
 
--   [Assignment article](https://btabok.iasaglobal.org/btabok_3/assignment/)
--   [Extended team article](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/)
--   [Job Descriptions article](https://btabok.iasaglobal.org/btabok_3/people-model/job-description/)
-
-
-
+- [Assignment article](https://btabok.iasaglobal.org/btabok_3/assignment/)
+- [Extended team article](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/)
+- [Job Descriptions article](https://btabok.iasaglobal.org/btabok_3/people-model/job-description/)
