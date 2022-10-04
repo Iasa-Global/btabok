@@ -310,3 +310,11 @@ entries:
     - title: Overview
       url: structured_canvases_m.html
       output: web
+
+  - title: Ethics and Principles
+    output: web
+    folderitems:
+
+    - title: Overview
+      url: ethics_and_principles.html
+      output: web

@@ -29,5 +29,7 @@ topnav_dropdowns:
           url: topic_areas_m.html
         - title: Structured Canvases
           url: structured_canvases_m.html
+        - title: Ethics and Principles
+          url: ethics_and_principles.html  
 
 # Copyright 2022 IASA
