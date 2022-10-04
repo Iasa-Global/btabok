@@ -1,5 +1,5 @@
 ---
-title: "XX"
+title: "Service Interface Design Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

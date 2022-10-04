@@ -3,7 +3,7 @@ title: "Power – Interest Grid"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: service_interface_design_canvas.html
+permalink: power_interest_grid.html
 folder: structured_canvases
 summary: ""
 ---
