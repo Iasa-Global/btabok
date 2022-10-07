@@ -287,8 +287,40 @@ entries:
     output: web
     folderitems:
 
-    - title: Overview
-      url: competency_model_m.html
+    - title: Business Technology Strategy
+      url: bts_m.html
+      output: web
+
+    - title: Human Dynamics
+      url: human_dynamics_m.html
+      output: web
+
+    - title: Design
+      url: design_m.html
+      output: web
+
+    - title: IT Environment
+      url: it_environment_m.html
+      output: web
+
+    - title: Quality Attributes
+      url: quality_attributes_m.html
+      output: web
+  
+    - title: Business Architecture
+      url: business_architecture_m.html
+      output: web
+
+    - title: Information Architecture
+      url: information_architecture_m.html
+      output: web
+
+    - title: Infrastructure Architecture
+      url: infrastructure_architecture_m.html
+      output: web
+
+    - title: Software Architecture
+      url: software_architecture_m.html
       output: web
 
   - title: Maturity Model
