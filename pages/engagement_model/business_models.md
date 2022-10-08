@@ -202,7 +202,7 @@ Understanding a digital business is critical in the success of any architecture 
 
 ![image001](media/b_m002.jpg)
 
-[BUSINESS-MODEL-CANVAS.ppt](media/ppt/BUSINESS-MODEL-CANVAS.ppt){:target="_blank"}
+[BUSINESS-MODEL-CANVAS.ppt](media/ppt/business_model_canvas.ppt){:target="_blank"}
 
 | **Strategic Planning** | Ensure the organization strategy is being formulated to ensure most value can be derived from current and future technology |
 | **Business Planning**              |      Ensure that tactical and operational objectives for the period of the plan can be achieved in a way that derives most value from technology investments while factoring in architectural concerns & constraints                     |

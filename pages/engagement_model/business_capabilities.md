@@ -19,7 +19,7 @@ where customer loyalty is fickle, and customer tastes are even more so.
 The ability to innovate is anchored in an ability to quickly identify
 where change needs to occur (what to change?), identify the change that
 needs to be made (what to change it to?), then make those changes as
-smooth as possible (how to change it?)[^1]. Every part of the business
+smooth as possible (how to change it?). Every part of the business
 is subject to change. Identifying what to change starts with the need
 for change and linking back to the knowledge, skills, and tools the
 organization has in its arsenal. While some business changes result in a

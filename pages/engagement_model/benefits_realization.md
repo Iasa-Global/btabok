@@ -5,9 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: benefits_realization.html
 folder: engagement_model
-summary: ""
 ---
 
+## Coming Soon
 
 ![image001](media/by-nc.png)
 
