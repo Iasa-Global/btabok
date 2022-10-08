@@ -1,14 +1,14 @@
 ---
-title: "Structured Canvases - Business"
+title: "Business"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
 permalink: business_sc.html
 folder: structured_canvases
-summary: ""
+
 ---
 
-![Structured Canvases - Business](media/scb_001.png)
+![Structured Canvases - Business](media/business_001.png)
 
 1. [Agile Team Designer](agile_team_designer.md){:target="_blank"}
 2. [Ecosystem Map](ecosystem_map.md){:target="_blank"}

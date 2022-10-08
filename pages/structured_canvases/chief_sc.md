@@ -1,12 +1,15 @@
 ---
-title: "Structured Canvases - Chief"
+title: "Chief"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
 permalink: chief_sc.html
 folder: structured_canvases
-summary: ""
+
 ---
+
+![Structured Canvases - Business](media/chief_001.png)
+
 
 1. [Agile Team Designer](agile_team_designer.md){:target="_blank"}
 2. [Ecosystem Map](ecosystem_map.md){:target="_blank"}

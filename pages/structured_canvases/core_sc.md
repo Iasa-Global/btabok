@@ -1,12 +1,14 @@
 ---
-title: "Structured Canvases - Core"
+title: "Core"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
 permalink: core_sc.html
 folder: structured_canvases
-summary: ""
 ---
+
+![Structured Canvases - Business](media/core_001.png)
+
 
 1. [Agile Team Designer](agile_team_designer.md){:target="_blank"}
 2. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}

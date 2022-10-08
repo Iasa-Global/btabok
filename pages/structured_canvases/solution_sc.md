@@ -1,12 +1,13 @@
 ---
-title: "Structured Canvases - Solution"
+title: "Solution"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
 permalink: solution_sc.html
 folder: structured_canvases
-summary: ""
+
 ---
+![Structured Canvases - Business](media/solution_001.png)
 
 1. [Ecosystem Map](ecosystem_map.md){:target="_blank"}
 2. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}
