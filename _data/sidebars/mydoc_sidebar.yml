@@ -347,20 +347,32 @@ entries:
       url: business_sc.html
       output: web
 
-    - title: Software Architecture
-      url: software_architecture_m.html
+    - title: Chief
+      url: chief_sc.html
       output: web
 
-    - title: Software Architecture
-      url: software_architecture_m.html
+    - title: Core
+      url: core_sc.html
       output: web
 
-    - title: Software Architecture
-      url: software_architecture_m.html
+    - title: Engagement Model
+      url: engagement_model_sc.html
       output: web
 
-    - title: Software Architecture
-      url: software_architecture_m.html
+    - title: Information
+      url: information_sc.html
+      output: web
+
+    - title: Infrastructure
+      url: infrastructure_sc.html
+      output: web
+
+    - title: Software
+      url: software_sc.html
+      output: web
+
+    - title: Solution
+      url: solution_sc.html
       output: web
 
   - title: Ethics and Principles
