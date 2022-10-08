@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architects_engagement_touchpoints.html
 folder: structured_canvases
-summary: ""
+
 ---
 
 ![image001](media/architects_engagement_touchpoints001.svg)

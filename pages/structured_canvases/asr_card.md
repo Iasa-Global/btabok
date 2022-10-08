@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: asr_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 The ASR Card is a tool to define an architecturally significant requirement.

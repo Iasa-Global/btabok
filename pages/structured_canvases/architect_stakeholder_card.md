@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_stakeholder_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/architect_stakeholder_card001.svg)
