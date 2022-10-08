@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_tools.html
 folder: engagement_model
-summary: " "
+summary: "How do we cover the vast touchpoints of an architecture tool without covering all technology tools? Think of each of the BTABoK topic areas and imagine how a tool would support it."
 ---
 
 "A fool with a tool is still a fool."
@@ -49,7 +49,7 @@ The following BTABoK concepts and elements are the most essential in selection o
 | Structural Design Complexity | What-if analysis and structural complexity analysis are very difficult elements for an architecture tool to achieve as they require deep integration into both technical and business data and information sources as well as runtime systems. The tools should provide sufficient structural design methods for complex systems to analyze architecture decisions based on deep understanding of structure. However, most enterprises, outside of mission critical systems in health and safety, do not have the finances or staffing to achieve this. |
 | Delivery and Execution | Delivery and execution support is about the evolution, communication and management of design as it is embedded into working code, hardware and business rules. The tool should allow for clear version management and extended team support as well as integration with common project management, development and continuous delivery tools. |
 
-Cards, [Canvases](.\structured_canvases\structured_canvases_m.md){:target="_blank"} and Documents as Tools
+Cards, [Canvases](../structured_canvases/structured_canvases_m.md){:target="_blank"} and Documents as Tools
 
 The BTABoK provides dozens of cards, canvases, [viewpoints](views.md){:target="_blank"} and document templates to aid is specific architecture problem solving. Each of these whether automated or printed provides a specific tool for a specific area of application. The goal is not to use all of these tools for any effort but to learn their application and study their use to be able to use as a particular problem set arises.
 

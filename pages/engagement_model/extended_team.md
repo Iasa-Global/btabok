@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: extended_team.html
 folder: engagement_model
-summary: ""
+summary: "For an organization to successfully mature it's architecture capability, the concepts and value of the architecture practice must be stabilized and well understood."
 ---
 
 Extended Team
@@ -20,12 +20,12 @@ Figure 1 Roles Involved In Extended Teams
 Why It Matters
 ==============
 
-For an organization to successfully mature it's architecture capability, the concepts and value of the architecture practice must be stabilized and well understood. While an extended team model allows for better coverage of the enterprise, decentralized decision making, just in time architecture, self-directing teams, and partner role empowerment, with too small or too unknown an architecture team it devolves quickly into confusion and political infighting. Is the architecture decided by the agile team? By the infrastructure team? By the business? In addition there is no replacing the skills of an experienced architect to handle value management, investment prioritization and strategy in both the planning and the execution sections of the [lifecycle](https://btabok.iasaglobal.org/btabok_3/architecture-lifecycle/).
+For an organization to successfully mature it's architecture capability, the concepts and value of the architecture practice must be stabilized and well understood. While an extended team model allows for better coverage of the enterprise, decentralized decision making, just in time architecture, self-directing teams, and partner role empowerment, with too small or too unknown an architecture team it devolves quickly into confusion and political infighting. Is the architecture decided by the agile team? By the infrastructure team? By the business? In addition there is no replacing the skills of an experienced architect to handle value management, investment prioritization and strategy in both the planning and the execution sections of the [lifecycle](architecture_lifecycle.md){:target="_blank"}.
 
 Themes and Challenges
 =====================
 
-Extended team's arise in many organizations up from the lack of enough architects to cover a full project and capability portfolio. Many if not most organizations use the extended team model, especially early in the [architecture maturity model](https://btabok.iasaglobal.org/maturity-model/). In these organizations for example the development leads and agile teams often decide on which technology to invest in for the project. This creates locally optimized output which often overlaps or even duplicates other investments in the organization sometimes resulting massive duplication of effort, overly complicated systems, and poor investment decisions. In addition, most development teams lack the business skills to accurately calculate what is or isn't best for the organization. Other extended team roles face similar challenges. The PMO will often prioritize business projects according to business objectives decided by individuals with little technology depth leaving many essential components out of the [roadmap](https://btabok.iasaglobal.org/btabok_3/operating-model/roadmap/). Thus, using the extended team model often requires significantly higher maturity to be successful.
+Extended team's arise in many organizations up from the lack of enough architects to cover a full project and capability portfolio. Many if not most organizations use the extended team model, especially early in the [architecture maturity model](../top_menu/maturity_model_m.md){:target="_blank"}. In these organizations for example the development leads and agile teams often decide on which technology to invest in for the project. This creates locally optimized output which often overlaps or even duplicates other investments in the organization sometimes resulting massive duplication of effort, overly complicated systems, and poor investment decisions. In addition, most development teams lack the business skills to accurately calculate what is or isn't best for the organization. Other extended team roles face similar challenges. The PMO will often prioritize business projects according to business objectives decided by individuals with little technology depth leaving many essential components out of the [roadmap](roadmap.md){:target="_blank"}. Thus, using the extended team model often requires significantly higher maturity to be successful.
 
 
 ![image001](media/e_t002.png)
@@ -40,7 +40,7 @@ Organizations that want to be effective and grow continue to move decision makin
 Coverage and the Enterprise
 ---------------------------
 
-[Coverage](https://btabok.iasaglobal.org/btabok_3/value-model/coverage/) in the engagement model refers to the enterprise ability to make informed and valuable decisions in terms of its investment in business and technology. Its goal is that every significant investment in product, technology or process would have architectural decisions with traceability through the decision-making process.
+[Coverage](coverage.md){:target="_blank"} in the engagement model refers to the enterprise ability to make informed and valuable decisions in terms of its investment in business and technology. Its goal is that every significant investment in product, technology or process would have architectural decisions with traceability through the decision-making process.
 
 Just-In-Time Architecture
 -------------------------
@@ -76,7 +76,7 @@ Architects in extended team models find themselves saying no to their organizati
 
 ### The Architect and Agile Teams During Delivery
 
-[Agile](https://btabok.iasaglobal.org/digital-outcome-model/agility/) and architecture are more than naturally compatible once certain criteria are met. Agile patterns provide for quick time to market, self-empowered teams, decisions at the edges and many more benefits. However, without the architect as a part of the team they can lead to siloed delivery, sub-optimized value creation, feature focus, and duplication in the extreme. The criteria which must be met for a valuable agile architecture practice:
+[Agile](agility.md){:target="_blank"} and architecture are more than naturally compatible once certain criteria are met. Agile patterns provide for quick time to market, self-empowered teams, decisions at the edges and many more benefits. However, without the architect as a part of the team they can lead to siloed delivery, sub-optimized value creation, feature focus, and duplication in the extreme. The criteria which must be met for a valuable agile architecture practice:
 
 1.  All teams understand the value of architecture in delivery
 2.  Architects are deeply connected to delivery
@@ -93,7 +93,7 @@ Steps to Running an ET Engagement Model
 
 To be successful your organization should follow these steps
 
-1.  Define the extended [roles](https://btabok.iasaglobal.org/btabok_3/people-model/roles/) explicitly
+1.  Define the extended [roles](roles.md){:target="_blank"} explicitly
 2.  Define role in the SALC (Arch Life Cycle) explicitly
 3.  Educate and mentor and extended team on critical skills
 4.  Constantly include and build relationships extended team

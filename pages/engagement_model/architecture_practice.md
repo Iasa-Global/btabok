@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_practice.html
 folder: engagement_model
-summary: ""
+summary: "Think about all of the professional groups from more standard professions like law and medicine. In these groups, the basis for advancement, delivery, and growth of the profession lies within the overall body of practitioners and is less based on the internal politics, policies and structure of the organizations that employ them."
 ---
 
 "A practice model is the only way to organize a successful architecture group in the long term."
@@ -143,7 +143,7 @@ Figure 3 Architecture Touchpoints Canvas
 Growing Maturity
 ----------------
 
-The maturity of an architect practice is measured by understanding its impact on the outcomes (zone measures) of the digital advantage of an organization. It is impacted primarily by the competence of the team and the maturity of the engagement model. However, it should be noted that even an extremely competent team may only mature the architecture practice within the limits of the overall company maturity. For example, if the executive team is not mature in operations, finance, etc or is resistant to digital transformation, the architecture practice maturity will be limited. See BTABoK [Maturity Model](https://btabok.iasaglobal.org/maturity-model/){:target="_blank"} and Architecture Capability.
+The maturity of an architect practice is measured by understanding its impact on the outcomes (zone measures) of the digital advantage of an organization. It is impacted primarily by the competence of the team and the maturity of the engagement model. However, it should be noted that even an extremely competent team may only mature the architecture practice within the limits of the overall company maturity. For example, if the executive team is not mature in operations, finance, etc or is resistant to digital transformation, the architecture practice maturity will be limited. See BTABoK [Maturity Model](../top_menu/maturity_model_m.md){:target="_blank"} and Architecture Capability.
 
 ![image001](media/a_p004.png)
 
@@ -166,7 +166,7 @@ Some examples and opportunities include:
 
 -   Sharing experiences applying BTABoK concepts or methods of a concept or method on a project -- both and good and bad results (of course this contribution must have private data removed but the learning remains)
 -   Creating videos, articles, or other records of applying patterns or techniques and tagging them to the body of knowledge
--   [Patterns](.\patterns\architecture_pattern_repository.md){:target="_blank"}, [quality attributes](quality_attributes.md){:target="_blank"} and [viewpoint](views.md){:target="_blank"} examples
+-   [Patterns](../patterns/architecture_pattern_repository.md){:target="_blank"}, [quality attributes](quality_attributes.md){:target="_blank"} and [viewpoint](views.md){:target="_blank"} examples
 -   Supporting working groups delivery especially where the working group needs more junior members to help with the overall time contribution required
 
 For more senior members
@@ -186,7 +186,7 @@ It is essential that this group create an understandable [engagement model](enga
 
 ![image001](media/a_p006.png)
 
-The Architect Capability Canvas provides a tool for overall capability management of the architecture practice and there are multiple additional [canvases](.\structured_canvases\structured_canvases_m.md){:target="_blank"} that aid the development of a truly well-understood and accepted model of practice.
+The Architect Capability Canvas provides a tool for overall capability management of the architecture practice and there are multiple additional [canvases](../structured_canvases/structured_canvases_m.md){:target="_blank"} that aid the development of a truly well-understood and accepted model of practice.
 
 ### Processes, Deliverables and Tools
 

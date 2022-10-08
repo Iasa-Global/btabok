@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: analysis.html
 folder: engagement_model
-summary: ""
+summary: "Analysis of the architecture helps us to understand the nature of that compromise.  Many of the architecturally significant requirements are expressions of desired quality attributes."
 ---
 
 "Analysis is the art of creation through destruction."
