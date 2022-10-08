@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: product_roadmap_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/product_roadmap_canvas001.svg)

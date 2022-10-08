@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: impact_effort_assessment_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/impact_effort_assessment_card001.svg)

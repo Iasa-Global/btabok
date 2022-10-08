@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: jtbd_forces.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/jtbd_forces001.svg)

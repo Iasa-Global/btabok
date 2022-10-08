@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: layered_roadmap_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 The layered roadmap provides a tool for understanding the business capability changes, technology services and stakeholder changes rolling out over time.

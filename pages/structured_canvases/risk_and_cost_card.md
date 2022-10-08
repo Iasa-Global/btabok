@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: risk_and_cost_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 

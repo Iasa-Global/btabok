@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: PESTLE_canvas.html
 folder: structured_canvases
-summary: "Traditionally automation is often thought of in terms of industrial automation, which is a subject in itself."
 ---
 
 The PESTLE canvas provides and ecosystem view of the enterprise or an initiative.
