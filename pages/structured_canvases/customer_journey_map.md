@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: customer_journey_map.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/customer_journey_map001.svg)

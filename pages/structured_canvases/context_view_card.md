@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: context_view_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/context_view_card001.svg)

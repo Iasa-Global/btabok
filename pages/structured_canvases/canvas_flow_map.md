@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: canvas_flow_map.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/canvas_flow_map001.svg)

@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: doability_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/doability_canvas001.svg)

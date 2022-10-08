@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: communication_strategy.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/communication_strategy001.svg)

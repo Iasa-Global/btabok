@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: capability_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 The capability card provides a capability analysis tool for understanding a business capability and its measurements.
