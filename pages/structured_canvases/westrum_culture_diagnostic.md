@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: westrum_culture_diagnostic.html
 folder: structured_canvases
-summary: ""
 ---
 
 The WCD helps teams and organizations understand the culture they are working within to better understand their engagement model. The diagnostic provides clear set of tools to describe the environment related to its support for safety and cultural characteristics.

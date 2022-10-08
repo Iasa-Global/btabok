@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: strategic_roadmap_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 The strategic roadmap canvas provides a description of a portfolio or top level strategic view of a set of initiatives, produce/projects or activities. It can be combined.with strategy scorecards and other Strategy tools to define a direction and set of objectives.

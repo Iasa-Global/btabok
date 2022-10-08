@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: value_stream_details_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 The values stream detail canvas is a tool used to understand and design the support for value stream capabilities, the teams working on it and the technology to support the value stream.

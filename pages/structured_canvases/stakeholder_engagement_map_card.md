@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: stakeholder_engagement_map_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 

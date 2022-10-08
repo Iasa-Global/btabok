@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: transition_roadmap_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 The transition roadmap canvas helps to define the major changes which are needed to transform the business to a state which will meet the vision. Each transition should contribute partly or completely to the achievement of the define goals and objectives. Using the transitions from the Strategic Roadmap Canvas, key stakeholders are called to a series of transition workshops where each workshop focuses on a single transition. 

@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: technical_loan_request_card.html
 folder: structured_canvases
-summary: ""
 ---
 
 The technical loan request combines the concept of [Technical Debt](https://btabok.iasaglobal.org/btabok_3/technical-debt/) with a repayment schedule in work days, payment, or other means and allows the architect to ensure technical debt is both deliberate and prudent.
