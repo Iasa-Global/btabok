@@ -11,9 +11,9 @@ An ecosystem can be viewed from many different perspectives, and each organizati
 
 Subject.​
 
-![image001](media/ecosystem_map001.jpg)
+![image001](media/ecosystem_map_001.jpg)
 
-[Download PPT](media/ppt/ECOSYSTEM-MAP.ppt){:target="_blank"}
+[Download PPT](media/ppt/ecosystem_map.ppt){:target="_blank"}
 
 | Area | Description | Links To |
 | :-- | :-- | :-- |

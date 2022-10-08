@@ -16,6 +16,6 @@ Product and project team assignments and structure are deeply important to the s
 Resources
 ---------
 
-- [Assignment article](https://btabok.iasaglobal.org/btabok_3/assignment/)
-- [Extended team article](https://btabok.iasaglobal.org/btabok_3/people-model/extended-team/)
-- [Job Descriptions article](https://btabok.iasaglobal.org/btabok_3/people-model/job-description/)
+- [Assignment article](../engagement_model/assignment.md){:target="_blank"}
+- [Extended team article](../engagement_model/extended_team.md){:target="_blank"}
+- [Job Descriptions article](../engagement_model/job_description.md){:target="_blank"}
