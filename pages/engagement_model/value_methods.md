@@ -5,13 +5,13 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: value_methods.html
 folder: engagement_model
-summary: ""
+summary: "From a business perspective, Architecture is in many cases not seen as contributing to the creation of value."
 ---
 
 Value Methods
 =============
 
-As the [practice](https://btabok.iasaglobal.org/btabok_3/architecture-driven-digital-transformation/) improves [competencies](https://btabok.iasaglobal.org/btabok_3/capability-taxonomy-and-descriptions-3-0/) at describing value in order to get projects funded, it can provide measurement tooling so the operations team can capture evidence based on metrics and can capture additional evidence over time. Once done, it provides the CxO the information they need to provide evidence of business impact delivered through technology. Through effort, this can over time or sometimes quickly shift attitudes about architecture and allow earlier access in the lifecycle which can be leveraged to create even greater impact.
+As the practice improves [competencies](../competency_model/competency_model_m.md) at describing value in order to get projects funded, it can provide measurement tooling so the operations team can capture evidence based on metrics and can capture additional evidence over time. Once done, it provides the CxO the information they need to provide evidence of business impact delivered through technology. Through effort, this can over time or sometimes quickly shift attitudes about architecture and allow earlier access in the lifecycle which can be leveraged to create even greater impact.
 
 But what about business functions that are perceived to have no direct relationship to value creation?
 

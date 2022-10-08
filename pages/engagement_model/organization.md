@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: organization.html
 folder: engagement_model
-summary: ""
+summary: "The terms organization, team, and practice can be used in extremely different ways and creates confusion within a company or group of people."
 ---
 
 "If you could get all the people in the organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time."
@@ -90,7 +90,7 @@ What it takes to be a great architect is vision, a willingness to work alone wit
 Architects are Optimistic Pessimists or Pessimistic Optimists
 -------------------------------------------------------------
 
-To add to the previous Tenet, it is very important to build a culture of real data driven change, strong human dynamic skills, and positive approaches to [stakeholder driven architecture](https://btabok.iasaglobal.org/stakeholder-driven-approach/). Architects have to be both pessimist and optimist at the same time. The practice must say no to the wrong things and say yes to the right things. One of the paradoxes that serve as a basis for the profession. This can and has been learned the hard way by many teams.
+To add to the previous Tenet, it is very important to build a culture of real data driven change, strong human dynamic skills, and positive approaches to stakeholder driven architecture. Architects have to be both pessimist and optimist at the same time. The practice must say no to the wrong things and say yes to the right things. One of the paradoxes that serve as a basis for the profession. This can and has been learned the hard way by many teams.
 
 Make Vendors a Part of the Practice
 -----------------------------------

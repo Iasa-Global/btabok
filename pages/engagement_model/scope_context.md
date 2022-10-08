@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: scope_context.html
 folder: engagement_model
-summary: ""
+summary: "In architecture, scope refers to the amount of business technology strategy impacted by the set of architectural decisions made."
 ---
 
 "I saw in details while she saw in scope. Not seeing the scope is why I am here and she is not. I took each element spearately and never looked to see that they never did fit together properly."

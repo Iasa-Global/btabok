@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: technical_debt.html
 folder: engagement_model
-summary: " "
+summary: "The term was first used by Ward Cunningham, one of the authors of the Agile Manifesto, who said that some problems with code are like financial debt."
 ---
 
 "It's OK to borrow against the future, as long as you pay it off."
@@ -22,7 +22,7 @@ Technical Debt consists of design or implementation constructs that are expedien
 
  Kruchten, Nord and Ozkaya "Managing Technical Debt" -- 2019
 
-The term was first used by Ward Cunningham [1], one of the authors of the Agile Manifesto, who said that some problems with code are like financial debt. It is OK, and even beneficial, to borrow against the future, as long as you pay it off quickly by refactoring the code. Unfortunately, the last part of the statement gets ignored which has led to technical debit becoming a significant problem in many organisations.
+The term was first used by Ward Cunningham, one of the authors of the Agile Manifesto, who said that some problems with code are like financial debt. It is OK, and even beneficial, to borrow against the future, as long as you pay it off quickly by refactoring the code. Unfortunately, the last part of the statement gets ignored which has led to technical debit becoming a significant problem in many organisations.
 
 There is more information about it here: <https://www.agilealliance.org/introduction-to-the-technical-debt-concept/>
 

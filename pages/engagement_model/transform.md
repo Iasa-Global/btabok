@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: transform.html
 folder: engagement_model
-summary: ""
+summary: "Transformation is happening all around and at all levels inside and outside of organizaitons."
 ---
 
 "verb (used with object) to change in form, appearance, or structure; metamorphose. to change in condition, nature, or character; convert."

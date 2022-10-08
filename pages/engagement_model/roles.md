@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: roles.html
 folder: engagement_model
-summary: ""
+summary: "The definition of role provides a unique insight into the need for very careful analysis of the difference between a role of a regular employee and role(s) for professionals."
 ---
 
 All the world's a stage, and all the men and women but merely players;\

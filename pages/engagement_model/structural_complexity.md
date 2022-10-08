@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: structural_complexity.html
 folder: engagement_model
-summary: ""
+summary: "One of the fundamental properties of a Complex system is something that we cannot easily know or cannot easily control."
 ---
 
 "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it."

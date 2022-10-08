@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: deliverables.html
 folder: engagement_model
-summary: ""
+summary: "Deliverables connect the architect to the organization. As one CITA-Professional puts it, 'they are what we leave behind'."
 ---
 
 Deliverables

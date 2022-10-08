@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: product_project.html
 folder: engagement_model
-summary: " "
+summary: "For many years the primary approach to planning the development of IT solutions to business problems has been based on putting together project teams."
 ---
 
 "A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal."

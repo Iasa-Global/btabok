@@ -489,3 +489,7 @@ Review, 39 (1) - Kaplan, Robert S; Norton, David P. (1996)**
 
 **Porter's Generic Strategies - MindTools**
 [MindTools](https://www.mindtools.com/pages/article/newSTR_82.htm#:~:text=According%20to%20Porter's%20Generic%20Strategies,Cost%20Leadership%2C%20Differentiation%20and%20Focus){:target="_blank"}
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at <https://btabok.iasaglobal.org/>
