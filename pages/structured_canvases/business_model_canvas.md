@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_model_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 The BMC provides a business model on a page used for architecture and innovation.

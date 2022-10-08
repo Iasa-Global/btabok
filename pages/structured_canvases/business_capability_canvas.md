@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_capability_canvas.html
 folder: structured_canvases
-summary: ""
 ---
 
 ![image001](media/business_capability_canvas001.svg)
