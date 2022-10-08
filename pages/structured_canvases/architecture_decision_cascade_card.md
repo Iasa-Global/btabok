@@ -10,7 +10,7 @@ folder: structured_canvases
 
 The decision cascade card looks for downstream impacts from a technology decision.
 
-![image001](media/architecture_decision_cascade_card.svg)
+![image001](media/architecture_decision_cascade_card_001.svg)
 
 [Download PPT](media/ppt/architecture_decision_cascade_card.ppt){:target="_blank"}
 

@@ -7,7 +7,7 @@ permalink: value_stream_canvas.html
 folder: structured_canvases
 ---
 
-The value stream canvas is used to understand where value is created in an organization driven from customers through control, suppliers and operations. The first canvas available in the ITABoK is derived visually from traditional manufacturing value streams where it originated. Other value stream canvases (such as the [development value stream canvas](https://btabok.iasaglobal.org/value-stream-canvas)) may be more useful in digital activities.
+The value stream canvas is used to understand where value is created in an organization driven from customers through control, suppliers and operations. The first canvas available in the ITABoK is derived visually from traditional manufacturing value streams where it originated. Other value stream canvases such as the development value stream canvas may be more useful in digital activities.
 
 ![image001](media/value_stream_canvas001.svg)
 
@@ -22,4 +22,4 @@ The value stream canvas is used to understand where value is created in an organ
 | Time | Lead times related to active processing and lead times before next process activates. | Not Applicable |
 | Core Idea | What is the big idea? What is the Value Stream? | Not Applicable |
 | Facts & Figures | Key metrics which impact the value stream. Often understood as either internally related to the execution or externally related to value. | Objective Key Results (related to), Benefits (related to) |
-| Quotes | Key quotes from [stakeholders](../engagement_model/stakeholders.md){:target="_blank"} or [customers](https://btabok.iasaglobal.org/customer-personas/){:target="_blank"}. | [Customer Journeys](customer_journey_map.md) (taken from), [Customer Personas](persona_card.md){:target="_blank"} (taken from), [Stakeholder Engagement Map](stakeholder_engagement_map_card.md){:target="_blank"} (taken from) |
+| Quotes | Key quotes from [stakeholders](../engagement_model/stakeholders.md){:target="_blank"} or [customers](https://btabok.iasaglobal.org/customer-personas/){:target="_blank"}. | [Customer Journeys](customer_journey_map.md){:target="_blank"} (taken from), [Customer Personas](persona_card.md){:target="_blank"} (taken from), [Stakeholder Engagement Map](stakeholder_engagement_map_card.md){:target="_blank"} (taken from) |

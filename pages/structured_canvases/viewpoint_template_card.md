@@ -7,7 +7,7 @@ permalink: viewpoint_template_card.html
 folder: structured_canvases
 ---
 
-The viewpoint template card is used to describe a viewpoint used by an architecture practice. The viewpoint concept ([see views article](https://btabok.iasaglobal.org/views-and-viewpoints/)) is used to help in describing an architecture and is based on ISO 42010.
+The viewpoint template card is used to describe a viewpoint used by an architecture practice. The viewpoint concept [see views article](../engagement_model/views.md){:target="_blank"} is used to help in describing an architecture and is based on ISO 42010.
 
 ![image001](media/viewpoint_template_card001.svg)
 
