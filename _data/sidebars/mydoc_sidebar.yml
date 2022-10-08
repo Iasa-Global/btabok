@@ -343,7 +343,7 @@ entries:
     output: web
     folderitems:
 
-    - title: Structured Canvases - Business
+    - title: Business
       url: business_sc.html
       output: web
 
