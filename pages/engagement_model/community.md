@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: community.html
 folder: engagement_model
-summary: ""
+summary: "In addition, community is the center of excellence in professional practice, including both the internal community as well as the external community of architects."
 ---
 
 What Is Community

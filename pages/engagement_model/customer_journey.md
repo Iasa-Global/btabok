@@ -96,4 +96,8 @@ This exercise results in a complete model of the processes required to deliver v
 
 # References
 
-[^1]: **Manning, H., Bodine, K. *Outside-In: The Power of Putting Customers at the Center of Your Business*, New Harvest Books, New York, NY: 2012** 
+**Manning, H., Bodine, K. *Outside-In: The Power of Putting Customers at the Center of Your Business*, New Harvest Books, New York, NY: 2012**
+
+![image001](media/by-nc.png)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
