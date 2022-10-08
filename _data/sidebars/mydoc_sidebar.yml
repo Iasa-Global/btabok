@@ -343,8 +343,24 @@ entries:
     output: web
     folderitems:
 
-    - title: Overview
-      url: structured_canvases_m.html
+    - title: Structured Canvases - Business
+      url: business_sc.html
+      output: web
+
+    - title: Software Architecture
+      url: software_architecture_m.html
+      output: web
+
+    - title: Software Architecture
+      url: software_architecture_m.html
+      output: web
+
+    - title: Software Architecture
+      url: software_architecture_m.html
+      output: web
+
+    - title: Software Architecture
+      url: software_architecture_m.html
       output: web
 
   - title: Ethics and Principles

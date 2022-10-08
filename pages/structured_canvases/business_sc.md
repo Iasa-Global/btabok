@@ -8,6 +8,8 @@ folder: structured_canvases
 summary: ""
 ---
 
+![Structured Canvases - Business](media/scb_001.png)
+
 1. [Agile Team Designer](agile_team_designer.md){:target="_blank"}
 2. [Ecosystem Map](ecosystem_map.md){:target="_blank"}
 3. [Ecosystem Map Canvas](ecosystem_map_canvas.md){:target="_blank"}
