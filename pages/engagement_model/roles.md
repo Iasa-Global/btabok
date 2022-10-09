@@ -101,7 +101,7 @@ What are the Recognized/Certified Specializations?
 
 The BTABoK recognizes five primary specializations which can be board certified and delivered as a part of the working architecture practice. BIISS or Business, Information, Infrastructure, Software, and Solution architects. These specializations include all of the competencies necessary to support an architect in any activity within their area of focus. In addition, the BTABoK recognizes several sub-specializations which are extremely specialized areas of knowledge but at a higher scope. The BTABoK includes Role Descriptions for each of these specializations which can be used for hiring purposes.
 
-![image001](media/roles006.png)
+![image001](media/roles006.jpeg)
 
 The profession must be based on equal buy in to descriptions -- possible relationship to numbers of architects in the world.
 

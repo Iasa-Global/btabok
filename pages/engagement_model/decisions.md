@@ -79,7 +79,7 @@ To re-enforce a decision and to ensure it is as free of bias as possible, use th
 
 ### Decisions and their Characteristics and Methods
 
-Decisions can be implemented in numerous ways and have many characteristics. While this article includes all of them, normally only one or two are used except for the biggest decisions. These techniques are further expanded in the [Value Methods](value_methods.md){:target="_blank"} article.
+Decisions can be implemented in numerous ways and have many characteristics. While this article includes all of them, normally only one or two are used except for the biggest decisions. These techniques are further expanded in the [Value Methods](https://btabok.iasaglobal.org/btabok_3/value-methods/) article.
 
 | **Method** | **Decision Management** | **Characteristics** |
 | --- | --- | --- |

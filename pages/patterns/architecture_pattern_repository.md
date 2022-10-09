@@ -70,7 +70,7 @@ Pattern Types and Catalog
 
 | **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------|
-| Cloud            | Infrastructure, Software, Solution | [Cloud Patterns Library](https://btabok.iasaglobal.org/btabok_3/cloud-patterns/) |
+| Cloud            | Infrastructure, Software, Solution | Cloud Patterns Library |
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
 

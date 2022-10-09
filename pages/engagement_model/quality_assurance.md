@@ -262,7 +262,7 @@ implementation.
 
 Once a product or service is implemented and executable, the
 requirements on the architecture can be validated. [Quality
-attributes](.\qualityattributes.md) provide a set of non-functional requirements on
+attributes](quality_attributes.md){:target="_blank"} provide a set of non-functional requirements on
 the architecture, but these can still be tested. For example,
 performance and robustness as quality attributes are often tested before
 product release.

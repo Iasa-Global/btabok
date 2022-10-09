@@ -104,7 +104,7 @@ model, they have since been formalized in the *"[ISO/IEC/IEEE
 shows the context and relationships of views and viewpoints with the
 architecture description, stakeholders, and concerns: 
 
-![image001](media/views_ISO-model.png "ISO Model")
+![image001](media/views_001.png)
 
 **Figure 1. Excerpt from Conceptual Framework of ISO42010 **
 
@@ -163,7 +163,7 @@ aspects, hence providing different Views of the architecture.
 
 The architect creates or uses viewpoints to communicate the architecture in a way that addresses a particular set of stakeholder concerns. The viewpoint provides the basis and tools for constructing views for the stakeholders. The following diagram shows several viewpoints the architect may use with different types of stakeholders.
 
-![image001](media/views_viewpoints-1.png "ISO Model")
+![image001](media/views_002.png)
 
 Often an organization will mandate a set of viewpoints defined in the
 template for the architecture description, but sometimes it will be up

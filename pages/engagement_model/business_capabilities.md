@@ -404,8 +404,7 @@ improvement project or program, depending on its size.
     (*<https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7>).
 
 [^6]: Perry, Stott, and Smallwood, Real-Time Strategy: Improvising
-    Team-Based Planning for a Fast-Changing World, New York, NY: Wiley,
-    1993.
+    Team-Based Planning for a Fast-Changing World, New York, NY: Wiley, 1993.
 
 ![image001](media/by-nc.png)
 

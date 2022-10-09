@@ -49,7 +49,7 @@ Targets in simplicity will impact the prioritization of modernizing applications
 
 ### New Might Not Be Better
 
-The opposite pattern to modernization is the acquisition of new technology solutions for existing patterns without thought as to the complexity created by the resulting proliferation of [design patterns](patterns/architecture_pattern_repository.md){:target="_blank"}, technologies in production and spread of skills and maintenance required. Curbing the desire to implement the 'bleeding edge' of frameworks, libraries and tools may be the best outcome an organization can achieve.
+The opposite pattern to modernization is the acquisition of new technology solutions for existing patterns without thought as to the complexity created by the resulting proliferation of [design patterns](../patterns/architecture_pattern_repository.md){:target="_blank"}, technologies in production and spread of skills and maintenance required. Curbing the desire to implement the 'bleeding edge' of frameworks, libraries and tools may be the best outcome an organization can achieve.
 
 ### Everything and the Kitchen Sink
 

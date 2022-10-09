@@ -10,7 +10,7 @@ summary: "When collaboration works well, it leads to significant gains in produc
 
 > "You are in the customer experience business &mdash; whether you know it or not."
 
-*Harley Manning and Kerry Bodine in "Outside-In"[^1]*
+*Harley Manning and Kerry Bodine in "Outside-In"*
 
 # Introduction
 
@@ -57,11 +57,11 @@ Obviously, the customer experience is important, and it starts with the customer
 
 Start by identifying all of the channels used to reach customers. For most companies, these include a website, perhaps a store, telephone sales, and maybe a direct sales force. Each embodies a unique customer journey. For each channel, identify the stages of the journey, using the Customer Journey Canvas in FIg. 1.
 
-![Figure_1](media/customer_journey/CUSTOMER JOURNEY MAP CANVAS-033.jpg)
+![Figure_1](media/customer_journey_001.jpg)
 
 Each stage may be expanded using the Journey Stage Canvas in Fig. 2.
 
-![Figure_2](media/customer_journey/JOURNEY STAGE CANVAS-041.jpg)
+![Figure_2](media/customer_journey_002.jpg)
 
 Each stage identifies a touchpoint through which the vaiue proposistions are delivered to the customer. Each touchpoint is the end of a value-delivering process. Create an Ishikawa diagram for each, with the main arrow representing the value-delivering process. The resulting collection of arrows will be used in the next two sections.
 
