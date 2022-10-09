@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: benefits_realization.html
 folder: engagement_model
+tags: 
+  - value_model
 ---
 
 ## Coming Soon

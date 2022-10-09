@@ -6,6 +6,8 @@ toc: true
 permalink: coverage.html
 folder: engagement_model
 summary: "Coverage is one of the missing elements in most architecture practices."
+tags: 
+  - value_model
 ---
 
 "I think carrying moral baggage is very dangerous for an artist. If you have a duty, it's to be true and not cover up the cracks."

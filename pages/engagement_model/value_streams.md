@@ -6,6 +6,8 @@ toc: true
 permalink: value_streams.html
 folder: engagement_model
 summary: "Whether you are trying to bring a new product or service to market, merge or acquire, change your sourcing, transform digitally, enter new markets or optimise operations you will need to understand how value flows to customers and other stakeholders through your organisations capabilities."
+tags: 
+  - value_model
 ---
 
 Definition

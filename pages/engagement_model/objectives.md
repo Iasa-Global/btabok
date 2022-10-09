@@ -6,6 +6,8 @@ toc: true
 permalink: objectives.html
 folder: engagement_model
 summary: "Objectives provide a way of ensuring that all the stakeholders have a common understanding of the aims and are all pulling in the same direction."
+tags: 
+  - value_model
 ---
 
 # What is a Objective

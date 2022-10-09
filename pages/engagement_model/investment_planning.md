@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: investment_planning.html
 folder: engagement_model
-summary: ""
+summary: "Investment planning may be the most important change management control an organization undergoes in change management as it exposes the goals, aspirations and visions of the leadership and employees and sets them into motion."
+tags: 
+  - value_model
 ---
 
 "The placing of funds into the proper investment vehicles based on the investor's future goals, time horizon, and priorities. This also takes into account the safety of the investments [..]"

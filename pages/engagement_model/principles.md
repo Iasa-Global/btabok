@@ -6,6 +6,8 @@ toc: true
 permalink: principles.html
 folder: engagement_model
 summary: "Principles can be seen as the experiential rules we have learned as an organization to guide *how* we construct efficient solutions or how we try to frame decisions we come across repeatedly."
+tags: 
+  - value_model
 ---
 
 "a basic idea or rule that explains or controls how something happens or works"
