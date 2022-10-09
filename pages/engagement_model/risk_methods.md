@@ -6,6 +6,8 @@ toc: true
 permalink: risk_methods.html
 folder: engagement_model
 summary: "Managing risk is an important aspect of delivering an architecture and influences the decision-making process."
+tags: 
+  - value_model
 ---
 
 What is Risk

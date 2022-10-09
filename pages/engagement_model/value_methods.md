@@ -6,6 +6,8 @@ toc: true
 permalink: value_methods.html
 folder: engagement_model
 summary: "From a business perspective, Architecture is in many cases not seen as contributing to the creation of value."
+tags: 
+  - value_model
 ---
 
 Value Methods
