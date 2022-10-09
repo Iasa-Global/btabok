@@ -7,7 +7,7 @@ permalink: journey.html
 folder: engagement_model
 summary: "Information technology has had a similar trajectory. When it first arrived on the scene its focus was to digitize key processes, be they accounting or inventory or logistics."
 tags: 
-  - digital customer
+  - digital_customer
 ---
 
 “You’ve got to start with the customer experience and work back the technology, not the other way round.”

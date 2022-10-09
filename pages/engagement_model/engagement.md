@@ -7,7 +7,7 @@ permalink: engagement.html
 folder: engagement_model
 summary: "Thinking of engagement as a set of outcomes is beneficial. By nature, most individuals think of the customer from the inside out (look ‘out’ at the customer)."
 tags: 
-  - digital customer
+  - digital_customer
 ---
 
 “We see our customers as invited guests to a party, and we are the hosts. It’s our job every day to make every important aspect of the customer experience a little bit better.”

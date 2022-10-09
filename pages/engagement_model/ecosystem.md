@@ -7,7 +7,7 @@ permalink: ecosystem.html
 folder: engagement_model
 summary: "An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation."
 tags: 
-  - digital customer
+  - digital_customer
 ---
 
 # What is the Ecosystem
