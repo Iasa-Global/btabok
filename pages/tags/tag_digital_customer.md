@@ -1,6 +1,6 @@
 ---
 title: "Digital Customer"
-tagName: digital customer
+tagName: digital_customer
 search: exclude
 permalink: tag_digital_customer.html
 sidebar: mydoc_sidebar
