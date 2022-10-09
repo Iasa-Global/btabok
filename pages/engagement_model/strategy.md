@@ -6,6 +6,8 @@ toc: true
 permalink: strategy.html
 folder: engagement_model
 summary: "All strategies are different, and depending on the subject of the strategy, will require input from different strategic perspectives."
+tags: 
+  - digital_business
 ---
 
 # What is strategy

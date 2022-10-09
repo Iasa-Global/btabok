@@ -6,6 +6,8 @@ toc: true
 permalink: business_capabilities.html
 folder: engagement_model
 summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+tags: 
+  - digital_business
 ---
 
 ## Why do we need to think Business Capabilities?

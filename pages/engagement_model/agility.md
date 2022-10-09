@@ -6,6 +6,8 @@ toc: true
 permalink: agility.html
 folder: engagement_model
 summary: "Technology is a driver for the speed and frequency of significant changes in the world. Access to communication tools."
+tags: 
+  - digital_business
 ---
 
 # What is Agility

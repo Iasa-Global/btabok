@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_models.html
 folder: engagement_model
-summary: "An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation."
+summary: "Architects create and maintain the designs for the business model and the operating model that implements it."
+tags: 
+  - digital_business
 ---
 
 # What is a Business Model?
