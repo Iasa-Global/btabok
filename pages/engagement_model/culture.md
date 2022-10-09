@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: culture.html
 folder: engagement_model
-summary: "Let’s assume the person in the example is a general manager at a manufacturing plant with 1,000 employees."
+summary: "Organizational culture can be seen through two different constructs: as a metaphor and an archetype."
+tags: 
+  - digital_employee
 ---
 
 Culture eats strategy for breakfast.

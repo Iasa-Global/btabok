@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: mindset.html
 folder: engagement_model
-summary: "Let’s assume the person in the example is a general manager at a manufacturing plant with 1,000 employees."
+summary: "A digital mindset is one that is compatible with the creation of digital outcomes in what may or may not have been a previously manual, operational, or human-based activity and to see that as a positive outcome both personally and for the company. "
+tags: 
+  - digital_employee
 ---
 
 “The mind is just like a muscle – the more you exercise it, the stronger it gets and the more it can expand”

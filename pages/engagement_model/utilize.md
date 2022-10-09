@@ -6,6 +6,8 @@ toc: true
 permalink: utilize.html
 folder: engagement_model
 summary: "It is at first difficult to understand why utilization is required when there is a measurement article."
+tags: 
+  - digital_employee
 ---
 
 "Anything that is wasted effort represents wasted time. The best management of our time thus becomes linked inseparably with the best utilization of our efforts."

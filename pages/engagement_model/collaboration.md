@@ -6,6 +6,8 @@ toc: true
 permalink: collaboration.html
 folder: engagement_model
 summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+tags: 
+  - digital_employee
 ---
 
 # What is Collaboration
