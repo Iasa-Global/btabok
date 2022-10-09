@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: agile_enterprise_impact_canvas.html
 folder: structured_canvases
+tags: 
+  - Business
 ---
 
 ![image001](media/agile_enterprise_impact_canvas001.svg)
