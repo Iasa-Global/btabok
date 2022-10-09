@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: journey.html
 folder: engagement_model
-summary: "An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation."
+summary: "Information technology has had a similar trajectory. When it first arrived on the scene its focus was to digitize key processes, be they accounting or inventory or logistics."
 tags: 
   - digital customer
 ---

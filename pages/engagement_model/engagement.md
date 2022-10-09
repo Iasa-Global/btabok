@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: engagement.html
 folder: engagement_model
-summary: "An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation."
+summary: "Thinking of engagement as a set of outcomes is beneficial. By nature, most individuals think of the customer from the inside out (look ‘out’ at the customer)."
 tags: 
   - digital customer
 ---
