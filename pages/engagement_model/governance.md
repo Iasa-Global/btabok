@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: governance.html
 folder: engagement_model
-summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+summary: "These norms, values and policies may be specific to the organization and to the industry sector the organization is involved in."
+tags: 
+  - operating_model
 ---
 
 # What is Governance

@@ -6,6 +6,8 @@ toc: true
 permalink: repository.html
 folder: engagement_model
 summary: "A repository will likely be seen a documentation tool. However true this may be from a technology perspective, the purpose of the repository is to provide two fundamental elements to the architecture team."
+tags: 
+  - operating_model
 ---
 
 "I had found my religion: nothing seemed more important to me than a book. I saw the library as a temple."

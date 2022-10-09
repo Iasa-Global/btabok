@@ -6,6 +6,8 @@ toc: true
 permalink: requirements.html
 folder: engagement_model
 summary: "Requirements are recognized and developed throughout the entire portfolio of the enterprise."
+tags: 
+  - operating_model
 ---
 
 > “The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems.”

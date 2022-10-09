@@ -5,7 +5,10 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: quality_assurance.html
 folder: engagement_model
-summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+summary: "Perhaps the most important reason for quality assurance is that the
+customer receives a product or service at the expected quality."
+tags: 
+  - operating_model
 ---
 
 # What is Quality Assurance

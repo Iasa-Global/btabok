@@ -5,7 +5,11 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: legacy_modernization.html
 folder: engagement_model
-summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+summary: "An organization that has a good level of agility has a substantial
+competitive advantage, it enables the organization to react, and change
+quickly to the surrounding environment."
+tags: 
+  - operating_model
 ---
 
 # What is Legacy Modernization

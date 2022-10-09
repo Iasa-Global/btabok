@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: experiments.html
 folder: engagement_model
-summary: " "
+summary: "Experimentation and especially continuous experimentation provides a kind of running metrics dashboard and forces the architect and organization to think in terms of product measures which directly impact value."
+tags: 
+  - operating_model
 ---
 
 Experiments Our success at Amazon is a function of how many experiments we do per year, per month, per week, per day.

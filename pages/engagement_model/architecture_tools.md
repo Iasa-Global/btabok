@@ -6,6 +6,8 @@ toc: true
 permalink: architecture_tools.html
 folder: engagement_model
 summary: "How do we cover the vast touchpoints of an architecture tool without covering all technology tools? Think of each of the BTABoK topic areas and imagine how a tool would support it."
+tags: 
+  - operating_model
 ---
 
 "A fool with a tool is still a fool."

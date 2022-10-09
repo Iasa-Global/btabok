@@ -6,6 +6,8 @@ toc: true
 permalink: quality_attributes.html
 folder: engagement_model
 summary: "A quality attribute around security might be to prevent malicious code being added to the system through a plug-in developed by another organization."
+tags: 
+  - operating_model
 ---
 
 "Quality is never an accident. It is always the result of intelligent effort."

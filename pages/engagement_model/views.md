@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: views.html
 folder: engagement_model
-summary: "Views and Viewpoints are a fundamental part of architecture work, and are included in many books or courses which teach architecture. "
+summary: "Views and Viewpoints are a fundamental part of architecture work, and are included in many books or courses which teach architecture."
+tags: 
+  - operating_model
 ---
 
 # What is a View

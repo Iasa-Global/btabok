@@ -5,7 +5,11 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: roadmap.html
 folder: engagement_model
-summary: "When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge."
+summary: "The roadmap also gives a framework for making broad estimations
+regarding budget and resources, this can be used to assess the
+feasibility of a business initiative before detailed planning starts."
+tags: 
+  - operating_model
 ---
 
 # What is a Roadmap

@@ -6,6 +6,8 @@ toc: true
 permalink: stakeholders.html
 folder: engagement_model
 summary: "Managing stakeholders can take a lot of effort, and where an assignment has a great many stakeholders this can be very challenging."
+tags: 
+  - operating_model
 ---
 
 # What are Stakeholders
