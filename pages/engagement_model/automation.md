@@ -6,6 +6,8 @@ toc: true
 permalink: automation.html
 folder: engagement_model
 summary: "Traditionally automation is often thought of in terms of industrial automation, which is a subject in itself."
+tags: 
+  - digital_operations
 ---
 
 # What is Automation

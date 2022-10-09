@@ -6,6 +6,8 @@ toc: true
 permalink: measures.html
 folder: engagement_model
 summary: "The definitions of 'to measure' give a clear picture of why it is critical to an organization. Measurement is the act of understanding the standard units or value of anything."
+tags: 
+  - digital_operations
 ---
 
 "Quote: People think the free market is a philosophy; they believe it is a creed. It is none of those things. The free market is a bathroom scale; it is a measuring tape; it's simply a measurement."

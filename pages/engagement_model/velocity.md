@@ -6,6 +6,8 @@ toc: true
 permalink: velocity.html
 folder: engagement_model
 summary: "In order for a business to measure velocity a direction has to be specified, and a time period given for the measurement."
+tags: 
+  - digital_operations
 ---
 
 # What is Velocity

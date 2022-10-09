@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: simplicity.html
 folder: engagement_model
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+summary: "Is not just the lack of complexity but a way of looking at a system of people, process and technology to optimize it for understanding, action and form or design."
+tags: 
+  - digital_operations
 ---
 
 "Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art."

@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: safety_liability.html
 folder: engagement_model
-summary: "In today’s fast-changing business environment the ability to innovate quickly is needed to survive."
+summary: "Like any tool, software can be misused, or used for a purpose for which it was not intended (ever use a screwdriver as a chisel or prybar?)."
+tags: 
+  - digital_operations
 ---
 
 "It takes leadership to improve safety."
