@@ -6,6 +6,8 @@ toc: true
 permalink: engagement.html
 folder: engagement_model
 summary: "An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation."
+tags: 
+  - digital customer
 ---
 
 “We see our customers as invited guests to a party, and we are the hosts. It’s our job every day to make every important aspect of the customer experience a little bit better.”

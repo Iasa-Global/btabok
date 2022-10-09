@@ -1,8 +1,8 @@
 ---
-title: "Welcome Page"
-tagName: welcome_page
+title: "Digital Customer"
+tagName: business
 search: exclude
-permalink: tag_welcome_page.html
+permalink: tag_digital_customer.html
 sidebar: mydoc_sidebar
 folder: tags
 ---

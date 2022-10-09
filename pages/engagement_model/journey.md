@@ -6,6 +6,8 @@ toc: true
 permalink: journey.html
 folder: engagement_model
 summary: "An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation."
+tags: 
+  - digital customer
 ---
 
 “You’ve got to start with the customer experience and work back the technology, not the other way round.”

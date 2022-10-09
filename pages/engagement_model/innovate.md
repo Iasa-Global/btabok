@@ -6,6 +6,8 @@ toc: true
 permalink: innovate.html
 folder: engagement_model
 summary: "The standard definition of innovation is the introduction of a new idea, which also applies to new services, products, methods, tools, including alterations to existing methods."
+tags: 
+  - digital customer
 ---
 
 > "For good ideas and true innovation, you need human interaction, conflict, argument, debate."
