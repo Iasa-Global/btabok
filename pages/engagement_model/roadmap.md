@@ -5,8 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: roadmap.html
 folder: engagement_model
-summary: "The roadmap also gives a framework for making broad estimations
-regarding budget and resources, this can be used to assess the
+summary: "The roadmap also gives a framework for making broad estimations regarding budget and resources, this can be used to assess the
 feasibility of a business initiative before detailed planning starts."
 tags: 
   - operating_model
