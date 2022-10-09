@@ -5,8 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: services.html
 folder: engagement_model
-summary: "The services which are provided by a capability may be manual, automated
-or more often a mix of both."
+summary: "The services which are provided by a capability may be manual, automated or more often a mix of both."
+tags: 
+  - operating_model
 ---
 
 # What is a Service

@@ -6,6 +6,8 @@ toc: true
 permalink: assignment.html
 folder: engagement_model
 summary: "Depending on organizational maturity and architecture maturity as well as work delivery methodology in use the architecture team must customize their process."
+tags: 
+  - operating_model
 ---
 
 " I do not want to waste any time. And if you are not working on important things, you are wasting time."

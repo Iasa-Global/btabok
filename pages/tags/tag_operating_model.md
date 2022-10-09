@@ -1,5 +1,5 @@
 ---
-title: "Digital Model"
+title: "Operating Model"
 tagName: operating_model
 search: exclude
 permalink: tag_operating_model.html

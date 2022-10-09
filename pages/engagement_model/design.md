@@ -6,6 +6,8 @@ toc: true
 permalink: design.html
 folder: engagement_model
 summary: "Design has become more important because software has become more and more complex"
+tags: 
+  - operating_model
 ---
 
 > “All architecture is design, but not all design is architecture.

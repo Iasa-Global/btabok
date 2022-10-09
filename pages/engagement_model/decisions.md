@@ -6,6 +6,8 @@ toc: true
 permalink: decisions.html
 folder: engagement_model
 summary: "Architectural decisions are at the root of our practice but they are often hard to spot."
+tags: 
+  - operating_model
 ---
 
 "Making good decisions is a crucial skill at every level."
