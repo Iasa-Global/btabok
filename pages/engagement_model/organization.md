@@ -6,6 +6,8 @@ toc: true
 permalink: organization.html
 folder: engagement_model
 summary: "The terms organization, team, and practice can be used in extremely different ways and creates confusion within a company or group of people."
+tags: 
+  - people_model
 ---
 
 "If you could get all the people in the organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time."

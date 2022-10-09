@@ -6,6 +6,8 @@ toc: true
 permalink: extended_team.html
 folder: engagement_model
 summary: "For an organization to successfully mature it's architecture capability, the concepts and value of the architecture practice must be stabilized and well understood."
+tags: 
+  - people_model
 ---
 
 Extended Team

@@ -6,6 +6,8 @@ toc: true
 permalink: competency.html
 folder: engagement_model
 summary: "Competency is therefore the combined skills necessary to be a successful architect which an architect hones, develops and grows throughout their career."
+tags: 
+  - people_model
 ---
 
 What is Competency

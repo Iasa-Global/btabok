@@ -6,6 +6,8 @@ toc: true
 permalink: job_description.html
 folder: engagement_model
 summary: "To deliver value to the organization the architect team must have the appropriate focus and the appropriate skills."
+tags: 
+  - people_model
 ---
 
 The Iasa default job descriptions are published as an aid to organizations setting up or reorganizing their architecture practice. These job descriptions in combination with the Iasa skills taxonomy, engagement model, training and certifications serve as the baseline by which organizations may define a robust [architecture practice](architecture_practice.md){:target="_blank"} with balanced and focused architecture practices.
