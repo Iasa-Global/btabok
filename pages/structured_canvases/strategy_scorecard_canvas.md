@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: strategy_scorecard_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 The strategy scorecard is a combination of a strategy map and a balanced scorecard. It is used to link strategic objectives to initiatives, Projects/Products, and measurements. The strategy scorecard is a tool used significantly in business. The columns align the goals of the executive levels to actual project/product level work. To do this it needs to be 'layered' against objectives meaning successive levels of detailed objectives can be added under the objectives and aligned with capabilities or delivery groups. It can be used with Roadmaps, and many other SCA tools.

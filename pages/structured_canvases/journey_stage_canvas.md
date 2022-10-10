@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: journey_stage_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/journey_stage_canvas001.svg)

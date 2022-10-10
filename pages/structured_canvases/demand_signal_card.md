@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: demand_signal_card.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/demand_signal_card001.svg)

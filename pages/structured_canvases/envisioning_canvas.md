@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: envisioning_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/envisioning_canvas001.svg)

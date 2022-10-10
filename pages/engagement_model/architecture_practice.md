@@ -6,6 +6,8 @@ toc: true
 permalink: architecture_practice.html
 folder: engagement_model
 summary: "Think about all of the professional groups from more standard professions like law and medicine. In these groups, the basis for advancement, delivery, and growth of the profession lies within the overall body of practitioners and is less based on the internal politics, policies and structure of the organizations that employ them."
+tags: 
+  - architecture_practice
 ---
 
 "A practice model is the only way to organize a successful architecture group in the long term."

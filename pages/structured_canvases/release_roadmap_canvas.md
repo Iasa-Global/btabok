@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: release_roadmap_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/release_roadmap_canvas001.svg)

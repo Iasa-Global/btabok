@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: service_domain_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/service_domain_canvas001.svg)

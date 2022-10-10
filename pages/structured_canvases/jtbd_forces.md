@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: jtbd_forces.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/jtbd_forces001.svg)

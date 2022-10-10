@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: development_value_stream_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/development_value_stream_canvas001.svg)

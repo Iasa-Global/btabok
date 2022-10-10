@@ -1,5 +1,5 @@
 ---
-title: "Business pages"
+title: "Business"
 tagName: business
 search: exclude
 permalink: tag_business.html

@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: decision_bias_calibrator_1.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 The bias calibrator helps architects determine whether cognitive bias is impacting their decisions.

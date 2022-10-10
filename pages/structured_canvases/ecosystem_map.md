@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: ecosystem_map.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 An ecosystem can be viewed from many different perspectives, and each organization will have its own set of interests in the ecosystem. Therefore, the model used for analyzing the ecosystem is flexible and can be used with different types of organizations, and different types of customers. The Ecosystem Map Canvas shows an ecosystem, rather like a universe of different parties organized around a particular
