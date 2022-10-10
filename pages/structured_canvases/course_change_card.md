@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: course_change_card.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/course_change_card001.svg)

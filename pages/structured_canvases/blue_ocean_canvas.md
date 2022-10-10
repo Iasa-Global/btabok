@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: blue_ocean_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/blue_ocean_canvas001.svg)

@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: benefits_realization_view_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/benefits_realization_view_canvas001.svg)

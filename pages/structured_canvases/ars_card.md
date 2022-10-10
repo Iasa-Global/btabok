@@ -5,7 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: ars_card.html
 folder: structured_canvases
-
+tags: 
+  - business
 ---
 
 ![image001](media/ars_card001.svg)

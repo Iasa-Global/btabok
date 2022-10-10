@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_case_nabc_card.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 
