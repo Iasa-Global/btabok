@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: leadership_and_management.html
 folder: competency_model
-summary: ""
+summary: "A clearly defined vision includes the who, what, when, where, why, and how of the project."
+tags: 
+  - human_dynamics
 ---
 
 Description
