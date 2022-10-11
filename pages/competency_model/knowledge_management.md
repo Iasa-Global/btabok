@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: knowledge_management.html
 folder: competency_model
-summary: ""
+summary: "The architect needs to understand what are the Critical items of knowledge in the Organisation that will add value."
+tags: 
+  - it_environment
 ---
 
 Description

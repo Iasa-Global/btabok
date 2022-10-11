@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: decision_support.html
 folder: competency_model
-summary: ""
+summary: "Decision support includes all aspects that influence the way that significant decisions are made in an organization."
+tags: 
+  - it_environment
 ---
 
 Description

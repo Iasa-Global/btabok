@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: tmtt.html
 folder: competency_model
-summary: ""
+summary: "Within the activity of testing are put on trial two aspects of software quality"
+tags: 
+  - it_environment
 ---
 
 Description

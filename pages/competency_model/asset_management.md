@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: asset_management.html
 folder: competency_model
-summary: ""
+summary: "Understands primary concepts in asset management"
+tags: 
+  - it_environment
 ---
 
 Description

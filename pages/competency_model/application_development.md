@@ -6,6 +6,8 @@ toc: true
 permalink: application_development.html
 folder: competency_model
 summary: "The ability to understand how applications are developed is a key skill for architects, they play a pivotal role working with the project manager to define the approach for a project."
+tags: 
+  - it_environment
 ---
 
 Description

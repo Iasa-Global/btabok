@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: platforms_and_frameworks.html
 folder: competency_model
-summary: ""
+summary: "An understanding of how platforms and frameworks relate to each other and the ability to evaluate frameworks against each other in specific and different contexts."
+tags: 
+  - it_environment
 ---
 
 Description

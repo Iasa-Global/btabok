@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: change_management.html
 folder: competency_model
-summary: ""
+summary: "Architectural change management is the process by which the architecture is moved into production and the target"
+tags: 
+  - it_environment
 ---
 
 Description

@@ -6,6 +6,8 @@ toc: true
 permalink: technical_pm.html
 folder: competency_model
 summary: "Technical Project Management differs from Administrative Project Management in that specific knowledge about technologies, applied methodologies and development models are required to ensure success in planning, estimation and execution of the project."
+tags: 
+  - it_environment
 ---
 
 # Description

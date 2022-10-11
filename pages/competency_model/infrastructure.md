@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: infrastructure.html
 folder: competency_model
-summary: ""
+summary: "All architectures which will leverage information technology assets will ultimately depend on IT infrastructure to operate."
+tags: 
+  - it_environment
 ---
 
 Description
