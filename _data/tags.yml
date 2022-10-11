@@ -1,6 +1,6 @@
 # Note:
 # If you are using the createtag script, don't leave a blank line at the end of this file.
-# In other words, the last line must be the last tag in the allowed-tags list.
+# In other words, the last line must be the last tag in the allowed-tags list. 
 allowed-tags:
   - digital_customer
   - digital_business
