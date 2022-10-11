@@ -6,6 +6,8 @@ toc: true
 permalink: sms.html
 folder: competency_model
 summary: ""
+tags:
+  - infrastructure_architecture
 ---
 
 Description

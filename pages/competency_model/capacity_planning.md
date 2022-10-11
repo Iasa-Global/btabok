@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: capacity_planning.html
 folder: competency_model
-summary: ""
+summary: "The Capacity Planning architectural capability is going through a significant change at this time."
+tags:
+  - infrastructure_architecture
 ---
 
 Description 

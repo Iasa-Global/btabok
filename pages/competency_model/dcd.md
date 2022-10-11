@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: dcd.html
 folder: competency_model
-summary: ""
+summary: "The architect needs to understand how to make technology trade-offs based on the business requirements for the data center."
+tags:
+  - infrastructure_architecture
 ---
 
 Description

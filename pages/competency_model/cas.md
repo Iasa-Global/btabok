@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: cas.html
 folder: competency_model
-summary: ""
+summary: "Directory services provide a number of benefits, mapping names to resources."
+tags:
+  - infrastructure_architecture
 ---
 
 Description 

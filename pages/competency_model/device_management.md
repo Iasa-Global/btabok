@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: device_management.html
 folder: competency_model
-summary: ""
+summary: "The policies that are in place around the use of these devices is determine by requirements that are needed to support the specified device use scenarios."
+tags:
+  - infrastructure_architecture
 ---
 
 Description

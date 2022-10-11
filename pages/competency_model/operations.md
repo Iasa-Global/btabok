@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: operations.html
 folder: competency_model
-summary: ""
+summary: "In a properly run environment, all operating systems would be properly operationalized."
+tags:
+  - infrastructure_architecture
 ---
 
 Description

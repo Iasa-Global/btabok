@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: aim.html
 folder: competency_model
-summary: "Identity and Access Management is a core infrastructure capability and is one of the most important components of an organization’s security infrastructure. "
+summary: "Identity and Access Management is a core infrastructure capability and is one of the most important components of an organization’s security infrastructure."
+tags:
+  - infrastructure_architecture
 ---
 
 # Description 

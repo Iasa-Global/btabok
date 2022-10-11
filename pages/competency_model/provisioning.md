@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: provisioning.html
 folder: competency_model
-summary: ""
+summary: Why Does an Architect need this Skill?"
+tags:
+  - infrastructure_architecture
 ---
 
 Description 

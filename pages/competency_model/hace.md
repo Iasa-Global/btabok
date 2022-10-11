@@ -6,6 +6,8 @@ toc: true
 permalink: hace.html
 folder: competency_model
 summary: ""
+tags:
+  - infrastructure_architecture
 ---
 
 Description

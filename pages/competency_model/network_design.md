@@ -6,6 +6,8 @@ toc: true
 permalink: network_design.html
 folder: competency_model
 summary: ""
+tags:
+  - infrastructure_architecture
 ---
 
 Description

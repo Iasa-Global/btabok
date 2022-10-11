@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: drb.html
 folder: competency_model
-summary: ""
+summary: "IT is often tasked with creating disaster recovery plans and also assists with business continuity planning (BCP)"
+tags:
+  - infrastructure_architecture
 ---
 
 Description

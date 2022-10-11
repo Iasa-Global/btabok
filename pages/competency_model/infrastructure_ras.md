@@ -6,6 +6,8 @@ toc: true
 permalink: infrastructure_ras.html
 folder: competency_model
 summary: ""
+tags:
+  - infrastructure_architecture
 ---
 
 Description
