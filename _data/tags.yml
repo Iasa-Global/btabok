@@ -22,6 +22,13 @@ allowed-tags:
   - business_technology_strategy
   - human_dynamics
   - design
+  - it_environment
+  - quality_attributes
+  - business_architecture
+  - information_architecture
+  - infrastructure_architecture
+  - software_architecture
+
   
   
 # Copyright 2022 IASA
