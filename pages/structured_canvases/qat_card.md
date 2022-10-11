@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: qat_card.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/qat_card001.svg)

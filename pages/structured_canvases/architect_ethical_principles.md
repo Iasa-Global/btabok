@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_ethical_principles.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/architect_ethical_principles001.svg)

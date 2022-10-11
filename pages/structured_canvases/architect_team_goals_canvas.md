@@ -5,7 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_team_goals_canvas.html
 folder: structured_canvases
-
+tags: 
+  - business
 ---
 
 ![image001](media/architect_team_goals_canvas001.svg)

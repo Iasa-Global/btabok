@@ -5,7 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_hypothesis_card.html
 folder: structured_canvases
-
+tags: 
+  - business
 ---
 
 The hypothesis card is used to brainstorm hypothesis development in experimentation.

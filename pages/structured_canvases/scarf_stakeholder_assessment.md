@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: scarf_stakeholder_assessment.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 

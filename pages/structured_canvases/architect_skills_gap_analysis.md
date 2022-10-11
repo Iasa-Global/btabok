@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_skills_gap_analysis.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/architect_skills_gap_analysis001.svg)

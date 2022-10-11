@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_decision_record.html
 folder: structured_canvases
+tags: 
+  - business
 
 ---
 

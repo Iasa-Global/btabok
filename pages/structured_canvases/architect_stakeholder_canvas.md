@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_stakeholder_canvas.html
 folder: structured_canvases
+tags: 
+  - business
 ---
 
 ![image001](media/architect_stakeholder_canvas001.svg)
