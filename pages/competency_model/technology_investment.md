@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: technology_investment.html
 folder: competency_model
-summary: ""
+summary: "Money spent on information technology (IT) is either expense."
+tags:
+  - business_architecture
 ---
 
 Description 

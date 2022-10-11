@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: financial_methods.html
 folder: competency_model
-summary: ""
+summary: "Everything that happens in an enterprise has a financial impact."
+tags:
+  - business_architecture
 ---
 
 Description

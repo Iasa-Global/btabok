@@ -6,6 +6,8 @@ toc: true
 permalink: business_management.html
 folder: competency_model
 summary: "Imagine visting a doctor for a medical check-up. What are the signs of health and wellbeing he/she would look for? Would he/she rely on only one or a few? Similarly, Business Fundamentals provides insight to the health of organisations and where vulnerabilities lie."
+tags:
+  - business_architecture
 ---
 
 # Description

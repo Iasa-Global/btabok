@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: loc.html
 folder: competency_model
-summary: ""
+summary: "Organizational changes, especially those that change the dynamics"
+tags:
+  - business_architecture
 ---
 
 Description

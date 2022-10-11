@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: tsi.html
 folder: competency_model
-summary: ""
+summary: "The Architect requires this skill in order to ensure technology strategy."
+tags:
+  - business_architecture
 ---
 
 Description 

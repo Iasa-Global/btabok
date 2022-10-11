@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: grc.html
 folder: competency_model
-summary: ""
+summary: "With a growing regulatory environment, higher business complexity."
+tags:
+  - business_architecture
 ---
 
 Description 

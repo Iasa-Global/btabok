@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_strategy.html
 folder: competency_model
-summary: ""
+summary: "Business strategy is pertinent to the architect as it is the foundation."
+tags:
+  - business_architecture
 ---
 
 Description 

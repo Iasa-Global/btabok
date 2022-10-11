@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: ppm.html
 folder: competency_model
-summary: ""
+summary: "Many organizations have large numbers of change initiatives running in parallel."
+tags:
+  - business_architecture
 ---
 
 Description

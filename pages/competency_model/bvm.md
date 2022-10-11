@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: bvm.html
 folder: competency_model
-summary: ""
+summary: "Like any system, the architecture of a business has many facets."
+tags:
+  - business_architecture
 ---
 
 Description
