@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_description.html
 folder: competency_model
-summary: ""
+summary: "Architects are expected to be familiar with different Architecture Description Languages (ADLs) and to be capable of determining when specific elements of an ADL are required to deliver value to the project at hand."
+tags:
+  - design
 ---
 
 Description
