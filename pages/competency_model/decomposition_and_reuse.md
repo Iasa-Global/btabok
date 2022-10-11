@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: decomposition_and_reuse.html
 folder: competency_model
-summary: ""
+summary: "Understanding how and when to decompose a system is an important design skill as it can have a significant impact on the cost of building and maintaining a system."
+tags:
+  - design
 ---
 
 Description
