@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: the_whole_systems_design.html
 folder: competency_model
-summary: ""
+summary: "As an architect, taking a whole systems design approach means you must understand the entire IT environment, including the people, infrastructure, development environment and organizational structure"
+tags:
+  - design
 ---
 
 Description
