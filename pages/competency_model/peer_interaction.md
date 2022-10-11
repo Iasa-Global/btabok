@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: peer_interaction.html
 folder: competency_model
-summary: ""
+summary: "The role of the architect demands a high level of interaction with a wide range of people."
+tags: 
+  - human_dynamics
 ---
 
 Description
