@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: information_operations.html
 folder: competency_model
-summary: ""
+summary: "Hence an architect need this skill to understand/define/enable/manage."
+tags:
+  - information_architecture
 ---
 
 Description

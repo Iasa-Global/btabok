@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: information_modeling.html
 folder: competency_model
-summary: ""
+summary: "As enterprises attempt to create value from their information assets."
+tags:
+  - information_architecture
 ---
 
 Description 

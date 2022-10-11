@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: bidw.html
 folder: competency_model
-summary: ""
+summary: "An architect ensures that business intelligence (BI)."
+tags:
+  - information_architecture
 ---
 
 

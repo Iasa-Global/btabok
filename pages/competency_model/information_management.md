@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: information_management.html
 folder: competency_model
-summary: ""
+summary: "The recipe for success begins with a good."
+tags:
+  - information_architecture
 ---
 
 Description 

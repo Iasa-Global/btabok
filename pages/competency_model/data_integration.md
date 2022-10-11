@@ -6,6 +6,8 @@ toc: true
 permalink: data_integration.html
 folder: competency_model
 summary: "Most companies use a mixture of in-house developed systems, 3rd party “off the shelf” and cloud hosted systems."
+tags:
+  - information_architecture
 ---
 
 # Description

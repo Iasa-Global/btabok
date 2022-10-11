@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: igm.html
 folder: competency_model
-summary: ""
+summary: "Information Governance assures that shared enterprise information aligns with business strategic value."
+tags:
+  - information_architecture
 ---
 
 Description

@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: information_value.html
 folder: competency_model
-summary: ""
+summary: "Raw Data in the wild"
+tags:
+  - information_architecture
 ---
 
 Description

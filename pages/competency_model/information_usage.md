@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: information_usage.html
 folder: competency_model
-summary: ""
+summary: "In today's high pressure world of do more with less data aggregation into an easily consumed form by humans is a paramount dilemma."
+tags:
+  - information_architecture
 ---
 
 Description 
