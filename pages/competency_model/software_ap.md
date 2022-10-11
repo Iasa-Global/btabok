@@ -6,6 +6,8 @@ toc: true
 permalink: software_ap.html
 folder: competency_model
 summary: ""
+tags:
+  - software_architecture
 ---
 
 Description 

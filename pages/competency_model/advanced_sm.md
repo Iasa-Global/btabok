@@ -6,6 +6,8 @@ toc: true
 permalink: advanced_sm.html
 folder: competency_model
 summary: ""
+tags:
+  - software_architecture
 ---
 
 Description 

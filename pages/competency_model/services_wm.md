@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: services_wm.html
 folder: competency_model
-summary: ""
+summary: "Services can be stateless and stateful."
+tags:
+  - software_architecture
 ---
 
 Description

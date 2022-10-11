@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: software_at.html
 folder: competency_model
-summary: ""
+summary: "The objective of the Elaboration phase is to capture requirements, business processes, and system architecture and design the solution."
+tags:
+  - software_architecture
 ---
 
 Description

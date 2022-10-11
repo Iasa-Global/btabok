@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: advanced_qa.html
 folder: competency_model
-summary: ""
+summary: "Requirements are not sufficient to develop architecturally good software."
+tags:
+  - software_architecture
 ---
 
 Description

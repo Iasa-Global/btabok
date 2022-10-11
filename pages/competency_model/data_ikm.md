@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: data_ikm.html
 folder: competency_model
-summary: ""
+summary: "The demands on software development in most industries and domains are increasing."
+tags:
+  - software_architecture
 ---
 
 Description 

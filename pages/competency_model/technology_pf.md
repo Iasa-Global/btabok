@@ -6,6 +6,8 @@ toc: true
 permalink: technology_pf.html
 folder: competency_model
 summary: "Technology, Platforms and Frameworks is a both a capability as well as an ongoing list of components the software architect uses to deliver technology strategy."
+tags:
+  - software_architecture
 ---
 
 Description 
