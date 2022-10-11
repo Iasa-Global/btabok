@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: customer_relations.html
 folder: competency_model
-summary: ""
+summary: "It's important to note that each personality dynamic is of equal *value* and every personality dynamic has an unbounded capacity for growth."
+tags: 
+  - human_dynamics
 ---
 
 Description
