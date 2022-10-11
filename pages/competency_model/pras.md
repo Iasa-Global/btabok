@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: pras.html
 folder: competency_model
-summary: ""
+summary: "The architect needs to be able to describe what each quality attributes represents."
+tags:
+  - quality_attributes
 ---
 
 Description

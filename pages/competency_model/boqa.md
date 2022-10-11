@@ -6,6 +6,8 @@ toc: true
 permalink: boqa.html
 folder: competency_model
 summary: "Applications and Systems will spend the majority of their lives in their operational environment, typically the effort or cost is 90%+ of the life time cost of the applications."
+tags:
+  - quality_attributes
 ---
 
 # Description

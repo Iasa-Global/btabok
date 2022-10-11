@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: ulapc.html
 folder: competency_model
-summary: ""
+summary: "Formal assessment of the usability (including health and safety, and accessibility)."
+tags:
+  - quality_attributes
 ---
 
 Description

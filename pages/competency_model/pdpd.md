@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: pdpd.html
 folder: competency_model
-summary: ""
+summary: "Can describe their approach to packaging and delivery"
+tags:
+  - quality_attributes
 ---
 
 Description

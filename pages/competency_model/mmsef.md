@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: mmsef.html
 folder: competency_model
-summary: ""
+summary: "How do you measure testability? Supportability? Understandability?"
+tags:
+  - quality_attributes
 ---
 
 Description 

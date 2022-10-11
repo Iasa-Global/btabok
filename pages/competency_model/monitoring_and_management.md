@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: monitoring_and_management.html
 folder: competency_model
-summary: ""
+summary: "An architect must design solutions with monitoring and management thought out from the beginning."
+tags:
+  - quality_attributes
 ---
 
 Description

@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: security.html
 folder: competency_model
-summary: ""
+summary: "Security is one "universal" quality property."
+tags:
+  - quality_attributes
 ---
 
 Description
