@@ -1,6 +1,6 @@
 ---
 title: "Business"
-tagName: business_technology_strategy
+tagName: business
 search: exclude
 permalink: tag_business.html
 sidebar: mydoc_sidebar
