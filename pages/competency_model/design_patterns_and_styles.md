@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: design_patterns_and_styles.html
 folder: competency_model
-summary: ""
+summary: "Design patterns have become increasingly important as architecture and component-driven development emerge. "
+tags:
+  - design
 ---
 
 Description
