@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: views_viewpoints.html
 folder: competency_model
-summary: ""
+summary: "IT architects must have the ability to clearly understand the concepts of views, viewpoints, and perspectives, to understand the differences between them and how they work together to describe an architecture. "
+tags:
+  - design
 ---
 
 
