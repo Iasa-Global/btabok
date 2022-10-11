@@ -5,8 +5,11 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: design_analysis_and_testing.html
 folder: competency_model
-summary: ""
+summary: "Has participated in design analysis"
+tags:
+  - design
 ---
+
 Description
 ===========
 
