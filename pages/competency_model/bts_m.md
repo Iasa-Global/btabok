@@ -12,7 +12,7 @@ folder: competency_model
 1. [Business Fundamentals](business_fundamentals.md){:target="_blank"}
 2. [Strategy Development and Rationalization](strategy_development_and_rationalization.md){:target="_blank"}
 3. [Industry Analysis](industry_analysis.md){:target="_blank"}
-4. [Business Valuation](business_valuation.md){:target="_blank"}
+4. [Business Valuation](business_valuation_cm.md){:target="_blank"}
 5. [Investment Prioritization and Planning](investment_prioritization_and_planning.md){:target="_blank"}
 6. [Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
 7. [Compliance](compliance.md){:target="_blank"}
