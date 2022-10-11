@@ -1,4 +1,4 @@
-Financial Methods---
+---
 title: "Views & Viewpoints"
 keywords: 
 sidebar: mydoc_sidebar
@@ -215,5 +215,5 @@ Rozanski & Woods Web site: <http://www.viewpoints-and-perspectives.info/>
 Author
 ======
 
-### **Chris Cooper-Bland**\
-*Group Head of Architecture -- Endava*
+### Chris Cooper-Bland
+Group Head of Architecture -- Endava

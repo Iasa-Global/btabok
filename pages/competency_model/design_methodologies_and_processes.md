@@ -6,7 +6,7 @@ toc: true
 permalink: design_methodologies_and_processes.html
 folder: competency_model
 summary: "Design is a critical part of the process of architecture, and yet in much architecture the design process is not reflected in the final delivered architecture. "
-tag:
+tags:
  - design
 ---
 
