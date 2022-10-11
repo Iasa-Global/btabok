@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: writing_skills.html
 folder: competency_model
-summary: ""
+summary: "The basics of writing for an architect are generally similar to those of professional writers. Clarity and simplicity are essential as well as good structure and correct grammar and spelling."
+tags: 
+  - human_dynamics
 ---
 
 Description
