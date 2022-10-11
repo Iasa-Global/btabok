@@ -1,8 +1,8 @@
 ---
-title: "Business"
-tagName: business_technology_strategy
+title: "Business Technology Strategy"
+tagName: business
 search: exclude
-permalink: tag_business.html
+permalink: tag_bts.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
