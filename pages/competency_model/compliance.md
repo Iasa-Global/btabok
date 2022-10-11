@@ -6,6 +6,8 @@ toc: true
 permalink: compliance.html
 folder: competency_model
 summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+tags: 
+  - business_technology_strategy
 ---
 
 Description
