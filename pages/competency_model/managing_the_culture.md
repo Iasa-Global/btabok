@@ -6,6 +6,8 @@ toc: true
 permalink: managing_the_culture.html
 folder: competency_model
 summary: "Once you understand the culture then you can begin to understand the viewpoint of those within that culture."
+tags: 
+  - human_dynamics
 ---
 
 # Description
