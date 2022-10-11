@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: traceability_throughout_the_lifecycle.html
 folder: competency_model
-summary: ""
+summary: "Traceability is used to track the relationship between each unique product-level requirement and its source. "
+tags:
+  - design
 ---
 
 Description
