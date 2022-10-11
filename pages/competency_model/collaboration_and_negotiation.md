@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: collaboration_and_negotiation.html
 folder: competency_model
-summary: ""
+summary: "Collaboration involves the different disciplines working together towards a common goal."
+tags: 
+  - human_dynamics
 ---
 
 Description
