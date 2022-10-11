@@ -5,7 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: presentation_skills.html
 folder: competency_model
-summary: ""
+summary: "The architect must own this skill."
+tags: 
+  - human_dynamics
 ---
 
 Description
