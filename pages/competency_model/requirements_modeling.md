@@ -6,6 +6,8 @@ toc: true
 permalink: requirements_modeling.html
 folder: competency_model
 summary: "Requirements modeling is carried out after the requirements and constraints for an area have been captured and analysed, it is an important activity to ensure the consistency and completeness of the requirements."
+tags:
+  - design
 ---
 
 # Description
