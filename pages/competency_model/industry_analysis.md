@@ -6,6 +6,8 @@ toc: true
 permalink: industry_analysis.html
 folder: competency_model
 summary: "Industry analysis involves observation and analysis of factors such as market behaviors, competitive forces and, financial, regulatory, socio-economic and technological trends that influence the domain."
+tags: 
+  - business_technology_strategy
 ---
 
 Description
