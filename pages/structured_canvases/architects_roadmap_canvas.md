@@ -7,6 +7,8 @@ permalink: architects_roadmap_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - core
+  
 ---
 
 
