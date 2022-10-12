@@ -7,6 +7,7 @@ permalink: business_capability_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/business_capability_canvas001.svg)

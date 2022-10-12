@@ -7,6 +7,7 @@ permalink: architecture_pains_and_gains.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/architecture_pains_and_gains001.svg)

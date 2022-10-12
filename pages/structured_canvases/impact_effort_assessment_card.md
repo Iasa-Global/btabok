@@ -7,6 +7,7 @@ permalink: impact_effort_assessment_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/impact_effort_assessment_card001.svg)

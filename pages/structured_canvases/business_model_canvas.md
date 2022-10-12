@@ -7,6 +7,7 @@ permalink: business_model_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 The BMC provides a business model on a page used for architecture and innovation.

@@ -7,6 +7,7 @@ permalink: context_view_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/context_view_card001.svg)

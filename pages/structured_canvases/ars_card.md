@@ -7,6 +7,7 @@ permalink: ars_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/ars_card001.svg)

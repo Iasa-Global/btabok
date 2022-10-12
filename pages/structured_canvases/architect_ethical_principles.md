@@ -7,6 +7,7 @@ permalink: architect_ethical_principles.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/architect_ethical_principles001.svg)

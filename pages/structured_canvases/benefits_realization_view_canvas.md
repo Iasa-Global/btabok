@@ -7,6 +7,7 @@ permalink: benefits_realization_view_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/benefits_realization_view_canvas001.svg)

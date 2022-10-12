@@ -7,6 +7,7 @@ permalink: architect_team_goals_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/architect_team_goals_canvas001.svg)

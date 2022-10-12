@@ -7,6 +7,7 @@ permalink: value_stream_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 The value stream canvas is used to understand where value is created in an organization driven from customers through control, suppliers and operations. The first canvas available in the ITABoK is derived visually from traditional manufacturing value streams where it originated. Other value stream canvases such as the development value stream canvas may be more useful in digital activities.

@@ -7,6 +7,7 @@ permalink: communication_strategy.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/communication_strategy001.svg)

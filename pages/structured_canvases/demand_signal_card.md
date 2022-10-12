@@ -7,6 +7,7 @@ permalink: demand_signal_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/demand_signal_card001.svg)

@@ -7,6 +7,7 @@ permalink: customer_journey_map.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/customer_journey_map001.svg)

@@ -7,6 +7,7 @@ permalink: capability_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 The capability card provides a capability analysis tool for understanding a business capability and its measurements.

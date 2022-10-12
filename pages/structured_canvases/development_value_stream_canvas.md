@@ -7,6 +7,7 @@ permalink: development_value_stream_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/development_value_stream_canvas001.svg)

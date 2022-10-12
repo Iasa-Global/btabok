@@ -7,6 +7,7 @@ permalink: envisioning_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/envisioning_canvas001.svg)

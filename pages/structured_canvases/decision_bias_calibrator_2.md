@@ -7,6 +7,7 @@ permalink: decision_bias_calibrator_2.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/decision_bias_calibrator_2001.svg)

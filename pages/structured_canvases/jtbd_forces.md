@@ -7,6 +7,7 @@ permalink: jtbd_forces.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/jtbd_forces001.svg)

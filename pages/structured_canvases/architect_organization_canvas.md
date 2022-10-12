@@ -7,6 +7,7 @@ permalink: architect_organization_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/architect_organization_canvas001.svg)

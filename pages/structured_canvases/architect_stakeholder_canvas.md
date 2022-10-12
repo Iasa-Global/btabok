@@ -7,6 +7,7 @@ permalink: architect_stakeholder_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/architect_stakeholder_canvas001.svg)

@@ -7,6 +7,7 @@ permalink: course_change_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/course_change_card001.svg)

@@ -7,6 +7,7 @@ permalink: agile_enterprise_impact_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/agile_enterprise_impact_canvas001.svg)

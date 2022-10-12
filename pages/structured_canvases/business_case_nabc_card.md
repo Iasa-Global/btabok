@@ -7,6 +7,7 @@ permalink: business_case_nabc_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 

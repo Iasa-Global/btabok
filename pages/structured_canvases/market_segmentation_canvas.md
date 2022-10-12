@@ -7,6 +7,7 @@ permalink: market_segmentation_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/market_segmentation_canvas001.svg)

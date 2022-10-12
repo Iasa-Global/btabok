@@ -7,6 +7,7 @@ permalink: stakeholder_initiative_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 The stakeholder initiatives canvas is useful in determining prioritization of products and projects according a particular stakeholder or a stakeholder group against the initiatives measured value outcomes. This creates the optimum discussion related to importance of initiatives and how they impact stakeholder outcomes. Use this canvas as a fascilitation tool with a team or with a group of stakeholders to try and gain consensus and groupings related to priority, architect assignment and stakeholder management.

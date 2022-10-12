@@ -7,6 +7,7 @@ permalink: business.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/architects_process_engagement_canvas001.svg)

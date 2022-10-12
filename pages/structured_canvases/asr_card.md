@@ -7,6 +7,7 @@ permalink: asr_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 The ASR Card is a tool to define an architecturally significant requirement.

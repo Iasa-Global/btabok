@@ -7,6 +7,7 @@ permalink: benefits_dependency_network_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/benefits_dependency_network_canvas001.svg)

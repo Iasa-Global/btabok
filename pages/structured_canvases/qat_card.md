@@ -7,6 +7,7 @@ permalink: qat_card.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/qat_card001.svg)

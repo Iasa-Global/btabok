@@ -7,6 +7,7 @@ permalink: product_roadmap_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - chief
 ---
 
 ![image001](media/product_roadmap_canvas001.svg)
