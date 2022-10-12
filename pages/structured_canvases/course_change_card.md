@@ -9,6 +9,7 @@ tags:
   - business
   - chief
   - information
+  - infrastructure
 ---
 
 ![image001](media/course_change_card001.svg)

@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - information
   - core
+  - infrastructure
 ---
 
 ![image001](media/modern_architecture_landscape_two_card001.svg)

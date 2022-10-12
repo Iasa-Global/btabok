@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - core
   - information
+  - infrastructure
 ---
 
 The decision cascade card looks for downstream impacts from a technology decision.

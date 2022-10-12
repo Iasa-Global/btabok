@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - information
   - core
+  - infrastructure
 ---
 
 The modern architecture landscape describes technology types and impact areas for architecture decisions.

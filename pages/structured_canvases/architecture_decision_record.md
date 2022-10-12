@@ -9,6 +9,7 @@ tags:
   - business
   - chief
   - information
+  - infrastructure
 ---
 
 The ADR provides a decision management tool for discrete decisions for traceability to ASR and usage.

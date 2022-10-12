@@ -7,6 +7,7 @@ permalink: technology_tracker_card.html
 folder: structured_canvases
 tags: 
   - information
+  - infrastructure
 ---
 
 The technology tracker helps architects evaluate a new technology tracker for impacts on their environment.

@@ -10,6 +10,7 @@ tags:
   - chief
   - core
   - information
+  - infrastructure
 ---
 
 ![image001](media/qat_card001.svg)

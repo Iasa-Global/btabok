@@ -10,6 +10,7 @@ tags:
   - chief
   - core
   - information
+  - infrastructure
 ---
 
 The bias calibrator helps architects determine whether cognitive bias is impacting their decisions.

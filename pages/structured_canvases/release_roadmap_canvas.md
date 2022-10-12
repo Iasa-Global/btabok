@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - information
+  - infrastructure
 ---
 
 ![image001](media/release_roadmap_canvas001.svg)

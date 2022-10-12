@@ -9,6 +9,7 @@ tags:
   - business
   - chief
   - information
+  - infrastructure
 ---
 
 Stakeholder motivation helps in understanding the status of stakeholders in respect of a particular set of proposed changes. This can be used to understand how stakeholders position themselves in relation to a portfolio of assignments but it can also be used to assess how stakeholders will react to proposed changes in the architecture, and assess if these changes are feasible.

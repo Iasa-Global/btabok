@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - information
+  - infrastructure
 ---
 
 ![image001](media/service_domain_canvas001.svg)

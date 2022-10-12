@@ -9,6 +9,7 @@ tags:
   - business
   - chief
   - information
+  - infrastructure
 ---
 
 The hypothesis card is used to brainstorm hypothesis development in experimentation.
