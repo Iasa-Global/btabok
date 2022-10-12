@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - information
 ---
 
 The ADR provides a decision management tool for discrete decisions for traceability to ASR and usage.

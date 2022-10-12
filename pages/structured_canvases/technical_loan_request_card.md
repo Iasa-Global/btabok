@@ -10,6 +10,7 @@ tags:
   - chief
   - core
   - engagement_model
+  - information
 ---
 
 The technical loan request combines the concept of [Technical Debt](../engagement_model/technical_debt.md){:target="_blank"} with a repayment schedule in work days, payment, or other means and allows the architect to ensure technical debt is both deliberate and prudent.

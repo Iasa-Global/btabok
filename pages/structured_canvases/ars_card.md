@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - information
 ---
 
 ![image001](media/ars_card001.svg)

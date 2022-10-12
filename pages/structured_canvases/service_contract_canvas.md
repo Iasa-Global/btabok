@@ -7,6 +7,7 @@ permalink: service_contract_canvas.html
 folder: structured_canvases
 tags: 
   - business
+  - information
 ---
 
 ![image001](media/service_contract_canvas001.svg)

@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - information
 ---
 
 The experiment card provides a method for structuring an individual experiment. It tracks the experiments problem/opportunity and options evaluated as well as the possible experiment and methodology used to test the hypothesis.

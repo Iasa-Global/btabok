@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - information
 ---
 
 The hypothesis card is used to brainstorm hypothesis development in experimentation.

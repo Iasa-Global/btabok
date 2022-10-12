@@ -9,6 +9,7 @@ tags:
   - business
   - chief
   - core
+  - information
 ---
 
 The bias calibrator helps architects determine whether cognitive bias is impacting their decisions.

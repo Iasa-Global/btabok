@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - information
 ---
 
 ![image001](media/architecture_pains_and_gains001.svg)

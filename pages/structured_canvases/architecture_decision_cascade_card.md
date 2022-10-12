@@ -7,6 +7,7 @@ permalink: architecture_decision_cascade_card.html
 folder: structured_canvases
 tags: 
   - core
+  - information
 ---
 
 The decision cascade card looks for downstream impacts from a technology decision.

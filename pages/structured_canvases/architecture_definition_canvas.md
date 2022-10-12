@@ -7,6 +7,7 @@ permalink: business.html
 folder: structured_canvases
 tags: 
   - business
+  - information
 ---
 
 ![image001](media/architecture_definition_canvas001.svg)

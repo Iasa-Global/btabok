@@ -9,6 +9,7 @@ tags:
   - business
   - chief
   - core
+  - information
 ---
 
 ![image001](media/qat_card001.svg)
