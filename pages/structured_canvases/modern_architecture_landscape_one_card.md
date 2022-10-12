@@ -7,6 +7,7 @@ permalink: modern_architecture_landscape_one_card.html
 folder: structured_canvases
 tags: 
   - information
+  - core
 ---
 
 The modern architecture landscape describes technology types and impact areas for architecture decisions.

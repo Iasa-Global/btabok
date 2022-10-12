@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - core
 ---
 
 The bias calibrator helps architects determine whether cognitive bias is impacting their decisions.

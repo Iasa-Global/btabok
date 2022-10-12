@@ -7,6 +7,7 @@ permalink: risk_and_cost_card.html
 folder: structured_canvases
 tags: 
   - information
+  - core
 ---
 
 

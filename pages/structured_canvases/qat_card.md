@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - core
 ---
 
 ![image001](media/qat_card001.svg)

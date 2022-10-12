@@ -7,6 +7,7 @@ permalink: persona_card.html
 folder: structured_canvases
 tags: 
   - information
+  - core
 ---
 
 

@@ -7,6 +7,7 @@ permalink: power_interest_grid.html
 folder: structured_canvases
 tags: 
   - information
+  - core
 ---
 
 

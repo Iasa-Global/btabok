@@ -7,6 +7,7 @@ permalink: mission_vision_card.html
 folder: structured_canvases
 tags: 
   - information
+  - core
 ---
 
 
