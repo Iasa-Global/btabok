@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_do_document_week_in_the_life.html
 folder: structured_canvases
+tags: 
+  - engagement_model
 ---
 
 

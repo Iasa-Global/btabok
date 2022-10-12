@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: power_interest_grid.html
 folder: structured_canvases
+tags: 
+  - information
 ---
 
 

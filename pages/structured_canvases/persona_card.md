@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: persona_card.html
 folder: structured_canvases
+tags: 
+  - information
 ---
 
 

@@ -5,7 +5,6 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: chief_sc.html
 folder: structured_canvases
-
 ---
 
 ![Structured Canvases - Business](media/chief_001.png)

@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: viewpoint_template_card.html
 folder: structured_canvases
+tags: 
+  - engagement_model
 ---
 
 The viewpoint template card is used to describe a viewpoint used by an architecture practice. The viewpoint concept [see views article](../engagement_model/views.md){:target="_blank"} is used to help in describing an architecture and is based on ISO 42010.

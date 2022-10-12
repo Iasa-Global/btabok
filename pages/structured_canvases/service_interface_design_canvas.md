@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: service_interface_design_canvas.html
 folder: structured_canvases
+tags: 
+  - information
 ---
 
 
