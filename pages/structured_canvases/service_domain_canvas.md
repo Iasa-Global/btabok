@@ -9,6 +9,7 @@ tags:
   - business
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/service_domain_canvas001.svg)

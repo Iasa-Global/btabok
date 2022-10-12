@@ -10,6 +10,7 @@ tags:
   - core
   - information
   - infrastructure
+  - software
 ---
 
 
