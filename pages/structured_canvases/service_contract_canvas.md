@@ -10,6 +10,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/service_contract_canvas001.svg)

@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 When delivering many services within a large organization, services have to be placed within some sort of organizational structure, otherwise it would be difficult to know who owns the service, where services can be found and how to get access to services. The description of how services are organized is the service landscape. The service landscape is rather like a map for services and contains number of service domains, where a service domain is a logical grouping of services. 

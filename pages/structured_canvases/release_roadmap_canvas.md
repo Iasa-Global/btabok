@@ -10,6 +10,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/release_roadmap_canvas001.svg)
