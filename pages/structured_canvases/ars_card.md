@@ -1,5 +1,5 @@
 ---
-title: "Agile Team Desinger"
+title: "ARS Card"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
@@ -10,6 +10,7 @@ tags:
   - chief
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/ars_card001.svg)
