@@ -9,6 +9,7 @@ tags:
   - information
   - core
   - infrastructure
+  - software
 ---
 
 The modern architecture landscape describes technology types and impact areas for architecture decisions.

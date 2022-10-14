@@ -10,6 +10,7 @@ tags:
   - chief
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/architect_stakeholder_canvas001.svg)

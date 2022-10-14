@@ -10,6 +10,7 @@ tags:
   - chief
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/architects_engagement_touchpoints001.svg)

@@ -11,6 +11,7 @@ tags:
   - core
   - information
   - infrastructure
+  - software
 ---
 
 The bias calibrator helps architects determine whether cognitive bias is impacting their decisions.

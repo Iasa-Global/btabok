@@ -9,6 +9,7 @@ tags:
   - core
   - information
   - infrastructure
+  - software
 ---
 
 The decision cascade card looks for downstream impacts from a technology decision.

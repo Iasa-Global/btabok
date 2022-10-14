@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - information
   - infrastructure
+  - software
 ---
 
 The technology tracker helps architects evaluate a new technology tracker for impacts on their environment.

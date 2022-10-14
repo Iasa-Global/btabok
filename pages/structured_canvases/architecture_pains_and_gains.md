@@ -10,6 +10,7 @@ tags:
   - chief
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/architecture_pains_and_gains001.svg)

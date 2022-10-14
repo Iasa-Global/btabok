@@ -11,6 +11,7 @@ tags:
   - core
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/agile_enterprise_impact_canvas001.svg)

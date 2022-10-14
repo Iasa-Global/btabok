@@ -10,6 +10,7 @@ tags:
   - chief
   - information
   - infrastructure
+  - software
 ---
 
 The ADR provides a decision management tool for discrete decisions for traceability to ASR and usage.

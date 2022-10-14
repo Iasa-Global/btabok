@@ -11,6 +11,7 @@ tags:
   - core
   - information
   - infrastructure
+  - software
 ---
 
 ![image001](media/qat_card001.svg)

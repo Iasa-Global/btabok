@@ -10,6 +10,7 @@ tags:
   - chief
   - information
   - infrastructure
+  - software
 ---
 
 The hypothesis card is used to brainstorm hypothesis development in experimentation.

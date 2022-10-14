@@ -9,6 +9,7 @@ tags:
   - information
   - core
   - infrastructure
+  - software
 ---
 
 ![image001](media/modern_architecture_landscape_two_card001.svg)
