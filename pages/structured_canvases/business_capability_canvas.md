@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/business_capability_canvas001.svg)

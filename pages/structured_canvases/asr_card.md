@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 The ASR Card is a tool to define an architecturally significant requirement.

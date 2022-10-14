@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/canvas_flow_map001.svg)

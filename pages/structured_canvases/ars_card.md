@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/ars_card001.svg)

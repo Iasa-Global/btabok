@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/architect_stakeholder_canvas001.svg)

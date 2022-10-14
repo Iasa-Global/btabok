@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/benefits_realization_view_canvas001.svg)

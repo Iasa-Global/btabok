@@ -12,6 +12,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 ![image001](media/qat_card001.svg)

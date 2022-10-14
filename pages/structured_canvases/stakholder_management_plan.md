@@ -12,6 +12,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 The stakeholder management plan provides the list of groups and individuals that impact any initiative and forms the core of the stakeholder templates, cards and canvases. The goal of the list is to provide a management plan for a group of stakeholders. The list is created using the set of additional and linked stakeholder cards and canvases.

@@ -11,6 +11,7 @@ tags:
   - information
   - infrastructure
   - software
+  - solution
 ---
 
 The ADR provides a decision management tool for discrete decisions for traceability to ASR and usage.
