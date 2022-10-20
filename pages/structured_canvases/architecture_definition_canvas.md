@@ -14,8 +14,7 @@ tags:
 
 [Download PPT](media/ppt/architecture_definition_canvas.ppt){:target="_blank"}
 
-
-| Area | Description | Links To |
-| --- | --- | --- |
-| Define Architecture |   |   |
-| Situation (areas) |   |   |
+| Area                | Description | Links To |
+| ------------------- | ----------- | -------- |
+| Define Architecture |             |          |
+| Situation (areas)   |             |          |
