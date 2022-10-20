@@ -14,7 +14,7 @@ tags:
   - solution
 ---
 
-The ASR Card is a tool to define an architecturally significant requirement.
+The ASR Card is a tool to define an architecturally significant requirement. You use the card to define specific requirements which directly impact the outcomes of the product. The card provides characteristics which when taken into account provide more or less architecture relevance. 
 
 ![image001](../../media/0a5486b0b4747a5bb78522be8bcbdc1d26326a88.svg)
 
