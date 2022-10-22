@@ -384,11 +384,11 @@ entries:
       output: web
 
 # Manifiesto
-
-  - title: Manifiesto
-    output: web
-    folderitems:
-
-    - title: Overview
-      url: manifesto.html
-      output: web
+#
+#  - title: Manifiesto
+#    output: web
+#    folderitems:
+#
+#    - title: Overview
+#      url: manifesto.html
+#      output: web

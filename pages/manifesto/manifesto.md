@@ -1,5 +1,5 @@
 ---
-title: manifesto
+title: Manifesto
 tags: [business_model]
 keywords:
 summary: "Iasa Global's position and principles on the practice of business technolgy architecture."
