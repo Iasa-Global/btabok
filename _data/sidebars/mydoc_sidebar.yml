@@ -382,3 +382,13 @@ entries:
     - title: Overview
       url: ethics_and_principles.html
       output: web
+
+# Manifiesto
+#
+#  - title: Manifiesto
+#    output: web
+#    folderitems:
+#
+#    - title: Overview
+#      url: manifesto.html
+#      output: web
