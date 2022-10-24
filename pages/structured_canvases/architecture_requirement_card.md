@@ -3,7 +3,7 @@ title: "Architecturally Significant Requirements Card"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: asr_card.html
+permalink: requirements_card.html
 folder: structured_canvases
 tags: 
   - business
@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-The ASR Card is a tool to define an architecturally significant requirement. You use the card to define specific requirements which directly impact the outcomes of the product. The card provides characteristics which when taken into account provide more or less architecture relevance. 
+The ASR Card is a tool to define an architecturally significant requirement. You use the card to define specific requirements which directly impact the outcomes of the product. The card provides characteristics that when taken into account provide more or less architectural relevance. 
 
 ![image001](../../media/0a5486b0b4747a5bb78522be8bcbdc1d26326a88.svg)
 
