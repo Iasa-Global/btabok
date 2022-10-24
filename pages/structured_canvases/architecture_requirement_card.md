@@ -3,7 +3,7 @@ title: "Architecturally Significant Requirements Card"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: requirements_card.html
+permalink: architecture_requirements_card.html
 folder: structured_canvases
 tags: 
   - business
