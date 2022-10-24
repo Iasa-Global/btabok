@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - core
   - information
   - infrastructure
   - software
