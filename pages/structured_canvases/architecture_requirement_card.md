@@ -19,7 +19,7 @@ The ASR Card is a tool to define an architecturally significant requirement. You
 
 ![image001](../../media/0a5486b0b4747a5bb78522be8bcbdc1d26326a88.svg)
 
-[Download PPT](media/ppt/asr_card.ppt){:target="_blank"}
+[Download PPT](media/ppt/asr_card.ppt)
 
 | Area                  | Description                                                            | Links To                    |
 | --------------------- | ---------------------------------------------------------------------- | --------------------------- |
