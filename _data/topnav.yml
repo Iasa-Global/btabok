@@ -30,6 +30,8 @@ topnav_dropdowns:
         - title: Structured Canvases
           url: structured_canvases_m.html
         - title: Ethics and Principles
-          url: ethics_and_principles.html  
+          url: ethics_and_principles.html
+        - title: Map
+          url: map_test.html  
 
 # Copyright 2022 IASA
