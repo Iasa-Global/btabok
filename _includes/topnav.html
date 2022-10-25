@@ -53,24 +53,9 @@
 
                 <!--comment out this block if you want to hide search-->
                 <li>
-                    <!--start search-->
-                    <div id="search-demo-container">
-                        <input type="text" id="search-input" placeholder="search...">
-                        <ul id="results-container"></ul>
-                    </div>
-                    <script src="js/jekyll-search.js" type="text/javascript"></script>
-                    <script type="text/javascript">
-                            SimpleJekyllSearch.init({
-                                searchInput: document.getElementById('search-input'),
-                                resultsContainer: document.getElementById('results-container'),
-                                dataSource: 'search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Search configuration">{title}</a></li>',
-                    noResultsText: 'No results found.',
-                            limit: 10,
-                            fuzzy: true,
-                    })
+                    <script async src="https://cse.google.com/cse.js?cx=67c2eeae72f0b4b0a">
                     </script>
-                    <!--end search-->
+                    <div class="gcse-search"></div>
                 </li>
                 
             </ul>
