@@ -8,7 +8,7 @@ folder: structured_canvases
 
 ---
 ![Structured Canvases - Business](media/solution_001.png)
-
+ 
 1. [Ecosystem Map](ecosystem_map.md){:target="_blank"}
 2. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}
 3. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md){:target="_blank"}
