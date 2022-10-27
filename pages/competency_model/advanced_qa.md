@@ -11,7 +11,7 @@ tags:
 ---
 
 Description
-===========
+=========== 
 
 **Q**uality **A**ttributes (QA), though a non-functional requirement, cannot be explained without functional requirements. Since differing focus on Quality Attributes lead to difference in software architecture even though the requirements remain same, it is more meaningful to call these 'non-functional' requirements as 'extra-functional' requirements.
 
