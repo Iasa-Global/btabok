@@ -18,7 +18,7 @@ Demonstrated understanding of security concepts and the application of best secu
 Overview
 ========
 
-Why does an architect need this skill?
+Why does an architect need this skill? 
 --------------------------------------
 
 Security is one "universal" quality property. That is, it is present in all systems, even small, simple ones.  The architect should be aware of that, and needs to have the "security awareness", a state that will detect security requirements in regular, common scenarios, even when no security seems to be needed. That is because security relates not only to authentication, but also on quality of delivery, availability and several other "illities"

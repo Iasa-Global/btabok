@@ -8,7 +8,7 @@ folder: structured_canvases
 
 ---
 ![Structured Canvases - Business](media/solution_001.png)
-
+ 
 1. [Ecosystem Map](ecosystem_map.md){:target="_blank"}
 2. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}
 3. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md){:target="_blank"}
@@ -34,7 +34,7 @@ folder: structured_canvases
 23. [Blue Ocean Canvas](blue_ocean_canvas.md){:target="_blank"}
 24. [Benefits Realization View Canvas](benefits_realization_view_canvas.md){:target="_blank"}
 25. [Benefit Dependency Network Canvas](benefits_dependency_network_canvas.md){:target="_blank"}
-26. [Architecturally Significant Requirements Card](asr_card.md){:target="_blank"}
+26. [Architecturally Significant Requirements Card](architecture_requirement_card.md){:target="_blank"}
 27. [ARS Card](ars_card.md){:target="_blank"}
 28. [Architecture Pains and Gains Canvas](architecture_pains_and_gains.md){:target="_blank"}
 29. [Architecture Hypothesis Card](architecture_hypothesis_card.md){:target="_blank"}
