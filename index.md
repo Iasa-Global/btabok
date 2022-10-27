@@ -7,7 +7,7 @@ permalink: index.html
 
 ![image001](images/BTABoK_map.png)
 
-The Business Technology Architecture Body of Knowledge (BTABoK) is a free public archive of Business Technology architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest architecture professional organization.
+The Business Technology Architecture Body of Knowledge (BTABoK) is a free public archive of Business Technology architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest architecture professional organization. 
 
 You can find the btabok github pages site at: [BTABoK (iasa-global.github.io)](https://iasa-global.github.io/btabok/)
 
