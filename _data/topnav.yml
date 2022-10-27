@@ -17,8 +17,8 @@ topnav_dropdowns:
       folderitems:
         - title: Getting Started
           url: get_started_m.html
-      # - title: Manifesto
-      #   url: /XYZ.html
+       - title: Manifesto
+         url: manifesto.html
         - title: Engagemente Model
           url: engagement_models_m.html
         - title: Competency Model
