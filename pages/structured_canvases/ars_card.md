@@ -18,14 +18,12 @@ tags:
 
 [Download PPT](media/ppt/ars_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Architecturally Releavant Story/Epic |   |   |
-| Systemic Impacts |   |   |
-| Architecture Relavance |   |   |
-| Architecture Complexity |   |   |
-| Strategy & Plan |   |   |
-| Benefits Measures |   |   |
-| Stakeholders |   |   |
-
-
+| Area                                 | Description | Links To |
+| ------------------------------------ | ----------- | -------- |
+| Architecturally Releavant Story/Epic |             |          |
+| Systemic Impacts                     |             |          |
+| Architecture Relavance               |             |          |
+| Architecture Complexity              |             |          |
+| Strategy & Plan                      |             |          |
+| Benefits Measures                    |             |          |
+| Stakeholders                         |             |          |

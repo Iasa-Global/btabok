@@ -18,12 +18,10 @@ The decision cascade card looks for downstream impacts from a technology decisio
 
 [Download PPT](media/ppt/architecture_decision_cascade_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Decision Context |   |   |
-| Requirements |   |   |
-| Decision Bias |   |   |
-| Options |   |   |
-| Decision |   |   |
-
-
+| Area             | Description | Links To |
+| ---------------- | ----------- | -------- |
+| Decision Context |             |          |
+| Requirements     |             |          |
+| Decision Bias    |             |          |
+| Options          |             |          |
+| Decision         |             |          |
