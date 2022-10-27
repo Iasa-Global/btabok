@@ -1,0 +1,6 @@
+---
+title: "Business Technology </br>Architecture Body of Knowledge"
+keywords: BTABoK
+sidebar: mydoc_sidebar
+permalink: index.html
+---
