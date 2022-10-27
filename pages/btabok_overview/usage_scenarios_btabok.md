@@ -45,4 +45,42 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. 
 
+## The New Product
 
+The solution arch that has been
+
+## Architects During Development
+
+The age old question
+
+## Solution Decisions
+
+The decision
+
+## Building a Practice
+
+This is a big topic
+
+## The Architecture 'Review'
+
+The btabok actually
+
+## BTABoK for Business Architects
+
+There
+
+## BTABoK for Enterprise Architects
+
+There
+
+## Understanding Stakeholders
+
+This is one
+
+## Consulting with the BTABoK
+
+sdfdf
+
+## What's With All the Canvases
+
+This is my 
