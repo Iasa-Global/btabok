@@ -13,7 +13,9 @@ You can find the btabok github pages site at: <a href="https://iasa-global.githu
 BTABoK provides the tools and resources needed by individuals and organizations to set industry standards for professional career development and well as hiring practices and incorporation of IT architects into established or developing institutions.
 </p>
 
-
+<map name="rage_image_map">
+	<area shape="rect" href="https://www.google.com/" coords="62,288,147,372" alt="" target="_blank">
+</map>
 <img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map">
 
 <p>
