@@ -1,5 +1,5 @@
 ---
-title: "Business"
+title: "Business Model Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
