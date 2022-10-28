@@ -19,4 +19,12 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 
 <h2>Who is the BTABoK for?</h2>
 
+<p>
+The BTABoK was designed ground up to be a practical resource for any type of architect in any type of organization. It includes as much business as technical thinking as well as up to date tools in both of these spaces. It has a very strong approach to stakeholder management as well as an easy to use competency model which can be modified for your organization.
+</p>
+
+<h2>What is in this Site?</h2>
+
+
+
 </body>
