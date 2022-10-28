@@ -1,5 +1,5 @@
 ---
-title: "Business"
+title: "Architecture Decision Record"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
