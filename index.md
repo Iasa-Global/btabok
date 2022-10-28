@@ -6,9 +6,10 @@ permalink: index.html
 ---
 
 <body>
-<h1>
-    BTABoK
-</h1>
+<map name="rage_image_map">
+	<area shape="rect" href="https://www.google.com/" coords="62,288,147,372" alt="" target="_blank">
+</map>
+
 <img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map" width="1000" height="1000">
 
 <p>
@@ -24,6 +25,19 @@ The BTABoK was designed ground up to be a practical resource for any type of arc
 </p>
 
 <h2>What is in this Site?</h2>
+
+<p>
+The BTABoK is a tool. It works for all architects whether you consider yourself a business focused architect or a technical one. It is also the only truly open body of knowledge in existence. In the following video Paul Preiss describes the value and the use of the BTABoK (he uses it's previous title, ITABoK but they are the same thing).
+
+https://user-images.githubusercontent.com/41272798/187097260-027cc44a-86e8-4d17-bc25-b22ef527de22.mp4
+
+**Defining the IT Architect Profession** – What is a BT architect? We provide industry reference models for architects skills and competencies backed by international certifications.
+
+**Utilization & Engagement of IT Architects** – How are IT architects utilized within organizations and what are the interaction models between them and their clients or employers?
+
+**Career Pathway** – Describes the standard career path of an architect including specializations and career achievement milestones.
+</p>
+
 
 
 
