@@ -18,6 +18,11 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 	<area shape="rect" href="https://iasa-global.github.io/btabok/engagement.html" coords="101,134,155,180" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/journey.html" coords="175,78,222,127" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/innovate.html" coords="322,30,381,78" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/strategy.html" coords="464,59,496,97" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/agility.html" coords="528,101,569,148" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/business_models.html" coords="597,176,639,229" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/business_capabilities.html" coords="622,261,674,304" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/transform.html" coords="619,334,684,370" alt="" target="_blank">
 </map>
 <img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map" width="1000" height="1000">
 
