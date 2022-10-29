@@ -23,8 +23,19 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 	<area shape="rect" href="https://iasa-global.github.io/btabok/business_models.html" coords="597,176,639,229" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/business_capabilities.html" coords="622,261,674,304" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/transform.html" coords="619,334,684,370" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/culture.html" coords="605,440,648,497" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/mindset.html" coords="546,537,577,583" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/collaboration.html" coords="428,612,475,654" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/utilize.html" coords="326,631,379,678" alt="">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/automation.html" coords="224,601,267,646" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/safety_liability.html" coords="142,550,171,611" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/velocity.html" coords="87,501,122,546" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/simplicity.html" coords="57,426,96,467" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/measures.html" coords="23,334,81,368" alt="" target="_blank">
+
+
 </map>
-<img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map" width="1000" height="1000">
+<img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map">
 
 <p>
 The Business Technology Architecture Body of Knowledge (BTABoK) is a free public archive of Business Technology architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest architecture professional organization.
