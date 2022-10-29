@@ -63,6 +63,13 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 	<area shape="rect" href="https://iasa-global.github.io/btabok/benefits_realization.html" coords="191,329,223,383" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/value_methods.html" coords="207,266,234,308" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/risk_methods.html" coords="243,219,268,257" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/extended_team.html" coords="416,300,447,340" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/organization.html" coords="411,371,445,406" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/roles.html" coords="373,421,399,452" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/competency.html" coords="299,412,329,446" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/job_description.html" coords="254,348,287,391" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/community.html" coords="259,293,291,318" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/architecture_practice.html" coords="327,323,380,374" alt="" target="_blank">
 
 </map>
 <img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map">

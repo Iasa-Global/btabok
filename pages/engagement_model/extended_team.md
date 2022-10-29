@@ -10,9 +10,6 @@ tags:
   - people_model
 ---
 
-Extended Team
-=============
-
 An extended team is the development of architecture practice and delivery outside of a titled architecture team. The extended team develops from utilizing other roles within the AT and business practice to fully cover the architecture and technology strategy direction.
 
 ![image001](media/e_t001.png)
