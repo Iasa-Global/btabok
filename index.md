@@ -26,14 +26,32 @@ BTABoK provides the tools and resources needed by individuals and organizations 
     <area shape="rect" href="https://iasa-global.github.io/btabok/culture.html" coords="605,440,648,497" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/mindset.html" coords="546,537,577,583" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/collaboration.html" coords="428,612,475,654" alt="" target="_blank">
-	<area shape="rect" href="https://iasa-global.github.io/btabok/utilize.html" coords="326,631,379,678" alt="">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/utilize.html" coords="326,631,379,678" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/automation.html" coords="224,601,267,646" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/safety_liability.html" coords="142,550,171,611" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/velocity.html" coords="87,501,122,546" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/simplicity.html" coords="57,426,96,467" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/measures.html" coords="23,334,81,368" alt="" target="_blank">
-
-
+    <area shape="rect" href="https://iasa-global.github.io/btabok/services.html" coords="414,126,441,164" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/assignment.html" coords="460,150,502,175" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/architecture_lifecycle.html" coords="506,183,535,230" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/decisions.html" coords="546,240,572,273" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/design.html" coords="556,292,586,331" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/architecture_pattern_repository.html" coords="552,351,582,391" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/stakeholders.html" coords="537,420,575,454" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/requirements.html" coords="490,480,527,519" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/views.html" coords="442,525,469,567" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/quality_attributes.html" coords="372,546,404,596" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/deliverables.html" coords="298,556,330,592" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/legacy_modernization.html" coords="234,522,260,565" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/repository.html" coords="181,490,206,521" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/architecture_tools.html" coords="139,437,169,479" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/quality_assurance.html" coords="112,368,148,413" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/governance.html" coords="115,294,149,330" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/product_project.html" coords="138,228,166,265" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/roadmap.html" coords="178,178,204,213" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/experiments.html" coords="234,134,263,176" alt="" target="_blank">
+    
 </map>
 <img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map">
 
