@@ -51,7 +51,19 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 	<area shape="rect" href="https://iasa-global.github.io/btabok/product_project.html" coords="138,228,166,265" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/roadmap.html" coords="178,178,204,213" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/experiments.html" coords="234,134,263,176" alt="" target="_blank">
-    
+    	<area shape="rect" href="https://iasa-global.github.io/btabok/objectives.html" coords="422,210,454,245" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/technical_debt.html" coords="467,258,498,298" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/investment_planning.html" coords="484,324,520,372" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/scope_context.html" coords="471,396,500,436" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/structural_complexity.html" coords="431,447,461,487" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/coverage.html" coords="372,482,396,518" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/principles.html" coords="305,479,332,519" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/analysis.html" coords="250,449,275,494" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/value_streams.html" coords="209,394,234,448" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/benefits_realization.html" coords="191,329,223,383" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/value_methods.html" coords="207,266,234,308" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/risk_methods.html" coords="243,219,268,257" alt="" target="_blank">
+
 </map>
 <img src="images/BTABoK_map.png" alt="" usemap="#rage_image_map">
 
