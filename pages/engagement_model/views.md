@@ -259,9 +259,9 @@ The following view is an example view of a roadmap for an organisation planning 
 
 ![](.\media\views_003_Roadmap.png)
 
-The following view is a simple example of a capability map for an organisation expanding car maintenance services. In the view, several capabilities are shown at two levels.  This addresses the concerns of stakeholders regarding which capabilities are required in order to succeed with the expansion.
+The following view is an example of a capability map for an organisation which manufactures and sells vehicles. In the view, several capabilities are shown at two levels. As an example, the organisation may have an expand the business. This view may address the concerns of stakeholders regarding which capabilities are required in order to succeed with the expansion.
 
-![](.\media\views_003_CapabilityMap.png)
+![](.\media\views_004_CapabilityMap.png)
 
 ## Landscape Viewpoint
 
@@ -269,15 +269,25 @@ Another commonly used viewpoint is a landscape viewpoint. This viewpoint provide
 
 Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Which capabilities are supported by which systems?
+- Which systems are required to effectively support the capabilities?
 
 - Which systems are dependent on other systems?
 
 - How does information flow between the systems in the landscape?
 
-Example view: System information flow
+- In which systems should investment be placed?
 
-Example view: System map
+- Are there systems which can be decommissioned?
+
+- Which systems are affected by a given change request?
+
+The following view is an example view of a mapping between some of the capabilities in an organisation and systems which support these capabilities. This may help address the concerns of stakeholders regarding which systems effectively support the capabilities of the organization.
+
+![](.\media\views_005_SystemMap.png)
+
+The following view is an example view of a system landscape view from a logical perspective. This view shows the systems in the organization and the flow of information between these systems. This may help address the concerns of stakeholders regarding which systems are dependent och each other, thus providing a basis for assessing the scope of change.
+
+![](.\media\views_005_SystemLandscape.png)
 
 ## Context Viewpoint
 
