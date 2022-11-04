@@ -94,9 +94,11 @@ Views are the primary method for communicating an architecture to both architect
 
 Using models (and modeling tools) rather than static diagrams to design an architecture provides distinct advantages in creating views. Since the views are connected to the model, changes in the model can be will be reflected immediately in any views. This provides the architect with a very useful way to assess the impact of change. Changes can be made to the model and the impact on the architectural views can be analyzed together with the different stakeholders.
 
-# The Origins of Views and Viewpoints
+## Views are for the Stakeholders
 
-<mark>COMMENT:SD: _We should look at the structure of this section, perhaps describe viewpoints clearly before moving on to views. Some of the following sections felt like a mix.</mark>
+When constructing views of the architecture it is important to consider the stakeholder concerns. The view should be easy for the stakeholder to understand and address a concern that the stakeholder has. Presenting views to stakeholders in the wrong format can cause confusion and make the view seemingly irrelevant. For example, presenting views of the architecture using UML models may not be suitable executive stakeholders, it may be better suited to use high level visual presentations.
+
+# The Origins of Views and Viewpoints
 
 The concept of views and viewpoints originated back in the 1970s (ref:
 Ross's Structure Analysis and Design Technique) the Views became widely
@@ -285,7 +287,7 @@ The following view is an example view of a mapping between some of the capabilit
 
 ![](.\media\views_005_SystemMap.png)
 
-The following view is an example view of a system landscape view from a logical perspective. This view shows the systems in the organization and the flow of information between these systems. This may help address the concerns of stakeholders regarding which systems are dependent och each other, thus providing a basis for assessing the scope of change.
+The following is an example view of a system landscape from a logical perspective. This view shows the systems in the organization and the flow of information between these systems. This may help address the concerns of stakeholders regarding which systems are dependent och each other, thus providing a basis for assessing the scope of change.
 
 ![](.\media\views_005_SystemLandscape.png)
 
@@ -305,7 +307,9 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 - How does data flow in and out of the solution?
 
-Example context view
+The following is a simple example context view for an ERP (Enterprise Resource Planning) system. The view shows the systems, users and other entities which interact with the system. This may help address the concerns of stakeholders regarding which information flows in and out of the system, and who is dependent on the system.
+
+![](.\media\views_007_ContextDiagram.png)
 
 ## Process Viewpoint
 
@@ -317,9 +321,9 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 - Who is involved in the execution of activities?
 - What information is required in order to perform an activity?
 
-Example process view
+The following is an example of a high-level process view. The view the sequence of activities required to process a customer order, from reciept to delivery. This may help address the concerns of stakeholders regarding which activities need to be performed, and in which order.
 
-<img src="file:///C:/Users/Stephen/AppData/Roaming/marktext/images/2022-10-29-16-33-01-image.png" title="" alt="" width="687">
+![](.\media\views_008_ProcessView.png)
 
 ## Development Viewpoint
 
