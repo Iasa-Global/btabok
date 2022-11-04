@@ -259,11 +259,11 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following view is an example view of a roadmap for an organisation planning the expansion of its sales capability. This addresses the concerns of stakeholders regarding when objectives need to be completed.
 
-![](media\views_003_Roadmap.png)
+![image003](media\views_003_Roadmap.png)
 
 The following view is an example of a capability map for an organisation which manufactures and sells vehicles. In the view, several capabilities are shown at two levels. As an example, the organisation may have an expand the business. This view may address the concerns of stakeholders regarding which capabilities are required in order to succeed with the expansion.
 
-![](media\views_004_CapabilityMap.png)
+![image004](media\views_004_CapabilityMap.png)
 
 ## Landscape Viewpoint
 
@@ -285,11 +285,11 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following view is an example view of a mapping between some of the capabilities in an organisation and systems which support these capabilities. This may help address the concerns of stakeholders regarding which systems effectively support the capabilities of the organization.
 
-![](media\views_005_SystemMap.png)
+![image005](media\views_005_SystemMap.png)
 
 The following is an example view of a system landscape from a logical perspective. This view shows the systems in the organization and the flow of information between these systems. This may help address the concerns of stakeholders regarding which systems are dependent och each other, thus providing a basis for assessing the scope of change.
 
-![](media\views_005_SystemLandscape.png)
+![image005S](media\views_005_SystemLandscape.png)
 
 ## Context Viewpoint
 
@@ -309,7 +309,7 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following is a simple example context view for an ERP (Enterprise Resource Planning) system. The view shows the systems, users and other entities which interact with the system. This may help address the concerns of stakeholders regarding which information flows in and out of the system, and who is dependent on the system.
 
-![](media\views_007_ContextDiagram.png)
+![image007](media\views_007_ContextDiagram.png)
 
 ## Process Viewpoint
 
@@ -323,7 +323,7 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following is an example of a high-level process view. The view the sequence of activities required to process a customer order, from reciept to delivery. This may help address the concerns of stakeholders regarding which activities need to be performed, and in which order.
 
-![](media\views_008_ProcessView.png)
+![image008](media\views_008_ProcessView.png)
 
 ## Development Viewpoint
 
