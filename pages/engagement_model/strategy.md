@@ -290,7 +290,7 @@ The tactics provide the pre-conditions for planning the execution of the
 strategy. The following are some tools which can be used to help assess
 and define tactics.
 
-### SWOT Analysis
+## SWOT Analysis
 
 SWOT analysis is a useful tool for identifying strengths, weaknesses,
 opportunities and threats, and thus help in defining tactics to ensure
@@ -357,7 +357,7 @@ all the factors which influence the organization, they can begin to
 discuss tactics to mitigate threats and take advantage of opportunities.
 This analysis can be used in combination with SWOT.
 
-### ArchiMate Motivation Model
+## ArchiMate Motivation Model
 
 The ArchiMate motivation model provides a way to map the relationships
 between stakeholders, drivers and assessments (strengths, weaknesses,
@@ -370,7 +370,7 @@ The motivation model is very much an architect's tool for analyzing and
 understanding strategic planning but it is not well suited to
 stakeholders who are not familiar with ArchiMate.
 
-### Risk Matrix
+## Risk Matrix
 
 Assessing and managing risks is central to the feasibility and the
 success of a strategy. The level of risk may determine whether a
@@ -391,7 +391,7 @@ risk matrix to provide an overall rating, ranging from low to critical.
 After rating the risks, an assessment can be made of the strategy and
 tactics required to best provide mitigation.
 
-### Power-Interest Grid
+## Power-Interest Grid
 
 The power-interest grid is a useful tool for identifying tactics based
 on stakeholders. The grid is used to identify important strategic
@@ -413,7 +413,7 @@ achieved. The next step is to provide a plan for the execution of the
 strategy. Planning the execution of a strategy links to a number of
 engagement model elements.
 
-### Investment planning
+## Investment planning
 
 [Investment planning](investmentplanning.md){:target="_blank"} considers the prioritization of the
 initiatives identified as part of the work with the Strategy Scorecard,
@@ -421,7 +421,7 @@ these may be formed as business cases. Investment planning evaluates the
 costs, benefits, complexity and value delivered from the initiatives and
 plans the investment to maximize value delivery.
 
-### Assignment
+## Assignment
 
 [Assignment](assignment.md){:target="_blank"} is about planning how the architecture practice
 evaluates and assigns resources to business cases. This is important in
@@ -430,7 +430,7 @@ architect capacity and competencies required to support business case
 execution. The architecture practice is an active participant in
 strategic [assignment](assignment.md){:target="_blank"} and [investment planning,](investment_planning.md){:target="_blank"} to help ensure the success of the strategy.
 
-### Roadmap
+## Roadmap
 
 Creating a strategic [roadmap](roadmap.md){:target="_blank"} organizes objectives and
 initiatives across a timeline. This puts the strategy in perspective for
@@ -439,12 +439,12 @@ roadmap it is difficult for an organization to communicate how the
 strategy will be executed, and to steer the strategy on a time-based
 perspective.
 
-### Customer Journey
+## Customer Journey
 
 An important part of planning a strategy is to understand the [customer journey](customer_journey.md){:target="_blank"}. This will help to plan objectives and tactics by
 understanding how the customer interacts with the business, it's
 products and services. Understanding the customer journey provides an
-insight into value delivery, this helps in deciding which business cases
+insight into value delivery, this helps in deciding which [business cases](business_capabilities.md){:target="_blank"}
 to prioritize in investment planning.
 
 ## Track and Adapt
