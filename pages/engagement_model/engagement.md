@@ -139,7 +139,7 @@ In the same way that architecture objectives drive outcomes, principles help def
 
 There is a relationship between customer outcomes and other elements of the engagement model. For example, in a safety-critical environment a Tier 1 Critical System, priority would likely be given to objectives and principles that are about the health of the system over an individual customer experience. In contrast, in a non-critical design (Tier 3), customer experience, journey, and engagement would involve significantly higher priority. Create customer-obsessed principles before creating more technical ones or prioritize them higher. In the guidance above, a great set of principles would include customer experience should be considered.
 
-### Getting Access to the Right Stakeholders
+## Getting Access to the Right Stakeholders
 
 Most commonly, the Sales, Marketing, and Customer Service organizations in a for-profit would have the most profound interest in customer engagement. In a non-profit or government agency, these might be membership or citizen leadership groups. This can be as simple as starting a conversation informally in many cases. An entire architecture team may be assigned to build these relationships in other cases. The architecture team must realize that creating stakeholder trust is as essential as the outcomes of the activities.
 
