@@ -259,11 +259,11 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following view is an example view of a roadmap for an organisation planning the expansion of its sales capability. This addresses the concerns of stakeholders regarding when objectives need to be completed.
 
-![image003](media\views_003_Roadmap.png)
+![](media/views_003_Roadmap.png)
 
 The following view is an example of a capability map for an organisation which manufactures and sells vehicles. In the view, several capabilities are shown at two levels. As an example, the organisation may have an expand the business. This view may address the concerns of stakeholders regarding which capabilities are required in order to succeed with the expansion.
 
-![image004](media\views_004_CapabilityMap.png)
+![](media/views_004_CapabilityMap.png)
 
 ## Landscape Viewpoint
 
@@ -285,11 +285,11 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following view is an example view of a mapping between some of the capabilities in an organisation and systems which support these capabilities. This may help address the concerns of stakeholders regarding which systems effectively support the capabilities of the organization.
 
-![image005](media\views_005_SystemMap.png)
+![](media/views_005_SystemMap.png)
 
 The following is an example view of a system landscape from a logical perspective. This view shows the systems in the organization and the flow of information between these systems. This may help address the concerns of stakeholders regarding which systems are dependent och each other, thus providing a basis for assessing the scope of change.
 
-![image005S](media\views_005_SystemLandscape.png)
+![](media/views_005_SystemLandscape.png)
 
 ## Context Viewpoint
 
@@ -309,7 +309,7 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following is a simple example context view for an ERP (Enterprise Resource Planning) system. The view shows the systems, users and other entities which interact with the system. This may help address the concerns of stakeholders regarding which information flows in and out of the system, and who is dependent on the system.
 
-![image007](media\views_007_ContextDiagram.png)
+![](media\views_007_ContextDiagram.png)
 
 ## Process Viewpoint
 
@@ -321,13 +321,13 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 - Who is involved in the execution of activities?
 - What information is required in order to perform an activity?
 
-The following is an example of a high-level process view. The view the sequence of activities required to process a customer order, from reciept to delivery. This may help address the concerns of stakeholders regarding which activities need to be performed, and in which order.
+The following is an example of a high-level process view. This view shows the sequence of activities required to process a customer order, from reciept to delivery. This may help address the concerns of stakeholders regarding which activities need to be performed, and in which order.
 
-![image008](media\views_008_ProcessView.png)
+![](media/views_008_ProcessView.png)
 
-## Development Viewpoint
+## Application Viewpoint
 
-Development viewpoints are concerned with describing the technical design of the solution, which guides how to implement the software. The views from this viewpoint may describe components, information structures, objects (classes) and thier relationships.
+Application viewpoints are concerned with describing the technical design of an application, which provides the design for software implementation. The views from this viewpoint may describe components, information structures, objects (classes) and thier relationships.
 
 Examples of stakeholder concerns which are addressed by this viewpoint are:
 
@@ -336,15 +336,24 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 - How do objects in the solution interact with each other?
 - Which design patterns can we use to make the implementation maintainable?
 
+The following is an example of a component view. This view shows the components in a solution using UML notation. This may help address the concerns of stakeholders regarding what are the dependencies between the solution components.
+
+![](media/views_009_ComponentView.png)
+
 ## Physical Viewpoint
 
-<mark>Describe...</mark>
+Physical viewpoints, as the name suggests, concerned with descibing the phyiscal components in an architecture. The views from this viewpoint may describe datacenters, execution environments, servers, networks, hardware or communication links.
 
-Examples of information which may be communicated in physical views are:
+Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Execution environments
-- Hardware
-- Communication flows and protocols
+- What physical infrastructure need to be in place for the solution?
+- Where are the software releases deployed?
+- How is the infrastructure secured?
+- How is data transported between datacenters?
+
+The following is an example of a network view. This view shows how the devices and servers in a network are connected. This may help address the concerns of stakeholders regarding what infrastructure need to be in place for a given solution.
+
+![](media/views_010_PhysicalView.png)
 
 # References and Further Reading
 
