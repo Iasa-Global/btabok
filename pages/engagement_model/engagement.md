@@ -97,7 +97,7 @@ Doing things right requires an up-front investment of time. Asking difficult que
 
 Architects use these tools to explore the solution and customer space to identify unseen blockers and enablers to customer engagement.
 
-### JBTD Timeline
+## JBTD Timeline
 
 The architect’s goal is to facilitate and participate as an innovator throughout the customer’s process. The JTBD Timeline provides the basis for understanding the relationship between the customer and the organization, backed by the technology underpinning the relationship.
 
@@ -105,7 +105,7 @@ The architect’s goal is to facilitate and participate as an innovator througho
 
 Notice that the timeline provides the tools to connect JBTD to the customer journey and begin facilitating discussion about business and technology layers that impact that journey. This may be an automated set of steps, or it may be creating a quick way for the customer to contact a person.
 
-### JBTD Forces Canvas
+## JBTD Forces Canvas
 
 Another canvas that can be used to understand the customers’ behavior in the process is to understand the forces affecting the customers’ behavior and choices during the JBTD. This canvas outlines the forces that allow architects to understand why a customer may choose a new way of doing things. A great example of this comes from Uber. One of the forces on using traditional taxis was the difficulty in payment. Using a credit card with a random taxi driver or having cash were difficulties (what are called pains) in the job of getting from one place in a city to another. By using the Uber app, payment was fully automated. This ‘pain reliever’ is a major attractive force to using the product instead of the more traditional way. However, it is also important to note the forces pushing in the opposite direction. For example, consider the mindset of the individual. Suppose they are deeply unfamiliar with technology or it is difficult to set up a credit card, or they do not have a credit card. In that case, the Uber application may actually create enough anxiety to push the customer into traditional taxis and cash methods.
 
@@ -125,17 +125,17 @@ Good customer focus aims to understand their needs and match them. Connecting th
 
 The first step in driving digital customer engagement is adjusting the engagement model to accommodate customer obsession in the architecture practice. This may be done through a series of training, mentoring, coaching exercises, or more informal methods. A starting point is to work through a single product or value stream and show customer engagement deliverables to the architecture practice. The practice would decide which of these would be valuable to the architects and demonstrate them and their value.
 
-### Create a Set of Architect Objectives
+## Create a Set of Architect Objectives
 
 Architects work towards objectives measured by numerous stakeholders (including the customers themselves) and need to define what a great set of annual objectives and key results would be based on being customer-focused. Architecture practices should create a set of OKRs that relate to customer engagement. Example or standard metrics have been provided as a starting point at the end of this article.
 
 The goal of the objectives includes the entire spectrum of architects and how their objectives align with each other. This is the most challenging part of an architecture practice but is especially difficult for architects to report to entirely different groups. The business architect’s objectives in driving digital engagement must merge effectively with the infrastructure or software architects. The goal of the activity is to create, discuss and maintain these objectives while measuring actual outcomes for the architecture practice overall.
 
-### Create a Set of Principles
+## Create a Set of Principles
 
 In the same way that architecture objectives drive outcomes, principles help define and shape decisions. Customer engagement principles help architects make decisions that are genuinely ‘customer-obsessed.’ This can be challenging territory, especially in deeply technical decisions. For example, it is not immediately apparent how a customer-focused decision about how to route API traffic through a set of services. And while product owners may have a deep interest in functional or feature-driven decisions, they are poorly equipped to make this kind of trade-off. However, architects are perfectly positioned to link this routing decision to the impact on quality attributes such as performance, features that require ‘sticky’ sessions such as though dependent on server-side state management, and constraints or other principles such as the guiding principle to use stateless idempotent services whenever possible. Each of these impact areas might change the customer’s direct experience and their JBTD, creating benefit or possibly adverse outcomes from their perspective.
 
-### Prioritizing Customer Engagement
+## Prioritizing Customer Engagement
 
 There is a relationship between customer outcomes and other elements of the engagement model. For example, in a safety-critical environment a Tier 1 Critical System, priority would likely be given to objectives and principles that are about the health of the system over an individual customer experience. In contrast, in a non-critical design (Tier 3), customer experience, journey, and engagement would involve significantly higher priority. Create customer-obsessed principles before creating more technical ones or prioritize them higher. In the guidance above, a great set of principles would include customer experience should be considered.
 
@@ -143,7 +143,7 @@ There is a relationship between customer outcomes and other elements of the enga
 
 Most commonly, the Sales, Marketing, and Customer Service organizations in a for-profit would have the most profound interest in customer engagement. In a non-profit or government agency, these might be membership or citizen leadership groups. This can be as simple as starting a conversation informally in many cases. An entire architecture team may be assigned to build these relationships in other cases. The architecture team must realize that creating stakeholder trust is as essential as the outcomes of the activities.
 
-### Business and Technology Maturity
+## Business and Technology Maturity
 
 It is worth noting that many architecture practices want to be involved in digital customer success but struggle with many difficulties if their technology or business maturity are not where they need to be to facilitate the dialog. For example, suppose the marketing stakeholder has a problem with what they perceive as fundamental technology in the technology services stack. In that case, they may have a lower belief in the innovation capacity of the technologists or need to fix real problems first. Architects need to be aware of this and adjust their stakeholder management in the engagement model to succeed.
 
@@ -155,13 +155,13 @@ Personas can be taken from the customer segments portion of the business model c
 
 Engagement is a shared goal among many business units. The architecture team must demonstrate how technology decisions impact engagement and where those tradeoffs are made based on other priorities in the overall business objectives. Connecting with real value will guide experimentation, prioritization, and value measures.
 
-### JTBD Filter
+## JTBD Filter
 
 The JTBD Filter provides the tools to understand how jobs should be served. It allows the team to prioritize jobs from an overall customer and value perspective. This will enable the team to discuss overall how valuable a particular job is to the company and the importance. Use a JTBD filtering session instead of a traditional investment prioritization session to get customer-obsessed. This will help define priorities alongside other outcome model objectives.
 
 ![Figure 7 JTBD Filter](media/engagement008.svg)Figure 7 JTBD Filter
 
-### Using a BDN with Customer Engagement Objectives
+## Using a BDN with Customer Engagement Objectives
 
 The benefits dependency canvas provides a way of translating technology enablers like cloud, AI, or integration back into business objectives, and the BTABoK Structured Canvas Approach displays the value contribution of technology to the initiative, which is essential in budgeting and value contribution reporting in benefits realization.
 
