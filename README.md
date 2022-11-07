@@ -1,6 +1,6 @@
 The Business Technology Architecture Body of Knowledge (BTABoK) is a free public archive of Business Technology architecture best practices, skills, and knowledge developed from the experience of individual and corporate members of Iasa, the world’s largest architecture professional organization.  
 
-You can find the btabok github pages site at: [BTABoK (iasa-global.github.io)](https://iasa-global.github.io/btabok/)
+You can find the BTABoK github pages site at: [BTABoK (iasa-global.github.io)](https://iasa-global.github.io/btabok/)
 
 BTABoK provides the tools and resources needed by individuals and organizations to set industry standards for professional career development and well as hiring practices and incorporation of IT architects into established or developing institutions.
 
@@ -30,7 +30,7 @@ In addition to being a reference, a knowledge base and a list of professional ca
 
 The BTABoK is first and foremost intended for individual practicing architects, though it does include significant portions dedicated to organizational excellence. It is meant as a people framework as opposed to a process, methodology or standard. It is meant to be the living body of knowledge for the practice of an architect attempting to fulfill their duty to their customer or employer. While Iasa includes corporate examples and concerns, the BTABoK must be useful by the independent practitioner and must assume that a single architect is as important as a group of architects. In addition, the BTABoK must be consistent and useful at any degree of scale, regardless of the number of architects involved in the endeavor, whether that be the delivery of a global fortune 100 business strategy or the delivery of a single solution for a small business.
 
-The BTABoK is inclusive of all specializations, sub-specializations and career levels of the architect profession. Although the title includes the terms information technology, the content has been written by keeping business, enterprise, solutions, software, information and infrastructure architects and their derivations in mind. Practitioners from each of these specializations continue to help in the development and maintenance of the body of knowledge.
+The BTABoK is inclusive of all specializations, sub-specializations and career levels of the architect profession. Although the title includes the term information technology, the content has been written by keeping business, enterprise, solutions, software, information and infrastructure architects and their derivations in mind. Practitioners from each of these specializations continue to help in the development and maintenance of the body of knowledge.
 
 ## What is Architecture
 
@@ -38,16 +38,16 @@ As the favorite topic of architects everywhere, what is architecture and what ar
 
 ## Roadmap
 
-The plan is to have version 3.0 as the main branch by the end of the summer. From hear we will create a new branch for 4.0 which we expect to freeze next summer. The goals of 4.0 are to
+The plan is to have version 3.0 as the main branch by the end of the summer. From here we will create a new branch for version 4.0 which we expect to freeze next summer. The main goals of version 4.0 are to:
 
-- rework and modernize the competency model
-- develop a further connection with engineering and other architect partners
-- create a complete set of deliverables using the BTABoK
-- complete the patterns library and other libraries of the BTABoK
+- Rework and modernize the competency model
+- Develop a further connection with engineering and other architect partners
+- Create a complete set of deliverables using the BTABoK
+- Complete the patterns library and other libraries of the BTABoK
 
 ## Committers and Editors
 
-The BTABoK is the only truly open source and maintained body of knowledge for architects. As an open source BoK anyone can do a pull request after fixing or suggesting changes to the BoKor adding material. The committers on the project are a group of board certified architects who have worked very hard to create the body of knowledge. They will determine what pull requests get included into the bok. To become a committer you will have to have a large number of successful pull requests and have a discussion with the committer team.
+The BTABoK is the only truly open source and maintained body of knowledge for architects. As an open source BoK anyone can do a pull request after fixing or suggesting changes to the BTABoK or adding material. The committers on the project are a group of board certified architects who have worked very hard to create the body of knowledge. They will determine what pull requests get included into the BTABoK. To become a committer you will have to have a large number of successful pull requests and have a discussion with the committer team.
 
 ### BTABoK Editing Guidelines
 
