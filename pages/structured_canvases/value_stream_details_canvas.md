@@ -11,7 +11,7 @@ tags:
 
 The values stream detail canvas is a tool used to understand and design the support for value stream capabilities, the teams working on it and the technology to support the value stream.
 
-![image001](media/value_stream_canvas001.svg)
+![image001](media/values_stream_detail_canvas001.svg)
 
 [Download PPT](media/ppt/values_stream_detail_canvas.ppt){:target="_blank"}
 

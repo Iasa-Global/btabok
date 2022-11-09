@@ -94,24 +94,25 @@ Views are the primary method for communicating an architecture to both architect
 
 Using models (and modeling tools) rather than static diagrams to design an architecture provides distinct advantages in creating views. Since the views are connected to the model, changes in the model can be will be reflected immediately in any views. This provides the architect with a very useful way to assess the impact of change. Changes can be made to the model and the impact on the architectural views can be analyzed together with the different stakeholders.
 
-# The Origins of Views and Viewpoints
+## Views are for the Stakeholders
 
-<mark>COMMENT:SD: _We should look at the structure of this section, perhaps describe viewpoints clearly before moving on to views. Some of the following sections felt like a mix.</mark>
+When constructing views of the architecture it is important to consider the stakeholder concerns. The view should be easy for the stakeholder to understand and address a concern that the stakeholder has. Presenting views to stakeholders in the wrong format can cause confusion and make the view seemingly irrelevant. For example, presenting views of the architecture using UML models may not be suitable executive stakeholders, it may be better suited to use high level visual presentations.
+
+# The Origins of Views and Viewpoints
 
 The concept of views and viewpoints originated back in the 1970s (ref:
 Ross's Structure Analysis and Design Technique) the Views became widely
 accepted following the development of Kruchten's 4 + 1 architecture
-model, they have since been formalized in the *"[ISO/IEC/IEEE
-42010:2011], Systems and software engineering --- Architecture description"*(http://en.wikipedia.org/wiki/ISO/IEC_42010). The model below
-shows the context and relationships of views and viewpoints with the
-architecture description, stakeholders, and concerns: 
+model, they have since been formalized in the ISO42010 standard ***"[ISO/IEC/IEEE
+42010:2011], Systems and software engineering --- Architecture description"***(http://en.wikipedia.org/wiki/ISO/IEC_42010). The following diagram shows part of the model in the ISO standard with the context and relationships of views and viewpoints.
 
 ![image001](media/views_001.png)
 
 **Figure 1. Excerpt from Conceptual Framework of ISO42010 **
 
-Views and viewpoints are defined in slightly different ways by different
-organizations. The definitions adopted by IASA are:
+The ISO42010 model is a good starting point, the definitions for views and viewpoints are often defined in slightly different ways by different organizations. 
+
+The definitions adopted by IASA are as follows:
 
 > "A **Viewpoint** is a collection of patterns, templates, and conventions
 > for constructing one type of view. It defines the stakeholders whose
@@ -237,71 +238,122 @@ may use one of the available frameworks listed above.
 Well-formed viewpoints will answer the challenging questions asked of an
 architecture. When reviewing a viewpoint, determine what information to
 include in the views that are to be created. A viewpoint can be thought
-of as a template that can be used to provide predictable artifacts in a
+of as a template that can be used to provide predictable artefacts in a
 repeatable fashion. 
 
 # Examples of Viewpoints and Views
 
 ## Strategic Viewpoint
 
-<mark>Describe...</mark>
+Strategic viewpoints are concerned with providing a high-level view of enterprise or business architecture. This viewpoint provides the direction and many of the business fundamentals required for an architecture to succeed. 
 
-Examples of information which may be communicated in strategic views are:
+Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Strategic Roadmap
-- Capability Map
-- Organization
+- What are the objectives of the organization?
+
+- Which capabilities do I need in order to achieve the desired objectives?
+
+- When do the objectives need to be completed?
+
+- What is the structure of the organization?
+
+The following view is an example view of a roadmap for an organisation planning the expansion of its sales capability. This addresses the concerns of stakeholders regarding when objectives need to be completed.
+
+![](media/views_003_Roadmap.png)
+
+The following view is an example of a capability map for an organisation which manufactures and sells vehicles. In the view, several capabilities are shown at two levels. As an example, the organisation may have an expand the business. This view may address the concerns of stakeholders regarding which capabilities are required in order to succeed with the expansion.
+
+![](media/views_004_CapabilityMap.png)
 
 ## Landscape Viewpoint
 
-<mark>Describe...</mark>
+Another commonly used viewpoint is a landscape viewpoint. This viewpoint provides different views of a system landscape. 
 
-Examples of information which may be communicated in as part of a landscape view are:
+Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Systems
-- Services
-- Information flows
+- Which systems are required to effectively support the capabilities?
+
+- Which systems are dependent on other systems?
+
+- How does information flow between the systems in the landscape?
+
+- In which systems should investment be placed?
+
+- Are there systems which can be decommissioned?
+
+- Which systems are affected by a given change request?
+
+The following view is an example view of a mapping between some of the capabilities in an organisation and systems which support these capabilities. This may help address the concerns of stakeholders regarding which systems effectively support the capabilities of the organization.
+
+![](media/views_005_SystemMap.png)
+
+The following is an example view of a system landscape from a logical perspective. This view shows the systems in the organization and the flow of information between these systems. This may help address the concerns of stakeholders regarding which systems are dependent och each other, thus providing a basis for assessing the scope of change.
+
+![](media/views_005_SystemLandscape.png)
 
 ## Context Viewpoint
 
-<mark>Describe...</mark>
+The context viewpoint is derived from Rosanski Woods Software System Architecture and is often the foundation for a solution architecture. This viewpoint provides views which describe how the solution interacts with its surrounding environment.
 
-Examples of information which may be communicated in context views are:
+Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Systems and components
-- Interaction/Information flows
-- Actors
+- Which users interact with the solution?
+
+- Which systems interact with the solution?
+
+- What is the form of the interaction?
+
+- Are there dependencies on the solution?
+
+- How does data flow in and out of the solution?
+
+The following is a simple example context view for an ERP (Enterprise Resource Planning) system. The view shows the systems, users and other entities which interact with the system. This may help address the concerns of stakeholders regarding which information flows in and out of the system, and who is dependent on the system.
+
+![](media\views_007_ContextDiagram.png)
 
 ## Process Viewpoint
 
-<mark>Describe...</mark>
+Process viewpoints describe behaviour often as a sequence of activities. This viewpoint can address business processes or technology processes. 
 
-Examples of information which may be communicated in process views are:
+Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Processes
-- Activities
-- Control flows
+- Which activities need to be done, and in which order to achieve the desired outcome?
+- Who is involved in the execution of activities?
+- What information is required in order to perform an activity?
 
-## Development Viewpoint
+The following is an example of a high-level process view. This view shows the sequence of activities required to process a customer order, from reciept to delivery. This may help address the concerns of stakeholders regarding which activities need to be performed, and in which order.
 
-<mark>Describe...</mark>
+![](media/views_008_ProcessView.png)
 
-Examples of information which may be communicated in development views are:
+## Application Viewpoint
 
-- Components
-- Classes
-- Information Structure
-- Relationships (association, generalization, etc...)
+Application viewpoints are concerned with describing the technical design of an application, which provides the design for software implementation. The views from this viewpoint may describe components, information structures, objects (classes) and thier relationships.
+
+Examples of stakeholder concerns which are addressed by this viewpoint are:
+
+- How is data structured in the database?
+- Which components does the solution consist of and what is thier dependencies?
+- How do objects in the solution interact with each other?
+- Which design patterns can we use to make the implementation maintainable?
+
+The following is an example of a component view. This view shows the components in a solution using UML notation. This may help address the concerns of stakeholders regarding what are the dependencies between the solution components.
+
+![](media/views_009_ComponentView.png)
 
 ## Physical Viewpoint
 
-<mark>Describe...</mark>
+Physical viewpoints, as the name suggests, concerned with descibing the phyiscal components in an architecture. The views from this viewpoint may describe datacenters, execution environments, servers, networks, hardware or communication links.
 
-Examples of information which may be communicated in physical views are:
+Examples of stakeholder concerns which are addressed by this viewpoint are:
 
-- Execution environments
-- Hardware
-- Communication flows and protocols
+- What physical infrastructure need to be in place for the solution?
+- Where are the software releases deployed?
+- How is the infrastructure secured?
+- How is data transported between datacenters?
+
+The following is an example of a network view. This view shows how the devices and servers in a network are connected. This may help address the concerns of stakeholders regarding what infrastructure need to be in place for a given solution.
+
+![](media/views_010_PhysicalView.png)
 
 # References and Further Reading
 

@@ -1,5 +1,5 @@
 ---
-title: "Architecture Definition Canvas"
+title: "Architecture Pains and Gains Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

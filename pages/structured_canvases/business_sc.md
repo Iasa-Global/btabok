@@ -47,7 +47,7 @@ folder: structured_canvases
 36. [Business Capability Canvas](business_capability_canvas.md){:target="_blank"}
 37. [Blue Ocean Canvas](blue_ocean_canvas.md){:target="_blank"}
 38. [Benefits Realization View Canvas](benefits_realization_view_canvas.md){:target="_blank"}
-39. [Architecturally Significant Requirements Card](asr_card.md){:target="_blank"}
+39. [Architecturally Significant Requirements Card](architecture_requirement_card.md){:target="_blank"}
 40. [Benefit Dependency Network Canvas](benefits_dependency_network_canvas.md){:target="_blank"}
 41. [Architecture Pains and Gains Canvas](architecture_pains_and_gains.md){:target="_blank"}
 42. [Architecture Hypothesis Card](architecture_hypothesis_card.md){:target="_blank"}
