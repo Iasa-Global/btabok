@@ -3,7 +3,7 @@ title: "QATT Card"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: qat_card.html
+permalink: qatt_card.html
 folder: structured_canvases
 tags: 
   - business
