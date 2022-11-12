@@ -157,7 +157,7 @@ Kotter, John P. and Cohen, Dan S. 2002 (copyright John P. Kotter and Deloitte Co
 
 ### **Blogs/Webcasts/News Sources –**
 
-Types of Organization Culture. _Management Study Guide_. Retrieved August 24, 2013, from [http://managementstudyguide.com/types-of-organization-culture.htm](http://managementstudyguide.com/types-of-organization-culture.htm).
+Types of Organization Culture. _Management Study Guide_. Retrieved August 24, 2013, from [http://managementstudyguide.com/types-of-organization-culture.htm](http://managementstudyguide.com/types-of-organization-culture.htm){:target="_blank"}.
 
 # Author
 
@@ -171,6 +171,6 @@ Driven executive specializing in applying proven sales, relationship management 
 ![Waldemar Rberti](media/waldemar_roberti.jpg)
 
 ### **Waldemar Roberti**
-### **Enterprise Architect – WEG**
+**Enterprise Architect – WEG**
 
 Enterprise Architect with large experience in Enterprise Systems Development and Integration. Responsible for EA initiatives, applying the principles and practices of EA to current IT and Enterprise Processes.
