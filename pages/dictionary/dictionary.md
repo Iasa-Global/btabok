@@ -48,7 +48,7 @@ The intention of this document is to capture the definitions of all the terms in
 2 - Framework -- Outcome Phases and Outcome Spikes
 ======================================================
 
-The Engagement Framework is divided into four phases as a cyclical model, based on those used for control, change, problem solving and critical thinking, and originally based around PLAN, DO, CHECK, ACT after Demming and Shewart. <https://en.wikipedia.org/wiki/PDCA>
+The Engagement Framework is divided into four phases as a cyclical model, based on those used for control, change, problem solving and critical thinking, and originally based around PLAN, DO, CHECK, ACT after Demming and Shewart. [https://en.wikipedia.org/wiki/PDCA](https://en.wikipedia.org/wiki/PDCA){:target="_blank"}
 
 The phases or focus areas are used to provide outcome focus to the architecture and business and start with the digital customer (or citizen in government). The phases are broken up by outcome spikes which represent change happening both inside and outside of the organization and which break the cycle up into visible stages for both the internal and external stakeholder.
 
