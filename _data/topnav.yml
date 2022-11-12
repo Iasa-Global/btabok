@@ -32,6 +32,8 @@ topnav_dropdowns:
         - title: Ethics and Principles
           url: ethics_and_principles.html
         - title: Map
-          url: map_test.html  
+          url: map_test.html
+        - title: Dictionary
+          url: dictionary.html     
 
-# Copyright 2022 IASA
+# Copyright 2022 IASA 
