@@ -8,11 +8,8 @@ folder: dictionary
 summary: ""
 ---
 
-# Contents
-
-
-## 1. Overview of the Engagement Terms<a id='OEF'></a>
-=========================================
+1. Overview of the Engagement Terms
+======================================================
 
 The intention of this document is to capture the definitions of all the terms in the Engagement Model.
 
