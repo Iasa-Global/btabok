@@ -8,7 +8,7 @@ folder: dictionary
 summary: ""
 ---
 
-1 Overview of the Engagement Terms
+1 - Overview of the Engagement Terms
 ======================================================
 
 The intention of this document is to capture the definitions of all the terms in the Engagement Model.
@@ -45,7 +45,7 @@ The intention of this document is to capture the definitions of all the terms in
 | **Operating Model** | Services (**OM-S**), Assignment (**OM-A**), Decisions (**OM-DC**), Design (**OM-DS**), Stakeholders (**OM-SH**), Requirements (**OM-R**), Deliverables (**OM-DL**), Methodology (**OM-M**), Tools (**OM-T**),Repository (**OM-REP**), Governance (**OM-G**), Products (OM-P), Roadmaps (OM-RM), Experiments (**OM-E**) |
 | **Outcomes** | Strategy (**O-S**), Agility (O-A), Business Capabilities (**O-BC**), Culture (**O-C**), Empowerment (O-E), Collaboration (**O-COL**), Automation (**O-AU**), Velocity (**O-V**), Simplicity (O-SI), Ecosystem (O-EC), Engagement (**O-EN**), Journey (**O-J**) |
 
-2        Framework -- Outcome Phases and Outcome Spikes
+2 - Framework -- Outcome Phases and Outcome Spikes
 ======================================================
 
 The Engagement Framework is divided into four phases as a cyclical model, based on those used for control, change, problem solving and critical thinking, and originally based around PLAN, DO, CHECK, ACT after Demming and Shewart. <https://en.wikipedia.org/wiki/PDCA>
@@ -62,7 +62,7 @@ The engagement model is a combination of 4, interconnected "sub-models" -- the f
 
 The engagement model has at its centre the architecture roles, surrounded by these four sub-models for people, value and operations, outcomes.  These each evolve through a lifecycle, or sequence of phases, describing how most digital systems evolve from concept to deployment and value realization.
 
-2.1       Imagine -- Digital Customer
+2.1 - Imagine -- Digital Customer
 ------------------------------------
 
 First digital systems are concepts, in the imagination of an organization's (potential) customers or business partners.  In the thinking phase we participate in and drive innovation and an understanding of the direction of the organization and how technology impacts its primary objectives in its markets, its products, and its capabilities.  The architect will apply techniques such as business envisioning, customer journeys or service thinking to understand the relative merits of each concept in a structured evaluation, possibly an innovation review.
