@@ -14,8 +14,8 @@ tags:
 
 **Margaret Heffernan**
 
-What Does it Mean to Innovate
-=============================
+# What Does it Mean to Innovate
+
 
 verb (used without object), in-no-vat-ed, in-no-vat-ing.
 

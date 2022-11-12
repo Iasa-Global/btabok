@@ -10,9 +10,10 @@ tags:
   - digital_customer
 ---
 
-# What is the Ecosystem
+> "A group of businesses or business activities that affect each other and work well together"
+**definition of Ecosystem, Cambridge Dictionary**
 
-*"A group of businesses or business activities that affect each other and work well together"* **- definition of Ecosystem, Cambridge Dictionary**
+# What is the Ecosystem
 
 The Ecosystem represents the external environment within which an
 organization participates, interacts and is affected by other parties in
