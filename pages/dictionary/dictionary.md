@@ -88,7 +88,7 @@ You may look at this initially and see a lifecycle model; after delving into the
 
 The IT Architecture Organisation is in an exploratory mode, it is identifying areas of creativity and solutions to improve the current organisation state.
 
-PP: Innovation is constantly occurring both inside and outside of the organization. An organizations ability to harness innovation and convert it to strategy within its current business model or by creating new ones, defines its ability to survive through creating value for its customers. Digital innovation is the focus of the ITABoK and the architect teams ability to create and harness it into an effective digital strategy at the multiple scopes in the organization. The team should view its primary focus as the ability to bring the highest total amount of successful digital innovation through transformation and into utilization.
+PP: Innovation is constantly occurring both inside and outside of the organization. An organizations ability to harness innovation and convert it to strategy within its current business model or by creating new ones, defines its ability to survive through creating value for its customers. Digital innovation is the focus of the BTABoK and the architect teams ability to create and harness it into an effective digital strategy at the multiple scopes in the organization. The team should view its primary focus as the ability to bring the highest total amount of successful digital innovation through transformation and into utilization.
 
 3.3 - Utilisation
 ---------------------
@@ -125,14 +125,14 @@ The Solution Architect has mastered the fundamental skills in architecture and h
 
 (Source IASA Job Descriptions)
 
-4.3 - Business (A-BA)
+4.3 - Business (A-BA) 
 -------------------------
 
 The business architect provides leadership of business initiatives through technology strategy by participating in the development of a business strategy to accomplish specific business goals. They provide innovation and opportunity recognition within business units. Specifically, the business architect has mastered the delivery of value through technology support of business strategy. The business architect has developed their understanding of business valuation, business process and business strategy delivery. They act as a liaison from the technology groups to enhance business development and have tremendously advanced skills in business valuation of technology as well has human dynamics.
 
 The business architect understands the business unit and organization within which they function using both formal methods, such as modelling, as well as informal techniques. They will likely have significant experience within the industry and the particular business function where they work. The business architect functions as a part of the business team as a trusted partner and the models they create may be used to extend beyond just the application of technology strategy as they give useful and powerful pictures of the processes, people and capabilities of the business unit.
 
-(Source IASA Job Descriptions)
+(Source IASA Job Descriptions) 
 
 4.4 - Software Architect (A-SWA)
 ------------------------------------
@@ -169,7 +169,7 @@ This defines the terms related to the People Model within the Engagement Model.�
 5.1 - Skills Inventory (PM-SI)
 ----------------------------------
 
-To deliver value to the organization and operate within the community norms of practicing architects, the team of architects must exhibit certain skills and abilities as a whole and each individual on the team must have minimum, certified skills and abilities to execute their role.  ITABoK defines 5 pillars which group the skills in the architecture community of practice and the most important one is Business Technology Strategy, the ability to understand where the business -- sponsor, individuals in the unit, and the trends within competitors -- is headed, prioritize and value these ideas, and convert the most important into successfully framed projects.  Each pillar has sub-areas and the ITABoK has over 90 specific skill descriptions generated from the architecture community over the last decade and validated through practice in over 100 organizations.  The IASA Skills Taxonomy is unique in both its detail as well as its ability to connect the specializations together.
+To deliver value to the organization and operate within the community norms of practicing architects, the team of architects must exhibit certain skills and abilities as a whole and each individual on the team must have minimum, certified skills and abilities to execute their role.  BTABoK defines 5 pillars which group the skills in the architecture community of practice and the most important one is Business Technology Strategy, the ability to understand where the business -- sponsor, individuals in the unit, and the trends within competitors -- is headed, prioritize and value these ideas, and convert the most important into successfully framed projects.  Each pillar has sub-areas and the BTABoK has over 90 specific skill descriptions generated from the architecture community over the last decade and validated through practice in over 100 organizations.  The IASA Skills Taxonomy is unique in both its detail as well as its ability to connect the specializations together.
 
 (Source Brian)
 
@@ -180,7 +180,7 @@ The architecture organization is composed of one or more architects within the p
 
 (Source Brian)
 
-(Source Created for ITABoK 3.0)
+(Source Created for BTABoK 3.0)
 
 5.3 - Roles (PM-R)
 ----------------------
@@ -205,7 +205,7 @@ Job Descriptions describe the context, scope, duties, tasks and deliverables of 
 -   Governance processes will identify RACI (Responsible, Accountable, Consulted and Informed) and the decision rights, these need to be linked to the qualitied Job Descriptions.
 -   Job Descriptions can be defined for internal and external resources. An organisation may depend on external resources to complete activities they are not always part of the IT Architecture Organisation.
 
-(Source created for ITABoK 3.0)
+(Source created for BTABoK 3.0)
 
 5.6 - Community (PM-C)
 --------------------------
@@ -263,16 +263,16 @@ Since context affects everything about architecture internally it is important t
 6.5 - Traceability (VM-T)
 -----------------------------
 
-This is a method and set of measures used to identify the ability of the organization to trace value through architectural decisions. Traceability in the itabok refers to tracing business goals through business outcomes threaded through the delivery of technology strategy based on rigorous architectural requirements and architectural decisions. It uses coverage, scope and context to understand the number of decisions being made in the enterprise and how they are managed in connection with business outcomes.
+This is a method and set of measures used to identify the ability of the organization to trace value through architectural decisions. Traceability in the BTABoK refers to tracing business goals through business outcomes threaded through the delivery of technology strategy based on rigorous architectural requirements and architectural decisions. It uses coverage, scope and context to understand the number of decisions being made in the enterprise and how they are managed in connection with business outcomes.
 
-(Source created for ITABoK 3.0)
+(Source created for BTABoK 3.0) 
 
 6.6 - Risk Methods (VM-RM)
 ------------------------------
 
 Risk is a measure which relates to the potential of a failure of a system or system of systems and its possible impacts, probability, mitigators and offsets. Risk methods are the mechanism by which the architecture team manages, communicates and handles these risks.
 
-(Source created for ITABoK 3.0)
+(Source created for BTABoK 3.0)
 
 6.7 - Coverage (VM-C)
 -------------------------
@@ -285,25 +285,25 @@ The coverage at the;
 -   Tactical level is the project or system under evaluation
 -   Operational is the continuous service improvement activities that the IT Architect performs
 
-(Source Created for ITABoK 3.0)
+(Source Created for BTABoK 3.0)
 
 6.8 - Technical Debt (VM-TD)
 --------------------------------
 
-Technical debt (also known as design debt or code debt, but can be also related to other technical endeavours) is a concept in [software development](https://en.wikipedia.org/wiki/Software_development) that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
+Technical debt (also known as design debt or code debt, but can be also related to other technical endeavours) is a concept in [software development](https://en.wikipedia.org/wiki/Software_development){:target="_blank"} that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
 
-As with monetary [debt](https://en.wikipedia.org/wiki/Debt), if technical debt is not repaid, it can accumulate 'interest', making it harder to implement changes. Unaddressed technical debt increases [software entropy](https://en.wikipedia.org/wiki/Software_entropy). Technical debt is not necessarily a bad thing, and sometimes (e.g., as a proof-of-concept) is required to move projects forward. On the other hand, some experts claim that the "technical debt" metaphor tends to minimize the impact, which results in insufficient prioritization of the necessary work to correct it.
+As with monetary [debt](https://en.wikipedia.org/wiki/Debt){:target="_blank"}, if technical debt is not repaid, it can accumulate 'interest', making it harder to implement changes. Unaddressed technical debt increases [software entropy](https://en.wikipedia.org/wiki/Software_entropy){:target="_blank"}. Technical debt is not necessarily a bad thing, and sometimes (e.g., as a proof-of-concept) is required to move projects forward. On the other hand, some experts claim that the "technical debt" metaphor tends to minimize the impact, which results in insufficient prioritization of the necessary work to correct it.
 
 As a change is started on a codebase, there is often the need to make other coordinated changes in other parts of the codebase or documentation. Changes required that are not completed are considered debt, and until paid, will incur interest on top of interest, making it cumbersome to build a project. Although the term is used in software development primarily, it can also be applied to other professions.
 
-(Source : <https://en.wikipedia.org/wiki/Technical_debt>)
+Source : [https://en.wikipedia.org/wiki/Technical_debt](https://en.wikipedia.org/wiki/Technical_debt){:target="_blank"}
 
 6.9 - Architectural Analysis (VM-AA)
 ----------------------------------------
 
 One of the keyways architects add value is through structured architecture analysis. Architecture analysis is used as a risk analysis and [mitigation](https://www.sciencedirect.com/topics/computer-science/risk-mitigation) technique. The idea is that one we can profitably analyse the proposed architecture for a software system before it has been built, or before major changes to it are made, and discover potential risks to the system which can then be fixed at a low cost (relative to the cost of these risks going undiscovered until the system is developed). Coherence, integrity, quality attribute analysis is all part of this. There are many techniques which can be used to help with this, ATAM is a method for architecture analysis and PBAAM will ensure comprehensive architecture evaluation. *(CCB suggestion -- include FMEA and Cloud -- Amazon well architected -- as options)*
 
-(Source IASA ITABoK 2.0)
+(Source IASA BTABoK 2.0)
 
 6.10    Quality Attributes (VM-QA)
 ----------------------------------
@@ -315,14 +315,14 @@ Quality attributes provide a way for the IT Architect to explore the level of se
 
 Additionally, some quality attributes compliment, while other are counter to each other. Iasa organizes key quality attributes under usage related, support related, operation related, and security. This makes it easier to consider attributes you need to consider in your design and provides a way to discuss trade-offs with stakeholders. For instance, providing greater personalization will have a negative impact on supportability. Please note, this is a small portion of the quality attributes that are in use in the industry.
 
-(Source IASA ITABoK 2.0)
+(Source IASA BTABoK 2.0)
 
 6.11    Value Streams (VM-VS)
 -----------------------------
 
 Value Streams are a series of activities that are performed by the IT Architecture Team as part of their Engagement Model.   Each activity completed must provide some value to the stakeholder.   Value can be measured in terms of revenue, reduced cost, customer satisfaction, reduction in errors, reduced cycle time, etc.
 
-(Source Created for ITABoK 3.0)
+(Source Created for BTABoK 3.0)
 
 6.12    Value Methods (VM-VM)
 -----------------------------
@@ -403,7 +403,7 @@ Operational and Continuous improvement activities will decide the following (gui
 -   Skills and training roadmaps
 -   Engagement Model operating model improvements
 
-(Source created for ITABoK 3.0)
+(Source created for BTABoK 3.0)
 
 7.4 - Design (OM-DS)
 ------------------------
@@ -425,7 +425,7 @@ Design is a human activity, and you are successful in creating architecture when
 -   Design is creating things intentionally.
 -   Design is a purposeful creative action.
 
-(Source ITABoK 2.0)
+(Source BTABoK 2.0)
 
 7.5 - Stakeholders (OM-SH)
 ------------------------------
@@ -473,7 +473,7 @@ Deliverables must demonstrate that value of the IT Architecture Engagement.  De
 -   Tactical/Project activities
 -   Operational/Continuous Improvement activities
 
-(Source created for ITABoK 3.0)
+(Source created for BTABoK 3.0)
 
 7.8 - Methodology (OM-M)
 ----------------------------
@@ -482,7 +482,7 @@ This is the approach and procedures used to implement and deliver the products a
 
 IT Architecture methodology has methods including discovery, problem solving, solutioning and communication.   This will be bound by the principles, policies, standards and guidelines defined during the setup stage of the IT Architecture Organisation.
 
-(Source created for ITABoK)
+(Source created for BTABoK)
 
 7.9 - Tools (OM-T)
 ----------------------
@@ -495,7 +495,7 @@ Architecture Tools;
 -   Visualization techniques
 -   Methodology tracking throughout the life cycle
 
-(Source IASA ITABoK 2.0)
+(Source IASA BTABoK 2.0)
 
 7.10    Repository (OM-REP)
 ---------------------------
@@ -536,7 +536,7 @@ Governance is about decision making when faced with choices (new services, chang
 
 Most organizations accomplish IT governance by creating groups, such as steering committees, that bring the right parties together to make decisions on a regular basis.
 
-(Source IASA ITABoK 2.0 and Solution Architecture 2.0)
+(Source IASA BTABoK 2.0 and Solution Architecture 2.0)
 
 7.12    Products (OM-P)
 -----------------------
@@ -565,7 +565,7 @@ The IT Architect needs to identify a solution or workable approach to these comp
 
 The experiments can either involve new technologies, using existing technologies in a different way, skilling resources to perform the activities or reframing the problem with the stakeholder.   The experiments will typically involve some level of innovation.
 
-(Source created for ITABok 3.0)
+(Source created for BTABoK 3.0)
 
 8 - Outcomes
 =================
@@ -604,7 +604,12 @@ That is, while there is value in the items on the right, we value the items on t
 
 The architecture must enable both these needs, by focusing on supporting the team to develop the Product with the right Quality Attributes (flexibility, maintainability and scalability) and an evolvable architecture with a cost effective TCO.
 
-(Source adapted from: <https://www.agilebusiness.org/page/WhatisBusinessAgility> and <https://agilemanifesto.org/>)
+Source adapted from: [https://www.agilebusiness.org/page/WhatisBusinessAgility](https://www.agilebusiness.org/page/WhatisBusinessAgility){:target="_blank"} and [https://agilemanifesto.org/](https://en.wikipedia.org/wiki/Technical_debt){:target="_blank"}
+
+
+
+
+
 
 8.3 - Business Capabilities (O-BC)
 --------------------------------------
@@ -647,7 +652,7 @@ Managing the culture is affected by many factors:
 -   Tools such as email vs. surface mail and wiki vs. bulletin board
 -   Top performers have mastered the art of office politics
 
-(Source IASA ITABoK 2.0)
+(Source IASA BTABoK 2.0)
 
 8.5 - Empowerment (O-E)
 ---------------------------
@@ -659,7 +664,7 @@ Empowerment is an outcome focus and measurement point which describes the effect
 
 Collaboration and negotiations are leveraging knowledge of the psychology of human collaboration, networking, strategies and methods to facilitate working together and reaching agreement.  Improved cooperation among team members is directly proportional to the level of trust among team members.
 
-(Source IASA ITABoK 2.0)
+(Source IASA BTABoK 2.0)
 
 8.7 - Automation (O-AU)
 ---------------------------
@@ -670,7 +675,7 @@ The IT Architect needs to identify tasks that can be automated and implementing 
 
 Automation between machines within an organisation and across organisational boundaries with companies in the same country or another company in a different region.  The automation needs to consider differences in technologies and standards.
 
-(Source created for ITABoK 3.0)
+(Source created for BTABoK 3.0)
 
 8.8 - Velocity (O-V)
 ------------------------
@@ -679,7 +684,7 @@ The sustainable rate of change or progress that is required by the organisation.
 
 The Engagement Model needs to apply the correct processes and resources to match the pace of changed required by the stakeholders.   It also needs to align with the implementation methods such as waterfall, Kanban or Scrum being applied by the organisation as part of its change programmes.
 
-(Source created for the ITABoK 3.0)
+(Source created for the BTABoK 3.0)
 
 8.9 - Simplicity (O-SI)
 ---------------------------
