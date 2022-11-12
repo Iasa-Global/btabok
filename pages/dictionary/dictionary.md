@@ -71,7 +71,7 @@ First digital systems are concepts, in the imagination of an organization's (pot
 
 PP: The digital customer, also digital citizen in government, is the driving force for digital transformation. All innovation starts with creating value for the customer and to do so the architect must understand the ecosystem in which the customer thinks and acts, their journey through their interactions with the organisation and their engagement in the process. The architect team works to achieve innovation in business and employee engagement to create value for the customer.
 
-2.2       Become -- Digital Business
+2.2 - Become -- Digital Business
 -----------------------------------
 
 As we understand how digital systems work within existing or new business models, they take shape with a specific vision and scope.  We change certain technology strategies and certain business processes in ways that impact the ecosystem of customers the involvement of our customer experience and their journey with our company.  The architect applies envisioning and goal-setting techniques to define the business case for a new solution and assesses our alternatives.
@@ -80,7 +80,7 @@ As we understand how digital systems work within existing or new business models
 
 Digital business is derived from the native digital companies that have formed over the last two decades. Building a digital business requires a deep understanding of how technology impacts business models and the capabilities necessary to implement them. From digital health to SAAS companies the digital business focuses on business agility and strategy to allow it to compete for the digital customer. The architects work to transform the business model to achieve customer driven outcomes. The digital business also achieves a new level of sophistication and capability for the digital employee.
 
-2.3       Achieve -- Digital Employee
+2.3 - Achieve -- Digital Employee
 ------------------------------------
 
 Having selected a solution approach, the architect works within the organization's culture to establish a team to implement and uses design techniques to socialize the key aspects.  We look at the utilization of these changes how they've spread through the digital employee, based and how they're being adopted by different groups and by the customer themselves.
@@ -89,7 +89,7 @@ Having selected a solution approach, the architect works within the organization
 
 Achieving a digital employee is no easy task but absolutely necessary in operating a digital business for its customers. Workforce dynamics and culture are all equally different in a transformed business model with its customers. Everything from collaboration to decision making are changed as the business pushes further and further to empower its employees at the edges. The promise of a digital employee is one that can deliver fully on the business model while maintaining operational excellence.
 
-2.4       Maximise -- Digital Operations
+2.4 - Maximise -- Digital Operations
 ---------------------------------------
 
 As the product or solution is implemented, the architect looks to the future -- ensuring that the organization is ready for the solution (change management), that the solution is ready for the environment (DevOps), and that the stakeholders can realize the benefits (value realization and governance).  We look at improving and augmenting our operational excellence by reviewing these changes to invest in the next phase of thinking, changing, using, and reviewing.
@@ -98,7 +98,7 @@ As the product or solution is implemented, the architect looks to the future -- 
 
 Digital operations from DevOps through change management are absolutely necessary to maximize the value delivery from Customer, Business, and Employee. Creating a modern landscape for digital operations and ensuring that technical debt remains low or that it is being serviced properly allows the achievement of velocity, simplicity (to the extent possible) and automation are delivered to the organization. The goal of the architecture team is to achieve these outcomes from the single team level all the way through the group's total outcome set.
 
-3        Outcome Spikes
+3 - Outcome Spikes
 =======================
 
 Each of these phases may overlap as they are implemented, and each often has a defined synchronization point -- illustrated by the "spikes" -- towards the end, to ensure that the team and the stakeholders are all in agreement.
@@ -107,33 +107,33 @@ These spikes represent change points within an organization and may be visible o
 
 You may look at this initially and see a lifecycle model; after delving into the sections you have the most use for initially, you may return to this model and find quality and maturity aspects to bring to your growing practice.  As a mature architect, you may contribute back to the model your own experiences combining models in your organization and creating a collaborative solution design process.  Through your growth as an architect, the concepts in this engagement model will be explored, brought into your personal practice, and expanded as you adapt them in your organization.
 
-3.1       Innovation
+3.1 - Innovation
 --------------------
 
 The IT Architecture Organisation is in an exploratory mode, it is identifying areas of creativity and solutions to improve the current organisation state.
 
 PP: Innovation is constantly occurring both inside and outside of the organization. An organizations ability to harness innovation and convert it to strategy within its current business model or by creating new ones, defines its ability to survive through creating value for its customers. Digital innovation is the focus of the ITABoK and the architect teams ability to create and harness it into an effective digital strategy at the multiple scopes in the organization. The team should view its primary focus as the ability to bring the highest total amount of successful digital innovation through transformation and into utilization.
 
-3.3       Utilisation
+3.3 - Utilisation
 ---------------------
 
 The IT Architecture Organisation has successfully completed the activities and changes.   The organisation is using the current state in line with the improvement objectives.
 
 PP: Much like the other spikes, utilization is an ongoing process. Utilization is the usage patterns of employees, customers, suppliers, partners and even other systems, where the usage represents both positive and negative outcomes which are consistently being measure either officially or unofficially. These usage patterns define the overall success of the digital transformation and business model. They are measured constantly and concurrently.
 
-3.4       Measurement
+3.4 - Measurement
 ---------------------
 
 The IT Architecture Organisation identifies the Key Performance Indicators and tracks these throughout the engagement life cycle.
 
 PP: Measurement is a set of techniques used to identify positive and negative outcomes throughout the entire change management lifecycle. It is done both officially and unofficially at many levels of scope with the goal of having measurements that roll up into higher levels and form a set of clear indicators of technology contribution to value outcomes. Further levels of measures include the set of external measures used to evaluate the health of a company or a government. As architects measure become a critical factor in understanding the efficacy of technology and business models and are primarily understood through the Value Model.
 
-4        Architecture Roles
+4 - Architecture Roles
 ===========================
 
 This section outlines the definitions for the major IT Architect Roles in IASA.  The Iasa default job descriptions are published as an aid to organizations setting up or reorganizing their architecture practice. These job descriptions in combination with the Iasa skills taxonomy, engagement model, training and certifications serve as the baseline by which organizations may define a robust architecture practice with balanced and focused architecture practices.
 
-4.1       Enterprise (A-EA)
+4.1 - Enterprise (A-EA)
 ---------------------------
 
 The Enterprise Architect has mastered the fundamental skills in architecture and has been a practicing professional architect within one of the specializations prior to moving into the enterprise architecture practice. The enterprise architect has learned enough of the specializations to lead the architecture teams within an organization. Enterprise architects will have functioned as a solutions architect to the extent necessary to lead at the enterprise or global level. To be an enterprise architect, a successful candidate will have learned the value of the existing specializations and proven their ability to lead the cross-functional architecture teams to success.
@@ -142,14 +142,14 @@ The Enterprise Architect is a business technologist in the largest sense of the 
 
 (Source IASA Job Descriptions)
 
-4.2       Solution (A-SA)
+4.2 - Solution (A-SA)
 -------------------------
 
 The Solution Architect has mastered the fundamental skills in architecture and has been a practicing architect within delivery-based organization. The solution architect is responsible for delivery on one or more projects within the scope of the business case for the solution. Their primary role is to optimize the value of a solution to an organization through delivery and reduce owner risk in its delivery while ensuring the solution meets all compliance and regulatory which impact the system. The solution architect will work with specialist architects, technical staff and stakeholders of the solution to ensure it is delivered or cancelled based on the most effective strategy for the organization as a whole.
 
 (Source IASA Job Descriptions)
 
-4.3       Business (A-BA)
+4.3 - Business (A-BA)
 -------------------------
 
 The business architect provides leadership of business initiatives through technology strategy by participating in the development of a business strategy to accomplish specific business goals. They provide innovation and opportunity recognition within business units. Specifically, the business architect has mastered the delivery of value through technology support of business strategy. The business architect has developed their understanding of business valuation, business process and business strategy delivery. They act as a liaison from the technology groups to enhance business development and have tremendously advanced skills in business valuation of technology as well has human dynamics.
@@ -158,7 +158,7 @@ The business architect understands the business unit and organization within whi
 
 (Source IASA Job Descriptions)
 
-4.4       Software Architect (A-SWA)
+4.4 - Software Architect (A-SWA)
 ------------------------------------
 
 The software architect has mastered the value, use, development and delivery of software intensive systems. They have developed skills in software development lifecycles, software engineering and software design. The software architect is responsible for the value generated from software systems or system of systems within their direct supervision. They work with project teams to ensure value is delivered for investment and feed resulting valuation results into the business, information and infrastructure areas.
@@ -167,7 +167,7 @@ The software architect has fully developed their abilities to understand the cos
 
 (Source IASA Job Descriptions)
 
-4.5       Information (A-IA)
+4.5 - Information (A-IA)
 ----------------------------
 
 The information architect directs the use, integration and storage of information within a particular business unit (vertical structure) or business capability (horizontal structure). The information architect may focus in on one particular form such as usage focused strategy, information storage or other elements of information architecture or but must consider all elements of information architecture in the organization or customer base. The information architect has mastered the management of information across and within their industry.
@@ -176,7 +176,7 @@ Information architects work to ensure that information is used to the best advan
 
 (Source IASA Job Descriptions)
 
-4.6       Infrastructure (A-INFA)
+4.6 - Infrastructure (A-INFA)
 ---------------------------------
 
 The infrastructure architect provides strategic uses of infrastructure, network, and operations as an asset. They create and deliver technology strategies to optimize the use of technology resources related to hardware and physical system. It should be noted, this is not meant as quantitative overlap with the upcoming physical system architect who focuses on highly complex physical systems engineering domains such as satellite, defence, and embedded technology though there is some overlap. The infrastructure architect uses their mastery of network, computing platform and operations to guide the organization to valuable investments in hardware and platform.
@@ -185,19 +185,19 @@ The infrastructure architect works regularly with business, information and soft
 
 (Source IASA Job Descriptions)
 
-5        People Model
+5 - People Model
 =====================
 
 This defines the terms related to the People Model within the Engagement Model.  The people model includes the skills the architect must have to practice, how the internal architecture team is organized -- both for functional alignment to the lifecycle as well as a traditional organization chart with specific quantities of architectural roles -- what a nominal job description is for an architect, and what the extended team (roles within the organization which the architect must work with to accomplish the organizational strategy) and the community inside and outside of the organization which supports architecture and is made aware of how the architecture team is operating.
 
-5.1       Skills Inventory (PM-SI)
+5.1 - Skills Inventory (PM-SI)
 ----------------------------------
 
 To deliver value to the organization and operate within the community norms of practicing architects, the team of architects must exhibit certain skills and abilities as a whole and each individual on the team must have minimum, certified skills and abilities to execute their role.  ITABoK defines 5 pillars which group the skills in the architecture community of practice and the most important one is Business Technology Strategy, the ability to understand where the business -- sponsor, individuals in the unit, and the trends within competitors -- is headed, prioritize and value these ideas, and convert the most important into successfully framed projects.  Each pillar has sub-areas and the ITABoK has over 90 specific skill descriptions generated from the architecture community over the last decade and validated through practice in over 100 organizations.  The IASA Skills Taxonomy is unique in both its detail as well as its ability to connect the specializations together.
 
 (Source Brian)
 
-5.2       Organization (PM-O)
+5.2 - Organization (PM-O)
 -----------------------------
 
 The architecture organization is composed of one or more architects within the parent organization designed to achieve that parent organization's strategy.  The strategy could be as simple as improving alignment between the business units and IT spend, or it could be more complex as in modernizing business processes or creating new digital products and services.  The architecture organization has a vision and mission statement to orient the work and works in conjunction with other teams in the parent organization on a day-to-day basis.  This architecture team is represented by an organizational chart, by the set of roles, skills, and specializations provided, by its place and interactions throughout the solutions lifecycle, and by its culture.
@@ -206,21 +206,21 @@ The architecture organization is composed of one or more architects within the p
 
 (Source Created for ITABoK 3.0)
 
-5.3       Roles (PM-R)
+5.3 - Roles (PM-R)
 ----------------------
 
 An architecture role is an expected behavior of an architect at a particular interaction.  This is different than the position or title of architect, which implies certain skills and maturity with carrying out the practice and assigned roles, and the specialization of the architect which adds additional skills in a particular domain of architecture.  An architect may have one or more specializations and may also have one or more roles.  For example, one architect might be specialized as a software architect -- building custom coded solutions -- and may serve in roles such as a business liaison responsible for coordinating business cases, and as a change management coordinator; another architect may be specialized as a data architect and have roles including project costing and community moderator.
 
 (Source Brian)
 
-5.4       Extended Teams (PM-ET)
+5.4 - Extended Teams (PM-ET)
 --------------------------------
 
 Extended teams provide the inputs, outputs and often governance to the architecture organization and are usually outside of the architecture organization itself.  These extended teams provide the complementary engagement pieces necessary for the architect to perform her/his functions.  They should be closely aligned with the parent organization's strategy and plans, which should also match the architectural organization's inheritance of this strategy as well.  Some examples of the extended team in an organization where architecture is within the IT function include roles for stakeholders and customers in the business units, support functions like finance and procurement, and internal engagement with the project management office (PMO), development and operations groups.
 
 (Source Brian)
 
-5.5       Job Descriptions (PM-JD)
+5.5 - Job Descriptions (PM-JD)
 ----------------------------------
 
 Job Descriptions describe the context, scope, duties, tasks and deliverables of the IT Architect.   The Job Description will include the position within the organisation from the perspective of deliverables, the IT Architecture Engagement and management reporting.
@@ -231,19 +231,19 @@ Job Descriptions describe the context, scope, duties, tasks and deliverables of 
 
 (Source created for ITABoK 3.0)
 
-5.6       Community (PM-C)
+5.6 - Community (PM-C)
 --------------------------
 
 The architectural community is a group of individuals who by being in an architectural role or position, by interest, by organizational role outside of the architecture organization, or optionally by being in a local community of interest outside the organization (e.g., a local architecture users' group) collaborate to improve the practice of an architecture function.  This may be through informal meetings or scheduled analysis and report-out tasks on areas of interest; the community typically does not constitute a governing body.  By not being part of a formal organization chart, the community reinforces the professionality of the architecture practice by conveying needs, gaps, and experience information among practitioners.
 
 (Source Brian)
 
-6        Value Model
+6 - Value Model
 ====================
 
 This section defines the terms related to the Value Model for the Engagement Model.
 
-6.1       Goals (VM-G)
+6.1 - Goals (VM-G)
 ----------------------
 
 A goal of all architects should be that every employee, partner and consultant can describe the value of the architecture team and request you be involved in everything that impacts the technology strategy of the company. Until then, your team must understand what can be covered and what governance mechanisms can be put in place to ensure best use of available architectural resources.
@@ -252,14 +252,14 @@ By describing the scope of engagement based on roles and organizational visibili
 
 (Source IASA Core Course)
 
-6.2       Principles (VM-P)
+6.2 - Principles (VM-P)
 ---------------------------
 
 An architecture principle is a declarative statement made with the intention of guiding architectural design decisions in order to achieve one or more qualities of a system
 
 (Source Eoin Woods Presentation)
 
-6.3       Business Cases (VM-BC)
+6.3 - Business Cases (VM-BC)
 --------------------------------
 
 A business case captures the reasoning for initiating a project and what value the project should provide. Architects should verify the value of the technology, add strategy, and make sure the solution fits the governance model, existing portfolio, and can be supported by the Operations group. They can also add value by initiating business cases for projects they feel will add business value. Business valuation, compliance, and decision support skills will help during this phase.
@@ -273,7 +273,7 @@ Business cases have some key components, including an executive summary which is
 
 (Source IASA Core Course)
 
-6.4       Scope and context (VM-SC)
+6.4 - Scope and context (VM-SC)
 -----------------------------------
 
 Context refers to the circumstances and facts surrounding each architect role in an organization as evidenced in the definition "The set of circumstances or facts that surround a particular event, situation, etc."   Put in architecture context, "The primary set of circumstances or facts that impact the nature and execution of architects within an organization."
@@ -284,21 +284,21 @@ Since context affects everything about architecture internally it is important t
 
 (Source IASA Core Course)
 
-6.5       Traceability (VM-T)
+6.5 - Traceability (VM-T)
 -----------------------------
 
 This is a method and set of measures used to identify the ability of the organization to trace value through architectural decisions. Traceability in the itabok refers to tracing business goals through business outcomes threaded through the delivery of technology strategy based on rigorous architectural requirements and architectural decisions. It uses coverage, scope and context to understand the number of decisions being made in the enterprise and how they are managed in connection with business outcomes.
 
 (Source created for ITABoK 3.0)
 
-6.6       Risk Methods (VM-RM)
+6.6 - Risk Methods (VM-RM)
 ------------------------------
 
 Risk is a measure which relates to the potential of a failure of a system or system of systems and its possible impacts, probability, mitigators and offsets. Risk methods are the mechanism by which the architecture team manages, communicates and handles these risks.
 
 (Source created for ITABoK 3.0)
 
-6.7       Coverage (VM-C)
+6.7 - Coverage (VM-C)
 -------------------------
 
 Coverage is the scope, number of services and deliverables provided by the IT Architecture team in the context IT Architecture Engagement Model.  Organisations categories their business activities into Strategic, Tactical and Operational.   This is mirrored by the IT Architectural Engagement activities of Technology Strategy and Planning (completed by Enterprise Architect), Project and Portfolio Strategy and Planning (completed by the Solution Architect) and Operation activities supported by the other architectural roles.
@@ -311,7 +311,7 @@ The coverage at the;
 
 (Source Created for ITABoK 3.0)
 
-6.8       Technical Debt (VM-TD)
+6.8 - Technical Debt (VM-TD)
 --------------------------------
 
 Technical debt (also known as design debt or code debt, but can be also related to other technical endeavours) is a concept in [software development](https://en.wikipedia.org/wiki/Software_development) that reflects the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
@@ -322,7 +322,7 @@ As a change is started on a codebase, there is often the need to make other coor
 
 (Source : <https://en.wikipedia.org/wiki/Technical_debt>)
 
-6.9       Architectural Analysis (VM-AA)
+6.9 - Architectural Analysis (VM-AA)
 ----------------------------------------
 
 One of the keyways architects add value is through structured architecture analysis. Architecture analysis is used as a risk analysis and [mitigation](https://www.sciencedirect.com/topics/computer-science/risk-mitigation) technique. The idea is that one we can profitably analyse the proposed architecture for a software system before it has been built, or before major changes to it are made, and discover potential risks to the system which can then be fixed at a low cost (relative to the cost of these risks going undiscovered until the system is developed). Coherence, integrity, quality attribute analysis is all part of this. There are many techniques which can be used to help with this, ATAM is a method for architecture analysis and PBAAM will ensure comprehensive architecture evaluation. *(CCB suggestion -- include FMEA and Cloud -- Amazon well architected -- as options)*
@@ -360,12 +360,12 @@ Architects create models in order to determine what potential approaches should 
 
 (Source IASA Core Course)
 
-7        Operating Model
+7 - Operating Model
 ========================
 
 This section defines the terms related to the Operating Model within the Engagement.
 
-7.1       Services (OM-S)
+7.1 - Services (OM-S)
 -------------------------
 
 Services here as they are natural outcomes of capability-based thinking the following are some of the examples of Service Thinking. Services are in this context are not technical elements like SOA or microservices
@@ -380,7 +380,7 @@ Services here as they are natural outcomes of capability-based thinking the foll
 
 (Source IASA Solution Architecture Course)
 
-7.2       Assignment (OM-A)
+7.2 - Assignment (OM-A)
 ---------------------------
 
 Architecture assignment is the process, methods and goals which describe the way a team of architects engages in work with a customer or organization. It requires more than just assigning an architect on a project or product. It also specifies:
@@ -400,7 +400,7 @@ Understanding Work Priority. Within any method of change priorities must be esta
 
 (Source Assignment Article)
 
-7.3       Decisions (OM-DC)
+7.3 - Decisions (OM-DC)
 ---------------------------
 
 IT Architecture is guided by the decisions made as part Strategic Planning, Tactical Planning and Operational/Continuous improvement activities of the IT Architecture Organisation and corresponding Engagement model.  It is critical that these decisions are clearly documented and communicated to the all stakeholders involved.
@@ -429,7 +429,7 @@ Operational and Continuous improvement activities will decide the following (gui
 
 (Source created for ITABoK 3.0)
 
-7.4       Design (OM-DS)
+7.4 - Design (OM-DS)
 ------------------------
 
 Good design involves justifications, reasons, and trade-off considerations. Many architects think that architecture is the artefacts that are created and that they can reverse engineer architecture. Although they can reverse engineer an existing solution back to the architectural artefacts, they cannot typically determine the reasons decisions were made or what the business requirements were that drove the solution. Although the artefacts are an important part of architecture, the value is in the reasoning and the traceability back to the business requirements.
@@ -451,7 +451,7 @@ Design is a human activity, and you are successful in creating architecture when
 
 (Source ITABoK 2.0)
 
-7.5       Stakeholders (OM-SH)
+7.5 - Stakeholders (OM-SH)
 ------------------------------
 
 When you consider who the stakeholders are for your project consider who will be impacted by delivery against the project.
@@ -466,7 +466,7 @@ There are any numbers of people that can be added to the stakeholder and communi
 
 (Source IASA Core Course)
 
-7.6       Requirements (OM-R)
+7.6 - Requirements (OM-R)
 -----------------------------
 
 An architectural requirement is a representation of an architectural concern that impacts the technology strategy.  An architectural constraint is any process, tool, decision or framework that limits choices within a technology strategy.
@@ -484,7 +484,7 @@ Develop requirements that impact the technology strategy by ensuring that:
 
 Requirements need to be traced from their source to their final outcome.   This is completed using the requirements traceability matrix.   A requirement may or may not be fulfilled in the solution.  If the requirement is fulfilled the technology, process or manual activity needs to be documented.  If the requirement is not fulfilled that should also be documented as a gap.
 
-7.7       Deliverables (OM-DL)
+7.7 - Deliverables (OM-DL)
 ------------------------------
 
 During each of the phases of the IT Architecture Engagement Model deliverables that have value are created or updated.   Deliverables can be in the form of;
@@ -499,7 +499,7 @@ Deliverables must demonstrate that value of the IT Architecture Engagement.  De
 
 (Source created for ITABoK 3.0)
 
-7.8       Methodology (OM-M)
+7.8 - Methodology (OM-M)
 ----------------------------
 
 This is the approach and procedures used to implement and deliver the products and services of the IT Architecture Engagement.   The methodology assumes that the IT Architect will use a set of tools and techniques to successfully deliver value to the stakeholders.
@@ -508,7 +508,7 @@ IT Architecture methodology has methods including discovery, problem solving, so
 
 (Source created for ITABoK)
 
-7.9       Tools (OM-T)
+7.9 - Tools (OM-T)
 ----------------------
 
 Architecture methods and tools is defined as; the strategic and tactical use of business architecture methods and tools, including but not limited to business process engineering, business process management, business process modelling, workflow, and similar technology in relation to business capabilities and design. Best practices for integrating business processes that span multiple internal organizations.
@@ -591,19 +591,19 @@ The experiments can either involve new technologies, using existing technologies
 
 (Source created for ITABok 3.0)
 
-8        Outcomes
+8 - Outcomes
 =================
 
 This section defines the terms related to the Outcomes of the Engagement Model.  Outcomes are consequences of action or inaction and represent a state of being after occurrence of certain changes.  They are commonly changes in individuals, systems, policies, experiences or business conditions.
 
-8.1       Strategy (O-S)
+8.1 - Strategy (O-S)
 ------------------------
 
 A strategy is simply a plan of actions to achieve one or more important goals, usually communicated at an organizational level.  The goals may be to increase revenue, improve citizen satisfaction, or make a client feel a certain way.  The strategy is often an outcome from a brainstorming and analysis activity and consists of these goals and proposed approaches on how to achieve them in a specific timeframe.  Many strategic frameworks exist, each designed to produce a roadmap or set of outcomes of a certain type.
 
 (Source Brian)
 
-8.2       Agility (O-A)
+8.2 - Agility (O-A)
 -----------------------
 
 Agility is the ability to move quickly and easily, this can be applied to an organisation at several levels.
@@ -630,7 +630,7 @@ The architecture must enable both these needs, by focusing on supporting the tea
 
 (Source adapted from: <https://www.agilebusiness.org/page/WhatisBusinessAgility> and <https://agilemanifesto.org/>)
 
-8.3       Business Capabilities (O-BC)
+8.3 - Business Capabilities (O-BC)
 --------------------------------------
 
 Business Capabilities describe what an organisation does. Advantage Business Capabilities are what make it special.
@@ -658,7 +658,7 @@ Characteristics: ​
 
 (Source IASA Core Course)
 
-8.4       Culture (O-C)
+8.4 - Culture (O-C)
 -----------------------
 
 Culture can be defined as the ethnical culture of a global organization, a technical bias based on the level of comfort and experience with different product stacks or methodologies, or the culture of being risk averse or slow to enact change. Architects must balance between matching their approaches to the culture and moving the various biases in play to introduce change.
@@ -673,19 +673,19 @@ Managing the culture is affected by many factors:
 
 (Source IASA ITABoK 2.0)
 
-8.5       Empowerment (O-E)
+8.5 - Empowerment (O-E)
 ---------------------------
 
 Empowerment is an outcome focus and measurement point which describes the effective use of decision making and personnel capability utilization within an organization. Through empowering the digital employee, decision making is moved from top-down to organization wide where decisions are made by those most capable and close to a problem or decision point. Used jointly with effective decision management skills it allows an organization to become truly agile. Empowerment also refers to the correct capability management within an organization based on its personnel and their abilities.
 
-8.6       Collaboration (O-COL)
+8.6 - Collaboration (O-COL)
 -------------------------------
 
 Collaboration and negotiations are leveraging knowledge of the psychology of human collaboration, networking, strategies and methods to facilitate working together and reaching agreement.  Improved cooperation among team members is directly proportional to the level of trust among team members.
 
 (Source IASA ITABoK 2.0)
 
-8.7       Automation (O-AU)
+8.7 - Automation (O-AU)
 ---------------------------
 
 Manual activities and processes are automated using information technology.  Automation provides significant benefits by removing manual tasks, reduces cycle times, errors and costs.
@@ -696,7 +696,7 @@ Automation between machines within an organisation and across organisational bou
 
 (Source created for ITABoK 3.0)
 
-8.8       Velocity (O-V)
+8.8 - Velocity (O-V)
 ------------------------
 
 The sustainable rate of change or progress that is required by the organisation.  Businesses and other organisations change at different speeds their hart beat is different.   For example, there are different rates of change with Systems of Engagement (online self-service), Systems of Intelligence (Big data, machine learning, AI) and Systems of Record (Billing and Contract Management).   These are all influenced by the industry or sector.
@@ -705,7 +705,7 @@ The Engagement Model needs to apply the correct processes and resources to match
 
 (Source created for the ITABoK 3.0)
 
-8.9       Simplicity (O-SI)
+8.9 - Simplicity (O-SI)
 ---------------------------
 
 The architecture practice should consistently strive for simplicity in its digital operations. Simplicity is the measured ability of the digital footprint to deliver just good enough service to the business model and the customer with just enough complexity to deliver on both measured business outcomes and operational quality attributes within the regulatory or governed environment. It is an effort to constantly remove complexity from a system of systems while retaining customer advantage. Simplicity can be measured through many outcomes related to healthy technical debt, velocity in decisions and value delivery as well as many more.
