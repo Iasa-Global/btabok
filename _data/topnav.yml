@@ -31,8 +31,6 @@ topnav_dropdowns:
           url: structured_canvases_m.html
         - title: Ethics and Principles
           url: ethics_and_principles.html
-        - title: Map
-          url: map_test.html
         - title: Dictionary
           url: dictionary.html     
 
