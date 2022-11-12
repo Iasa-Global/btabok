@@ -5,13 +5,11 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: dictionary.html
 folder: dictionary
-summary: ""
+summary: "The intention of this document is to capture the definitions of all the terms in the Engagement Model."
 ---
 
 1 - Overview of the Engagement Terms
 ======================================================
-
-The intention of this document is to capture the definitions of all the terms in the Engagement Model.
 
 | **Framework**  | **Imagine** | **Become** | **Achieve**  | **Maximise** |
 | **Phases** | **Digital Customer** | **Digital Business** | **Digital Employee** | **Digital Operations** |
