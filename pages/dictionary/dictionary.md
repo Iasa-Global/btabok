@@ -13,32 +13,10 @@ summary: ""
 
 The intention of this document is to capture the definitions of all the terms in the Engagement Model.
 
-| **Framework**
-
-**Phases**
-
- | **Imagine**
-
-**Digital Customer**
-
- | **Become**
-
-**Digital Business**
-
- | **Achieve**
-
-**Digital Employee**
-
- | **Maximise**
-
-**Digital Operations**
-
- |
-| **Framework**
-
-**Transitions**
-
- |   | **Innovation ->** | **Transformation ->** | **Utilisation ->** | **Measurement** |
+| **Framework**  | **Imagine** | **Become** | **Achieve**  | **Maximise** |
+| **Phases** | **Digital Customer** | **Digital Business** | **Digital Employee** | **Digital Operations** |
+| **Framework**  |  |  |  |  |
+|   | **Innovation ->** | **Transformation ->** | **Utilisation ->** | **Measurement** |
 | **Architecture** | Enterprise (**A-EA**), Solution(**A-SA**), Business (**A-BA**), Software (**A-SWA**), Information **(A-IA**), Infrastructure (**A-INFA**) |
 | **People Model** | Skills Inventory **(PM-SI**), Organisation (**PM-O**), Roles (**PM-R**), Extended Teams (**PM-ET**), Job Descriptions (**PM-JD**), Community (**PM-C**) |
 | **Value Model** | Goals (**VM-G**), Business Cases (**VM-BC**), Scope and context (**VM-SC**), Traceability (**VM-T**), Coverage (**VM-C**), Technical Debt (VM-TD), Architectural Analysis (VM-AA),Principles (VM-P), Risk Methods (VM-RM), Quality Attributes(**VM-QA**),Value Streams(**VM-VS**),Value Methods (**VM-VM**) |
