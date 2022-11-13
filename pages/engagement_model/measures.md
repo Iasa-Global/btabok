@@ -10,9 +10,8 @@ tags:
   - digital_operations
 ---
 
-"Quote: People think the free market is a philosophy; they believe it is a creed. It is none of those things. The free market is a bathroom scale; it is a measuring tape; it's simply a measurement."
-
-P. J. O'Rourke
+> "People think the free market is a philosophy; they believe it is a creed. It is none of those things. The free market is a bathroom scale; it is a measuring tape; it's simply a measurement."
+**P. J. O'Rourke**
 
 What is Measurement
 ===================

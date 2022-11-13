@@ -10,10 +10,10 @@ tags:
   - digital_operations
 ---
 
-# What is Automation
+> "The use of machines and computers to do work that was previously done by people"
+**Oxford Dictionary, definition of Automation.**
 
-*"the use of machines and computers to do work that was previously done
-by people"* **-- Oxford Dictionary, definition of Automation.**
+# What is Automation
 
 Humans have been automating tasks and processes throughout history. The
 development of tools and machines which perform work previously done by

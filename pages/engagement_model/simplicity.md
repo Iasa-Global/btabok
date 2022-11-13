@@ -10,9 +10,8 @@ tags:
   - digital_operations
 ---
 
-"Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art."
-
-Frederic Chopin
+> "Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art."
+**Frederic Chopin**
 
 What Is Simplicity
 ==================
@@ -45,15 +44,15 @@ Simplicity as a Protection Against Technical Debt
 
 [Technical debt](technical_debt.md){:target="_blank"} can limit the competitiveness, effectiveness and longevity of a product within the enterprise. There are numerous areas where a simplicity goal as a principle of solution architecture and system delivery will protect against technical debt.
 
-### Modernize or Die
+## Modernize or Die
 
 Targets in simplicity will impact the prioritization of modernizing applications which may be moving towards obsolescence.  Technical debt which accrues due to inability to fund or prioritize modernization efforts, especially those that do not deliver the same level of functionality as the original system, are often the result of a poor understanding of the value of simplicity in critical enterprise systems. It is necessary to describe the value of modernization in terms of simplicity to help identify the impacts of continuous modernization.
 
-### New Might Not Be Better
+## New Might Not Be Better
 
 The opposite pattern to modernization is the acquisition of new technology solutions for existing patterns without thought as to the complexity created by the resulting proliferation of [design patterns](../patterns/architecture_pattern_repository.md){:target="_blank"}, technologies in production and spread of skills and maintenance required. Curbing the desire to implement the 'bleeding edge' of frameworks, libraries and tools may be the best outcome an organization can achieve.
 
-### Everything and the Kitchen Sink
+## Everything and the Kitchen Sink
 
 Most often this arises when the solution becomes bloated with features that are not used or are used very seldom. These features then cause the solution teams to invent structural design paradigms which complicate the overall architecture. Thus the system becomes weighed down with complex patterns which may not be needed to provide the most effective solution. By making simplicity a target of architecture output (and the architects themselves in their job description and role) the enterprise can help offset the risk associated with over-designing systems. This serves as a front-line defence against growth in [technical debt](technical_debt.md){:target="_blank"}.
 

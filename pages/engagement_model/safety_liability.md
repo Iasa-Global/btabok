@@ -10,9 +10,8 @@ tags:
   - digital_operations
 ---
 
-"It takes leadership to improve safety."
-
-Jackie Stewart
+> "It takes leadership to improve safety."
+**Jackie Stewart**
 
 Introduction
 ============
@@ -52,15 +51,15 @@ Safety Tiers
 
 The level of safety required in a system is a function of the application, which we group into three tiers based on the severity of consequences of failure.
 
-### Tier 1
+## Tier 1
 
 Tier 1 systems are those that have been classically defined as safety-critical. Consequences of failure in such systems result in loss of life, injury, loss of or damage to equipment, or damage to the environment. Placing someone in a situation where they risk death or injury, such as loss of power during a heat or cold snap, also places a system in Tier 1. Rigorous risk analysis methods, such as Fault or Functional Hazard Analysis (FHA), Fault Tree Analysis (FTA), Failure Mode Effects and Criticality Analysis (FMECA), or Software Hazard Analysis (SHARD), should be used. Other methods of analysis and specifications for testing and review might be required by law, regulation, or common practice.
 
-### Tier 2
+## Tier 2
 
 The consequences of failure in a Tier 2 system do not rise to the level of Tier 1, but include large financial losses, such as recovery costs, loss of revenue, or the payment of ransom. Examples include disruption of service in a commercial website, airline reservation system, or the billing system for a mobile phone carrier. A data breach in which unencrypted personal identifying information (PII) is released also puts an application into tier 2. Rigorous application of a method such as Fault Tree Analysis should be used to identify risks, and the [design](design.md){:target="_blank"} must include mitigation for each identified risk. Review and testing methods are left to the client organization.
 
-### Tier 3
+## Tier 3
 
 The most severe consequence of failure for a system in Tier 3 is inconvenience or loss of use. The user is not at risk of personal harm or loss of information. Recoverable data falls into this tier as well; that is, loss of data is tolerated if the data is recoverable within a reasonable timeframe, specified by the client. Standard software failure analysis, review, and testing are sufficient for these systems as failures are more annoying than harmful.
 
@@ -86,11 +85,11 @@ Professional Qualifications
 
 Qualification to practice a profession requires significant learning, both academic and guided experience. Passing an exam and/or peer review is required evidence of qualification, which may take the form of certification in a market-based situation, or licensure when required by statute.
 
-### Certification
+## Certification
 
 Clients, insurers, and the public (governments) have an interest in making sure that only qualified professionals design systems in Tiers 1 and 2, at least. To protect these interests, they may require that architects certifying such systems have a specific type or level of certification, such as Iasa Global's CITA-P or The Open Group's Certified Architect at that Master level (level 2). These particular certifications, as well as others, are based on bodies of knowledge and peer review of evidence of past practice of architecture. The standards for certification are maintained by the respective organizations, and those who require these certifications rely on the organizations to maintain the meaningfulness and value of the certification.
 
-### Licensure
+## Licensure
 
 Some jurisdictions may further require that architects also be licensed. Professional licensing is a powerful tool for enforcing codes of ethics and standards of professional conduct. Many professions require a license to practice, including building architects. Licensure of software and solution architects might be a good way to enforce safety in software applications.
 
@@ -104,17 +103,17 @@ Enforcement
 
 Three main mechanisms exist to enforce compliance with codes of ethics and standards: higher liability insurance premiums, loss of certification and/or license, and civil and/or criminal penalties.
 
-### Insurance Premiums
+## Insurance Premiums
 
 Professionals generally take out policies to cover errors and omissions that may happen in the course of their work. No matter how careful one is, errors happen, and insurance covers any costs associated with making whole the injured parties. Frequent use of such insurance will cause rates to raise. In addition, insurers might require a minimum level of certification or license to grant coverage or charge preferential rates.
 
 Professional liability insurance typically does not cover results of gross negligence, in which the professional acts in willful disregard of the standards of practice or the consequences of his or her actions. A finding of gross negligence can result in the loss of coverage, making it financially impractical to continue to practice. In the absence of licensing statutes, some jurisdictions require that a professional carry professional liability insurance, and loss of coverage can mean that it is illegal to continue to practice, making required coverage effectively equivalent to licensure, but putting the burden for administration and discipline on the insurer rather than a government agency.
 
-### Loss of Certification/Licensure
+## Loss of Certification/Licensure
 
 A certifying association may include in its code of ethics provisions for removal of certification as a disciplinary measure for violating standards of professional practice. Associations maintain a process to review a case and determine a course of action. Government jurisdictions that grant professional licenses also have processes in place to review and make determinations for action when a professional license is involved. Serious infractions of professional practice may involve both actions, the most serious consequence of which is the loss of the right to practice the profession.
 
-### Civil and Criminal Penalties
+## Civil and Criminal Penalties
 
 Serious breaches of standards, practice, or willful violations of law may warrant additional penalties. These can range from fines to jail time depending on the nature of the offense. Such penalties are prescribed by law, so legislation is required to enact them.
 
@@ -140,7 +139,7 @@ References
 **McDermid, J. A., M. Nicholson, D. J. Pumfrey and P. Fenelon, "Experience with the application of HAZOP to computer-based systems," COMPASS '95 Proceedings of the Tenth Annual Conference on Computer Assurance Systems Integrity, Software Safety and Process Security', 1995, pp. 37-48, doi: 10.1109/CMPASS.1995.521885.**
 
 **Iasa Global. "Ethical Guidelines".\
-[Iasa Global. "Ethical Guidelines"](https://btabok.iasaglobal.org/itabok-ethics-principles/){:target="_blank"}
+[Iasa Global. "Ethical Guidelines"](https://iasa-global.github.io/btabok/ethics_and_principles.html){:target="_blank"}
 
 **Iasa Global. "Training and Certification -- Professional",\
 **<https://iasaglobal.org/Public/Learn/Certifications/Public/Learn/Training_and_Certifications.aspx?hkey=b18264af-a223-4a2e-a77c-053356d1a486>
