@@ -10,7 +10,7 @@ tags:
   - digital_business
 ---
 
-## Why do we need to think Business Capabilities?
+# Why do we need to think Business Capabilities?
 
 
 In today’s fast-changing business environment the ability to innovate

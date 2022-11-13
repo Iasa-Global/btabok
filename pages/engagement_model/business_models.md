@@ -42,7 +42,7 @@ Rarely, a market that is predictable far into the future yet that future can be 
 
 The set of capabilities for any enterprise is defined primarily by the industry in which it operates, but it must excel at those capabilities that define its competitive position. These _core capabilities_ are determined by a combination of market approach, business focus, and the competitive necessity chosen as the anchor.
 
-### Business Focus
+## Business Focus
 
 Strategic focus is a combination of business focus and anchor competitive necessity, concepts introduced by Perry, Stott, and Smallwood in _Real-Time Strategy_. They define business focus as how the organization intends to create industry leadership. The selected business focus provides guardrails and guidance to everything the business does. Their four business focuses are:
 
@@ -59,7 +59,7 @@ A company with a technology focus has a valuable and unique technical capability
 
 A company focused on production capacity aims to keep its production system running at full capacity in an effort to reduce unit costs. The most common example of companies with a production capacity focus are paper mills which are often willing to sell small quantities of product at a loss to keep the system running.
 
-### Anchor Competitive Necessity
+## Anchor Competitive Necessity
 
 In addition to business focus, Perry, Stott, and Smallwood identify four competitive necessities. They call these competitive necessities because each one has a minimum level of competence that an organization must have to even compete in a given industry. The four necessities are:
 
@@ -100,7 +100,7 @@ canvas can be used to model beneficiaries over customers in non-profit, governme
 
 Figure 3. Mission Model Canvas.
 
-### Customer Segments
+## Customer Segments
 
 The “market” represents all of the potential customers for products or services. Individual members of the market, whether they be consumers or other companies, have different needs, desires, tastes, and willingness to buy. There are two main approaches to the market: Treat all potential customers as one group, or segment them into multiple groups.
 
@@ -114,7 +114,7 @@ In a _segmented_ market, here as a flavor of segmentation, the focus is on two o
 
 In a _multi-sided_ segmentation, an organization is providing services to two very different but complementary markets. A credit card provider, for example, needs to have both consumers who are willing to use the card and merchants who are willing to take it. Both segments are required in order to be successful, but marketing to each segment requires very different techniques.
 
-### Value Proposition
+## Value Proposition
 
 The reality is customers don’t buy products or services, they buy value to fill a need, what the product or service can do for them. It might mean enhancing their image among their peers (most high-end fashion purchases), or taking part in a particular lifestyle (Harley-Davidson motorcycles). The value proposition might be a single product, or might constitute a whole family of related products and services. Each customer segment needs its own value proposition.
 
@@ -128,7 +128,7 @@ Once completed, the right side of the value proposition canvas becomes part of t
 
 Figure 4. Value Proposition Canvas (credit: Business Model Generation, 2010).
 
-### Channels
+## Channels
 
 The collection of channels defines how an organization communicates with and reaches its customers and consist of channels for communication, distribution, and sales. Far more than just physical stores versus online, Osterwalder and Pigneur4 define a channel as a customer touch point, part of the customer’s experience journey (a canvas for defining an experience journey is shown in Figure 4). The choice and construction of channels must be very deliberate, as they provide the _only means through which customers will experience the organization_.
 
@@ -149,7 +149,7 @@ With direct channels, the customer experience can be controlled, not only the va
 
 Figure 5. Customer Journey Map Canvas.
 
-### Customer Relationships
+## Customer Relationships
 
 The types of relationships maintained with each customer segment determines how easy or difficult it can be to acquire new customers and keep existing customers. The relationship with a given customer can also influence what kind and how much business they do with the organization. _Business Model Canvas_4 give a number of types of relationships that can be established with a customer. Multiple types of relationships with each customer segment are possible as well. The types are:
 
@@ -172,23 +172,23 @@ The first cut at the operating model identifies the key activities and resources
 
 Osterwalder and Pigneur4 identify a number business model patterns that have been widely used to great success. The effort to create a business model can often be made easier by selecting one of these patterns as a starting point.
 
-### Unbundled
+## Unbundled
 
 In the unbundled business, different parts of the business model canvas are assigned to different businesses. The boundaries for this division can vary widely, but one common set of divisions is customer relationship management, product innovation, and infrastructure. Mobile phone companies are good examples: the main company defines the customer segments, channels, and relationships; content providers create the value proposition; and equipment manufacturers provide the key activities, key resources, and manage key partners. One of those partners may even provide the network. In the unbundled model, each business completes its own canvas for its portion of the overall whole.
 
-### The Long Tail
+## The Long Tail
 
 The long tail model is about selling less of more. The focus is to offer a large number of products that each sell fairly infrequently. The target market is usually a niche. Being successful in such a model requires low inventory costs and strong platforms. The self-publishing book business is a good example in that many titles are in the offering, but copies are printed only when they are ordered.
 
-### Multi-Sided Platform
+## Multi-Sided Platform
 
 Multi-sided platforms bring together two or more distinct by interdependent groups of customers. Value exists only when all parties are present. The business facilitates interactions between the groups. Value grows as each group grows – this is the “network effect”. Social media companies, Amazon, and eBay are all examples of multi-sided platforms.
 
-### Free as a Business Model
+## Free as a Business Model
 
 In this model, at least one customer segment continually benefits from a free offer. Non-paying customers are financed by another part of the business model or by another customer segment. Examples include Google, Facebook, and Skype. One form of this model is the “freemium” model in which basic services are offered for free and customers pay for more advanced offers.
 
-### Open Model
+## Open Model
 
 The open model can be used to create and capture value by collaborating with other companies. This can be done from the “outside-in” by developing internally ideas generated outside the firm, or “inside-out” by sharing internally generated ideas with partners so they can exploit them. Procter & Gamble is an example of the outside-in approach when they set up a unit to systematically license and develop products using intellectual property developed by others. GlaxoSmithKline takes the “inside-out” approach by developing “patent pools” of its own inventions and licensing them to outside firms for development.
 

@@ -10,9 +10,10 @@ tags:
   - digital_business
 ---
 
-# What is strategy
+> "A detailed plan for achieving success in situations such as war, politics, business, industry or sport, or the skill of planning for such situations"
+**definition of Strategy, Cambridge Dictionary**
 
-*"a detailed plan for achieving success in situations such as war, politics, business, industry or sport, or the skill of planning for such situations"* - **definition of Strategy, Cambridge Dictionary**
+# What is strategy
 
 A strategy provides a guide for navigating towards a successful outcome.
 Strategies can be created for different scopes, domains or contexts

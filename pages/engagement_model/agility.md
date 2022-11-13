@@ -10,11 +10,10 @@ tags:
   - digital_business
 ---
 
-# What is Agility
+> "Ways of planning and doing work in which it is understood that making changes as they are needed is an important part of the job" 
+**Cambridge Dictionary, definition of Agility.**
 
-*"ways of planning and doing work in which it is understood that making
-changes as they are needed is an important part of the job"* --
-Cambridge Dictionary, definition of Agility.
+# What is Agility
 
 Agility in terms of business or product development can be thought of as
 the ability to adapt quickly to change, and thus take advantage of the

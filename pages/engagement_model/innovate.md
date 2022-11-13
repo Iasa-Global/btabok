@@ -90,7 +90,7 @@ As an architect especially as a heavily technical architect it is essential that
 
 ![image001](media/innovate004.png)
 
-### Blue Ocean Canvas
+## Blue Ocean Canvas
 
 ![image001](media/innovate005.png)
 
