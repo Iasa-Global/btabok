@@ -10,9 +10,8 @@ tags:
   - operating_model
 ---
 
-"A fool with a tool is still a fool."
-
-John Doe
+> "A fool with a tool is still a fool."
+**John Doe**
 
 Architecture tools support the delivery and development of the architecture practice through automated and manual means. An architecture tool provides either a spot solution or a comprehensive solution in delivery of a set of architecture task(s).
 
@@ -55,7 +54,7 @@ Cards, [Canvases](../structured_canvases/structured_canvases_m.md){:target="_bla
 
 The BTABoK provides dozens of cards, canvases, [viewpoints](views.md){:target="_blank"} and document templates to aid is specific architecture problem solving. Each of these whether automated or printed provides a specific tool for a specific area of application. The goal is not to use all of these tools for any effort but to learn their application and study their use to be able to use as a particular problem set arises.
 
-### A Fool with a Tool
+## A Fool with a Tool
 
 No matter how great the tool, the team skills will always be more important. The tools can only provide a certain amount of support for the activities of the architecture team.
 
@@ -70,7 +69,7 @@ The process of architecture tool selection requires the team coordinate and unde
 
 ![image001](media/tools001.png)
 
-### Using the Decision Record to Select
+## Using the Decision Record to Select
 
 The BTABoK Decision Record Card is an excellent tool to compare and contrast different architecture tools on the marketplace.
 

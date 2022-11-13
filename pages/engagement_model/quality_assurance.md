@@ -11,9 +11,10 @@ tags:
   - operating_model
 ---
 
-# What is Quality Assurance
+> "The managing of every stage of a production process to make certain that the goods being produced are of the intended standard"
+**definition of Quality Assurance, Cambridge Dictionary**
 
-*"the managing of every stage of a production process to make certain that the goods being produced are of the intended standard"* **- definition of Quality Assurance, Cambridge Dictionary**
+# What is Quality Assurance
 
 Any business or organization which produces services or products wants
 to ensure that they maintain the expected quality for their customers.
@@ -153,7 +154,7 @@ works and the business context. Reviews generally involve several
 stakeholders, architects, product owners, lead developers, etc.... The
 following sections describe some different types of reviews.
 
-### Content review
+## Content review
 
 A content review focuses on the content of the architecture. These types
 of reviews often focus on a specific design aspect of the architecture
@@ -171,7 +172,7 @@ way of verifying ideas or concepts during the architecture development.
 It is recommended that content reviews be performed regularly throughout
 the development of the architecture.
 
-### Way of working review
+## Way of working review
 
 Way of working reviews focus on the process and activities by which the
 architecture is developed. This review aims to continually improve
@@ -184,7 +185,7 @@ Note that there doesn't have to be a specific quality problem to hold a
 way of working review, this should be a continual effort to improve
 quality.
 
-### Delivery review
+## Delivery review
 
 A delivery review is often a formal review performed before publishing
 an architecture, or a significant change to an architecture. This type
@@ -195,7 +196,7 @@ performed to a protocol or checklist, and can even consider aspects of
 the deliverables such as language, document formats, coherence,
 correctness and readability.
 
-### Peer-reviews
+## Peer-reviews
 
 An architect can continuously review an architecture against standards
 and industry methods, however, it is often more effective to review
@@ -205,7 +206,7 @@ architecture competence, provide different perspectives and gain a
 broader agreement for concepts. Performing peer-reviews regularly leads
 to stronger architecture solutions.
 
-### External-reviews
+## External-reviews
 
 Using external parties to review an architecture provides an independent
 assessment. This can be a useful technique to counter any architecture

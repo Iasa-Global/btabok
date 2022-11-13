@@ -10,12 +10,10 @@ tags:
   - operating_model
 ---
 
-"A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal."
+> "A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal."
+**pmi.org**
 
-pmi.org
-
-What are Products and Projects?
-===============================
+# What are Products and Projects?
 
 For many years the primary approach to planning the development of IT solutions to business problems has been based on putting together project teams. This is a temporary team focused on building software which was funded for the duration of the build, justified by the production of a business case. This was usually supported by a waterfall SDLC and could often deliver pretty good results. This could work because in the past many systems were digitizing a manual business process which was well understood and slow to evolve.
 
@@ -112,19 +110,15 @@ References and Further Reading
 
 **Here are some materials which may prove useful, if you would like to find out more about projects and products**
 
-**Useful resources on project management can be found here:\
-**<https://www.apm.org.uk/>
+Useful resources on project management can be found here:[https://www.apm.org.uk/"](https://www.apm.org.uk/){:target="_blank"}
 
-[Ken Schwaber -- "Agile Project Management with Scrum"](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/)
+[Ken Schwaber -- "Agile Project Management with Scrum"](https://www.amazon.com/Agile-Project-Management-Developer-Practices/dp/073561993X/){:target="_blank"}
 
-**Scrum.org\
-**<https://www.scrum.org/>  
+[Scrum.org](https://www.scrum.org/){:target="_blank"}
 
-**Agile Alliance\
-**<https://www.agilealliance.org/> 
+[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
 
-**SAFe**\
-<https://www.scaledagileframework.com/>  
+[SAFe](https://www.scaledagileframework.com/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

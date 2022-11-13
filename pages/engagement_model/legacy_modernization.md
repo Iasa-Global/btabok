@@ -12,10 +12,11 @@ tags:
   - operating_model
 ---
 
-# What is Legacy Modernization
+> "...the process of making a system, methods, etc. more modern and more
+suitable for use at the present time."
+**- definition of Modernization, Oxford Dictionary**
 
-"...the process of making a system, methods, etc. more modern and more
-suitable for use at the present time."* **- definition of Modernization, Oxford Dictionary**
+# What is Legacy Modernization
 
 All systems have a life cycle, starting with the inception and
 construction of the system, moving into the maintenance of the system

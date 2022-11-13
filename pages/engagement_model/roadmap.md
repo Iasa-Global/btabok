@@ -11,9 +11,10 @@ tags:
   - operating_model
 ---
 
-# What is a Roadmap
+> "A plan for how to achieve something"
+**Cambridge Dictionary**
 
-*"A plan for how to achieve something"* -- **Cambridge Dictionary**
+# What is a Roadmap
 
 A roadmap is a visual description which shows a plan against time for
 achieving one or more goals or objectives. It is used to plan large

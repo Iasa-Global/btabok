@@ -10,12 +10,10 @@ tags:
   - operating_model
 ---
 
-"I had found my religion: nothing seemed more important to me than a book. I saw the library as a temple."
+> "I had found my religion: nothing seemed more important to me than a book. I saw the library as a temple."
+**Jean-Paul Sartre**
 
-Jean-Paul Sartre
-
-Architecture Repository
-=======================
+# Architecture Repository
 
 The architecture repository is the methods, tools and techniques used by the architecture team to store essential architecture artifacts and information. It represents the framework of knowledge about the architecture of systems, programs, and the business entity for the team.
 
@@ -25,8 +23,8 @@ Engagement Principle: The repository is first for architects then for the enterp
 
 The repository includes all of the deliverables and artifacts that describe and influence architectural decisions.
 
-Practice
---------
+## Practice
+
 
 The architecture repository can range from a very simple set of documents or deliverables to an extremely complicated enterprise wide set of systems. This level of complexity causes a great deal of confusion in the industry.
 
@@ -34,7 +32,7 @@ Engagement Principle: Architecture is Not Documentation
 
 A repository will likely be seen a documentation tool. However true this may be from a technology perspective, the purpose of the repository is to provide two fundamental elements to the architecture team. First, better decision making in digital strategy. Second, quick and transparent communication among architecture and extended team members. The third goal of a repository is almost mythical. It is the ability to have a rigorous and fully up-to-date description of the target state of digital strategy which can be queried to evaluate decisions. While this goal is possible in certain environments (large enough architecture team, government requirements and regulation) it is extremely rare and tends towards documentation over strategy.
 
-### Take Care of the Architects First
+## Take Care of the Architects First
 
 The first engagement principle says the repository is first for architects. That means the architecture practice needs to be able to achieve its goals first and the repository should contain only what is necessary to do so and only what architects have agreed to keep 'ever green' (the concept of ever green means the deliverables which should at best be always up to date).
 
@@ -48,13 +46,13 @@ For example, many organizations use capability models to describe their enterpri
 
 ![image001](media/repository001.png)
 
-### Repository v Usage
+## Repository v Usage
 
 The architecture repository is only as good as what is maintained and how it is used. There are numerous case studies of large deliverables of excellent quality which have very little consumption within the enterprise. Given the low ratio of architects to other stakeholders and their essential function in the organization for digital advantage this must be avoided at all costs.
 
 In addition the level of maintenance for aspects of the repository must be considered as a part of the job description and the overall architecture lifecycle. It is well known that documentation will not be maintained unless it is essential and directly a part of the performance expectations of the architect.
 
-### Design Repository Structure
+## Design Repository Structure
 
 A repository must have some loose structure at least which guides what types of things should be stored and how. Probably the most well know structural model of an architecture repository is the TOGAF architecture repository description. This standard provides an enterprise-level description of architecture repositories.
 
@@ -62,8 +60,7 @@ A repository must have some loose structure at least which guides what types of 
 
 Figure 1 TOGAF Repository Structure
 
-Meta-Model Elements
--------------------
+## Meta-Model Elements
 
 The table emphasizes the primary elements stored in a repository and how they relate to each other.
 
@@ -82,11 +79,10 @@ The table emphasizes the primary elements stored in a repository and how they re
 
 Table 1 Repository Meta-Model
 
-### Top Down vs Bottom Up Loading
+## Top Down vs Bottom Up Loading
 
 > "Keep a Light Backpack... the slower we move, the faster we die"
->
-> ***George Clooney, Up in the Air***
+**George Clooney, Up in the Air**
 
 The BTABoK suggests that the lighter-weight an architecture repository is while still meeting the minimum goals for the architecture team, the more Agile the team remains as it is weighed down by fewer tools, documents and models. This would also suggest that there is no such thing as a complete repository as we effectively 'pull it behind' the team. The options between top and bottom loading are mostly driven based on team preferences and the quality of understanding of the engagement model among the team and its stakeholders.
 
@@ -94,8 +90,8 @@ Bottom-Up Loading depends primarily on the gathering architectures as they are c
 
 Top-Down Loading suggests that the team define a rigorous set of artifacts necessary for the practice and begins to populate it from the 'top' of the stack. This is often the case with business-focused artifacts such as business model canvas or capability models. Many of these are extremely useful to the architecture team but often take on a life of their own, pulling the team away from delivery of value within their primary capacity. The life and quality of top-down models needs to be managed such that the architecture team is not maintaining the documentation of other groups and is first concerned only with the elements which inform digital strategy and then only to the minimum degree necessary.
 
-Repository and Tools
---------------------
+## Repository and Tools
+
 
 The marketplace is filled with tools for the architect. When considering tools it is best to understand when and how it will be used within the architecture delivery methodology. The team can use the process engagement canvas to determine the appropriate level of artifacts, information and tools necessary to support their current engagement. 
 
@@ -103,7 +99,7 @@ The marketplace is filled with tools for the architect. When considering tools i
 
 The Process Engagement Canvas allows a team to define the artifacts and processes the tooling needs to support.
 
-### Architect Engagement Workshop -- Repository
+## Architect Engagement Workshop -- Repository
 
 The goal of the workshop should be to define the working aspects of the repository such that it integrates with the ADLC. This should be handled as a part of the engagement model steering group activity.
 
@@ -139,18 +135,17 @@ Engagement Principle: Repository management is the responsibility of every archi
 
 A knowledge management process needs to be in place that can be operationalized, consider how long artefacts will be maintained. By setting a date for retirement of an artefact and assigning a role to maintain the repository the IT Architect will help make sure the repository stays fresh and current. The end result will be higher reuse of IP and stronger tendency to store information in a single store.
 
-References
-==========
+## References
 
-<https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_architecture_repository.html>
+[https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_architecture_repository.html](https://sparxsystems.com/enterprise_architect_user_guide/14.0/guidebooks/ea_architecture_repository.html){:target="_blank"}
 
-<https://pubs.opengroup.org/architecture/togaf92-doc/arch/>
+[https://pubs.opengroup.org/architecture/togaf92-doc/arch/](https://pubs.opengroup.org/architecture/togaf92-doc/arch/){:target="_blank"}
 
-<https://www.sciencedirect.com/science/article/pii/B9780124199842000045>
+[https://www.sciencedirect.com/science/article/pii/B9780124199842000045](https://www.sciencedirect.com/science/article/pii/B9780124199842000045){:target="_blank"}
 
-<https://bizzdesign.com/blog/5-top-tips-for-organizing-your-architecture-repository/>
+[https://bizzdesign.com/blog/5-top-tips-for-organizing-your-architecture-repository/](https://bizzdesign.com/blog/5-top-tips-for-organizing-your-architecture-repository/){:target="_blank"}
 
-<https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html>
+[https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html](https://docs.aws.amazon.com/whitepapers/latest/establishing-enterprise-architecture/enterprise-architecture-repository.html){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
