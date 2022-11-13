@@ -10,9 +10,10 @@ tags:
   - digital_employee
 ---
 
-# What is Collaboration
+> "the act of working together with other people or organizations to create or acheive something"
+**definition of Collaboration, Cambridge Dictionary**
 
-*"the act of working together with other people or organizations to create or acheive something"* **-- definition of Collaboration, Cambridge Dictionary**
+# What is Collaboration
 
 Collaboration is people or organizations working together to deliver
 value. Participants in a collaboration may have different perspectives

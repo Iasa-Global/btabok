@@ -10,9 +10,8 @@ tags:
   - digital_employee
 ---
 
-“The mind is just like a muscle – the more you exercise it, the stronger it gets and the more it can expand”
-
-Idowu Koyenikan
+> "The mind is just like a muscle – the more you exercise it, the stronger it gets and the more it can expand."
+**Idowu Koyenikan**
 
 # What Is A Digital Mindset 
 

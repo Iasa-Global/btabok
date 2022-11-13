@@ -10,9 +10,8 @@ tags:
   - digital_employee
 ---
 
-Culture eats strategy for breakfast.
-
-Peter Drucker
+> "Culture eats strategy for breakfast."
+**Peter Drucker**
 
 # What Is Culture
 
@@ -52,7 +51,7 @@ However, a couple of quotes from organizational theorists should help.
 
 All people are born in a culture. Their cultures help define them. They learn culture as part of the socialization process. As children, first through the interactions with parents, then school, and subsequently other groups. These formed adults enter into organizations and then help shape the organizations culture. But in the modern world there are many different background cultures which impact the organization.
 
-### People and Culture
+## People and Culture
 
 One way of understanding both change and culture is the to think of all of the elements of change surrounding and within an organization. In the following, people have their mood, their environment, their biases, personality, mood, and history. This situation is exponential in complex organizations.
 
@@ -111,25 +110,25 @@ Here are some elements of culture which impact directly the architect engagement
 
 One of the largest frustrations for architects is when the corporate culture limits their ability to truly reach levels of maturity. Maybe the organization has a distrust of technology due to limitations in management understanding. Or maybe the employees have been burned by IT too many times to care. This can happen within the technology community as well.
 
-### Become a Trusted Advisor
+## Become a Trusted Advisor
 
 One of the first steps of the architecture practice is developing its stakeholder relationships. Thus the ITABoK uses a stakeholder driven approach. Catalog key stakeholders to the architecture practice and begin cultivating relationships. This will take time and care as they may not be directly accessible.
 
-### Be a Pessimistic/Optimist or the Other Way Around
+## Be a Pessimistic/Optimist or the Other Way Around
 
 Both pessimism and optimism are necessary in a mature practice. Driving [innovation](innovate.md){:target="_blank"} without careful thought or [decision](decisions.md){:target="_blank"} methodologies can create unnecessary [risk](risk_methods.md){:target="_blank"} and possibly issues with [safety](safety_liability.md){:target="_blank"}. Thus we say the architects in the practice can be pessimistic/optimists or optimistic/pessimists but not the same in both categories. This practice will force both a drive towards innovation as well as the realism and numbers necessary to increase stakeholder satisfaction and benefits realization.
 
-### Empathy Trumps Design Daily
+## Empathy Trumps Design Daily
 
 Learning to understand customers, stakeholders, partners and people is a real issue for technology professionals of all types. Often architects will identify massively valuable opportunities for the organization. However, without empathy the recommendation may face objections that cause the solution to be rejected. For example, does the solution threaten someone’s job or a group of people? Does it threaten a pet project of another stakeholder? Having empathy with others will allow the architect team to not only design better solutions for customers but also navigate the pathways of the organization.
 
-### Different But Equal
+## Different But Equal
 
 Previous decades were filled with stories of ‘the ivory tower architects’ or ‘top-down architecture’ or ‘architects over engineers’. The architecture practice must establish that the focus for architecture is on something different from engineering, management, product owners, and other roles and that it is not an ego driven activity. This different but equal approach is what creates healthy tension in how the architect [organization](organization.md){:target="_blank"} is assigned and how it interacts with other [roles](roles.md){:target="_blank"}.
 
-### Owners Are Burnt Not Born
+## Owners Are Burnt Not Born
 
-### Stop Scaring People
+## Stop Scaring People
 
 Architecture is about change and change is terrifying for most humans. Especially as they do not know where they will fit in after large solutions deploy. Going back to the tenet ‘Empathy Trumps Design’ architects must know how to use common language that envisions solutions which benefit the company but also do not overwhelm their audience. Overly technical language, radical innovation, and similar types of conversations can create a sense of fear in the culture of the organization. While the architect team may be ‘Artisans’ in the SATIR change model and thus deeply comfortable with uncertainty, it is guaranteed that a large part of the stakeholder community is not.
 
@@ -160,7 +159,7 @@ Consider the following example.
 
 There are many tools available to diagnose culture in the marketplace. As a part of engagement model development the use of these tools can provide valuable insight into how to best grow the architecture practice.
 
-### Westrum Culture Diagnostic
+## Westrum Culture Diagnostic
 
 The WCD provides a tool to understand how culture can be understood from a information sharing, learning, responsibility, collaboration, failure and ideas perspective.
 

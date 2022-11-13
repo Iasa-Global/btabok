@@ -10,9 +10,8 @@ tags:
   - digital_employee
 ---
 
-"Anything that is wasted effort represents wasted time. The best management of our time thus becomes linked inseparably with the best utilization of our efforts."
-
-Ted Engstrom
+> "Anything that is wasted effort represents wasted time. The best management of our time thus becomes linked inseparably with the best utilization of our efforts."
+**Ted Engstrom**
 
 What does it mean to Utilize
 ============================
