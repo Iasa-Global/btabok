@@ -10,10 +10,10 @@ tags:
   - operating_model
 ---
 
-# What are Stakeholders
+> "A person, group or organization that has interest or concern in an organization."
+**www.business dictionary.com**
 
-*"A person, group or organization that has interest or concern in an
-organization."* - **www.business dictionary.com**
+# What are Stakeholders
 
 A stakeholder is a person or organization which as an interest or
 concern in a given [objective](objectives.md){:target="_blank"}, [business case](.\businesscase.md){:target="_blank"} or

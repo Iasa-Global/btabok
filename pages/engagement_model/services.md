@@ -10,12 +10,10 @@ tags:
   - operating_model
 ---
 
-# What is a Service
+> "A service is a logical representation of a repeatable activity that has a specified outcome. It is self-contained and is a 'black box' to its consumers." 
+**Open Group, Service-Oriented Architecture Ontology Version 2.0**
 
-*"A service is a logical representation of a repeatable activity that
-has a specified outcome. It is self-contained and is a 'black box' to
-its consumers."* - **Open Group, Service-Oriented Architecture Ontology
-Version 2.0**
+# What is a Service
 
 In the IT sector the term "service" is widely used in a number of
 contexts. In the context of this article, services are a way of

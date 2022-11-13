@@ -10,9 +10,8 @@ tags:
   - operating_model
 ---
 
-"Making good decisions is a crucial skill at every level."
-
-Peter Drucker
+> "Making good decisions is a crucial skill at every level."
+**Peter Drucker**
 
 Architecturally Significant Decisions
 =====================================

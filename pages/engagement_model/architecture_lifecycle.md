@@ -10,11 +10,10 @@ tags:
   - operating_model
 ---
 
-# What is a lifecycle
-
-*"a series of stages through which something (such as an individual,
-culture, or manufactured product) passes during its lifetime"* --
+> "A series of stages through which something (such as an individual, culture, or manufactured product) passes during its lifetime"
 **Merriam Webster Dictionary**
+
+# What is a lifecycle
 
 The architecture lifecycle, or Architecture Development Life Cycle
 (ADLC), are the stages that an architecture goes through from its
@@ -434,7 +433,7 @@ provides a solid base for value creation and delivery.
 
 Two recommended approaches are the "bottom-up" or "middle-out" approach.
 
-### Bottom-Up
+## Bottom-Up
 
 This approach focuses on adopting and developing the lifecycle around
 products or services. Architects focus on creating a value-based
@@ -455,7 +454,7 @@ or services often rely on technical innovation in order to gain
 competitive advantage. Focusing the lifecycle around the products or
 services brings the lifecycle closer to the source of value.
 
-### Middle-Out
+## Middle-Out
 
 The middle-out approach focuses on the business domain of the
 organization. Architects analyze the primary value streams of the
