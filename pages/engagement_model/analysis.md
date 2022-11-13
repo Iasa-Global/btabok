@@ -10,9 +10,8 @@ tags:
   - value_model
 ---
 
-"Analysis is the art of creation through destruction."
-
-P.S. Baber, Cassie Draws the Universe
+> "Analysis is the art of creation through destruction."
+**P.S. Baber, Cassie Draws the Universe**
 
 If the purpose of an architecture is to "provide a framework in which to satisfy the requirements and serve as a basis for the design", then it follows that we need to be able to analyze candidate architectures to determine how well they carry out that purpose.  IEEE recommends using architecture descriptions "as basis for review, analysis, and evaluation of the system across its life cycle" and "as basis to analyze and evaluate alternative architectures".  This article explores the reasons for analyzing an architecture and possible alternatives and describes how we go about it.
 
@@ -53,21 +52,21 @@ The total time involved depends much on the nature and scope of the system or se
 
 The description above provides a good overview of the basic approach that can help architects and stakeholders together understand how well an architecture fits the requirements, giving valuable insights that can contribute to architectural decisions.  There are a number of areas where one can go a bit further, gaining greater insight that can really help contribute to a major decision about a large or complex system or service.
 
-*Looking beyond quality attributes*
+**Looking beyond quality attributes**
 
 So far we have made the rather dangerous assumption that architectural significance equates to the subset of requirements (often rather sadly referred to as "non-functional requirements") that can be linked to quality attributes.  As [this article](requirements.md){:target="_blank"} makes clear, there are architecturally significant requirements other than those that impact managed quality attributes.  Shouldn't these also be reflected in the trade-off analysis, as they may also be impacted by the trade-offs, risks and compromises inherent in individual solution options?
 
 Do not be tempted to add in all of the requirements that relate to functional suitability, as this risks drowning out the significant ones and losing the benefit of abstraction that has been achieved by focusing on quality attributes.  Instead, consider extending the quality model, perhaps with a separate layer, to additionally consider the key relevant business capabilities.  This might have the effect of extending the scope of the analysis beyond an IT system to a business service, where the ways in which business capabilities are deployed, combining people, processes and technology, can be considered to be architecturally significant alongside those requirements that can be linked to quality attributes.  The analysis becomes one that is considering more fully the set of architecturally significant requirements and might be more appropriately described as an analysis of service architecture.
 
-*Seeing the problem through the eyes of stakeholders*
+**Seeing the problem through the eyes of stakeholders**
 
 The value of engaging stakeholders in the analysis process has been rightly emphasized, but the analysis workshop described above focuses on analyzing the trade-offs among the attributes of the quality model (or the quality and capability model if the above extension has been adopted).  If the interests of the stakeholders have been captured in terms of the ASRs they care most about, it is also possible to analyze the trade-offs and differences between solution options from the different perspectives of the stakeholders.  Understanding that a preferred architecture might leave one key stakeholder somewhat unsatisfied might not lead to a different architectural decision, but it can inform a project's communication strategy and might help to ensure that a stakeholder doesn't also become an enemy.  The price for being able to do this additional analysis comes from having to capture detailed information concerning the ASRs that are of most interest to each stakeholder.
 
-*Architecture Review Boards*
+**Architecture Review Boards**
 
 Long considered a top-down approach to architecture analysis, actual ARBs are much more dynamic and cross-cutting depending on the Safety & Liability level of the product/project and architecture practice. ARBs are a lifecycle technique used in governance aspects of the architecture practice where formal or informal architecture analysis occurs. This may include a detailed multi-stakeholder review or be peer to peer. The BTABoK is primarily based on three formal methods of analysis which can be used to differing degrees of rigor. The ATAM from the SEI, the PBAAM from Iasa, and the newer SARM method which to a degree replicates the effectiveness of ATAM. Other analysis methods are being cataloged in the next version of the BTABoK.
 
-*Considering value*
+**Considering value**
 
 Underlying the analysis approach described in this article is a recognition that for any given business problem there may be multiple solutions that address the requirements well, but there is unlikely to be one that addresses them all perfectly, and that different architectures represent different trade-offs among the competing ASRs and their associated quality attributes and business capabilities.
 
@@ -95,8 +94,7 @@ I'll conclude with perhaps the most important thing to keep in mind when conduct
 
 You cannot outsource your accountability for making an architectural decision to the analysis or its tool.  They are there to shine a light on architectures from many different angles so that you can more easily see both their beauty and their flaws.  Architecture analysis won't make the decision for you, but it will give you that most powerful property, confidence.
 
-**References and Further Reading**
-==================================
+# References and Further Reading
 
 Alexander, Christopher, *A Pattern Language: Towns, Buildings, Construction* (New York: OUP USA, 1978), *The Nature of Order*, 1 edition (Berkeley, Calif: Center for Environmental Structure, 2005)
 
@@ -134,59 +132,60 @@ Szwed, Piotr, Igor Wojnicki, Sebastian Ernst, and Andrzej Glowacz, 'Application 
 
 Wolman, David, 'Before the Levees Break: A Plan to Save the Netherlands', 2008 <http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all> [accessed 20 February 2010]
 
-**Dewayne E. Perry and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', *SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 (p. 43)**\
+Dewayne E. Perry and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', *SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 (p. 43)
 <https://doi.org/10.1145/141874.141884>
 
-**IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', *ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 (p. 9)**\
+IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', *ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 (p. 9)
 <https://doi.org/10.1109/IEEESTD.2011.6129467>
 
-**Christopher Alexander, *A Pattern Language: Towns, Buildings, Construction* (New York: OUP USA, 1978).**
+Christopher Alexander, *A Pattern Language: Towns, Buildings, Construction* (New York: OUP USA, 1978).
 
-**Mario Barbacci and others, *Quality Attributes* (Software Engineering Institute, Carnegie Mellon University, December 1995).**
+Mario Barbacci and others, *Quality Attributes* (Software Engineering Institute, Carnegie Mellon University, December 1995).**
 
-**Rick Kazman and others, 'SAAM: A Method for Analyzing the Properties of Software Architectures', 1994.**
+Rick Kazman and others, 'SAAM: A Method for Analyzing the Properties of Software Architectures', 1994.**
 
-**Paul Clements, Rick Kazman, and Mark Klein, *Evaluating Software Architectures: Methods and Case Studies* (Addison Wesley, 2001), p. 211.**
+Paul Clements, Rick Kazman, and Mark Klein, *Evaluating Software Architectures: Methods and Case Studies* (Addison Wesley, 2001), p. 211.**
 
-**P. Bengtsson and J. Bosch, 'Scenario-Based Software Architecture Reengineering', in *Software Reuse, 1998. Proceedings. Fifth International Conference On*, 1998, pp. 308--17**\
+P. Bengtsson and J. Bosch, 'Scenario-Based Software Architecture Reengineering', in *Software Reuse, 1998. Proceedings. Fifth International Conference On*, 1998, pp. 308--17 
 <https://doi.org/10.1109/ICSR.1998.685756>
 
-**P. Bengtsson and J. Bosch, 'Architecture Level Prediction of Software Maintenance', in *Software Maintenance and Reengineering, 1999. Proceedings of the Third European Conference On*, 1999, pp. 139--47**\
+P. Bengtsson and J. Bosch, 'Architecture Level Prediction of Software Maintenance', in *Software Maintenance and Reengineering, 1999. Proceedings of the Third European Conference On*, 1999, pp. 139--47
 <https://doi.org/10.1109/CSMR.1999.756691>
 
-**J. C. Duenas, W. L. de Oliveira, and J. A. de la Puente, 'A Software Architecture Evaluation Model', in *Proceedings of the Second International ESPRIT ARES Workshop* (Las Palmas de Gran Canaria: Springer, 1998).**
+J. C. Duenas, W. L. de Oliveira, and J. A. de la Puente, 'A Software Architecture Evaluation Model', in *Proceedings of the Second International ESPRIT ARES Workshop* (Las Palmas de Gran Canaria: Springer, 1998).
 
-**Rick Kazman, Mark Klein, and Paul Clements, *ATAM: Method for Architecture Evaluation* (Software Engineering Institute, Carnegie Mellon University, August 2000).**
+Rick Kazman, Mark Klein, and Paul Clements, *ATAM: Method for Architecture Evaluation* (Software Engineering Institute, Carnegie Mellon University, August 2000).
 
-**'List of System Quality Attributes', *Wikipedia*, 2020**\
+'List of System Quality Attributes', *Wikipedia*, 2020
 <https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877>
 
-**International Organization for Standardization, *ISO/IEC 9126 -- Software Engineering Product Quality* (International Organization for Standardization, 1991).**
+International Organization for Standardization, *ISO/IEC 9126 -- Software Engineering Product Quality* (International Organization for Standardization, 1991).
 
-**International Organization for Standardization, *ISO/IEC 25010:2011 Systems and Software Engineering -- Systems and Software Quality Requirements and Evaluation (SQuaRE) -- System and Software Quality Models* (International Organization for Standardization, 2011).**
+International Organization for Standardization, *ISO/IEC 25010:2011 Systems and Software Engineering -- Systems and Software Quality Requirements and Evaluation (SQuaRE) -- System and Software Quality Models* (International Organization for Standardization, 2011).
 
-**David Wolman, 'Before the Levees Break: A Plan to Save the Netherlands', 2008\
-**<http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all>
+David Wolman, 'Before the Levees Break: A Plan to Save the Netherlands', 2008
+<http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all>
 
-**'Solution Architecture Review Method'**\
+'Solution Architecture Review Method'
 <https://sarm.org.uk/>
 
-**Piotr Szwed and others, 'Application of New ATAM Tools to Evaluation of the Dynamic Map Architecture', 2013, ccclxviii**\
+Piotr Szwed and others, 'Application of New ATAM Tools to Evaluation of the Dynamic Map Architecture', 2013, ccclxviii
 <https://doi.org/10.1007/978-3-642-38559-9_22>
 
-**'SARM Tool Download'**\
+'SARM Tool Download'
 <https://sarm.org.uk/download/>
 
-**Simon Field, 'Can Software Architecture Review Methods Apply to Service Design?', in *IESS 2010* (presented at the IESS 2010, Geneva: Springer-Verlag, 2010), pp. 111--24.**
+Simon Field, 'Can Software Architecture Review Methods Apply to Service Design?', in *IESS 2010* 
+(presented at the IESS 2010, Geneva: Springer-Verlag, 2010), pp. 111--24.
 
-**Rick Kazman, Jai Asundi, and Mark Klein, 'Quantifying the Costs and Benefits of Architectural Decisions', in *Proceedings of the 23rd International Conference on Software Engineering* (Toronto, Ontario, Canada: IEEE Computer Society, 2001), pp. 297--306**\
+Rick Kazman, Jai Asundi, and Mark Klein, 'Quantifying the Costs and Benefits of Architectural Decisions', in *Proceedings of the 23rd International Conference on Software Engineering* (Toronto, Ontario, Canada: IEEE Computer Society, 2001), pp. 297--306
 <http://portal.acm.org.ergo.glam.ac.uk/citation.cfm?id=381473.381504&coll=ACM&dl=ACM&type=series&idx=SERIES402&part=series&WantType=Proceedings&title=ICSE&CFID=69202465&CFTOKEN=49512941>
 
-**'SARM Tool Download'.**
+'SARM Tool Download'.
 
-**Marcus Vitruvius Pollio, *De Architectura*, 25AD.**
+Marcus Vitruvius Pollio, *De Architectura*, 25AD.
 
-**Christopher Alexander, *The Nature of Order*, 1 edition (Berkeley, Calif: Center for Environmental Structure, 2005). By Simon Field**
+Christopher Alexander, *The Nature of Order*, 1 edition (Berkeley, Calif: Center for Environmental Structure, 2005). By Simon Field
 
 ![image001](media/by-nc.png)
 

@@ -13,8 +13,7 @@ tags:
 > "I do not want to waste any time. And if you are not working on important things, you are wasting time."
 **Dean Kamen**
 
-Architecture Portfolio and Assignment
-=====================================
+# Architecture Portfolio and Assignment
 
 The portfolio of work at an organization is the amount of people, process, or technology change undertaken by an organization during a time limit set based on budgetary and or resource utilization guidelines. It includes product and program changes. Portfolio changes are managed at the highest level and include program and project level investments in organization outcomes. The architecture practice participates in this change based on their current engagement maturity.
 
@@ -25,8 +24,7 @@ Architecture assignment is the process, methods and goals which describe the way
 3.  How the team prioritizes work with a client or project management office or [agile](agility.md){:target="_blank"} releases.  
 4.  How the team delivers the roadmap.
 
-Assignment Methodology
-----------------------
+## Assignment Methodology
 
 Depending on organizational maturity and architecture maturity as well as work delivery methodology in use the architecture team must customize their process. Generally there are three methods in practice at organizations for work assignment with plenty of overlap and situations where multiple methods are in use.
 
@@ -42,8 +40,7 @@ Project management methods are the standard for work prioritization in medium to
 
 Agile methods are the use of change techniques which need to be fast and innovation and disruption aware. Agile businesses are those that adapt quickly, embrace change and welcome disruption. Scaled agile businesses drive not only technology change in this way but full organization, product and service change in these ways while respecting and allowing for appropriate hiarchical and slower more traditional production and operational methods to control where necessary. Architects should focus on coverage between innovation and structural safety and engineering and will need a high level of maturity and business penetration to succeed.
 
-Understanding Work Priority
----------------------------
+## Understanding Work Priority
 
 Within any method of change priorities must be established to allow the architecture team to assign the most appropriate architect(s).
 
@@ -105,8 +102,7 @@ The architects roadmap is a combination of architectural priorities and the esti
 
 ![image001](media/assignment003.jpg)
 
-Architect Assignment
---------------------
+## Architect Assignment
 
 Once architectural priority is determined architects may be assigned to the work. It is likely there will be more work than there are architects. This is where architects must make decisions about what to say No to and what must be done. Much of the difficulty in architect teams is taking on more work than the team can do proactively (they are assigned during the whole [lifecycle](architecture_lifecycle.md){:target="_blank"}.
 
@@ -122,13 +118,11 @@ Focus on the right fit for the work. Assign architects based on their desire for
 
 Assign architects based on capability ownership whether it is technical or business capabilities. This leaves the architect in charge of the capabilities to which they are assigned and they coordinate and work together on multi-capability assignments.
 
-Integration Into the [Extended Team](extended_team.md){:target="_blank"}
---------------------------------------------------------------------------------------------------------
+## Integration Into the [Extended Team](extended_team.md){:target="_blank"}
 
 In many organizations the extended team is used as architects. For example, there may be an enterprise architect team centralized while all software delivery work is done by agile teams with a senior engineer. This method is covered fully in the extended team article but it should be noted that it is both necessary and highly risky unless competencies in the extended team are well understood.
 
-Assignments by Across Specializations
--------------------------------------
+## Assignments by Across Specializations
 
 The larger the architecture practice the more likely there will be specialization within the team. Even small teams have this as architects are clearly aligned with particular depth areas such as business, software, information, or infrastructure. The goal of the assignment by specialization is to ensure that the team does not lose it's cohesion and connected value. If that can be maintained specialization brings a huge value to a growing team.
 

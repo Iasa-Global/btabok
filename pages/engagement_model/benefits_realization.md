@@ -9,7 +9,8 @@ tags:
   - value_model
 ---
 
-> "However beautiful the strategy, you should occasionally look at the results." - Winston Churchill
+> "However beautiful the strategy, you should occasionally look at the results."
+**Winston Churchill**
 
 # Benefits Realization
 
@@ -18,8 +19,6 @@ Benefits realization is an organizational method, process, and commitment to und
 # Why is Benefits Realization Important to Architects
 
 # Approaches to Benefits Realization
-
-
 
 ## What is Rapid Value Management
 

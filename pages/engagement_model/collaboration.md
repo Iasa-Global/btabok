@@ -10,7 +10,7 @@ tags:
   - digital_employee
 ---
 
-> "the act of working together with other people or organizations to create or acheive something"
+> "The act of working together with other people or organizations to create or acheive something"
 **definition of Collaboration, Cambridge Dictionary**
 
 # What is Collaboration

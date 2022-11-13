@@ -10,8 +10,8 @@ tags:
   - people_model
 ---
 
-What Is Community
-=================
+# What Is Community
+
 
 The BTABoK uses the term community to refer to a group of architects, extended team members, internal and external to an organization who must work together to deliver the best business and technology strategy possible. The community is the binding agent between them, which some might call a center of excellence or professionalism or other terms.
 
@@ -19,29 +19,27 @@ The goal of an architecture community is to increase the overall architecture ca
 
 In addition, community is the center of excellence in professional practice, including both the internal community as well as the external community of architects.
 
-Why is Community Important
-==========================
+# Why is Community Important
 
 The BTABoK uses the term community to refer to more than a loose-knit group of people but more in terms of the living body of professionals within and connected to an organization (including the vendors and service providers).  
 
-BTABoK Tenets
--------------
+## BTABoK Tenets
 
 The following tenets can describe the basic approach to community throughout the BTABoK.
 
-### Community Eats Framework for Lunch
+## Community Eats Framework for Lunch
 
 The BTABoK is based on a true professional model for architecture practice. This model relies primarily on the process for developing quality people who are fully accountable for their work as opposed to following a framework or process. Community is the backbone of the organizations ability to deliver the full architect capability.
 
-### Specialization-Based Conflict Destroys Practices
+## Specialization-Based Conflict Destroys Practices
 
 To advance an architecture practice those with the title of architect, and those that identify with the practice (whether titled or untitled) must work together to create a working [engagement model](engagement.md) or risk losing the value of the practice overall. This risk is associated with the use of the term architecture and its recognition within the stakeholder community and the strategy of the organization. For example if business architects are disconnected or at odds with software or solution architects, it creates a break in the [value stream](value_streams.md) architecture necessary to deliver on the primary purpose of the overall architecture practice. In addition, stakeholders become confused when so many definitions and nuances are provided to them on the overall value, purpose and mission of the architecture practice. In many cases, this confusion may grow to an overall discontent with the practice or worse a belief that the architecture practice does not deliver value in some or all of its parts.
 
-### Communities Define Architecture
+## Communities Define Architecture
 
 As a positive extension of the previous tenet, the community of architects (including the extended team) are the definition of architecture within an organization for good or bad. The community includes then all practitioners regardless of specialization, scope of impact or domain area, as well as the [extended team](extended_team.md) (those practicing architecture without the title) and any vendor or services staff influencing the internal organization stakeholders. If this community is effective in modeling their engagement model, providing a working definition of the practice, enhances their personal competencies, and effectively manages their stakeholder community, architecture in itself will be seen as valuable to the organization. The primary challenge to value recognition comes from within the practice, not without.
 
-### Get Proactive in Your Value
+## Get Proactive in Your Value
 
 The value proposition of an architecture community is difficult to quantify explicitly and objectively. There are three major components that the community can use to drive its value proposition. These are critical components that will drastically change how the organization views architecture.
 
@@ -69,13 +67,13 @@ Specializations and Community Conflict
 
 Specialization activities and roles need to be dealt with early during the engagement model as conflicts most often arise between those of different specializations. It may be helpful to think of the specializations in medicine to understand the differences and why in-fighting can be so dangerous to a practice. Surgeons and General Practitioners or doctors working in an ER often have very different views of the world and yet both are considered doctors. This distinction will help design a working practice in architecture where business architects and solution or software architects can work effectively together.
 
-### Question 1: Does the Practice Need Specialists?
+## Question 1: Does the Practice Need Specialists?
 
 Often small practices, solution architects and enterprise architects will have the equivalent of general practitioners, those that know enough business, information, infrastructure, software and solution architecture to succeed with average company products or projects.
 
 In large teams or highly complex domains specialization will exist and likely in larger numbers. Things like business model, product types, digital penetration into the industry will often help define whether the practice needs them or not. For example, how many business architects does a software product company need will likely be a very different answer than at a large bank. Use the architecture team canvas to help determine whether the current engagement model needs specialists or generalists and hire, train, mentor accordingly.
 
-### Question 2: How Are Specialists Assigned
+## Question 2: How Are Specialists Assigned
 
 The question of assignment is particularly difficult as having all architects everywhere is impossible. The assignment article provides detailed guidance and tools for assigning architects but specialists require specific attention. There is no use using a software architect to repurpose a data center if there are infrastructure architects available. Use the following to describe and assign architects based on specializations.
 

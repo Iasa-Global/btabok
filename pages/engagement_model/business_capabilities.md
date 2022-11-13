@@ -357,7 +357,7 @@ project.
 
 To determine the set of capabilities that may need to change, start with
 the goals in the financial perspective of the strategy map (covered in
-other articles in the ITABoK). From those goals, assess what needs to
+other articles in the BTABoK). From those goals, assess what needs to
 happen differently in the customer perspective. Then, focusing on the
 processes that deliver customer touch points, and the capabilities those
 processes use, identify the processes that directly impact the touch

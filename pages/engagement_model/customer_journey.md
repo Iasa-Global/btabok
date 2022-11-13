@@ -9,8 +9,7 @@ summary: "When collaboration works well, it leads to significant gains in produc
 ---
 
 > "You are in the customer experience business &mdash; whether you know it or not."
-
-*Harley Manning and Kerry Bodine in "Outside-In"*
+**Harley Manning and Kerry Bodine in "Outside-In"**
 
 # Introduction
 
