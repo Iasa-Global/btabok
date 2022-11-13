@@ -10,9 +10,8 @@ tags:
   - operating_model
 ---
 
-"Quality is never an accident. It is always the result of intelligent effort."
-
-John Ruskin
+> "Quality is never an accident. It is always the result of intelligent effort."
+**John Ruskin**
 
 What are Quality Attributes
 ===========================

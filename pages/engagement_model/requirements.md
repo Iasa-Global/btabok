@@ -11,8 +11,7 @@ tags:
 ---
 
 > “The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems.”
-
-*Paul Preiss*
+**Paul Preiss**
 
 # Architecturally Significant Requirements
 

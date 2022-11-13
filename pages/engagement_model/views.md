@@ -10,10 +10,10 @@ tags:
   - operating_model
 ---
 
-# What is a View
+> "What you can see from a particular place, or the ability to see from a particular place"
+**definition of View, Cambridge Dictionary**
 
-"what you can see from a particular place, or the ability to see from a
-particular place" **-- definition of View, Cambridge Dictionary**
+# What is a View
 
 As the name suggests a view shows a part of an architecture from a
 particular perspective. This is the primary method for communicating an
@@ -221,11 +221,11 @@ systems commonly use the following models:
 There is also a wide range of frameworks for Enterprise Architecture.
 The following are examples of commonly used frameworks:
 
-- [Tom Graves Approach](https://itabok.iasaglobal.org/itabok3_0/views-and-viewpoints/views-viewpoints-3-0-tom_graves/) 
+- [Tom Graves Approach](https://btabok.iasaglobal.org/views-and-viewpoints-2/views-viewpoints-3-0-tom_graves/) 
 
-- [Architmate and TOGAF](https://itabok.iasaglobal.org/itabok3_0/views-and-viewpoints/views-viewpoints-3-0-archimate/)
+- [Architmate and TOGAF](https://btabok.iasaglobal.org/views-and-viewpoints-2/views-viewpoints-3-0-archimate/)
 
-- [FEAF](https://itabok.iasaglobal.org/itabok3_0/engagement-model-overview-3-0/federal-enterprise-architecture-framework/) 
+- [FEAF](https://btabok.iasaglobal.org/btabok_3/engagement-model-overview-3-0/federal-enterprise-architecture-framework/) 
 
 Organizations have very different levels of maturity with regard to
 developing architectures, and the architect needs to determine if there

@@ -10,8 +10,7 @@ tags:
   - operating_model
 ---
 
-Deliverables
-============
+# Deliverables
 
 So what are architecture deliverables? In general architecture deliverables are treated as large documents for projects. What is often called the architecture description. The notion of the architecture description is well documented in the iso 042010 Standard up by the ISO. The ice 04-2010 provides for architecture descriptions at that connect to views and viewpoints. And deliver on a description of a particular architecture.
 
