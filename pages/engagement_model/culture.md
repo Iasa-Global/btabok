@@ -112,7 +112,7 @@ One of the largest frustrations for architects is when the corporate culture lim
 
 ## Become a Trusted Advisor
 
-One of the first steps of the architecture practice is developing its stakeholder relationships. Thus the ITABoK uses a stakeholder driven approach. Catalog key stakeholders to the architecture practice and begin cultivating relationships. This will take time and care as they may not be directly accessible.
+One of the first steps of the architecture practice is developing its stakeholder relationships. Thus the BTABoK uses a stakeholder driven approach. Catalog key stakeholders to the architecture practice and begin cultivating relationships. This will take time and care as they may not be directly accessible.
 
 ## Be a Pessimistic/Optimist or the Other Way Around
 
@@ -167,7 +167,7 @@ The WCD provides a tool to understand how culture can be understood from a infor
 
 ## Culture Map
 
-The ITABoK follows the folks at strategyzer quite closely. They provide a Culture Map tool to help understand the dynamics and implementation of culture.
+The BTABoK follows the folks at strategyzer quite closely. They provide a Culture Map tool to help understand the dynamics and implementation of culture.
 
 ![image001](media/culture006.png)
 
