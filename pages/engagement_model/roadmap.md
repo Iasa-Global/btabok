@@ -98,104 +98,68 @@ The roadmap is defined by the business with the customer or market in
 focus and is a plan for how to achieve something of value to the
 business. In the value model the [Objectives](objectives.md){:target="_blank"} and the [Business
 Case](businesscase.md){:target="_blank"} provide the drivers for goals and the objectives on the roadmap.
-The [operating model](operatingmodel.md){:target="_blank"} provides [Assignment](strategy.md){:target="_blank"}(assignment.md){:target="_blank"} for
-the initiatives that are prioritized for work and the the roadmap
-provides the time plan for when initiatives can be achieved.
+The [operating model](operatingmodel.md){:target="_blank"} provides [Assignment](strategy.md){:target="_blank"}(assignment.md){:target="_blank"} for the initiatives that are prioritized for work and the the roadmap provides the time plan for when initiatives can be achieved.
 
-## 
-
-Items on a roadmap should clearly contribute to partly or completely
-meeting a goal or objective which provides value for the enterprise. If
-the item is not related to a roadmap [objective](objectives.md){:target="_blank"} or objective
-then the item may be out of the roadmap scope. On the roadmap it may be
-that many items contribute to the same goal or objective, and that one
-item can contribute to many goals and objectives.
+Items on a roadmap should clearly contribute to partly or completely meeting a goal or objective which provides value for the enterprise. If
+the item is not related to a roadmap [objective](objectives.md){:target="_blank"} or objective then the item may be out of the roadmap scope. On the roadmap it may be that many items contribute to the same goal or objective, and that one item can contribute to many goals and objectives.
 
 ## A Roadmap is long term
 
-A roadmap is used as a basis for long term planning. This gives
-stakeholders a view of what is coming down the line and usually details
-significantly large changes. For long term planning a broad timeline is
-used which shows years, quarters and months, where months are the lowest
-unit of time.
+A roadmap is used as a basis for long term planning. This gives stakeholders a view of what is coming down the line and usually details significantly large changes. For long term planning a broad timeline is used which shows years, quarters and months, where months are the lowest unit of time.
 
 ## A Roadmap is not a project plan
 
-A roadmap is used for planning large units of change which are driven
-against goals and objects. When planning a roadmap importance is placed
-on what is to be done, and not how it is to be done. The roadmap does
-not consider detailed activities or resources. The roadmap details the
-plan for what needs to be done and project plans (or other detailed
-plans) may be used to assess if items on the roadmap are feasible.
-However, if the roadmap is not feasible then actions need to be taken to
-change the roadmap, or the change how deliverables on the roadmap are
-planned (for example, increase resources, increase productivity,
-consider quality levels).
+A roadmap is used for planning large units of change which are driven against goals and objects. When planning a roadmap importance is placed
+on what is to be done, and not how it is to be done. The roadmap does not consider detailed activities or resources. The roadmap details the
+plan for what needs to be done and project plans (or other detailed plans) may be used to assess if items on the roadmap are feasible.
+However, if the roadmap is not feasible then actions need to be taken to change the roadmap, or the change how deliverables on the roadmap are
+planned (for example, increase resources, increase productivity, consider quality levels).
 
 # Working with Roadmaps
 
-Roadmaps are adaptable and can be applied to different scenarios and
-visualized in different formats. However roadmaps should at least have
+Roadmaps are adaptable and can be applied to different scenarios and visualized in different formats. However roadmaps should at least have
 the following common attributes.
 
 **Scope** **and Vision**
 
-The roadmap makes clear the scope that is being address, for example, a
-business area, a specific business initiative or perhaps a product. The
-scope may include the vision and time period for the roadmap. The scope
-also determines timescale of the roadmap. A roadmap is a long-term plan
-and the timescale of the roadmap determines the level of detail in the
-planning. Roadmaps are commonly scaled to years, quarters or months.
+The roadmap makes clear the scope that is being address, for example, a business area, a specific business initiative or perhaps a product. The
+scope may include the vision and time period for the roadmap. The scope also determines timescale of the roadmap. A roadmap is a long-term plan
+and the timescale of the roadmap determines the level of detail in the planning. Roadmaps are commonly scaled to years, quarters or months.
 
 **Goals and objectives**
 
-Each deliverable on the roadmap should have a clear goal or objective
-which will be met once the deliverable is completed.
+Each deliverable on the roadmap should have a clear goal or objective which will be met once the deliverable is completed.
 
 **Deliverables**
 
-Deliverables are the items on the roadmap which have a start date and an
-end date. A deliverable indicates something that will be achieved which
-contributes to a stated goal or objective, for example a release of a
-software product, a skills enhancement package or a combination of a
+Deliverables are the items on the roadmap which have a start date and an end date. A deliverable indicates something that will be achieved which
+contributes to a stated goal or objective, for example a release of a software product, a skills enhancement package or a combination of a
 series of deliverable packaged in a transition.
 
 # Overview of Strategic and Product Roadmaps
 
-In the following sections a description is given of how to work in
-practice with Strategic Roadmaps and Product Development Roadmaps. In
-order to place these in context it is important to understand the
-relationship between these two types of roadmap.
+In the following sections a description is given of how to work in practice with Strategic Roadmaps and Product Development Roadmaps. In
+order to place these in context it is important to understand the relationship between these two types of roadmap.
 
 ![image001](media/roadmaps_plan2.png) 
 
-Strategic roadmaps are concerned with planning change in enterprises or
-large portfolios of products and have a broad scope. These roadmaps are
-aim at an audience of senior business persons in the organization.
-Within the strategic roadmap there are a number of deliverables which
-are linked to product development. This provides the link between the
-strategic roadmap and each of the product development roadmaps within an
-organization. This provides a cycle of information where changes in the
-strategic roadmap affect the product roadmaps and a change in a product
-roadmap may affect the strategic roadmap. By effectively managing the
-strategic and product development roadmaps risks, consequences and
-dependencies can discovered at an early stage and managed to reduce
-negative effects.
+Strategic roadmaps are concerned with planning change in enterprises or large portfolios of products and have a broad scope. These roadmaps are
+aim at an audience of senior business persons in the organization. Within the strategic roadmap there are a number of deliverables which
+are linked to product development. This provides the link between the strategic roadmap and each of the product development roadmaps within an
+organization. This provides a cycle of information where changes in the strategic roadmap affect the product roadmaps and a change in a product
+roadmap may affect the strategic roadmap. By effectively managing the strategic and product development roadmaps risks, consequences and
+dependencies can discovered at an early stage and managed to reduce negative effects.
 
 # Strategic Roadmaps
 
-When working with strategic roadmaps we often require planning of a
-series of large deliverables in order to meet a strategic objective or
-goal. Examples of such deliverables can be changes to the enterprise,
-business or infrastructure architectures. The strategic roadmap is
-driven by the Strategy and Assignment in the engagement model, these
-provide the basis for creating transitions
+When working with strategic roadmaps we often require planning of a series of large deliverables in order to meet a strategic objective or
+goal. Examples of such deliverables can be changes to the enterprise, business or infrastructure architectures. The strategic roadmap is
+driven by the Strategy and Assignment in the engagement model, these provide the basis for creating transitions.
 
-In order to organize strategic roadmaps, we can refer to a change as a
-Transition.
+In order to organize strategic roadmaps, we can refer to a change as a Transition.
 
-*"A change from one form to another, or the process by which this
-happens"* -- **Transition, Cambridge Dictionary**
+> "A change from one form to another, or the process by which thishappens"
+**Transition, Cambridge Dictionary**
 
 A single Transition states clearly the goal or objective
 to be satisfied as well as a broad description of the required change.
@@ -259,8 +223,7 @@ add information to the canvas.
 
 ![image001](media/roadmaps_canvas4.png)
 
-The following describes a process which may be used to formulate the
-transitions in a roadmap.
+The following describes a process which may be used to formulate the transitions in a roadmap.
 
 1. Formulate the Scope and Vision\
    The stakeholders who are responsible for the initiative should
