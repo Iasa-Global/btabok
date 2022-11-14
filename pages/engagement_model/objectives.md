@@ -10,10 +10,10 @@ tags:
   - value_model
 ---
 
-# What is a Objective
+> "The end toward which effort is directed"
+**Merriam-Webster dictionary, definition of Objective.**
 
-*"the end toward which effort is directed"* **-- Merriam-Webster
-dictionary, definition of Objective.**
+# What is a Objective
 
 A Objective is a statement of an aim or purpose to which effort is
 directed. Objectives are applied to all areas of business to provide
@@ -149,8 +149,7 @@ related to or support the execution of a [business case]businesscase.md){:target
 Typical business Objectives focus on business outcomes, such as
 profitability, market share or cost optimization. For example:
 
-> *"Increase the customer base for Super Product by 20% before Q4
-> 2021."*
+> "Increase the customer base for Super Product by 20% before Q4 2021."
 
 The above Objective states a clear business value in terms of increasing
 market share. This indicates direct value to the business. These

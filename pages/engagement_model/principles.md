@@ -10,12 +10,10 @@ tags:
   - value_model
 ---
 
-"a basic idea or rule that explains or controls how something happens or works"
+> "A basic idea or rule that explains or controls how something happens or works"
+**Definition of Principle, Cambridge Dictionary**
 
-Definition of Principle, Cambridge Dictionary
-
-Architecture Principles Overview
-================================
+# Architecture Principles Overview
 
 There are a huge number of decisions that need to be made in any project, and a good set of architecture principles can make dealing with these a lot simpler by providing context and direction in important areas. An appropriate set of architecture principles also supports agile product development in a way that a prescriptive EA target architecture does not, as they draw boundaries but let the teams produce creative designs with that space. 
 
@@ -23,8 +21,7 @@ Principles can be seen as the experiential rules we have learned as an organizat
 
 IASA recommends starting with a small set (8-12) of written statements to guide the important decisions that need to be made in many projects and as the value of principles are seen in different areas grow this over time.
 
-In practice
-===========
+# In practice
 
 In this section, we'll describe what a good principle looks like and show how to get started with a blank "canvas" and start writing up our principles.
 
@@ -57,8 +54,7 @@ A fully formed principle is comprised of:
 
 As we said, the number of principles in a principles set should not be large, 8 to 12 is a good number. If an organisation has more than this, they might be being too prescriptive or the principles need to be broken down into subsets, for example, there are EA principles, data principles, security principles, etc., which are useful for different stages or areas of the design.
 
-Here's how to do it. 
----------------------
+## Here's how to do it. 
 
 No particular knowledge is required beyond a basic understanding of the organization's culture and knowledge management practices.  Constructing a principles set is a multi-stage process, a good place to start to capture the statement of principles is a simple list.  The first stage is to identify the [stakeholders](stakeholders.md){:target="_blank"} who should be involved (Link to Stakeholder doc), these will typically be the technical decision maker and their advisors.
 
@@ -82,8 +78,7 @@ Complete the canvas for each principle
 
 This process should take a 2-6 meetings, some basic supplies (post-it notes, flip charts), some graphic communication technique familiarity (communications).
 
-What are the pitfalls
----------------------
+## What are the pitfalls
 
 There are several potential areas where creating a set of effective principles can fail:
 
@@ -98,13 +93,11 @@ These problems are all about collaboration and understanding, which is why the w
 
 Do note that the Dilbert cartoon strip and others which have their roots in modern corporate behavior often show antipatterns in principles -- which are both human and altogether common.  These can be a useful way to start discussion without being perceived as either boring or negative.
 
-Examples  
-==========
+# Examples  
 
 Principles do not generally depend on other areas of the BTABoK and instead often inform those areas.  In this section, we describe some sets of architecture principles.
 
-Enterprise architecture principles
-----------------------------------
+## Enterprise architecture principles
 
 The EA perspective often blends the ethical obligation to external customers and stakeholders with internal business principles (how the organization comes up with solutions in a technical sense).  The following set of principles was adapted from a council of global manufacturers to describe how solutions would be preferred:
 
@@ -112,8 +105,7 @@ The EA perspective often blends the ethical obligation to external customers and
 
 In general, the understanding of these would guide architects towards selecting solutions which met #1 (safety [to human life], disaster resilience, and compliance) first.  Then the second criteria would be evaluated, and so forth.  If a solution or program did not meet the first three criteria (without exception), it would be rejected.  This systems-level view added to a corporate culture (which had a strong ethical similarity between the manufacturers -- a commitment to the customer), and provides a more day-to-day interpretation of *how a group might align decisions*.  This also helped the architecture teams expose this thinking to the business units in order to be more predictable over multiple initiatives.
 
-Solution Architecture Principles
---------------------------------
+## Solution Architecture Principles
 
 The second example here is a set of principles from a high-tech manufacturer's global IT team used to orient new technical or business architects.  I would like to thank Jared Kunz for his original work here and discussions in refining this.
 
@@ -125,15 +117,13 @@ This list is more easily composed by a lead architect for his team or for his im
 
 Fully Furnished Principle:
 
-Classification of Principles
-============================
+# Classification of Principles
 
 Principles define direction within a certain scope, in some cases this can be part of an inheritance model.  For example
 
 Enterprise level Principle:
 
 **IT is an enabler**
-
 Statement: In the fast changing business context in which the company operates, where first-mover advantage is key, IT must support the business with a rapid path to production
 
 Solution Architecture Principle:
@@ -148,8 +138,7 @@ Application Architecture Principles:
 
 **Deploy on cloud environment**
 
-Categories/Subsets
-------------------
+## Categories/Subsets
 
 For a better understanding, architecture principles can be also organised in subsets (or categories): *Business*, *Application*, *Information*, *Technology* (see [TOGAF](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap23.html#tag_23_06){:target="_blank"} and an example from [University of Birmingham](https://intranet.birmingham.ac.uk/it/documents/public/architecture/Enterprise-Architecture-Principles.pdf){:target="_blank"}
 
@@ -159,8 +148,7 @@ For example, a specific architectural style (layered architecture, micro-service
 
 As it was mentioned, architecture principles are used to trace the architectural decisions back to the business goals (i.e. requirements). Since business goals are different across various business domains, having different constraints (regulations etc.), it is possible to create specific architecture principles sets for business domains: Financial, Health, Retail etc. (an example on [ibm.com/developerworks/](https://www.ibm.com/developerworks/rational/library/enterprise-architecture-financial-sector/index.html){:target="_blank"} for Financial sector)
 
-Perspective
-===========
+# Perspective
 
 There are a number of organizations -- both in the public good and commercial -- who have advanced statements of principles, listed below.  In this section, I am going to summarize an elevator pitch I heard consistently while at Boeing.  I asked the group of architects I was talking with how they prioritized principles and they almost unanimously replied with this simple statement, "We do:
 
@@ -174,31 +162,32 @@ Ask around your organization and see what answers you might get.  One of my own
 
 If an organization's principles illustrate how they decide, what are your principles?
 
-References and citations
-========================
+# References and citations
 
 **Please take a look at the following examples and sources:**
 
-**University of Washington\
-**<https://www.washington.edu/uwit/divisions/isss/ea/ea-guiding-principles/>
+**University of Washington**
+[https://www.washington.edu/uwit/divisions/isss/ea/ea-guiding-principles/](https://www.washington.edu/uwit/divisions/isss/ea/ea-guiding-principles/){:target="_blank"}
 
-**TOGAF**\
-<http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html>
+**TOGAF**
+[http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html](http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html){:target="_blank"}
 
-**Agile architect\
-**<http://www.agilearchitect.org/agile/principles.htm>
+**Agile architect**
+[http://www.agilearchitect.org/agile/principles.htm](http://www.agilearchitect.org/agile/principles.htm){:target="_blank"}
 
-**Quicken Loans' ISMs\
-**<https://dev-qlpr.pantheonsite.io/fast-facts/#isms>
+**Quicken Loans' ISMs**
+[https://dev-qlpr.pantheonsite.io/fast-facts/#isms](https://dev-qlpr.pantheonsite.io/fast-facts/#isms){:target="_blank"}
 
-**Matt Kern and agile principles\
-**<https://www.linkedin.com/pulse/post-agile-principles-matthew-kern/>
+**Matt Kern and agile principles**
+[https://www.linkedin.com/pulse/post-agile-principles-matthew-kern/](https://www.linkedin.com/pulse/post-agile-principles-matthew-kern/){:target="_blank"}
 
-**Technical AWS principles\
+**Technical AWS principles**
 **<https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/>
+[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
 
-**AWS hiring principles\
+**AWS hiring principles**
 **<https://www.amazon.jobs/en/principles>
+[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
