@@ -27,7 +27,7 @@ The BTABoK suggests that like Agility experimentation is a comprehensive method 
 
 # Why Do We Need Experimentation
 
-Experimentation and especially continuous experimentation provides a kind of running metrics dashboard and forces the architect and organization to think in terms of product measures which directly impact value. Taken more abstractly this provides exactly the kind of thinking and work that is inherent in successful architecture teams.
+Experimentation and especially continuous experimentation provides a kind of running metrics dashboard and forces the architect and organization to think in terms of product measures which directly impact value. Taken more abstractly this provides exactly the kind of thinking and work that is inherent in successful architecture teams. 
 
 # Experimentation Approach
 

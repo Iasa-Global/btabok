@@ -20,7 +20,7 @@ tags:
 
 …
 
-Verb: engaging
+Verb: engaging 
 
 *   occupy or attract (someone’s interest or attention)
 *   participate or become involved in

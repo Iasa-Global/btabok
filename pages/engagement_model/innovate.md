@@ -11,7 +11,6 @@ tags:
 ---
 
 > "For good ideas and true innovation, you need human interaction, conflict, argument, debate."
-
 **Margaret Heffernan**
 
 # What Does it Mean to Innovate
@@ -29,8 +28,7 @@ To innovate is to have ideas and to try them. To have an innovation based archit
 
 See Getting Started for why the BTABoK uses active verbs for the Internal and External Outcome Model Events (the Diamonds).
 
-Continuous Innovation as Internal and External
-==============================================
+# Continuous Innovation as Internal and External
 
 Innovation is ideas put into motion. Innovation is to try something new and to succeed or fail at it. Innovation happens everywhere, everyday. A new API is published by a vendor. A competitor is able to reduce their prices due to a better supply-chain. A line employee comes up with an idea which drastically alters customers perception. A new way of working remotely helps collaboration with teams. Some of these innovations succeed. Some of them fail. Most fall somewhere in between. But the critical element is that ideas do not come from one place and they cannot be known to be successful before they are tried.
 
@@ -42,8 +40,7 @@ By combining innovation and strategy and effectively measuring and communicating
 
 Innovation is an overloaded term similar to architecture and agile. Often corporate executives throw the term around without understanding that a truly innovative culture requires commitment and dedication. As a part of our education as architects we must become active innovators as well as strategists but it is important to realize that for a company to become innovation driven it must be across the entire company not just the architecture team. In fact great innovations are generally all around us and come from our partners, our management and our customers. A great innovation culture often begins organically. In many architecture driven transformation initiatives the innovative culture started as a part of a single project team trying to do things differently. Never think that you have to have a huge budget and corporate-wide initiative to begin an innovation driven process. Often you cant get these until you have shown the value of an innovation focus.
 
-Why is Innovation Important to Architects
-=========================================
+# Why is Innovation Important to Architects
 
 ![image001](media/innovate001.png)
 
@@ -51,8 +48,7 @@ Figure 1 MIT Sloan Innovation and Disruption
 
 The architecture practice is a major source of innovation for the digital advantage of a company within the limits of risk-appetite and safety and liability limits of the organization.
 
-Innovation Approach
-===================
+# Innovation Approach
 
 Although people tend to think of products when they think of innovations, there are many other types
 
@@ -69,8 +65,7 @@ co-create and assemble furniture |
 | New Markets | Novocaine was developed for general surgery, but took off among dentists (much to the dismay of its inventor) |
 | New Organizations | eBay has thousands of "employees" who pay the company to work for it! |
 
-Types of Innovation
--------------------
+## Types of Innovation
 
 Greg Satel has done a great deal of work in the innovation space. This diagram defines the types of innovation programs you can run. Most organizations benefit from having multiple innovation programs from each of the areas instead of one huge innovation program. The primary axies for this model is based on whether you have a defined problem you are trying to solve and whether you have some idea how to get there. In basic R&D processes you are looking for completely new ideas based on very little existing information and potentially without a problem to solve. In breakthrough innovation you have a good handle on the problem to solve but no real solution path. This would be the case for Apple's ipod. Getting 1000 songs in someones pocket is a great problem but initially they started with no real idea of how to get there. Sustained innovation on the other hand has a reasonably well defined problem and potential solution path. This would be the case with the ipod nano in which the form factor for the ipod had to be reduced but most of the other elements were already understood. Finally in disruptive innovations a company may have a good idea of direction and solution methods but they are targeting an undefined or underdefined problem that happens at the bottom of a market. For example cell phones disrupted the established telephony businesses and VOIP solutions have disrupted the cell phone market.
 
@@ -81,8 +76,7 @@ Tim Kastelle has also done significant work in the innovation space. He defines 
 
 ![image001](media/innovate003.png)
 
-Blue Ocean Strategy
--------------------
+## Blue Ocean Strategy
 
 A seminal work in innovative strategy is Blue Ocean Strategy from W. Chan Kim and Renee Mauborgne. Many innovation processes are looking for new ways of doing business in existing business spaces and changing business models to better compete or even find uncontested market spaces in existing marketplaces. Blue ocean strategy uses strategy canvas maps and value mapping strategies to identify open market spaces. You will be using blue ocean strategy maps in the valuation and strategy sections of this module. However it is important to connect them to your innovation process as well especially if your teams searching for disruptive innovations.
 
@@ -94,8 +88,7 @@ As an architect especially as a heavily technical architect it is essential that
 
 ![image001](media/innovate005.png)
 
-Managing and Maximizing Innovation
-==================================
+# Managing and Maximizing Innovation
 
 While Blue Ocean strategies may create uncontested space, it will not always stay uncontested. There are a number of factors which can influence the difficulty that competitors will have in duplicating the Blue Ocean Strategy. Try to implement as many of these factors in your strategy as possible to lengthen the time that the strategy in uncontested. It can also help to constantly improve the value offering to continue to open new space through improved buyer utility and lower cost. As the value curves on the strategy canvas of competitors begin to merge, it is time to Value innovate again. Look for new Blue Ocean space to create new uncontested space.
 
@@ -105,15 +98,13 @@ Architects can enable the R&D processes, but can also help embed technology in p
 
 One can create conditions where innovation is more likely, one can do analysis of current state of a business, but it is impossible to "mandate" innovation, IMHO.  Programs like Google's 10% however are worth studying because there is broad consensus that spending time on innovation and ideation helps both the organization's public perception (and stock price), as well as provides the probability above 0% that something will come along.
 
-Is the Organization Ready for Innovation and By How Much
---------------------------------------------------------
+## Is the Organization Ready for Innovation and By How Much
 
 There are two primary blockers to innovation. One is effectively the maturity of the organization or the derivative maturity of its technology capabilities. In this case the organization is unable to stably deliver technology and therefore is generally blocked from being innovative in the way the BTABoK describes it. This may be due to technical debt that is unpaid or may also be due to poor understanding of digital by business executives and therefore significantly lower funding and importance placed on technology at the organization. This is often seen in industries that are heavily physical or risk averse.
 
 The industries and business which impact lives or are dangerous such as medical care, drilling, oil and gas and government are often highly risk averse and areas are often also slower to move forward with innovation and for very good reasons. In these environments [Safety and Liability](safety_liability.md){:target="_blank"} often play extremely critical roles and therefore the architecture team may be more [Governance](governance.md){:target="_blank"} focused and the innovations used in the industry will be fewer than in less risk averse areas. This is very important and architects must be extremely aware of how to implement engagement models that allow for reasonable innovation while ensuring the outcomes are safe and secure.
 
-Is We Greater Than Me?
-----------------------
+## Is We Greater Than Me?
 
 This is something of a haunting question for architects. Value is achieved through cooperation and team work, but truly great architects also bring a vision of their own as well as a personal style. They are both great fascilitators and actual leaders. They drive but also listen, measure, ask questions and help others to be successful. The BTABoK competency model includes many human dynamics competencies.
 
@@ -121,8 +112,7 @@ There is a current concept of the servant leader, which Richard Webb speaks abou
 
 Innovation, leadership, team success, product success are all interrelated and the BTABoK is  built to capture techniques that work in industry including stakeholder, success and human dynamics techniques. These will be a strong focus for BTABoK 4.
 
-Innovation as a Service
------------------------
+## Innovation as a Service
 
 Some teams make innovation a fundamental part of their architecture practice. By building 'yes, let's try that' teams. This is similar to research and development but focuses on more lean startup principles and ideation methods. This innovation services of the architecture practice then allows the organization to try new ideas quickly with a pre-prepared innovation testing mechanishm, direct pilot/prototype mechanism and fast speed to full production and scaled products/projects process with direct architecture assignment (meaning architects have been proactively involved from ideation to delivery. This method can also relate to changing the culture in relation to digital innovation and stakeholders.
 
@@ -130,8 +120,7 @@ The following shows a Gartner version of the quick ideation and design thinking 
 
 ![image001](media/innovate006.png)
 
-Innovation and Future-Casting
------------------------------
+## Innovation and Future-Casting
 
 The idea that people can see the future is clearly ridiculous. What they can do is see what's around them, imagine what could be and tell stories about the future for others.
 
@@ -181,11 +170,9 @@ Figure 3 Signal Cards
 
 Figure 4 Future Casting Canvas
 
-References and Further Reading
-==============================
+# References and Further Reading
 
 [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/){:target="_blank"}
-
 
 **Reference BOLT assessment**
 [Reference BOLT assessment](http://www.b-mc2.com/learn/){:target="_blank"} and HBR article on Taxonomy of Innovation

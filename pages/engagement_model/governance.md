@@ -24,7 +24,7 @@ point out that it is a framework of structures and processes which allow
 the organization to operate according to a set of norms, values and
 policies.
 
-These norms, values and policies may be specific to the organization and
+These norms, values and policies may be specific to the organization and 
 to the industry sector the organization is involved in. For example,
 organizations in strongly regulated business sectors are also likely to
 have strong governance frameworks, since consequences of poor practices
