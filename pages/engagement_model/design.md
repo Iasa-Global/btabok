@@ -10,12 +10,8 @@ tags:
   - operating_model
 ---
 
-> “All architecture is design, but not all design is architecture.
-> Architecture represents the significant design decisions that shape the
-> form and function of a system, where ‘significant’ is measured by the
-> cost of change.”
-
-*Grady Booch*
+> "All architecture is design, but not all design is architecture. Architecture represents the significant design decisions that shape the form and function of a system, where 'significant' is measured by the cost of change."
+**Grady Booch**
 
 # Introduction
 
@@ -61,18 +57,7 @@ artifacts and are balanced in their response to stimuli.
 Jack Mostow suggests that the purpose of design is to create a solution
 that:
 
-> “Satisfies a given purpose 
-> 
-> Conforms to limitations of the target medium 
-> 
-> Meets implicit or explicit requirements on performance and resource
-> usage 
-> 
-> Satisfies implicit or explicit design criteria on the form of the
-> artifact 
-> 
-> Satisfies restrictions on the design process itself, such as its length
-> or cost, or the tools available for doing the design”
+> "Satisfies a given purpose Conforms to limitations of the target medium Meets implicit or explicit requirements on performance and resource usage Satisfies implicit or explicit design criteria on the form of the artifact Satisfies restrictions on the design process itself, such as its length or cost, or the tools available for doing the design"
 
 These goals are very often in conflict, giving the architect a complex series of tradeoffs to optimize. Designing anything is almost always an optimization problem but is especially true in software-intensive systems.
 
@@ -123,8 +108,7 @@ less capable options
 
 ![image001](media/design002.png) 
 
-> *Figure 2 Set-based vs point-based design -
-> https://www.scaledagileframework.com/set-based-design/*
+Figure 2 Set-based vs point-based design - https://www.scaledagileframework.com/set-based-design
 
 ## YAGNI – You Aren’t Going to Need It
 
@@ -144,18 +128,15 @@ Every design problem, set of requirements and principles serves to extend or lim
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
 ![image001](media/design003.png) 
-
-> *Figure 3 Architecture Landscape 1*
+Figure 3 Architecture Landscape 1
 
 ![image001](media/design004.png) 
-
-> *Figure 4 Architecture Landscape 2*
+Figure 4 Architecture Landscape 2
 
 ![image001](media/design005.png) 
+Figure 5 Architecture Landscape 3
 
-> *Figure 5 Architecture Landscape 3*
-
-### Options Come From Breadth and Depth
+## Options Come From Breadth and Depth
 
 The options to meet a requirement come from 4 primary areas which represent the 
 

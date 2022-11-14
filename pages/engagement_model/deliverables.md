@@ -16,13 +16,11 @@ So what are architecture deliverables? In general architecture deliverables are 
 
 Architecture deliverables often extend significantly further than a particular architecture description. They may include research into new technologies, they may include new business models and business cases. They may include proposals and power points to management or any number of and of deliverables documents for stake holders.
 
-Description
------------
+## Description
 
 In general architecture teams must describe and define their deliverables in a number of different fashions. First they should describe their deliverables in terms of stake holders. Second, they should define their deliverables in terms of ownership influence and importance. Finally, they should define the deliverables in terms of capabilities, domain and specialization.
 
-Themes
-======
+# Themes
 
 Deliverables connect the architect to the organization. As one CITA-Professional puts it, 'they are what we leave behind'. The architect deliverable is imagined to be a long lasting, well used part of the enterprise decision-making process and from time to time that is true. In many cases though architects work on deliverables that are simply influencers or are unused by stakeholders.Communication and Thinking over Documentation and Detailed Design
 
@@ -30,25 +28,21 @@ This point is reaffirmed in numerous places in the BTABoK. Architects are innova
 
 In the Iasa Engagement model, deliverables should be considered tools for thinking, communication and leadership instead of documentation or large detailed designs. The organization has many staff members of different types which create managed documentation and the architecture team is often a small percentage of these staff members. Every piece of documentation must be maintained over time. It therefore makes sense to create as little maintained documentation as possible over time.
 
-Don't Confuse Views and Viewpoints with Deliverables
-----------------------------------------------------
+## Don't Confuse Views and Viewpoints with Deliverables
 
 [Views and viewpoints](views.md){:target="_blank"} are used to describe a specific system (people, process and technology) inside an architecture description within a particular architecture [context](scope_context.md){:target="_blank"}. They should be left up to the architect to decide which are necessary in most cases. Deliverables on the other hand are items that the team delivers to the enterprise, client or organization. These are very often completely different things as deliverables may include meetings, presentations, influence, decision points in addition to an architecture description.
 
-Influence is not Ownership
---------------------------
+## Influence is not Ownership
 
 In numerous organizations the architects are primarily influencers of other teams deliverables. When doing a deliverables analysis, the architects should review the deliverables they own against those they only influence. While value focused influence may help the organization achieve its objectives, it is less helpful to the architects achieving a value oriented and well received engagement model as owners are traditionally given credit for successes and value. The architect team should strive to own the most valued business and technology strategy deliverables and their contents with a focus on owning *as a team* the business technology strategy of the organization. Note: in large teams many business architects will own pure business models which does not reduce the primary overall team recognition as business technology strategists.If No One Reads It, Dump It
 
 Based on architecture being communication and thinking over documentation, it is necessary to reduce the deliverables and the documentation steps for the team overall. Usage by stakeholders and the architecture team are the primary measures of efficacy in deliverables. A document which has not been opened in a year is likely less useful to the enterprise than one that is referenced daily by a stakeholder or the team. If it is not used, archive and delete it as it will slow down the agility of the overall team.
 
-Guidelines for Iasa Engagement Model
-====================================
+# Guidelines for Iasa Engagement Model
 
 In reality architects are challenged with numerous, often ephemeral, deliverables based on stakeholders demands and can find it difficult to say no to powerful stakeholders. This real constraint causes a lot of difficulty in determining exactly what an architecture team should create.
 
-Guidelines for Deciding Deliverables
-------------------------------------
+# Guidelines for Deciding Deliverables
 
 To develop an effective deliverables strategy consider the following elements:
 
@@ -59,8 +53,7 @@ To develop an effective deliverables strategy consider the following elements:
 5.  Team size -- The team size will determine the number of deliverables it can manage outside of the most essential to change management. Do not specialize the team and create large enterprise deliverables unless they are used and the team can maintain and own them over time without lessoning its focus on delivery.
 6.  Team makeup -- Take a full skills inventory of the team and ensure the teams skills are aligned with the deliverable ownership.
 
-Delivery Types and Outputs
---------------------------
+## Delivery Types and Outputs
 
 The following table lists the types of output & types of engagement delivered during each stage in the lifecycle the type is referenced throughout the engagement model indicating how an architect will be involved. Any of these elements may be considered deliverables if they are repeated multiple times by different architects in the architecture methodology.
 
@@ -74,8 +67,7 @@ The following table lists the types of output & types of engagement delivered du
 | **Decision ** | Decision made by appropriate governance structure (e.g. ISLT, ARB) |
 | **Influence ** | Any business contact where architecture can be promoted, leveraged or presented in the context of delivering business value. |
 
-Deciding on Deliverables
-------------------------
+## Deciding on Deliverables
 
 The engagement steering committee should decide on deliverables and then validate that model through the entire architecture practice using the following steps.
 
@@ -90,8 +82,7 @@ The engagement steering committee should decide on deliverables and then validat
 | **Templates and Guidelines ** | Where possible create a template list to ease the burden of deliverable creation and a common brand. Spend extra time on making these templates extremely attractive in line with the brand of the team. Update them regularly. |
 | **Architect Team Review ** | Have each member of the architect community validate the engagement deliverables (sitting out should not be an option). By creating buy off in this manner each architect will know what to deliver to what stakeholder and when. |
 
-Assign Deliverable Ownership
-----------------------------
+## Assign Deliverable Ownership
 
 Ownership of a deliverable does not end with the phase/project/product timeline in which it was created. Any deliverable which will retain its value over time should be assigned based on capability, internal domain and specialization.
 
@@ -99,8 +90,7 @@ Ownership of a deliverable does not end with the phase/project/product timeline 
 
 Figure 1 Deliverable Ownership
 
-Align Handoff Between Architects
---------------------------------
+## Align Handoff Between Architects
 
 Architects function at different stages and scopes around the enterprise lifecycle. The handoffs and deliverables should be aligned so that they always have an owner and are updated according to the appropriate phase, specialization and [scope](scope_context.md){:target="_blank"}.
 
@@ -108,8 +98,7 @@ Architects function at different stages and scopes around the enterprise lifecyc
 
 Figure 2 Example Deliverable Alignment Business to Solution
 
-Basic Engagement Model
-----------------------
+## Basic Engagement Model
 
 When using the Iasa Basic [Engagement Model](engagement.md){:target="_blank"} the following deliverables have been found to be most effective.
 
@@ -124,8 +113,7 @@ When using the Iasa Basic [Engagement Model](engagement.md){:target="_blank"} th
 | **Viewpoints and Views** |   |   | Per Viewpoint Description |
 | **Project Scorecards ** |   | Architect team |   |
 
- Advanced Engagement Model
---------------------------
+## Advanced Engagement Model
 
 The following table provides a detailed list of the architectural output that will be produced and managed as part of the advanced architect engagement model.
 
