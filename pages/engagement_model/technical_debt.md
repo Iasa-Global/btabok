@@ -10,19 +10,17 @@ tags:
   - value_model
 ---
 
-"It's OK to borrow against the future, as long as you pay it off."
+> "It's OK to borrow against the future, as long as you pay it off."
+**Ward Cunningham**
 
-Ward Cunningham
-
-Technical Debt Overview
-=======================
+# Technical Debt Overview
 
 The concept of Technical Debt is commonly used, and misused, in [agile](agility.md){:target="_blank"} projects. When used correctly it can be a valuable way of delivering business value early and avoiding waste, when used badly it can lead to fragile products which become harder and harder to change. Architects need to understand when to use the concept in the right way to help deliver value for the business.
 
 **A definition:**
-Technical Debt consists of design or implementation constructs that are expedient in the short term but that set up a technical context that can make a future change more costly or impossible. Technical debt is a contingent liability whose impact is limited to internal system qualities -- primarily, but not only, maintainability and evolvability      
 
- Kruchten, Nord and Ozkaya "Managing Technical Debt" -- 2019
+> Technical Debt consists of design or implementation constructs that are expedient in the short term but that set up a technical context that can make a future change more costly or impossible. Technical debt is a contingent liability whose impact is limited to internal system qualities -- primarily, but not only, maintainability and evolvability.
+**Kruchten, Nord and Ozkaya "Managing Technical Debt" -- 2019**
 
 The term was first used by Ward Cunningham, one of the authors of the Agile Manifesto, who said that some problems with code are like financial debt. It is OK, and even beneficial, to borrow against the future, as long as you pay it off quickly by refactoring the code. Unfortunately, the last part of the statement gets ignored which has led to technical debit becoming a significant problem in many organisations.
 
@@ -38,8 +36,7 @@ In recent years the use of the term has exploded everywhere, now all teams seem 
 
 This classification is useful because different approaches are needed to manage them.
 
-The Debt Metaphor
------------------
+## The Debt Metaphor
 
 We can look at financial debt management for some interesting guidance on how to cope with technical debt. The debt metaphor is appropriate because taking a shortcut design choice incurs a cost/debt "principal" just like a financial debt, typically the cost to get from the shortcut design to the correct design. It is useful because it helps to understand the problem and provides a mechanism to explain it to non-technical [stakeholders](stakeholders.md){:target="_blank"}.
 
@@ -51,8 +48,7 @@ There are problems with the metaphor, generally when we think of a financial deb
 
 In the longer term, technical debt and the tradeoffs an organization will make, will have increased impacts and consequences for the ability of organizations to exploit the technology investments in the future. Industry commentator quote very large numbers for the negative financial impacts of technical, the Developer Co-efficient [4] from Stripe.com in September 2018 quoted $300 Billion impact on global GDP as the cost of software inefficiencies, of which technical debt was foremost.
 
-Not Technical Debt
-------------------
+## Not Technical Debt
 
 There is a tendency to call anything that is less than perfect technical debt, probably because it creates a false legitimacy, as technical debt is part of the agile ethos now. There is general agreement that the following should definitely not be called technical debt:
 
@@ -61,8 +57,7 @@ There is a tendency to call anything that is less than perfect technical debt, p
 -   Lack of Process is not Technical Debt -- but lack of process, the wrong process or failure to follow process can result in inappropriate technical debt occurring
 -   New features not yet implemented (for whatever reason) are not Technical Debt, but insufficient initial requirements can lead to shortcuts being taken to plug the perceived gaps introducing Technical Debt
 
-Causes of Technical Debt
-------------------------
+## Causes of Technical Debt
 
 There are a number of causes of poor design, these have been classified by Martin Fowler into
 
@@ -75,8 +70,7 @@ There are a number of causes of poor design, these have been classified by Marti
 
 In fact, only top right quadrant fits the original definition of Technical Debt, being a conscious decision taken for sound business reasons.
 
-Reasons for Technical Debt
---------------------------
+## Reasons for Technical Debt
 
 There are several valid business reasons for an organization incurring significant technical debt. Where the business model is being disrupted by change you may need to react very quickly to stay alive as business and take sub-optimal decisions around your technology choices.
 
@@ -86,11 +80,9 @@ One of the less obvious causes of significant technical debt is a code rewrite o
 
 Mergers and acquisitions are a prime source of technical debt, here you purchase the debit either knowingly or inadvertently. Many acquisitions come with products that contain high levels of technical debt, it can be one of the main reasons the owner wants to sell, often new business startups are highly focused on getting features quickly to market and take shortcuts with delivery.
 
-Approach to technical debt
-==========================
+# Approach to technical debt
 
-Managing technical debt
------------------------
+## Managing technical debt
 
 It is obvious that technical debt in not going to go away by it's own, so organizations are actively managing it then. Actually, they are not, Carnegie Mellon surveyed 1800 organizations, it can be seen in the chart below that 65% had no standard approach to dealing with technical debit.
 
@@ -106,8 +98,7 @@ The different types of technical debt need to be managed in different ways, by d
 
 Managing technical debt is not easy and depends on the organizational context, but there are some activities which can help.
 
-Measuring Technical Debt
-------------------------
+## Measuring Technical Debt
 
 It is essential to be able to measure debt to be able to manage it​, this gives a number of benefits:
 
@@ -118,8 +109,7 @@ It is essential to be able to measure debt to be able to manage it​, this gi
 
 As part of keeping control of technical debt the expectations must clear, by having the right things in place such as: a definition of done which includes Quality Attributes, coding standards and peer reviews in place, IT Principles, and capturing your decisions to incur technical debt using an ADR or an Architecture Loan Request for a significant issue.
 
-Handling Technical Debt
------------------------
+## Handling Technical Debt
 
 It is useful to assess the technical debt you currently have on a periodic basis to understand if it is growing faster than it is being addressed. This is of course dependent on having captured in a usable form, these can be as technical stories on the Product Backlog.
 
@@ -133,11 +123,9 @@ Once there is a reasonable understanding of what the position is with regards to
 
 ![image001](media/t_d003.png)
 
-Methods and tools
-=================
+# Methods and tools
 
-SQALE
------
+## SQALE
 
 **S**oftware **Q**uality **A**ssessment based on **L**ifecycle **E**xpectations (SQALE) is an extensive OpenSource standardized framework with the objectives of:
 
@@ -156,8 +144,7 @@ In summary, organizations can used SQALE to establish their own concrete definit
 
 At the basic level it can give a baseline of the current technical debt levels start to work from and can then be incorporated into the SDLC and CI or Regression to generate live dashboards to see the impact of each build on the debt backlog.
 
-SonarQube
----------
+## SonarQube
 
 SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages. It can be used to implement the SQALE method.
 
@@ -165,8 +152,7 @@ It implements all the SQALE metrics with dashboard visualizations and Plugins ca
 
 Details available on [www.sonarsource.com](http://www.sonarsource.com/){:target="_blank"}
 
-Architecture Loan Request
--------------------------
+## Architecture Loan Request
 
 The Architecture Loan Request is a canvas that can be used to capture significant decisions to incur significant Technical Debt. It is particularly powerful because it encourages clarification of the approach to paying back that debt.
 
@@ -174,13 +160,11 @@ Work with the Product Owner to identify the business value delivered by the deci
 
 ![image001](media/t_d004.png)
 
-Summary
-=======
+# Summary
 
 In summary Technical Debit is a complex topic, it can be used as valuable tool to deliver business value early, or a convenient way to cover up poor investment decisions. As an architect, whenever you use it or come across it, the key thing is to capture as much context as you can and identify a plan to address it.
 
-References and Further Reading
-==============================
+# References and Further Reading
 
 **Kruchten, Nord and Ozkaya "Managing Technical Debt" -- 2019**
 

@@ -10,12 +10,10 @@ tags:
   - value_model
 ---
 
-"Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it."
-
-Alan Perlis
+> "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it."
+**Alan Perlis**
  
-Complexity definition
-=====================
+# Complexity definition
 
 Many ideas exist on the definition of complexity. We find 'Complex' is defined in Cynefin, a framework created by Dave Snowden based on his works. Complex can also be found within VUCA, used by the US war college and created by Warren Bennis and Burt Nanus.
 
@@ -25,8 +23,7 @@ Most, if not all of the systems we use in technology today are not Complex, howe
 
 An acceptable definition of Complexity is something we do not yet have the tools to know and to understand, therefore we cannot easily predict patterns and behaviors.
 
-Guidance on identifying Complexity
-----------------------------------
+## Guidance on identifying Complexity
 
 Technology systems are 'Complex adaptive' not 'Complex systems'. We have designed and built technology systems therefore we have the tools and understanding of how they work. Technology systems may be 'Complicated', but they are not 'Complex'.
 
@@ -40,7 +37,7 @@ We can also look to VUCA (Bennis/Nanus 1987), an acronym that draws out the key 
 
 Antifragile (Taleb Nassim-Nicholas) also provides us with a view on how fragility causes systems to fail, this introduces concepts on how systems can adopt properties to make them anti-fragile.
 
-### Importance of designing complex adaptive systems and why Architects should care?
+## Importance of designing complex adaptive systems and why Architects should care?
 
 System failures are often attributed to unintended and unknown consequences due to an unexpected event. Whilst we build systems to withstand known failures through robust and thorough functional testing, we cannot test for the unknowns because we do not know they exist.
 
@@ -54,7 +51,7 @@ If we think of the components of an aircraft system, it is not tested against ev
 
 The laws of entropy in the universe determine that everything decays over time, our job as Architects is to provide robust systems and solution that do not materially decay during their expected lifetime of use. We must apply resilience where possible, we must apply redundancy where possible within the boundaries of context we are within. This means we do not unnecessarily overengineer solutions where the cost outweighs the benefits, however we do design solutions that are sustainable and robust to the Complex environment.
 
-### Dealing with Complexity -- Method
+## Dealing with Complexity -- Method
 
 Some key principles can be applied to any design to enable it to respond to Complex environment stressors making it more resilient to failure. We can also apply principles to gain opportunities and competitive advances from external stressors.
 
@@ -96,8 +93,7 @@ Stressors are NOT [risks](risk_methods.md){:target="_blank"} and we do not measu
 
 Apply context to your [design](design.md){:target="_blank"}. Think about how impactful particular stressor could be should they occur. For example, a global communications system would be very important in a disaster scenario such as a meteor impact, however this stressor would be less impactful to the ordering system for a local Pizza shop.
 
-Summary
--------
+## Summary
 
 Architects should have a basic understanding of Complexity and how it impacts design.  It is important to differentiate Complexity (unknown, unpredictable), from Complicated (known, just very difficult).
 
@@ -105,8 +101,7 @@ Complex environments need trial and error to solution for, novelty is important 
 
 Dealing with complexity requires adaptability, agility and innovation. Be prepared to continuously adapt designs and be wrong. Constantly ask questions "What will break this design?", "What are the impacts?", "Does it matter?".
 
-References
-==========
+# References
 
 **Dave Snowden -- Cynefin**
 

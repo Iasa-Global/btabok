@@ -10,9 +10,8 @@ tags:
   - value_model
 ---
 
-"I saw in details while she saw in scope. Not seeing the scope is why I am here and she is not. I took each element spearately and never looked to see that they never did fit together properly."
-
-Erin Morgenstern, The Night Circus
+> "I saw in details while she saw in scope. Not seeing the scope is why I am here and she is not. I took each element spearately and never looked to see that they never did fit together properly."
+**Erin Morgenstern, The Night Circus**
 
 Scope and context are the dual sides of understanding an architecture engagement based on its level of impact and the environment within which it occurs. The clarity of scope and context can save an architect or a team a great deal and are as important as any document or technology technique. Without them the architect
 
@@ -20,8 +19,7 @@ In architecture, scope refers to the amount of business technology strategy impa
 
 For architecture to be successful it must be effective in both the scope it engages in as well as the contexts in which it occurs. This means that the architecture team must make clear scoping decisions about its engagement.
 
-Levels of Scope in the BTABoK 
------------------------------
+## Levels of Scope in the BTABoK 
 
 The BTABoK contains many references to scope. The following diagram depicts the relationships within the meta-model and the glossary defines them for their use in practice.
 
@@ -33,7 +31,7 @@ The BTABoK contains many references to scope. The following diagram depicts the 
 | Enterprise | The enterprise or organization is the entirety of the company or legal entity. It includes all forms of business and organizational models. |
 | Value Stream | [Value streams](value_streams.md){:target="_blank"} allow the team to organize around customer or constituent facing flows through the organization. Beyond portfolio they are becoming extremely common methods of organizing work and architecture practice. |
 | Domain | Domain scope has been a loose term and is often also used in conjunction or as a synonym for platform. The domain scope is used to denote a depth area of technical or business. Thus there may be a focus on the data domain, the integration domain or the security domain or the accounting domain.   |
-| Capability | Capability scope are all of the elements including in a business capability or a service as defined in the itabok. They are the 2^nd^ and 3^rd^ level activities that a company executes to perform its mission. |
+| Capability | Capability scope are all of the elements including in a business capability or a service as defined in the BTABoK. They are the 2^nd^ and 3^rd^ level activities that a company executes to perform its mission. |
 | Application/Product Portfolio | The product portfolio contains the applications, products and tools within the enterprise. This is most commonly used to understand the number of customer, purchased or rented products the enterprise uses to deliver its mission. |
 | Project Portfolio | The project portfolio contains the current and future work streams or change projects for the enterprise. It may overlap the product portfolio in custom applications by aligning with a teams work product. |
 | Program | A program is a grouping of teams or projects into a similar or linked group of work. Programs are contained within portfolios. |
@@ -41,8 +39,7 @@ The BTABoK contains many references to scope. The following diagram depicts the 
 | Product/Project | Products and projects are used synonymously within a group of architects when they apply team dynamics to its delivery. The project is the grouping of work to be done and the product is the output. |
 | Implementation/Code | The lowest level of scope is related to code or implementation levels. At this level the architect or team is dealing with patterns, structural concerns, quality attributes, code quality and similar concerns. |
 
-Context
--------
+## Context
 
 Context is "The set of circumstances or facts that surround a particular event, situation, etc."
 

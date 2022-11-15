@@ -10,7 +10,7 @@ tags:
   - operating_model
 ---
 
-> “The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems.”
+> "The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems."
 **Paul Preiss**
 
 # Architecturally Significant Requirements
@@ -60,8 +60,7 @@ The following describe categories of impact which potentially make a requirement
 4.  Requirements which are deeply political or have an executive champion.
 5.  Requirements which imply innovative business models or approaches.
 
-“The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems.”
-
+> "The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems."
 **Paul Preiss**
 
 Architects are(n’t) engineers (btabok principle), which impacts the level and type of requirements to help understand critical design decisions but doing so based on best case overall value. Define what makes for a relevant architecture decision. Although this is a complicated topic in more mature environments which should use a calculation based on strategic importance.
