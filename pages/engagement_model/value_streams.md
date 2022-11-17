@@ -10,8 +10,7 @@ tags:
   - value_model
 ---
 
-Definition
-==========
+# Definition
 
 Value Streams represent  how and organisation configures it's [business capabilities](business_capabilities.md){:target="_blank"} to deliver value to an internal or external [stakeholder](stakeholders.md){:target="_blank"} typically a customer. The value streams explains how the core value proposition or elements of that value proposition are enabled by the organisations business capabilities. Within more complex Value Chains or within [Ecosystems](ecosystem.md){:target="_blank"} this will include Business Capabilities performed by partners or other Ecosystem participants.
 
@@ -19,18 +18,15 @@ Value streams respond to events or signals that trigger or indicate that a stake
 
 **Disambiguation**: Lean Value Stream mapping -- Lean Value Stream Maps also describe the flow of value resulting from the execution of a set of steps to deliver value to the customer. Value Stream Maps describe the flow of both materials, information and activities within an organisation. Value Stream Maps are 'how' focused, they describe the detail of flows with an objective of identifying and eliminating waste. Value Streams as defined here are 'what' focused (business capabilities are 'what and organisation does. The objective is to understand value flow and value configuration. Both techniques are valuable however the level of detail and is different value stream mapping is typically implementation level detail -- who, with what. Value streams are design and analytical tools at a less granular level of detail.
 
-Why it matters?
-===============
+# Why it matters?
 
 Whether you are trying to bring a new product or service to market, merge or acquire, change your sourcing, transform digitally, enter new markets or optimise operations you will need to understand how value flows to customers and other stakeholders through your organisations capabilities. Value Streams are a method for value configuration in your organisation and allow architects to understand how value flows can be optimised. The challenges that can be revealed and solved using this technique include indiscrimination of customer segments (i.e. standardising where specialisation was more appropriate), understanding dependencies of and linkages between capabilities, understanding impact of regulatory or legislative changes, identifying structural waste and inefficiencies, internationalisation or customisation of products/services, creating new value streams using existing capabilities and last but not least Service Orientation and the designing loosely coupled systems.
 
-Details
-=======
+# Details
 
 Value Streams a or Capability Value Streams represent a viewpoint that capture value flow through capabilities. This method depends on the concept of business capabilities and the discipline of capability mapping [explained BUSINESS CAPABILITIES]. The practices emerged  as a result of the inadequacies of other methods namely  organisation charts, process flow diagrams and technical blueprints as ways of explaining what an organisation does and how if delivers value. Value Streams are an extension of business capability models and allow an architect to map the flow of value through and organisation and understand what services are involved in the delivery of that value.
 
-Capabilities, Services  & Value Streams
----------------------------------------
+## Capabilities, Services  & Value Streams
 
 Capabilities are linked to each other by services, services in this context are used in a general sense and should not be assumed to be 'web services' or 'micro-services'. The connection between Business Capabilities is via Services and each pair form a consumer/provider pair. From a stakeholder perspective the capabilities are only experienced via the services that expose them, they act as a semi-porous skin on the organisation. From outside and organisation capabilities are only apparent through the services that realise them, their internal working are unclear and may be inferred but not obvious e.g. Uber provides a car-ordering service and a trip-payment service.  These provide tangible evidence that Uber must have some sort of car logistics capability, and payments capabilities but its precise inner workings are not visible.
 
@@ -38,38 +34,33 @@ Capabilities are linked to each other by services, services in this context are 
 
 Figure 1: Business Services
 
-Events, Demand Signals & Value Streams
---------------------------------------
+## Events, Demand Signals & Value Streams
 
 Value Streams are triggered by specific events resulting from external stakeholder actions e.g. placing an order for a domino's pizza. Events can result from specific commands from stakeholders e.g. Command: Place Order/Event: Order Received , time-based e.g. fixed: end of month or relative: 5 days since event occurred. Demand Signals are the signals passed along the Value Stream between services you can think of them as messages exchanged between cooperating services that enable value to flow.
 
-Proven Practices
-================
+# Proven Practices
 
-Key Deliverables
-----------------
+## Key Deliverables
 
 There are many ways of capturing and the output from a Capability Value Stream, however there is no one standard approach or definition of output. The key to this as with other techniques is to ensure that the deliverable addresses the concerns of the stakeholders. Formal modelling and analysis are useful and create tangible outputs however, the techniques do not depend on any language or toolset
 
-Finding Value Streams
----------------------
+## Finding Value Streams
 
 Step 1 in any Value Stream activity is finding the value streams. A number of starting points exist depending on the context.
 
-### Customer Starting Points
+## Customer Starting Points
 
 -   Option 1: Products/Service -- The easiest starting point is with Products/Services as the tangible manifestation of value as understood by a customer
 -   Option 2: Business Model  -- start with the companies business model and explore the value proposition
 -   Option 3: Ancillary Business Services -- Pre/Post activities- returns, faults, complaints, billing, information
 
-### Other Stakeholder Starting Points
+## Other Stakeholder Starting Points
 
 -   Option 4: Financial -- find and follow the money
 -   Option 5: Operational -- find and follow the activity
 -   Option 6: [Governance](governance.md){:target="_blank"} -- find and follow the outcomes (rules, policies, principles)
 
-Capability Value Stream Mapping
--------------------------------
+## Capability Value Stream Mapping
 
 *Goal: Understand the value flow*
 
@@ -84,12 +75,12 @@ Figure 2: Archimate 3 -- Generic Capability Value Stream -- Descriptive
 
 The Value Stream describes the value flow, the connections between capabilities indicate boundaries. Concepts such as Bounded Contexts from Domain Driven Design provide a useful way of organising elements of the map. Each exchange between capabilities can be subsequently modelled as a Service Interaction between a consumer & a provider. This approach lends itself to the identification and development of Service Models supporting collaboration across Capabilities.
 
-### Scenarios for Use
+## Scenarios for Use
 
 -   Scenario 1: Organisation has an existing Business Capability Model covering the domain
 -   Scenario 2: Organisation has no business capability model and no familiarity with business capability thinking
 
-### Steps
+## Steps
 
 Step 1: Value Stream Storming
 
@@ -128,12 +119,12 @@ Each Capability exhibits a level of Performance based on the efficiency and effe
 
 TODO: Figure 4: Capability Value Stream
 
-### Scenarios for Use
+## Scenarios for Use
 
 -   Scenario 1: Organisation has an existing Business Capability Model covering the domain with performance pre-measured (see Figure 3)
 -   Scenario 2: Organisation has no business capability model, capabilities must be captured and performance measured
 
-### Steps
+## Steps
 
 Step 1: Map Capability Performance to the Capability Value Stream
 
@@ -167,12 +158,12 @@ Capabilities come in all shapes and sizes. Capability Contribution captures the 
 
 Figure 5: Capability Contribution
 
-### Scenarios for Use
+## Scenarios for Use
 
 -   Scenario 1: Organisation has an existing Business Capability Model covering the domain with contribution pre-measured (see Figure 3)
 -   Scenario 2: Organisation has no business capability model, capability contribution is no
 
-### Steps
+## Steps
 
 Step 1: Map Capability Contribution to the Capability Value Stream
 

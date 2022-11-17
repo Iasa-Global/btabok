@@ -10,8 +10,7 @@ tags:
   - value_model
 ---
 
-Value Methods
-=============
+# Value Methods
 
 As the practice improves [competencies](../competency_model/competency_model_m.md) at describing value in order to get projects funded, it can provide measurement tooling so the operations team can capture evidence based on metrics and can capture additional evidence over time. Once done, it provides the CxO the information they need to provide evidence of business impact delivered through technology. Through effort, this can over time or sometimes quickly shift attitudes about architecture and allow earlier access in the lifecycle which can be leveraged to create even greater impact.
 
@@ -25,8 +24,7 @@ The reality is that Architecture is not a business function and doesn't show up 
 
 Architecture as a business discipline creates value. And this holds true whether it is Enterprise Architecture, Business Architecture, Software Architecture, Information Architecture, Integration Architecture, Infrastructure Architecture, Security Architecture, or any other form of Architecture. Wherever the Architect is practicing his or her craft, the chances that value will be realized go up. Way up.
 
-Why Are Value Methods Important to Architects
-=============================================
+# Why Are Value Methods Important to Architects
 
 *Because everyone wants better business and technology outcomes.*
 
@@ -148,8 +146,7 @@ It is the quality of the work product delivered (or activity performed) by the A
 
 Which begs the question, how does one measure that?
 
-The Four Most Common Methods
-============================
+# The Four Most Common Methods
 
 The purpose of measuring value is to help make decisions on whether to invest or not and once executed, to determine if that investment is realizing the expected benefits. As a result, value measurements may require some hard work, math, and plenty of analysis. Measuring value can sometimes have limits where the return on investment is non-financial or where it merely enables some other value-producing effort. For example, to measure the Value of the SuperWidget to the company, we may be looking at any of the following:
 
@@ -168,7 +165,7 @@ In order to measure the value of an Architect's contributions they are often stu
 3.  the **Revenue** realized
 4.  the T**imeliness** of the effort.
 
-### Quality
+## Quality
 
 Measuring Value by assessing quality of what has been delivered is useful across many delivery scenarios. In addition, it is especially useful in cases where risk and compliance, security and privacy or even simple customer experience issues are paramount. Did quality improve? If so, by how much?
 
@@ -219,7 +216,7 @@ An Architect impacts Quality by delivering or performing any of the following:
 
 Any positive Quality measurement is attributable, at least in part, to the Architect and Architecture. This would then become part of the Value Story and articulated as such.
 
-### Cost
+## Cost
 
 A cost perspective on delivering Value would be useful in scenarios where operational efficiencies are being sought. For example, application rationalizations, budget cuts or post-merger integrations are prime scenarios for this type of measure. In these cases, a large reduction in run-rate operating cost (cost reduction) or a large planned cost not incurred (cost avoidance) is associated with a large amount of Value delivered. What was the cost of delivering the output and was this less than expected?
 
@@ -261,7 +258,7 @@ Any successful Cost Reduction or Cost Avoidance effort is attributable to analys
 
 ![image001](media/v_m004.png)
 
-### Revenue
+## Revenue
 
 The measurement of Value most often used is based on the metric of Revenue. This makes sense since revenue is perhaps the most clearly visible result of the delivery of Project X or Program Y and is reported monthly, quarterly and annually. Measuring Value by comparing revenue is most useful in scenarios that involve discreet products and services or other offerings with a direct association to a line of business. What was the revenue derived from the output of the effort?
 
@@ -301,7 +298,7 @@ An Architect impacts Revenue when delivering or performing any of the following:
 
 New Revenue or Increased Existing Revenue is a result of the entire effort. It is difficult to attribute any portion of this Value directly to, say, a really good Capability Model. But as in the examples above, the rigor that Architecture brings to delivering the product or service is an important aspect of the Value equation and should be front and center in the Value Story.
 
-### Timeliness
+## Timeliness
 
 The fourth most common way to measure Value is to assess the time to market. The oft-quoted phrase that time is money has some bearing on this. This is a useful metric for determining Value in scenarios involving net-new products or services, partnerships with third parties, regulatory compliance efforts, and efforts that are tied to the calendar year (e.g. open enrollment at a health payor). How long did it take to deliver the output and was this less than expected?
 
@@ -337,7 +334,7 @@ An Architect impacts Timeliness when delivering or performing any of the followi
 -   Stakeholder Communication
 -   Engagement Models
 
-### The Value Measure
+## The Value Measure
 
 While these four approaches to measuring outcomes will produce the metric needed to demonstrate Value delivery by Architecture, the metric alone is useless if it is not paired with a compelling narrative. In the case of Revenue as a Value metric, it is extremely difficult to tie part of a revenue increase directly to an Architecture activity or work-product. The case can still be made, however, with a good narrative produced for the right audience backed by the underlying data.
 
@@ -350,7 +347,7 @@ The challenge with trying to describe value is in determining how value will be 
 
 ![image001](media/v_m010.png)
 
-### Constituent and Operational Value
+## Constituent and Operational Value
 
 ![image001](media/v_m011.png)
 
@@ -358,7 +355,7 @@ This value category includes operational measures and stakeholder measures. Thes
 
 To understand how to measure success in this category think about the way you would measure a successful manufacturing line. How quickly items come off the line? How many defects are there per 100 items?
 
-### Simplicity and Reuse
+## Simplicity and Reuse
 
 Simplicity and reuse are one of the most commonly mentioned value categories but surprisingly little is known about how to measure them. Making something simpler is difficult to describe in relation to making it more flexible.
 
@@ -369,7 +366,7 @@ Simplicity and reuse are one of the most commonly mentioned value categories but
 
 ![image001](media/v_m012.png)
 
-### Market Dynamics
+## Market Dynamics
 
 Critical market changes are driven by technology innovation whether it is disruptive or incremental. The architect team should measure impacts and use innovation methods to look at possible market impacts. Competitive analysis tools and market trend techniques are invaluable.
 
@@ -381,7 +378,7 @@ Critical market changes are driven by technology innovation whether it is disrup
 
 ![image001](media/v_m013.png)
 
-### Doing Good
+## Doing Good
 
 Most government agencies and non-profits use separate tools from their for profit counterparts as they are not in the business to make money but to provide value to their citizen, stakeholder or mission. The do good category is used to describe value in these scenarios.
 
@@ -391,8 +388,7 @@ Most government agencies and non-profits use separate tools from their for profi
 
 To be effective in growing and innovating in this space it is necessary to extend beyond the cost savings and reuse space and extend into the benefits space. To do this for a business case rate the business case on its target achievements and give them a score in relation to your overall mission. For example, at Iasa, holding an event for architects may get a value to membership rating of 2 (on a scale from one to ten) but the development of a accreditation for masters degrees in architecture gets a 8. These may be arbitrary scales but they will keep you focused on innovation as opposed to simple cost reduction.
 
-References
-==========
+# References
 
 **IT Value Network: From Investement to Stakeholder Value**
 
