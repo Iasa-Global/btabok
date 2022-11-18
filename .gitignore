@@ -7,3 +7,11 @@ _pdf
 vendor/
 .bundle/
 *.backup
+/.vs/VSWorkspaceState.json
+/.vs/btabok/config/applicationhost.config
+/.vs/btabok/FileContentIndex/read.lock
+/.vs/btabok/FileContentIndex/write.lock
+/.vs/btabok/FileContentIndex/merges
+/.vs/btabok/FileContentIndex
+/.vs/btabok/v17
+/.vs/slnx.sqlite
