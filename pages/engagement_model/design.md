@@ -150,9 +150,9 @@ Figure 6 Ensuring Design Matches Objectives
 
 ## Design For Structural Concerns
 
-In bridge design, the nature of the crossing, and the length of the span in particular, have the most influence on the resulting design. Together, the different aspects of the crossing form the environment or [context ](scope_context.md) for the bridge. These will impact all aspects of the design process, much like corporate or company culture, location and business type will inform all aspects of architecture decision making. As the span lengthens, the types of bridges you can build become more constrained, to the point that for spans over 1000 feet, you basically have three options.
+In bridge design, the nature of the crossing, and the length of the span in particular, have the most influence on the resulting design. Together, the different aspects of the crossing form the environment or [context ](scope_context.md){:target="_blank"}for the bridge. These will impact all aspects of the design process, much like corporate or company culture, location and business type will inform all aspects of architecture decision making. As the span lengthens, the types of bridges you can build become more constrained, to the point that for spans over 1000 feet, you basically have three options.
 
-So it is with technology systems. The [context ](scope_context.md) in which the system will live has as much influence to the design as the functional, quality attribute and constraint requirements. 
+So it is with technology systems. The [context ](scope_context.md){:target="_blank"}in which the system will live has as much influence to the design as the functional, quality attribute and constraint requirements. 
 
 The main influences over the design are:
 
@@ -298,58 +298,36 @@ The ever-increasing complexity of software, the difficulty of the tasks it is be
 
 # References
 
-**Booch, Grady, “On Design”, *Handbook of Software Architecture:
-Blog***,   
-http://handbookofsoftwarearchitecture.com
+**Booch, Grady, “On Design”, *Handbook of Software Architecture: Blog***, [http://handbookofsoftwarearchitecture.com](http://handbookofsoftwarearchitecture.com){:target="_blank"}
 
-**Boasson, Maarten, The Artistry of Software Architecture. *IEEE
-Software, November, 1995, 12*(6), 13-16.**
+**Boasson, Maarten, The Artistry of Software Architecture. *IEEE Software, November, 1995, 12*(6), 13-16.**
 
-** Mostow, Jack, Towards Better Models of the Design Process. *AI
-Magazine, *1985, *6*(1)**
+**Mostow, Jack, Towards Better Models of the Design Process. AI Magazine, 1985, 6(1)**
 
-**Petroski, Henry *To Engineering is Human: The Role of Failure in
-Design, *St. Martin’s Press, New York, New York: 1985.**
+**Petroski, Henry *To Engineering is Human: The Role of Failure in Design, *St. Martin’s Press, New York, New York: 1985.**
 
-**Whitmire, Scott A., *Engineer Your Software!*, Synthesis Lectures on
-Algorithms and Software in Engineering, Andreas Spanias (Series Ed.),
-Morgan & Claypool, San Rafael, CA: 2021.**
+**Whitmire, Scott A., *Engineer Your Software!*, Synthesis Lectures on Algorithms and Software in Engineering, Andreas Spanias (Series Ed.), Morgan & Claypool, San Rafael, CA: 2021.**
 
-**DeMarco, Tom, *Controlling Software Projects.* Yourdon Press ,
-Englewood Cliffs, New Jersey:1982.**
+**DeMarco, Tom, *Controlling Software Projects.* Yourdon Press ,Englewood Cliffs, New Jersey:1982.**
 
-**Whitmire, Scott A., *Object Oriented Design Measurement.* John Wiley &
-Sons, New York, New York: 1997.**
+**Whitmire, Scott A., *Object Oriented Design Measurement.* John Wiley & Sons, New York, New York: 1997.**
 
-**Yuan, George, A Depth-First Process Model for Object-Oriented
-Development with Improved OOA/OOD Notations. *Report on Object-Oriented
-Analysis and Design, 2*(1), May/June, 1995, 23-37.**
+**Yuan, George, A Depth-First Process Model for Object-Oriented Development with Improved OOA/OOD Notations. *Report on Object-Oriented Analysis and Design, 2*(1), May/June, 1995, 23-37.**
 
-**Alexander, Chrostopher, Ishikawa, Sara, Silverstein, MMurray,
-Jacobson, Max, Fiksdahl-King, Ingrid, & Angel, Shlomo, *A Pattern
-Language: Towns, Bulidings, Construction.* Oxford University Press, New
-York, New York: 1977.**
+**Alexander, Chrostopher, Ishikawa, Sara, Silverstein, MMurray, Jacobson, Max, Fiksdahl-King, Ingrid, & Angel, Shlomo, *A Pattern Language: Towns, Bulidings, Construction.* Oxford University Press, New York, New York: 1977.**
 
-**Buschmann, Frank, Meunier, Regine, Rohnert, Hans, Sommerlad, Peter, &
-Stal, Michael, *Pattern-Oriented Software Architecture: A System of
-Patterns* (Vol. 1), John Wiley & Sons, New York, New York: 1996.**
+**Buschmann, Frank, Meunier, Regine, Rohnert, Hans, Sommerlad, Peter, & Stal, Michael, *Pattern-Oriented Software Architecture: A System of Patterns* (Vol. 1), John Wiley & Sons, New York, New York: 1996.**
 
-**Gamma, Erich, Helm, Richard, Johnson, Ralph, & Vlissides, John
-, *Design Patterns: Elements of Reusuable Object-Oriented
-Software,* Addison-Wesley, Reading, Massachusetts: 1995.**
+**Gamma, Erich, Helm, Richard, Johnson, Ralph, & Vlissides, John , *Design Patterns: Elements of Reusuable Object-Oriented Software,* Addison-Wesley, Reading, Massachusetts: 1995.**
 
-**Martin, Robert C., *Clean Architecture: A Craftsman’s Guide to
-Software Structure and Design.* Prentice Hall, New York, New York:
-2018.**
+**Martin, Robert C., *Clean Architecture: A Craftsman’s Guide to Software Structure and Design.* Prentice Hall, New York, New York: 2018.**
 
-**Acaroglu, Leyla, “Tools for Systems Thinkers: The 6 Fundamental
-Concepts of Systems Thinking”, Disruptive Design Blog,**   
-https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a
+**Acaroglu, Leyla, “Tools for Systems Thinkers: The 6 Fundamental Concepts of Systems Thinking”, Disruptive Design Blog,**   
+[https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a){:target="_blank"}
 
 **Brown, Tim, Design Thinking. Harvard Business Review, June 2008.**
 
-**Petroski, Henry, *Invention by Design: How Engineers Get from Thought
-to Thing*, Harvard University Press, Camebridge, MA: 1996.**
+**Petroski, Henry, *Invention by Design: How Engineers Get from Thought to Thing*, Harvard University Press, Camebridge, MA: 1996.** 
 
 ![image001](media/by-nc.png)
 

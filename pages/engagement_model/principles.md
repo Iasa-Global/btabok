@@ -175,19 +175,13 @@ If an organization's principles illustrate how they decide, what are your princi
 **Agile architect**
 [http://www.agilearchitect.org/agile/principles.htm](http://www.agilearchitect.org/agile/principles.htm){:target="_blank"}
 
-**Quicken Loans' ISMs**
-[https://dev-qlpr.pantheonsite.io/fast-facts/#isms](https://dev-qlpr.pantheonsite.io/fast-facts/#isms){:target="_blank"}
 
 **Matt Kern and agile principles**
 [https://www.linkedin.com/pulse/post-agile-principles-matthew-kern/](https://www.linkedin.com/pulse/post-agile-principles-matthew-kern/){:target="_blank"}
 
-**Technical AWS principles**
-**<https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/>
-[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
 
 **AWS hiring principles**
-**<https://www.amazon.jobs/en/principles>
-[Agile Alliance](https://www.agilealliance.org/){:target="_blank"}
+[https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

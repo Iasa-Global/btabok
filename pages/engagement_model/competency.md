@@ -181,13 +181,11 @@ The European e-CF is an IT skills framework which lists architecture as a set of
 
 # References and further reading
 
-<https://www.researchgate.net/publication/224905497_The_Enterprise_Architecture_Competence_Framework>
+[https://www.researchgate.net/publication/224905497_The_Enterprise_Architecture_Competence_Framework](https://www.researchgate.net/publication/224905497_The_Enterprise_Architecture_Competence_Framework){:target="_blank"}
 
-<https://pubs.opengroup.org/architecture/togaf91-doc/arch/chap52.html>
+[https://pubs.opengroup.org/architecture/togaf91-doc/arch/chap52.html](https://pubs.opengroup.org/architecture/togaf91-doc/arch/chap52.html){:target="_blank"}
 
-<https://sfia-online.org/en/sfia-7/sfia-views/full-framework-view?path=/glance>
-
-<http://www.ecompetences.eu/wp-content/uploads/2018/01/CWA_Part_1_EU_ICT_PROFILES_UPDATE_EXPERTS_DRAFT.pdf>
+[https://sfia-online.org/en/sfia-7/sfia-views/full-framework-view?path=/glance](https://sfia-online.org/en/sfia-7/sfia-views/full-framework-view?path=/glance){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

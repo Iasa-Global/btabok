@@ -60,7 +60,7 @@ The competency model in the BTABoK is very well established and in use by organi
 
 Figure 1 BTABoK Competencies and Specialization
 
-The competency model used in the BTABoK establishes a clear value proposition within the profession and that is Business Technology Strategy. Later sections of this article will clarify how that applies to specialists such as business or software architects as well as how sub-specialists or technical experts are included. In addition, the [Extended Team](extended_team.md) article explores ways to use the competencies in environments where architecture as a profession is not firmly established. Below is a common canvas used to highlight competency strengths and weaknesses in both individuals and architecture teams.
+The competency model used in the BTABoK establishes a clear value proposition within the profession and that is Business Technology Strategy. Later sections of this article will clarify how that applies to specialists such as business or software architects as well as how sub-specialists or technical experts are included. In addition, the [Extended Team](extended_team.md){:target="_blank"}article explores ways to use the competencies in environments where architecture as a profession is not firmly established. Below is a common canvas used to highlight competency strengths and weaknesses in both individuals and architecture teams.
 
 ![image001](media/a_p002.png)
 

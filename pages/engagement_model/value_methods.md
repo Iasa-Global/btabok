@@ -12,7 +12,7 @@ tags:
 
 # Value Methods
 
-As the practice improves [competencies](../competency_model/competency_model_m.md) at describing value in order to get projects funded, it can provide measurement tooling so the operations team can capture evidence based on metrics and can capture additional evidence over time. Once done, it provides the CxO the information they need to provide evidence of business impact delivered through technology. Through effort, this can over time or sometimes quickly shift attitudes about architecture and allow earlier access in the lifecycle which can be leveraged to create even greater impact.
+As the practice improves [competencies](../competency_model/competency_model_m.md){:target="_blank"} at describing value in order to get projects funded, it can provide measurement tooling so the operations team can capture evidence based on metrics and can capture additional evidence over time. Once done, it provides the CxO the information they need to provide evidence of business impact delivered through technology. Through effort, this can over time or sometimes quickly shift attitudes about architecture and allow earlier access in the lifecycle which can be leveraged to create even greater impact.
 
 But what about business functions that are perceived to have no direct relationship to value creation?
 
@@ -374,7 +374,7 @@ Critical market changes are driven by technology innovation whether it is disrup
 | --- | --- | --- |
 | PESTLE | Used to derive the forces at work on the enterprise such as political, environment, legal forces. | Focus on the impacts to the particular portion of your business being impacted. |
 | SWOT | Tool to understand the strengths, weaknesses, opportunities and threats within a particular activity. | Requires a multi-disciplinary approach to correctly understand the organization. |
-| Platform Design Toolkit | The toolkit provides platform thinking which enables organizations to understand themselves as a part of an ecosystem of change. | <https://platformdesigntoolkit.com/> |
+| Platform Design Toolkit | The toolkit provides platform thinking which enables organizations to understand themselves as a part of an ecosystem of change. | [https://platformdesigntoolkit.com/](https://platformdesigntoolkit.com/){:target="_blank"} |
 
 ![image001](media/v_m013.png)
 

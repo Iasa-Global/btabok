@@ -219,29 +219,23 @@ Related Concepts
 References
 ==========
 
-**Value Streams Wikipedia\
-**<https://en.m.wikipedia.org/wiki/Value_stream>
+**Value Streams Wikipedia**
+[https://en.m.wikipedia.org/wiki/Value_stream](https://en.m.wikipedia.org/wiki/Value_stream){:target="_blank"}
 
-**SAFE 2.0\
-**<http://www.scaledagileframework.com/value-streams/>
+**SAFE 2.0**
+[http://www.scaledagileframework.com/value-streams/](http://www.scaledagileframework.com/value-streams/){:target="_blank"}
 
-**Entabula -- Sehmi, Lloyd, Deacon, Mac Críosta BIZBOK\
-**<http://www.businessarchitectureguild.org/page/About>
+**Entabula -- Sehmi, Lloyd, Deacon, Mac Críosta BIZBOK**
+[http://www.businessarchitectureguild.org/page/About](http://www.businessarchitectureguild.org/page/About){:target="_blank"}
 
-**SOA Patterns  -- Thomas Erl\
-**<http://www.soapatterns.org/>
-
-**Service Orientation -- Thomas Erl\
-**<http://serviceorientation.com>
-
-**SOA Manifesto**
-[SOA Manifesto Announcement](https://www.youtube.com/watch?v=TCg16oTZSV0)/ <http://www.soa-manifesto.org/>
+**SOA Patterns  -- Thomas Erl**
+[http://www.soapatterns.org/](http://www.soapatterns.org/){:target="_blank"}
 
 **Service Choreography**
-<https://en.wikipedia.org/wiki/Service_choreography>
+[https://en.wikipedia.org/wiki/Service_choreography](https://en.wikipedia.org/wiki/Service_choreography){:target="_blank"}
 
 **Identifying Value Streams**
-<http://www.scaledagileframework.com/identify-value-streams-and-arts/>
+[http://www.scaledagileframework.com/identify-value-streams-and-arts/](http://www.scaledagileframework.com/identify-value-streams-and-arts/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

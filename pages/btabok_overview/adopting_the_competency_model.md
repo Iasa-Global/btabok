@@ -8,7 +8,7 @@ This document will focus on the adoption of the BTABoK Competency Model. There a
 
 ## Architecture Practice Size
 
-One of the most impactful elements of an architecture practice is its size. The size impacts almost all elements of the practice, competencies, and capabilities. For the purpose of the BTABoK, a small architecture practice is one with fewer than 25 architects, a medium practice is between 25-100 architects, and a large practice is one with 100+ architects. This distinction is not perfect, but it helps to organize policies and procedures. 
+One of the most impactful elements of an architecture practice is its size. The size impacts almost all elements of the practice, competencies, and capabilities. For the purpose of the BTABoK, a small architecture practice is one with fewer than 25 architects, a medium practice is between 25-100 architects, and a large practice is one with 100+ architects. This distinction is not perfect, but it helps to organize policies and procedures.
 
 # The Competency Model
 

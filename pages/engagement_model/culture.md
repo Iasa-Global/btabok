@@ -219,10 +219,6 @@ Architects are often worried about the perception of their value. And there is a
 
 [https://www.greatplacetowork.com/resources/blog/6-elements-of-great-company-culture](https://www.greatplacetowork.com/resources/blog/6-elements-of-great-company-culture){:target="_blank"}
 
-**Netflix Culture**
-
-[https://www.slideshare.net/BarbaraGill3/netflix-culture-deck](https://www.slideshare.net/BarbaraGill3/netflix-culture-deck){:target="_blank"}
-
 **Edgar Schein Book(s)**
 
 [https://www.amazon.com/kindle-dbs/entity/author/B000APSBI8/ref=dp\_byline\_cont\_book\_1](https://www.amazon.com/kindle-dbs/entity/author/B000APSBI8/ref=dp_byline_cont_book_1){:target="_blank"}
