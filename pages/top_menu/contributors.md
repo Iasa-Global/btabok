@@ -15,8 +15,8 @@ folder: top_menu
                  </div>
                  <div class="panel-body">
                      <h4>Paul Preiss</h4>
-                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                    <p>example@example.com</p>
+                     <p>CEO – Iasa Global</p>
+                    <p>paultpreiss@iasaoffice.org</p>
                      <a href="https://www.linkedin.com/"><button class="btn"><i class="fa fa-linkedin"></i></button></a>
                      <a href="https://github.com/"><button class="btn"><i class="fa fa-github"></i></button></a>
                      <a href="https://twitter.com/"><button class="btn"><i class="fa fa-twitter"></i></button></a>
@@ -30,11 +30,11 @@ folder: top_menu
                  </div>
                  <div class="panel-body">
                      <h4>Stephen Dougall</h4>
-                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                    <p>example@example.com</p>
-                     <button class="btn"><i class="fa fa-home"></i></button>
-                     <button class="btn"><i class="fa fa-home"></i></button>
-                     <button class="btn"><i class="fa fa-home"></i></button>
+                     <p>Enterprise Architect – CGI</p>
+                    <p>stedo@protonmail.com</p>
+                     <a href="https://www.linkedin.com/"><button class="btn"><i class="fa fa-linkedin"></i></button></a>
+                     <a href="https://github.com/"><button class="btn"><i class="fa fa-github"></i></button></a>
+                     <a href="https://twitter.com/"><button class="btn"><i class="fa fa-twitter"></i></button></a>
                  </div>
              </div>
          </div>
@@ -45,11 +45,11 @@ folder: top_menu
                  </div>
                  <div class="panel-body">
                      <h4>Scott Whitmire</h4>
-                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-                    <p>example@example.com</p>
-                     <button class="btn"><i class="fa fa-home"></i></button>
-                     <button class="btn"><i class="fa fa-home"></i></button>
-                     <button class="btn"><i class="fa fa-home"></i></button>
+                     <p>Research Manager/Systems Architect, The Mayo Clinic Chair, IASA Board of Education</p>
+                    <p>whitmire@ieee.org</p>
+                     <a href="https://www.linkedin.com/"><button class="btn"><i class="fa fa-linkedin"></i></button></a>
+                     <a href="https://github.com/"><button class="btn"><i class="fa fa-github"></i></button></a>
+                     <a href="https://twitter.com/"><button class="btn"><i class="fa fa-twitter"></i></button></a>
                  </div>
              </div>
          </div>
