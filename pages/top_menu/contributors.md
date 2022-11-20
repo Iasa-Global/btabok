@@ -12,6 +12,7 @@ folder: top_menu
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
                      <img src="media/paul_preiss001.png" alt="Jane" style="width:100%">
+                     <img src="https://btabok.iasaglobal.org/wp-content/uploads/2015/08/p_preiss.jpg" alt="Jane" style="width:100%">
                  </div>
                  <div class="panel-body">
                      <h4>Paul Preiss</h4>
