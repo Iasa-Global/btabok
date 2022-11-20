@@ -429,10 +429,6 @@ the new system, this may involve using time-consuming manual processes.
 
 # References and Further Reading
 
-**A Beginners Guide to Capex vs Opex, Software Advisory Service**
-
-[https://www.softwareadvisoryservice.com/en/whitepapers/a-beginners-guide-to-capex-vs-opex/](https://www.softwareadvisoryservice.com/en/whitepapers/a-beginners-guide-to-capex-vs-opex/){:target="_blank"}
-
 **Use TIME to Engage the Business for Application and Product Portfolio Triage**
 
 [https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod](https://www.gartner.com/en/documents/3905663/use-time-to-engage-the-business-for-application-and-prod){:target="_blank"}

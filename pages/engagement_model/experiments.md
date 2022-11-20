@@ -10,14 +10,15 @@ tags:
   - operating_model
 ---
 
-> Experiments Our success at Amazon is a function of how many experiments we do per year, per month, per week, per day.
+> "Experiments Our success at Amazon is a function of how many experiments we do per year, per month, per week, per day."
 **Jeff Bezos**
 
 # What are Experiments
 
 noun: experiment
 
-A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact. " -- dictionary.com
+> "A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact."
+**dictionary.com**
 
 Experiments are the means to try new things to achieve an outcome. They are the vehicle of innovation and the means by which humans understand correlation and ultimately causality. Experimentation underlies the fabric of science and business and is the primary source of the change engine that is represented in the investment planning and lifecycles.
 
@@ -112,7 +113,7 @@ To generate hypothesis and to develop a possible experiment use the Architecture
 
 [DevOps: From Continuous Delivery to Continuous Experimentation](https://cloudacademy.com/blog/devops-from-continuous-delivery-to-continuous-experimentation/){:target="_blank"}
 
-https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experimentation-and-learning-and-how-overcome
+[https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experimentation-and-learning-and-how-overcome](https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experimentation-and-learning-and-how-overcome){:target="_blank"}
 
 [Private Workshop: Continuous Innovation & Change with PopcornFlow](https://agilesensei.com/popcornflow/){:target="_blank"}
 

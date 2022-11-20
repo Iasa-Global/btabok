@@ -15,74 +15,48 @@ tags:
 
 # What is a View
 
-As the name suggests a view shows a part of an architecture from a
-particular perspective. This is the primary method for communicating an
-architecture to many different stakeholders. In order to organize,
-construct and structure views, viewpoints are used. A viewpoint provides
-the rules for constructing views and provides guidance on where to use
-the views.
+As the name suggests a view shows a part of an architecture from a particular perspective. This is the primary method for communicating an
+architecture to many different stakeholders. In order to organize, construct and structure views, viewpoints are used. A viewpoint provides
+the rules for constructing views and provides guidance on where to use the views.
 
-Views and Viewpoints are a fundamental part of architecture work, and
-are included in many books or courses which teach architecture.  
+Views and Viewpoints are a fundamental part of architecture work, and are included in many books or courses which teach architecture.  
 
-They must be important, so why do they exist? Basically, they provide a
-a structured approach to thinking about and describing an architecture, so
-let\'s think about that a little bit.  
+They must be important, so why do they exist? Basically, they provide a a structured approach to thinking about and describing an architecture, so let\'s think about that a little bit.  
 
-Describing an architecture isn't just a fun activity. The purpose is to
-satisfy the needs of multiple stakeholders who are in fact the customers
+Describing an architecture isn't just a fun activity. The purpose is to satisfy the needs of multiple stakeholders who are in fact the customers
 of the architectural activities.  
 
-We can draw an analogy with a car. There are lots of people who have an
-interest in the features of the car, some need to understand how the car
+We can draw an analogy with a car. There are lots of people who have an interest in the features of the car, some need to understand how the car
 works in different ways or provides input into how it should behave.
 These include: 
 
-- **People who use the car** -- these are probably the main
-  stakeholders and include drivers and passengers. They need to have
-  features which allow them to control the car and make driving
-  easier, such as cruise control and ABS. 
+- **People who use the car** -- these are probably the main   stakeholders and include drivers and passengers. They need to have
+  features which allow them to control the car and make driving   easier, such as cruise control and ABS. 
 
-- **People who service the car** -- mechanics need technical
-  descriptions of the inner workings and specifications of service
-  procedures 
+- **People who service the car** -- mechanics need technical   descriptions of the inner workings and specifications of service procedures 
 
-- **People who sell the car** -- salesmen need the facts and figures
-  available in a way that will tempt the customer to buy the car 
+- **People who sell the car** -- salesmen need the facts and figures available in a way that will tempt the customer to buy the car 
 
-- **Fuel stations or charging providers** -- these are interested in
-  the demand for their products and how they will be delivered 
+- **Fuel stations or charging providers** -- these are interested in the demand for their products and how they will be delivered 
 
-In the car example, there are many more groups with a specific interest,
-but these are perhaps the main stakeholders. All of these people are
-looking for something different, they are focusing on different
-concerns. In other words, they view the car from different viewpoints,
-and to address these stakeholder concerns different views (technical
-descriptions, interior design, facts and figures) can be used.
+In the car example, there are many more groups with a specific interest, but these are perhaps the main stakeholders. All of these people are
+looking for something different, they are focusing on different concerns. In other words, they view the car from different viewpoints,
+and to address these stakeholder concerns different views (technical descriptions, interior design, facts and figures) can be used.
 
 # Why Views are important
 
-Views are the central way in which architecture is described to
-stakeholders. The stakeholders may be other architects or roles which
-have an interest in the architecture, for example, executives, product
-owners, developers or operations teams. The views which describe the
-architecture address the concerns of these stakeholders, since they
-describe how the architecture solves a particular problem.
+Views are the central way in which architecture is described to stakeholders. The stakeholders may be other architects or roles which
+have an interest in the architecture, for example, executives, product owners, developers or operations teams. The views which describe the
+architecture address the concerns of these stakeholders, since they describe how the architecture solves a particular problem.
 
-The views of the architecture provide a basis for describing the design
-of the architecture. The views are often collected in a set of
-architectural documents where designs are described and motivated. The
-availability of views provides a basis for sustaining and maintaining
+The views of the architecture provide a basis for describing the design of the architecture. The views are often collected in a set of
+architectural documents where designs are described and motivated. The availability of views provides a basis for sustaining and maintaining
 the architecture.
 
-Views are a valuable tool for the architect. The architect can use views
-as a thinking tool, to consider alternative architectures. The architect
-also uses views to assess the effect of change on the architecture, and
-the consequences for stakeholders. When making modifications to the
-architecture it is important that the stakeholders are aware of any
-consequences. Several views may be affected, by the modification and
-these views play an essential part in communicating the consequence of
-the changes.
+Views are a valuable tool for the architect. The architect can use views as a thinking tool, to consider alternative architectures. The architect
+also uses views to assess the effect of change on the architecture, and the consequences for stakeholders. When making modifications to the
+architecture it is important that the stakeholders are aware of any consequences. Several views may be affected, by the modification and
+these views play an essential part in communicating the consequence of the changes.
 
 # Views Approach
 
@@ -100,11 +74,8 @@ When constructing views of the architecture it is important to consider the stak
 
 # The Origins of Views and Viewpoints
 
-The concept of views and viewpoints originated back in the 1970s (ref:
-Ross's Structure Analysis and Design Technique) the Views became widely
-accepted following the development of Kruchten's 4 + 1 architecture
-model, they have since been formalized in the ISO42010 standard ***"[ISO/IEC/IEEE
-42010:2011], Systems and software engineering --- Architecture description"***(http://en.wikipedia.org/wiki/ISO/IEC_42010). The following diagram shows part of the model in the ISO standard with the context and relationships of views and viewpoints.
+The concept of views and viewpoints originated back in the 1970s (ref: Ross's Structure Analysis and Design Technique) the Views became widely
+accepted following the development of Kruchten's 4 + 1 architecture model, they have since been formalized in the ISO42010 standard ***"[ISO/IEC/IEEE 42010:2011], Systems and software engineering --- Architecture description"***[http://en.wikipedia.org/wiki/ISO/IEC_42010](http://en.wikipedia.org/wiki/ISO/IEC_42010){:target="_blank"}. The following diagram shows part of the model in the ISO standard with the context and relationships of views and viewpoints.
 
 ![image001](media/views_001.png)
 
@@ -114,14 +85,9 @@ The ISO42010 model is a good starting point, the definitions for views and viewp
 
 The definitions adopted by IASA are as follows:
 
-> "A **Viewpoint** is a collection of patterns, templates, and conventions
-> for constructing one type of view. It defines the stakeholders whose
-> concerns are reflected in the viewpoint and the guidelines,
-> principles, and template models for constructing its views. "
-> 
-> "A **View** is a representation of one or more aspects of an architecture
-> that illustrates how the architecture addresses the concerns held by
-> one or more of its stakeholders." 
+> "A **Viewpoint** is a collection of patterns, templates, and conventions for constructing one type of view. It defines the stakeholders whose concerns are reflected in the viewpoint and the guidelines, principles, and template models for constructing its views. "
+
+> "A **View** is a representation of one or more aspects of an architecture that illustrates how the architecture addresses the concerns held by one or more of its stakeholders." 
 
 # Working With Views in Practice
 
@@ -168,23 +134,18 @@ The architect creates or uses viewpoints to communicate the architecture in a wa
 
 ![image001](media/views_002.png)
 
-Often an organization will mandate a set of viewpoints defined in the
-template for the architecture description, but sometimes it will be up
+Often an organization will mandate a set of viewpoints defined in the template for the architecture description, but sometimes it will be up
 to the architect to make the selection. A number of factors may influence the selection of viewpoints:
 
 - the complexity of the architecture being defined 
 - the type of system or systems being described
 - the stakeholder whose concerns are being addressed 
 
-However, experience will allow the architect to extend the set of views
-as needed, especially if the mandated framework only has a few views.
-For example: in frameworks where Security is not explicitly defined, it
-often gets added as an extra view.
+However, experience will allow the architect to extend the set of views as needed, especially if the mandated framework only has a few views.
+For example: in frameworks where Security is not explicitly defined, it often gets added as an extra view.
 
-The number of views created varies greatly depending on the size and
-complexity of the project and organization and the choice of which
-architecture views to develop is one of the key decisions that the
-architect has to make. 
+The number of views created varies greatly depending on the size and complexity of the project and organization and the choice of which
+architecture views to develop is one of the key decisions that the architect has to make. 
 
 In summary, the architect is responsible for:
 
@@ -200,14 +161,11 @@ In summary, the architect is responsible for:
 
 ## Viewpoint Libraries
 
-There are many Viewpoints sets or libraries which are used in different
-architecture methods. The number of Viewpoints in each set varies
-depending on the scope and level of granularity of the architecture
-method being applied. A comprehensive list of frameworks is available
-at [iso-architecture.org](http://www.iso-architecture.org/42010/afs/frameworks-table.html).
+There are many Viewpoints sets or libraries which are used in different architecture methods. The number of Viewpoints in each set varies
+depending on the scope and level of granularity of the architecture method being applied. A comprehensive list of frameworks is available
+at [iso-architecture.org](http://www.iso-architecture.org/42010/afs/frameworks-table.html){:target="_blank"}.
 
-Each Viewpoint library has different strengths and they are targeted at
-different aspects of the architecture description. Software-intensive
+Each Viewpoint library has different strengths and they are targeted at different aspects of the architecture description. Software-intensive
 systems commonly use the following models:
 
 - Kruchten's 4 + 1 architecture view model
@@ -221,24 +179,19 @@ systems commonly use the following models:
 There is also a wide range of frameworks for Enterprise Architecture.
 The following are examples of commonly used frameworks:
 
-- [Tom Graves Approach](https://btabok.iasaglobal.org/views-and-viewpoints-2/views-viewpoints-3-0-tom_graves/) 
+- [Tom Graves Approach](https://btabok.iasaglobal.org/views-and-viewpoints-2/views-viewpoints-3-0-tom_graves/){:target="_blank"} 
 
-- [Architmate and TOGAF](https://btabok.iasaglobal.org/views-and-viewpoints-2/views-viewpoints-3-0-archimate/)
+- [Architmate and TOGAF](https://btabok.iasaglobal.org/views-and-viewpoints-2/views-viewpoints-3-0-archimate/){:target="_blank"}
 
-- [FEAF](https://btabok.iasaglobal.org/btabok_3/engagement-model-overview-3-0/federal-enterprise-architecture-framework/) 
+- [FEAF](https://btabok.iasaglobal.org/btabok_3/engagement-model-overview-3-0/federal-enterprise-architecture-framework/){:target="_blank"}
 
-Organizations have very different levels of maturity with regard to
-developing architectures, and the architect needs to determine if there
-are viewpoints already defined in the organization's
-<u>repository</u>, if a library is already assembled that can be
-used and if the viewpoints are appropriate to the problem space which is
-being described. If there are no appropriate viewpoints, the architect
-may use one of the available frameworks listed above.
+Organizations have very different levels of maturity with regard to developing architectures, and the architect needs to determine if there
+are viewpoints already defined in the organization's <u>repository</u>, if a library is already assembled that can be
+used and if the viewpoints are appropriate to the problem space which is being described. If there are no appropriate viewpoints, the architect
+may use one of the available frameworks listed above.  
 
-Well-formed viewpoints will answer the challenging questions asked of an
-architecture. When reviewing a viewpoint, determine what information to
-include in the views that are to be created. A viewpoint can be thought
-of as a template that can be used to provide predictable artefacts in a
+Well-formed viewpoints will answer the challenging questions asked of an architecture. When reviewing a viewpoint, determine what information to
+include in the views that are to be created. A viewpoint can be thought of as a template that can be used to provide predictable artefacts in a
 repeatable fashion. 
 
 # Examples of Viewpoints and Views
@@ -358,25 +311,21 @@ The following is an example of a network view. This view shows how the devices a
 # References and Further Reading
 
 **Developing Architecture Views**
-
-[https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap31.html](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap31.html) 
+[https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap31.html](https://pubs.opengroup.org/architecture/togaf8-doc/arch/chap31.html){:target="_blank"}  
 
 **Architecture Viewpoints**
-
-[https://pubs.opengroup.org/architecture/archimate2-doc/m/chap08.html](https://pubs.opengroup.org/architecture/archimate2-doc/m/chap08.html) 
+[https://pubs.opengroup.org/architecture/archimate2-doc/m/chap08.html](https://pubs.opengroup.org/architecture/archimate2-doc/m/chap08.html){:target="_blank"}  
 
 **Generic Viewpoints**
+[https://en.wikipedia.org/wiki/View_model#Viewpoints](https://en.wikipedia.org/wiki/View_model#Viewpoints){:target="_blank"}  
 
-https://en.wikipedia.org/wiki/View_model#Viewpoints 
-
-**An introduction to the IBM Views and Viewpoints Framework for IT
-systems -**
-[https://www.ibm.com/developerworks/rational/library/08/0108_cooks-cripps-spaas/index.html](https://www.ibm.com/developerworks/rational/library/08/0108_cooks-cripps-spaas/index.html) 
+**An introduction to the IBM Views and Viewpoints Framework for IT systems -**
+[https://www.ibm.com/developerworks/rational/library/08/0108_cooks-cripps-spaas/index.html](https://www.ibm.com/developerworks/rational/library/08/0108_cooks-cripps-spaas/index.html){:target="_blank"}
 
 **ISO/IEC/IEEE 42010:2011  Systems and software engineering --- Architecture description**
-http://en.wikipedia.org/wiki/ISO/IEC_42010 
+[http://en.wikipedia.org/wiki/ISO/IEC_42010](http://en.wikipedia.org/wiki/ISO/IEC_42010){:target="_blank"}
 
-https://www.iso.org/standard/50508.html
+[https://www.iso.org/standard/50508.html](https://www.iso.org/standard/50508.html){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
