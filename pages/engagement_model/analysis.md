@@ -100,43 +100,47 @@ Alexander, Christopher, *A Pattern Language: Towns, Buildings, Construction* (Ne
 
 Barbacci, Mario, Mark H. Klein, Thomas A. Longstaff, and Charles B. Weinstock, *Quality Attributes* (Software Engineering Institute, Carnegie Mellon University, December 1995)
 
-Bengtsson, P., and J. Bosch, 'Architecture Level Prediction of Software Maintenance', in *Software Maintenance and Reengineering, 1999. Proceedings of the Third European Conference On*, 1999, pp. 139--47 <https://doi.org/10.1109/CSMR.1999.756691>, 'Scenario-Based Software Architecture Reengineering', in *Software Reuse, 1998. Proceedings. Fifth International Conference On*, 1998, pp. 308--17 <https://doi.org/10.1109/ICSR.1998.685756>
+Bengtsson, P., and J. Bosch, 'Architecture Level Prediction of Software Maintenance', in *Software Maintenance and Reengineering, 1999. Proceedings of the Third European Conference On*, 1999, pp. 139--47 [https://doi.org/10.1109/CSMR.1999.756691](https://doi.org/10.1109/CSMR.1999.756691){:target="_blank"}, 'Scenario-Based Software Architecture Reengineering', in *Software Reuse, 1998. Proceedings. Fifth International Conference On*, 1998, pp. 308--17 [https://doi.org/10.1109/ICSR.1998.685756](https://doi.org/10.1109/ICSR.1998.685756){:target="_blank"}
 
-Clements, Paul, Rick Kazman, and Mark Klein, *Evaluating Software Architectures: Methods and Case Studies* (Addison Wesley, 2001)
+Clements, Paul, Rick Kazman, and Mark Klein, Evaluating Software Architectures: Methods and Case Studies* (Addison Wesley, 2001)
 
 Duenas, J. C., W. L. de Oliveira, and J. A. de la Puente, 'A Software Architecture Evaluation Model', in *Proceedings of the Second International ESPRIT ARES Workshop* (Las Palmas de Gran Canaria: Springer, 1998)
 
 Field, Simon, 'Can Software Architecture Review Methods Apply to Service Design?', in *IESS 2010* (presented at the IESS 2010, Geneva: Springer-Verlag, 2010), pp. 111--24
 
-IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', *ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 <https://doi.org/10.1109/IEEESTD.2011.6129467>
+IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 
+[https://doi.org/10.1109/IEEESTD.2011.6129467](https://doi.org/10.1109/IEEESTD.2011.6129467){:target="_blank"}
 
-International Organization for Standardization, *ISO/IEC 9126 -- Software Engineering Product Quality* (International Organization for Standardization, 1991), *ISO/IEC 25010:2011 Systems and Software Engineering -- Systems and Software Quality Requirements and Evaluation (SQuaRE) -- System and Software Quality Models* (International Organization for Standardization, 2011)
+International Organization for Standardization, *ISO/IEC 9126 -- Software Engineering Product Quality* (International Organization for Standardization, 1991), ISO/IEC 25010:2011 Systems and Software Engineering -- Systems and Software Quality Requirements and Evaluation (SQuaRE) -- System and Software Quality Models* (International Organization for Standardization, 2011)
 
 Kazman, Rick, Gregory Abowd, Len Bass, and Mike Webb, 'SAAM: A Method for Analyzing the Properties of Software Architectures', 1994
 
-Kazman, Rick, Jai Asundi, and Mark Klein, 'Quantifying the Costs and Benefits of Architectural Decisions', in *Proceedings of the 23rd International Conference on Software Engineering* (Toronto, Ontario, Canada: IEEE Computer Society, 2001), pp. 297--306 <http://portal.acm.org.ergo.glam.ac.uk/citation.cfm?id=381473.381504&coll=ACM&dl=ACM&type=series&idx=SERIES402&part=series&WantType=Proceedings&title=ICSE&CFID=69202465&CFTOKEN=49512941> [accessed 21 December 2009]
-
 Kazman, Rick, Mark Klein, and Paul Clements, *ATAM: Method for Architecture Evaluation* (Software Engineering Institute, Carnegie Mellon University, August 2000)
 
-'List of System Quality Attributes', *Wikipedia*, 2020 <https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877> [accessed 28 May 2020]
+'List of System Quality Attributes', *Wikipedia*, 2020 
+[https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877](https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877){:target="_blank"} [accessed 28 May 2020]
 
 Marcus Vitruvius Pollio, *De Architectura*, 25AD
 
-Perry, Dewayne E., and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', *SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 <https://doi.org/10.1145/141874.141884>
+Perry, Dewayne E., and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 [https://doi.org/10.1145/141874.141884](https://doi.org/10.1145/141874.141884){:target="_blank"}
 
-'SARM Tool Download' <https://sarm.org.uk/download/> [accessed 29 May 2020]
+'SARM Tool Download' 
+[https://sarm.org.uk/download/](https://sarm.org.uk/download/){:target="_blank"} [accessed 29 May 2020]
 
-'Solution Architecture Review Method' <https://sarm.org.uk/> [accessed 28 May 2020]
+'Solution Architecture Review Method' 
+[https://sarm.org.uk/](https://sarm.org.uk/){:target="_blank"} [accessed 28 May 2020]
 
-Szwed, Piotr, Igor Wojnicki, Sebastian Ernst, and Andrzej Glowacz, 'Application of New ATAM Tools to Evaluation of the Dynamic Map Architecture', 2013, ccclxviii <https://doi.org/10.1007/978-3-642-38559-9_22>
+Szwed, Piotr, Igor Wojnicki, Sebastian Ernst, and Andrzej Glowacz, 'Application of New ATAM Tools to Evaluation of the Dynamic Map Architecture', 2013, ccclxviii 
+[https://doi.org/10.1007/978-3-642-38559-9_22](https://doi.org/10.1007/978-3-642-38559-9_22){:target="_blank"}
 
-Wolman, David, 'Before the Levees Break: A Plan to Save the Netherlands', 2008 <http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all> [accessed 20 February 2010]
+Wolman, David, 'Before the Levees Break: A Plan to Save the Netherlands', 2008 
+[http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all](http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all){:target="_blank"} [accessed 20 February 2010]
 
-Dewayne E. Perry and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', *SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 (p. 43)
-<https://doi.org/10.1145/141874.141884>
+Dewayne E. Perry and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', *SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 (p. 43) 
+[https://doi.org/10.1145/141874.141884](https://doi.org/10.1145/141874.141884){:target="_blank"}
 
-IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', *ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 (p. 9)
-<https://doi.org/10.1109/IEEESTD.2011.6129467>
+IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', *ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 (p. 9) 
+[https://doi.org/10.1109/IEEESTD.2011.6129467](https://doi.org/10.1109/IEEESTD.2011.6129467){:target="_blank"}
 
 Christopher Alexander, *A Pattern Language: Towns, Buildings, Construction* (New York: OUP USA, 1978).
 
@@ -147,39 +151,36 @@ Rick Kazman and others, 'SAAM: A Method for Analyzing the Properties of Software
 Paul Clements, Rick Kazman, and Mark Klein, *Evaluating Software Architectures: Methods and Case Studies* (Addison Wesley, 2001), p. 211.**
 
 P. Bengtsson and J. Bosch, 'Scenario-Based Software Architecture Reengineering', in *Software Reuse, 1998. Proceedings. Fifth International Conference On*, 1998, pp. 308--17 
-<https://doi.org/10.1109/ICSR.1998.685756>
+[https://doi.org/10.1109/ICSR.1998.685756](https://doi.org/10.1109/ICSR.1998.685756){:target="_blank"}
 
 P. Bengtsson and J. Bosch, 'Architecture Level Prediction of Software Maintenance', in *Software Maintenance and Reengineering, 1999. Proceedings of the Third European Conference On*, 1999, pp. 139--47
-<https://doi.org/10.1109/CSMR.1999.756691>
+[https://doi.org/10.1109/ICSR.1998.685756](https://doi.org/10.1109/ICSR.1998.685756){:target="_blank"}
 
 J. C. Duenas, W. L. de Oliveira, and J. A. de la Puente, 'A Software Architecture Evaluation Model', in *Proceedings of the Second International ESPRIT ARES Workshop* (Las Palmas de Gran Canaria: Springer, 1998).
 
 Rick Kazman, Mark Klein, and Paul Clements, *ATAM: Method for Architecture Evaluation* (Software Engineering Institute, Carnegie Mellon University, August 2000).
 
 'List of System Quality Attributes', *Wikipedia*, 2020
-<https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877>
+[https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877](https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877){:target="_blank"}
 
 International Organization for Standardization, *ISO/IEC 9126 -- Software Engineering Product Quality* (International Organization for Standardization, 1991).
 
 International Organization for Standardization, *ISO/IEC 25010:2011 Systems and Software Engineering -- Systems and Software Quality Requirements and Evaluation (SQuaRE) -- System and Software Quality Models* (International Organization for Standardization, 2011).
 
 David Wolman, 'Before the Levees Break: A Plan to Save the Netherlands', 2008
-<http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all>
+[http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all](http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all){:target="_blank"}
 
 'Solution Architecture Review Method'
-<https://sarm.org.uk/>
+[https://sarm.org.uk/](https://sarm.org.uk/){:target="_blank"}
 
 Piotr Szwed and others, 'Application of New ATAM Tools to Evaluation of the Dynamic Map Architecture', 2013, ccclxviii
-<https://doi.org/10.1007/978-3-642-38559-9_22>
+[https://doi.org/10.1007/978-3-642-38559-9_22](https://doi.org/10.1007/978-3-642-38559-9_22){:target="_blank"}
 
 'SARM Tool Download'
-<https://sarm.org.uk/download/>
+[https://sarm.org.uk/download/](https://sarm.org.uk/download/){:target="_blank"}
 
 Simon Field, 'Can Software Architecture Review Methods Apply to Service Design?', in *IESS 2010* 
 (presented at the IESS 2010, Geneva: Springer-Verlag, 2010), pp. 111--24.
-
-Rick Kazman, Jai Asundi, and Mark Klein, 'Quantifying the Costs and Benefits of Architectural Decisions', in *Proceedings of the 23rd International Conference on Software Engineering* (Toronto, Ontario, Canada: IEEE Computer Society, 2001), pp. 297--306
-<http://portal.acm.org.ergo.glam.ac.uk/citation.cfm?id=381473.381504&coll=ACM&dl=ACM&type=series&idx=SERIES402&part=series&WantType=Proceedings&title=ICSE&CFID=69202465&CFTOKEN=49512941>
 
 'SARM Tool Download'.
 
