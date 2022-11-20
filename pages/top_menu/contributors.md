@@ -11,110 +11,12 @@ folder: top_menu
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <img src= "https://btabok.iasaglobal.org/media/uav01.jpg" width="100%" height="100%" alt="Usage and Value"> 
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-plus-circle fa-stack-1x fa-inverse"></i>
-                     </span>
+                     <img src="img1.jpg" alt="Jane" style="width:100%">
                  </div>
                  <div class="panel-body">
-                     <h4>Aggregator Pattern</h4>
-                     <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
-                     <a href="aggregator_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-crosshairs fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>API Gateway Pattern</h4>
-                     <p>The API Gateway is usually an entry-point to the system.</p>
-                     <a href="api_gateway_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-server fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Proxy Pattern</h4>
-                     <p>When upgrading from a monolithic architecture to a microservice-based architecture, the designer(s) can encounter situations where one service depends upon another.</p>
-                     <a href="proxy_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-</div>
-
-<div class="row">
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-industry fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Factory Method Pattern</h4>
-                     <p>The Factory Method pattern is extremely useful when a class cannot decide in advance the class of objects it must create. </p>
-                     <a href="factory_method_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-link fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Reactor Pattern</h4>
-                     <p>The reactor pattern already underpins many of the platforms you use today, and is now one of the most common ways to deal with concurrency. </p>
-                     <a href="reactor_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-battery-quarter fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Bulkhead Pattern</h4>
-                     <p>The bulkhead pattern enforces the principle of damage containment and provides a higher degree of resilience by partitioning the system.</p>
-                     <a href="bulkhead_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
-</div>
-
-<div class="row">
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-thermometer-three-quarters fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Throttling</h4>
-                     <p>The throttling pattern is used to allow a service to maintain a steady pace when process multiple customer requests.</p>
+                     <h4>NAME</h4>
+                     <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+                    <p>example@example.com</p>
                      <a href="throttling.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -149,4 +51,45 @@ folder: top_menu
                  </div>
              </div>
          </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="img1.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        
+        <p class="title">CEO &amp; Founder</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="img2.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="img3.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>John Doe</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
 </div>
