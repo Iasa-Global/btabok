@@ -17,7 +17,9 @@ folder: top_menu
                      <h4>Paul Preiss</h4>
                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
-                     <i class="fa fa-linkedin" aria-hidden="true"></i><a href="throttling.html" class="btn btn-primary"></a>
+                     <a href="https://www.linkedin.com/"><button class="btn"><i class="fa fa-linkedin"></i></button></a>
+                     <a href="https://github.com/"><button class="btn"><i class="fa fa-github"></i></button></a>
+                     <a href="https://twitter.com/"><button class="btn"><i class="fa fa-twitter"></i></button></a>
                  </div>
              </div>
          </div>
@@ -30,7 +32,9 @@ folder: top_menu
                      <h4>Stephen Dougall</h4>
                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
-                     <a href="throttling.html" class="btn btn-primary"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                     <button class="btn"><i class="fa fa-home"></i></button>
+                     <button class="btn"><i class="fa fa-home"></i></button>
+                     <button class="btn"><i class="fa fa-home"></i></button>
                  </div>
              </div>
          </div>
@@ -43,7 +47,8 @@ folder: top_menu
                      <h4>Scott Whitmire</h4>
                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
-                     <a href="throttling.html" class="btn btn-primary" >Learn More</a>
+                     <button class="btn"><i class="fa fa-home"></i></button>
+                     <button class="btn"><i class="fa fa-home"></i></button>
                      <button class="btn"><i class="fa fa-home"></i></button>
                  </div>
              </div>
