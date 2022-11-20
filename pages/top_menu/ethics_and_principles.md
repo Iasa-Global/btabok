@@ -15,13 +15,11 @@ With all the headlines of organizations misusing customer data, profiting off de
 
 Principles, on the other hand, are the experiential rules we have learned as an organization to guide *how* we construct efficient solutions or how we try to frame decisions we come across repeatedly. They represent how the organization delivers the highest value to customers and what those customers see in our technology choices that enable them. These, also, are often represented as one or more lists of statements in prioritized order of decision-making. Many technology organizations need multiple sets of principles as they grow, and over time: for instance, a small IT department might need only one set of rules whereas a larger technology product organization might need overall enterprise/product architecture standards as well as solution architecture principles and customer experience principles. IASA recommends starting with a small set (8-10) of written statements on *how* the organization makes decisions and sees value in different areas and growing this over time.
 
-In practice
-===========
+# In practice
 
 In this section, show how to get started with a blank "canvas" and start writing up our ethics and principles.
 
-Here's how to do it.
---------------------
+## Here's how to do it.
 
 No particular knowledge is required beyond a basic understanding of the organization's culture and knowledge management practices. The canvas or tool we will use to capture either the statement of ethics or the principles is a simple list. The architect should call a meeting and have the group discuss the following sections, often in order first, and then with general discussion to revisit problematic areas:
 
@@ -34,8 +32,7 @@ No particular knowledge is required beyond a basic understanding of the organiza
 
 This process should take a 2-4 meetings, some basic supplies (post-it notes, flip charts), some graphic communication technique familiarity (communications).
 
-What are the pitfalls
----------------------
+## What are the pitfalls
 
 There are three primary areas where writing down principles and ethics can fail:
 
@@ -47,61 +44,55 @@ For the first pitfall, the architect may have only the options to not write down
 
 Do note that the Dilbert cartoon strip and others which have their roots in modern corporate behavior often show antipatterns -- both in ethics and tenets -- which are both human and altogether common. These can be a useful way to start discussion without being perceived as either boring or negative.
 
-Description
-===========
+# Description
 
 Ethics and principles do not generally depend on other areas of the ITaBOK and instead often inform those areas. In this section, we describe three examples: one set of ethics, and two sets of more technical principles.
 
-Ethics
-------
+## Ethics
 
 From the medical profession -- one with a long history of ethics, which also help define behavior outside of self-interest -- we have the Hippocratic Oath and Percival's code of medical ethics. These define the relationship between the patient and the physician in areas such as diagnosis and clear communication, limits to advice and conflicts of interest, humane treatment and empathy, and knowledge sharing and accountability between physicians as a group of professional practitioners.
 
 A working group of IASA-certified architects has developed the sample ethics statement below, with similar concerns as applied in information technology.
 
-Architecture tenets
--------------------
+## Architecture tenets
 
 The EA perspective often blends this ethical obligation to external customers and stakeholders with internal business principles (how the organization comes up with solutions in a technical sense). The following set of principles was adapted from a council of global manufacturers to describe how solutions would be preferred.
 
 In general, the understanding of these would guide architects towards selecting solutions which met #1 (safety [to human life], disaster resilience, and compliance) first. Then the second criteria would be evaluated, and so forth. If a solution or program did not meet the first three criteria (without exception), it would be rejected. This systems-level view added to a corporate culture (which had a strong ethical similarity between the manufacturers -- a commitment to the customer), and provides a more day-to-day interpretation of *how a group might align decisions*. This also helped the architecture teams expose this thinking to the business units in order to be more predictable over multiple initiatives.
 
-Solution architecture guidelines
---------------------------------
+## Solution architecture guidelines
 
 This example example here is a set of principles from a high-tech manufacturer's global IT team used to orient new technical or business architects. I would like to thank Jared Kunz for his original work here and discussions in refining this.
 
 Agile Note: In many Agile Architecture @ Scale environments, guidelines are often called guardrails and are guided by the road mapping efforts as a part of program or solution releases.
 
-| Sample principles list for the business or technical architect: Understand and follow these (in no particular order): - [The ISC^2^/CISSP Code of Ethics](https://www.isc2.org/Ethics) (abbreviated items, my favorites) o Protect society, the common good, necessary public trust and confidence, and the infrastructure. o Act honorably, honestly, justly, responsibly, and legally. o Provide diligent and competent service to principals. - [The 10 Commandments of Computer Ethics](https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics) (abbreviated items, my favorites) Thou shalt not use a computer to harm other people. Thou shalt not interfere with other people's computer work. Thou shalt not snoop around in other people's computer files. Thou shalt not use a computer to steal. Thou shalt not use a computer to bear false witness. o Thou shalt always use a computer in ways that ensure consideration and respect for other humans. - Strive to be a genuine servant leader - If you make a mistake, own up to it, where applicable, apologize, do your best not to repeat, if you repeat, seek help, remove yourself from the recurring situations. - Smile, laugh as appropriate, stay positive and have fun (within the bounds of ethics and laws). - Be curious, experiment -- try new solutions but reduce the time required to validate the results. - Bring the best facts and the best data for the situation and your audience, know your audience. The facts and data speak volumes and often at much higher decibels. - Business Terms, Business Facts, Business Rules, can't run a business without them, yet many leaders of business don't even know they exist - A healthy business recognizes and values its information resources (data, applications, technology as well as people) and these resources are valued and managed like any other critical business resources. - The fundamental problem with "systems thinking" or looking at the world from a "systems" or "application" or "object" view is that processes and data are orthogonal. Processes, data are very free flowing, they cross many boundaries of systems, boundaries of what people want to draw lines around into "applications" so there are many better ways to manage processes and data than just "systems" and "applications". Microservices, event driven, cloud, and continuous integration architectures are an answer to the limited way of "systems" thinking due to the complexity of processes and data flowing freely. - Aim to provide detailed designs to a majority of stakeholders at the last responsible moment: - When applicable, leverage the advantage gained by reasonably delaying some architectural decisions o Rationale -- Additional information may become available, priorities may change. Avoid thinking you can predict the future and over-engineering the design. - Reduce or completely eliminate through your designs the amount of [technical debt](https://en.wikipedia.org/wiki/Technical_debt) - Find the appropriate level of data, process and software coupling - Strive to design self-healing systems that can monitor/repair themselves - Design to limit propagation of failures with proper monitoring, alerting when failure propagation limits are difficult to design. |
+| Sample principles list for the business or technical architect: Understand and follow these (in no particular order): - [The ISC^2^/CISSP Code of Ethics](https://www.isc2.org/Ethics){:target="_blank"} (abbreviated items, my favorites) o Protect society, the common good, necessary public trust and confidence, and the infrastructure. o Act honorably, honestly, justly, responsibly, and legally. o Provide diligent and competent service to principals. - [The 10 Commandments of Computer Ethics](https://en.wikipedia.org/wiki/Ten_Commandments_of_Computer_Ethics){:target="_blank"} (abbreviated items, my favorites) Thou shalt not use a computer to harm other people. Thou shalt not interfere with other people's computer work. Thou shalt not snoop around in other people's computer files. Thou shalt not use a computer to steal. Thou shalt not use a computer to bear false witness. o Thou shalt always use a computer in ways that ensure consideration and respect for other humans. - Strive to be a genuine servant leader - If you make a mistake, own up to it, where applicable, apologize, do your best not to repeat, if you repeat, seek help, remove yourself from the recurring situations. - Smile, laugh as appropriate, stay positive and have fun (within the bounds of ethics and laws). - Be curious, experiment -- try new solutions but reduce the time required to validate the results. - Bring the best facts and the best data for the situation and your audience, know your audience. The facts and data speak volumes and often at much higher decibels. - Business Terms, Business Facts, Business Rules, can't run a business without them, yet many leaders of business don't even know they exist - A healthy business recognizes and values its information resources (data, applications, technology as well as people) and these resources are valued and managed like any other critical business resources. - The fundamental problem with "systems thinking" or looking at the world from a "systems" or "application" or "object" view is that processes and data are orthogonal. Processes, data are very free flowing, they cross many boundaries of systems, boundaries of what people want to draw lines around into "applications" so there are many better ways to manage processes and data than just "systems" and "applications". Microservices, event driven, cloud, and continuous integration architectures are an answer to the limited way of "systems" thinking due to the complexity of processes and data flowing freely. - Aim to provide detailed designs to a majority of stakeholders at the last responsible moment: - When applicable, leverage the advantage gained by reasonably delaying some architectural decisions o Rationale -- Additional information may become available, priorities may change. Avoid thinking you can predict the future and over-engineering the design. - Reduce or completely eliminate through your designs the amount of [technical debt](https://en.wikipedia.org/wiki/Technical_debt){:target="_blank"} - Find the appropriate level of data, process and software coupling - Strive to design self-healing systems that can monitor/repair themselves - Design to limit propagation of failures with proper monitoring, alerting when failure propagation limits are difficult to design. |
 
 This list is more easily composed by a lead architect for his team or for his immediate customers. In lieu of organization-wide principles, the architect can still define some of his or her immediate environment and show themselves as technical leaders through example.
 
-Iasa BTABoK Professional Tenets
--------------------------------
+## Iasa BTABoK Professional Tenets
 
 The final example of tenets are those that the BTABoK team feel are important for the health of the profession and for best use of the BTABoK in your architecture practice. These principles reflect in many cases the attitude and culture of the architecture team as opposed to hard and fast rules.
 
 The team has gathered principles which you will find throughout the BTABoK here in one place.
 
-### Just-In-Time Architecture
+## Just-In-Time Architecture
 
 Just in time architecture is the practice of putting architecturally relevant decisions to the latest responsible moment and to do so with just enough objective evidence of their value to allow for high-speed delivery of systems and change. Just in time architecture is driven by practiced and experienced architects being assigned full time to any project or product as a part of the team and responsible for value and technology strategy direction. (Note: this must be handled carefully in very large architecture practices with multiple specialists and large projects).
 
-### Build Stuff and Own Stuff, Don't Govern Stuff
+## Build Stuff and Own Stuff, Don't Govern Stuff
 
 Many architecture practices have taken on the role of governance, reviewer and in positive situations mentors. However, these teams always suffer from lack of value recognition and a lack of clear understanding of their contribution to the enterprise. Architecture is a creative function not an oversight process. The team must focus on innovation and delivery and allow for other roles to sink or swim with their decisions. Focus the team on building and areas where clear ownership of value can be achieved and avoid governance and review roles as much as possible.
 
-### Partner Role Empowerment
+## Partner Role Empowerment
 
 A truly mature architecture program results in empowerment for other business and technology roles instead of competition. The practice fulfills the niche of value management, technology value ownership and innovation and delivery focus with depth in digital strategy and delivery which by and large does not exist in organizations in a systematic and highly experienced way. The architecture team then does not attempt to oversee, govern or full the roles of other professionals but takes on a new role of business technology strategist deployed throughout the enterprise, with direct business and technology relationships.
 
-### Engagement Principle: The Customer Is Never Internal
+## Engagement Principle: The Customer Is Never Internal
 
 The IT as a service model from years ago has littered business with thinking about the internal customer. This language confuses the definition of stakeholder with customer. The customer is always external. The user may be internal, the stakeholder may be internal, but the customer is always the customer. Technologists must change their language or forever remain order-takers.
 
-Perspective
-===========
+# Perspective
 
 There are a number of organizations -- both in the public good and commercial -- who have advanced statements of ethics and principles, listed below. In this section, I am going to summarize an elevator pitch I heard consistently while at a major aircraft manufacturer. I asked the group of architects I was talking with how they prioritized principles and they almost unanimously replied with this simple statement, "We do:
 
@@ -115,8 +106,7 @@ Ask around your organization and see what answers you might get. One of my own t
 
 IASA believes that architecture as a profession -- not a role or an elevated engineer -- should have long-term statements on ethics and principles, both to show the roles and professions around us how to work with us, and also to show that we take our customer and our customer's customer seriously when it comes to the application of technology which now affects human health, welfare, culture, business, and society.
 
-References and citations
-------------------------
+## References and citations
 
 For ethics, please take a look at the following examples and sources:
 
@@ -141,8 +131,7 @@ For principles, please take a look at the following examples and sources:
 -   AWS hiring principles -- <https://www.amazon.jobs/en/principles>
 -   BCS Code of Conduct <https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/>
 
-IASA Code of Standards
-----------------------
+## IASA Code of Standards
 
 Pre Amble
 
@@ -250,31 +239,27 @@ BT Architects should uphold the integrity and dignity of the profession.
 
 11.*Accept a responsibility for maintaining and improving the standards of the profession.*
 
-Principles
+# Principles
 
-### Architecture is a profession not a role.
+**Architecture is a profession not a role.**
 
-### Architecture impacts health and human value, corporate fiscal interests and culture.
+**Architecture impacts health and human value, corporate fiscal interests and culture.**
 
-### Architects get one major value proposition to society and business just like other professions.
+**Architects get one major value proposition to society and business just like other professions.**
 
-### Architects are(n't) engineers.
+**Architects are(n't) engineers.**
 
-### Architects have excellent technology skills and focus on pure business.
+**Architects have excellent technology skills and focus on pure business.**
 
-### Architects having good technology skills or experience has nothing to do with reporting to IT or elsewhere.
+**Architects having good technology skills or experience has nothing to do with reporting to IT or elsewhere.**
 
-### Architects must grow and retain both business and technology skills over time, we accept that other groups disagree with our choice.
+**Architects must grow and retain both business and technology skills over time, we accept that other groups disagree with our choice.**
 
-### Architects share some skills with other roles but serve a different purpose than any other profession.
+**Architects share some skills with other roles but serve a different purpose than any other profession.**
 
-### Architecture is about value delivery over system delivery.
+**Architecture is about value delivery over system delivery.**
 
-### Meet them where they are
-
-### Up and Out Not Down and In
-
-### Form over Feature
+**Meet them where they are Up and Out Not Down and In Form over Feature**
 
 ![image001](media/by-nc.png)
 

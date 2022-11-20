@@ -11,7 +11,7 @@ folder: top_menu
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
+                     <img src= "https://btabok.iasaglobal.org/media/uav01.jpg" width="100%" height="100%" alt="Usage and Value"> 
                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
                            <i class="fa fa-plus-circle fa-stack-1x fa-inverse"></i>
                      </span>
