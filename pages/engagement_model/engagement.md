@@ -205,8 +205,6 @@ Architects are responsible at all levels of scope for digital engagement. The BT
 
 [https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a){:target="_blank"}
 
-[http://innovatorstoolkit.com/content/technique-3-outcome-expectations](http://innovatorstoolkit.com/content/technique-3-outcome-expectations){:target="_blank"}
-
 ![image001](media/by-nc.png)
 
 BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
