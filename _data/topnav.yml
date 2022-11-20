@@ -32,6 +32,8 @@ topnav_dropdowns:
         - title: Ethics and Principles
           url: ethics_and_principles.html
         - title: Dictionary
-          url: dictionary.html     
+          url: dictionary.html
+        - title: Contributors
+          url: contributors.html               
 
 # Copyright 2022 IASA 
