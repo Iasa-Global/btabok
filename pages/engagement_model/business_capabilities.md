@@ -380,33 +380,20 @@ become. Then, determine the changes to each affected capacity required
 to achieve the new measures. The collective set of changes becomes an
 improvement project or program, depending on its size.
 
-## References  
+# References  
 
-[^1]: Goldratt, Eliyahu M. and Jeff Cox, The Goal: A Process of Ongoing
-    Improvement, North River Press, Great Barrington, MA: 1984.
+1. Goldratt, Eliyahu M. and Jeff Cox, The Goal: A Process of Ongoing
+   Improvement, North River Press, Great Barrington, MA: 1984.
 
-[^2]: Ulrich Homann, “A Business-Oriented Foundation for Service
-    Orientation”, Feb. 2006, http://bit.ly/2faqT67.
+2. Ulrich Homann, “A Business-Oriented Foundation for Service Orientation”, Feb. 2006, [http://bit.ly/2faqT67](http://bit.ly/2faqT67){:target="_blank"}.
 
-[^3]: Burlton, Roger, Business Architecture Essentials : ‘Developing
-    your Capability Architecture: It’s all about being able to get
-    things done’, February 27, 2017, accessed August 5, 2020,
-    <https://processrenewal.com/business-architecture-essentials-developing-capability-architecture-able-get-things-done/>
+3. Burlton, Roger, Business Architecture Essentials : ‘Developing your Capability Architecture: It’s all about being able to get things done’, February 27, 2017, accessed August 5, 2020,  [https://processrenewal.com/business-architecture-essentials-developing-capability-architecture-able-get-things-done/](https://processrenewal.com/business-architecture-essentials-developing-capability-architecture-able-get-things-done/){:target="_blank"}
 
-[^4]: Whitmire, Scott A. “It’s Time to Kill the Heat Map”, March 19,
-    2019, accessed August 10, 2020,
-    <https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/>
+4. Whitmire, Scott A. “It’s Time to Kill the Heat Map”, March 19, 2019, accessed August 10, 2020, [https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/](https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/){:target="_blank"}
 
-[^5]: *APQC's [Process Classification
-    Framework® (PCF) ](https://www.apqc.org/process-performance-management/process-frameworks)is
-    a taxonomy of business processes that allows organizations to
-    objectively track and compare their performance internally and
-    externally with organizations from any industry. It also forms the
-    basis for a variety of projects related to business processes
-    (*<https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7>).
+5. APQC's [Process Classification Framework® (PCF) ] [https://www.apqc.org/process-performance-management/process-frameworks](https://www.apqc.org/process-performance-management/process-frameworks){:target="_blank"} is a taxonomy of business processes that allows organizations to      objectively track and compare their performance internally and externally with organizations from any industry. It also forms the basis for a variety of projects related to business processes [https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7](https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7){:target="_blank"}.
 
-[^6]: Perry, Stott, and Smallwood, Real-Time Strategy: Improvising
-    Team-Based Planning for a Fast-Changing World, New York, NY: Wiley, 1993.
+6. Perry, Stott, and Smallwood, Real-Time Strategy: Improvising Team-Based Planning for a Fast-Changing World, New York, NY: Wiley, 1993.
 
 ![image001](media/by-nc.png)
 
