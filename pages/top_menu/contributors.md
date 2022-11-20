@@ -11,7 +11,7 @@ folder: top_menu
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <img src="paul_preiss001.png" alt="Jane" style="width:100%">
+                     <img src="media/paul_preiss001.png" alt="Jane" style="width:100%">
                  </div>
                  <div class="panel-body">
                      <h4>Paul Preiss</h4>
@@ -24,7 +24,7 @@ folder: top_menu
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <img src="stephen_dougall001.png" alt="Jane" style="width:100%">
+                     <img src="media/stephen_dougall001.png" alt="Jane" style="width:100%">
                  </div>
                  <div class="panel-body">
                      <h4>Stephen Dougall</h4>
@@ -37,7 +37,7 @@ folder: top_menu
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
-                     <img src="scott_whitmire001.png" alt="Jane" style="width:100%">
+                     <img src="media/scott_whitmire001.png" alt="Jane" style="width:100%">
                  </div>
                  <div class="panel-body">
                      <h4>Scott Whitmire</h4>
