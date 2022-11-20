@@ -30,17 +30,17 @@ The terms organization, team, and practice can be used in extremely different wa
 
 # Why is Organization Important
 
-Organization is one of the more important elements of an engagement model as it defines the reporting structure and career path of the architects within it. It is the primary relationship between the architects, groups like HR and choices like compensation, benefits and career growth. A well thought through organization method aligned with business and enhanced by the [community](community.md) of architects will be much more effective than a similar group of people without clear professional alignment.
+Organization is one of the more important elements of an engagement model as it defines the reporting structure and career path of the architects within it. It is the primary relationship between the architects, groups like HR and choices like compensation, benefits and career growth. A well thought through organization method aligned with business and enhanced by the [community](community.md){:target="_blank"} of architects will be much more effective than a similar group of people without clear professional alignment.
 
 ## Opportunities in Business
 
-Getting architect organizations right is essential to building business relationships with other business units. Architects who are too far away from customers may have difficulty relating their work to outcomes and value other than cost reduction. In addition, architecture teams that understand investment prioritization and [value methods](value_methods.md), do so because they are closely aligned with the priorities of the company and the customer.
+Getting architect organizations right is essential to building business relationships with other business units. Architects who are too far away from customers may have difficulty relating their work to outcomes and value other than cost reduction. In addition, architecture teams that understand investment prioritization and [value methods](value_methods.md){:target="_blank"}, do so because they are closely aligned with the priorities of the company and the customer.
 
-It is, however, essential that architects retain their value-add to the company independently or as a group so it is essential that they don't optimize for a single business unit while minimizing value to another. This means that [value stream](value_streams.md) structures and strong [community](community.md) are necessary to ensure that the entire customer experience is optimized.
+It is, however, essential that architects retain their value-add to the company independently or as a group so it is essential that they don't optimize for a single business unit while minimizing value to another. This means that [value stream](value_streams.md){:target="_blank"} structures and strong [community](community.md){:target="_blank"} are necessary to ensure that the entire customer experience is optimized.
 
 ## Opportunities in Communication
 
-Communication is a major issue for architecture teams. By nature and by practice, architects often work long hours and do so in the midst of chaotic value delivery plans in partial isolation from other architects in the organization. This scenario will create a very loosely coupled practice and seems to create fractures quickly in organization. This in turn creates chaotic processes, deliverables and value in the [role](roles.md).
+Communication is a major issue for architecture teams. By nature and by practice, architects often work long hours and do so in the midst of chaotic value delivery plans in partial isolation from other architects in the organization. This scenario will create a very loosely coupled practice and seems to create fractures quickly in organization. This in turn creates chaotic processes, deliverables and value in the [role](roles.md){:target="_blank"}.
 
 When organizing the team it is essential that strong relationships and communication exist within the community of practice. Mentoring approaches, discussed below, as well as regular face to face sessions and rotation can offset significant portions of those difficulties.
 
@@ -78,7 +78,7 @@ The follow tenets may help in the organizing of architects.
 
 ## Architect Organizations are like Herding Baby Lions
 
-What it takes to be a great architect is vision, a willingness to work alone with strange and often angry [stakeholders](stakeholders.md) while people constantly question the value of the [role](roles.md) and still remain both positive and proactive. This is just a part of the job and is not a bad thing. However it does create and invite certain personality traits which can make getting architects to work together in the practice difficult. It is critical to adopt a set of shared cultural goals such as **servant leader mentality** and [community methods](community.md) to achieve true growth.
+What it takes to be a great architect is vision, a willingness to work alone with strange and often angry [stakeholders](stakeholders.md){:target="_blank"} while people constantly question the value of the [role](roles.md){:target="_blank"} and still remain both positive and proactive. This is just a part of the job and is not a bad thing. However it does create and invite certain personality traits which can make getting architects to work together in the practice difficult. It is critical to adopt a set of shared cultural goals such as **servant leader mentality** and [community methods](community.md){:target="_blank"} to achieve true growth.
 
 ## Architects are Optimistic Pessimists or Pessimistic Optimists
 
@@ -187,7 +187,7 @@ As automation takes over manual processes the need for human intervention decrea
 # References and further reading
 
 Bass, Len; Weber, Ingo; Zhu, Liming (2015). DevOps: A Software Architect's Perspective.
-[ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier){:target="_blank"}
+[ISBN](https://en.wikipedia.org/wiki/ISBN_){:target="_blank"}
 [978-0134049847](https://en.wikipedia.org/wiki/Special:BookSources/978-0134049847){:target="_blank"}
 
 ![image001](media/by-nc.png)
