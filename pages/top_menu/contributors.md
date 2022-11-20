@@ -17,7 +17,7 @@ folder: top_menu
                      <h4>Paul Preiss</h4>
                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
-                     <a href="throttling.html" class="btn btn-primary"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                     <i class="fa fa-linkedin" aria-hidden="true"></i><a href="throttling.html" class="btn btn-primary"></a>
                  </div>
              </div>
          </div>
@@ -30,7 +30,7 @@ folder: top_menu
                      <h4>Stephen Dougall</h4>
                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
-                     <a href="throttling.html" class="btn btn-primary">Learn More</a>
+                     <a href="throttling.html" class="btn btn-primary"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                  </div>
              </div>
          </div>
@@ -43,7 +43,8 @@ folder: top_menu
                      <h4>Scott Whitmire</h4>
                      <p>Some text that describes me lorem ipsum ipsum lorem.</p>
                     <p>example@example.com</p>
-                     <a href="throttling.html" class="btn btn-primary">Learn More</a>
+                     <a href="throttling.html" class="btn btn-primary" >Learn More</a>
+                     <button class="btn"><i class="fa fa-home"></i></button>
                  </div>
              </div>
          </div>
