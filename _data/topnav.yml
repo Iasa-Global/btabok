@@ -32,7 +32,7 @@ topnav_dropdowns:
         - title: Ethics and Principles
           url: ethics_and_principles.html
         - title: Dictionary
-          url: dictionary.html
+          url: glossary.html
         - title: Contributors
           url: contributors.html               
 
