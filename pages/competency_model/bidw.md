@@ -11,15 +11,13 @@ tags:
 ---
 
 
-Description
-===========
+# Description
 
 **Business intelligence** (**BI**) is the set of techniques and tools for the transformation of raw data into meaningful and useful information for business analysis purposes. BI technologies are capable of handling large amounts of unstructured data to help identify, develop and otherwise create new strategic business opportunities. The goal of BI is to allow for the easy interpretation of these large volumes of data. Identifying new opportunities and implementing an effective strategy based on insights can provide businesses with a competitive market advantage and long-term stability.
 
 A** Data Warehouse** (**DW** or **DWH**), also known as an **enterprise data warehouse** (**EDW**), is a system used for reporting and data analysis. DWs are central repositories of integrated data from one or more disparate sources. They store current and historical data and are used for creating analytical reports for knowledge workers throughout the enterprise. Examples of reports could range from annual and quarterly comparisons and trends to detailed daily sales analyses.
 
-Overview
-========
+# Overview
 
 BI technologies provide historical, current and predictive views of business operations. Common functions of business intelligence technologies are reporting, online analytical processing, analytics, data mining, process mining, complex event processing, business performance management, benchmarking, text mining, predictive analytics and prescriptive analytics.
 
@@ -37,8 +35,7 @@ An architect helps companies to determine the:
 -   Review of Current BI Systems -- Including decision support, ad hoc query and reporting, analysis, forecasting, and data mining
 -   Information Latency -- How timely and up-to-date current information is and what gap analysis exists between current situation and future needs
 
-Proven Practices
-================
+# Proven Practices
 
 With most companies listing BI/DW within their top agenda, and with the rising costs and confusion around proving the worth of BI/DW and justifying its costs, it makes sense to try and understand the evolution of BI adoption and maturity in organisations.
 
@@ -50,7 +47,7 @@ The Business Intelligence Maturity Assessment should answer these questions:
 
 Below are couple of industry proven practices to help organisation to gain maturity on their BI practices
 
-### **1\. The TDWI BI Maturity Model **
+## **1\. The TDWI BI Maturity Model **
 
 *The Data Warehousing Institute (TDWI)* is a premier body in the field of BI and eponymous Data warehousing and proposes a six stage BI maturity model. The underlying assumption being that BI implementation in organizations typically evolves from a low-value cost centre operation to a high value strategic utility to provide competitive advantage.
 
@@ -72,7 +69,7 @@ A '***Chasm***' separates Stage 4 and Stage 5.
 
 **Stage 6: Sage** -- The BI function at this stage has the highest ROI and decreasing costs based off Analytic Services (SOA) with pervasive BI (e.g. embedded BI) making it 'Drive the market'
 
-### **2\. Gartner**
+## **2\. Gartner**
 
 *Gartner*, the IT research and advisory group's BI maturity model is based on 3 key areas of assessment -- people, processes and metrics. It has 5 maturity levels:
 
@@ -90,10 +87,10 @@ A '***Chasm***' separates Stage 4 and Stage 5.
 
 Please note -- The adoption of maturity model and demonstrating its worth as a strategic tool lies in its ***complexity***. BI is a broad area encompassing both technical and non-technical aspects like people and process; therefore the models can only provide a prescriptive framework which needs to be adapted by each organization. It is important to understand that various departments of an organization can be at varying levels of maturity and not every organization follows the same trajectory of evolution or has to go through each stage.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Information Delivery : Reporting, Dashboards and Adhoc query**
+
+## **Information Delivery : Reporting, Dashboards and Adhoc query**
 
 Enables users to share and discuss information, analysis, analytic content and decisions via discussion threads, chat and annotations.
 
@@ -126,7 +123,7 @@ Enables users to share and discuss information, analysis, analytic content and d
 
  |
 
-### **Information Integration : Infrastructure, Metadata, Data Modelling, Data lineage, Development and Deployment.**
+## **Information Integration : Infrastructure, Metadata, Data Modelling, Data lineage, Development and Deployment.**
 
 -   **BI Infrastructure:** How the platform/content can be integrated with complementary BI capabilities such as portals, databases, business process management, complex-event processing engines, Hadoop distributions, search engines and social platforms.
 -   **Integrated semantic/metadata layer:** How many different metadata/semantic layers exist in the platform? Is there a single metadata layer for all platform tools?
@@ -158,7 +155,7 @@ Enables users to share and discuss information, analysis, analytic content and d
 
  |
 
-### **Information Analysis : Interactivity, User Experience, Visualisations, Authoring, In-memory interactivity**
+## **Information Analysis : Interactivity, User Experience, Visualisations, Authoring, In-memory interactivity**
 
 -   **Interactivity and exploration:** How does the product support visual interaction with content such as dragging and dropping what users want to see, or selecting a data point to get additional detail? Can users perform analysis tasks --- including sort, drill and pivot --- by simply interacting with visual images or using drag-and-drop manipulation?
 -   **User experience:** What tutorials, online information, help, wizards, contextual aids, preferences, and communities are available to support the user?
@@ -189,40 +186,33 @@ Enables users to share and discuss information, analysis, analytic content and d
 
  |
 
-Resources
-=========
+# Resources
 
-### **Articles:**
+## Articles:
 
-<https://en.wikipedia.org/wiki/Business_intelligence>
+[https://en.wikipedia.org/wiki/Business_intelligence](https://en.wikipedia.org/wiki/Business_intelligence){:target="_blank"}
+[https://en.wikipedia.org/wiki/Data_warehouse](https://en.wikipedia.org/wiki/Data_warehouse){:target="_blank"}
+[https://tdwi.org/pages/maturity-model/analytics-maturity-model-assessment-tool.aspx](https://tdwi.org/pages/maturity-model/analytics-maturity-model-assessment-tool.aspx){:target="_blank"}
+[http://www.informationbuilders.com/products/webfocus/pdf/Gartner_BI_Matrix.pdf](http://www.informationbuilders.com/products/webfocus/pdf/Gartner_BI_Matrix.pdf){:target="_blank"}
 
-<https://en.wikipedia.org/wiki/Data_warehouse>
+## Blogs/Webcasts/News/Reference Resources:
 
-<https://tdwi.org/pages/maturity-model/analytics-maturity-model-assessment-tool.aspx>
+[http://www.jamesserra.com/archive/2013/06/business-intelligence-maturity-assessment/](http://www.jamesserra.com/archive/2013/06/business-intelligence-maturity-assessment/){:target="_blank"}
+[https://biguru.wordpress.com/2012/01/08/bi-maturity-models/](https://biguru.wordpress.com/2012/01/08/bi-maturity-models/){:target="_blank"}
 
-http://www.gartner.com/technology/reprints.do?id=1-2F5GQXN&ct=150513&st=sb
+# Authors
 
-http://www.informationbuilders.com/products/webfocus/pdf/Gartner_BI_Matrix.pdf
-
-### **Blogs/Webcasts/News/Reference Resources:**
-
-<http://www.jamesserra.com/archive/2013/06/business-intelligence-maturity-assessment/>
-
-<https://biguru.wordpress.com/2012/01/08/bi-maturity-models/>
-
-Authors
-=======
 
 ![Andres Hurtado](media/a_hurtado.jpg)
-### **Andres Hurtado**
-**Software Architect & Developer**
+## Andres Hurtado
+*Software Architect & Developer*
 
 Software architect and developer working inside private and public sectors. He has worked in Colombia, designing and implementing enterprise solutions and has over 14 years of experience in software development process, enterprise application integration and research about technologies to leverage the product development.
 
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
-## **Jaya Mudugal**
-**Information & Solution Architect**
+## Jaya Mudugal
+*Information & Solution Architect*
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\
 Proven mentor and trainer and can adapt quickly to the organisation's objectives and needs.

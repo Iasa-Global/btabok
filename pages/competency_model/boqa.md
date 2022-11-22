@@ -42,8 +42,6 @@ The IT Architect is also constrained by the resources made available to them inc
 
 # Proven Practices
 
-  
-
 As the IT Architect you should explain to the stakeholders the Quality Attributes under the following groupings or contexts.
 
 – Live Operations
@@ -58,9 +56,7 @@ There are industry standards such as ITIL and IVI (Innovation Value Institute) t
 
 # Sub-Capabilities
 
-  
-
-### **Live Operations**
+## Live Operations
 
 Applications and Systems will spend the majority of their lives in their operational environment, typically the effort or cost is 90%+ of the life time cost of the applications. So it is critical to get these attributes correct.
 
@@ -77,7 +73,7 @@ availability, correctness, dependability, failure transparency, fault-tolerance
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
 *   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
 
-### **Change Management**
+## **Change Management**
 
 When the solution is being designed the IT Architect may be directed by the organisations principles of Buy vs Build. The constraints associated with this principle has a significant impact on the Change Management process. Change Management either as Configuration or Customisation via code.
 
@@ -92,7 +88,7 @@ Some of the Quality Attributes that could be associated with Change Management; 
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
 *   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
 
-### **Organisations Strategy**
+## **Organisations Strategy**
 
 When the IT Architect has to identify and design a solution that is aligned with the Organisations long term strategy and if incorrectly chosen has serious consequences to the organisations ability to deliver on its organisations business strategy.
 
@@ -107,7 +103,7 @@ Some of the Quality Attributes that could be associated with Organisations Strat
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
 *   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
 
-### **Financial Business Case**
+## **Financial Business Case**
 
 The solution needs to be financial sustainable and be designed, delivered, operated inline with the Business Case.
 
@@ -128,7 +124,7 @@ Some of the Quality Attributes that could be associated with the Business Case; 
 
   
 
-### **Articles:**
+## **Articles:**
 
 [https://msdn.microsoft.com/en-us/library/ee658094.aspx](https://msdn.microsoft.com/en-us/library/ee658094.aspx)
 
@@ -140,13 +136,13 @@ Some of the Quality Attributes that could be associated with the Business Case; 
 
 [https://en.m.wikipedia.org/wiki/Requirement#Types\_of\_requirement](https://en.m.wikipedia.org/wiki/Requirement#Types_of_requirement)
 
-### **Blogs/Webcasts/News/Reference Resources:**
+## **Blogs/Webcasts/News/Reference Resources:**
 
 Software Architecture in Practice, Third Edition by Rick Kazman,Paul Clements, Len Bass Publisher: Addison-Wesley Professional Release Date: September 2012 ISBN: 9780321815736
 
 Economics-Driven Software Architecture by Ivan Mistrik , Rami Bahsoon , Rick Kazman , Yuanyuan Zhang ISBN-10: 0124104649
 
-### **Training:**
+## **Training:**
 
 ITIL Training [https://www.axelos.com/qualifications/itil-qualifications](https://www.axelos.com/qualifications/itil-qualifications){:target="_blank"}
 
@@ -154,6 +150,6 @@ ITIL Training [https://www.axelos.com/qualifications/itil-qualifications](https:
 
   
 
-### **Alistair Herriott**
+## **Alistair Herriott**
 
-### _Head of Strategy and Architecture, Communications and Media – Bearing Point_
+## _Head of Strategy and Architecture, Communications and Media – Bearing Point_
