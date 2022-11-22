@@ -10,9 +10,8 @@ toc_sticky: true
 ---
 
 
-“I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may.”
-
-Leonard Nimoy
+> "I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may."
+**Leonard Nimoy**
 
 # Forward to Getting Started by Paul Preiss
 
@@ -48,7 +47,7 @@ Digital transformation is a vendor phrase. It is about changing into something a
 
 The right hand navigation leads to semi-independent areas of knowledge exploration in the BTABoK and Iasa. The engagement model is represented by the primary diagram, however it is matched by the competency model, topic areas, the maturity model and structured canvases. All of these areas are connected under the BTABoK umbrella but may be used in independent ways.
 
-### IBAM
+## IBAM
 
 The focus of the entire BTABoK is to create outcomes in the four major areas of Digital Advantage. Imagine the digital customer, become a digital business, achieve a digital employee, and maximize digital operations.
 
@@ -56,31 +55,31 @@ This proves the lenses through which one measures the outcomes of the organizati
 
 It is interesting to note that currently as a part of our assessments both corporate and individual the majority of architecture practices are focused primarily on the Maximize area.
 
-### The Continuous Events (Diamonds)
+## The Continuous Events (Diamonds)
 
 The BTABoK treats the innovate, transform, utilize and measure diamonds as continuous events and activities both inside and outside the organization. They are related to the Lifecycles article but are treated as separate articles themselves as they are continuously happening throughout the enterprise and external to in industry, analysts, partners, customers, etc.
 
 The events then should be treated as things that neither the architects nor the organization can control, but only harness and take advantage of as quickly as possible or understand and maximize where they can.  
 
-### The Outcome Model
+## The Outcome Model
 
 The outcome model is the set of articles dedicated to what all members of a business hope to achieve. These are not just the concerns of the architects or technologists but the goals of the entire business as it relates to digital advantage. Thus the outcome model is how digital advantage is measured and is directly related to the Maturity Model used to measure the architecture practice. Each of the outcome articles relates to its area of impact (the IBAM areas) while the areas inside the circles relate to specifically to architecture, how it is executed, and how it creates these outcomes.
 
 The outcome model while directly shared with other business units should be the primary focus of the entire architecture practice. It should also be the commitment of any vendor and especially service integrators who provide architects to the enterprise to achieve results in these areas (see architecture practice article). Thus, the digital business model is as much the responsibility of a software architect as it is for a business architect. At the same time, maximizing digital operations excellence such as velocity, etc are as much the responsibility of the business architect as they are the information and infrastructure architects.
 
-### The Operating Model
+## The Operating Model
 
 The operating model was named because it includes the primary operational activities, techniques, tools and methods of the architecture practice. It includes things like roadmapping, requirements, decisions, etc. which are the methods and techniques that architects use to deliver on IBAM and digital advantage. These are generally the articles that architects focus on to change their way of working, for example designing better.
 
-### The Value Model
+## The Value Model
 
 The value model was named based on the techniques to understand quality, value, and outcomes in architecture. It connects the operating model with the people model, in a way. Too many architecture practices are simply consultative, they do not ‘own’ outcomes. The value model builds at the heart of the practice a shared concept of measuring outcomes both in business and engineering terms. Thus Architecture Analysis, which can be both business and structurally driven, architecture principles, technical debt and value methods are all a part of the value model.
 
-### The People Model
+## The People Model
 
 The people model is named primarily to deal with the people side of architecture, namely architects themselves. Note, this is different from the competency model which is a separately maintained body of knowledge on the competencies of an individual architect, including their specializatation. However it is the people model which connects the two bodies of knowledge together. It also includes things like how to organize architects, role descriptions, community methods and other valuable tools in practices especially as they grow beyond a couple of dozen architects towards the large value areas.
 
-### The Architecture Practice
+## The Architecture Practice
 
 The architecture practice is a single article which attempts to bring together the goals of a group of architects working towards the aims of the profession and working together to create outcomes for the organization that employees them. This article is focused on demonstrating why and how a practice model for professionals (such as a medical practice, a legal practice, an accounting practice) differ from the current way in which architects work together and are employed.
 
@@ -128,19 +127,19 @@ Corporate adoption normally includes some or all of the following:
 6. Advisory activities and mentoring of leadership for steering group formation,
 7. Collaboration with other Iasa corporate members and community.
 
-### Vendor or SI Adoption
+## Vendor or SI Adoption
 
 Service integrators and vendors have a very difficult position in maintaining architecture practices. This difficulty arises in the extreme differences between clients expectations, beliefs and capabilities related to architecture and the disconnection between vendor account teams thus leading to architects who do not work together. In addition, employee turn-over in the vendor community is very high leading to significant differences from architect to architect. Finally, vendors are often the most at risk for both hype and sales objectives to get in the way of architects providing true benefits to clients.
 
-### Government or NGO Adoption
+## Government or NGO Adoption
 
 Mission based organizations have as strong or even stronger need for architecture than for-profit companies as in many cases the problem space is much bigger and has very real impact on peoples lives. In addition value is much harder to understand in a mission based organization as it cannot be aligned to profitability. Many non-profits and government agencies have to deal with very high safety and liability issues, risk aversion, and beauracratic or political difficulties. This is a very exciting place to get architecture done but requires very careful handling and setup of federated methods across agencies, states, provinces, local governments etc. This often creates significant complexity as well as duplication of effort and difficulties in funding.
 
-### For-Profit Adoption
+## For-Profit Adoption
 
 For profit adoption in non-vendor organizations (those organizations whose primary value proposition to custoers is not technology or technology services) is the most common case for the BTABoK. It has been designed by individuals in banks, insurance firms, energy, and other industries. What is becoming more and more exciting for architects is the continued use of technology as a fundamental differentiator in the primary business model. This is what it means to achieve a digital business, one in which the business model itself is based on technology in the same way that Airbnb is a hotel company in one way but is actually just a web application company.
 
-### SME Adoption
+## SME Adoption
 
 One of the most underserved areas in architecture are small to medium business. Architects are rare enough that in general they will work for large organizations where the pay and benefits are significant. However, this area is growing and represents the vast majority of businesses in the world. These companies need great architects in some ways more than the big companies do as they cannot afford to fail at technology initiatives. One area for growth in the Topic Areas is SME architecture methods and techniques. This is a goal for BTABoK 4.0-5.0.
 
@@ -170,7 +169,7 @@ Iasa Training is broken up into phases and three types of education opportunitie
 | Professional Architect                   | Reaching professional architect designation requires demonstration of competencies beyond the classroom.                                                                                                                                                                   | The mentoringing program for professional architecture preparation involves demonstration of competencies with a mentor who may nominate the candidate for the Professional certification.                                                | The CoE is the optimal environment for creating professional architects within a mentoring and certification pathway. The mentoring is done on real projects and products under certified mentors both internally and externally.                                                                               |
 | Distinguished Architect                  | Continuing depth education in specialized areas.                                                                                                                                                                                                                           | Mentoring from distinguished architects in the form of advanced activities on large scale initiatives.                                                                                                                                    | Mentoring from distinguished architects in the form of advanced activities on large scale initiatives.                                                                                                                                                                                                          |
 
-### What are Learning Shots
+## What are Learning Shots
 
 Learning shots are 20-45 min online self-paced training that provides guidance and support on delivery of an architecture concept, canvas, technique, etc. These learning shots are combined into lessons and modules for some self-paced training.
 

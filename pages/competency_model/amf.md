@@ -10,15 +10,13 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 A "**Framework**: is a meta-level (a higher level of abstraction) through which a range of concepts, models, techniques, methodologies can either be clarified and/or integrated. A framework is a static model."
 
 A "**Methodology**: is an explicit way of structuring one's thinking and actions. Methodologies contain model(s) and reflect particular perspectives of 'reality' based on a set of philosophical paradigms. A methodology should tell us what steps to take, in what order and how to perform those steps but, most importantly, the reasons 'why' those steps should be taken, in particular order."
 
-Overview
-========
+# Overview
 
 Before we can really discuss architectural frameworks and methodologies, we need to really understand the difference between a *framework* and a *methodology*.
 
@@ -30,14 +28,13 @@ A framework *does not* instruct one in *"how"* to do the work, or the actual met
 
 The function of a successful practicing architect and the architecture practice at large is to rationalize and set the appropriate framework and methodology for the practice, align it to the organization and measure its execution and adoption. In addition to this, other peers and peer organization do the same function for their disciples (e.g. the PMO with PMLC or Security with the SLC) and am architect is expect to interface with these other frameworks and methodology to essentially set up the Organizations ecosystem, for frameworks and methodologies do complement each other often blending together synergistically. The better the synergy the more value the ecosystem provides to the Organization and the easier it is on the workforce.
 
-Proven Practices
-================
+# Proven Practices
 
 Multiple frameworks are used, and often roles are assigned to each framework within an organization. Typically you will need at least one planning framework, one project implementation one (for software and/or infrastructure) and one operations framework.
 
 A methodology is a defined, structured set of *processes*, *procedures* and *techniques* on "*how"* to get the work accomplished within the frame of the decline or domain. Methodologies most often include a set of specific practices for diagramming notation and documenting the results of the procedure for *communicating* the work; systematic approach for carrying out the procedure for *doing* the work; and an objective quantified set of criteria for *validating* the work.
 
-#### **Enterprise Architecture Frameworks**
+## Enterprise Architecture Frameworks
 
 -   The Open Group Architecture Framework (TOGAF)
 -   Gartner EA Framework
@@ -69,7 +66,7 @@ The Open Group Architecture Framework (TOGAF) is a set of models and tools for d
 
 The Zachman Enterprise Application Framework (EAF) is a "logical structure for classifying and organizing the descriptive representations of an enterprise that are significant to the management of the enterprise as well as to the development of the enterprise's systems."
 
-#### **SDLC Frameworks and Methods**
+## SDLC Frameworks and Methods
 
 -   Agile
 -   Scrum
@@ -103,8 +100,7 @@ Other factors that can provide the solutions architect with guidance in selectin
 -   **Experience and Skillset of the Team**, More experienced teams are often more effective with empirical methodologies. This also relates to team size and complexity. Larger teams can have members with more in-depth specialize skillsets whereas smaller teams require members who have diverse skillsets. A major key to note here when the team or project is small it does not mean that team or project does not need all the skill and knowledge depths of a larger team or project; complexity is on the rise and it is taking greater skill to tame.
 -   **Mandated Requirements**, industry or vertical requirements as well as regulatory and compliancy, for example, solutions developed for the pharmaceutical industry typically require more process and documentation.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
@@ -134,28 +130,22 @@ Sub-Capabilities
 
  |
 
-Resources
-=========
+# Resources
 
-### **Reference Resources:**
 
-*[http://systemsphd.wordpress.com/2009/11/18/difference-between-framework-and-methodology](http://systemsphd.wordpress.com/2009/11/18/difference-between-framework-and-methodology/)**[/](http://systemsphd.wordpress.com/2009/11/18/difference-between-framework-and-methodology/)*
+## Reference Resources:
 
-Ray W. Murphy, Professor Emeritus, Engineering, Gonzaga University / Seattle University\
-http://msdn.microsoft.com/en-us/library/bb466232.aspx
+[http://systemsphd.wordpress.com/2009/11/18/difference-between-framework-and-methodology](http://systemsphd.wordpress.com/2009/11/18/difference-between-framework-and-methodology/){:target="_blank"}
 
-See: http://www.whitehouse.gov/omb/assets/fea_doc/FEA_CRM_v23_Final_Oct_2007_Revised.pdf.
+[Ray W. Murphy, Professor Emeritus, Engineering, Gonzaga University / Seattle University](http://msdn.microsoft.com/en-us/library/bb466232.aspx){:target="_blank"}
 
-Sessions, Roger. "Comparison of the Top Four Enterprise Architecture Methodologies" whitepaper, http://www.objectwatch.com/whitepapers/4EAComparison.pdf.
+See: [The Gartner EA Framework provides both an EA Framework and an EA Process Model.](http://www.gartner.com/DisplayDocument?doc_cd=133132){:target="_blank"}  
 
-The Gartner EA Framework provides both an EA Framework and an EA Process Model.\
-See: http://www.gartner.com/DisplayDocument?doc_cd=133132
-
-Zachman, J.A. "A framework for information systems architecture," IBM Systems Journal, 26 3, 1987, http://www.research.ibm.com/journal/sj/263/ibmsj2603E.pdf
+Zachman, J.A. "A framework for information systems architecture," IBM Systems Journal, 26 3, 1987, [http://www.research.ibm.com/journal/sj/263/ibmsj2603E.pdf](http://www.research.ibm.com/journal/sj/263/ibmsj2603E.pdf){:target="_blank"}
 
 *Bijay* *K.* *Jayaswal**, Peter C. Patton, "Design for Trustworthy Software: Tools, Techniques, and Methodology of Developing Robust Software", Prentice Hall, 2007*
 
-*See:* *<http://en.wikipedia.org/wiki/Waterfall_model>*
+See: [http://en.wikipedia.org/wiki/Waterfall_model](http://en.wikipedia.org/wiki/Waterfall_model){:target="_blank"}
 
 *Mike Turner, "Microsoft® Solutions Framework Essentials: Building Successful Technology Solutions", Microsoft Press, 2006*
 
@@ -163,6 +153,6 @@ Zachman, J.A. "A framework for information systems architecture," IBM Systems Jo
 
 *Beck, Kent, "Test-Driven Development By Example", Addison Wesley Professional, 2002, and Newkirk,* *Vorontsov**, "Test-Driven Development in Microsoft® .NET", Microsoft Press, 2004*
 
-### **Training:**
+## **Training:**
 
-### **Certifications:**
+## **Certifications:**

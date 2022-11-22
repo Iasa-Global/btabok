@@ -10,15 +10,13 @@ tags:
   - it_environment
 ---
 
-Description
-===========
+# Description
 
 Application development defines and describes the varying approaches to building applications and includes COTS package selection and implementation and infrastructure upgrades. The functions of opportunity definition, preliminary analysis, software development, testing, deployment, and overall managing of the development environment and process will be covered.
 
 Architects are expected to be familiar or experienced with different ways to approach managing and structuring projects including waterfall, iterative and incremental, different levels of formality (from methods with a high degree of ceremony to agile approaches), i.e. the Software Development Life Cycle (SDLC). They must also think about how this fits in the management of the application as part of Application Life Cycle Management (ALM).
 
-Overview
-========
+# Overview
 
 The ability to understand how applications are developed is a key skill for architects, they play a pivotal role working with the project manager to define the approach for a project. This involves identifying what needs to be produced, in addition to tested code, to successfully develop the application, understanding the technical and architectural risks and proposing the appropriate mitigations, such as including a proof of concept. The architect will often lead the development of estimates using the appropriate techniques.
 
@@ -26,8 +24,7 @@ In large organizations there will usually be a development manager who takes ult
 
 The architect will be called on to provide input at project planning and shaping meetings and review plans produced by project managers. Architects will document the development environment as a view in the project architect document and coach and mentor the development team.
 
-Proven Practices
-================
+# Proven Practices
 
 Architects provide a unique cross discipline view of the activities involved in projects, across the business and the technical areas. The key challenge here is identifying the appropriate approach to application development required for each project and selling to the stakeholders, even when they hold a different view. The architect should have an understanding of Waterfall, Iterative and Agile methodologies.
 
@@ -35,10 +32,9 @@ The application development process should be able to change and improve, it is 
 
 As part of the early requirements identification of quality attributes any which affect the application development method to be used any will be captured and analyzed, for example compliance to Sarbanes Oxley Act (SOX) for some systems in some geographies.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Software Development Life Cycle**
+## **Software Development Life Cycle**
 
 Understand the various activities which are undertaken as part of software development project. Namely: understanding the business need within the domain, the domain, understand the different types of SDLC commonly used in software development projects and where each are most appropriate. The basic principles of SDLC have been defined in the SPEM (Software Process Engineering Model) 2.0 framework.
 
@@ -69,7 +65,7 @@ Understand the various activities which are undertaken as part of software devel
 
  |
 
-### **Application Life Cycle Management**
+## **Application Life Cycle Management**
 
 Understand the full life span of an application, including governance, development, and maintenance. It encompasses the SDLC used whilst developing an application and in addition covers software maintenance, change management, operational management, and release management. The architect should also understand the integration with Enterprise Architecture.
 
@@ -102,7 +98,7 @@ Understand the full life span of an application, including governance, developm
 
  |
 
-### **Development Technique and Tools**
+## **Development Technique and Tools**
 
 Architects will need to advise on the appropriate tools for each of the activities involved development and management of applications, for the areas which are the responsibility of the architect they are expected to be involved in their selection and usage. The architect will guide the project on issues such as adoption of modeling techniques, for example the use of UML. The architect will assist and mentor the development team with coding activities and will provide governance over the code review processes.
 
@@ -135,7 +131,7 @@ Architects will need to advise on the appropriate tools for each of the activiti
 
  |
 
-### **Product Selection**
+## **Product Selection**
 
 Understand when it is appropriate use a COTS product to meet the business need, work with the project manager to define the process required for selection. Understand what changes are needed to the SDLC and ALM when the majority of the solution is provided by an external product.
 
@@ -166,7 +162,7 @@ Understand when it is appropriate use a COTS product to meet the business need, 
 
  |
 
-### **Measuring Application Development**
+## **Measuring Application Development**
 
 The architect will facilitate improvements by changing approaches and working practices, this can be by identifying the key metrics on a project and ensuring they are correctly capture, this may involve issue tools such a JIRA and code analysis tools such as Sonar. In some organizations recognized models such as the Capability Maturity Model Integration (CMMI), the Software Process Improvement and Capability dEtermination model (SPICE), or COBIT may be used.
 
@@ -198,21 +194,17 @@ The architect will facilitate improvements by changing approaches and working pr
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 [Technical Project Management](technical_pm.md){:target="_blank"} (especially Estimating)
 
-Resources
-=========
+# Resources
 
 **Blogs/Webcasts/News/Reference Sources**
 
-Background and description of Waterfall -- <http://www.dcs.bbk.ac.uk/~sven/cdm06/cdm3.pdf>
+Agile approach -- [http://www.agilemodeling.com/](http://www.agilemodeling.com/){:target="_blank"}
 
-Agile approach -- <http://www.agilemodeling.com/>
-
-All things CMMI -- <https://www.sei.cmu.edu/cmmi/>
+All things CMMI -- [https://www.sei.cmu.edu/cmmi/](https://www.sei.cmu.edu/cmmi/){:target="_blank"}
 
 **Articles**
 
@@ -220,11 +212,10 @@ Software Engineering a Practitioner's Approach by Roger S Pressman, Darrel Ince.
 
 **Certifications **
 
-For the agile approach using Scrum -- <http://www.scrumalliance.org/>
+For the agile approach using Scrum -- [http://www.scrumalliance.org/](http://www.scrumalliance.org/){:target="_blank"}
 
-Author
-======
+# Author
 
-### **Chris Cooper-Bland**\
+## Chris Cooper-Bland
 *Group Head of Architecture -- Endava*
 

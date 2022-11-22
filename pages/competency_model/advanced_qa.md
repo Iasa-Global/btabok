@@ -10,8 +10,8 @@ tags:
   - software_architecture
 ---
 
-Description
-=========== 
+# Description
+ 
 
 **Q**uality **A**ttributes (QA), though a non-functional requirement, cannot be explained without functional requirements. Since differing focus on Quality Attributes lead to difference in software architecture even though the requirements remain same, it is more meaningful to call these 'non-functional' requirements as 'extra-functional' requirements.
 
@@ -24,8 +24,8 @@ Learner must be through various QAs and its definitions and primary applicabilit
 -   How to identify and list out tangible benefits of a QA? This helps in prioritizing a QA over another.
 -   How to enable decision making using QA cost and benefits?
 
-Overview
-========
+# Overview
+
 
 Requirements are not sufficient to develop architecturally good software. Different architects would produce a different architecture for the same requirements. An architect who had elicited and understood Quality Attributes well can have a better architecture than the others.  Additionally, one who had understood underpinning of quality attributes with other QAs can have a much better architecture.
 
@@ -37,12 +37,11 @@ Architect is the primary owner of this skill. He needs to eke out information fr
 
 Architect has to focus on requirements that are architecturally more important. For this (s)he should be able to identify ASR.  For identifying ASR (s)he is required to organize a QAW or similar effort to collect scenarios. Without clarity on these it is difficult to provide an architecture that suits the stakeholders current and some future requirements that are predictable today.
 
-Proven Practices
-================
+# Proven Practices
 
 Quality attributes are not visibly listed in requirement documentation. They are hidden between the lines and difficult to decipher. Often time stakeholders have little idea about how a QA would affect the software unless an Architect helps them to see connection between requirement and QA. Architect has to bring QA forward and list them out. This helps an architect to focus on items which are keys to developing successful software architecture under given constraints.
 
-### **A**rchitecturally **S**ignificant **R**equirements (ASR)
+## **A**rchitecturally **S**ignificant **R**equirements (ASR)
 
 Refer [Requirement discovery and constraint Analysis under Business Technology Strategy](requirements_discovery_and_constraints_analysis.md){:target="_blank"} for how to do requirement discovery.
 
@@ -66,7 +65,7 @@ The first step in collecting ASR is to read the requirement documents carefully.
     1.  This covers every other category listed above. In each case there is a binding time decision involved.
     2.  For e.g. in resource management, the system should be able to accept a new device that is plugged in at runtime.
 
-### Quality Attribute Workshop (QAW)
+## Quality Attribute Workshop (QAW)
 
 The next step is to interview stakeholders. If the number of stakeholders is large one has to choose whom to talk to. This could be dependent on the size of the effect on the design of the system by stakeholders.
 
@@ -102,7 +101,7 @@ Stakeholders involve architect at an early stage to get the architecture correct
 
 Stakeholders should understand that same requirement can have very different implementation from different people. Success depends on how well the ASR is identified and mapped to one or more QA. Since stakeholders are involved in for a long haul, they want continuity with the software in future. For the sake of using software for a long time it is necessary to involve an Architect early on because architecture cannot be changed at a later date and rewrite is very costly.
 
-### Quality Attribute Scenario:
+## Quality Attribute Scenario:
 
 As seen above the writing of an appropriate QA Scenario is very important to get the ASR right. Quality attribute scenario has the following important parts:
 
@@ -123,11 +122,11 @@ As seen above the writing of an appropriate QA Scenario is very important to get
 
 Two characteristic comes if QA is written this way. One, since specific measurement of the response has to be documented, the scenario becomes testable. Second, since we know clearly the stimulus, response, environment it occurs in and the artifacts it affects, it is unambiguous.
 
-### Quality Attribute Testing
+## Quality Attribute Testing
 
 The testing of QA differs from one attribute to another.  Some of them can be tested using Analytical model others need a checklist. In some cases one need to create model (prototype) to test. We will cover some of the QA here.
 
-#### Performance
+## Performance
 
 Assume the software has used Model View Controller (MVC) design. We need to know the following information
 
@@ -141,17 +140,17 @@ Assume the software has used Model View Controller (MVC) design. We need to know
 
 With these details one can calculate the latency of the system.
 
-#### Security
+## Security
 
 In case of security mostly it is a checklist. The checklist is sourced from many sources. For e.g. for payment receiving websites it has to follow the checklist of Payment Card Industry (PCI) as part of their security checklist.
 
 The checklist can also be sourced from internal to the company. For e.g. if company do not serve a particular country it may not permit log-in from that country. The security testing checklist should include a test around who can or cannot log-in including successful and failure tests. This is the access rights testing.
 
-### Balancing and optimizing quality attributes
+## Balancing and optimizing quality attributes
 
 Refer [Balancing and Optimizing Quality attributes under Quality Attribute Pillar](boqa.md){:target="_blank"}
 
-### Architecture Evaluation
+## Architecture Evaluation
 
 The most common evaluation method is Architecture Trade-off Analysis Method(ATAM).
 
@@ -173,7 +172,7 @@ It has 4 phases as follows:
     -   Present the result of the evaluation to the stakeholders
 -   Follow-up. Prepare final report and submit.
 
-### Economic analysis of Quality Attributes
+## Economic analysis of Quality Attributes
 
 Also refer [Business Valuation under Business Technology Strategy](business_valuation.md){:target="_blank"}
 
@@ -183,11 +182,9 @@ This starts with the QA Scenarios collected and refined in QAW and similar effor
 
 The process explained above is called Cost Benefit Analysis Method (CBAM).
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-Quality Attribute Discovery
----------------------------
+## Quality Attribute Discovery
 
 Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:target="_blank"}
 
@@ -229,8 +226,7 @@ Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:ta
 
  |
 
-Quality attribute scenarios
----------------------------
+## Quality attribute scenarios
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to define functions and quality of a system
@@ -262,8 +258,7 @@ Quality attribute scenarios
 
  |
 
-Quality Attribute Design Strategy
----------------------------------
+## Quality Attribute Design Strategy
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to list out characteristics of Attribute-driven design (ADD)
@@ -291,8 +286,7 @@ Quality Attribute Design Strategy
  |
 | **CITA -- Professional** | --          Learner will be able to develop design approaches for ASR |
 
-Software Architecture evaluation
---------------------------------
+## Software Architecture evaluation
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to list out evaluation factors
@@ -324,8 +318,7 @@ Software Architecture evaluation
 
  |
 
-Quality Attribute Testing
--------------------------
+## Quality Attribute Testing
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to list out source of ideas for a QA testing
@@ -341,8 +334,7 @@ Quality Attribute Testing
  |
 | **CITA -- Professional** | --          Learner will be able to list out testing requirements for a particular QA testing |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   Business Technology Strategy Pillar
     -   Business Valuation
@@ -357,32 +349,28 @@ Related Capabilities
     -   Security
     -   Usability et al
 
-Resources
-=========
+# Resources
 
-#### Articles:
+## Articles:
 
-[SEI Quality Attribute Workshop -- 3rd Edition](http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=6687)
+[SEI Quality Attribute Workshop -- 3rd Edition](http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=6687){:target="_blank"}
 
-[Architecture Best Practices for Project and Technical Leaders](http://resources.sei.cmu.edu/asset_files/Presentation/2014_017_101_423682.pdf)
+[Architecture Best Practices for Project and Technical Leaders](http://resources.sei.cmu.edu/asset_files/Presentation/2014_017_101_423682.pdf){:target="_blank"}
 
-[Architecturally Significant Requirements -- Paul Preiss](https://btabok.iasaglobal.org/architecturally-significant-requirements/)
+[Architecturally Significant Requirements -- Paul Preiss](https://btabok.iasaglobal.org/architecturally-significant-requirements/){:target="_blank"}
 
-[A taxonomy of testing types -- Software Engineering Institute -- CMU](http://www.sei.cmu.edu/events/info.cfm?eventID=C6EF2F81-FDA6-EFDA-0C126202901E6E69)
+[Classification of Software Prototyping](http://resources.sei.cmu.edu/asset_files/TechnicalReport/1992_005_001_16067.pdf){:target="_blank"}
 
-[Classification of Software Prototyping](http://resources.sei.cmu.edu/asset_files/TechnicalReport/1992_005_001_16067.pdf)
+## Blogs/Webcasts/News/Reference sources:
 
-#### Blogs/Webcasts/News/Reference sources:
+[IASA Foundation BTABoK](https://btabok.iasaglobal.org){:target="_blank"}
 
-[IASA Foundation BTABoK](https://btabok.iasaglobal.org)
+[Software architecture in Practice-3rd Edition](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264){:target="_blank"}
 
-[Software architecture in Practice-3rd Edition](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)
+[Microsoft Application Architecture Guide-2nd Edition-2009](https://msdn.microsoft.com/en-us/library/ee658094.aspx){:target="_blank"}
 
-[Microsoft Application Architecture Guide-2nd Edition-2009](https://msdn.microsoft.com/en-us/library/ee658094.aspx)
+[Evaluating Software Architecture](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30698){:target="_blank"}
 
-[Evaluating Software Architecture](http://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30698)
+# Author
 
-Author
-======
-
-### **Sanjay Mishra**
+## Sanjay Mishra

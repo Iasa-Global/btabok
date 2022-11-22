@@ -10,8 +10,7 @@ tags:
   - design
 ---
 
-Description
-===========
+# Description
 
 The Architecture Description describes the architecture of a system (or systems), and provides detailed architecture communication, includes diagramming notation, architecture views and viewpoints. The goal of the Architecture Description (AD) is to transform the collected and organized architectural information and intents into viable models, describing the functional and non-functional requirements of the architecture. The Architecture Description also captures the principles which guide the development of the architecture, significant architecture decisions and acts as a repository of knowledge for the architecture of a system.
 
@@ -19,8 +18,7 @@ Architecture Descriptions are generally expressed in a formal Architecture Descr
 
 Architects are expected to be familiar with different Architecture Description Languages (ADLs) and to be capable of determining when specific elements of an ADL are required to deliver value to the project at hand. The architecture domains covered in the Architecture Description, and the level of detail contained will vary according to factors such as the complexity of the project, the scope and the SDLC to be employed to deliver the solution.
 
-Overview
-========
+# Overview
 
 The ability to clearly and concisely describe (and document) the architecture for a solution is a key skill for architects, since the Architecture Description forms the "common language" by which the technical team gains a consistent understanding of the system to be delivered; additionally the Architecture Description is the starting point for other views and perspectives which may need to be created to communicate to other (non-technical) stakeholders. Another important role of the AD is to quickly and consistently bring new members of the technical team up-to-speed with the architecture of the system; as such the AD must be maintained during the SDLC to ensure it reflects the current state of the architecture for the system.
 
@@ -49,8 +47,7 @@ The AD should support the necessary views and perspectives needed to satisfy the
 -   Describe value to the business
 -   State existing standards and strategies which will guide the development of the architecture
 
-Corporate Best Practices
-========================
+# Corporate Best Practices
 
 -   Adopt industry standards wherever possible -- the easy availability of tooling and training is a significant benefit.
 -   When adopting a standard AD, resist the urge to customize too much in the early phases of the adoption. Early customization requests often come from poor understanding. Grow maturity before adapting a standard.
@@ -64,11 +61,9 @@ Corporate Best Practices
     -   The architecture will be more acceptable to a stakeholder if reflected from their view point.
     -   Create different models and views for the same concepts to suit people in different roles, responsibilities, and background
 
-Sub-Components Skills
-=====================
+# Sub-Components Skills
 
-Architecture Description Languages
-----------------------------------
+## Architecture Description Languages
 
 An Architecture Description Language (ADL) is a notation for representing architectures with the purpose of capturing the output of the architecture design process, aiding communication with stakeholders and capturing a model of the system. ADLs can be formal or informal, and typically consist of "box and line" style diagrams although textual ADLs exist. For further information on ADLs see the Resources section at the end of this topic.
 
@@ -103,8 +98,7 @@ An Architecture Description Language (ADL) is a notation for representing archit
 
  |
 
-Architecture Tools & Techniques
--------------------------------
+## Architecture Tools & Techniques
 
 Architects will need to advise on the appropriate tools & techniques to support the development and management of Architecture Descriptions, and participate in their evaluation and selection. The architect will guide the project on the adoption of architecture tools and techniques, and provide assistance and mentoring to the team as required.
 
@@ -137,8 +131,7 @@ Architects will need to advise on the appropriate tools & techniques to support 
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   [Requirements Modeling](requirements_modeling.md){:target="_blank"}
 -   [Views and Viewpoints](views_viewpoints.md){:target="_blank"}
@@ -148,50 +141,45 @@ Related Capabilities
 -   [Software Architecture Tools](software_at.md){:target="_blank"}
 -   [Writing Skills](writing_skills.md){:target="_blank"}
 
-Resources
-=========
+# Resources
 
-Architecture Description
-------------------------
+## Architecture Description
 
 -   ISO/IEC/IEE 42010 "Systems and software engineering -- Architecture description"\
-    (supersedes IEEE 1471) -- <https://standards.ieee.org/findstds/standard/42010-2011.html>
--   Architectural Blueprints -- The 4+1 View Model of Software Architecture -- <http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf>
--   Software Systems Architecture, Rozanski & Woods -- <http://www.viewpoints-and-perspectives.info>
--   Documenting Software Architectures -- Views and Beyond, Clements et. al. -- <http://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering/dp/0321552687>
+    (supersedes IEEE 1471) -- [https://standards.ieee.org/findstds/standard/42010-2011.html](https://standards.ieee.org/findstds/standard/42010-2011.html){:target="_blank"}
+-   Architectural Blueprints -- The 4+1 View Model of Software Architecture -- [http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf](http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf){:target="_blank"}
+-   Software Systems Architecture, Rozanski & Woods -- [http://www.viewpoints-and-perspectives.info](http://www.viewpoints-and-perspectives.info){:target="_blank"}
+-   Documenting Software Architectures -- Views and Beyond, Clements et. al. -- [http://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering/dp/0321552687](http://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering/dp/0321552687){:target="_blank"}
 
-Architecture Description Languages
-----------------------------------
+## Architecture Description Languages
 
-### Architecture Description Languages ("Mainstream")
+## Architecture Description Languages ("Mainstream")
 
 Architecture Description languages are still largely a research activity with only 2 languages really considered "mainstream", with UML an established and generally accepted "lingua franca" of software design, and ArchiMate being a recently emerging but widely supported ADL.
 
--   UML -- <http://www.uml.org>
--   ArchiMate -- <http://www.opengroup.org/subjectareas/enterprise/archimate>
+-   UML -- [http://www.uml.org](http://www.uml.org){:target="_blank"}
+-   ArchiMate -- [http://www.opengroup.org/subjectareas/enterprise/archimate](http://www.opengroup.org/subjectareas/enterprise/archimate){:target="_blank"}
 
-### Architecture Description Languages ("Experimental")
+## Architecture Description Languages ("Experimental")
 
 There are a large number of less well known and less well supported ADL, including those below. When considering the selection of an ADL it is important to take into account the level of adoption and tool support available for that ADL. Unless you operate in a very specialized domain it is likely that one of the mainstream ADLs will meet your needs, in addition to having readily accessible training and tool support.
 
--   xADL -- <http://isr.uci.edu/projects/xarchuci/>
--   ACME / ADML (CMU/USC) -- <http://www-2.cs.cmu.edu/~acme/>
--   Rapide (Stanford) -- <http://complexevents.com/stanford/rapide/>
--   Wright(CMU) -- <http://www.cs.cmu.edu/~able/wright/>
+-   xADL -- [http://isr.uci.edu/projects/xarchuci/](http://isr.uci.edu/projects/xarchuci/){:target="_blank"}
+-   ACME / ADML (CMU/USC) -- [http://www-2.cs.cmu.edu/~acme/](http://www-2.cs.cmu.edu/~acme/){:target="_blank"}
+-   Rapide (Stanford) -- [http://complexevents.com/stanford/rapide/](http://complexevents.com/stanford/rapide/){:target="_blank"}
+-   Wright(CMU) -- [http://www.cs.cmu.edu/~able/wright/](http://www.cs.cmu.edu/~able/wright/){:target="_blank"}
 -   Unicon (CMU) --
--   ByADL (Build Your ADL) -- University of L'Aquila -- <http://byadl.di.univaq.it/>
--   LePUS3 and Class-Z (University of Essex) -- <http://lepus.org.uk/>
--   ABACUS (UTS) -- <http://www.avolution.com.au/>
+-   ByADL (Build Your ADL) -- University of L'Aquila -- [http://byadl.di.univaq.it/](http://byadl.di.univaq.it/){:target="_blank"}
+-   LePUS3 and Class-Z (University of Essex) -- [http://lepus.org.uk/](http://lepus.org.uk/){:target="_blank"}
+-   ABACUS (UTS) -- [http://www.avolution.com.au/](http://www.avolution.com.au/){:target="_blank"}
 
-Author
-======
+# Author
 
 ![Sean Gordon](media/s_gordon.jpg)
+## Sean Gordon
+*Technical Expert for Solution Architecture -- Chevron*
 
-**Sean Gordon**
-### **Technical Expert for Solution Architecture -- Chevron**
+Sean Gordon works for Chevron [http://www.chevron.com/](http://www.chevron.com/){:target="_blank"} where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
 
-Sean Gordon works for Chevron (<http://www.chevron.com/>) where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
-
-Sean is an Honorary Lecturer at Dundee University School of Computing (<http://www.computing.dundee.ac.uk/>). He is also a member of the judging panel for the ScotlandIS Young Software Engineer of the Year Awards (<http://www.scotlandis.com/>).
+Sean is an Honorary Lecturer at Dundee University School of Computing [http://www.computing.dundee.ac.uk/](http://www.computing.dundee.ac.uk/){:target="_blank"}. He is also a member of the judging panel for the ScotlandIS Young Software Engineer of the Year Awards [http://www.scotlandis.com/](http://www.scotlandis.com/){:target="_blank"}.
 

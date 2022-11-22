@@ -10,12 +10,11 @@ tags:
   - it_environment
 ---
 
-Description
-===========
+# Description
 
 Set of business practices that join financial, contractual and inventory functions to support life cycle management and strategic decision making for the IT environment. It includes management of intellectual property of solutions and architectural components within the IT environment. Assets can include document formats, video, audio, configuration information, and any other way that knowledge is stored and transferred.
 
-### **Expectations**
+## **Expectations**
 
 -   Understands primary concepts in asset management
 -   Has working knowledge of asset management technologies
@@ -26,10 +25,10 @@ Set of business practices that join financial, contractual and inventory functio
 | Service, Warranty and Licensing Management | Management practices that help organization to manage portfolio of services, licenses and warranties from multiple vendors, protecting an organization from losses due to mis-licensing or warranty expirations. |
 | Sustainability Management for IT | The specification, planning and management of changes to IT assets, systems, processes or practices intended to reduce or constrain consumption and/or disposal of energy or materials, within the context of company strategy and policy, and regulatory and contractual requirements. |
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Asset Management**
+
+## **Asset Management**
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
@@ -62,14 +61,14 @@ Sub-Capabilities
 
  |
 
-Resources
-=========
+# Resources
 
-### **Articles:**
 
-### **Blogs/Webcasts/News/Reference Resources:**
+## **Articles:**
 
-### **Training:**
+## **Blogs/Webcasts/News/Reference Resources:**
 
-### **Certifications:**
+## **Training:**
+
+## **Certifications:**
 
