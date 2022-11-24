@@ -10,8 +10,7 @@ tags:
   - business_architecture
 ---
 
-Description 
-===========
+# Description 
 
 There are many definitions for Business Strategy proposed by multitudes of authors. The definition can be aggregated as either separately or in combination. Strategy is a high level plan to achieve one or more goals under conditions of uncertainty. According to Porter there are three principles  underlying strategy: creating a "unique and valuable [market] position", making trade-offs by choosing "what not to do", and creating fit  by aligning company activities with one another to support the chosen strategy(1). Strategy can also be seen as a coherent set of analyses, concepts, policies, arguments and actions that respond to high stakes challenge (2). Business is defined as an organization involved in the trade of goods, services or both to consumers (3). Business Strategy can be expressed in the form of Strategic Management Frameworks (**Figure 1**) or the strategy map (**Figure 2**).
 
@@ -23,13 +22,11 @@ There are many definitions for Business Strategy proposed by multitudes of autho
 
 ![strategy_map](media/business_strategy002.png)
 
-Overview
-========
+# Overview
 
 Business strategy is pertinent to the architect as it is the foundation for his value delivery to the organization. The capability to review the business strategy is important for the architect to contribute in terms of technology and architectural aspects during  the lifecycle of business strategy management. The architect has many roles to carry out during the Business Strategy management and lifecycle. The main role is to be the technology strategist and contribute on how technology can be leveraged to achieve the outcomes for the business strategy (6).
 
-Proven Practices
-================
+# Proven Practices
 
 The architects role can be segregated according to the phases of the Management of the business strategy (7). During the development phase, to be an active part of the team developing the business strategy, contributing on the architectural and technology aspects during the strategic analysis and formulation of the business strategy and maintaining traceability to the mission vision and value.
 
@@ -160,7 +157,7 @@ Author
 ======
 
 ![Dr. Ariffin Mokhtar](media/a_mokhtar.jpg)
-## **Dr. Ariffin Mokhtar**
+## Dr. Ariffin Mokhta
 **Director of Health Informatics**
 
 Dr. Ariffin Marzuki bin Mokhtar is a National Specialist Registered (NSR) Anesthesiologist that graduated from the Universiti Kebangsaan Malaysia (UKM) (2002), and is currently practicing as a Consultant Anesthesiologist at the National Heart Institute (Institut Jantung Negara-IJN), Malaysia. He is a Certified Professional in Health Information Management and Systems (CPHIMS), a Certified IT Architect- Associate (CITA-A) and is Open Group Architecture Framework 9.1 Certified.

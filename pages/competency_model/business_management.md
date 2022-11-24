@@ -12,7 +12,6 @@ tags:
 
 # Description
 
-
 From time to time, one of the major challenges an Architect usually faces is misalignment between technology and “the business”. Therefore, they need to have in-depth understandings on organization profile particularly its vision, mission, goals and objectives. Digging in deeper, they need to identify multi-faceted business elements ranging from business environments, terms, values, benefits, drivers, principles, strategy, plans, needs, functions, services, processes, roles, capabilities and impacts to later on identify business problems and most importantly business opportunities.
 
 In such cases, there might be a need to verify and update the currently documented business strategy and plans, and/or to bridge between high-level business drivers, business strategy, and goals on the one hand, and the specific, relevant business requirements.
@@ -26,8 +25,6 @@ Additionally, extensive knowledge in Business Process Management (BPM) including
 Nonetheless, cut the case short, Architect must be able to master the language of business and language of architecture, and on the flip side of a coin, language of technology.
 
 # Overview
-
-  
 
 **Why does an architect need this skill?**
 
@@ -78,8 +75,6 @@ The Architect would be expected to be able to:
 
 # Proven Practices
 
-  
-
 **Describe why an architect should be involved in this skill at a corporate level**
 
 Due to effects that changes to processes have on the working habits of individuals, interaction skills are valuable in a BPM initiative. As such the Architect have to be on the neutral side by being an independent facilitator of the change. They are urged to frequently negotiate and arbitrate between individuals with different opinions, and expose and resolve conflicts between different groups within the organization.
@@ -108,9 +103,7 @@ Ideally, the Architect works at highest levels of abstraction, ambiguity and com
 
 # Sub-Capabilities
 
-  
-
-#### BUSINESS CAPABILITY ANALYSIS
+## BUSINESS CAPABILITY ANALYSIS
 
 Prioritize capability gaps in relation to values (business and customer) and various risks (business, technology, organizational and market). The Architect should be able to provide a framework for scoping and planning by identifying shared understanding of outcomes, pinpointing alignment with strategy, as well as categorizing scope and prioritization filter.
 
@@ -132,7 +125,7 @@ Prioritize capability gaps in relation to values (business and customer) and var
 *   The Learner shall demonstrate how to align business initiatives across multiple aspects of the organization
 *   The Learner must attain support from executives as well as business owners and SME as the stakeholders in developing Business Capability Analysis
 
-#### BUSINESS PROCESS MANAGEMENT
+## BUSINESS PROCESS MANAGEMENT
 
 Address single process with limited scope or might address all processes in the organization with focus on how the processes of an organization can be changed in order to improve and meet business objectives as an ongoing effort and an integral part of ongoing management and organization operational activities.
 
@@ -151,38 +144,36 @@ Address single process with limited scope or might address all processes in the 
 
 # Resources
 
-  
+## Reference Resources
 
-### **Reference Resources**
+## Blogs/Webcasts/News:
 
-##### **Blogs/Webcasts/News:**
+IASA IT Architecture Body of Knowledge (BTABoK) [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/){:target="_blank"}
 
-IASA IT Architecture Body of Knowledge (BTABoK) [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
-
-The Open Group Architecture Framework (TOGAF) [http://www.opengroup.org/publications/togaf](http://www.opengroup.org/publications/togaf)
+The Open Group Architecture Framework (TOGAF) [http://www.opengroup.org/publications/togaf](http://www.opengroup.org/publications/togaf){:target="_blank"}
 
 A Guide to the Business Analysis Body of Knowledge (BABOK) Guide v3
 
-[https://www.iiba.org/babok-guide.aspx](https://www.iiba.org/babok-guide.aspx)
+[https://www.iiba.org/babok-guide.aspx](https://www.iiba.org/babok-guide.aspx){:target="_blank"}
 
 International Institute of Business Analysis (IIBA) Business Analysis Competency Model Version 3
 
-[https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx](https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx)
+[https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx](https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx){:target="_blank"}
 
-**Training:**
+## Training:
 
 IASA Architect Core
 
-IASA Training [https://iasaglobal.org/](https://iasaglobal.org/)
+IASA Training [https://iasaglobal.org/](https://iasaglobal.org/){:target="_blank"}
 
-TOGAF [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program)
+TOGAF [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program){:target="_blank"}
 
-IIBA [https://www.iiba.org/Learning-Development.aspx](https://www.iiba.org/Learning-Development.aspx)
+IIBA [https://www.iiba.org/Learning-Development.aspx](https://www.iiba.org/Learning-Development.aspx){:target="_blank"}
 
-#### **Certifications:**
+## Certifications:
 
-IASA Certification [https://iasaglobal.org/](https://iasaglobal.org/)
+IASA Certification [https://iasaglobal.org/](https://iasaglobal.org/){:target="_blank"}
 
-The Open Group Certification [http://www.opengroup.org/certifications](http://www.opengroup.org/certifications)
+The Open Group Certification [http://www.opengroup.org/certifications](http://www.opengroup.org/certifications){:target="_blank"}
 
-IIBA Certification [https://www.iiba.org/Certification-Recognition/Benefits-of-IIBA-Certification/What-is-Professional-Certification.aspx](https://www.iiba.org/Certification-Recognition/Benefits-of-IIBA-Certification/What-is-Professional-Certification.aspx)
+IIBA Certification [https://www.iiba.org/Certification-Recognition/Benefits-of-IIBA-Certification/What-is-Professional-Certification.aspx](https://www.iiba.org/Certification-Recognition/Benefits-of-IIBA-Certification/What-is-Professional-Certification.aspx){:target="_blank"}

@@ -10,15 +10,13 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 Business valuation of technology is the process of systematic assessment of tangible and intangible value anticipated and arising from investments in information technology. It is the capability of determining how and when to invest in particular technology directions and how to manage the overall portfolio of technology investments. Business valuation is used for proving financial benefit of architecture choices, by applying common techniques used for evaluation of all investments allocated to running an enterprise.
 
 Business valuation of technology is measured and expressed in common economic parameters used by management for monitoring performance of resources allocated to the enterprise. Examples of these include financial parameters such as Return on Investment (ROI), Economic Value Add (EVA), shareholder value, revenue, margins and business metrics such as customer satisfaction, growth etc.
 
-Overview
-========
+# Overview
 
 Business valuation for technology is where the "rubber meets the road" in designing and aligning IT architecture, using available financial resources, with business strategy and prioritizing against competing business needs for resources. It drives the translation of an architect's vision into pragmatic implementation choices such as selection of technology, standards and methodologies, implementation roadmap and prioritization of projects.
 
@@ -43,8 +41,7 @@ Architects should have knowledge of all technology and implementation components
 
 A key challenge for architects is treating business valuation as a required skill both within the architect organization and recognition of the same by business. Architects also have to work with partial information and conservative assumptions on business value. Another challenge is running architecture design through an iterative process and making pragmatic decisions especially on financial constraints.
 
-Proven Practices
-================
+# Proven Practices
 
 -   Understanding financial valuation techniques and having an institutionalized process for business valuation of technology.
 -   Using/building tools for business valuation of IT.
@@ -55,8 +52,7 @@ Proven Practices
 -   Avoiding valuation trap -- excessive valuation leading to decision paralysis.
 -   Using standard frameworks such as  ISACA's Val-IT for benefit management.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
 ### **Financial Expression of Technology Decisions**
 
@@ -199,27 +195,26 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
--   [Business Fundamentals](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/business-fundamentals/)
--   [Investment Planning and Priortization](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/investment-prioritization-and-planning/)
+-   [Business Fundamentals](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/business-fundamentals/){:target="_blank"}
+-   [Investment Planning and Priortization](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/investment-prioritization-and-planning/){:target="_blank"}
 
-Resources
-=========
+# Resources
 
 -   Definitions -- IASA ITABoK Definitions, IASA -- Business Technology Strategy Training
 -   Blogs/Webcasts/News/Reference sources --
-    -   ISACA Value IT -- <http://www.isaca.org/Knowledge-Center/Val-IT-IT-Value-Delivery>
-    -   [www.liteea.com](http://www.liteea.com/) -- [Information **Technology Business Case** Development Guide](http://www.google.co.in/url?url=http://www.liteea.com/slgcp/governance/investment/business_case.pdf&rct=j&frm=1&q=&esrc=s&sa=U&ei=dxwpVPiLEZKgugT29YDoDw&ved=0CCUQFjAD&usg=AFQjCNFJzhtVVhsDGJ7GR1S7VT9YFWnDXg)
+    - ISACA Value IT -- [http://www.isaca.org/Knowledge-Center/Val-IT-IT-Value-Delivery](http://www.isaca.org/Knowledge-Center/Val-IT-IT-Value-Delivery){:target="_blank"}
+    - [www.liteea.com](http://www.liteea.com/){:target="_blank"} -
+    - [Information **Technology Business Case** Development Guide](http://www.google.co.in/url?url=http://www.liteea.com/slgcp/governance/investment/business_case.pdf&rct=j&frm=1&q=&esrc=s&sa=U&ei=dxwpVPiLEZKgugT29YDoDw&ved=0CCUQFjAD&usg=AFQjCNFJzhtVVhsDGJ7GR1S7VT9YFWnDXg){:target="_blank"}
     -   Accenture's White Paper on **Technology** Solutions **Pricing** and Licensing
 -   Books
     -   IT Financial Management: The Business of IT By Robert Ryan,Tim Raducha-Grace
     -   Making Technology Investments Profitable: ROI Roadmap to Better Business Cases,Keen and Digrius, 2001, John Wiley and Sons, Hoboken, NJ ISBN: 0471491918
 
-Author
-======
+# Author
 
 ![maya_more](media/maya_more.jpg)
+## Maya More
 
-Maya More is an IASA member and CITA-Foundation certified architect having over 19 years experience in business technology consulting, enterprise architecture and technology implementation. She has worked with global businesses in multiple countries and industries such as insurance, healthcare and oil & gas. She currently works as Architecture and Technology SME for a leading oil & gas corporation in India.
+ is an IASA member and CITA-Foundation certified architect having over 19 years experience in business technology consulting, enterprise architecture and technology implementation. She has worked with global businesses in multiple countries and industries such as insurance, healthcare and oil & gas. She currently works as Architecture and Technology SME for a leading oil & gas corporation in India.
