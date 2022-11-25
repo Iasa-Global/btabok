@@ -251,11 +251,10 @@ Reflecting the dynamic nature of capacity management in a cloud service it is cr
 ## **Baseline Current Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to describe general approach to baselining current capacity of target service, process, application, system.
+| **CITA -- Foundation** | --          Learner will be able to describe general approach to baselining current capacity of target service, process, application, system.|
+| |--          Learner will be able to name some of the different approaches to baselining current capacity.|
 
---          Learner will be able to name some of the different approaches to baselining current capacity.
 
- |
 | **CITA -- Associate** | --          Learner will be able to describe the differences between various approaches to capacity baselining.
 
 --          Learner will be able to describe the key elements of current capacity baselining as practiced by architects in different domains.
@@ -276,8 +275,8 @@ Reflecting the dynamic nature of capacity management in a cloud service it is cr
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to describe general approach to capacity design of target service, process, application, system.
+| | --          Learner will be able to name some of the different approaches to capacity design.
 
---          Learner will be able to name some of the different approaches to capacity design.
 
  |
 | **CITA -- Associate** | --          Learner will be able to describe the differences between various approaches to capacity design.
