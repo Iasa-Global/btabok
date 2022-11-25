@@ -227,97 +227,85 @@ Reflecting the dynamic nature of capacity management in a cloud service it is cr
 ## Determine & Agree Capacity Requirements
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to describe general approach to gathering and agreeing capacity requirements.
 
---          Learner will be able to name some of the different approaches to capacity requirements gathering e.g. waterfall, agile.
+| **CITA -- Foundation** | -- Learner will be able to describe general approach to gathering and agreeing capacity requirements.
+| | -- Learner will be able to name some of the different approaches to capacity requirements gathering e.g. waterfall, agile.
+|
 
- |
-| **CITA -- Associate** | --          Learner will be able to describe the differences between various approaches to gathering and agreeing capacity requirements.
+| **CITA -- Associate** | -- Learner will be able to describe the differences between various approaches to gathering and agreeing capacity requirements.
+| | -- Learner will be able to describe the key elements of capacity requirements analysis as practiced by architects in different domains.
+|
 
---          Learner will be able to describe the key elements of capacity requirements analysis as practiced by architects in different domains.
+| **CITA -- Specialist** | -- Learner will be able to describe when it is most appropriate to use different capacity requirements gathering and agreement approaches, and highlight the advantages and disadvantages of each
+| |-- Learner will be able to describe how to use at least one of the approaches in detail for a project and be able to produce examples of their work
+|
 
- |
-| **CITA -- Specialist** | --          Learner will be able to describe when it is most appropriate to use different capacity requirements gathering and agreement approaches, and highlight the advantages and disadvantages of each
-
---          Learner will be able to describe how to use at least one of the approaches in detail for a project and be able to produce examples of their work
-
- |
-| **CITA -- Professional** | --          Learner will be able to identify new approaches for different groups of stakeholders
-
---          Learner will know the risk of not completing all aspects of gathering and agreeing capacity requirements and be able to justify this where appropriate
-
- |
+| **CITA -- Professional** | -- Learner will be able to identify new approaches for different groups of stakeholders
+| | -- Learner will know the risk of not completing all aspects of gathering and agreeing capacity requirements and be able to justify this where appropriate
+|
 
 ## **Baseline Current Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to describe general approach to baselining current capacity of target service, process, application, system.|
-| |--          Learner will be able to name some of the different approaches to baselining current capacity.|
+
+| **CITA -- Foundation** | -- Learner will be able to describe general approach to baselining current capacity of target service, process, application, system.|
+| |-- Learner will be able to name some of the different approaches to baselining current capacity.
+|
 
 
-| **CITA -- Associate** | --          Learner will be able to describe the differences between various approaches to capacity baselining.
+| **CITA -- Associate** | -- Learner will be able to describe the differences between various approaches to capacity baselining.
+| | -- Learner will be able to describe the key elements of current capacity baselining as practiced by architects in different domains.
+|
 
---          Learner will be able to describe the key elements of current capacity baselining as practiced by architects in different domains.
+| **CITA -- Specialist** | -- Learner will be able to describe when it is most appropriate to use different current capacity baselining approaches, and highlight the advantages and disadvantages of each
+| | -- Learner will be able to describe how to use at least one of the approaches in detail for a project and be able to produce examples of their work
+|
 
- |
-| **CITA -- Specialist** | --          Learner will be able to describe when it is most appropriate to use different current capacity baselining approaches, and highlight the advantages and disadvantages of each
-
---          Learner will be able to describe how to use at least one of the approaches in detail for a project and be able to produce examples of their work
-
- |
-| **CITA -- Professional** | --          Learner will be able to identify new approaches for different groups of stakeholders
-
---          Learner will know the risk of not completing all aspects of current capacity baselining and be able to justify this where appropriate
-
- |
+| **CITA -- Professional** | -- Learner will be able to identify new approaches for different groups of stakeholders
+| | -- Learner will know the risk of not completing all aspects of current capacity baselining and be able to justify this where appropriate
+|
 
 ## **Design Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to describe general approach to capacity design of target service, process, application, system.
-| | --          Learner will be able to name some of the different approaches to capacity design.
 
+| **CITA -- Foundation** | -- Learner will be able to describe general approach to capacity design of target service, process, application, system.
+| | -- Learner will be able to name some of the different approaches to capacity design.
+|
 
- |
-| **CITA -- Associate** | --          Learner will be able to describe the differences between various approaches to capacity design.
+| **CITA -- Associate** | -- Learner will be able to describe the differences between various approaches to capacity design.
+| | -- Learner will be able to describe the key elements of current capacity design as practiced by architects in different domains.
+|
 
---          Learner will be able to describe the key elements of current capacity design as practiced by architects in different domains.
+| **CITA -- Specialist** | -- Learner will be able to describe when it is most appropriate to use different current capacity design patterns, and highlight the advantages and disadvantages of each
+| |-- Learner will be able to describe how to use at least one of the design patterns in detail for a project and be able to produce examples of their work
+|
 
- |
-| **CITA -- Specialist** | --          Learner will be able to describe when it is most appropriate to use different current capacity design patterns, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -- Learner will be able to identify new design patterns for different types of stakeholder needs.
 
---          Learner will be able to describe how to use at least one of the design patterns in detail for a project and be able to produce examples of their work
-
- |
-| **CITA -- Professional** | --          Learner will be able to identify new design patterns for different types of stakeholder needs.
-
---          Learner will know the risk of not completing all aspects of capacity design and be able to justify this where appropriate
+-- Learner will know the risk of not completing all aspects of capacity design and be able to justify this where appropriate
 
  |
 
 ## **Manage Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to describe general approach to managing capacity of target service, process, application, system.
 
---          Learner will be able to name some of the different approaches to capacity management.
+| **CITA -- Foundation** | -- Learner will be able to describe general approach to managing capacity of target service, process, application, system.
+| |-- Learner will be able to name some of the different approaches to capacity management.
+|
 
- |
-| **CITA -- Associate** | --          Learner will be able to describe the differences between various approaches to capacity management.
+| **CITA -- Associate** | -- Learner will be able to describe the differences between various approaches to capacity management.
+| |-- Learner will be able to describe the key elements of capacity management as practiced by architects in different domains.
+|
 
---          Learner will be able to describe the key elements of capacity management as practiced by architects in different domains.
+| **CITA -- Specialist** | -- Learner will be able to describe when it is most appropriate to use different current capacity management approaches, and highlight the advantages and disadvantages of each
+| |-- Learner will be able to describe how to use at least one of the approaches in detail for a project and be able to produce examples of their work
+|
 
- |
-| **CITA -- Specialist** | --          Learner will be able to describe when it is most appropriate to use different current capacity management approaches, and highlight the advantages and disadvantages of each
-
---          Learner will be able to describe how to use at least one of the approaches in detail for a project and be able to produce examples of their work
-
- |
-| **CITA -- Professional** | --          Learner will be able to identify new approaches for different types of stakeholder needs.
-
---          Learner will know the risk of not completing all aspects of capacity management and be able to justify this where appropriate
-
- |
+| **CITA -- Professional** | -- Learner will be able to identify new approaches for different types of stakeholder needs.
+| | -- Learner will know the risk of not completing all aspects of capacity management and be able to justify this where appropriate
+|
 
 # Related Capabilities
 
