@@ -10,8 +10,7 @@ tags:
   - infrastructure_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Capacity is a key feature of any value delivering system. Failure to plan, design and oversee system capacity correctly can lead to the failure of the system to meet the needs of its stakeholders due to issues such as availability, performance or total cost of ownership.
 
@@ -23,28 +22,25 @@ Cloud based systems are turning capacity planning on its head. Real-time or near
 
 In this context the ITIL defined Capacity Management process in the Service Design phase is also a good source of guidance for architects of cloud solutions. In ITIL 3.0 the purpose of Capacity Management is defined as follows:
 
-> *[Capacity Management](http://wiki.en.it-processmaps.com/index.php/Capacity_Management#Business_Capacity_Management_ITIL){:target="_blank"} aims to ensure that the capacity of IT services and the IT infrastructure is able to deliver the agreed service level targets in a cost effective and timely manner. Capacity Management considers all resources required to deliver the IT service, and plans for short, medium and long term business requirements.*
+> [Capacity Management](http://wiki.en.it-processmaps.com/index.php/Capacity_Management#Business_Capacity_Management_ITIL){:target="_blank"} aims to ensure that the capacity of IT services and the IT infrastructure is able to deliver the agreed service level targets in a cost effective and timely manner. Capacity Management considers all resources required to deliver the IT service, and plans for short, medium and long term business requirements.
 
 Doing architecture within the ITIL framework is one possible path to a more continuous form of architecture. For example, within ITIL, system requirements for capacity (demand) can be captured in a living contract -- the Service or Operating Level Agreement. This artefact can be actively maintained by service architects throughout the lifetime of the service, rather than potentially lost and forgotten by all active stakeholders in the solution requirements specifications from the original project. ITIL's focus on continuous service improvement may provide a valuable framework for architects accountable for capacity planning in a cloud based world.
 
-Overview
-========
+# Overview
 
 Capacity Planning is a foundation capability for all architects. Tied closely to the core pillar of Quality Attributes, the architect is responsible for ensuring that the capacity of any process, service or system meets the needs of all key system stakeholders e.g. investors, customers and consumers, not just on day 1 but throughout the full lifetime of the system.
 
-General Definition
-------------------
+## General Definition
 
 The Wikipedia definition of [Capacity Planning](https://en.wikipedia.org/wiki/Capacity_planning){:target="_blank"}, taken from the [Supply Chain Resource Co-Operative](http://scm.ncsu.edu/scm-articles/article/capacity-planning{:target="_blank"}), while described in language more aligned to manufacturing, can also be applied to IT and IT systems/services. (As in many other areas, it is often good practice for IT architects to leverage approaches developed in other disciplines to advance the maturity of capacity planning and management in IT systems).
 
-> *[**Capacity planning** ](https://en.wikipedia.org/wiki/Capacity_planning){:target="_blank"}is the process of determining the production [capacity](https://en.wikipedia.org/wiki/Capacity_utilization) needed by an organization to meet changing [demands](https://en.wikipedia.org/wiki/Demand_curve) for its [products](https://en.wikipedia.org/wiki/Product_(business)).[^[1]^](https://en.wikipedia.org/wiki/Capacity_planning#cite_note-NCSU-1) In the context of capacity planning, **Design Capacity** is the maximum amount of work that an organization is capable of completing in a given period. **Effective Capacity** is the maximum amount of work that an organization is capable of completing in a given period due to constraints such as quality problems, delays, material handling, etc. The phrase is also used in business computing as a synonym for [capacity management](https://en.wikipedia.org/wiki/Capacity_management).*
+[**Capacity planning**](https://en.wikipedia.org/wiki/Capacity_planning){:target="_blank"}is the process of determining the production [capacity](https://en.wikipedia.org/wiki/Capacity_utilization){:target="_blank"} needed by an organization to meet changing [demands](https://en.wikipedia.org/wiki/Demand_curve){:target="_blank"} for its [products](https://en.wikipedia.org/wiki/Product_(business){:target="_blank"}.(https://en.wikipedia.org/wiki/Capacity_planning#cite_note-NCSU-1){:target="_blank"} In the context of capacity planning, **Design Capacity** is the maximum amount of work that an organization is capable of completing in a given period. **Effective Capacity** is the maximum amount of work that an organization is capable of completing in a given period due to constraints such as quality problems, delays, material handling, etc. The phrase is also used in business computing as a synonym for [capacity management](https://en.wikipedia.org/wiki/Capacity_management){:target="_blank"}.
 
 A discrepancy between the capacity of an organization and the demands of its customers results in inefficiency, either in under-utilized resources or unfulfilled customers. The goal of capacity planning is to minimize this discrepancy. Demand for an organization's capacity varies based on changes in production output, such as increasing or decreasing the production quantity of an existing product, or producing new products. Better utilization of existing capacity can be accomplished through improvements in [overall equipment effectiveness](https://en.wikipedia.org/wiki/Overall_equipment_effectiveness){:target="_blank"} (OEE). Capacity can be increased through introducing new techniques, equipment and materials, increasing the number of workers or machines, increasing the number of shifts, or acquiring additional production facilities.
 
 As already suggested, combining a service oriented framework, such as ITIL, with concepts from other disciplines such as manufacturing will allow architects to design, plan and manage capacity more effectively.
 
-Capacity Planning Methods
--------------------------
+## Capacity Planning Methods
 
 A number of standard methods exist for capacity planning. The pros and cons or each are outlined in the following table:
 
@@ -68,22 +64,21 @@ Much less complex to build than simulation as should be replica of production en
 
 Uses relatively easily gathered data from real world system and does not require expensive test environments.
 
-3^rd^ party tool support exists e.g. [Teamquest](http://www.teamquest.com/), [ VMWare Capacity Planner](http://www.vmware.com/products/capacity-planner/overview) etc.
+3^rd^ party tool support exists e.g. [Teamquest](http://www.teamquest.com/){:target="_blank"}, [VMWare Capacity Planner](http://www.vmware.com/products/capacity-planner/overview){:target="_blank"} etc.
 
  | As with simulation, analytical modelling requires end to end understanding of system -- business, application and technology. |
 
-Capacity Planning and Views & Viewpoints
-----------------------------------------
+## Capacity Planning and Views & Viewpoints
 
-While typically led by the infrastructure architect, all architects are responsible for carrying out Capacity Planning at their respective architectural layers e.g. enterprise, business, application, technology. In other words, capacity is an important Viewpoint[[1]](https://btabok.iasaglobal.org/btabok_3/capacity-planning/#_ftn1) that should be applied to all architectural Views[[2]](https://btabok.iasaglobal.org/btabok_3/capacity-planning/#_ftn2).
+While typically led by the infrastructure architect, all architects are responsible for carrying out Capacity Planning at their respective architectural layers e.g. enterprise, business, application, technology. In other words, capacity is an important Viewpoint [1](https://btabok.iasaglobal.org/btabok_3/capacity-planning/#_ftn1){:target="_blank"} that should be applied to all architectural Views[2](https://btabok.iasaglobal.org/btabok_3/capacity-planning/#_ftn2){:target="_blank"}.
 
-### View Specific Capacity Planning
+## View Specific Capacity Planning
 
 While the definition of standard views may vary by organization, for the purpose of this guide we will use the TOGAF defined views -- Business Architecture, Information Systems Architecture and Technology Architecture -- as an example of how the Capacity Viewpoint can be applied to each.
 
 | **View Name** | **TOGAF 9.0 Definition** | **Capacity Planning Viewpoint** | **Examples** |
 | --- | --- | --- | --- |
-| **Business Architecture** | Business Architecture describes the product and/or service strategy, and the organizational, functional, process, information, and geographic aspects of the business environment. *[TOGAF 9.0](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html)* | While significant automation may exist within a modern business process it is the number and behavior of the humans in the process that ultimately defines the load on the system.
+| **Business Architecture** | Business Architecture describes the product and/or service strategy, and the organizational, functional, process, information, and geographic aspects of the business environment. *[TOGAF 9.0](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap08.html){:target="_blank"}* | While significant automation may exist within a modern business process it is the number and behavior of the humans in the process that ultimately defines the load on the system.
 
 In a non-dynamically managed system, clearly defined business process workflows are a critical input into the capacity planning process. In organizations where business processes are explicitly defined e.g. by a business architect, the maximum and average capacity of the business process should be estimated by the business architect.
 
@@ -119,8 +114,7 @@ Infrastructure architects responsible for cloud type systems must also be able t
 
  |
 
-Capacity Planning and Managing architectural accountability
------------------------------------------------------------
+## Capacity Planning and Managing architectural accountability
 
 Closely related to View and Viewpoints, it is critical that the infrastructure architect manages relationships with all dependent layers, either directly or indirectly, through some form of formally managed agreements. In practice, accountability for Capacity Planning is often split between a number of different but highly interdependent architecture roles e.g. enterprise, business, application, data, solution, service and infrastructure. Ensuring accountability is clearly defined at each level is critical to ensure that long term, end to end system capacity meets business requirements. In practice this can be difficult to achieve for a number of reasons:
 
@@ -129,8 +123,7 @@ Closely related to View and Viewpoints, it is critical that the infrastructure a
 
 One approach to tackling this challenge is to ensure that where architectural accountability switches from one architect to another, a formal agreement of some sort is put in place that captures clear capacity related terms and conditions. Examples of such formal operating agreements are Service and Operating Level Agreements as defined in ITIL or [standardized service contracts](https://en.wikipedia.org/wiki/Standardized_service_contract){:target="_blank"} as defined in SOA.  The architect's role is typically to create these contracts and hand over to the service management team to monitor and manage. Architectural involvement is also recommended when and where these contracts need to be renegotiated.
 
-Capacity Planning, Platforms and SDLC Approaches
-------------------------------------------------
+## Capacity Planning, Platforms and SDLC Approaches
 
 The nature of the target infrastructure platform is a critical factor when designing the optimum approach to Capacity Planning. In environments with more traditional models of on-premise infrastructure, a waterfall based approach may be most appropriate. In this approach a detailed theoretical design is completed based on a detailed assessment of demand (short, medium and long term) against availability risks i.e. risk that capacity may unpredictably spike beyond available levels, lead time of provisioning additional capacity and analysis of costs associated with provisioning capacity at different times in the lifecycle of the service. This design is then tested using simulated load, where an appropriate test environment is available. While a valid approach the resulting system's capacity is largely fixed with major capital investment required up front and can only be increased (or decreased) as part of a major and often expensive change project.
 
@@ -146,8 +139,7 @@ Carry out some form of analytical modelling to identify capacity related trends 
 
 *Iasa BTABoK:* A **view** is a representation of one or more structural aspects of an architecture that illustrates how the architecture addresses one or more concerns held by one or more of its stakeholders.
 
-Proven Practices
-================
+# Proven Practices
 
 For an architect Capacity Planning can be broken into the following practices:
 
@@ -159,7 +151,7 @@ In modern complex systems requirements must be traceable between each layer. Bus
 
 To ensure maximum traceability a system of formal agreements/contracts between architectural layers is recommended, in particular where accountability switches between different architects.
 
- | *Waterfall Approach*
+*Waterfall Approach*
 
 In a traditional waterfall approach capacity requirements are captured during each main design phase -- business case, high-level design and detailed design in a range of artefacts such as business cases, PID's, functional specifications etc.
 
@@ -230,11 +222,9 @@ Reflecting the dynamic nature of capacity management in a cloud service it is cr
 
  |
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-Determine & Agree Capacity Requirements
----------------------------------------
+## Determine & Agree Capacity Requirements
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to describe general approach to gathering and agreeing capacity requirements.
@@ -258,8 +248,7 @@ Determine & Agree Capacity Requirements
 
  |
 
-**Baseline Current Capacity**
------------------------------
+## **Baseline Current Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to describe general approach to baselining current capacity of target service, process, application, system.
@@ -283,8 +272,7 @@ Determine & Agree Capacity Requirements
 
  |
 
-**Design Capacity**
--------------------
+## **Design Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to describe general approach to capacity design of target service, process, application, system.
@@ -308,8 +296,7 @@ Determine & Agree Capacity Requirements
 
  |
 
-**Manage Capacity**
--------------------
+## **Manage Capacity**
 
 | **Iasa Certification Level** | **Learning Objective** |
 | **CITA -- Foundation** | --          Learner will be able to describe general approach to managing capacity of target service, process, application, system.
@@ -333,8 +320,7 @@ Determine & Agree Capacity Requirements
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   [BTS -- Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
 -   [HD -- Collaboration & Negotiation](collaboration_and_negotiation.md){:target="_blank"}
@@ -347,16 +333,16 @@ Related Capabilities
 -   [ITE -- Testing, Methods, Tools and Techniques](https://btabok.iasaglobal.org/btabok_3/testing-methods-tools-and-techniques/){:target="_blank"}
 -   [QA -- All Capabilities](competency_model_m.md){:target="_blank"}
 
-Resources
-=========
+# Resources
 
-### **Articles:**
+
+## **Articles:**
 
 [Capacity Planning (Wikipedia)](https://en.wikipedia.org/wiki/Capacity_planning)
 
 [Capacity planning isn't dead, but it's not about supply any more](http://devops.com/2014/10/28/capacity-planning-isnt-dead-supply/)
 
-### **Blogs/Webcasts/News/Reference Resources:**
+## **Blogs/Webcasts/News/Reference Resources:**
 
 IVI IT-CMF -- Capacity Forecasting & Planning Capability -- <http://ivi.nuim.ie/it-cmf/capacity-forecasting-and-planning>
 
@@ -376,7 +362,7 @@ Author
 ======
 
 ![Paddy Baxter](media/p_baxter.jpg)
-### **Paddy Baxter**
+## **Paddy Baxter**
 **IT Architect**
 
 Paddy's natural strengths of intuitive, big picture analysis, combined with a strong desire to improve on existing systems for the benefits of all stakeholders, have led him to the profession of enterprise architecture. Paddy has over 25 years' experience in large enterprise IT environments across the globe, working in Europe, Australia, Asia and the US with major industry players such as HP (Digital/Compaq), Microsoft, Intel and EY.
