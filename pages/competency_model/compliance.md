@@ -10,15 +10,13 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 Compliance denotes a (generally) mandatory conformance to specified rules framed by institutions such as businesses, governments, accredited standards bodies and industry groups. From a technology perspective, compliance is applicable to technology enabled business processes and the underlying technology itself.
 
 The most important use of compliance is as a risk mitigation technique where non-conformance can result in serious human, environmental, societal or economic loss. Losses from non-compliance can have impact widespread impact to a business or industry, in some cases globally. Compliance has a positive implication where adherence signifies high quality of a business and its products. Compliance is generally governed through risk management, quality controls and audits and as such, perceived as a "cost of doing business".
 
-Overview
-========
+# Overview
 
 Architects play an important role in advising business on meeting compliance needs through technology as well as making the right investments to ensure a "business compliant" architecture. Compliance knowledge denotes an understanding and mitigation of regulatory impacts to the organization and the design/solution being deployed, including audits, certifications, licensing, and general industry regulation types. The IT architect is expected to be "compliance aware" in business and technology dimensions and have the ability to articulate the regulatory requirements that drive design elements, including regulation, governance, legal and other binding corporate agreements.
 
@@ -28,8 +26,8 @@ As compliance is an on-going activity and perceived as cost of doing business, a
 
 A key challenge for architects is to ensure that all facets of compliance are implemented and working as planned in the technology portfolio. Another challenge is lack of awareness of the risks introduced by non-compliant technology solutions. Compliance may get compromised due to improper planning or awareness and occasionally, by implicit behaviors allowing non-compliance (as a cost of doing business). Architects should be well aware of threats and consequences of non-compliance and should advocate uses of governance frameworks such as COBIT as well as audits which allow explicit management of technology compliance in an organization.
 
-Best Practices
-==============
+# Best Practices
+
 
 -   Addressing compliance needs in the Enterprise Architecture and setting up compliance standards.
 -   Compliance verification as part of architecture review process.
@@ -39,10 +37,9 @@ Best Practices
 -   Persistently making compliance a business driven activity.
 -   Business sponsorship and investments for compliance.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Compliance Review**
+## Compliance Review
 
 Compliance Review is an independent assessment of the conformity of any activity, process, deliverable, product or service to the criteria of specified standards, such as ISO 27001, local standards, best practice, or other documented requirements. Compliance review is generally a periodic activity which is conducted by internal independent audit functions and third parties. Compliance review is initiated via a baseline and certification process conducted by an accredited and independent third party, with on-going audits and reviews to verify continued compliance.
 
@@ -78,7 +75,7 @@ Compliance Review is an independent assessment of the conformity of any activity
 
  |
 
-### **Technology Audit**
+## Technology Audit
 
 Technology audit is a structured analysis of the risks to achievement of business objectives, including the risk that the organization fails to make effective use of new technology to improve delivery and internal effectiveness.
 
@@ -110,7 +107,7 @@ Technology audit is a structured analysis of the risks to achievement of busines
  |\
  |
 
-### **Information Assurance**
+## Information Assurance
 
 Information assurance covers setting high-level strategy and policy to ensure stakeholder confidence that risk to the integrity of information in storage and transit is managed pragmatically, appropriately and in a cost effective manner.
 
@@ -142,15 +139,14 @@ Information assurance covers setting high-level strategy and policy to ensure st
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   [Risk Management](risk_management.md){:target="_blank"}
 -   [IT Governance](governance.md){:target="_blank"}
 -   [Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
 
-Resources
-=========
+# Resources
+
 
 Capabilities Definitions can be found at IASA ITABoK Definitions and IASA -- Business Technology Strategy Course Curriculum.
 
@@ -173,11 +169,10 @@ Books
 
 The Governance, Risk, and Compliance Handbook: Technology, Finance, Environmental, and International Guidance and Best Practices by [Anthony Tarantino](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Anthony+Tarantino&search-alias=books&text=Anthony+Tarantino&sort=relevancerank) ISBN-13: 978-0470095898 ISBN-10: 047009589X
 
-Author
-======
+# Author
 
 ![maya_more](media/maya_more.jpg)
-
-AVP -- Enterprise Architecture Center of Excellence**
+## Maya More
+*AVP -- Enterprise Architecture Center of Excellence*
 
 Maya More is an IASA member and CITA-Foundation certified architect having over 19 years experience in business technology consulting, enterprise architecture and technology implementation. She has worked with global businesses in multiple countries and industries such as insurance, healthcare and oil & gas. She currently works as Architecture and Technology SME for a leading oil & gas corporation in India.
