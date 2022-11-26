@@ -70,14 +70,9 @@ Understand and articulate the various organizational designs and how they are im
 | **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
 | | -   Learner will be able to describe the similarities, if any, between leadership and management
 | **CITA -- Specialist** |-   Learner will be able to describe a situation where good management was exhibited
-| | -   Learner will be able to describe a situation where good leadership was exhibited
-| | -   Learner will be able to describe a situation where poor management was exhibited
-| | -   Learner will be able to describe a situation where poor leadership was exhibited
 | **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
-| | -   Learner will be able to describe a situation where good leadership was exhibited and discuss why. Was there room for improvement?
-| | -   Learner will be able to describe a situation where poor management was exhibited and discuss why. Was there room for improvement?
-| | -   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
-|
+
+
 
 ## Resource Management
 
@@ -90,7 +85,7 @@ Understand and articulate ...
 | |-   Learner will be able to describe the similarities, if any, between leadership and management
 | **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
 | **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
-|
+
 
 
 ## Developing Leaders
@@ -103,7 +98,7 @@ Understand and articulate ...
 | **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
 | **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
 | **CITA -- Professional** |-   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
-|
+
 
 ## Can articulate the difference between leadership and management
 
@@ -116,7 +111,7 @@ Understand and articulate the primary difference between leadership and manageme
 | | -   Learner will be able to describe the similarities, if any, between leadership and management
 | **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
 | **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
-|
+
 
 ## Can describe their approach to leading or managing during the projects they documented
 
@@ -134,7 +129,7 @@ Understand when to lead and when to manage. Evaluate strategies for each.
 | | -   Learner is able to describe a situation where they acted as a manager and should have applied more leadership principles
 | | -   Learner should be able to discuss someone who exhibits great leadership skills today. Why and how could they could improve.
 | | -   Learner should be able to discuss someone who exhibits great management skills today. Why and how could they could improve.
-|
+
 
 ## Can describe a leadership or management book or class they have read or taken
 
@@ -148,7 +143,7 @@ Discuss a management book that the learner has read or a management class they h
 | **CITA -- Specialist** | -   Learner can discuss their own management traits and areas for improvement
 | **CITA -- Professional** | -   Learner can discuss a situation where the principles learned in the class or book would have improved a project they worked on
 | | -   Learner can discuss how they will adjust, or not adjust, their leadership and management styles based on the information presented in the class or book
-|
+
 
 # Resources
 
