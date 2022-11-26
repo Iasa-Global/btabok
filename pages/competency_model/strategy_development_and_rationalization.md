@@ -3,7 +3,7 @@ title: "Strategy Development and Rationalization"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: aim.html
+permalink: strategy_development_and_rationalization.html
 folder: competency_model
 summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
 tags: 

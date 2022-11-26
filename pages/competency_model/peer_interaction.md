@@ -1,6 +1,6 @@
 ---
 title: "Peer Interaction"
-keywords: 
+keywords: strategy_development_and_rationalization
 sidebar: mydoc_sidebar
 toc: true
 permalink: peer_interaction.html
@@ -63,7 +63,7 @@ Structured, open interactions can help improve the quality of Peer interaction. 
 Sub-Capabilities
 ================
 
-### **Communication**
+## **Communication**
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
@@ -96,11 +96,11 @@ Sub-Capabilities
 Resources
 =========
 
-### **Articles:**
+## **Articles:**
 
 http://blog.bonus.ly/the-value-of-peer-relationships-at-work/
 
-### **Blogs/Webcasts/News/Reference Resources:**
+## **Blogs/Webcasts/News/Reference Resources:**
 
 Goleman, D., (1995) Emotional Intelligence, New York, NY, England: Bantam Books, Inc.\
 Fisher, R., Ury, W. and Patton, B. (1991). , "Getting to Yes: Negotiating Agreement Without Giving In", Second Edition. New York: Penguin Books.
@@ -108,4 +108,4 @@ Fisher, R., Ury, W. and Patton, B. (1991). , "Getting to Yes: Negotiating Agreem
 Author
 ======
 
-### **Shrikumar Sharma**
+## **Shrikumar Sharma**

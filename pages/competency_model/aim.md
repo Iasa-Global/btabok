@@ -97,8 +97,6 @@ Cost of deploying IAM solutions versus managing existing tools
 
 # Sub-Capabilities
 
-  
-
 ## Identity Governance
 
 Defining the governance for the right people to have the right access, know who has access to what, enforce policy and ensure compliance.
@@ -144,7 +142,6 @@ Defining and providing ways to control storage of identity information and acces
 
 # Resources
 
-  
 
 ## Articles:
 
