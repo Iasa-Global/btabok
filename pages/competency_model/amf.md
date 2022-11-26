@@ -16,7 +16,7 @@ A "**Framework**: is a meta-level (a higher level of abstraction) through which 
 
 A "**Methodology**: is an explicit way of structuring one's thinking and actions. Methodologies contain model(s) and reflect particular perspectives of 'reality' based on a set of philosophical paradigms. A methodology should tell us what steps to take, in what order and how to perform those steps but, most importantly, the reasons 'why' those steps should be taken, in particular order."
 
-# Overview
+# Overview 
 
 Before we can really discuss architectural frameworks and methodologies, we need to really understand the difference between a *framework* and a *methodology*.
 
@@ -153,6 +153,6 @@ See: [http://en.wikipedia.org/wiki/Waterfall_model](http://en.wikipedia.org/wiki
 
 *Beck, Kent, "Test-Driven Development By Example", Addison Wesley Professional, 2002, and Newkirk,* *Vorontsov**, "Test-Driven Development in Microsoft® .NET", Microsoft Press, 2004*
 
-## **Training:**
+## Training:
 
-## **Certifications:**
+## Certifications:

@@ -10,15 +10,13 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 Industry analysis is the process of reviewing a business environment, its challenges and opportunities, and combining it with current trends in the technology sector. Domain knowledge, which implies an understanding of common business terminology from the operating context, combined with industry structure and operating processes, is a pre-requisite for industry analysis.
 
 Information technology has been the leading force behind major industry shifts and business disruptions in the last half century. Therefore, architects have to play an important role in industry analysis. Architects bridge the gap between business and technology by identifying developments in technology that can address prevailing industry problems and deliver positive outcomes to a business. The range of business outcomes can vary from strengthening existing business capabilities for competitive advantage to transforming a business or industry or ultimately creating new industries.
 
-Overview
-========
+# Overview
 
 Industry analysis involves observation and analysis of factors such as market behaviors, competitive forces and, financial, regulatory, socio-economic and technological trends that influence the domain. Industry analysis delivers insights into business drivers and key success factors relevant to the domain.
 
@@ -32,8 +30,7 @@ Industry analysis enables development of domain architecture and is a valuable c
 
 A key challenge for majority of architects is that they have a background software engineering or other information technology disciplines. Architects may not have formal training or education in business fundamentals or an industry. They may also have limited access to industry knowledge within the business or have to take up industry analysis as an individual initiative. As business leadership may usually engage external advisory organizations for analysis, architects may experience limited involvement in the strategy process.
 
-Proven Practices
-================
+# Proven Practices
 
 -   Develop an "outside-in thinking" and understand the business from a customer viewpoint.
 -   Build an understanding of business motivation (why and how businesses exist and survive) generally and in the organization where the architect works.
@@ -42,10 +39,9 @@ Proven Practices
 -   Develop domain knowledge through knowledge sharing with business, business glossaries or training on industry fundamentals.
 -   Developing or studying reference domain architecture for the industry.
 
-Sub-Capabilities
-================
+## Sub-Capabilities
 
-### **Industry Research**
+##  Industry Research
 
 Industry research is the acquisition of corporate intelligence on a broad range of issues including macro environment, market and competitive landscape and consumer analysis. As a rule, an architect will be required to perform secondary type of industry research i.e. research is derived from aggregation of existing sources of information and data, as well as broader research reports published by dedicated research and analyst firms. Sources of industry research include publicly available information, government released statistics, trade publications, data suppliers, research and analyst organizations. To consume and analyze industry research, an architect should have a broad understanding of business operations and knowledge of the specific domain. Domain knowledge pertinent to industry research includes understanding industry codes, markets, product offerings, regulatory requirements, financial information, as well as international variations if needed.
 
@@ -82,7 +78,7 @@ Industry research is the acquisition of corporate intelligence on a broad range 
 
  |
 
-### **Information Analysis**
+## Information Analysis
 
 Information analysis is the process of discovery and quantification of patterns in industry-specific data and trends. An architect will perform information analysis to interpret macro and mega trends, financial indicators, market growth indicators and influence of technology in shaping business outcomes.
 
@@ -115,7 +111,7 @@ Information analysis is the process of discovery and quantification of patterns 
 
  |
 
-### **Industry Segmentation**
+## Industry Segmentation
 
 Industry segmentation is the process of defining and subdividing a large homogenous market into clearly identifiable components having similar needs, wants, or demand characteristics. Industry segmentation is driven by factors such as products, target markets, geography, demographics and size of businesses that constitute an industry. Industry segmentation determines key factors such as product, pricing, business composition and resources required for operation. An architect needs to understand industry segmentation as it has an influence on technology resources and technology enablement within the industry. Industry segmentation is a business artifact, however architects should recognize that technology can enable creation of niche and new segments wherein it becomes a technology led activity.
 
@@ -150,7 +146,7 @@ Industry segmentation is the process of defining and subdividing a large homogen
 
  |
 
-### **Industry Trends**
+## Industry Trends
 
 An assumed tendency of a given industry to move in a particular direction over time; trends are classified as secular trends for long time frames, primary trends for medium time frames, and secondary trends lasting short times. Mega and macro trends influence the product offering, market size and overall competitive nature and life of an industry. Information technology has been a primary and rapid disruptive force for businesses in the last fifty years, making the role of architects very important in signaling industry changes arising from technology trends. Architects combine industry and technology trends to provide input and direction for technology strategy.
 
@@ -182,7 +178,7 @@ An assumed tendency of a given industry to move in a particular direction over t
 
  |
 
-### **Sustainability Strategy**
+## Sustainability Strategy
 
 The preparation of a sustainability strategy for IT, taking into account political, legislative, economic, social and technological factors. Identification of major external standards, practices, or schemes to be adopted. Architects will be responsible for identification of technology choices to support corporate sustenance strategy and alignment of IT strategy.
 
@@ -210,34 +206,33 @@ The preparation of a sustainability strategy for IT, taking into account politic
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   [Business Fundamentals](business_fundamentals.md){:target="_blank"}
 -   [Business Valuation](business_valuation.md){:target="_blank"}
 
-Resources
-=========
+# Resources
 
---         Definitions can be found at IASA IT BoK and Business Technology Strategy Training Materials.
+-- Definitions can be found at IASA IT BoK and Business Technology Strategy Training Materials.
 
---         More about Industry Analysis
+-- More about Industry Analysis
 
--   Quick MBA -- <http://www.quickmba.com/strategy/>
--   <http://blog.credera.com/management-consulting/seven-favorite-frameworks/>
--   [6 Tools Every Business Consultant Should Know](http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know) <http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know>
+-   Quick MBA -- [http://www.quickmba.com/strategy/](http://www.quickmba.com/strategy/){:target="_blank"}
+-   [http://blog.credera.com/management-consulting/seven-favorite-frameworks/](http://blog.credera.com/management-consulting/seven-favorite-frameworks/){:target="_blank"}
+-   [6 Tools Every Business Consultant Should Know](http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know){:target="_blank"}
+-   [http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know](http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know){:target="_blank"}
 
---         Government Sources of Data for Industry Analysis
+--  Government Sources of Data for Industry Analysis
 
--   World Trade Organization -- [http://www.wto.org](http://www.wto.org/)
+-   World Trade Organization -- [http://www.wto.org](http://www.wto.org/){:target="_blank"}
 -   EconomicIndicators.gov (US) -- Daily releases of key economic indicators
--   (USA) Office of Entrepreneurship Education | Resources -- [http://www.sba.gov](http://www.sba.gov/)
--   Enterprise and Leadership (EU) <http://ec.europa.eu>
+-   (USA) Office of Entrepreneurship Education | Resources -- [http://www.sba.gov](http://www.sba.gov/){:target="_blank"}
+-   Enterprise and Leadership (EU) -- [http://ec.europa.eu](http://ec.europa.eu){:target="_blank"}
 
 --         Financial Sources of Information
 
--   Internet sources -- [bix.yahoo.com](http://bix.yahoo.com)
--   Dun and Bradstreet [www.dnb.com](http://www.dnb.com/)
+-   Internet sources -- [bix.yahoo.com](http://bix.yahoo.com){:target="_blank"}
+-   Dun and Bradstreet [www.dnb.com](http://www.dnb.com/){:target="_blank"}
 
 --         Consulting and Analyst Sources for Industry Analysis
 
@@ -251,8 +246,7 @@ Resources
 
 Business and Competitive Analysis: Effective Application of New and Classic Methods by [Craig S. Fleisher](http://www.amazon.com/Craig-S.-Fleisher/e/B001HCUPCS/ref=dp_byline_cont_book_1), [Babette E. Bensoussan](http://www.amazon.com/Babette-E.-Bensoussan/e/B001HCU4XI/ref=dp_byline_cont_book_2) ISBN-13: 978-0132161589ISBN-10: 0132161583
 
-Author
-======
+# Author
 
 ![maya_more](media/maya_more.jpg)
 

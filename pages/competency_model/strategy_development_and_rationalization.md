@@ -10,15 +10,13 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 The process of strategy development and rationalization defines how the business architect and IT architect work together. The objective is to produce the business direction and a model that will focus the activities of the organization. It defines the principles, standards, structure, and dynamics of the business and technical strategic direction. Strategy development includes the production of components required for an appropriate architecture strategy. This involves understanding how to evaluate a business problem and identify an appropriate technology solution, a key part of this is identifying, analyzing, and simulating market trends.
 
 Architects are expected to be familiar or experienced in the different ways of developing a strategy, an important area is the alignment of business strategy and the technology strategy.  The IT architect will need to be able to justify the architecture and describe the rationale behind it.
 
-Overview
-========
+# Overview
 
 The ability to understand how strategy is developed and rationalized is skill for architects.
 
@@ -39,8 +37,7 @@ Architects will also be expected to:
 -   Lead Line of Business/capability strategy development across all related projects
 -   Act as a focus for innovation and the application of new technology
 
-Proven Practices
-================
+# Proven Practices
 
 The proven practices involved include:
 
@@ -54,10 +51,9 @@ In order to deliver the above, there are some enabling practices which help:
 -   Strategic Thinking -- how to view the organization as a holistic entity an see how it can be changed over time.
 -   Innovation Management -- how to make best use of the opportunities offered by changing technology.
 
-Sub Component Skills
-====================
+# Sub Component Skills
 
-### **Strategic Management **
+## Strategic Management
 
 A field that deals with the major (intended and emergent) initiatives taken by executives on behalf of owners, involving utilization of resources, to enhance the performance of ﬁrms in their external environments. This involves the analysis of the internal and external environment, some of the commonly used tools in this area are described below.
 
@@ -110,7 +106,7 @@ Scenarios are developed and tested against the information captured in the SWOT.
 
  |
 
-### **Strategy Develoment**
+## Strategy Develoment
 
 Many organizations will produce an IT Strategy document or slide pack, the architect needs to be able to pull together the information and direction produced by the other sub-capabilities into a coherent whole. This will be aligned with the Enterprise Architecture and should drive it to a significant degree. The exact content will vary depending on the approach taken but typically there will be the following: a summary of the business strategy, an analysis of the current portfolio of systems and projects, a description of the target IT state from a process, information, data and technology business view, and a resourcing section.
 
@@ -152,7 +148,7 @@ The communication of the strategy also needs to be considered, as will only be u
 
  |
 
-### **Innovation Management**
+## Innovation Management
 
 Innovation is application of basic research or invention to explore the possibilities for new ways of conducting business and organizational processes. Businesses strive to develop an innovative culture which can be as a part of a single project team trying to do things differently. Recently the concept of disruptive innovation is generating lot of discussion this is recognizing that some technology innovations can radically change multiple markets and have very wide spread impacts, these are important areas for architects to focus on and understand how your organization can benefit.
 
@@ -218,7 +214,7 @@ The architect must be able to apply the risk taxonomy in the context of their or
 
  |
 
-### **Strategic Thinking**
+## Strategic Thinking
 
 Deep understanding of what is critical to the business in making appropriate decisions, anticipation of new trends in the industry by using deep understanding of business and industry trends, as described in Industry Analysis. Strategic thinking also includes the organizational attitude to risk and the how to recognize where the organization should sit with regards to the adoption of new technology and processes.
 
@@ -266,7 +262,7 @@ Apply the organisational risk appetite to recommendations for new technology.
 
  |
 
-### **Formation of IT Principles and Policies**
+## Formation of IT Principles and Policies
 
 The development of principles and policies will provide high level guidance to projects by taking the IT strategy to level where it can easily be seen to be applicable to the decisions which are made at project level. This is one of the activities which, if one correctly can have a very significant influence on what and how IT systems are developed.
 
@@ -337,8 +333,7 @@ The above list is not exhaustive; this is a technique which should be used where
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 **Business Technology Strategy**
 
@@ -350,26 +345,24 @@ Related Capabilities
 -   Business Strategy
 -   Technology Strategy and Innovation
 
-Resources
-=========
+# Resources
 
-### **Books: **
+## Books:
 
 -   The Ten-Day MBA 4^th^ Edition by Steven A. Silbiger ISBN978-0-08-219957-7
 -   Management by Peter Drucker ISBN 978-0-06-125266-2
 -   Blue Ocean Strategy by Renée Mauborgne and W. Chan Kim ISBN 978-1-59-139619-2
 -   Strategy Safari by by Henry Mintzberg, Bruce W. Ahlstrand, Joseph Lampel ISBN 978-0-74-327057-1
 
-### **Blogs/Webcasts/News/Reference Resources:  **
+## Blogs/Webcasts/News/Reference Resources:
 
 -   IASA ITABoK
 
-### **Certifications/Training: **
+## Certifications/Training:
 
 -   IASA Business Technology Strategy
 
-Author
-======
+# Author
 
-### **Chris Cooper-Bland**\
+## Chris Cooper-Bland
 *Group Head of Architecture -- Endava*

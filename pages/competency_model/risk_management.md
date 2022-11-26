@@ -10,15 +10,13 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 Risk Management for an architect is an ongoing effort to offset occurrences which would jeopardize or negatively impact the value generated from a project, program or set of activities. Risk management includes any and all activities which identify and help to lessen these occurrences. Because there is an element of risk in any action taken by a company or it's employees it is most often handled through an internal group responsible for the management of all corporate risk (enterprise risk management) even for smaller companies, not just those which impact the architect. However, due to the unique context, scope and activities of architecture, at the enterprise, program and project levels, architects have a significant impact on risk management activities.
 
 Wikipedia Definition: Risk management is the identification, assessment, and prioritization of [risks](http://en.wikipedia.org/wiki/Risk){:target="_blank"} (defined in [ISO 31000](http://en.wikipedia.org/wiki/ISO_31000){:target="_blank"} as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability and/or impact of unfortunate events[[1]](http://en.wikipedia.org/wiki/Risk_management#cite_note-Risk_Management_pg._46-1){:target="_blank"} or to maximize the realization of opportunities.
 
-Overview
-========
+# Overview
 
 Enterprise risk management (ERM) allows an organization to effectively deal with risks that threaten business opportunities and development. There are numerous types of risk that must be accounted for:
 
@@ -31,8 +29,7 @@ Enterprise risk management (ERM) allows an organization to effectively deal with
 
 Additional types of risk exist in companies. Identifying applicable risk types is one of the first tasks of an enterprise risk management function.
 
-Proven Practices
-================
+# Proven Practices
 
 Architecture addresses business value, business strategy, IT strategy and overall execution against goals. It is the responsibility of the architecture team to ensure that appropriate risk identification, analysis and mitigation opportunities are delivered to the appropriate stakeholders and to address those risks for which architects are uniquely qualified. As in other capability areas the architect must balance the need of delivery on execution, the management of stakeholder expectations and ownership, and the communication of risk details. The architect will deal with many types of risk as well as many delivery areas of impact. These areas of impact can be characterized as strategic, tactical and operational risks which describes the scope and level of impact.
 
@@ -44,10 +41,9 @@ By integrating architecture into risk management planning and executions the org
 2.  Lowered risk occurrence through more effective decision making
 3.  More objective handling of risk mitigation through strategy and execution through increased understanding of risk impacts
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **4.1 Risk Management Organization**
+## 4.1 Risk Management Organization
 
 The risk management organization regardless of formality, is the area of the business associated with risk strategy, risk identification, risk analysis and risk mitigation as well as ongoing monitoring and control of risks. The goal of risk management is to reduce the probability and impact of risk to the organization or initiative.
 
@@ -91,7 +87,7 @@ Enterprise architecture input and decision making for EA owned risks (technical 
 
  |
 
-### **4.2 Risk Identification**
+## 4.2 Risk Identification
 
 Risk identification involves the skills necessary to identify risks and their associated impact and probability of occurrence. There are numerous tools useful in this skill. SWOT analysis, stakeholder interviews, bottom up analysis and top down analysis are very common. As the architect gains experience they will be able to lead risk identification activities within their current focus areas.
 
@@ -125,7 +121,7 @@ Risk identification involves the skills necessary to identify risks and their as
 
  |
 
-### **4.4 Risk Mitigation**
+## 4.4 Risk Mitigation
 
 Risk mitigation is the process of addressing identified risks. The risk organization should have managerial support for it's risk mitigation threshold and policy. Risk mitigation strategies break down into four primary types:
 
@@ -161,7 +157,7 @@ Risk mitigation is the process of addressing identified risks. The risk organiza
 
  |
 
-### **Risks Assessment**
+## Risks Assessment
 
 Risk assessment is the most critical area of architecture overlap and execution in average organizations. As the architects have critical analysis tools to understand the components of risk and the associated impacts.
 
@@ -206,25 +202,22 @@ Risk = Probability of risk occurrence x Impact of exposure or negative consequen
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   related capabilities...
 
-Resources
-=========
+# Resources
 
 5 Resources
 
 **5.1 Templates:**
 
-Vendor Risk Assessment Guide:
 [Vendor Risk Assessment Guide](http://cdn2.hubspot.net/hub/37288/file-1849675513-pdf/docs/SettingTheStandard.Evantix_Template_Final.pdf?t=1422557772630){:target="_blank"}
 
 **5.2 Articles:**
 
--   <http://en.wikipedia.org/wiki/Risk_management>
--   <https://dianechristina.wordpress.com/2010/02/05/dissecting-the-anatomy-of-iso-31000/>
+-  [http://en.wikipedia.org/wiki/Risk_management](http://en.wikipedia.org/wiki/Risk_management){:target="_blank"}
+-  [https://dianechristina.wordpress.com/2010/02/05/dissecting-the-anatomy-of-iso-31000/](https://dianechristina.wordpress.com/2010/02/05/dissecting-the-anatomy-of-iso-31000/){:target="_blank"}
 
 **5.3 Books**
 
@@ -232,7 +225,7 @@ Vendor Risk Assessment Guide:
 
 Works Cited
 
-"Coso." *Home*. Web. 02 Feb. 2015. <http://www.coso.org/>.
+"Coso." *Home*. Web. 02 Feb. 2015. [http://www.coso.org/](http://www.coso.org/){:target="_blank"}.
 
 Fairbanks, George. *Just Enough Software Architecture: A Risk-driven Approach*. Boulder, CO: Marshall & Brainerd, 2010. Print.
 
@@ -240,11 +233,11 @@ Grebmer, Andreas Von. *Information and IT Risk Management in a Nutshell: A Pragm
 
 Olson, David L. *Enterprise Risk Management*. S.l.: World Scientific, 2015. Print.
 
-Author
-======
+# Author
 
 ![Paul Preiss](media/p_preiss.jpg)
-### **Paul Preiss CEO -- Iasa Global**
+## Paul Preiss CEO
+*Iasa Global*
 
 During his tenure at Iasa, Paul has taken it from a single user group with 50 members to an influential global organization with over 80,000 in its professional network. He orchestrated the development of dozens of chapters and leaders in over 50 countries. He brought Iasa to the forefront of the architect profession and employs staff around the world in the growth of the organization. He led the development of the Iasa Board of Education, the Certified IT Architect Professional (CITA-P), the Iasa skills curriculum and is actively working with universities, governments and other professional bodies to stabilize the profession of IT architecture.
 
