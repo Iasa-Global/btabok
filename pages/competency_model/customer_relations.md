@@ -10,13 +10,12 @@ tags:
   - human_dynamics
 ---
 
-Description
-===========
+# Description
 
 The Architect demonstrates an understanding of the psychological dynamics of customer management and discusses business imperatives, modern techniques and tools for relationship management, industry engagement, contractual agreements, transparency and accountability, and related issues. Managing high-risk scenarios is also a demonstrated competence of the role.
 
-**The psychological dynamics of customer management**
------------------------------------------------------
+## The psychological dynamics of customer management
+
 
 Five personality dynamics prevail in relatively consistent but unequal *proportions*.  These recur sequentially for a given work process:
 

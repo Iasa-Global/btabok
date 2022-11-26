@@ -12,15 +12,12 @@ tags:
 
 # Description
 
-  
-
 One cannot manage a culture without first understanding the culture. Many things go into the creation of a culture including our own life experiences, our beliefs, and our national identity to name a few. Culture is the shared beliefs or interests of two or more people. Within each company there is definitely a prevalent overall culture that has been formed over time by the previous leaders and workers of that company. Each company may or may not have various sub-cultures depending on the size of the company and the makeup of the employee pool.
 
 Once you understand the culture then you can begin to understand the viewpoint of those within that culture. With that understanding one can begin to provide information and messaging that is appropriate and of interest to that particular culture. For example the financial team within a company would definitely have a sub-culture that is focused on return on investment and will be very sensitive to costs. When working with or presenting to this group one would tailor the information presented and conversations around those interests. There is an old axiom for presenters that say “know your audience” and this is definitely true for the architect.
 
 # Overview
 
-  
 
 **Why does an architect need this skill?**
 
@@ -51,8 +48,6 @@ The architect would utilize knowledge of the corporate culture to help determine
 
 # Proven Practices
 
-  
-
 **Describe why an architect should be involved in this skill at a corporate level.**
 
 This skill with help the architect be more successful within an organization. The key to the success of any leader is being able to clearly articulate their vision. This requires enhanced communication skills both in oral and written form. The architect therefore must be able to communicate the vision to those within, and sometimes external to, the organization. Similarly a manager must possess excellent communication skills so those within, and sometimes external to, the organization understand and can accomplish the tasks required.
@@ -67,9 +62,7 @@ The stakeholder may ask the architect to help identify the culture. They may als
 
 # Sub-Capabilities
 
-  
-
-### **Organizational Agility**
+## Organizational Agility
 
 Description coming soon…
 
@@ -81,7 +74,7 @@ Description coming soon…
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-### **Consultancy and Advisory**
+## Consultancy and Advisory**
 
 Description coming soon…
 
@@ -93,7 +86,7 @@ Description coming soon…
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-### **Accountabilty**
+## Accountabilty**
 
 Description coming soon…
 
@@ -105,7 +98,7 @@ Description coming soon…
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-### **Identify the Organizational Culture**
+## Identify the Organizational Culture**
 
 Understand the primary organizational culture and any department or team cultures that deviate from the primary organizational culture.
 
@@ -117,7 +110,7 @@ Understand the primary organizational culture and any department or team culture
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-### **Utilize the Organizational Culture**
+## Utilize the Organizational Culture**
 
 How does the successful Architect leverage, or mitigate, the existing internal culture to achieve project success?
 
@@ -129,7 +122,7 @@ How does the successful Architect leverage, or mitigate, the existing internal c
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-### **Describe the Tools Used to Manage Organizational Culture**
+## Describe the Tools Used to Manage Organizational Culture**
 
 Each organizational culture brings unique circumstances and often requires different tools/methodologies to facilitate project success.
 
@@ -145,7 +138,7 @@ Each organizational culture brings unique circumstances and often requires diffe
 
   
 
-### **Articles/Books –**
+## Articles/Books
 
 Schein, Edgar H. 1992 (copyright 2010). _Organizational Culture and Leadership_. San Francisco: Jossey-Bass Publishers
 
@@ -155,7 +148,7 @@ Cohen, Dan S. 2005 (copyright Deloitte Development LLC 2005). _The Heart of Chan
 
 Kotter, John P. and Cohen, Dan S. 2002 (copyright John P. Kotter and Deloitte Consulting LLC 2002). _The Heart of Change Field Guide: Real-Life Stories of How People Change Their Organizations_. Boston, MA: Harvard Business School Publishing
 
-### **Blogs/Webcasts/News Sources –**
+## Blogs/Webcasts/News Sources
 
 Types of Organization Culture. _Management Study Guide_. Retrieved August 24, 2013, from [http://managementstudyguide.com/types-of-organization-culture.htm](http://managementstudyguide.com/types-of-organization-culture.htm){:target="_blank"}.
 
@@ -163,14 +156,14 @@ Types of Organization Culture. _Management Study Guide_. Retrieved August 24, 20
 
 ![Dan Fain](media/dan_fain.jpg)
 
-### **Dan Fain**
-**Security & Identity Architect – Microsoft**
+## Dan Fain
+*Security & Identity Architect – Microsoft*
 
 Driven executive specializing in applying proven sales, relationship management and professional services background to deliver exceptional technical leadership in both domestic and international environments. 20-year management background with strong experience directing staff members from Australia, Asia, Europe and the Middle East. Effectively apply IT resources to achieve organizational goals while improving efficiency and profitability. Strong technical background includes MCITP, MCSE, IA/CND Level III DoD, CISSP, CITA-P, and CEH certifications and expertise in LAN, WAN and VPN technologies and information systems security.
 
 ![Waldemar Rberti](media/waldemar_roberti.jpg)
 
-### **Waldemar Roberti**
-**Enterprise Architect – WEG**
+## Waldemar Roberti
+*Enterprise Architect – WEG*
 
 Enterprise Architect with large experience in Enterprise Systems Development and Integration. Responsible for EA initiatives, applying the principles and practices of EA to current IT and Enterprise Processes.
