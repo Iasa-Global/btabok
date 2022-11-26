@@ -85,33 +85,13 @@ Understand and articulate ...
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
+| **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
+| |-   Learner will be able to describe the similarities, if any, between leadership and management
+| **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
+|
 
--   Learner will be able to clearly define the terms leadership and management
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between leadership and management
--   Learner will be able to describe the similarities, if any, between leadership and management
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe a situation where good management was exhibited
--   Learner will be able to describe a situation where good leadership was exhibited
--   Learner will be able to describe a situation where poor management was exhibited
--   Learner will be able to describe a situation where poor leadership was exhibited
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where good leadership was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
-
- |
 
 ## Developing Leaders
 
@@ -119,33 +99,11 @@ Understand and articulate ...
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to clearly define the terms leadership and management
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between leadership and management
--   Learner will be able to describe the similarities, if any, between leadership and management
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe a situation where good management was exhibited
--   Learner will be able to describe a situation where good leadership was exhibited
--   Learner will be able to describe a situation where poor management was exhibited
--   Learner will be able to describe a situation where poor leadership was exhibited
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where good leadership was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
-
- |
+| **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
+| **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
+| **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Professional** |-   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
+|
 
 ## Can articulate the difference between leadership and management
 
@@ -153,33 +111,12 @@ Understand and articulate the primary difference between leadership and manageme
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to clearly define the terms leadership and management
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between leadership and management
--   Learner will be able to describe the similarities, if any, between leadership and management
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe a situation where good management was exhibited
--   Learner will be able to describe a situation where good leadership was exhibited
--   Learner will be able to describe a situation where poor management was exhibited
--   Learner will be able to describe a situation where poor leadership was exhibited
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where good leadership was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
-
- |
+| **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
+| **CITA -- Associate** |-   Learner will be able to describe the differences between leadership and management
+| | -   Learner will be able to describe the similarities, if any, between leadership and management
+| **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
+|
 
 ## Can describe their approach to leading or managing during the projects they documented
 
@@ -187,32 +124,17 @@ Understand when to lead and when to manage. Evaluate strategies for each.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner can articulate the common traits a leader has
--   Learner can articulate the common traits a manager has
-
- |
-| **CITA -- Associate** |
-
--   Learner can articulate the key activities of a leader
--   Learner can articulate the key activities of a manager
-
- |
-| **CITA -- Specialist** |
-
--   Learner is able to describe a situation where they acted as a leader
--   Learner is able to describe a situation where they acted as a manager
-
- |
-| **CITA -- Professional** |
-
--   Learner is able to describe a situation where they acted as a leader and should have applied more management principles
--   Learner is able to describe a situation where they acted as a manager and should have applied more leadership principles
--   Learner should be able to discuss someone who exhibits great leadership skills today. Why and how could they could improve.
--   Learner should be able to discuss someone who exhibits great management skills today. Why and how could they could improve.
-
- |
+| **CITA- Foundation** | -   Learner can articulate the common traits a leader has
+| |-   Learner can articulate the common traits a manager has
+| **CITA -- Associate** | -   Learner can articulate the key activities of a leader
+| |-   Learner can articulate the key activities of a manager
+| **CITA -- Specialist** | -   Learner is able to describe a situation where they acted as a leader
+| | -   Learner is able to describe a situation where they acted as a manager
+| **CITA -- Professional** | -   Learner is able to describe a situation where they acted as a leader and should have applied more management principles
+| | -   Learner is able to describe a situation where they acted as a manager and should have applied more leadership principles
+| | -   Learner should be able to discuss someone who exhibits great leadership skills today. Why and how could they could improve.
+| | -   Learner should be able to discuss someone who exhibits great management skills today. Why and how could they could improve.
+|
 
 ## Can describe a leadership or management book or class they have read or taken
 
@@ -220,29 +142,13 @@ Discuss a management book that the learner has read or a management class they h
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner can name a book they have read or a class they have attended.
--   Learner can discuss some of the principles they learned.
-
- |
-| **CITA -- Associate** |
-
--   Learner can identify past projects where they have utilized the skills learned in the class or book.
-
- |
-| **CITA -- Specialist** |
-
--   Learner can discuss their own management traits and areas for improvement
--   Learner can discuss their own leadership traits and areas for improvement
-
- |
-| **CITA -- Professional** |
-
--   Learner can discuss a situation where the principles learned in the class or book would have improved a project they worked on
--   Learner can discuss how they will adjust, or not adjust, their leadership and management styles based on the information presented in the class or book
-
- |
+| **CITA- Foundation** | -   Learner can name a book they have read or a class they have attended.
+| | -   Learner can discuss some of the principles they learned.
+| **CITA -- Associate** | -   Learner can identify past projects where they have utilized the skills learned in the class or book.
+| **CITA -- Specialist** | -   Learner can discuss their own management traits and areas for improvement
+| **CITA -- Professional** | -   Learner can discuss a situation where the principles learned in the class or book would have improved a project they worked on
+| | -   Learner can discuss how they will adjust, or not adjust, their leadership and management styles based on the information presented in the class or book
+|
 
 # Resources
 
