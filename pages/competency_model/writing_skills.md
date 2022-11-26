@@ -10,8 +10,7 @@ tags:
   - human_dynamics
 ---
 
-Description
-===========
+# Description
 
 Writing skills for the IT architect are the ability to effectively communicate information in written text form. They are used in a variety of tasks, such as writing documents, email correspondence or e.g. when posting a report in a blog. Most of what architects deliver as written text falls into one of the following categories:
 
@@ -21,8 +20,7 @@ Writing skills for the IT architect are the ability to effectively communicate i
 
 The importance of writing skills becomes most apparent, not when they are present, but when they are missing. In the best case, inadequate writing could result in losing the reader's interest or the author's credibility. However, in the worst case, information could be misunderstood and result in poor decision making with severe consequences for a project or organization.
 
-Overview
-========
+# Overview
 
 The basics of writing for an architect are generally similar to those of professional writers. Clarity and simplicity are essential as well as good structure and correct grammar and spelling. Further, writing should be specifically tailored to the reading audience. E.g. information prepared for business stakeholders typically requires less detail than information for engineers. Having a good foundation in writing is important, since information can easily be lost or ignored if it is not articulated well. Any written document reflects on the credibility of its author. It is therefore in the best interest of the architect to be proficient in this capability.
 
@@ -36,8 +34,7 @@ On a more senior level, an architect may be asked to write a report or paper abo
 
 There are many other areas where writing skills are important. E.g. architects may be needed to help with critical parts of product documentation or they can be authors of papers or blogs.
 
-Proven Practices
-================
+# Proven Practices
 
 Much of the information capturing and sharing in organizations is based on written text. With good writing skills, the IT architect contributes to efficient distribution of information, which is key to the success of a company. Architects are usually the owners of especially complex and valuable information. The ability to express this information in text form is therefore a frequently used tool in practice.
 
@@ -71,138 +68,83 @@ Correspondence
 -   Summarize required actions at the end or beginning of email
 -   Re-read text before sending
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Clarity and Accuracy\
-**
+## Clarity and Accuracy
 
 The ability to express information clearly with organized thought. Use of an overall structure and flow that is easy to follow. Correct use of language, grammar and spelling. Elimination of ambiguity and proper use of technology and business terminology.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will meet the basic writing requirements of proper use of language, grammar and spelling
+| | -   Learner will be familiar with business and technology terminology that is commonly known or used in the immediate environment
+| | -   Lerner will have the ability to write for audiences in her immediate environment
+| **CITA -- Associate** | -   Learner will have a basic understanding of what phrases and words are effective in achieving accuracy and avoiding ambiguity
+| | -   Learner will be familiar with business and technology terminology of the larger organization and industry
+| | -   Learner will have the ability to write for the distinct audiences of collaborators and stakeholders
+| **CITA -- Specialist** | -   Learner will have a solid structure and flow in their writing
+| | -   Lerner will be able to express information accurately and avoid ambiguity
+| | -   Learner will have the ability to write for audiences of any discipline
+| **CITA -- Professional** | -   Learner will have excellent structure and flow in their writing
+| | -   Lerner will have in-depth knowledge of all relevant business and technology terminology
+| | -   Learner will have the ability to write for executive stakeholders or author public information representing the larger organization
 
--   Learner will meet the basic writing requirements of proper use of language, grammar and spelling
--   Learner will be familiar with business and technology terminology that is commonly known or used in the immediate environment
--   Lerner will have the ability to write for audiences in her immediate environment
-
- |
-| **CITA -- Associate** |
-
--   Learner will have a basic understanding of what phrases and words are effective in achieving accuracy and avoiding ambiguity
--   Learner will be familiar with business and technology terminology of the larger organization and industry
--   Learner will have the ability to write for the distinct audiences of collaborators and stakeholders
-
- |
-| **CITA -- Specialist** |
-
--   Learner will have a solid structure and flow in their writing
--   Lerner will be able to express information accurately and avoid ambiguity
--   Learner will have the ability to write for audiences of any discipline
-
- |
-| **CITA -- Professional** |
-
--   Learner will have excellent structure and flow in their writing
--   Lerner will have in-depth knowledge of all relevant business and technology terminology
--   Learner will have the ability to write for executive stakeholders or author public information representing the larger organization
-
- |
-
-### **Business Correspondence\
-**
+## Business Correspondence
 
 Effective communication with the purpose of information exchange or coordination of activities. Includes proper etiquette and the ability to drive progress through effective correspondence.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Lerner will be familiar with basic etiquette of communication, such as greeting and thanking the recipient and signing the message
+| | -   Learner will be able to communicate technical and business information of moderate complexity
+| **CITA -- Associate** | -   Learner will have a fine-tuned tone in the communication that encourages collaboration
+| | -   Learner will be able to communicate technical and business information of medium to high complexity
+| | -   Learner will be familiar with multiple written communication applications, such as email, messaging and social media postings
+| **CITA -- Specialist** | -   Leaner's communication is concise and to the point
+| | -   Learner will be able to communicate technical and business information of high complexity
+| | -   Leaner will be able to influence the direction of communication threads
+| | -   Learner will be able to rely on written communication as the only available communication channel
+| **CITA -- Professional** | -   Learner will have a polished style of written communication, which is suitable for any audience
+| | -   Learner will be familiar with etiquette of international communication
+| | -   Learner will be able to redirect and recover communication threads that are stuck or moving in the wrong direction
 
--   Lerner will be familiar with basic etiquette of communication, such as greeting and thanking the recipient and signing the message
--   Learner will be able to communicate technical and business information of moderate complexity
-
- |
-| **CITA -- Associate** |
-
--   Learner will have a fine-tuned tone in the communication that encourages collaboration
--   Learner will be able to communicate technical and business information of medium to high complexity
--   Learner will be familiar with multiple written communication applications, such as email, messaging and social media postings
-
- |
-| **CITA -- Specialist** |
-
--   Leaner's communication is concise and to the point
--   Learner will be able to communicate technical and business information of high complexity
--   Leaner will be able to influence the direction of communication threads
--   Learner will be able to rely on written communication as the only available communication channel
-
- |
-| **CITA -- Professional** |
-
--   Learner will have a polished style of written communication, which is suitable for any audience
--   Learner will be familiar with etiquette of international communication
--   Learner will be able to redirect and recover communication threads that are stuck or moving in the wrong direction
-
- |
-
-### **Text and Document Formatting\
-**
+## Text and Document Formatting
 
 Ability to use text formatting to structure text and make it more readable. The ability to format documents according to best practices
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be familiar with with a variety of text formatting techniques, such as paragraphs, bullets, tables and font variations
+| | -   Learner will be familiar with the document formatting practices of her immediate environment. E.g. learner will know the document templates used in his organization.
+| **CITA -- Associate** | -   Learner will be able to use text formatting techniques to achieve good structuring of written text
+| | -   Learner will be proficient in using most common document formatting practices and use them effectively.
+| **CITA -- Specialist** | -   No additional objectives
+| **CITA -- Professional** |-   No additional objectives
 
--   Learner will be familiar with with a variety of text formatting techniques, such as paragraphs, bullets, tables and font variations
--   Learner will be familiar with the document formatting practices of her immediate environment. E.g. learner will know the document templates used in his organization.
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to use text formatting techniques to achieve good structuring of written text
--   Learner will be proficient in using most common document formatting practices and use them effectively.
-
- |
-| **CITA -- Specialist** |
-
--   No additional objectives
-
- |
-| **CITA -- Professional** |
-
--   No additional objectives
-
- |
-
-Related Capabilities
-====================
+# Related Capabilities
 
 -   **[Architecture Description](architecture_description.md){:target="_blank"}**
     *-- An architecture is usually described in a document, which has a framework of written text. Writing skills help create a document that is easy to follow.*
--   **[Requirements Modeling](requirements_modeling.md){:target="_blank"}
+-   **[Requirements Modeling](requirements_modeling.md){:target="_blank"}**
     *-- Requirements are usually captured in some form of written text. Writing Skills will make the requirements more clear and easy to follow.*
--   **[Presentation Skills](presentation_skills.md){:target="_blank"}**\
+-   **[Presentation Skills](presentation_skills.md){:target="_blank"}**
     *-- Creating presentation material with elements of written text can greatly benefit from Writing Skills.*
 
-Resources
-=========
+# Resources
 
-Basics of professional writing: <https://en.wikipedia.org/wiki/Professional_writing>
+Basics of professional writing: [https://en.wikipedia.org/wiki/Professional_writing](https://en.wikipedia.org/wiki/Professional_writing){:target="_blank"}
 
-Purdue University Online Writing Lab: <https://owl.english.purdue.edu/owl/>
+Purdue University Online Writing Lab: [https://owl.english.purdue.edu/owl/](https://owl.english.purdue.edu/owl/){:target="_blank"}
 
-Email correspondence etiquette: <http://www.inc.com/guides/2010/06/email-etiquette.html>
+Email correspondence etiquette: [http://www.inc.com/guides/2010/06/email-etiquette.html](http://www.inc.com/guides/2010/06/email-etiquette.html){:target="_blank"}
 
-Wikipedia Manual of Text Formatting: <https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Text_formatting>
+Wikipedia Manual of Text Formatting: [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Text_formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Text_formatting){:target="_blank"}
 
-Author
-======
+# Author
 
 ![sven_jug](media/s_jug.jpg)
-
-**Sven Jug**
+## Sven Jug
+*Senior Engineering Manager at KLA-Tencor*
 
 Sven is a Senior Engineering Manager at KLA-Tencor, a global semi-conductor company. He is responsible for managing projects, people and architectural solutions for data management and analysis software products.
 

@@ -59,7 +59,7 @@ Structured, open interactions can help improve the quality of Peer interaction. 
 
 # Sub-Capabilities
 
-## **Communication**
+## Communication
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
