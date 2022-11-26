@@ -301,7 +301,7 @@ How would a stakeholder engage an architect for assistance utilizing this skill?
 
 # Sub-Capabilities
 
-## **Stakeholder Relationship Management**
+## Stakeholder Relationship Management
 
 The coordination of relationships with and between key stakeholders, during the design, management and implementation of business change.
 
@@ -441,32 +441,31 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 
 ## Articles/Books
 
-1.  [The E-Hospital Website Measure Architecture Approach: Integrating Internal and External Customers' Needs in Information Delivery Services](http://asiair.asia.edu.tw/bitstream/310904400/2061/1/08.pdf){:target="_blank"} / C. C. Chang / Asian Journal of Health and Information Sciences, Vol. 2, Nos. 1-4, pp. 116-131, 2007
+1.  The E-Hospital Website Measure Architecture Approach: Integrating Internal and External Customers' Needs in Information Delivery Services / C. C. Chang / Asian Journal of Health and Information Sciences, Vol. 2, Nos. 1-4, pp. 116-131, 2007
 2.  [Human Dynamics](http://msdn.microsoft.com/en-us/library/bb402955.aspx){:target="_blank"} / Miriam Grace and Sandra Y. Jeffcoat / Skyscrapr, 2007
 3.  ["Diplomatic" Software: Customer Relations](http://msdn.microsoft.com/en-us/library/bb419210.aspx){:target="_blank"} / Henry Rosales / Skyscrapr, 2007
 4.  [The Customer: The Missing Link](http://msdn.microsoft.com/en-us/library/bb419207.aspx){:target="_blank"} / Richard F. Weldon, Jr. / Skyscrapr, 2007
 5.  [Conflict Management](http://msdn.microsoft.com/en-us/library/bb402956.aspx){:target="_blank"} / Othel Rolle / Skyscrapr, 2007
 6.  [The Speed Of Trust](http://www.franklincovey.com/tc/solutions/leadership-solutions/leading-at-the-speed-of-trust){:target="_blank"} / Stephen R. Covey / Free Press, 2006
-7.  [The EA Metamodel behind the Business Model Generation](http://blogs.msdn.com/b/nickmalik/archive/2012/08/22/the-ea-metamodel-behind-the-business-model-generation.aspx){:target="_blank"} / Nick Malik / Inside Architecture, 2012
-8.  [Is Enterprise Architecture accountable for improving customer experience?](http://blogs.msdn.com/b/nickmalik/archive/2012/10/02/is-enterprise-architecture-accountable-for-improving-customer-experience.aspx){:target="_blank"} / Nick Malik/Inside Architecture, 2012
+7.  The EA Metamodel behind the Business Model Generation / Nick Malik / Inside Architecture, 2012
+8.  Is Enterprise Architecture accountable for improving customer experience? / Nick Malik/Inside Architecture, 2012
 9.  Enterprise Architecture at Work: Modelling, Communication and Analysis / Marc Lankhorst / Springer Heidelberg New York, 2013
 10. Architecture: The Story of Practice / Dana Cuff / MIT Press, 1992
 11. Collaborative Enterprise Architecture: Enriching EA with Lean, Agile, and Enterprise 2.0 practices / Stefan Bente, Uwe Bombosch, Shailendra Langade / Morgan Kaufmann, 2012
 12. Five Best Practices for Improving EA Communications / Anne Lapkin / Gartner, 2010
 13. Lean Software Development: An Agile Toolkit / Mary and Tom Poppendieck / Addison-Wesley Professional, 2003
-14. [Foundations of the 5 Dynamics Model and Assessment](http://5dynamicsblog.com/wp-content/uploads/2012/06/5DynamicsFoundationsWhitePaperA090911.pdf){:target="_blank"} / Mike Sturm and Dr. Peter Nelson / 5 Dynamics LLC, 2011
+14. Foundations of the 5 Dynamics Model and Assessment / Mike Sturm and Dr. Peter Nelson / 5 Dynamics LLC, 2011
 
 ## Blogs/Webcasts/News/Reference Sources
 
 1.  [Human Dynamics International](http://www.humandynamics.com/){:target="_blank"}
 2.  [Zachman International](http://www.zachman.com/ea-articles-reference/54-the-zachman-framework-evolution){:target="_blank"}
-3.  [Capability Maturity Model Integration (CMMI) Institute](http://cmmiinstitute.com/){:target="_blank"}
-4.  [The Enterprise Business Motivation Model](http://motivationmodel.com/wp/){:target="_blank"}
+3.  [Capability Maturity Model Integration (CMMI) Institute](https://cmmiinstitute.com/){:target="_blank"}
+4.  [The Enterprise Business Motivation Model](http://motivationmodel.com/ebmm/){:target="_blank"}
 5.  [Standards organization](http://en.wikipedia.org/wiki/Standards_organization#Regional_standards_organizations){:target="_blank"}
 6.  [Society for Industrial and Organizational Psychology (SIOP)](http://www.siop.org/){:target="_blank"}
 7.  [Systems thinking](http://en.wikipedia.org/wiki/Systems_thinking){:target="_blank"}
 8.  [The Fifth Discipline](http://en.wikipedia.org/wiki/The_Fifth_Discipline){:target="_blank"}
-9.  [Architecting Better Customer Experiences: The Nexus of EA and CX](https://www.softwareag.com/_sso/order_check.asp?pb=/corporate&r=5&cid=70120000000sFlo&tp=Webinars&ld=201403%5FWeb%5Fsite%5FWebinar%5FArchitecting+Better+Customer+Experiences%3A+The+Nexus+of+EA%2C+BPM+and+CX&ref=%2Fcorporate%2Fimages%2Fsec%5FArchitecting%5FBetter%5FCustomer%5FExperiences%5FThe%2520Nexus%5Fof%5FEA%5FBPM%5Fand%5FCX%5Ftcm16%2D119795%2Emp4&mtype=movie&w=1024&h=768&compID=tcm:16-119795){:target="_blank"}
 
 ## Training
 
@@ -478,7 +477,7 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 
 1.  Risk Management
     1.  [Certified Information Systems Auditor](http://www.isaca.org/Certification/CISA-Certified-Information-Systems-Auditor/Pages/default.aspx){:target="_blank"} (CISA), ISACA
-    2.  [Certified in Risk and Information Systems Control](http://www.isaca.org/Certification/){:target="_blank"}CRISC-Certified-in-Risk-and-Information-Systems-Control/Pages/default.aspx){:target="_blank"} (CRISC), ISACA
+    2.  [Certified in Risk and Information Systems Control](http://www.isaca.org/Certification/CRISC-Certified-in-Risk-and-Information-Systems-Control/Pages/default.aspx){:target="_blank"} (CRISC), ISACA
 2.  Architecture
     1.  [Certified in the Governance of Enterprise IT](http://www.isaca.org/Certification/CGEIT-Certified-in-the-Governance-of-Enterprise-IT/Pages/default.aspx){:target="_blank"} (CGEIT), ISACA
     2.  [Certified Information Technology Architect](https://iasaglobal.org/){:target="_blank"} (CITA), IASA

@@ -66,33 +66,18 @@ Understand and articulate the various organizational designs and how they are im
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to clearly define the terms leadership and management
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between leadership and management
--   Learner will be able to describe the similarities, if any, between leadership and management
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe a situation where good management was exhibited
--   Learner will be able to describe a situation where good leadership was exhibited
--   Learner will be able to describe a situation where poor management was exhibited
--   Learner will be able to describe a situation where poor leadership was exhibited
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where good leadership was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor management was exhibited and discuss why. Was there room for improvement?
--   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
-
- |
+| **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
+| **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
+| | -   Learner will be able to describe the similarities, if any, between leadership and management
+| **CITA -- Specialist** |-   Learner will be able to describe a situation where good management was exhibited
+| | -   Learner will be able to describe a situation where good leadership was exhibited
+| | -   Learner will be able to describe a situation where poor management was exhibited
+| | -   Learner will be able to describe a situation where poor leadership was exhibited
+| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
+| | -   Learner will be able to describe a situation where good leadership was exhibited and discuss why. Was there room for improvement?
+| | -   Learner will be able to describe a situation where poor management was exhibited and discuss why. Was there room for improvement?
+| | -   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
+|
 
 ## Resource Management
 
@@ -273,11 +258,7 @@ Northouse, Peter G. 2013 (copyright 2013). *Leadership: Theory and Practice*. Th
 
 What is the Difference Between Management and Leadership? Retrieved September 25, 2013, from [http://guides.wsj.com/management/developing-a-leadership-style/what-is-the-difference-between-management-and-leadership/](http://guides.wsj.com/management/developing-a-leadership-style/what-is-the-difference-between-management-and-leadership/){:target="_blank"}.
 
-Leadership Retrieved September 25, 2013, from [http://online.wsj.com/public/page/leadership.html?mg=reno64-wsj](http://online.wsj.com/public/page/leadership.html?mg=reno64-wsj){:target="_blank"}.
-
 Leadership vs. Management Retrieved September 25, 2013, from [http://changingminds.org/disciplines/leadership/articles/manager_leader.htm](http://changingminds.org/disciplines/leadership/articles/manager_leader.htm){:target="_blank"}
-
-Management vs. Leadership Retrieved September 25, 2013, from <>.[http://www.leadership-toolbox.com/management-vs-leadership.html](http://www.leadership-toolbox.com/management-vs-leadership.html){:target="_blank"}
 
 **Training**
 
@@ -287,7 +268,7 @@ Project Management Institute [http://www.pmi.org](http://www.pmi.org){:target="_
 
 **Certifications** 
 
-Project Management Professional (PMP) [http://www.pmi.org/en/Certification/Project-Management-Professional-PMP.aspx](http://www.pmi.org/en/Certification/Project-Management-Professional-PMP.aspx){:target="_blank"}
+Project Management Professional (PMP) 
 
 # Author
 

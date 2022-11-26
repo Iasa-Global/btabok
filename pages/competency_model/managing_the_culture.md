@@ -74,7 +74,7 @@ Description coming soon…
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-## Consultancy and Advisory**
+## Consultancy and Advisory
 
 Description coming soon…
 
@@ -86,7 +86,7 @@ Description coming soon…
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-## Accountabilty**
+## Accountabilty
 
 Description coming soon…
 
@@ -98,7 +98,7 @@ Description coming soon…
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-## Identify the Organizational Culture**
+## Identify the Organizational Culture
 
 Understand the primary organizational culture and any department or team cultures that deviate from the primary organizational culture.
 
@@ -110,7 +110,7 @@ Understand the primary organizational culture and any department or team culture
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-## Utilize the Organizational Culture**
+## Utilize the Organizational Culture
 
 How does the successful Architect leverage, or mitigate, the existing internal culture to achieve project success?
 
@@ -122,7 +122,7 @@ How does the successful Architect leverage, or mitigate, the existing internal c
 *   **CITA – Professional** Learner will be able to describe how the culture aides or hinders the success of the organization
 *   Learner will understand how to utilize the culture to facilitate success
 
-## Describe the Tools Used to Manage Organizational Culture**
+## Describe the Tools Used to Manage Organizational Culture
 
 Each organizational culture brings unique circumstances and often requires different tools/methodologies to facilitate project success.
 
@@ -135,8 +135,6 @@ Each organizational culture brings unique circumstances and often requires diffe
 *   Learner will understand how to utilize the culture to facilitate success
 
 # Resources
-
-  
 
 ## Articles/Books
 
