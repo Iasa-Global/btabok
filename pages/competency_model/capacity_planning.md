@@ -338,11 +338,10 @@ CMIS: [http://www.teamquest.com/import/pdfs/whitepaper/capacity-management-infor
 
 How to do capacity planning: [https://www.youtube.com/watch?v=w0cD26CLBA0](https://www.youtube.com/watch?v=w0cD26CLBA0){:target="_blank"}
 
-Author
-======
+# Author
 
 ![Paddy Baxter](media/p_baxter.jpg)
-## **Paddy Baxter**
+## Paddy Baxter
 **IT Architect**
 
 Paddy's natural strengths of intuitive, big picture analysis, combined with a strong desire to improve on existing systems for the benefits of all stakeholders, have led him to the profession of enterprise architecture. Paddy has over 25 years' experience in large enterprise IT environments across the globe, working in Europe, Australia, Asia and the US with major industry players such as HP (Digital/Compaq), Microsoft, Intel and EY.
