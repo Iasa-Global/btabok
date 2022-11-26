@@ -10,13 +10,11 @@ tags:
   - business_technology_strategy
 ---
 
-Description
-===========
+# Description
 
 Requirements Discovery and Constraints Analysis are the tools and techniques for understanding business requirements with multiple strategic impacts, including how such requirements and constraints are formed internally and externally. The IT architect is expected to apply those constraints and requirements to their technology and business decisions.
 
-Overview
-========
+# Overview
 
 Requirements discovery is the process of distilling business needs into capabilities desired from an end solution. Requirements discovery leads to technology strategy definition and eventually, into solution perspectives such as solution architecture, solution strategy and quality attribute concerns. Constraints Analysis involves identification of parameters, whether business or technical, that bind or influence architecture decisions.
 
@@ -28,8 +26,7 @@ Architects should thus be familiar with requirements discovery both, in the cont
 
 Architects should also identify and elicit constraints that bind architecture concerns. Constraints emanate from a broad spectrum of requirements related to business as well as technology. Business related constraints arise from factors such as regulatory requirements, characteristics of the business and available resources for implementation. Technology related constraints arise from factors such as available technology, enterprise framework and standards, quality attributes, conflicts with respect to other requirements, and, anticipated life of the solution.
 
-Proven Practices
-================
+# Proven Practices
 
 -   Emphasis on business stakeholder involvement in the discovery process.
 -   Driving engagement with business to deconstruct stated and unstated needs.
@@ -38,10 +35,9 @@ Proven Practices
 -   Knowledge of reference architecture both business and technology to identify needs and gaps.
 -   Integrating requirements validation into architecture review process using architecture analysis methods such as ATAM (Architecture Tradeoff Analysis Method) or PBA (Perspective Based Architecture).
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Requirements definition and management**
+## Requirements definition and management
 
 Requirements definition is the outcome of requirements discovery process. It is set of qualifying and clearly represented needs that can be translated into a solution capability. The goal of requirements definition is to translate needs into well stated expected solution objectives, capabilities and behavior. Requirements once defined and agreed have to be managed over the lifecycle of the requirement and the solution implementation. Requirements definition is represented through various modes such as tools, documented artifacts and modeling notations such as use cases.
 
@@ -72,7 +68,7 @@ Requirements definition is the outcome of requirements discovery process. It is 
 
  |
 
-### **Scoping and Needs Assessment**
+## Scoping and Needs Assessment
 
 A needs assessment is a process for determining and addressing needs, or "gaps" between current conditions and desired conditions or "wants". Applying structured methods for needs assessment to identify identifying business needs and gaps that drive requirements for a future state. The process of scoping delineates needs into a logical problem and solution boundary.
 
@@ -106,7 +102,7 @@ A needs assessment is a process for determining and addressing needs, or "gaps" 
 
  |
 
-### **Constraints Analysis**
+## Constraints Analysis
 
 Constraints analysis is the process of identifying and analyzing barriers that bind requirements driving a solution strategy.  Common business constraints that should be pro-actively covered in the requirements process are constraints related to resources (primarily financial and people), time (speed to market), structure (prevailing standards or norms, maturity, culture) and external parameters (regulatory, legal, social). Constraints related to technology strategy include conflicting quality attributes, enterprise standards and available resources and solutions.
 
@@ -138,7 +134,7 @@ Constraints analysis is the process of identifying and analyzing barriers that b
 
  |
 
-### **Usability Requirements Analysis **
+## Usability Requirements Analysis
 
 Usability requirements are the establishment, clarification and communication of non-functional requirements for usability. It considers the analysis of the characteristics of users and their tasks, and the technical, organizational and physical environment in which solution will operate.
 
@@ -173,34 +169,30 @@ Usability requirements are the establishment, clarification and communication of
 
  |
 
-Related Capabilities
-====================
+# Related Capabilities
 
 -   [Industry Analysis](industry_analysis.md){:target="_blank"}
 -   [Requirements Modeling](requirements_modeling.md){:target="_blank"}
 -   [Views and Viewpoints](views_viewpoints.md){:target="_blank"}
 -   [Balancing and Optimizing Quality Attributes](boqa.md){:target="_blank"}
 
-Resources
-=========
+# Resources
 
 **The following external references have additional information on the subject of Requirements Discovery and Constraints Analysis:**
 
--   Software Engineering Institute (Requirements Elicitation, Constraints and Needs Assessment) & SEI Digital Library- [sei.cmu.edu](http://www.sei.cmu.edu/)
--   Needs Assessment -- [needsassessment.org](http://www.needsassessment.org/)
--   Constraints and Assumptions -- [bridging-the-gap.com/ba-stories-its-not-all-requirements-assumptions-and-constraints-matter-too](http://www.bridging-the-gap.com/ba-stories-its-not-all-requirements-assumptions-and-constraints-matter-too)
--   Usability Best Practices and Strategies-- [**usability**.gov](http://www.usability.gov)
--   Information Architecture for Usability -usabilityfirst.com/about-usability/information-architecture
+-   Software Engineering Institute (Requirements Elicitation, Constraints and Needs Assessment) & SEI Digital Library- [sei.cmu.edu](http://www.sei.cmu.edu/){:target="_blank"}
+-   Needs Assessment -- [needsassessment.org](http://www.needsassessment.org/){:target="_blank"}
+-   Constraints and Assumptions -- [bridging-the-gap.com/ba-stories-its-not-all-requirements-assumptions-and-constraints-matter-too](http://www.bridging-the-gap.com/ba-stories-its-not-all-requirements-assumptions-and-constraints-matter-too){:target="_blank"}
+-   Usability Best Practices and Strategies-- [usability.gov](http://www.usability.gov){:target="_blank"}
+-   Information Architecture for Usability - [https://www.usabilityfirst.com/about-usability/information-architecture](https://www.usabilityfirst.com/about-usability/information-architecture){:target="_blank"}
 
 **Books**
 
--   Consulting in Uncertainty: The Power of Inquiry by [Ann K. Brooks](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Ann+K.+Brooks&search-alias=books&text=Ann+K.+Brooks&sort=relevancerank), [Kathy Edwards](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Kathy+Edwards&search-alias=books&text=Kathy+Edwards&sort=relevancerank) ISBN-13: 978-0415800495 ISBN-10: 0415800498
--   Exploring Requirements: Quality Before Design by [Donald C. Gause](http://www.amazon.com/Donald-C.-Gause/e/B000APETIE/ref=dp_byline_cont_book_1) , [Gerald M. Weinberg](http://www.amazon.com/Gerald-M.-Weinberg/e/B000AP8TZ8/ref=dp_byline_cont_book_2) ISBN-13: 978-0932633132 ISBN-10: 0932633137
--   A Guide to Assessing Needs: Essential Tools for Collecting Information, Making Decisions, and Achieving Development Results (World Bank Training Series) by [Ryan Watkins](http://www.amazon.com/Ryan-Watkins/e/B001HCWY0Y/ref=dp_byline_cont_book_1) , [Maurya West Meiers](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Maurya+West+Meiers&search-alias=books&text=Maurya+West+Meiers&sort=relevancerank), [Yusra Visser](http://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Yusra+Visser&search-alias=books&text=Yusra+Visser&sort=relevancerank) ISBN-13: 978-0821388686 ISBN-10: 0821388681
+-   Consulting in Uncertainty: The Power of Inquiry by [Ann K. Brooks](http://www.amazon.com/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=Ann+K.+Brooks&search-alias=books&text=Ann+K.+Brooks&sort=relevancerank){:target="_blank"}, [Kathy Edwards](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Kathy+Edwards&search-alias=books&text=Kathy+Edwards&sort=relevancerank){:target="_blank"} ISBN-13: 978-0415800495 ISBN-10: 0415800498
+-   Exploring Requirements: Quality Before Design by [Donald C. Gause](http://www.amazon.com/Donald-C.-Gause/e/B000APETIE/ref=dp_byline_cont_book_1){:target="_blank"} , [Gerald M. Weinberg](http://www.amazon.com/Gerald-M.-Weinberg/e/B000AP8TZ8/ref=dp_byline_cont_book_2){:target="_blank"} ISBN-13: 978-0932633132 ISBN-10: 0932633137
+-   A Guide to Assessing Needs: Essential Tools for Collecting Information, Making Decisions, and Achieving Development Results (World Bank Training Series) by [Ryan Watkins](http://www.amazon.com/Ryan-Watkins/e/B001HCWY0Y/ref=dp_byline_cont_book_1){:target="_blank"} , [Maurya West Meiers](http://www.amazon.com/s/ref=dp_byline_sr_book_2?ie=UTF8&field-author=Maurya+West+Meiers&search-alias=books&text=Maurya+West+Meiers&sort=relevancerank){:target="_blank"}, [Yusra Visser](http://www.amazon.com/s/ref=dp_byline_sr_book_3?ie=UTF8&field-author=Yusra+Visser&search-alias=books&text=Yusra+Visser&sort=relevancerank){:target="_blank"} ISBN-13: 978-0821388686 ISBN-10: 0821388681
 
-Author
-======
+# Author
 
 ![maya_more](media/maya_more.jpg)
-
 Maya More is an IASA member and CITA-Foundation certified architect having over 19 years experience in business technology consulting, enterprise architecture and technology implementation. She has worked with global businesses in multiple countries and industries such as insurance, healthcare and oil & gas. She currently works as Architecture and Technology SME for a leading oil & gas corporation in India.
