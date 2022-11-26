@@ -151,7 +151,7 @@ These place heavy demands on the individual which is why it is crucial that he/s
 *   devise a transformation plan that will address pain points facing the organization
 *   advertise the value of architects engaging in business fundamentals and/or generate a media product for this purpose
 
-## **Marketing and Sales**
+## Marketing and Sales
 
 **Marketing** – It is a fallacy to think the “best” product will sell itself. For one, the definition of “best” or “good” is highly subjective issue in most cases. Secondly, product quality and features are only part of the factors contributing to increased demand.
 
@@ -195,7 +195,7 @@ Sales is not confined to direct selling(selling in person). Unattended sales cha
 *   **CITA – Professional** Learner will be able toconstruct a Technology Strategy to support a Marketing Strategy
 *   construct a Technology Strategy to support a Sales Strategy
 
-## **Financial Management**
+## Financial Management
 
 Financial Management is concerned with the following areas:
 
@@ -248,7 +248,7 @@ An overview of accounting will take the architect through the following concepts
 
   
 
-## **Operations**
+## Operations
 
 Operations is the raison détre (the reason or justification for existence) of a business. It is concerned with the **manufacture of products** and the **delivery of services** to customers. It is a complex combination of activities that can greatly benefit from the contribution of skilled IT architects. There are reports of spectacular successes with equally great failures. While the intent of this section is to develop architects and not engineers, IT architects would do well to understand this area well.
 
@@ -310,7 +310,7 @@ The global economy is growing increasingly service-based which means architects 
 *   Imagine how consumer demand and preferences can be tracked and integrated into corporate information systems for a given organization
 *   Develop a generic service delivery architecture for a given organization covering the four specializations
 
-## **Human Resources**
+## Human Resources
 
 While _Human Resources_ refers to the collective group of individuals within an organization, _Human Capital_ is more narrowly focused on the useful knowledge these individuals have that can be used to enhance the value chain of the organization. _Human Resource Management_ is tasked with maximizing employee performance to meet business goals.
 
@@ -424,7 +424,7 @@ The process begins when someone gets an **idea** for a new product. Not all idea
 
   
 
-## **Articles:** 
+## Articles:
 
 ## Books:
 
@@ -437,7 +437,7 @@ The process begins when someone gets an **idea** for a new product. Not all idea
 
 *   IASA BTABoK
 
-## **Certifications/Training:** 
+## Certifications/Training:
 
 *   IASA Business Technology Strategy
 

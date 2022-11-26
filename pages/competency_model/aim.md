@@ -99,7 +99,7 @@ Cost of deploying IAM solutions versus managing existing tools
 
   
 
-## **Identity Governance**
+## Identity Governance
 
 Defining the governance for the right people to have the right access, know who has access to what, enforce policy and ensure compliance.
 
@@ -115,7 +115,7 @@ Defining the governance for the right people to have the right access, know who 
 *   The Learner demonstrates knowledge and experience in defining, designing and implementing identity governance for different key business factors (computer, mobile and other devices)
 *   The Learner demonstrates experience of identity governance in a complex IT and business environment from privacy, digital certificate and defining policies to infrastructure and enforcing
 
-## **Directory Services**
+## Directory Services
 
 Understand, define and enforce access rights when users attempt to access desired applications, systems and platforms.
 
@@ -128,7 +128,7 @@ Understand, define and enforce access rights when users attempt to access desire
 *   **CITA – Professional** The Learner demonstrates knowledge and experience in different methods in setting up a directory and other directory services depending on the business situation and requirements
 *   The Learner demonstrates knowledge and experience with mentoring in directory services
 
-## **Access Management**
+## Access Management
 
 Defining and providing ways to control storage of identity information and access rights through enforcing security policy, authentication and authorization.
 
@@ -146,14 +146,14 @@ Defining and providing ways to control storage of identity information and acces
 
   
 
-## **Articles:**
+## Articles:
 
 
 [https://msdn.microsoft.com/en-us/library/aa480030.aspx](https://msdn.microsoft.com/en-us/library/aa480030.aspx){:target="_blank"}
 
 [Identity and Access Management – Capability Model](http://www.discoveringidentity.com/2013/03/08/identity-and-access-management-capability-model/){:target="_blank"}
 
-## **Blogs/Webcasts/News/Reference Resources:**
+## Blogs/Webcasts/News/Reference Resources:
 
 Spasovski, Martin. OAuth 2.0: Identity and Access Management Patterns. Packt Publishing, 2013. Print.
 
@@ -165,7 +165,7 @@ Sharman, Raj. Das Smith, Sanjukta. Gupta, Manish. Digital Identity and Access Ma
 
 Links, Corbin H. IAM Success Tips: Volume III: Identity Access Management and Architecture Design, Volume 3. CreateSpace Independent Publishing Platform, 2009. Print.
 
-## **Training:**
+## Training:
 
 The Identity Management Institute, Center for Identity Governance, provides specialized training to educate the target audience about identity risks, responsibilities, governance and policies as well as requirements and guidelines.
 
@@ -175,7 +175,7 @@ Gartner organizes different symposiums to deliver strategic insights on IAM as 
 
 http://www.gartner.com/
 
-## **Certifications:**
+## Certifications:
 
 There are numerous certifications within the IAM capability area to provide credibility, knowledge and confidence to provide the best possible services, guidelines and solutions. The Identity Management Institute, Center for Identity Governance, provides the most comprehensive certifications ranging from data protection to identity and technology management.
 
@@ -184,8 +184,8 @@ http://www.identitymanagementinstitute.org/
 # Author
 
 ![Farzad Ahmed](media/farzad_ahmed.jpg)
-**Farzad Ahmed**
-**IT Consultant – Gartner**
+## Farzad Ahmed
+*IT Consultant – Gartner*
 
 Farzad Ahmed has a firm background in IT Governance within the private and public sector with focus on Enterprise Architecture, business intelligence, business development and total quality management. His current position as Management Consultant for Gartner, focuses on ensuring that IT delivers value to the business and supports their goals, visions and objectives through effective governance, architecture, risk management and portfolio management. In other words, making the IT organization a strategic business partner. Farzad worked formerly as a Management Consultant for PwC where he defined requirements and defined solutions, which he still does.
 
