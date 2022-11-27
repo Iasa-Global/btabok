@@ -103,9 +103,6 @@ Once projects were submitted using the standard template and process, the IPfM t
 
 The old and widely used Excel-driven process, limited the visibility into targeted costs and execution time frames. By automating the process, making it transparent, and using the same methodology across the organization, the IPfM team is able to eliminate the collection of individual rules and reports that had slowed the process. Using a simple, automated, online template also eliminated ambiguity and minimized the time-consuming task of aggregating project data.
 
-**\
-**
-
 # Sub-Capabilities
 
 ## Capability Mapping
@@ -116,27 +113,11 @@ The process of modeling what a business does to reach its objectives (its capabi
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learners will be able to name the capabilities that conforms the approach to implement an IPfM discipline
-
- |
-| **CITA -- Associate** |
-
--   Learners will be able to describe each capability and how it relates to business and IT.
--   Learners will be able to describe each capability and understands the main goals for their implementation
-
- |
-| **CITA -- Specialist** |
-
--   Learners will be able to implement the Simplify and Standardize capabilities and address the common challenges into their business during their implementation
-
- |
-| **CITA -- Professional** |
-
--   *Learners will be able to implement the Centralize and Automate capabilities and address the common challenges into their business during their implementation.*
-
- |
+| **CITA- Foundation** | -   Learners will be able to name the capabilities that conforms the approach to implement an IPfM discipline
+| **CITA -- Associate** | -   Learners will be able to describe each capability and how it relates to business and IT.
+| | -   Learners will be able to describe each capability and understands the main goals for their implementation
+| **CITA -- Specialist** | -   Learners will be able to implement the Simplify and Standardize capabilities and address the common challenges into their business during their implementation
+| **CITA -- Professional** | -   *Learners will be able to implement the Centralize and Automate capabilities and address the common challenges into their business during their implementation.*
 
 ## Supplier Relationship Management
 
@@ -144,28 +125,12 @@ The Supplier Relationship Management process is focused on the identification an
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learners will be able to name the industry trends and economic factors that impact into their IT investments portfolio.
-
- |
-| **CITA -- Associate** |
-
--   Learners will be able to align the prioritization and planning with the strategy goals of their organization.
-
- |
-| **CITA -- Specialist** |
-
--   Learners will be able to identify and describe the AS-IS model for the prioritization and planning cycle work in their organization.
--   Learners will be able to define the TO-BE model for the prioritization and planning cycle work in their organization.
-
- |
-| **CITA -- Professional** |
-
--   *Learners will be able to implement the IPfM discipline in their organizations providing guidance and leading practices*
--   *Learners will be able to determine who should own a technology investment budget according to the implementation of the selection framework for IT suppliers*
-
- |
+| **CITA- Foundation** | -   Learners will be able to name the industry trends and economic factors that impact into their IT investments portfolio.
+| **CITA -- Associate** | -   Learners will be able to align the prioritization and planning with the strategy goals of their organization.
+| **CITA -- Specialist** | -   Learners will be able to identify and describe the AS-IS model for the prioritization and planning cycle work in their organization.
+| | -   Learners will be able to define the TO-BE model for the prioritization and planning cycle work in their organization.
+| **CITA -- Professional** | -   *Learners will be able to implement the IPfM discipline in their organizations providing guidance and leading practices*
+| | -   *Learners will be able to determine who should own a technology investment budget according to the implementation of the selection framework for IT suppliers*
 
 ## Procurement Management
 
@@ -173,27 +138,11 @@ The Procure Management process is focused on the management of, and the provisio
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to name some policies, standards or regulations that ensure better procurement practices.
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to define policies, standards or regulations that ensure better procurement practices.
-
- |
-| **CITA -- Specialist** |
-
--   Learners will be able to identify and describe the AS-IS model for the procurement cycle work in their organization.
--   Learners will be able to define the TO-BE model for the procurement cycle work in their organization
-
- |
-| **CITA -- Professional** |
-
--   *Learners will be able to implement an effective IPfM discipline through the implementation of the procurement and sourcing strategy across their organizations.*
-
- |
+| **CITA- Foundation** | -   Learner will be able to name some policies, standards or regulations that ensure better procurement practices.
+| **CITA -- Associate** | -   Learner will be able to define policies, standards or regulations that ensure better procurement practices.
+| **CITA -- Specialist** | -   Learners will be able to identify and describe the AS-IS model for the procurement cycle work in their organization.
+| | -   Learners will be able to define the TO-BE model for the procurement cycle work in their organization
+| **CITA -- Professional** | -   *Learners will be able to implement an effective IPfM discipline through the implementation of the procurement and sourcing strategy across their organizations.*
 
 # Resources
 
