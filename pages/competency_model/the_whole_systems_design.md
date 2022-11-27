@@ -10,8 +10,7 @@ tags:
   - design
 ---
 
-Description
-===========
+# Description
 
 Architects often think of design narrowly, in terms of software components or a computing system that has interfacing applications that serve a bounding scope. "Whole Systems Design" considers the "whole" rather than the individual parts of a solution and emphasizes the role of interconnection between elements of the system(s), and promotes the concept of "Design as a Discipline"[[1]](the_whole_systems_design.md){:target="_blank"}.
 
@@ -30,8 +29,7 @@ Software architecture brings together the two worlds of technology and design, a
 
 [[1]](the_whole_systems_design.md) A discipline is a way of thinking; it is a branch of knowledge with rules of practice and established methods of conduct. A discipline is about learning.
 
-Overview
-========
+# Overview
 
 Whole systems design requires that you consider the "whole system" of interconnected elements, including the context and the people, processes, structures, technology and other elements, as well as their patterns of interaction.
 
@@ -59,133 +57,79 @@ Design maintains the whole. As architects, we must first consider the larger who
 
 As Donald Knuth once said "Premature optimization is the root of all evil"; in Whole Systems Design, the optimization or isolated design of a single component of the overall system can undermine the  effectiveness of system as a whole.
 
-Corporate Best Practices
-========================
+# Corporate Best Practices
 
 1.  Ensure that Systems Design & Systems Thinking is part of the architecture curriculum.
 2.  Establish Technical (or Solution) Architecture Review Groups to allow solutions to be reviewed by resources from all of the IT disciplines.
 3.  Ensure architects are considering the broader context of their work regardless of the level of architecture at which they are working. For example application architects need to consider the broader context of the solution into which their application fits, solution architects need to consider the broader context of the enterprise into which their solution fits. Ensure that this broader context forms part of the organization's expectations for Architecture Descriptions at all levels.
 
-Sub-Components Skills
-=====================
+# Sub-Components Skills
 
-Integrative view of Architecture
---------------------------------
+## Integrative view of Architecture
 
 Taking an "Integrative View" of architecture encompasses the systems sciences, systems theory, and systems thinking. An Integrative View of architecture means requires the development of a "whole systems" perspective and understanding its importance to architects, including recognizing and addressing complex systemic problems.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to describe the concepts of Whole System Design.
+| | -   Learner will be able to differentiate whole systems design from other modes of design.
+| **CITA -- Associate** | -   Learner will be able to explain the systems design from a whole systems perspective.
+| | -   Learner will be able to relate the whole systems design process to the practice of systems architecture
+| | -   Learner will be able to understand modeling in relationship to essential business patterns and structures.
+| | -   Learner will be able to recognize and describe an expanded definition of context in solution design.
+| | -   Learner will be able to recognize the role of architect in the creation of a design culture.
+| | -   Learner has researched and is able to explain the frameworks that support whole systems design.
+| **CITA -- Specialist** | -   Learner will be able to apply one or more frameworks that support whole systems design.
+| | -   Learner will be able to identify the project benefits derived from taking a whole systems design approach
+| | -   Learner will have a rich understanding of the organization's IT environment
+| | -   Learner is able to validate that the given perspective includes the whole system and not just parts of it.
+| | -   Learner is able to explain the elements of the organization's IT environment which must be understand to gain a holistic architectural perspective.
+| **CITA -- Professional** | -   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
+| | -   Learner will be able to drive the introduction Whole Systems Design and Systems Thinking.
+| | -   Learner will act as a mentor for Whole Systems Design.
+| | -   Learner will write and speak publically, and contribute to the development of Whole Systems Design thinking.
 
--   Learner will be able to describe the concepts of Whole System Design.
--   Learner will be able to differentiate whole systems design from other modes of design.
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to explain the systems design from a whole systems perspective.
--   Learner will be able to relate the whole systems design process to the practice of systems architecture
--   Learner will be able to understand modeling in relationship to essential business patterns and structures.
--   Learner will be able to recognize and describe an expanded definition of context in solution design.
--   Learner will be able to recognize the role of architect in the creation of a design culture.
--   Learner has researched and is able to explain the frameworks that support whole systems design.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to apply one or more frameworks that support whole systems design.
--   Learner will be able to identify the project benefits derived from taking a whole systems design approach
--   Learner will have a rich understanding of the organization's IT environment
--   Learner is able to validate that the given perspective includes the whole system and not just parts of it.
--   Learner is able to explain the elements of the organization's IT environment which must be understand to gain a holistic architectural perspective.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
--   Learner will be able to drive the introduction Whole Systems Design and Systems Thinking.
--   Learner will act as a mentor for Whole Systems Design.
--   Learner will write and speak publically, and contribute to the development of Whole Systems Design thinking.
-
- |
-
-Synthesis of Systems, Network and Services Design
--------------------------------------------------
+## Synthesis of Systems, Network and Services Design
 
 The "whole system" of interconnected elements that participate in, impact, and influence the design process, including the nature and rich tradition of design theory and practice, relevancy of understanding design as a discipline.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to identify a containing whole (system) of which the thing to be explained is a part (or is intended to become a part).
+| **CITA -- Associate** | -   Learner will be able functions as part of the architecture team for the organization's IT environment.
+| | -   Learner will be able to provide a broader vision of the environment in which their projects operate.
+| **CITA -- Specialist** | -   Learner will have a rich understanding of the organization's IT environment
+| | -   Learner will be able to discuss how they have leveraged existing services in a solution.
+| | -   Learner will be able to discuss how the whole environment has impacted their project.
+| | -   Learner will be able to explain the anticipated complications of creating architectural solutions within an existing complex IT environment.
+| | -   Learner will be able to explain their own design process in the context of design as a discipline.
+| **CITA -- Professional** | -   Learner will be able to mentor others in the discipline of design
+| | -   Learner will write and speak publically, and contribute to the development of the concept of design as a discipline.
 
--   Learner will be able to identify a containing whole (system) of which the thing to be explained is a part (or is intended to become a part).
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able functions as part of the architecture team for the organization's IT environment.
--   Learner will be able to provide a broader vision of the environment in which their projects operate.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will have a rich understanding of the organization's IT environment
--   Learner will be able to discuss how they have leveraged existing services in a solution.
--   Learner will be able to discuss how the whole environment has impacted their project.
--   Learner will be able to explain the anticipated complications of creating architectural solutions within an existing complex IT environment.
--   Learner will be able to explain their own design process in the context of design as a discipline.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to mentor others in the discipline of design
--   Learner will write and speak publically, and contribute to the development of the concept of design as a discipline.
-
- |
-
-Design Evaluation, Redesign and Decoupling
-------------------------------------------
+## Design Evaluation, Redesign and Decoupling
 
 Design judgment and the construction of meaning, including work redesign, industry perspectives, and the increasing importance of architectural influence on design. The diagnosis of design problems, unique aspects of design judgment, approaches to problem solving, and methods for unleashing creative potential.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able explain the concept of "big picture" thinking
+| | -   Learner is familiar with the concepts of design evaluation
+| **CITA -- Associate** | -   Learner will be able to evaluate simple designs
+| | -   Learner is able to describe the processes followed to understand the work performed in a whole system design
+| | -   Learner understands and can explain key design deliverables which support whole system design e.g. Context Model.
+| | -   Learner will be able to describe the use of systemic thought and design to plan and resolve problems.
+| | -   Learner will be able to describe the context and interactions between contextual elements that will impact the design.
+| **CITA -- Specialist** | -   Learner will be able to balance the short-term and long-term perspectives of a project and express this in the design.
+| | -   Learner will be able to generate and clarify alternative representations of the system that can meet the project requirements and expectations.
+| | -   Learner is able to diagnose and describe design problems.
+| | -   Learner will be able to devise criteria by which design alternatives can be evaluated.
+| | -   Learner is able to evaluate design alternatives and makes recommendations to decision makers.
+| **CITA -- Professional** | -   Learner is skilled in the evaluation of complex designs.
+| | -   Learner will be evaluating and driving improvements in design efficiency in the organization.
+| | -   Learner will be able to mentor others in design evaluation
+| | -   Learner will write and speak publicly, and contribute to the development of the design evaluation techniques and methods.
 
--   Learner will be able explain the concept of "big picture" thinking
--   Learner is familiar with the concepts of design evaluation
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to evaluate simple designs
--   Learner is able to describe the processes followed to understand the work performed in a whole system design
--   Learner understands and can explain key design deliverables which support whole system design e.g. Context Model.
--   Learner will be able to describe the use of systemic thought and design to plan and resolve problems.
--   Learner will be able to describe the context and interactions between contextual elements that will impact the design.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to balance the short-term and long-term perspectives of a project and express this in the design.
--   Learner will be able to generate and clarify alternative representations of the system that can meet the project requirements and expectations.
--   Learner is able to diagnose and describe design problems.
--   Learner will be able to devise criteria by which design alternatives can be evaluated.
--   Learner is able to evaluate design alternatives and makes recommendations to decision makers.
-
- |
-| **CITA -- Professional** |
-
--   Learner is skilled in the evaluation of complex designs.
--   Learner will be evaluating and driving improvements in design efficiency in the organization.
--   Learner will be able to mentor others in design evaluation
--   Learner will write and speak publicly, and contribute to the development of the design evaluation techniques and methods.
-
- |
-
-Related Capabilites
-===================
+# Related Capabilites
 
 -   [Architecture Description](architecture_description.md){:target="_blank"}
 -   [Requirements Discovery and Constraints Analysis](requirements_discovery_and_constraints_analysis.md){:target="_blank"}
@@ -193,8 +137,7 @@ Related Capabilites
 -   [Decomposition and Reuse](decomposition_and_reuse.md){:target="_blank"}
 -   [Design Analysis and Testing](design_analysis_and_testing.md){:target="_blank"}
 
-Resources
-=========
+# Resources
 
 -   Meadows, Donella (2008) --  Thinking in Systems: A Primer
 -   Ackoff, R.L. (2006) -- Ackoff's best.
@@ -204,14 +147,14 @@ Resources
 -   Gharajedaghi, J (2011) -- Systems Thinking, Third Edition: Managing Chaos and Complexity: A Platform for Designing Business Architecture.
 -   Lawson, B. (2000) -- How designers think: The design process demystified.
 
-Author
-======
+# Author
 
 ![Sean Gordon](media/s_gordon.jpg)
-Technical Expert for Solution Architecture -- Chevron**
+## Sean Gordon
+*Technical Expert for Solution Architecture -- Chevron*
 
-Sean Gordon works for Chevron (<http://www.chevron.com/>) where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
+Sean Gordon works for Chevron [http://www.chevron.com/](http://www.chevron.com/){:target="_blank"} where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
 
-Sean is an Honorary Lecturer at Dundee University School of Computing (<http://www.computing.dundee.ac.uk/>). He is also a member of the judging panel for the ScotlandIS Young Software Engineer of the Year Awards (<http://www.scotlandis.com/>).
+Sean is an Honorary Lecturer at Dundee University School of Computing [http://www.computing.dundee.ac.uk/](http://www.computing.dundee.ac.uk/){:target="_blank"}. He is also a member of the judging panel for the ScotlandIS Young Software Engineer of the Year Awards [http://www.scotlandis.com/](http://www.scotlandis.com/){:target="_blank"}.
 
 ![Farzad Ahmed](media/farzad_ahmed.jpg)

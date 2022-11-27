@@ -10,11 +10,9 @@ tags:
   - design
 ---
 
+# Description
 
-Description
-===========
-
-The concept of views and viewpoints is widely understood across the architecture community, having originated back in the 1970's in Doug Ross' Structured Analysis and Design Technique (SADT). Later, the concept of views became widely accepted following the development of Kruchten's 4 + 1 architecture view model at Rational Software, and they have since been formalized in the  [ISO/IEC/IEEE 42010:2011](http://en.wikipedia.org/wiki/ISO/IEC_42010), *Systems and software engineering --- Architecture description* standard.
+The concept of views and viewpoints is widely understood across the architecture community, having originated back in the 1970's in Doug Ross' Structured Analysis and Design Technique (SADT). Later, the concept of views became widely accepted following the development of Kruchten's 4 + 1 architecture view model at Rational Software, and they have since been formalized in the  [ISO/IEC/IEEE 42010:2011](http://en.wikipedia.org/wiki/ISO/IEC_42010){:target="_blank"}, *Systems and software engineering --- Architecture description* standard.
 
 The principles of views and viewpoints are defined in slightly different ways in different places; the definitions adopted by IASA are:
 
@@ -25,8 +23,7 @@ An example would be to use an operational viewpoint to create a view targeted at
 
 IT architects must have the ability to clearly understand the concepts of views, viewpoints, and perspectives, to understand the differences between them and how they work together to describe an architecture. They must be able to discern various stakeholder groups typical of IT development projects, understand the typical concerns of each group, and determine the set of views needed to satisfy the requirements of a particular project.
 
-Overview
-========
+# Overview
 
 One of the main responsibilities of the architect is to present the vision of the system to the stakeholders interested in it. In anything other than the most trivial of systems it is not possible to show this effectively in a single diagram and so the concept of views and viewpoints has been developed to allow the architectural description to be decomposed into a set of related pieces that each provide the appropriate information in an appropriate way to interested stakeholders.
 
@@ -37,10 +34,9 @@ Figure 1. Excerpt from Conceptual Framework of ISO42010
 
 Most architectural description are structured as a set of views which contain the main architectural information. A number of viewpoint sets exist, which vary in different ways, but the viewpoints in most architectural frameworks will include a description of the system's functional structure, its key data structures, a viewpoint addressing how the software is developed, and some form of deployment viewpoint that explains how the software is deployed into its runtime environments.
 
-Proven Practices
-================
+# Proven Practices
 
-A number of viewpoint-based architectural frameworks exist and  a comprehensive list is available here: <http://www.iso-architecture.org/42010/afs/frameworks-table.html>. For software intensive systems some of the more commonly used viewpoint sets are as follows:
+A number of viewpoint-based architectural frameworks exist and  a comprehensive list is available here: [http://www.iso-architecture.org/42010/afs/frameworks-table.html](http://www.iso-architecture.org/42010/afs/frameworks-table.html){:target="_blank"}. For software intensive systems some of the more commonly used viewpoint sets are as follows:
 
 Kruchten's 4 + 1 architecture view model
 
@@ -87,107 +83,55 @@ Archimate
 
 Archimate is a modelling language developed specifically for the needs of enterprise architecture, which has evolved to support the TOGAF framework. Archimate defines 18 standard viewpoints to cover enterprise architecture work, serving the needs of a wide set of stakeholders. The approach and its viewpoints are comprehensively documented in the documentation available via the Open Group's [Archimate website](http://www.opengroup.org/subjectareas/enterprise/archimate){:target="_blank"}.
 
-Sub-Components Skills
-=====================
+# Sub-Components Skills
 
-**Selecting the Appropriate Set of Views or Viewpoints**
---------------------------------------------------------
+## Selecting the Appropriate Set of Views or Viewpoints
 
 It is common that large organizations mandate a framework which is defined in their architecture documentation template, but in other cases it will be up to the architect to make the selection. This decision will depend on the level of the architecture being defined and the type of system being described. Once experience has been gained with the standard viewpoint sets, architects often find that it is necessary to extend the standard viewpoint sets to meet the needs of their specific situation.  This is particularly important if a mandated framework only has a few views which do not address important concerns for the architect's specific situation (such as security, for example).  When non-functional concerns are not addressed using alternative approaches, such as perspectives, pragmatic architects often address them by adding extra views for these concerns.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to describe views and viewpoints, and understand what they are
+| | -   Learner will be able to name some of the different types of views and viewpoints
+| **CITA -- Associate** | -   Learner will be able to describe the differences between various views and viewpoints
+| | -   Learner will be able to describe the key elements of the commonly used views and viewpoints (covering functional, information and deployment as a minimum)
+| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which views and viewpoints, and highlight the advantages and disadvantages of each
+| | -   Learner will be able to describe how use at least one of the sets of views and viewpoints in detail for a project and be able to produce them
+| **CITA -- Professional** | -   Learner will be able to identify new views and viewpoints for groups of stakeholders
+| | -   Learner will know the risk of missing out some views and viewpoints and be able to justify this where appropriate
 
--   Learner will be able to describe views and viewpoints, and understand what they are
--   Learner will be able to name some of the different types of views and viewpoints
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between various views and viewpoints
--   Learner will be able to describe the key elements of the commonly used views and viewpoints (covering functional, information and deployment as a minimum)
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe when it is most appropriate to use which views and viewpoints, and highlight the advantages and disadvantages of each
--   Learner will be able to describe how use at least one of the sets of views and viewpoints in detail for a project and be able to produce them
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to identify new views and viewpoints for groups of stakeholders
--   Learner will know the risk of missing out some views and viewpoints and be able to justify this where appropriate
-
- |
-
-**Application of Views and Viewpoints**
----------------------------------------
+## Application of Views and Viewpoints
 
 When the appropriate viewpoints have been selected, the architect needs to be able to produce the models defined and apply any techniques identified. This will usually entail using modelling languages like UML, Archimate or BPMN, as well as informal notations defined locally, along with the tools which support the notations in use.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to name the various activities which are covered by the commonly used Viewpoints
+| **CITA -- Associate** | -   Learner will be able to describe the activities and how they relate to each other across different Viewpoints
+| | -   Learner will be able to use the commonly found models to produce Views on medium complexity projects
+| | -   Learner will be able to use at least one of the modelling tools, like Enterprise Architect, Magic Draw, Rational Software Architect or Archi to define the models
+| **CITA -- Specialist** | -   Learner will be able to use all the appropriate Viewpoints on the development of large and complex project environments
+| | -   Learner will be able to define in detail all of the activities
+| | -   The Learner will be able to relate the Views to the stakeholders objectives
+| **CITA -- Professional** | -   Learner will be able to suggest significant specializations in the Viewpoints for an organization
+| | -   Learner will be able to propose new combinations of Veiwpoints
 
--   Learner will be able to name the various activities which are covered by the commonly used Viewpoints
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the activities and how they relate to each other across different Viewpoints
--   Learner will be able to use the commonly found models to produce Views on medium complexity projects
--   Learner will be able to use at least one of the modelling tools, like Enterprise Architect, Magic Draw, Rational Software Architect or Archi to define the models
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to use all the appropriate Viewpoints on the development of large and complex project environments
--   Learner will be able to define in detail all of the activities
--   The Learner will be able to relate the Views to the stakeholders objectives
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to suggest significant specializations in the Viewpoints for an organization
--   Learner will be able to propose new combinations of Veiwpoints
-
- |
-
-### **View and Viewpoint Management**
+## View and Viewpoint Management
 
 Ideally a mature architecture organisation should have a process in place to manage viewpoints for re-use and leverage views that have been produced.  This will involve capturing when views are created and used in the organisation, the information that each requires, the modeling techniques that they use, and a rationale for each of these choices.  Ideally all of this information will be captured in some sort of enterprise repository.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to describe the management process at their organization
+| | -   Learner will be able to explain the reasons for managing Views and Viewpoints
+| **CITA -- Associate** | -   Learner will be able to construct simple Views for inclusion in the process
+| | -   Learner will be able to describe how and why they applied the Viewpoints for a project
+| **CITA -- Specialist** | -   Learner will be able to critique content for inclusion in the repository
+| | -   Learner will be able to define the principles to apply governing inclusion
+| **CITA -- Professional** | -   Learner will be able to create meta-models for use by others
+| | -   Learner will be able to invent and reinforce the management process
 
--   Learner will be able to describe the management process at their organization
--   Learner will be able to explain the reasons for managing Views and Viewpoints
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to construct simple Views for inclusion in the process
--   Learner will be able to describe how and why they applied the Viewpoints for a project
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to critique content for inclusion in the repository
--   Learner will be able to define the principles to apply governing inclusion
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to create meta-models for use by others
--   Learner will be able to invent and reinforce the management process
-
- |
-
-Capabilities Resources
-======================
+# Capabilities Resources
 
 **Related Capabilities:**
 
@@ -202,18 +146,17 @@ Software Engineering Institute: Software Architecture in Practice (3rd Edition)
 
 #### **Blogs/Webcasts/News/Reference sources:**
 
-The Open Group web site: <http://www.opengroup.org/subjectareas/enterprise>
+The Open Group web site: [http://www.opengroup.org/subjectareas/enterprise](http://www.opengroup.org/subjectareas/enterprise){:target="_blank"}
 
-TOGAF: <http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html>
+TOGAF: [http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html](http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html){:target="_blank"}
 
-Architmate:  <http://pubs.opengroup.org/architecture/archimate2-doc/chap08.html>
+Architmate:  [http://pubs.opengroup.org/architecture/archimate2-doc/chap08.html](http://pubs.opengroup.org/architecture/archimate2-doc/chap08.html){:target="_blank"}
 
-Rozanski & Woods Web site: <http://www.viewpoints-and-perspectives.info/>
+Rozanski & Woods Web site: [http://www.viewpoints-and-perspectives.info/](http://www.viewpoints-and-perspectives.info/){:target="_blank"}
 
-<http://www.iso-architecture.org/42010/>
+[http://www.iso-architecture.org/42010/](http://www.iso-architecture.org/42010/){:target="_blank"}
 
-Author
-======
+# Author
 
-### Chris Cooper-Bland
-Group Head of Architecture -- Endava
+## Chris Cooper-Bland
+*Group Head of Architecture -- Endava*
