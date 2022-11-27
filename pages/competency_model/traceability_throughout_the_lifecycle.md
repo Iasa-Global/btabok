@@ -10,15 +10,13 @@ tags:
   - design
 ---
 
-Description
-===========
+# Description
 
 Traceability is one of the essential activities of good requirements management. It involves the process of documenting the life of a business concern and providing bi-directional traceability to the capability or capabilities associated with that concern. The purpose of having Traceability is to ensure that the right products are being built at each phase of the software development life cycle, to trace the progress of that development and to reduce the effort required to determine the impacts of requested changes.
 
 Architects must be able to support to the Project teams with thought process of establishing right traceability practices from the Business requirements through to the sustained system and describe the vital role of traceability throughout the lifecycle of the 'solution under development'. Architects should have mastery in the use of associated techniques and tools and demonstrate competence in highest priority techniques.
 
-Overview
-========
+# Overview
 
 The IEEE Standard Glossary of Software Engineering Terminology defines traceability as "the degree to which a relationship can be established between two or more products of the development process, especially products having a predecessor-successor or master-subordinate relationship to one another." [IEEE-610]
 
@@ -40,8 +38,7 @@ Establishing traceability correctly gives a timely view of the current state of 
 
 One of the daily activities during the SDLC is to generate a report of the forward traceability and backwards traceability of the Project. The adopted tool should support providing the report to facilitate an understanding of the current state of the Project.
 
-Proven Practices
-================
+# Proven Practices
 
 Architect provides a unique cross discipline view of the activities involved in the projects, across the business and the technical areas as establishing traceability requires a balanced understanding of the business domain (vision, goals, objectives, requirements) and technical underpinnings of the SDLC methodologies, processes and the various tools that support the same.
 
@@ -63,10 +60,9 @@ Engagement of an Architect for utilizing this skills requires the following:
     -   Identify missing requirements
     -   Identify gold plating
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### Traceabilty Management
+## Traceabilty Management
 
 The processes and techniques to describe and follow the life of an artifact from its origins, through its development and specification, to its subsequent deployment and use, and through periods of ongoing refinement and iterations.
 
@@ -74,103 +70,54 @@ The Software Engineering Institute (SEI) Capability Maturity Model Integration®
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner is aware of the Application Life cycle management tools and templates and the concepts of the Traceability management
+| **CITA -- Associate** | -   Learner has an application knowledge on the ALM tools that supports the traceability and relate the Traceability reports to its intended purpose during the course of the SDLC
+| **CITA -- Specialist** | -   Learner has a working knowledge on various ALM tools that support different methodologies of SDLC in building the products
+| | -   Learner knows how to model the templates for all work products that capture the information of traceability throughout SDLC
+| | -   Has an experience in using the tools successfully in delivering Waterfall/ Agile driven Projects
+| **CITA -- Professional** | -   Learner has an experience to synthesize the traceability (both forward and backward) reports that help Organization realize the benefits of maintaining bidirectional traceability through the realization of the following:
+| | -   Analyze the impact of a change in case of any changes in Business requirements
+| | -   All work products affected by a changed requirement
+| | -   All requirements affected by a change or defect in a work product
+| | -   Optimize the efforts required to build the product
+| | -   Propose improvements to the traceability templates
 
--   Learner is aware of the Application Life cycle management tools and templates and the concepts of the Traceability management
-
- |
-| **CITA -- Associate** |
-
--   Learner has an application knowledge on the ALM tools that supports the traceability and relate the Traceability reports to its intended purpose during the course of the SDLC
-
- |
-| **CITA -- Specialist** |
-
--   Learner has a working knowledge on various ALM tools that support different methodologies of SDLC in building the products
--   Learner knows how to model the templates for all work products that capture the information of traceability throughout SDLC
--   Has an experience in using the tools successfully in delivering Waterfall/ Agile driven Projects
-
- |
-| **CITA -- Professional** |
-
--   Learner has an experience to synthesize the traceability (both forward and backward) reports that help Organization realize the benefits of maintaining bidirectional traceability through the realization of the following:
--   Analyze the impact of a change in case of any changes in Business requirements
-    -   All work products affected by a changed requirement
-    -   All requirements affected by a change or defect in a work product
--   Optimize the efforts required to build the product
--   Propose improvements to the traceability templates
-
- |
-
-### **Bi-Directional Traceability**
+## Bi-Directional Traceability
 
 Documentation, visualization and description techniques that help establishing the traceability chains that can be traced in both forward and backwards directions as illustrated in the figure titled 'Bi-Directional (Forward & Backwards) Traceability'..
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner has a knowledge of work products such as Requirements, Design, Code, Test etc. in SDLC that contribute to defining the bi-directional Traceability (i.e. both Forward and backward Traceability)
--   Learner knows how the development work products together help in building the product and establishing the bi-directional traceability
-
- |
-| **CITA -- Associate** |
-
--   Learner has a working knowledge of using the templates for various work products that record the activities towards building the product in SDLC
--   Learner has a knowledge of building a traceability matrix that summarizes in matrix form from business requirements to their associated functional requirements and then on to other work product elements
-
- |
-| **CITA -- Specialist** |
-
--   Learner has a working knowledge of modeling the Traceability Matrix
--   Learner should be able to relate the functional requirements to its source (business requirements)
--   Learner should be able to break-down the functional requirements at a unit-level to be able to trace it to the underlying work products that implement the requirement
-
- |
-| **CITA -- Professional** |
-
--   Learner summarizes the goal of meeting the Business needs of the Product by assessing the Traceability Matrix that helps in documenting both Forward and Backward Traceability across all of the work product
--   Learner should be able to provide recommendations and directions in establishing the Traceability templates that aids to reduce the risk of missing out developing a feature related to a business requirement
--   Assess the current status of the requirements and the project\
+| **CITA- Foundation** | -   Learner has a knowledge of work products such as Requirements, Design, Code, Test etc. in SDLC that contribute to defining the bi-directional Traceability (i.e. both Forward and backward Traceability)
+| | -   Learner knows how the development work products together help in building the product and establishing the bi-directional traceability
+| **CITA -- Associate** | -   Learner has a working knowledge of using the templates for various work products that record the activities towards building the product in SDLC
+| | -   Learner has a knowledge of building a traceability matrix that summarizes in matrix form from business requirements to their associated functional requirements and then on to other work product elements
+| **CITA -- Specialist** | -   Learner has a working knowledge of modeling the Traceability Matrix
+| | -   Learner should be able to relate the functional requirements to its source (business requirements)
+| | -   Learner should be able to break-down the functional requirements at a unit-level to be able to trace it to the underlying work products that implement the requirement
+| **CITA -- Professional** | -   Learner summarizes the goal of meeting the Business needs of the Product by assessing the Traceability Matrix that helps in documenting both Forward and Backward Traceability across all of the work product
+| | -   Learner should be able to provide recommendations and directions in establishing the Traceability templates that aids to reduce the risk of missing out developing a feature related to a business requirement
+| | -   Assess the current status of the requirements and the project\
     o Identify missing requirements\
     o Identify gold platings
 
- |
-
-### **Verification and Validation**
+## Verification and Validation
 
 The process of checking that a product, service, or system meets specifications and that it fulfills its intended purpose through the adoption of right Traceability Techniques.  Forward Traceability ensures proper direction of the evolving product (that we are building the right product) and indicates the completeness of the subsequent implementation.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learners is aware of the concepts of Verification and Validation
+| **CITA- Foundation** | -   Learners is aware of the concepts of Verification and Validation
 -   Learner is aware of the tools and processes to conduct Verification and Valid
-
- |
-| **CITA -- Associate** |
-
--   Learner has a working knowledge of developing required tests (Test Cases) for the Functional requirements
+| **CITA -- Associate** | -   Learner has a working knowledge of developing required tests (Test Cases) for the Functional requirements
 -   Learner has a working knowledge of developing a Test Plan that helps in provides the strategies of Verification and Validation techniques
-
- |
-| **CITA -- Specialist** |
-
--   Learner reviews the Test activities (Test Plans, Test Cases etc.) and provide the feedback
+| **CITA -- Specialist** | -   Learner reviews the Test activities (Test Plans, Test Cases etc.) and provide the feedback
 -   Learner has working knowledge of leading the Test Activities and build the Test Reports out of the test activities
-
- |
-| **CITA -- Professional** |
-
--   Learner synthesizes the Traceability Reports, Test Reports, and Traceability Matrix and ensures the following
+| **CITA -- Professional** | -   Learner synthesizes the Traceability Reports, Test Reports, and Traceability Matrix and ensures the following
 -   Proper direction of evolving product that we are building the **right product**
 -   The evolving product remains on correct track vis-a-vis to the original and/or evolving requirements (that we are building the Product right)
 
- |
-
-Reference Resources
-===================
+# Reference Resources
 
 IEEE-610
 
@@ -180,7 +127,7 @@ SEI-00
 
 CMMI^SM^ for Systems Engineering/Software Engineering, Version 1.02 (CMMI-SW/SW, V 1.02); CMMI Staged Representation, CMU/SEI-2000-TR-018, ESC-TR2000-018; Continuous Representation, CMU/SEI-2000-TR-019, ESC-TR-2000-019; Product Development Team; Software Engineering Institute; November 2000.
 
-### **Articles**
+**Articles**
 
 Requirements Traceability <http://en.wikipedia.org/wiki/Requirements_traceability>
 
@@ -198,11 +145,11 @@ IIBA Online Library  <http://www.iiba.org/Learning-Development/Online-Library.a
 
 Microsoft Solution Framework  <http://en.wikipedia.org/wiki/Microsoft_Solutions_Framework>
 
-### **TRAINING:**
+**TRAINING:**
 
 IIBA Business Analysis Training  <http://www.iiba.org/Learning-Development/Endorsed-Education-Provider-Training.aspx>
 
-### **CERTIFICATIONS:**
+**CERTIFICATIONS:**
 
 International Institute of Business Analysis' (IIBA) [Certification of Competency in Business Analysis (CCBA)](http://www.iiba.org/Certification-Recognition/CCBA-Certification.aspx)
 
@@ -210,12 +157,11 @@ International Institute of Business Analysis' (IIBA) [Certified Business Analysi
 
 MCSD: Application Lifecycle Management  <https://www.microsoft.com/learning/en-us/mcsd-application-lifecycle-management.aspx>
 
-Author
-======
+# Author
 
 ![Vidyasagar Chitchula](media/v_chitchula.jpg)
-
-**IT Architect -- Microsoft Global Services (India)**
+## Vidyasagar Chitchula
+*IT Architect -- Microsoft Global Services (India)*
 
 Vidyasagar is a certified CITA-P, TM Forum BDM and TOGAF Practitioner. He has led architecturally significant enterprise engagements for Global Top 500 Companies.
 

@@ -10,8 +10,7 @@ tags:
   - design
 ---
 
-Description
-===========
+# Description
 
 Object-oriented development and design won a foothold in the early 90s. Another concept introduced at that time was design patterns. A design pattern can be said to be a smaller object model that supports solving different "software design issues" in a general way. A number of design patterns were defined by Gamma et al in the book "Design Patterns -- Elements of Reusable Object-Oriented Software""[GoF]. The book has become a kind of benchmark within object-oriented development.
 
@@ -23,11 +22,9 @@ Design patterns have become increasingly important as architecture and component
 
 As a practicing IT architect, you should have a demonstrated understanding of pattern concepts, styles versus pattern, and demonstrated competence in deriving and communicating pattern and style.
 
-Overview
-========
+# Overview
 
-**Why patterns?**
------------------
+## Why patterns?
 
 The best solutions usually consist of smaller, simple mechanisms that solve problems in a reliable and efficient manner. Large, complex systems are often developed from just such mechanisms. Knowledge of these mechanisms is often found in the heads of individual developers and architects. Design patterns are useful for developers and architects because they:
 
@@ -36,15 +33,13 @@ The best solutions usually consist of smaller, simple mechanisms that solve prob
 -   Provides brief descriptions of solutions as a combination of patterns
 -   Enables reuse of architectural-, design- and implementation decisions
 
-**Pattern Catalog**
--------------------
+## Pattern Catalog
 
 For a design pattern to reach proliferation and use, it is required to be documented and categorized in an easy and understandable manner. Such documentation is usually called a pattern catalog. [GoF] gives a suggestion of how a pattern catalog can be designed and how the patterns can be categorized. This categorization has two dimensions, purpose and scope. Purpose defines what a design pattern is supposed to accomplish. According to the [GoF] definition, a pattern has creational, structural or behavioral purpose. Scope defines whether the pattern applies to a class or object, ie instance of the class.
 
 [GoF] has since then received a number of followers in terms of design patterns. Another book that has become a benchmark in the topic is "Pattern-Oriented Software Architecture" by Buschmann et al [POSA]. [POSA] widens the definition of a pattern in various aspects, for instance that a pattern does not necessarily have to be object-oriented.
 
-**Pattern- and problem categories**
------------------------------------
+## Pattern- and problem categories
 
 [POSA] also make a different categorization of patterns than the equivalent in [GoF]. Their classification scheme is based upon two criteria, pattern categories and problem categories. Problem categories provide a problem-oriented view to the use of patterns. Every pattern addresses a specific problem that may arise in a design situation, and this categorization criteria groups patterns into different problem areas.
 
@@ -63,8 +58,7 @@ Although [GoF] has been a source of inspiration for the authors of [POSA], they 
 
 Both [POSA] and [GoF] demonstrate a number of patterns that can be reused during development. You will of course not need all of these patterns every time, but knowing that they exist and their meaning makes it next time easier to find a solution to a problem or to solve a problem in a general way. Once you create your own patterns, you could relate them to existing ones and classify them according to existing classification schemes.
 
-**Evaluation of patterns**
---------------------------
+## Evaluation of patterns
 
 How do you know when to use a pattern and in which design situation? One way to evaluate patterns is to relate them to various "non-functional" requirements, or quality attributes. Patterns are often used to solve various "non-functional" requirements. However, these quality attributes are often in conflict with each other.
 
@@ -78,8 +72,7 @@ As for modifiability, one can distinguish between configurability and maintainab
 
 One way to perform transformations as mentioned above is to apply the right design patterns. Design patterns are designed to make the application code more general, and therefore easier to maintain. Generally speaking, most design patterns are conducive to the modifiability quality attribute, such as maintainability, configurability, interoperability and reuse. Architecture patterns in its turn makes important "trade-offs" those quality characteristics in between.
 
-Proven Practices
-================
+# Proven Practices
 
 Patterns and styles occur almost everywhere in software design related activities. Patterns are the basic building blocks of leading development frameworks such as .NET and Java. Commonly used patterns, such as factories and adapters, are embedded at different levels in those frameworks. Without knowing it, developers use patterns on a daily basis during design and development.
 
@@ -89,101 +82,48 @@ Patterns and styles follow the trends and hypes within the IT industry in genera
 
 However, the generic structure and definition of patterns is timeless, as for instance described by Christopher Alexander, and independent of any hype or trend.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-**Patterns Recognition, Harvesting and Reuse**
-----------------------------------------------
+## Patterns Recognition, Harvesting and Reuse
 
 Processes and activities related to identifying and harvesting reusable solutions to commonly occurring problems. Patterns are descriptions or templates for how to solve a problem that can be used in many different situations.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to name the various types of patterns commonly used by the current organization and understand their purpose
+| **CITA -- Associate** | -   Learner will be able to use a number of patterns in their design activities
+| | -   Learner will be able to document design patterns
+| **CITA -- Specialist** | -   Learner will commonly use patterns in their architecture and design.
+| | -   Learner can communicate patterns and their value to others.
+| **CITA -- Professional** | -   Learner will be able to act as a mentor for design patterns
+| | -   Learner can speak publicly on design patterns and participate in industry forums.
 
--   Learner will be able to name the various types of patterns commonly used by the current organization and understand their purpose
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to use a number of patterns in their design activities
--   Learner will be able to document design patterns
-
- |
-| **CITA -- Specialist** |
-
--   Learner will commonly use patterns in their architecture and design.
--   Learner can communicate patterns and their value to others.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to act as a mentor for design patterns
--   Learner can speak publicly on design patterns and participate in industry forums.
-
- |
-
-**Leverage of Styles, Patterns and Anti-Patterns**
---------------------------------------------------
+## Leverage of Styles, Patterns and Anti-Patterns
 
 Usage of good styles and well-known patterns, as well as avoidance of recognized ineffective and counterproductive practices (anti-patterns)
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be familiar with the concept of patterns and how patterns exist at different levels of granularity e.g. code -> architecture
+| | -   Learner will be able to explain patterns they have encountered or used in previous work.
+| | -   Learner understands the difference between patterns and styles
+| **CITA -- Associate** | -   Learner understands the value and implications of using patterns during design.
+| **CITA -- Specialist** | -   Learner will be an expert in design patterns and be able to highlight the advantages and disadvantages of different patterns
+| **CITA -- Professional** | -   Learner will be able to drive the introduction of design patterns into the organization
 
--   Learner will be familiar with the concept of patterns and how patterns exist at different levels of granularity e.g. code -> architecture
--   Learner will be able to explain patterns they have encountered or used in previous work.
--   Learner understands the difference between patterns and styles
-
- |
-| **CITA -- Associate** |
-
--   Learner understands the value and implications of using patterns during design.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be an expert in design patterns and be able to highlight the advantages and disadvantages of different patterns
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to drive the introduction of design patterns into the organization
-
- |
-
-**Pattern Evaluation**
-----------------------
+## Pattern Evaluation
 
 Patterns could be evaluated against different quality attributes. Patterns are often used to solve problems regarding "non-functional" requirements.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will understand the relation between patterns and quality attributes
+| **CITA -- Associate** | -   Learner knows how to balance quality attributes using patterns
+| **CITA -- Specialist** | -   Learner is using patterns to balance different quality attributes during design
+| **CITA -- Professional** | -   Learner uses architectural patterns and styles to balance quality attributes at the enterprise level
+| | -   Learner facilitates balancing and optimization of quality attributes using patterns and styles throughout the organization
 
--   Learner will understand the relation between patterns and quality attributes
-
- |
-| **CITA -- Associate** |
-
--   Learner knows how to balance quality attributes using patterns
-
- |
-| **CITA -- Specialist** |
-
--   Learner is using patterns to balance different quality attributes during design
-
- |
-| **CITA -- Professional** |
-
--   Learner uses architectural patterns and styles to balance quality attributes at the enterprise level
--   Learner facilitates balancing and optimization of quality attributes using patterns and styles throughout the organization
-
- |
-
-Related Capabilities
-====================
+# Related Capabilities
 
 -   [Balancing and Optimizing Quality Attributes](boqa.md){:target="_blank"}
 -   [Design Methods and Processes](design_methodologies_and_processes.md){:target="_blank"}
@@ -191,28 +131,23 @@ Related Capabilities
 -   [Software Architecture and Patterns](software_ap.md){:target="_blank"}
 
 Resources
-=========
 
-### **Books:**
+**Books:**
 
 | [POSA] | Buschmann et al, "Pattern Oriented Software Architecture -- A System of Patterns Vol 1", Wiley 1996 |
 | [GoF] | Gamma et al, "Design Patterns -- Elements of Reusable Object-Oriented Software", Addison -- Wesley 1994 |
 | [ALEX1] | Alexander Christopher et al, "A Pattern Language: Towns, Buildings, Construction", Oxford University Press 1977 |
 | [ALEX2] | Alexander Christopher, "The Timeless Way of Building", Oxford University Press 1979 |
-|\
- |\
- |
 
-### **Blogs/Webcasts/News/Reference Resources:**
+**Blogs/Webcasts/News/Reference Resources:**
 
 [hillside.net/patterns](http://www.hillside.net/patterns)
 
-Author
-======
+# Author
 
 ![Anders Larsson](media/a_larsson1.jpg)
 
-### **Anders Larsson**
-**Solution Architect -- Softronic**
+## Anders Larsson
+*Solution Architect -- Softronic*
 
 Anders Larsson has been working in the IT industry since 1994 and for more than ten years within IT-architecture related assignments. His focus is on solution architecture and is primarily working in turning business requirements into realizable solutions. He's also working at the intersection of IT-architecture, technical design and software engineering. Anders has served on the board of Iasa Sweden since 2007 and in recent years as a training manager in Sweden.
