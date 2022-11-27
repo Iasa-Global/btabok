@@ -104,34 +104,18 @@ Other factors that can provide the solutions architect with guidance in selectin
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   You know which design model is used for business stakeholders.
+| | -   You can define industry standard architecture methods for creating architecture.
+| | -   You can describe the processes and tools used to deliver strategy.
+| **CITA -- Associate** | -   You know which templates or tools are used to engage stakeholders in business architecture.
+| | -   You know exactly which elements of the existing 'frameworks' help you with your job function.
+| **CITA -- Specialist** | -   You know when each methods and tools begin to truly impact your day to day activities.
+| | -   You can confidently integrate your technology stack in chosen architecture methodology.
+| **CITA -- Professional** |-   You manage the process and technology integration.
+| | -   You can integrate information flow into methodology and processes.
 
--   You know which design model is used for business stakeholders.
--   You can define industry standard architecture methods for creating architecture.
--   You can describe the processes and tools used to deliver strategy.
-
- |
-| **CITA -- Associate** |
-
--   You know which templates or tools are used to engage stakeholders in business architecture.
--   You know exactly which elements of the existing 'frameworks' help you with your job function.
-
- |
-| **CITA -- Specialist** |
-
--   You know when each methods and tools begin to truly impact your day to day activities.
--   You can confidently integrate your technology stack in chosen architecture methodology.
-
- |
-| **CITA -- Professional** |
-
--   You manage the process and technology integration.
--   You can integrate information flow into methodology and processes.
-
- |
 
 # Resources
-
 
 ## Reference Resources:
 

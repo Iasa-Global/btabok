@@ -45,35 +45,19 @@ Compliance Review is an independent assessment of the conformity of any activity
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to define architecture requirements for compliance
--   Learner will be able to classify compliance categories -- corporate, statutory, regulatory, legal etc.
--   Learner will be aware of compliance standards and frameworks applicable for IT e.g. ISO 27001, COBIT
--   Learner will be able to participate in compliance reviews
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able explain business compliance requirements for their organization or industry.
--   Learner will be able to conduct compliance reviews and certify conformance of existing solutions.
--   Learner will be able to define architecture strategies for compliance.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be familiar with compliance requirements for their area of specialization (business, information, infrastructure or software).
--   Learner will be familiar with industry, regional and international standards for compliance.
--   Learner will be able to conduct compliance reviews and certify for compliance.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to conduct compliance reviews for the Enterprise Architecture.
--   Learner will be an expert in one or more compliance frameworks relevant to their specialization and industry.
--   Learner will be able to lead compliance review and certification for the enterprise.
-
- |
+| **CITA- Foundation** |-   Learner will be able to define architecture requirements for compliance
+| | -   Learner will be able to classify compliance categories -- corporate, statutory, regulatory, legal etc.
+| | -   Learner will be aware of compliance standards and frameworks applicable for IT e.g. ISO 27001, COBIT
+| | -   Learner will be able to participate in compliance reviews
+| **CITA -- Associate** | -   Learner will be able explain business compliance requirements for their organization or industry.
+| | -   Learner will be able to conduct compliance reviews and certify conformance of existing solutions.
+| | -   Learner will be able to define architecture strategies for compliance.
+| **CITA -- Specialist** | -   Learner will be familiar with compliance requirements for their area of specialization (business, information, infrastructure or software).
+| | -   Learner will be familiar with industry, regional and international standards for compliance.
+| | -   Learner will be able to conduct compliance reviews and certify for compliance.
+| **CITA -- Professional** | -   Learner will be able to conduct compliance reviews for the Enterprise Architecture.
+| | -   Learner will be an expert in one or more compliance frameworks relevant to their specialization and industry.
+| | -   Learner will be able to lead compliance review and certification for the enterprise.
 
 ## Technology Audit
 
@@ -81,31 +65,17 @@ Technology audit is a structured analysis of the risks to achievement of busines
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to classify different categories of a technology audit.
+| | -   Learner will be able to identify audit requirements for conformance to business compliance needs.
+| **CITA -- Associate** | -   Learner will be able to model compliance needs for target architecture.
+| | -   Learner will be able to certify compliance as well as identify risks for a project or line of business within an enterprise.
+| **CITA -- Specialist** | -   Learner will be able an expert in audit requirements for their area of specialization (Business, Software, Information or Infrastructure).
+| | -   Learner will be able to lead audits, certify compliance as well as risks and mitigation plan for non-compliance.
+| | -   Learner will be able to lead technology audit for the enterprise.
+| | -   Learner will be able to audit for compliance to industry frameworks and standards.
+| | -   Learner will be able to design compliance strategies and risk mitigation strategies for the enterprise.
+| | -   Learner will be able to design audit compliance through enterprise architecture.
 
--   Learner will be able to classify different categories of a technology audit.
--   Learner will be able to identify audit requirements for conformance to business compliance needs.
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to model compliance needs for target architecture.
--   Learner will be able to certify compliance as well as identify risks for a project or line of business within an enterprise.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able an expert in audit requirements for their area of specialization (Business, Software, Information or Infrastructure).
--   Learner will be able to lead audits, certify compliance as well as risks and mitigation plan for non-compliance.
--   Learner will be able to lead technology audit for the enterprise.
--   Learner will be able to audit for compliance to industry frameworks and standards.
--   Learner will be able to design compliance strategies and risk mitigation strategies for the enterprise.
--   Learner will be able to design audit compliance through enterprise architecture.
-
- |
-|\
- |\
- |
 
 ## Information Assurance
 
@@ -113,31 +83,15 @@ Information assurance covers setting high-level strategy and policy to ensure st
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to identify common standards and regulations that govern information assurance.
--   Learner will be able to identify information assurance requirements and relevant solutions for compliance at a project level.
-
- |
-| **CITA -- Associate** |
-
--   Learner will be familiar with implicit and explicit information assurance requirements of the business and industry.
--   Learner will be able to identify implicit requirements and relevant solutions for information assurance based on common standards and regulations.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be an expert in information assurance requirements for their area of specialization (Business, Software, Information and Infrastructure).
--   Learner will be able to define and implement comprehensive information assurance strategy, including controls and governance for their area of specialization.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be an expert in information assurance requirements for the industry.
--   Learner will be able to define and implement comprehensive information assurance strategy for the enterprise, including information security and risk framework, solutions, controls, audits and governance for their area of specialization.
--   Learner will be able to define technology strategies that will enhance information assurance for the enterprise.
-
- |
+| **CITA- Foundation** |-   Learner will be able to identify common standards and regulations that govern information assurance.
+| | -   Learner will be able to identify information assurance requirements and relevant solutions for compliance at a project level.
+| **CITA -- Associate** | -   Learner will be familiar with implicit and explicit information assurance requirements of the business and industry.
+| | -   Learner will be able to identify implicit requirements and relevant solutions for information assurance based on common standards and regulations.
+| **CITA -- Specialist** |-   Learner will be an expert in information assurance requirements for their area of specialization (Business, Software, Information and Infrastructure).
+| | -   Learner will be able to define and implement comprehensive information assurance strategy, including controls and governance for their area of specialization.
+| **CITA -- Professional** |-   Learner will be an expert in information assurance requirements for the industry.
+| | -   Learner will be able to define and implement comprehensive information assurance strategy for the enterprise, including information security and risk framework, solutions, controls, audits and governance for their area of specialization.
+| | -   Learner will be able to define technology strategies that will enhance information assurance for the enterprise.
 
 # Related Capabilities
 

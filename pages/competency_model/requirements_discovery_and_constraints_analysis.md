@@ -43,30 +43,14 @@ Requirements definition is the outcome of requirements discovery process. It is 
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner is able to classify functional and non-functional requirements
--   Learner is able to distinguish between a requirement and a constraint
--   Learner is able to define high level architecture viewpoints based on requirements
-
- |
-| **CITA -- Associate** |
-
--   Learner is able to discover explicit and implicit requirements
--   Learner is able to illustrate traceability between requirements and architecture
-
- |
-| **CITA -- Specialist** |
-
--   Learner is able to discover and model requirements in their area of specialization
-
- |
-| **CITA -- Professional** |
-
--   Learner is able to lead requirements discovery at an enterprise level
--   Learner is able to formulate requirements discovery in context of the industry trends and emerging technologies
-
- |
+| **CITA- Foundation** | -   Learner is able to classify functional and non-functional requirements
+| | -   Learner is able to distinguish between a requirement and a constraint
+| | -   Learner is able to define high level architecture viewpoints based on requirements
+| **CITA -- Associate** | -   Learner is able to discover explicit and implicit requirements
+| | -   Learner is able to illustrate traceability between requirements and architecture
+| **CITA -- Specialist** | -   Learner is able to discover and model requirements in their area of specialization
+| **CITA -- Professional** | -   Learner is able to lead requirements discovery at an enterprise level
+| | -   Learner is able to formulate requirements discovery in context of the industry trends and emerging technologies
 
 ## Scoping and Needs Assessment
 
@@ -74,33 +58,17 @@ A needs assessment is a process for determining and addressing needs, or "gaps" 
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner is able to define needs assessment
--   Learner is able to summarize scope and high level needs
--   Learner is able to distinguish between needs, requirements and constraints
-
- |
-| **CITA -- Associate** |
-
--   Learner is able to describe common methods applied for needs assessment
--   Learner is able to apply need analysis techniques to identify gaps and future state requirements
--   Learner is able to collect unstated customer needs
-
- |
-| **CITA -- Specialist** |
-
--   Learner can define data required for needs assessment in context of industry
--   Learner can conduct needs assessment in context of their area of specialization
--   Learner is able to synthesize unstated customer needs
-
- |
-| **CITA -- Professional** |
-
--   Learner can lead needs assessment at enterprise level
--   Learner can interpret complex, unstated or abstract needs at an enterprise level
-
- |
+| **CITA- Foundation** | -   Learner is able to define needs assessment
+| | -   Learner is able to summarize scope and high level needs
+| | -   Learner is able to distinguish between needs, requirements and constraints
+| **CITA -- Associate** | -   Learner is able to describe common methods applied for needs assessment
+| | -   Learner is able to apply need analysis techniques to identify gaps and future state requirements
+| | -   Learner is able to collect unstated customer needs
+| **CITA -- Specialist** | -   Learner can define data required for needs assessment in context of industry
+| | -   Learner can conduct needs assessment in context of their area of specialization
+| | -   Learner is able to synthesize unstated customer needs
+| **CITA -- Professional** | -   Learner can lead needs assessment at enterprise level
+| | -   Learner can interpret complex, unstated or abstract needs at an enterprise level
 
 ## Constraints Analysis
 
@@ -108,31 +76,15 @@ Constraints analysis is the process of identifying and analyzing barriers that b
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner is able to define constraints
--   Learner is able to identify typical constraints
-
- |
-| **CITA -- Associate** |
-
--   Learner is able to recognize common business constraints
--   Learner is able to infer industry constraints related to their area of scope
--   Learner is able to perform constraint analysis in context of the business and solution strategy
-
- |
-| **CITA -- Specialist** |
-
--   Learner is able to perform constraint analysis in context of the business technology strategy
--   Learner is able to assess constraints related to their area of specialization
-
- |
-| **CITA -- Professional** |
-
--   Learner is able to perform constraint analysis in context of the business technology strategy at an enterprise level
--   Learner is able to assess constraints related to enterprise architecture
-
- |
+| **CITA- Foundation** | -   Learner is able to define constraints
+| | -   Learner is able to identify typical constraints
+| **CITA -- Associate** | -   Learner is able to recognize common business constraints
+| | -   Learner is able to infer industry constraints related to their area of scope
+| | -   Learner is able to perform constraint analysis in context of the business and solution strategy
+| **CITA -- Specialist** | -   Learner is able to perform constraint analysis in context of the business technology strategy
+| | -   Learner is able to assess constraints related to their area of specialization
+| **CITA -- Professional** | -   Learner is able to perform constraint analysis in context of the business technology strategy at an enterprise level
+| | -   Learner is able to assess constraints related to enterprise architecture
 
 ## Usability Requirements Analysis
 
@@ -140,34 +92,18 @@ Usability requirements are the establishment, clarification and communication of
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner is able to classify usability requirements
--   Learner is able to explain usability concerns in architecture requirements
--   Learner is able to describe basic principles of usability
--   Learner is able to describe usability standards
-
- |
-| **CITA -- Associate** |
-
--   Learner is able to model usability scenarios and constraints as distinct set of requirements
--   Learner is able to identify usability concerns relevant to the domain
--   Learner is able to identify usability requirements in compliance with regulatory or statutory requirements
-
- |
-| **CITA -- Specialist** |
-
--   Learner is able to define usability needs and architecture standards for the enterprise
--   Learner is able to define information architecture requirements for usability
-
- |
-| **CITA -- Professional** |
-
--   Learner is able to describe usability engineering techniques
--   Learner is able to assess usability needs relevant to the industry
--   Learner is able to drive enterprise practices in line with emerging practices and enhancements in usability
-
- |
+| **CITA- Foundation** | -   Learner is able to classify usability requirements
+| | -   Learner is able to explain usability concerns in architecture requirements
+| | -   Learner is able to describe basic principles of usability
+| | -   Learner is able to describe usability standards
+| **CITA -- Associate** | -   Learner is able to model usability scenarios and constraints as distinct set of requirements
+| | -   Learner is able to identify usability concerns relevant to the domain
+| | -   Learner is able to identify usability requirements in compliance with regulatory or statutory requirements
+| **CITA -- Specialist** | -   Learner is able to define usability needs and architecture standards for the enterprise
+| | -   Learner is able to define information architecture requirements for usability
+| **CITA -- Professional** | -   Learner is able to describe usability engineering techniques
+| | -   Learner is able to assess usability needs relevant to the industry
+| | -   Learner is able to drive enterprise practices in line with emerging practices and enhancements in usability
 
 # Related Capabilities
 
@@ -195,4 +131,7 @@ Usability requirements are the establishment, clarification and communication of
 # Author
 
 ![maya_more](media/maya_more.jpg)
+## Maya More
+*IASA member and CITA-Foundation certified*
+
 Maya More is an IASA member and CITA-Foundation certified architect having over 19 years experience in business technology consulting, enterprise architecture and technology implementation. She has worked with global businesses in multiple countries and industries such as insurance, healthcare and oil & gas. She currently works as Architecture and Technology SME for a leading oil & gas corporation in India.
