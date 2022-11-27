@@ -108,14 +108,14 @@ The process of checking that a product, service, or system meets specifications 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
 | **CITA- Foundation** | -   Learners is aware of the concepts of Verification and Validation
--   Learner is aware of the tools and processes to conduct Verification and Valid
+| | -   Learner is aware of the tools and processes to conduct Verification and Valid
 | **CITA -- Associate** | -   Learner has a working knowledge of developing required tests (Test Cases) for the Functional requirements
--   Learner has a working knowledge of developing a Test Plan that helps in provides the strategies of Verification and Validation techniques
+| | -   Learner has a working knowledge of developing a Test Plan that helps in provides the strategies of Verification and Validation techniques
 | **CITA -- Specialist** | -   Learner reviews the Test activities (Test Plans, Test Cases etc.) and provide the feedback
--   Learner has working knowledge of leading the Test Activities and build the Test Reports out of the test activities
+| | -   Learner has working knowledge of leading the Test Activities and build the Test Reports out of the test activities
 | **CITA -- Professional** | -   Learner synthesizes the Traceability Reports, Test Reports, and Traceability Matrix and ensures the following
--   Proper direction of evolving product that we are building the **right product**
--   The evolving product remains on correct track vis-a-vis to the original and/or evolving requirements (that we are building the Product right)
+| | -   Proper direction of evolving product that we are building the **right product**
+| | -   The evolving product remains on correct track vis-a-vis to the original and/or evolving requirements (that we are building the Product right)
 
 # Reference Resources
 
@@ -129,33 +129,34 @@ CMMI^SM^ for Systems Engineering/Software Engineering, Version 1.02 (CMMI-SW/SW,
 
 **Articles**
 
-Requirements Traceability <http://en.wikipedia.org/wiki/Requirements_traceability>
+Requirements Traceability [http://en.wikipedia.org/wiki/Requirements_traceability](http://en.wikipedia.org/wiki/Requirements_traceability){:target="_blank"}
 
-Application Lifecycle Management <http://en.wikipedia.org/wiki/Application_lifecycle_management>
+Application Lifecycle Management [http://en.wikipedia.org/wiki/Application_lifecycle_management](http://en.wikipedia.org/wiki/Application_lifecycle_management){:target="_blank"}
 
-Ivar Jacobson international   <http://www.ivarjacobson.com/resources/resources/white_paper/>
+Ivar Jacobson international   [http://www.ivarjacobson.com/resources/resources/white_paper/](http://www.ivarjacobson.com/resources/resources/white_paper/){:target="_blank"}
 
-Cunningham & Cunningham Inc.  <http://www.c2.com/cgi/wiki?UserStoryAndUseCaseComparison>
+Cunningham & Cunningham Inc.  [http://www.c2.com/cgi/wiki?UserStoryAndUseCaseComparison](http://www.c2.com/cgi/wiki?UserStoryAndUseCaseComparison){:target="_blank"}
 
-Ivar Jacobson's Blog: <http://blog.ivarjacobson.com/ivarblog/>
+Ivar Jacobson's Blog: [http://blog.ivarjacobson.com/ivarblog/](http://blog.ivarjacobson.com/ivarblog/){:target="_blank"}
 
-A Guide to the Business Analysis Body of Knowledge (BABOK Guide) <http://www.iiba.org/BABOK-Guide.aspx>
+A Guide to the Business Analysis Body of Knowledge (BABOK Guide) [http://www.iiba.org/BABOK-Guide.aspx](http://www.iiba.org/BABOK-Guide.aspx){:target="_blank"}
 
-IIBA Online Library  <http://www.iiba.org/Learning-Development/Online-Library.aspx>
+IIBA Online Library  [http://www.iiba.org/Learning-Development/Online-Library.aspx](http://www.iiba.org/Learning-Development/Online-Library.aspx){:target="_blank"}
 
-Microsoft Solution Framework  <http://en.wikipedia.org/wiki/Microsoft_Solutions_Framework>
+Microsoft Solution Framework  [http://en.wikipedia.org/wiki/Microsoft_Solutions_Framework](http://en.wikipedia.org/wiki/Microsoft_Solutions_Framework){:target="_blank"}
 
 **TRAINING:**
 
-IIBA Business Analysis Training  <http://www.iiba.org/Learning-Development/Endorsed-Education-Provider-Training.aspx>
+IIBA Business Analysis Training  [http://www.iiba.org/Learning-Development/Endorsed-Education-Provider-Training.aspx](http://www.iiba.org/Learning-Development/Endorsed-Education-Provider-Training.aspx){:target="_blank"}
 
 **CERTIFICATIONS:**
 
-International Institute of Business Analysis' (IIBA) [Certification of Competency in Business Analysis (CCBA)](http://www.iiba.org/Certification-Recognition/CCBA-Certification.aspx)
+International Institute of Business Analysis' (IIBA) [Certification of Competency in Business Analysis (CCBA)](http://www.iiba.org/Certification-Recognition/CCBA-Certification.aspx){:target="_blank"}
 
-International Institute of Business Analysis' (IIBA) [Certified Business Analysis Professional (CBAP) certification](http://www.iiba.org/Certification-Recognition/CBAP-Designation.aspx)
+International Institute of Business Analysis' (IIBA) [Certified Business Analysis Professional (CBAP) certification](http://www.iiba.org/Certification-Recognition/CBAP-Designation.aspx){:target="_blank"}
 
-MCSD: Application Lifecycle Management  <https://www.microsoft.com/learning/en-us/mcsd-application-lifecycle-management.aspx>
+MCSD: Application Lifecycle Management  
+[https://www.microsoft.com/learning/en-us/mcsd-application-lifecycle-management.aspx](https://www.microsoft.com/learning/en-us/mcsd-application-lifecycle-management.aspx){:target="_blank"}
 
 # Author
 

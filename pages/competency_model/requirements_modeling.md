@@ -112,15 +112,15 @@ During the project life time the requirements need to be prioritized, kept up to
 
 -   Use Case Modelling; Kurt Bittner, Ian Spence; 2002; Addison-Wesley
 -   Writing Effective Use Cases; Alistair Cockburn; 2000; Addison-Wesley
--   [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.domaindrivendesign.org/books/evans_2003), [Evans, Eric](https://en.wikipedia.org/w/index.php?title=Eric_Evans_(technologist)&action=edit&redlink=1) (2004), Addison-Wesley
+-   [Domain-Driven Design: Tackling Complexity in the Heart of Software](http://www.domaindrivendesign.org/books/evans_2003){:target="_blank"}, [Evans, Eric](https://en.wikipedia.org/w/index.php?title=Eric_Evans_(technologist)&action=edit&redlink=1){:target="_blank"} (2004), Addison-Wesley
 
 **Blogs/Webcasts/News/Reference Resources:**
 
--   http://www.sparxsystems.com/resources/tutorial/use_case_model.html
--   http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel
--   http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel
--   http://martinfowler.com/bliki/UbiquitousLanguage.html
--   http://web.archive.org/web/20061220024049/http://mason.gmu.edu/\~tdufresn/paper.doc
+- [http://www.sparxsystems.com/resources/tutorial/use_case_model.html](http://www.sparxsystems.com/resources/tutorial/use_case_model.html){:target="_blank"}
+- [http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel](http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel){:target="_blank"}
+- [http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel](http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel){:target="_blank"}
+- [http://martinfowler.com/bliki/UbiquitousLanguage.html](http://martinfowler.com/bliki/UbiquitousLanguage.html){:target="_blank"}
+- [http://web.archive.org/web/20061220024049/http://mason.gmu.edu/\~tdufresn/paper.doc](http://web.archive.org/web/20061220024049/http://mason.gmu.edu/\~tdufresn/paper.doc){:target="_blank"}
 
 **Training:**
 
@@ -128,5 +128,5 @@ During the project life time the requirements need to be prioritized, kept up to
 
 ## Author
 
-**Chris Cooper-Bland  
-Group Head of Architecture – Endava**
+## Chris Cooper-Bland  
+*Group Head of Architecture – Endava*

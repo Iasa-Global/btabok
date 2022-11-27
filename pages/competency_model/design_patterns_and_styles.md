@@ -141,7 +141,7 @@ Resources
 
 **Blogs/Webcasts/News/Reference Resources:**
 
-[hillside.net/patterns](http://www.hillside.net/patterns)
+[hillside.net/patterns](http://www.hillside.net/patterns){:target="_blank"}
 
 # Author
 
