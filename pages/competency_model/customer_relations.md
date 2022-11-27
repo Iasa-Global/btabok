@@ -307,29 +307,13 @@ The coordination of relationships with and between key stakeholders, during the 
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to name the various legal forms of a business
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to describe the differences between various legal forms
--   Learner will be able to describe the impacts of each form from the view of the business owners
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to describe the implications, and especially limitations, of an organization's current legal structure
--   Learner will be able to describe how to book funds received from owners and funds paid to owners
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe the optimum legal structure for an endeavor, including scenarios in which spin-offs or subsidiaries might be beneficial
--   Learner will know the circumstances under which competent legal and tax advice is required
-
- |
+| **CITA- Foundation** | -   Learner will be able to name the various legal forms of a business
+| **CITA -- Associate** | -   Learner will be able to describe the differences between various legal forms
+| | -   Learner will be able to describe the impacts of each form from the view of the business owners
+| **CITA -- Specialist** | -   Learner will be able to describe the implications, and especially limitations, of an organization's current legal structure
+| | -   Learner will be able to describe how to book funds received from owners and funds paid to owners
+| **CITA -- Professional** | -   Learner will be able to describe the optimum legal structure for an endeavor, including scenarios in which spin-offs or subsidiaries might be beneficial
+| | -   Learner will know the circumstances under which competent legal and tax advice is required
 
 ## Selling and Sales Support
 
@@ -337,38 +321,22 @@ The identification of sales prospects and their qualification, the development o
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner can compute ROI and IRR for an investment
--   Learner can identify costs and benefits for an investment, including intangible costs and benefits
--   Learner can identify and describe the basic financial statements
--   Learner can identify business events and how they affect various financial statements
-
- |
-| **CITA -- Associate** |
-
--   Learner can evaluate the business case for a proposed investment using ROI, IRR, or cost/benefit analysis
--   Learner can determine whether a proposed investment is aligned with company goals and describe why or why not
--   Learner can compute basic financial ratios
--   Learner can interpret basic financial ratios and what they say about the health of a business
-
- |
-| **CITA -- Specialist** |
-
--   Learner is able to show the effects a potential investment might have on the basic financial ratios for a company
--   Learner is able to interpret the viability of an investment in financial terms
--   Learner is able measure and assess the performance of a process or function using financial measures, including structural performance ratios
--   Learner can identify when a process is not performing from a financial perspective
-
- |
-| **CITA -- Professional** |
-
--   Learner routinely evaluates potential investments in terms of the effects they have on company health and performance
--   Learner measures and monitors company performance
--   Learner evaluates financing and funding options using financial analysis
--   Learner can troubleshoot the financial performance of a process or business unit to determine the root causes of poor (or good) performance
-
- |
+| **CITA- Foundation** | -   Learner can compute ROI and IRR for an investment
+| | -   Learner can identify costs and benefits for an investment, including intangible costs and benefits
+| | -   Learner can identify and describe the basic financial statements
+| | -   Learner can identify business events and how they affect various financial statements
+| **CITA -- Associate** | -   Learner can evaluate the business case for a proposed investment using ROI, IRR, or cost/benefit analysis
+| | -   Learner can determine whether a proposed investment is aligned with company goals and describe why or why not
+| | -   Learner can compute basic financial ratios
+| | -   Learner can interpret basic financial ratios and what they say about the health of a business
+| **CITA -- Specialist** | -   Learner is able to show the effects a potential investment might have on the basic financial ratios for a company
+| | -   Learner is able to interpret the viability of an investment in financial terms
+| | -   Learner is able measure and assess the performance of a process or function using financial measures, including structural performance ratios
+| | -   Learner can identify when a process is not performing from a financial perspective
+| **CITA -- Professional** | -   Learner routinely evaluates potential investments in terms of the effects they have on company health and performance
+| | -   Learner measures and monitors company performance
+| | -   Learner evaluates financing and funding options using financial analysis
+| | -   Learner can troubleshoot the financial performance of a process or business unit to determine the root causes of poor (or good) performance
 
 ## Account Management
 
@@ -376,30 +344,14 @@ The coordination of marketing, advisory, selling and delivery activities to inte
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner can name and describe the three fundamental flows
-
- |
-| **CITA -- Associate** |
-
--   Learner can identify the three flows in a case study or business
--   Learner can describe when the flows intersect and why, and describe what that means
-
- |
-| **CITA -- Specialist** |
-
--   Learner can identify, describe and document each of the flows in their company
--   Learner can describe how a project might affect one or more of the flows
--   Learner can identify when a project has not considered a flow even though there is likely an effect on that flow
-
- |
-| **CITA -- Professional** |
-
--   Learner demonstrates deep understand of the three flows within the context of his or her company
--   Learner can evaluate a potential investment in terms of the effects it might have on each of the flows
-
- |
+| **CITA- Foundation** | -   Learner can name and describe the three fundamental flows
+| **CITA -- Associate** | -   Learner can identify the three flows in a case study or business
+| | -   Learner can describe when the flows intersect and why, and describe what that means
+| **CITA -- Specialist** | -   Learner can identify, describe and document each of the flows in their company
+| | -   Learner can describe how a project might affect one or more of the flows
+| | -   Learner can identify when a project has not considered a flow even though there is likely an effect on that flow
+| **CITA -- Professional** | -   Learner demonstrates deep understand of the three flows within the context of his or her company
+| | -   Learner can evaluate a potential investment in terms of the effects it might have on each of the flows
 
 ## Benefits Management
 
@@ -407,35 +359,19 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Learner will be able to describe common attributes of business and technology benefits
--   Learner will be able to measure benefits related to cost savings
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to track direct business benefits arising from a technology solution
--   Learner will be able to classify benefits and value additions
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to identify business benefits that are aligned to the business KPIs
--   Learner will be able to track benefits and compare actual versus planned benefits
--   Learner will be able to analyze deviations from projected benefits
--   Learner will be able to explain co-relation between architecture and business benefits
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to track benefits against enterprise KPIs
--   Learner will be able to compare benefits of a solution with respect to industry benchmarks
--   Learner will be able to measure direct and indirect benefits
--   Learner will be able to perform benefit classification
--   Learner will be able to define architecture action to address deviations in planned versus actual benefits
-
- |
+| **CITA- Foundation** | -   Learner will be able to describe common attributes of business and technology benefits
+| | -   Learner will be able to measure benefits related to cost savings
+| **CITA -- Associate** | -   Learner will be able to track direct business benefits arising from a technology solution
+| | -   Learner will be able to classify benefits and value additions
+| **CITA -- Specialist** | -   Learner will be able to identify business benefits that are aligned to the business KPIs
+| | -   Learner will be able to track benefits and compare actual versus planned benefits
+| | -   Learner will be able to analyze deviations from projected benefits
+| | -   Learner will be able to explain co-relation between architecture and business benefits
+| **CITA -- Professional** | -   Learner will be able to track benefits against enterprise KPIs
+| | -   Learner will be able to compare benefits of a solution with respect to industry benchmarks
+| | -   Learner will be able to measure direct and indirect benefits
+| | -   Learner will be able to perform benefit classification
+| | -   Learner will be able to define architecture action to address deviations in planned versus actual benefits
 
 # Resources
 
@@ -513,8 +449,7 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 **Revenue**\
 *-- The collection of revenues generated by the customer segments as they consume the value propositions.*
 
-Author
-======
+# Author
 
 ![richard vijay](media/r_vijay.jpg)
 ## Richard Vijay Consultant
