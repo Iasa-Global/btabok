@@ -161,9 +161,7 @@ The value of the innovation depends on which area of the business it can be appl
 -   Enhancement/extension of existing product features
 -   Completely new product
 
-When the architect promotes the adoption of an innovation it is absolutely essential that the risk is understood by the business, the IASA BTS course contains a risk taxonomy shown below:
-
-![Risk Taxonomy - BTS](media/sdar002.svg)
+When the architect promotes the adoption of an innovation it is absolutely essential that the risk is understood by the business, the IASA BTS course contains a risk taxonomy,
 
 The architect must be able to apply the risk taxonomy in the context of their organization and the area of the innovation. Every organization will each have an attitude to risk, which is dependent on the market sectors they are in and their place in them.
 
