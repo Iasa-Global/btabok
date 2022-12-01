@@ -151,26 +151,11 @@ The Procure Management process is focused on the management of, and the provisio
 -   Priority Systems
     [http://www.prioritysystem.com/reasons2b.html](http://www.prioritysystem.com/reasons2b.html){:target="_blank"}
 
--   IT Spend Categorization
-    [https://portal.isg-one.com/briefs/Pages/Overview-of-IT-Spend-Categorization.aspx](https://portal.isg-one.com/briefs/Pages/Overview-of-IT-Spend-Categorization.aspx){:target="_blank"}
-
 -   The Prioritization Matrix: Do spreadsheets really suck?
     [http://spmintersections.blogspot.ie](http://spmintersections.blogspot.ie/){:target="_blank"}
 
--   Technology Investment a Priority for Midmarket
-    [http://deloitte.wsj.com/cio/2014/06/26/technology-investment-a-strategic-priority-for-midmarket/](http://deloitte.wsj.com/cio/2014/06/26/technology-investment-a-strategic-priority-for-midmarket/){:target="_blank"}
-
--   Focusing on the fundamentals\
-    [http://www.ey.com/Publication/vwLUAssets/EY-CIO-Klub-Enterprise-IT-trends-and-Investment-survey-2014/$FILE/EY-CIO-Klub-Enterprise-IT-trends-and-Investment-survey-2014.pdf](http://www.ey.com/Publication/vwLUAssets/EY-CIO-Klub-Enterprise-IT-trends-and-Investment-survey-2014/$FILE/EY-CIO-Klub-Enterprise-IT-trends-and-Investment-survey-2014.pdf){:target="_blank"}
-
--   Leveraging IT investments\
-    [http://www.ey.com/GL/en/Services/Advisory/Think-outside-the-SOX-box--Leverage-IT-investment](http://www.ey.com/GL/en/Services/Advisory/Think-outside-the-SOX-box--Leverage-IT-investment){:target="_blank"}
-
--   Maximize ROI\
+-   Maximize ROI
     [http://www.ccpace.com/asset_files/maximizeROI_whitepaper1.pdf](http://www.ccpace.com/asset_files/maximizeROI_whitepaper1.pdf){:target="_blank"}
-
--   6 steps to plan and prioritize IT investments\
-    [http://h30507.www3.hp.com/t5/Transforming-IT-Blog/6-steps-to-plan-and-prioritize-IT-investments/ba-p/111571#.VdBSKPlVhBc](http://h30507.www3.hp.com/t5/Transforming-IT-Blog/6-steps-to-plan-and-prioritize-IT-investments/ba-p/111571#.VdBSKPlVhBc){:target="_blank"}
 
 -   IT Spending: Innovation Talk vs. Survival Walk\
     [http://www.informationweek.com/it-leadership/it-spending-innovation-talk-vs-survival-walk/d/d-id/1103852?](http://www.informationweek.com/it-leadership/it-spending-innovation-talk-vs-survival-walk/d/d-id/1103852?){:target="_blank"}

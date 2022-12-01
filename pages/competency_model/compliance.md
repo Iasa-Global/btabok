@@ -106,15 +106,15 @@ Capabilities Definitions can be found at IASA ITABoK Definitions and IASA -- Bus
 
 The following external references have additional information on the subject of Compliance
 
--   Information Technology Governance -- [isaca.org](http://www.isaca.org)
+-   Information Technology Governance -- [isaca.org](http://www.isaca.org){:target="_blank"}
 
 The following external references have list common standards and directories for industry specific compliance
 
--   International Organization for Standardization -- ISO -- [iso.org](http://www.iso.org)
--   Payment Card Industry Security Standards Council -- [pcisecuritystandards.org/](http://www.pcisecuritystandards.org/)
--   Information Security Forum -- <https://www.securityforum.org>
--   National Institute of Standards and Technology (USA) -- [nist.gov](http://www.nist.gov)
--   Financial, Trade, Industry Specific and International Regulations --[http://www.csoonline.com/article/2126072/compliance/the-security-laws--regulations-and-guidelines-directory.html](http://www.csoonline.com/article/2126072/compliance/the-security-laws--regulations-and-guidelines-directory.html)
+-   International Organization for Standardization -- ISO -- [iso.org](http://www.iso.org){:target="_blank"}
+-   Payment Card Industry Security Standards Council -- [pcisecuritystandards.org/](http://www.pcisecuritystandards.org/){:target="_blank"}
+-   Information Security Forum -- [https://www.securityforum.org](https://www.securityforum.org){:target="_blank"}
+-   National Institute of Standards and Technology (USA) -- [nist.gov](http://www.nist.gov){:target="_blank"}
+-   Financial, Trade, Industry Specific and International Regulations --[http://www.csoonline.com/article/2126072/compliance/the-security-laws--regulations-and-guidelines-directory.html](http://www.csoonline.com/article/2126072/compliance/the-security-laws--regulations-and-guidelines-directory.html){:target="_blank"}
 
 Books
 

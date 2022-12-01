@@ -129,7 +129,7 @@ The preparation of a sustainability strategy for IT, taking into account politic
 # Related Capabilities
 
 -   [Business Fundamentals](business_fundamentals.md){:target="_blank"}
--   [Business Valuation](business_valuation.md){:target="_blank"}
+-   [Business Valuation](bv_cm.md){:target="_blank"}
 
 # Resources
 
@@ -138,15 +138,12 @@ The preparation of a sustainability strategy for IT, taking into account politic
 -- More about Industry Analysis
 
 -   Quick MBA -- [http://www.quickmba.com/strategy/](http://www.quickmba.com/strategy/){:target="_blank"}
--   [http://blog.credera.com/management-consulting/seven-favorite-frameworks/](http://blog.credera.com/management-consulting/seven-favorite-frameworks/){:target="_blank"}
--   [6 Tools Every Business Consultant Should Know](http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know){:target="_blank"}
--   [http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know](http://www.dce.harvard.edu/professional/blog/6-tools-every-business-consultant-should-know){:target="_blank"}
 
 --  Government Sources of Data for Industry Analysis
 
 -   World Trade Organization -- [http://www.wto.org](http://www.wto.org/){:target="_blank"}
 -   EconomicIndicators.gov (US) -- Daily releases of key economic indicators
--   (USA) Office of Entrepreneurship Education | Resources -- [http://www.sba.gov](http://www.sba.gov/){:target="_blank"}
+-   (USA) Office of Entrepreneurship Education -- Resources -- [http://www.sba.gov](http://www.sba.gov/){:target="_blank"}
 -   Enterprise and Leadership (EU) -- [http://ec.europa.eu](http://ec.europa.eu){:target="_blank"}
 
 --         Financial Sources of Information
@@ -156,15 +153,18 @@ The preparation of a sustainability strategy for IT, taking into account politic
 
 --         Consulting and Analyst Sources for Industry Analysis
 
--   Management Consulting Firms -- McKinsey ([www.mckinsey.com](http://www.mckinsey.com/)), Ernst & Young ([www.ey.com](http://www.ey.com/)), Price Waterhouse Coopers ([www.pwc.com](http://www.pwc.com/))
+-   Management Consulting Firms -- McKinsey [www.mckinsey.com](http://www.mckinsey.com/){:target="_blank"}
+-   Ernst & Young [www.ey.com](http://www.ey.com/){:target="_blank"}
+-   Price Waterhouse Coopers [www.pwc.com](http://www.pwc.com/){:target="_blank"}
 
 --         Analyst and Research Firms
 
--   IDC ([Www.idc.com](http://www.idc.com/)), Datamonitor ([www.datamonitor.com](http://www.datamonitor.com/))
+-   IDC [Www.idc.com](http://www.idc.com/) {:target="_blank"}
+-   Datamonitor [www.datamonitor.com](http://www.datamonitor.com/){:target="_blank"}
 
 --         Books
 
-Business and Competitive Analysis: Effective Application of New and Classic Methods by [Craig S. Fleisher](http://www.amazon.com/Craig-S.-Fleisher/e/B001HCUPCS/ref=dp_byline_cont_book_1), [Babette E. Bensoussan](http://www.amazon.com/Babette-E.-Bensoussan/e/B001HCU4XI/ref=dp_byline_cont_book_2) ISBN-13: 978-0132161589ISBN-10: 0132161583
+Business and Competitive Analysis: Effective Application of New and Classic Methods by [Craig S. Fleisher](http://www.amazon.com/Craig-S.-Fleisher/e/B001HCUPCS/ref=dp_byline_cont_book_1){:target="_blank"}, [Babette E. Bensoussan](http://www.amazon.com/Babette-E.-Bensoussan/e/B001HCU4XI/ref=dp_byline_cont_book_2){:target="_blank"} ISBN-13: 978-0132161589ISBN-10: 0132161583
 
 # Author
 

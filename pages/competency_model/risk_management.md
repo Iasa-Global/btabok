@@ -148,7 +148,6 @@ Risk = Probability of risk occurrence x Impact of exposure or negative consequen
 
 **5.1 Templates:**
 
-[Vendor Risk Assessment Guide](http://cdn2.hubspot.net/hub/37288/file-1849675513-pdf/docs/SettingTheStandard.Evantix_Template_Final.pdf?t=1422557772630){:target="_blank"}
 
 **5.2 Articles:**
 
