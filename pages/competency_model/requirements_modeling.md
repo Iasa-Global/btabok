@@ -117,8 +117,8 @@ During the project life time the requirements need to be prioritized, kept up to
 **Blogs/Webcasts/News/Reference Resources:**
 
 - [http://www.sparxsystems.com/resources/tutorial/use_case_model.html](http://www.sparxsystems.com/resources/tutorial/use_case_model.html){:target="_blank"}
-- [http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel](http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel){:target="_blank"}
-- [http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel](http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel){:target="_blank"}
+- [http://agiledata.org/essays/agileDataModeling.html](http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel){:target="_blank"}
+- [http://agiledata.org/essays/agileDataModeling.html](http://agiledata.org/essays/agileDataModeling.html\#InitialDomainModel){:target="_blank"}
 - [http://martinfowler.com/bliki/UbiquitousLanguage.html](http://martinfowler.com/bliki/UbiquitousLanguage.html){:target="_blank"}
 - [http://web.archive.org/web/20061220024049/http://mason.gmu.edu/\~tdufresn/paper.doc](http://web.archive.org/web/20061220024049/http://mason.gmu.edu/\~tdufresn/paper.doc){:target="_blank"}
 

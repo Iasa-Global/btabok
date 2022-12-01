@@ -12,7 +12,7 @@ tags:
 
 # Description
 
-Architects often think of design narrowly, in terms of software components or a computing system that has interfacing applications that serve a bounding scope. "Whole Systems Design" considers the "whole" rather than the individual parts of a solution and emphasizes the role of interconnection between elements of the system(s), and promotes the concept of "Design as a Discipline"[[1]](the_whole_systems_design.md){:target="_blank"}.
+Architects often think of design narrowly, in terms of software components or a computing system that has interfacing applications that serve a bounding scope. "Whole Systems Design" considers the "whole" rather than the individual parts of a solution and emphasizes the role of interconnection between elements of the system(s), and promotes the concept of "Design as a Discipline"
 
 As an architect, taking a whole systems design approach means you must understand the entire IT environment, including the people, infrastructure, development environment and organizational structure -- to name just a few. The consequences of not taking a whole systems approach to design include poor overall design efficiency (optimizing part of the system does not optimize the whole system), increased costs, decreased solution effectiveness and decreased quality attributes support.
 
@@ -27,7 +27,7 @@ Whole system design:
 
 Software architecture brings together the two worlds of technology and design, and as a systems or software architect, you are a member of an emerging design profession.
 
-[[1]](the_whole_systems_design.md) A discipline is a way of thinking; it is a branch of knowledge with rules of practice and established methods of conduct. A discipline is about learning.
+A discipline is a way of thinking; it is a branch of knowledge with rules of practice and established methods of conduct. A discipline is about learning.
 
 # Overview
 
@@ -156,5 +156,3 @@ Design judgment and the construction of meaning, including work redesign, indust
 Sean Gordon works for Chevron [http://www.chevron.com/](http://www.chevron.com/){:target="_blank"} where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
 
 Sean is an Honorary Lecturer at Dundee University School of Computing [http://www.computing.dundee.ac.uk/](http://www.computing.dundee.ac.uk/){:target="_blank"}. He is also a member of the judging panel for the ScotlandIS Young Software Engineer of the Year Awards [http://www.scotlandis.com/](http://www.scotlandis.com/){:target="_blank"}.
-
-![Farzad Ahmed](media/farzad_ahmed.jpg)
