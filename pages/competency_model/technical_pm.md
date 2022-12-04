@@ -12,8 +12,6 @@ tags:
 
 # Description
 
-  
-
 Technical Project Management is the ability to support the management of an IT initiative from a concept through to a concrete deliverable as a project with specialist technical knowledge. Working with a project requires that we have clear goals, a defined scope and a definite start and end.
 
 In general we would expect a Administrative Project Management to have overall responsibility for the project and the Technical Project Management performing a supporting role in the many aspects of project management.
@@ -65,8 +63,6 @@ The Architect shall support delivery of the project ensuring that all technical 
 
 # Proven Practices
 
-  
-
 **Describe why an architect should be involved in this skill at a corporate level**
 
 The Architect often provides the link between business and IT and a comprehensive understanding of the complexity of IT initiatives. This makes the Architect a valuable asset in project management contributing with a unique perspective on planning, estimation and risks which may not be apparent to an Administrative Project Management. Understanding the technical challenges in an IT project also facilitates communication with the project team and other stakeholders.
@@ -81,9 +77,7 @@ Stakeholders can engage the Architect at any stage in a project either in a supp
 
 # Sub-Capabilities
 
-  
-
-### **Project Planning and Organization**
+## Project Planning and Organization
 
 Understanding the organization of a project including stakeholders, groups, roles and responsibilities. Planning the project in terms of time and resources by defining the project model, milestones and deliverables.
 
@@ -98,7 +92,7 @@ Understanding the organization of a project including stakeholders, groups, role
 *   The Learner has the ability to mentor other Technical Project Managers
 *   The Learner is able to support stakeholders with a feasibility assessment of a project initiative providing viable Business Cases for change
 
-### **Scope and Work Breakdown**
+## Scope and Work Breakdown
 
 Understand and support the definition of the Business Requirements placed on the project. Support Administrative Project Management in defining the scope of the project identifying boundaries and breaking requirements down into activities in the form of a “Work Breakdown Structure” which is understandable to all stakeholders.
 
@@ -112,7 +106,7 @@ Understand and support the definition of the Business Requirements placed on the
 *   Learner can demonstrate experience in working with Work Breakdown Structures in a complex environment with many dependencies
 *   Learner has the ability to act as a mentor for other Technical Project Managers
 
-### **Time Estimation and Budget**
+## Time Estimation and Budget
 
 The calculation of accurate estimates for project activities in terms of man hours or financial terms with a view to ensuring that the project can maintain the allocated time plan and budget.
 
@@ -126,7 +120,7 @@ The calculation of accurate estimates for project activities in terms of man hou
 *   Learner can demonstrate experience in a number of techniques for estimating project activities
 *   Learner has the ability to act as a mentor in estimation techniques
 
-### **Control and Reporting**
+## Control and Reporting
 
 Supporting Administrative Project Management in the control and monitoring of the actual project status against the project plan including the management of risks.
 
@@ -140,7 +134,7 @@ Supporting Administrative Project Management in the control and monitoring of th
 *   Learner can demonstrate experience actively identifying and mitigating risks
 *   Learner can demonstrate experience supporting the presenting project status to senior stakeholders
 
-### **Delivery and Evaluation**
+## Delivery and Evaluation
 
 This support of Administrative Project Management in project delivery ensuring the acceptance of the project result by the project sponsor. Closure of the project and evaluation the results against the project goals.
 
@@ -154,50 +148,37 @@ This support of Administrative Project Management in project delivery ensuring t
 
 # Resources
 
-  
-
-#### **Blogs/Webcasts/News/Reference sources:**
+**Blogs / Webcasts / News / Reference sources:**
 
 IASA IT Architecture Body of Knowledge (BTABoK)
 
-Project Estimation Techniques: [http://www.projectmanagementguru.com/estimating.html](http://www.projectmanagementguru.com/estimating.html)
-
 Managing the Triple Constraint
 
-[https://programsuccess.wordpress.com/2011/05/02/scope-time-and-cost-managing-the-triple-constraint/](https://programsuccess.wordpress.com/2011/05/02/scope-time-and-cost-managing-the-triple-constraint/)
+[https://programsuccess.wordpress.com/2011/05/02/scope-time-and-cost-managing-the-triple-constraint/](https://programsuccess.wordpress.com/2011/05/02/scope-time-and-cost-managing-the-triple-constraint/){:target="_blank"}
 
-Gathering Requirements [http://www.projectsmart.co.uk/requirements-gathering.php](http://www.projectsmart.co.uk/requirements-gathering.php%20)
+Gathering Requirements [http://www.projectsmart.co.uk/requirements-gathering.php](http://www.projectsmart.co.uk/requirements-gathering.php%20){:target="_blank"}
 
-Business Requirements [http://www.mindtools.com/pages/article/newPPM\_77.htm](http://www.mindtools.com/pages/article/newPPM_77.htm%20)
 
-Work Breakdown Structure [https://www.workbreakdownstructure.com/](https://www.workbreakdownstructure.com/)
+Work Breakdown Structure [https://www.workbreakdownstructure.com/](https://www.workbreakdownstructure.com/){:target="_blank"}
 
-#### **Training:**
+**Training:**
 
-Various Project Management [http://www.learningtree.com/](http://www.learningtree.com/)
+Various Project Management [http://www.learningtree.com/](http://www.learningtree.com/){:target="_blank"}
 
-\* Certification organizations below also provide training
+Certification organizations below also provide training
 
-#### **Certifications:**
+**Certifications:**
 
-PMI Certification [http://www.pmi.org/](http://www.pmi.org/%20)
+PMI Certification [http://www.pmi.org/](http://www.pmi.org/%20){:target="_blank"}
 
-IPMA [http://ipma.ch](http://ipma.ch)
+Prince2 [https://www.prince2.com/](https://www.prince2.com/){:target="_blank"}
 
-Prince2 [https://www.prince2.com/](https://www.prince2.com/)
+Scrum.org [https://www.scrum.org](https://www.scrum.org){:target="_blank"}
 
-Scrum.org [https://www.scrum.org](https://www.scrum.org)
-
-# Author
-
-  
-
-### 
+# Author 
 
 ![Stephen Dougall](media/stephen_dougall.jpg)
-
 **Stephen Dougall**
-
-**Enterprise Architect – CGI**
+*Enterprise Architect – CGI*
 
 Stephen Dougall is consultant Enterprise/Solution Architect working in Sweden. Stephen has many years’ experience in a number of sectors including Telecom, Manufacturing, Automotive and Pharmaceuticals. Assignments have included areas such as Business Technology Strategy, Web/Application Development, Integration and Test. Stephen also holds the highest Iasa certification of CITA-Professional.
