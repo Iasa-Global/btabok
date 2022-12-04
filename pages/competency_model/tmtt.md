@@ -244,7 +244,7 @@ Related with the capability to apply testing techniques in each of the projects 
 # Author
 
 ![Andres Hurtado](media/a_hurtado.jpg)
-## **Andres Hurtado**
-**Software Architect & Developer**
+**Andres Hurtado**
+*Software Architect & Developer*
 
 Software architect and developer working inside private and public sectors. He has worked in Colombia, designing and implementing enterprise solutions and has over 14 years of experience in software development process, enterprise application integration and research about technologies to leverage the product development.

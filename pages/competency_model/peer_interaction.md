@@ -79,12 +79,10 @@ Structured, open interactions can help improve the quality of Peer interaction. 
 
 [http://blog.bonus.ly/the-value-of-peer-relationships-at-work/](http://blog.bonus.ly/the-value-of-peer-relationships-at-work/){:target="_blank"}
 
-**Blogs/Webcasts/News/Reference Resources:**
+**Blogs / Webcasts / News / Reference Resources:**
 
 Goleman, D., (1995) Emotional Intelligence, New York, NY, England: Bantam Books, Inc.\
 Fisher, R., Ury, W. and Patton, B. (1991). , "Getting to Yes: Negotiating Agreement Without Giving In", Second Edition. New York: Penguin Books.
 
 # Author
-
-
-## Shrikumar Sharma
+**Shrikumar Sharma**

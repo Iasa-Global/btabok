@@ -102,7 +102,7 @@ Often frameworks, platforms, components and technologies use the principle of l
 # Author
 
 ![Suresh Tamminiedi](media/s_tamminiedi.jpg)
-## Suresh Tamminiedi
+**Suresh Tamminiedi**
 *Lead Principal Consultant & Architect -- Stammin Inc*
 
 I am a Value-Driven IT Professional working as Lead Principal Consultant, Architect providing IT services for start-ups, SMBs, and large-scale companies with over 13 years of extensive experience. I add value to clients' bottom-line by truly understanding their strategic business needs and leading teams towards finding optimum solutions that aligns with the business needs.

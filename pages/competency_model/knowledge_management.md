@@ -121,27 +121,33 @@ In some cases for regulatory reasons a record is kept about who access the infor
 
 **Online Material**
 
-Knowledge Management | [http://en.wikipedia.org/wiki/Knowledge_management](http://en.wikipedia.org/wiki/Knowledge_management){:target="_blank"}
+Knowledge Management
+[http://en.wikipedia.org/wiki/Knowledge_management](http://en.wikipedia.org/wiki/Knowledge_management){:target="_blank"}
 
-Method for an Integrated Knowledge Environment | [http://mike2.openmethodology.org](http://mike2.openmethodology.org){:target="_blank"}
+Method for an Integrated Knowledge Environment
+[http://mike2.openmethodology.org](http://mike2.openmethodology.org){:target="_blank"}
 
 [http://www.dama.org.au/wp-content/uploads/2011/09/DAMA-Sydney-October-2011-Introduction-to-Mike-2.0.pdf](http://www.dama.org.au/wp-content/uploads/2011/09/DAMA-Sydney-October-2011-Introduction-to-Mike-2.0.pdf){:target="_blank"}
 
 **Blogs/Webcasts/News/Reference sources:**
 
 -   Summary of Knowledge Management YouTube: [https://youtu.be/HwMzpJa6Y-w](https://youtu.be/HwMzpJa6Y-w){:target="_blank"}
--   EDxKC -- Michael Wesch -- From Knowledgeable to Knowledge-Able | [https://youtu.be/LeaAHv4UTI8](https://youtu.be/LeaAHv4UTI8){:target="_blank"}
--   How knowledge management drives enterprise strategy | University of Stellenbosch Business School | [https://youtu.be/SvEcTEB9ajQ](https://youtu.be/SvEcTEB9ajQ){:target="_blank"}
+-   EDxKC - Michael Wesch - From Knowledgeable to Knowledge-Able
+    [https://youtu.be/LeaAHv4UTI8](https://youtu.be/LeaAHv4UTI8){:target="_blank"}
+-   How knowledge management drives enterprise strategy | University of Stellenbosch Business School
+    [https://youtu.be/SvEcTEB9ajQ](https://youtu.be/SvEcTEB9ajQ){:target="_blank"}
 
 **Training:**
 
--   The Global Community of Information Professionals | [http://www.aiim.org](http://www.aiim.org){:target="_blank"}
+-   The Global Community of Information Professionals
+    [http://www.aiim.org](http://www.aiim.org){:target="_blank"}
 
 **Certifications:**
 
--   The Global Community of Information Professionals | [http://www.aiim.org](http://www.aiim.org){:target="_blank"}
+-   The Global Community of Information Professionals
+    [http://www.aiim.org](http://www.aiim.org){:target="_blank"}
 
 # Author
 
-## Alistair Herriott
+**Alistair Herriott**
 *Head of Strategy and Architecture, Communications and Media -- Bearing Point*
