@@ -122,34 +122,29 @@ Some of the Quality Attributes that could be associated with the Business Case; 
 
 # Resources
 
-  
+**Articles:**
 
-## **Articles:**
+[https://msdn.microsoft.com/en-us/library/ee658094.aspx](https://msdn.microsoft.com/en-us/library/ee658094.aspx){:target="_blank"}
 
-[https://msdn.microsoft.com/en-us/library/ee658094.aspx](https://msdn.microsoft.com/en-us/library/ee658094.aspx)
+[https://en.m.wikipedia.org/wiki/List\_of\_system\_quality\_attributes](https://en.m.wikipedia.org/wiki/List_of_system_quality_attributes){:target="_blank"}
 
-[https://en.m.wikipedia.org/wiki/List\_of\_system\_quality\_attributes](https://en.m.wikipedia.org/wiki/List_of_system_quality_attributes)
+[https://en.m.wikipedia.org/wiki/Non-functional\_requirements](https://en.m.wikipedia.org/wiki/Non-functional_requirements){:target="_blank"}
 
-[https://en.m.wikipedia.org/wiki/Non-functional\_requirements](https://en.m.wikipedia.org/wiki/Non-functional_requirements)
+[https://en.m.wikipedia.org/wiki/FURPS](https://en.m.wikipedia.org/wiki/FURPS){:target="_blank"}
 
-[https://en.m.wikipedia.org/wiki/FURPS](https://en.m.wikipedia.org/wiki/FURPS)
+[https://en.m.wikipedia.org/wiki/Requirement#Types\_of\_requirement](https://en.m.wikipedia.org/wiki/Requirement#Types_of_requirement){:target="_blank"}
 
-[https://en.m.wikipedia.org/wiki/Requirement#Types\_of\_requirement](https://en.m.wikipedia.org/wiki/Requirement#Types_of_requirement)
-
-## **Blogs/Webcasts/News/Reference Resources:**
+**Blogs/Webcasts/News/Reference Resources:**
 
 Software Architecture in Practice, Third Edition by Rick Kazman,Paul Clements, Len Bass Publisher: Addison-Wesley Professional Release Date: September 2012 ISBN: 9780321815736
 
 Economics-Driven Software Architecture by Ivan Mistrik , Rami Bahsoon , Rick Kazman , Yuanyuan Zhang ISBN-10: 0124104649
 
-## **Training:**
+**Training:**
 
 ITIL Training [https://www.axelos.com/qualifications/itil-qualifications](https://www.axelos.com/qualifications/itil-qualifications){:target="_blank"}
 
 # Author
 
-  
-
-## **Alistair Herriott**
-
-## _Head of Strategy and Architecture, Communications and Media – Bearing Point_
+**Alistair Herriott**
+*Head of Strategy and Architecture, Communications and Media – Bearing Point*

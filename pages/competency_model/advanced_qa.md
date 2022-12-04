@@ -373,4 +373,4 @@ Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:ta
 
 # Author
 
-## Sanjay Mishra
+**Sanjay Mishra**

@@ -211,7 +211,7 @@ Software architect and developer working inside private and public sectors. He h
 
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
-## Jaya Mudugal
+**Jaya Mudugal**
 *Information & Solution Architect*
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\

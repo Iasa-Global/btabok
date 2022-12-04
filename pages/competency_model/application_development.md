@@ -105,9 +105,9 @@ The architect will facilitate improvements by changing approaches and working pr
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to name the various types of measures and metric used in their organization
--   Learner will be able to name the commonly used models
+| | -   Learner will be able to name the commonly used models
 | **CITA -- Associate** | -   Learner will be able identify some metrics to use on projects and how to measure them
--   Learner will be to define some problems with metrics
+| | -   Learner will be to define some problems with metrics
 | **CITA -- Specialist** | -   Learner will be able to identify a coherent set of metrics to use in projects
 | | -   Learners will be able to predict negative effects of measurement and devised ways to apply these which result in desired outcome
 | | -   Learner will be able to define the models and describe how they are used
@@ -136,6 +136,6 @@ For the agile approach using Scrum -- [http://www.scrumalliance.org/](http://ww
 
 # Author
 
-## Chris Cooper-Bland
+**Chris Cooper-Bland**
 *Group Head of Architecture -- Endava*
 

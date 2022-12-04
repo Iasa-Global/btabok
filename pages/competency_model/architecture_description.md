@@ -144,7 +144,7 @@ There are a large number of less well known and less well supported ADL, includi
 # Author
 
 ![Sean Gordon](media/s_gordon.jpg)
-## Sean Gordon
+**Sean Gordon**
 *Technical Expert for Solution Architecture -- Chevron*
 
 Sean Gordon works for Chevron [http://www.chevron.com/](http://www.chevron.com/){:target="_blank"} where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.

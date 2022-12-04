@@ -153,12 +153,11 @@ Resources
 8.  **Enterprise Architecture at Work**. Marc Lankhorst et al. Modelling, Communication and Analysis. Third Edition. 2013. Springer. Berlin Heidelberg.
 9.  **Strategic Alignment Model.** Henderson and Venkatraman IBM Systems Journal, Vol 38, No 273, 1999
 
-Author
-======
+# Author
 
 ![Dr. Ariffin Mokhtar](media/a_mokhtar.jpg)
-## Dr. Ariffin Mokhta
-**Director of Health Informatics**
+**Dr. Ariffin Mokhta**
+*Director of Health Informatics*
 
 Dr. Ariffin Marzuki bin Mokhtar is a National Specialist Registered (NSR) Anesthesiologist that graduated from the Universiti Kebangsaan Malaysia (UKM) (2002), and is currently practicing as a Consultant Anesthesiologist at the National Heart Institute (Institut Jantung Negara-IJN), Malaysia. He is a Certified Professional in Health Information Management and Systems (CPHIMS), a Certified IT Architect- Associate (CITA-A) and is Open Group Architecture Framework 9.1 Certified.
 

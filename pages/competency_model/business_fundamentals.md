@@ -445,7 +445,7 @@ The process begins when someone gets an **idea** for a new product. Not all idea
 
   
 ![Lyndon D’Oliveiro](media/lyndon_doliveiro.jpg)
-## Lyndon D’Oliveiro
+**Lyndon D’Oliveiro**
 *Enterprise Architect Mentor & Secretary of IASA Malaysia Chapter*
 
 Lyndon is a Business-Tech Hybrid. His career has seen him perform in Sales, Marketing and Technical Support, operate a datacentre, lead a team of developers, project managers and mentor Enterprise/IT Architects.
