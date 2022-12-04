@@ -108,19 +108,11 @@ The architect will facilitate improvements by changing approaches and working pr
 -   Learner will be able to name the commonly used models
 | **CITA -- Associate** | -   Learner will be able identify some metrics to use on projects and how to measure them
 -   Learner will be to define some problems with metrics
-| **CITA -- Specialist** |
-
--   Learner will be able to identify a coherent set of metrics to use in projects
--   Learners will be able to predict negative effects of measurement and devised ways to apply these which result in desired outcome
--   Learner will be able to define the models and describe how they are used
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to define new metrics and improve the process as a consequence of measurement
--   Learner will be able to work with the stakeholders to understand how to define apply SLAs
-
- |
+| **CITA -- Specialist** | -   Learner will be able to identify a coherent set of metrics to use in projects
+| | -   Learners will be able to predict negative effects of measurement and devised ways to apply these which result in desired outcome
+| | -   Learner will be able to define the models and describe how they are used
+| **CITA -- Professional** | -   Learner will be able to define new metrics and improve the process as a consequence of measurement
+| | -   Learner will be able to work with the stakeholders to understand how to define apply SLAs
 
 # Related Capabilities
 
@@ -128,7 +120,7 @@ The architect will facilitate improvements by changing approaches and working pr
 
 # Resources
 
-**Blogs/Webcasts/News/Reference Sources**
+**Blogs / Webcasts / News / Reference Sources**
 
 Agile approach -- [http://www.agilemodeling.com/](http://www.agilemodeling.com/){:target="_blank"}
 
@@ -138,7 +130,7 @@ All things CMMI -- [https://www.sei.cmu.edu/cmmi/](https://www.sei.cmu.edu/cmmi/
 
 Software Engineering a Practitioner's Approach by Roger S Pressman, Darrel Ince. This provides an excellent background, does not cover agile methods.
 
-**Certifications **
+**Certifications**
 
 For the agile approach using Scrum -- [http://www.scrumalliance.org/](http://www.scrumalliance.org/){:target="_blank"}
 
