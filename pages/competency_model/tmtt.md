@@ -10,8 +10,7 @@ tags:
   - it_environment
 ---
 
-Description
-===========
+# Description
 
 Testing is an activity to assess product quality and improve it by identifying defects and problems. It consists of the dynamic verification of the behavior of a program over a finite set of cases selected from an execution domain test (which is usually infinite), related to the expected behavior, measuring the functional and non-functional system in terms of defects found ("We showed the presence of errors but not their absence [Dijkstra]").
 
@@ -42,8 +41,7 @@ Several critical receives software development because, depending on the time of
 
 An architect must design solutions that fits inside proven static and dynamic testing practices, considering the scale and type of software delivered to cover functional and non-functional requirements of the solutions. Inside the constraints of time and budget around Software Development Lifecycle (SDLC) of the project, product must cover the software quality expectations with agility and easy to use practices to find defects.
 
-Overview
-========
+# Overview
 
 **Why does an architect need this skill?**
 
@@ -72,8 +70,7 @@ Note that the responsibility to make the automated test are the technical group 
 
 This can help to ensure that the expected quality of the product be achieve and the main concerns of the architecture could be verified, considering the operation in real life. Not doing so can lead to problems involving monetary losses or reputation of the business.
 
-Proven Practices
-================
+# Proven Practices
 
 **Describe why an architect should be involved in this skill at a corporate level**
 
@@ -87,212 +84,167 @@ TBD
 
 TBD
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
 Sub-capabilities are divided according ISO-IEC organizational process as reference:
 
 ![TMTT_img2](media/tmtt002.jpg)
 
-### **Test Fundamentals**
+## Test Fundamentals
 
 Capabilities to guide a testing process inside a project, understanding the overall testing lifecycle. Testing activities are not only running testing; those activities incudes planning and control, design, check the results, reporting, reviews.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to know different proven testing methods
+| | -   Learning knows basics testing lifecycle and principles
+| | -   Learning how to include testing activities to derive resilient architectures
+| | -   Guide the development team to build deterministic test strategies
+| | -   Understand the benefits of testing culture within the development process.
+| | -   Learner knows the roles and products derived for testing activities inside a SDLC
+| | -   Learner knows static and dynamic techniques that could be used in SDLC.
+| | -   Learning can demonstrate experience recommending testing structuration strategies
+| | -   Learning can conduct testing review or inspections processes.
+| **CITA -- Associate** |
+| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
--   Learner will be able to know different proven testing methods
--   Learning knows basics testing lifecycle and principles
--   Learning how to include testing activities to derive resilient architectures
--   Guide the development team to build deterministic test strategies
--   Understand the benefits of testing culture within the development process.
--   Learner knows the roles and products derived for testing activities inside a SDLC
--   Learner knows static and dynamic techniques that could be used in SDLC.
--   Learning can demonstrate experience recommending testing structuration strategies
--   Learning can conduct testing review or inspections processes.
-
- |
-| **CITA -- Associate** |\
- |
-| **CITA -- Specialist** |\
- |
-| **CITA -- Professional** |\
- |
-
-### **Test Management, Monitoring and Control**
+## Test Management, Monitoring and Control
 
 Experience integrating testing practices within the development of projects around the organization
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |\
- |
-| **CITA -- Associate** |\
- |
-| **CITA -- Specialist** |
-
--   Recognizes importance of independent testing
--   Knows the activities for test planning, lifecycle and estimation
--   Knows how to measure progress in testing evaluation
--   Knows how to organize and present an architecture evaluation session.
--   Know how to evaluate software architectures
--   Knows how to justify with data the implications of te4sting in software quality attributes measurement.
--   Knows the potential benefits and risks to include and support tools for
+| **CITA- Foundation** |
+| **CITA -- Associate** |
+| **CITA -- Specialist** | -   Recognizes importance of independent testing
+| | -   Knows the activities for test planning, lifecycle and estimation
+| | -   Knows how to measure progress in testing evaluation
+| | -   Knows how to organize and present an architecture evaluation session.
+| | -   Know how to evaluate software architectures
+| | -   Knows how to justify with data the implications of te4sting in software quality attributes measurement.
+| | -   Knows the potential benefits and risks to include and support tools for
     -   Different strategies of testing specification, testing execution and result analysis.
     -   To test harness and nonfunctional quality attributes
     -   To support performance and monitoring
--   Best practices according the project context
--   Assume critical position regarding the status of the product and the evidence delivered over the performed testing.
--   Know the benefits of testing in modifiability or maintenance of legacy software.
+| | -   Best practices according the project context
+| | -   Assume critical position regarding the status of the product and the evidence delivered over the performed testing.
+| | -   Know the benefits of testing in modifiability or maintenance of legacy software.
+| **CITA -- Professional** |
 
- |
-| **CITA -- Professional** |\
- |
-
-### **Dynamic Test Process and Automation**
+## Dynamic Test Process and Automation
 
 Experience integrating testing practices within the development of projects around the organization.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |\
- |
-| **CITA -- Associate** |\
- |
-| **CITA -- Specialist** |
+| **CITA- Foundation** |
+| **CITA -- Associate** |
+| **CITA -- Specialist** | -   Involve configuration management and test automation as needed to reduce timeboxes side project SDLCs.
+| | -   Involve best techniques practices inside software development cycles and justify it.
+| | -   Collaboration with the product testing team to define the best strategies to engage in the management of each project to be undertaken.
+| | -   Ensure the proper use of testing tools within the organization.
+| | -   Actively collaborate to produce nonfunctional viewing requirements and testing strategies involved to measure.
+| | -   Know how to measure the testing results to compare this information with the expectations of the product architecture delivered
+| **CITA -- Professional** |
 
--   Involve configuration management and test automation as needed to reduce timeboxes side project SDLCs.
--   Involve best techniques practices inside software development cycles and justify it.
--   Collaboration with the product testing team to define the best strategies to engage in the management of each project to be undertaken.
--   Ensure the proper use of testing tools within the organization.
--   Actively collaborate to produce nonfunctional viewing requirements and testing strategies involved to measure.
--   Know how to measure the testing results to compare this information with the expectations of the product architecture delivered
-
- |
-| **CITA -- Professional** |\
- |
-
-### **Test Improvement and Financials**
+## Test Improvement and Financials
 
 Related with the capability to apply testing techniques in each of the projects of the company, and ensuring that a testability level is achieved for the proposed architecture in financial terms.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |\
- |
-| **CITA -- Associate** |\
- |
-| **CITA -- Specialist** |\
- |
-| **CITA -- Professional** |
+| **CITA- Foundation** |
+| **CITA -- Associate** |
+| **CITA -- Specialist** |
+| **CITA -- Professional** | -   Learner knows the basis implications to include different sets of testing practices inside the development process.
+| | -   Standardize techniques and tools used at organization level.
+| | -   Decide for a project how much testing is enough including technical safety and business risks.
+| | -   Learner can demonstrate experience in defining a complete testing strategy for the project understanding the budget implications (Tradeoff between testing and its respective cost).
+| | -   confidence about the level of quality of previous developed products
+| | -   Understand the TCO involved in testing activities including activities, tools and support for the evolution lf the product.
+| | -   Adherence to organizational standards, best practices and policies of testing within the SDLC
 
--   Learner knows the basis implications to include different sets of testing practices inside the development process.
--   Standardize techniques and tools used at organization level.
--   Decide for a project how much testing is enough including technical safety and business risks.
--   Learner can demonstrate experience in defining a complete testing strategy for the project understanding the budget implications (Tradeoff between testing and its respective cost).
--   confidence about the level of quality of previous developed products
--   Understand the TCO involved in testing activities including activities, tools and support for the evolution lf the product.
--   Adherence to organizational standards, best practices and policies of testing within the SDLC
+# Resources
 
- |
+**Articles:**
 
-Resources
-=========
+- IASA BTABoK
+[https://btabok.iasaglobal.org](https://btabok.iasaglobal.org){:target="_blank"}
 
-### **Articles:**
+- Software Architecture.
+[http://carlosreynoso.com.ar/archivos/arquitectura/Arquitectura-software.pdf](http://carlosreynoso.com.ar/archivos/arquitectura/Arquitectura-software.pdf){:target="_blank"}
 
--   IASA BTABoK
+- Testing introduction
+[http://www.fceia.unr.edu.ar/ingsoft/testing-intro-a.pdf](http://www.fceia.unr.edu.ar/ingsoft/testing-intro-a.pdf){:target="_blank"}
 
-<https://btabok.iasaglobal.org>
+- About agile architecture and C4 view/modeling
+[http://www.codingthearchitecture.com/](http://www.codingthearchitecture.com/){:target="_blank"}
 
--   Software Architecture.
+- About TDD Practice, pro's and con's
+[http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html){:target="_blank"}
 
-<http://carlosreynoso.com.ar/archivos/arquitectura/Arquitectura-software.pdf>
+- About Checklists and code review PSP practices
+[http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/){:target="_blank"}
 
--   Testing introduction
+- About micro-services, determinism, testing culture and testing maintenance
+[http://martinfowler.com/articles/microservice-testing/](http://martinfowler.com/articles/microservice-testing/){:target="_blank"}
 
-<http://www.fceia.unr.edu.ar/ingsoft/testing-intro-a.pdf>
+[http://martinfowler.com/articles/nonDeterminism.html](http://martinfowler.com/articles/nonDeterminism.html){:target="_blank"}
 
--   About agile architecture and C4 view/modeling
+[http://martinfowler.com/articles/testing-culture.html](http://martinfowler.com/articles/testing-culture.html){:target="_blank"}
 
-<http://www.codingthearchitecture.com/>
+[http://martinfowler.com/bliki/TestPyramid.html](http://martinfowler.com/bliki/TestPyramid.html){:target="_blank"}
 
--   About TDD Practice, pro's and con's
+- Apply the appropriate testing method according the project scope
 
-<http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html>
+[http://context-driven-testing.com/](http://context-driven-testing.com/){:target="_blank"}
 
--   About Checklists and code review PSP practices
+- Test architect
 
-<http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/>
+[https://blogs.oracle.com/johnmorrison/entry/test_architect](https://blogs.oracle.com/johnmorrison/entry/test_architect){:target="_blank"}
 
--   About micro-services, determinism, testing culture and testing maintenance
+- BI and DW testing
 
-<http://martinfowler.com/articles/microservice-testing/>
+[https://msdn.microsoft.com/en-us/library/gg248101.aspx](https://msdn.microsoft.com/en-us/library/gg248101.aspx){:target="_blank"}
 
-<http://martinfowler.com/articles/nonDeterminism.html>
+- Ministry of testing
 
-<http://martinfowler.com/articles/testing-culture.html>
+[http://www.ministryoftesting.com](http://www.ministryoftesting.com){:target="_blank"}
 
-<http://martinfowler.com/bliki/TestPyramid.html>
+[http://www.ministryoftesting.com/wp-content/uploads/2013/06/TTP8.pdf](http://www.ministryoftesting.com/wp-content/uploads/2013/06/TTP8.pdf){:target="_blank"}
 
--   Apply the appropriate testing method according the project scope
+**Blogs / Webcasts / News / Reference Resources:**
 
-<http://context-driven-testing.com/>
+- SEI Quality Attribute Workshop and its ATAM relationship
+[http://www.sei.cmu.edu/reports/03tr016.pdf](http://www.sei.cmu.edu/reports/03tr016.pdf){:target="_blank"}
 
--   Test architect
+- Software architecture in practice (3rd)
+[http://www.amazon.com/Software-Architecture-Practice-Edition-Engineering/dp/0321815734](http://www.amazon.com/Software-Architecture-Practice-Edition-Engineering/dp/0321815734){:target="_blank"}
 
-<https://blogs.oracle.com/johnmorrison/entry/test_architect>
+- Engineering Long-Lasting Software: An Agile Approach Using SaaS and Cloud Computing, Beta Edition
+[http://amzn.com/0984881212](http://amzn.com/0984881212){:target="_blank"}
 
--   BI and DW testing
+- Software testing adventure reference poster
+[https://sites.google.com/site/swtestingmap/stadventure](https://sites.google.com/site/swtestingmap/stadventure){:target="_blank"}
 
-<https://msdn.microsoft.com/en-us/library/gg248101.aspx>
+**Training/Standards/Certifications:**
 
--   Ministry of testing
+- Carnegie Mellon University / Personal software process PSP/TSP certification
+[http://www.sei.cmu.edu/reports/09sr018.pdf](http://www.sei.cmu.edu/reports/09sr018.pdf){:target="_blank"}
 
-<http://www.ministryoftesting.com>
+[http://seicertification.clearmodel.com/get-certified/software-development/](http://seicertification.clearmodel.com/get-certified/software-development/){:target="_blank"}
 
-<http://www.ministryoftesting.com/wp-content/uploads/2013/06/TTP8.pdf>
+- ISO-9126 & ISO-29119 software testing
+[http://www.softwaretestingstandard.org/](http://www.softwaretestingstandard.org/){:target="_blank"}
 
-### **Blogs/Webcasts/News/Reference Resources:**
+- International Software Testing Qualifications Board (ISQTB)
+[http://www.istqb.org/](http://www.istqb.org/){:target="_blank"}
 
--   SEI Quality Attribute Workshop and its ATAM relationship
-
-<http://www.sei.cmu.edu/reports/03tr016.pdf>
-
--   Software architecture in practice (3^rd^)
-
-<http://www.amazon.com/Software-Architecture-Practice-Edition-Engineering/dp/0321815734>
-
--   Engineering Long-Lasting Software: An Agile Approach Using SaaS and Cloud Computing, Beta Edition
-
-<http://amzn.com/0984881212>
-
--   Software testing adventure reference poster
-
-<https://sites.google.com/site/swtestingmap/stadventure>
-
-### **Training/Standards/Certifications:**
-
--   Carnegie Mellon University / Personal software process PSP/TSP certification
-
-<http://www.sei.cmu.edu/reports/09sr018.pdf>
-
-<http://seicertification.clearmodel.com/get-certified/software-development/>
-
--   ISO-9126 & ISO-29119 software testing
-
-<http://www.softwaretestingstandard.org/>
-
--   International Software Testing Qualifications Board (ISQTB)
-
-<http://www.istqb.org/>
-
-Author
-======
+# Author
 
 ![Andres Hurtado](media/a_hurtado.jpg)
-### **Andres Hurtado**
+## **Andres Hurtado**
 **Software Architect & Developer**
 
 Software architect and developer working inside private and public sectors. He has worked in Colombia, designing and implementing enterprise solutions and has over 14 years of experience in software development process, enterprise application integration and research about technologies to leverage the product development.

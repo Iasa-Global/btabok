@@ -10,8 +10,7 @@ tags:
   - business_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Strategy is any plan or method for achieving a particular goal or overall aim usually over a long period of time. While technology strategy is the overall plan consists of objectives, principles and tactics related to use and development of the technologies within a particular organization. Usually written down in a document, it can be implied from the organization's behaviors towards technology decisions which in the end confer advantage(s) to our organization.
 
@@ -19,8 +18,7 @@ Like any other strategy out there, it should be written and capitalized SMART (S
 
 On the other hand, innovation is the activity or process of introducing new or improved things such as an idea, concept or method. Therefore, technology innovation is the activity or process which new or improved technologies are developed and introduced.
 
-Overview
-========
+# Overview
 
 **Why does an architect need this skill?**
 
@@ -56,8 +54,7 @@ The Architect would be expected to be able to:
 -   Identify, analyze and recommend the most worth-doing architectural and or technological change as the consequence of accommodating technology strategy and innovation.
 -   Identify, analyze and propose future and transition architecture aligned with the directions revealed in technology strategy plan.
 
-Proven Practices
-================
+# Proven Practices
 
 **Describe why an architect should be involved in this skill at a corporate level**
 
@@ -81,10 +78,9 @@ Stakeholders can engage with the Architect at any stage in technology strategy p
 
 As an Architect, we are expected to be able to define a business objective, match technology to the business objectives of a project, identify a technology strategy that positively affects the entire organization, and lead the executive sponsors and business managers in defining IT strategy.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Strategy Planning**
+## Strategy Planning
 
 Define organization strategy plan that aligned with the business goals, objectives and directions by leading executive sponsors, business managers and other stakeholders throughout the development.
 
