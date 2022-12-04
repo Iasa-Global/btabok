@@ -124,9 +124,9 @@ Experience integrating testing practices within the development of projects arou
 | | -   Know how to evaluate software architectures
 | | -   Knows how to justify with data the implications of te4sting in software quality attributes measurement.
 | | -   Knows the potential benefits and risks to include and support tools for
-    -   Different strategies of testing specification, testing execution and result analysis.
-    -   To test harness and nonfunctional quality attributes
-    -   To support performance and monitoring
+| | -   Different strategies of testing specification, testing execution and result analysis.
+| | -   To test harness and nonfunctional quality attributes
+| | -   To support performance and monitoring
 | | -   Best practices according the project context
 | | -   Assume critical position regarding the status of the product and the evidence delivered over the performed testing.
 | | -   Know the benefits of testing in modifiability or maintenance of legacy software.
