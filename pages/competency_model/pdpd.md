@@ -10,14 +10,13 @@ tags:
   - quality_attributes
 ---
 
-Description
-===========
+# Description
 
 Demonstrated understanding of the expectations, process and management of IT products following the completion of development and prior to "normal" day-to-day operating conditions.\
 Techniques used and preferred for data conversion management, deployment strategies, documentation and training, user acceptance testing, and installation and maintenance planning.\
 Demonstrated competence in highest-priority management techniques.
 
-### **Expectations**
+## Expectations
 
 -   Can describe their approach to packaging and delivery
 -   Can describe how they modify the approaches they use to meet the needs of specific projects
@@ -26,49 +25,30 @@ Demonstrated competence in highest-priority management techniques.
 | Systems Installation and Decommissioning | The installation, testing, implementation or decommissioning and removal of hardware and appropriate software, following plans and instructions and in accordance with agreed standards. |
 | Release Management | The management of the processes, systems and functions to package, build, test and deploy changes and into the production environment establishing or continuing the specified Service, to enable controlled and effective handover to Operations. |
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### Packaging, Delivery, Post Deployment 
+## Packaging, Delivery, Post Deployment 
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Why is unattended deployment of a solution so important?
--   Why can application decommissioning/retirement deliver significant cost savings?
--   Name some installation software you are familiar with.
--   Name some issues with targeting and deployment to mobile platforms.
-
- |
-| **CITA -- Associate** |
-
--   What are current trends in application distribution, delivery and deployment?
--   Describe a guardrail, best practice or standard relevant for application packaging.
--   How do you deploy an application to a given PaaS platform?
-
- |
-| **CITA -- Specialist** |
-
--   When your solution retires in 10 years, how did you envision data access for reporting and regulatory compliance needs?
--   How much re-packaging would your solution require to make its installation SaaS-ready?
-
- |
-| **CITA -- Professional** |
-
--   How did you assure transactional installation, so administrator could roll it back completely if requested?
--   Who and when updated the CMDB with the new information?
-
- |
+| **CITA- Foundation** | -   Why is unattended deployment of a solution so important?
+| | -   Why can application decommissioning/retirement deliver significant cost savings?
+| | -   Name some installation software you are familiar with.
+| | -   Name some issues with targeting and deployment to mobile platforms.
+| **CITA -- Associate** | -   What are current trends in application distribution, delivery and deployment?
+| | -   Describe a guardrail, best practice or standard relevant for application packaging.
+| | -   How do you deploy an application to a given PaaS platform?
+| **CITA -- Specialist** | -   When your solution retires in 10 years, how did you envision data access for reporting and regulatory compliance needs?
+| | -   How much re-packaging would your solution require to make its installation SaaS-ready?
+| **CITA -- Professional** | -   How did you assure transactional installation, so administrator could roll it back completely if requested?
+| | -   Who and when updated the CMDB with the new information?
 
 Resources
-=========
 
-### **Articles:**
+**Articles:**
 
-### **Blogs/Webcasts/News/Reference Resources:**
+**Blogs/Webcasts/News/Reference Resources:**
 
-### **Training:**
+**Training:**
 
-### **Certifications:**
-
+**Certifications:**
