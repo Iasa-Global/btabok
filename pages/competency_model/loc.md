@@ -10,8 +10,7 @@ tags:
   - business_architecture
 ---
 
-Description
-===========
+# Description
 
 The current Era of globalization and accelerated Mergers and Acquisitions (M&A), has resulted in a constantly evolving business landscape. A recent survey by KPMG "2015 M&A outlook survey" concluded that "M&A emerges as the leading strategy for growth", in the first three quarters of 2014 5,843 deals were announced in the US with an estimated value of $ 1 trillion.
 
@@ -21,8 +20,7 @@ With so many changes happening to the dynamics of the work force, businesses in 
 
 Managing changes effectively is just as critical as accepting the change, sometimes changes can be pervasive in nature and can impact employees from entry level all the way to the senior leadership. Changes require a balancing act between achieving the transformation while ensuring steady work conditions to maintain day to day activities. This requires leadership at all levels and enterprise architects are critical part of the team that will institutionalize the change.
 
-Overview 
-========
+# Overview 
 
 Why Does an Architect need this Skill?
 
@@ -36,8 +34,7 @@ As defined above architects are key change agents, and are often critical to the
 
 Enterprise architects pool their domain knowledge with other skills such as leadership, persuasion, negotiation, communication and the ability to 'Sell' the value of particular option(s) to sponsors and key stakeholder so that their 'shared' vision can be realized.
 
-**Common tasks involved in this Skill.**
-----------------------------------------
+## Common tasks involved in this Skill.
 
 The architect will be involved in multiple facets of leading a change within an organization. Most critical part is for the architect to think of change in a holistic manner and apply standard change framework to the existing change.
 
@@ -51,12 +48,12 @@ The architect will be involved in multiple facets of leading a change within an 
 
 The first three tasks above are about creating a suitable environment for change, the next two steps are about engaging the whole organization in the process of change, and the final two steps is about tracking your change
 
-### **What is their Ownership in this skill?**
+## What is their Ownership in this skill?
 
 The architect(s) will lead the architectural aspect of the change, as well as guiding the change team in driving the change parameters. In larger organizations there might be multiple architects (as part of the enterprise architecture group) with different areas of expertise involved in this exercise. You might have infrastructure architecture addressing the core infrastructure solution and business architecture defining processes for the business needs to reach its goals. In smaller or even medium organizations the architect assigned to the project will perform all the aforementioned tasks
 
-**How is this skill used by the architect in daily activities?**
-----------------------------------------------------------------
+## How is this skill used by the architect in daily activities?
+
 
 The Architect would be expected to be able to:
 
@@ -69,8 +66,7 @@ The Architect would be expected to be able to:
 -   Ability to translate change to technical design or process design.
 -   Ability to manage processes and people throughout change.
 
-Proven Practices
-================
+# Proven Practices
 
 **Why an architect should be involved in this skill at a corporate level?**
 
@@ -80,67 +76,47 @@ Changes used to be sporadic and incremental. Workforce mobility, heightened glob
 
 EA are the catalyst for organizational change and the mediator between business and technology, as such they are tasked with aligning technology strategies with business goals and objectives.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   The Learner should be able to articulate the scope of the change.
+| | -   The learner should be able to evangelize the benefits of the change to create a receptive environment.
+| **CITA -- Associate** | -   The Learner is able to articulate the key considerations how the change is part of the corporate strategy.
+| | -   The Learner is able to speak to the different processes and interdependencies between these processes associated with the change.
+| | -   The learner is able to initiate the change.
+| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of how to lead an organizational change.
+| | -   The learner is able to translate central vision into a change initiative.
+| | -   The Learner is able to discuss architectural implications of the change on corporate environment.
+| | -   The leaner is able to articulate the discovery phase findings to various stockholders.
+| | -   The leaner is able to articulate cost implication of proposed change
+| **CITA -- Professional** | -   The Learner will have experience with delivering architectural programs leveraging complex environments.
+| | -   The Learner has experience developing and building transition plan through a successful change.
+| | -   The learner understand the dynamics and the culture of the organization and create the strategic plans to transition to the target state.
+| | -   The Learner is able to accelerate and focus the change.
+| | -   The leaner is able to work through VUCA (volatility, uncertainty, complexity and ambiguity). VUCA is a term derived from military vocabulary and subsequently applied to strategic leadership.
 
--   The Learner should be able to articulate the scope of the change.
--   The learner should be able to evangelize the benefits of the change to create a receptive environment.
+# Resources
 
- |
-| **CITA -- Associate** |
+[http://kpmgsurvey-ma.com/](http://kpmgsurvey-ma.com/){:target="_blank"}
 
--   The Learner is able to articulate the key considerations how the change is part of the corporate strategy.
--   The Learner is able to speak to the different processes and interdependencies between these processes associated with the change.
--   The learner is able to initiate the change.
+[http://en.wikipedia.org/wiki/Change_management](http://en.wikipedia.org/wiki/Change_management){:target="_blank"}
 
- |
-| **CITA -- Specialist** |
+[http://www.strategy-business.com/article/rr00006?gko=643d0](http://www.strategy-business.com/article/rr00006?gko=643d0){:target="_blank"}
 
--   The Learner will be able to demonstrate working knowledge of how to lead an organizational change.
--   The learner is able to translate central vision into a change initiative.
--   The Learner is able to discuss architectural implications of the change on corporate environment.
--   The leaner is able to articulate the discovery phase findings to various stockholders.
--   The leaner is able to articulate cost implication of proposed change
+[http://www.strategy-business.com/blog/Leading-Teams-through-Change-at-the-Speed-of-Business](http://www.strategy-business.com/blog/Leading-Teams-through-Change-at-the-Speed-of-Business){:target="_blank"}
 
- |
-| **CITA -- Professional** |
+[http://blog.delphix.com/ron/2014/07/03/cm-and-ea/](http://blog.delphix.com/ron/2014/07/03/cm-and-ea/){:target="_blank"}
 
--   The Learner will have experience with delivering architectural programs leveraging complex environments.
--   The Learner has experience developing and building transition plan through a successful change.
--   The learner understand the dynamics and the culture of the organization and create the strategic plans to transition to the target state.
--   The Learner is able to accelerate and focus the change.
--   The leaner is able to work through VUCA (volatility, uncertainty, complexity and ambiguity). VUCA is a term derived from military vocabulary and subsequently applied to strategic leadership.
+[https://en.wikipedia.org/wiki/Enterprise_architecture#cite_note-FEAPO-1](https://en.wikipedia.org/wiki/Enterprise_architecture#cite_note-FEAPO-1){:target="_blank"}
 
- |
+[http://events.asug.com/2011ac/2307_enterprise_architecture_and_organization_change_management.pdf](http://events.asug.com/2011ac/2307_enterprise_architecture_and_organization_change_management.pdf){:target="_blank"}
 
-Resources
-=========
-
-<http://kpmgsurvey-ma.com/>
-
-<http://en.wikipedia.org/wiki/Change_management>
-
-<http://www.strategy-business.com/article/rr00006?gko=643d0>
-
-<http://www.strategy-business.com/blog/Leading-Teams-through-Change-at-the-Speed-of-Business>
-
-<http://blog.delphix.com/ron/2014/07/03/cm-and-ea/>
-
-<https://en.wikipedia.org/wiki/Enterprise_architecture#cite_note-FEAPO-1>
-
-<http://events.asug.com/2011ac/2307_enterprise_architecture_and_organization_change_management.pdf>
-
-Author
-======
+# Author
 
 ![Nabeel Yousif](media/n_yousif.jpg)
-
-## **Nabeel Yousif**
-**Chief Architect, IT at Brinks Inc**
+**Nabeel Yousif**
+*Chief Architect, IT at Brinks Inc*
 
 Nabeel Yousif is the Chief Architect, IT for Brinks Inc, in his role Nabeel is responsible for defining Global infrastructure strategic roadmaps such as cloud initiatives, DRaaS and virtualization. Prior to assuming this role Nabeel was responsible for the global system engineering group within Brinks and the Canadian infrastructure team.
 

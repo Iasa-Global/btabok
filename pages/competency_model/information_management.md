@@ -10,8 +10,7 @@ tags:
   - information_architecture
 ---
 
-Description 
-===========
+# Description 
 
 **Information management** concerns a cycle of organisational activity: the acquisition of information from one or more sources, the ownership and the distribution of that information to those who need it, and ultimately archived or deleted.
 
@@ -19,8 +18,7 @@ Information is not constant and it keeps evolving.
 
 It's the valuable corporate asset for getting the right information; to the right people at the right time is a key management objective.
 
-Overview
-========
+# Overview
 
 'Information management' is an umbrella term that encompasses all the systems and processes within an organisation for the creation and use of corporate information.
 
@@ -46,8 +44,7 @@ The three sections help to answer other tough questions, too, such as:
 
 Each of these must be addressed if information management projects are to succeed.
 
-Proven Practices
-================
+# Proven Practices
 
 Information management practices is a key focus for many organisations, across both the public and private sectors.
 
@@ -60,8 +57,7 @@ A proven practice for information management involves following of set of princi
 5.  Identify and mitigate risks (avoid showing risky information , follow organisation compliance guidelines when showing sensitive information)
 6.  Aim to deliver long term and seamless user experience (Educate users on what is your objective, aim to provide users consistent look and feel of the information for easy readability)
 
-Practice: Maturity of Information management capability
--------------------------------------------------------
+## Practice: Maturity of Information management capability
 
 Effective information management does not come together all at once. Before adopting an approach, it is important to assess the current state maturity of the information management capability. Below is a diagram that depicts the Information Maturity models with 6 major miles stones: None, Initial, Managed, Standardized, Advanced, and Optimized.
 
@@ -101,8 +97,7 @@ Effective information management does not come together all at once. Before ado
 -   Information Management is a core business process and decisions are made with quantifiable benefit-cost-risk analysis
 -   Quantitative process-improvement objectives for the organization are firmly established and continually revised to reflect changing business objectives, and used as criteria in managing process improvement
 
-Related Capabilities
-====================
+# Related Capabilities
 
 **Human Dynamics** **:**[Leadership and Management](leadership_and_management.md){:target="_blank"}
 
@@ -112,11 +107,9 @@ Related Capabilities
 
 **Information Architecture:** [Information Governance and Management](igm.md){:target="_blank"}, [Information Value](information_value.md){:target="_blank"}, [Information Operations](information_operations.md){:target="_blank"}
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-Information Architecture :  Integration, Security, Quality and Governance
--------------------------------------------------------------------------
+## Information Architecture :  Integration, Security, Quality and Governance
 
 All sub-capabilities encompass a complete information management solution by leveraging technical and business processes to combine data from disparate sources into meaningful, secured and valuable information. A complete data management solution encompasses discovery, cleansing, monitoring, transforming and delivery of data from a variety of sources.
 
@@ -127,60 +120,39 @@ All sub-capabilities encompass a complete information management solution by lev
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to:
+| | -   Understand the purpose of information, policies, operational and reporting needs of a organisation.
+| **CITA -- Associate** | -   Learner will be able to:
+| | -   Run brainstorming meetings with stakeholders to estimate value of information and gather concerns, views from functional, operational, delivery and business value viewpoints.
+| | -   Generate Information metrics and articulate the context, content and business value of the data.
+| | -   Prioritise and Implement plans to support information management projects and initiatives
+| **CITA -- Specialist** | -   Learner will be able to:
+| | -   Create Impact on organisational information management policies and practices .
+| | -   Advise and recommend best practices and techniques for Information management. To delivery sustainable and long term information management model.
+| **CITA -- Professional** | -   Learner will be able to:
+| | -   Work across multiple organisations and tailor information management techniques based on enterprise needs.
+| | -   Justify the needs for best information management practices.
 
--   Learner will be able to:
 
-    -   Understand the purpose of information, policies, operational and reporting needs of a organisation.
+# Resources
 
- |
-| **CITA -- Associate** |
+**Books:**
 
--   Learner will be able to:
-
-    -   Run brainstorming meetings with stakeholders to estimate value of information and gather concerns, views from functional, operational, delivery and business value viewpoints.
-    -   Generate Information metrics and articulate the context, content and business value of the data.
-    -   Prioritise and Implement plans to support information management projects and initiatives
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to:
-
-    -   Create Impact on organisational information management policies and practices .
-    -   Advise and recommend best practices and techniques for Information management. To delivery sustainable and long term information management model.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to:
-
-    -   Work across multiple organisations and tailor information management techniques based on enterprise needs.
-    -   Justify the needs for best information management practices.
-
- |
-
-Resources
-=========
-
-### Books:
-
-[Information Architecture for the World Wide Web, 4th Edition](https://www.safaribooksonline.com/library/view/information-architecture-for/9781491913529/) by Louis Rosenfeld; Jorge Arango; Peter Morville *Published by O'Reilly Media, Inc., 2015*
+[Information Architecture for the World Wide Web, 4th Edition](https://www.safaribooksonline.com/library/view/information-architecture-for/9781491913529/){:target="_blank"} by Louis Rosenfeld; Jorge Arango; Peter Morville *Published by O'Reilly Media, Inc., 2015*
 
 Patterns of Information Management -- by Mandy Chessell, Amanda Chessell, Harald C. Smith Publisher: IBM Press, *Release Date: May 2013* ISBN: 9780133155501
 
-http://www.dama.org/sites/default/files/download/DAMA-DMBOK_Functional_Framework_v3_02_20080910.pdf
+[http://www.dama.org/sites/default/files/download/DAMA-DMBOK_Functional_Framework_v3_02_20080910.pdf](http://www.dama.org/sites/default/files/download/DAMA-DMBOK_Functional_Framework_v3_02_20080910.pdf){:target="_blank"}
 
-### Articles:
+**Articles:**
 
-http://www.oracle.com/technetwork/articles/entarch/oea-best-practices-data-gov-400760.pdf
+[http://www.oracle.com/technetwork/articles/entarch/oea-best-practices-data-gov-400760.pdf](http://www.oracle.com/technetwork/articles/entarch/oea-best-practices-data-gov-400760.pdf){:target="_blank"}
 
-Author
-======
+# Author
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
-## **Jaya Mudugal**
-**Information & Solution Architect**
+**Jaya Mudugal**
+*Information & Solution Architect*
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\
 Proven mentor and trainer and can adapt quickly to the organisation's objectives and needs.

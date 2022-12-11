@@ -12,13 +12,9 @@ tags:
 
 # Description
 
-  
-
 Data integration involves combining data from disparate sources so that business users and downstream systems can utilize the data in a unified way. This may sound simple but in reality data integration architecture is a broad and complicated discipline, one which requires a solid understanding of several areas including the business domain, the data models involved and the various data integration technologies and products which are available.
 
 # Overview
-
-  
 
 Integration Architecture is a specialization with many dedicated integration architects however all IT architects should have a good understanding of the basic design principles involved in data integration.
 
@@ -71,8 +67,6 @@ Scope of Data Integration:
 
 # Proven Practices
 
-  
-
 *   Data integration projects generally take longer than expected due to unforeseen complexities, plan carefully and try not to underestimate the effort involved.
 *   Get a clear understanding of the data mapping requirements as early as possible in a project.
 *   Data integration projects are often prerequisites for larger projects, ensure that all stakeholders are kept up to date on progress as any delays will have knock on affects.
@@ -80,9 +74,7 @@ Scope of Data Integration:
 
 # Sub-Capabilities
 
-  
-
-### **Data Mapping & Transformation**
+## Data Mapping & Transformation
 
 One of the most important parts of any data integration project is the data mapping exercise. The source and destination data stores will usually have different data models, a data mapping defines how the source data elements map to the destination data elements.
 
@@ -112,7 +104,7 @@ Other things to watch out for:
 *   **CITA – Professional** Learner will be able to mentor others is data mapping.
 *   Learner will be able to review the output of a data mapping exercise, highlighting any problem areas.
 
-### **Extract, Transform and Load (ETL) Design**
+## Extract, Transform and Load (ETL) Design
 
 The ETL process involves the extraction of data from a source data store or stores, transforming the data into the desired data model and finally loading the data into the destination data store.
 
@@ -144,7 +136,7 @@ Incremental integration or data synchronization can be any one of the following 
 
 Update Notification is the preferred method (if available) when near real time performance is required however there is generally a need to run the bulk load job on occasion (on an off-peak schedule) to ensure that the data is fully synchronized. There are always cases where notifications cannot be processed, are received in the wrong order or are lost for some reason so running the bulk load integration brings the data back in sync.
 
-### **Other ETL Design Considerations**
+## Other ETL Design Considerations
 
 **Merging Data**
 
@@ -177,7 +169,7 @@ ETL jobs are usually run on a schedule and they will fail from time to time, un
 *   **CITA – Professional** Learner will be able to scope and plan an ETL project.
 *   Learner will be able to mentor others in ETL design.
 
-### **Enterprise Application Integration Design**
+## Enterprise Application Integration Design
 
 While the ETL process is about consolidating data from many sources into one, Enterprise Application Integration, or EAI, is about distributing data between two or more systems. Data exchanged using EAI is often transactional and related to an event in a business process or the distribution of master data. EAI includes message broker and [enterprise service bus (ESB)](https://en.wikipedia.org/wiki/Enterprise_service_bus){:target="_blank"} technologies.
 
@@ -187,7 +179,7 @@ As the number of data exchanges or data integration points in a company grows so
 
 A loosely coupled approach to data integration is preferable as it minimizes application dependencies in terms of availability, location, technology and data format. A loosely coupled architecture can be achieved by using a combination of [EAI design patterns](http://www.enterpriseintegrationpatterns.com/eaipatterns.html){:target="_blank"} and middle-ware products as implementation building blocks.
 
-### **Design Considerations**
+## Design Considerations
 
 **Messaging**
 
@@ -226,7 +218,7 @@ A typical use case for EDI is when an external supplier sends an Advance Shippin
 *   Learner can distinguish between different messaging middle-ware.
 *   Learner can select middle-ware products for A2A and B2B integration.
 
-### **Data Virtualization & Data Federation**
+## Data Virtualization & Data Federation
 
 Data virtualization is the process of offering data consumers a data access interface which hides the technical aspects of stored data, such as location, storage structure, access language, and storage technology.
 
@@ -254,36 +246,30 @@ With a federation server, multiple data stores can be made to look as one. Consu
 
 # Related Capabilites
 
-  
-
 *   [Information Management](information_management.md){:target="_blank"}
 *   [Information Modeling](information_modeling.md){:target="_blank"}
 *   [Information Usage](information_usage.md){:target="_blank"}
 
 # Resources
 
-  
-
-*   [Extract, Transform, Load](http://en.wikipedia.org/wiki/Extract,_transform,_load) (Wikipedia)
-*   [http://www.dataintegration.info/](http://www.dataintegration.info/)
-*   [http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf](http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf)
-*   [http://www.enterpriseintegrationpatterns.com/eaipatterns.html](http://www.enterpriseintegrationpatterns.com/eaipatterns.html)
-*   [http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html](http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html)
-*   [http://www.enterpriseintegrationpatterns.com/docs/EDA.pdf](http://www.enterpriseintegrationpatterns.com/docs/EDA.pdf)
-*   [http://en.wikipedia.org/wiki/Comparison\_of\_business\_integration\_software](http://en.wikipedia.org/wiki/Comparison_of_business_integration_software)
-*   [http://en.wikipedia.org/wiki/Advance\_ship\_notice](http://en.wikipedia.org/wiki/Advance_ship_notice)
-*   [Federated database system](https://en.wikipedia.org/wiki/Federated_database_system) (Wikipedia)
-*   [Clearly Defining Data Virtualization, Data Federation, and Data Integration](http://www.b-eye-network.com/view/14815)
+*   [Extract, Transform, Load](http://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} (Wikipedia)
+*   [http://www.dataintegration.info/](http://www.dataintegration.info/){:target="_blank"}
+*   [http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf](http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf){:target="_blank"}
+*   [http://www.enterpriseintegrationpatterns.com/eaipatterns.html](http://www.enterpriseintegrationpatterns.com/eaipatterns.html){:target="_blank"}
+*   [http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html](http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html){:target="_blank"}
+*   [http://www.enterpriseintegrationpatterns.com/docs/EDA.pdf](http://www.enterpriseintegrationpatterns.com/docs/EDA.pdf){:target="_blank"}
+*   [http://en.wikipedia.org/wiki/Comparison\_of\_business\_integration\_software](http://en.wikipedia.org/wiki/Comparison_of_business_integration_software){:target="_blank"}
+*   [http://en.wikipedia.org/wiki/Advance\_ship\_notice](http://en.wikipedia.org/wiki/Advance_ship_notice){:target="_blank"}
+*   [Federated database system](https://en.wikipedia.org/wiki/Federated_database_system){:target="_blank"} (Wikipedia)
+*   [Clearly Defining Data Virtualization, Data Federation, and Data Integration](http://www.b-eye-network.com/view/14815){:target="_blank"}
 
 # Authors
 
-  
-
 ![Declan Bright](media/declan_bright.jpg)
-## **Declan Bright**
-**Chief Software Architect**
+**Declan Bright**
+*Chief Software Architect*
 
-Declan Bright is a Chief Software Architect based in Dublin, Ireland. He has worked in the IT industry since 1999, primarily within the aviation, telecommunications and financial services sectors and has extensive experience in the design and implementation of enterprise solutions. Areas of specialisation include system integration, system evolution, user experience and analytics.  [www.declanbright.com](http://www.declanbright.com)
+Declan Bright is a Chief Software Architect based in Dublin, Ireland. He has worked in the IT industry since 1999, primarily within the aviation, telecommunications and financial services sectors and has extensive experience in the design and implementation of enterprise solutions. Areas of specialisation include system integration, system evolution, user experience and analytics.  [www.declanbright.com](http://www.declanbright.com){:target="_blank"}
 
-## **John Kaber**
-**IT Architect – Volvo IT**
+**John Kaber**
+*IT Architect – Volvo IT*
