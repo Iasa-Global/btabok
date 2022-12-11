@@ -10,15 +10,13 @@ tags:
   - infrastructure_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Provisioning is a process that focuses on enabling the services defined within a service catalog as per the agreed service level agreements driven through a combination of tools, technologies and processes. Typically, the provisioning process includes the orchestration of business processes, IT processes and service management processes working in tandem to aggregate, deploy and make the services available as per the service definition.
 
 IT Infrastructure provisioning involves the deployment of IT foundational services -- the server, storage, network and associated services including load balancers, security keys, access methods, etc. Over the last few years, with the wide adoption of virtualization technologies across the enterprises has opened up avenues for automated and dynamic provisioning of the foundational services. With enterprises embracing agile development methodologies and cloud services maturing, the solutions that encompass dynamic and automated on-demand IT provisioning methodologies are being architected to meet the agility demands and to deliver optimal value.
 
-Overview
-========
+# Overview
 
 Why Does an Architect need this Skill?
 
@@ -52,8 +50,7 @@ In addition, the agile project delivery methodologies and *Devops* revolution dr
 
 Being cognizant of the different aspects of provisioning and dependent components will allow the solution architect to articulate the importance and the need for an end to end solution both at a tactical and a strategic level. The level of knowledge and understanding will depend on the architect's capabilities in the infrastructure area, understanding of enterprise policies and methodologies leveraged for orchestration and automation between various components and processes.
 
-Proven Practices
-================
+# Proven Practices
 
 **Common tasks involved in this skill**
 
@@ -88,57 +85,38 @@ The Architect would be expected to be able to:
 
 An architect is responsible for linking technology decisions with business strategy. Provisioning of IT infrastructure with growing demands of swiftness and multitude of platforms being available requires careful architecting and designing of solutions that are enterprise grade. It is imperative that IT support the business demands and a solution or enterprise architect is uniquely positioned to bridge the gap between business requirements and technical feasibilities.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Provisioning**
+## Provisioning
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   The Learner should be able to identify the key requirements for the provisioning design
+| | -   The Learner should be able to identify various enterprise processes involved in provisioning
+| **CITA -- Associate** | -   The Learner should be able to identify various sub processes and components involved in provisioning
+| | -   The Learner should be able to articulate various provisioning methodologies -- Dynamic provisioning, Automated/Policy driven provisioning
+| | -   The Learner is able to articulate the key considerations in the design
+| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of different design considerations
+| | -   The Learner is able to design the solution including the orchestration between various components involved in provisioning
+| | -   The Learner is able to customize the design to include or exclude various components to meet the requirements
+| | -   The leaner is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options
+| **CITA -- Professional** | -   The professional will be able to understand various technology disruptions like auto-scaling, varied delivery models like developer defined infrastructure, etc. and propose approaches and solutions that can scale for enterprise consumption
+| | -   The Learner will have experience with delivering provisioning solutions leveraging complex environments, processes and can discuss working with engineering and operational teams
 
--   The Learner should be able to identify the key requirements for the provisioning design
--   The Learner should be able to identify various enterprise processes involved in provisioning
+# Resources
 
- |
-| **CITA -- Associate** |
+**Articles:**
 
--   The Learner should be able to identify various sub processes and components involved in provisioning
--   The Learner should be able to articulate various provisioning methodologies -- Dynamic provisioning, Automated/Policy driven provisioning
--   The Learner is able to articulate the key considerations in the design
+[http://pubs.opengroup.org/architecture/togaf9-doc/arch/](http://pubs.opengroup.org/architecture/togaf9-doc/arch/){:target="_blank"}
 
- |
-| **CITA -- Specialist** |
+**Training:**
 
--   The Learner will be able to demonstrate working knowledge of different design considerations
--   The Learner is able to design the solution including the orchestration between various components involved in provisioning
--   The Learner is able to customize the design to include or exclude various components to meet the requirements
--   The leaner is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options
+**Certifications:**
 
- |
-| **CITA -- Professional** |
-
--   The professional will be able to understand various technology disruptions like auto-scaling, varied delivery models like developer defined infrastructure, etc. and propose approaches and solutions that can scale for enterprise consumption
--   The Learner will have experience with delivering provisioning solutions leveraging complex environments, processes and can discuss working with engineering and operational teams
-
- |
-
-Resources
-=========
-
-### **Articles:**
-
-### http://pubs.opengroup.org/architecture/togaf9-doc/arch/
-
-### **Training:**
-
-### **Certifications:**
-
-Author
-======
+# Author
 
 ![Chandra](media/Chandra.jpg)
-## **Chandra Sekhar Allaka** 
+**Chandra Sekhar Allaka** 
 
 Is a TOGAF 9.1 certified Architect with more than 12 years of experience in consulting, design and delivery across vertical industries, specializing on Solutions Architecture (SA). He has been actively working on Cloud, IT Automation and Transformation solutions. Passionate and seasoned technologist with core focus on Consulting, Strategy Definition, Design and Delivery of business value added strategic technology solutions and Processes
 

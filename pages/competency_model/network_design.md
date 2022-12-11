@@ -10,25 +10,21 @@ tags:
   - infrastructure_architecture
 ---
 
-Description
-===========
+# Description
 
 Network design is part of overall infrastructure design initiatives that deals with providing architectural framework for multiple layers of the data/voice network, starting at the core layer and extending to the end user. With the convergence of various technologies such as voice and data and increased complexity of the modern infrastructure, scalable internetworking design is critical to the operations of any organization.
 
 In today's internet based economy, instant access to information, anytime, anywhere is critical to the success of the organization and its knowledge workers, irrespective of size. With these requirements and the pervasive nature of IT in the modern organization, it is no longer acceptable to connect a number of networking equipment together without proper architecture.
 
-Overview
-========
+# Overview
 
-**Why Does an Architect need this Skill?**
-------------------------------------------
+## Why Does an Architect need this Skill?
 
 IT is often tasked with creating architectural plans for different stacks of technologies either related to specific projects or as a part of the foundational infrastructure. IT architects being the focal point of IT delivery frame work, as such it is imperative they have a broad spectrum of IT skill sets, including an understanding of different aspects of network technologies and the ability to drive a scalable network design.
 
 Having the proper knowledge and understanding of the different aspects of network design will allow the architect to articulate the importance and the need for such an exercise both on a tactical and a strategic level. The level of knowledge and understanding will depend on the architect's area of speciality, for example an infrastructure architect should have more knowledge in the area of network design than a data architect.
 
-**Common tasks involved in this Skill.**
-----------------------------------------
+## Common tasks involved in this Skill.
 
 The architect will be involved in multiple phases of network design
 
@@ -41,13 +37,11 @@ The architect will be involved in multiple phases of network design
 -   Assist through the deployment phase of the project, during this step the engineering team will deploy the solution as per design document. The architect should monitor and evaluate the deployment to ensure that it meets defined design and modify procedure or architecture if deemed necessary.
 -   The architect need to ensure that the design document is included as part of the project/initiative artifacts. Such information should be readily available for reference by various engineering groups.
 
-**What is their Ownership in this skill?**
-------------------------------------------
+## What is their Ownership in this skill?
 
 The architect(s) will lead the architectural aspect of the network design, as well as guiding the organization with vendor selection and negotiation. In larger organizations there might be multiple architects with different areas of expertise involved in network design, you might have a capacity architect addressing bandwidth analysis and sizing questions, infrastructure architecture addressing the core design solution and a solution or enterprise architect addressing the overall solution. In smaller or even medium sized organizations the architect assigned to the project will perform all the aforementioned tasks
 
-**How is this skill used by the architect in daily activities?**
-----------------------------------------------------------------
+## How is this skill used by the architect in daily activities?
 
 The Architect would be expected to be able to:
 
@@ -60,62 +54,41 @@ The Architect would be expected to be able to:
 
 Knowledge of total cost of ownership modeling as it pertains to IT investments
 
-Proven Practices
-================
+# Proven Practices
 
 **Describe why an architect should be involved in this skill at a corporate level?**
 
 An architect is responsible for linking technology decisions with business strategy. It is increasingly evident that technology and the business cannot operate independently and there is a paradigm shift from perceiving IT as a cost center to IT as a business enabler. Solution or enterprise architect is uniquely positioned to bridge the gap between business requirements and technical reality.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-Voice, video design
--------------------
+## Voice, video design
 
 With convergence of data, voice and video into a single network usually referred to as "network convergence", it is critical that architects understand the interaction of theses service offerings.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   The Learner should be able to identify the key requirements for the network design.
+| **CITA -- Associate** | -   The Learner is able to articulate the key considerations in the design including Quality of service (QoS) consideration for voice networks.
+| | -   The Learner is able to speak to the different processes and interdependencies between these services
+| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of different design considerations.
+| | -   The Learner is able to discuss the architectural implications of voice and video, including capacity planning, data and networking implications
+| | -   The leaner is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
+| **CITA -- Professional** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
+| | -   The Learner has an ability to change their network design based on further discussion with different stakeholders.
+| | -   The Learner has the ability to deliver the design to business stakeholders in none technical fashion.
 
--   The Learner should be able to identify the key requirements for the network design.
+# Resources
 
- |
-| **CITA -- Associate** |
+[http://en.wikipedia.org/wiki/Enterprise_architect](http://en.wikipedia.org/wiki/Enterprise_architect){:target="_blank"}
 
--   The Learner is able to articulate the key considerations in the design including Quality of service (QoS) consideration for voice networks.
--   The Learner is able to speak to the different processes and interdependencies between these services
+[http://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Aug2014/CVD-DataCenterDesignGuide-AUG14.pdf](http://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Aug2014/CVD-DataCenterDesignGuide-AUG14.pdf){:target="_blank"}
 
- |
-| **CITA -- Specialist** |
-
--   The Learner will be able to demonstrate working knowledge of different design considerations.
--   The Learner is able to discuss the architectural implications of voice and video, including capacity planning, data and networking implications
--   The leaner is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
-
- |
-| **CITA -- Professional** |
-
--   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
--   The Learner has an ability to change their network design based on further discussion with different stakeholders.
--   The Learner has the ability to deliver the design to business stakeholders in none technical fashion.
-
- |
-
-Resources
-=========
-
-http://en.wikipedia.org/wiki/Enterprise_architect.
-
-http://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Aug2014/CVD-DataCenterDesignGuide-AUG14.pdf.
-
-Author
-======
+# Author
 
 ![Nabeel Yousif](media/n_yousif.jpg)
-## **Nabeel Yousif**
-**Chief Architect, IT at Brinks Inc**
+**Nabeel Yousif**
+*Chief Architect, IT at Brinks Inc*
 
 Nabeel Yousif is the Chief Architect, IT for Brinks Inc, in his role Nabeel is responsible for defining Global infrastructure strategic roadmaps such as cloud initiatives, DRaaS and virtualization. Prior to assuming this role Nabeel was responsible for the global system engineering group within Brinks and the Canadian infrastructure team.
 
