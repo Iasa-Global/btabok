@@ -90,7 +90,7 @@ Please note -- The adoption of maturity model and demonstrating its worth as a 
 # Sub-Capabilities
 
 
-## **Information Delivery : Reporting, Dashboards and Adhoc query**
+## Information Delivery : Reporting, Dashboards and Adhoc query
 
 Enables users to share and discuss information, analysis, analytic content and decisions via discussion threads, chat and annotations.
 
@@ -102,28 +102,12 @@ Enables users to share and discuss information, analysis, analytic content and d
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
--   Learner will be able
-
- |
-| **CITA -- Associate** |
-
--   Start list items here...
-
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-## **Information Integration : Infrastructure, Metadata, Data Modelling, Data lineage, Development and Deployment.**
+## Information Integration : Infrastructure, Metadata, Data Modelling, Data lineage, Development and Deployment.
 
 -   **BI Infrastructure:** How the platform/content can be integrated with complementary BI capabilities such as portals, databases, business process management, complex-event processing engines, Hadoop distributions, search engines and social platforms.
 -   **Integrated semantic/metadata layer:** How many different metadata/semantic layers exist in the platform? Is there a single metadata layer for all platform tools?
@@ -134,28 +118,12 @@ Enables users to share and discuss information, analysis, analytic content and d
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
--   Start list items here...
-
- |
-| **CITA -- Associate** |
-
--   Start list items here...
-
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-## **Information Analysis : Interactivity, User Experience, Visualisations, Authoring, In-memory interactivity**
+## Information Analysis : Interactivity, User Experience, Visualisations, Authoring, In-memory interactivity
 
 -   **Interactivity and exploration:** How does the product support visual interaction with content such as dragging and dropping what users want to see, or selecting a data point to get additional detail? Can users perform analysis tasks --- including sort, drill and pivot --- by simply interacting with visual images or using drag-and-drop manipulation?
 -   **User experience:** What tutorials, online information, help, wizards, contextual aids, preferences, and communities are available to support the user?
@@ -165,46 +133,29 @@ Enables users to share and discuss information, analysis, analytic content and d
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Start list items here...
-
- |
-| **CITA -- Associate** |
-
--   Start list items here...
-
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
 # Resources
 
-## Articles:
+**Articles:**
 
 [https://en.wikipedia.org/wiki/Business_intelligence](https://en.wikipedia.org/wiki/Business_intelligence){:target="_blank"}
 [https://en.wikipedia.org/wiki/Data_warehouse](https://en.wikipedia.org/wiki/Data_warehouse){:target="_blank"}
 [https://tdwi.org/pages/maturity-model/analytics-maturity-model-assessment-tool.aspx](https://tdwi.org/pages/maturity-model/analytics-maturity-model-assessment-tool.aspx){:target="_blank"}
 [http://www.informationbuilders.com/products/webfocus/pdf/Gartner_BI_Matrix.pdf](http://www.informationbuilders.com/products/webfocus/pdf/Gartner_BI_Matrix.pdf){:target="_blank"}
 
-## Blogs/Webcasts/News/Reference Resources:
+**Blogs / Webcasts / News / Reference Resources:**
 
 [http://www.jamesserra.com/archive/2013/06/business-intelligence-maturity-assessment/](http://www.jamesserra.com/archive/2013/06/business-intelligence-maturity-assessment/){:target="_blank"}
 [https://biguru.wordpress.com/2012/01/08/bi-maturity-models/](https://biguru.wordpress.com/2012/01/08/bi-maturity-models/){:target="_blank"}
 
 # Authors
 
-
 ![Andres Hurtado](media/a_hurtado.jpg)
-## Andres Hurtado
+**Andres Hurtado**
 *Software Architect & Developer*
 
 Software architect and developer working inside private and public sectors. He has worked in Colombia, designing and implementing enterprise solutions and has over 14 years of experience in software development process, enterprise application integration and research about technologies to leverage the product development.
