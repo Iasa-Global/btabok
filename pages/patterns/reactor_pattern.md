@@ -22,6 +22,6 @@ It allows for extremely fast concurrency. At trivial loads, reactor-based system
 
 Reactor underpins extremely common libraries such as libevent, twisted, node.js, eventmachine, Reactor (Java), Flux, nginx (via libevent)
 
-## **References**
+## References
 
 *   Article on DZone: [https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve](https://dzone.com/articles/understanding-reactor-pattern-thread-based-and-eve){:target="_blank"}

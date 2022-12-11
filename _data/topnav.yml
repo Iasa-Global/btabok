@@ -19,7 +19,7 @@ topnav_dropdowns:
           url: get_started_m.html
         - title: Manifesto
           url: manifesto.html
-        - title: Engagemente Model
+        - title: Engagement Model
           url: engagement_models_m.html
         - title: Competency Model
           url: competency_model_m.html
