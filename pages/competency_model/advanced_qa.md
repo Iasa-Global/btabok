@@ -1,4 +1,4 @@
----
+--
 title: "Advanced Quality Attributes"
 keywords: 
 sidebar: mydoc_sidebar
@@ -8,10 +8,9 @@ folder: competency_model
 summary: "Requirements are not sufficient to develop architecturally good software."
 tags:
   - software_architecture
----
+--
 
 # Description
- 
 
 **Q**uality **A**ttributes (QA), though a non-functional requirement, cannot be explained without functional requirements. Since differing focus on Quality Attributes lead to difference in software architecture even though the requirements remain same, it is more meaningful to call these 'non-functional' requirements as 'extra-functional' requirements.
 
@@ -25,7 +24,6 @@ Learner must be through various QAs and its definitions and primary applicabilit
 -   How to enable decision making using QA cost and benefits?
 
 # Overview
-
 
 Requirements are not sufficient to develop architecturally good software. Different architects would produce a different architecture for the same requirements. An architect who had elicited and understood Quality Attributes well can have a better architecture than the others.  Additionally, one who had understood underpinning of quality attributes with other QAs can have a much better architecture.
 
@@ -189,150 +187,78 @@ The process explained above is called Cost Benefit Analysis Method (CBAM).
 Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:target="_blank"}
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to define Quality Attribute
-
---          Learner will be able to define various Quality Attribute e.g. Security, Performance, Manageability, Usability etc.
-
---          Learner will be able to compare and contrast Quality Attribute and requirements
-
---          Learner will be able to reason why Discovery of Quality Attribute is important
-
---
-
- |
-| **CITA -- Associate** | --          Learner will be able to define ASR
-
---          Learner will be able to list common methods of identifying ASR
-
---          Learner will be able to define **P**edigreed **A**ttribute e**L**icitation **M**ethod (PALM)
-
---          Learner will be able to list out benefits of PALM
-
- |
-| **CITA -- Specialist** | --          Learner will be able to list out major design decision categories to group requirement under to be specified as ASRs
-
---          Learner will be able to list out steps involved in carrying out QAW
-
---          Learner will be able to reason why business goals are important for Quality Attribute Discovery
-
---          Learner will be able to list out important business goal categories
-
- |
-| **CITA -- Professional** | --          Learner will be able to identify challenges in identifying 'important' stakeholders?
-
---          Learner will be able to provide information on why Architectural Plan presentation is important in a QAW
-
---          Learner will be able to identify when to use which method -- PALM , QAW
-
- |
+| **CITA - Foundation** | - Learner will be able to define Quality Attribute
+| | - Learner will be able to define various Quality Attribute e.g. Security, Performance, Manageability, Usability etc.
+| | - Learner will be able to compare and contrast Quality Attribute and requirements
+| | - Learner will be able to reason why Discovery of Quality Attribute is important
+| **CITA - Associate** | - Learner will be able to define ASR
+| | - Learner will be able to list common methods of identifying ASR
+| | - Learner will be able to define **P**edigreed **A**ttribute e**L**icitation **M**ethod (PALM)
+| | - Learner will be able to list out benefits of PALM
+| **CITA - Specialist** | - Learner will be able to list out major design decision categories to group requirement under to be specified as ASRs
+| | - Learner will be able to list out steps involved in carrying out QAW
+| | - Learner will be able to reason why business goals are important for Quality Attribute Discovery
+| | - Learner will be able to list out important business goal categories
+| **CITA - Professional** | - Learner will be able to identify challenges in identifying 'important' stakeholders?
+| | - Learner will be able to provide information on why Architectural Plan presentation is important in a QAW
+| | - Learner will be able to identify when to use which method - PALM , QAW
 
 ## Quality attribute scenarios
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to define functions and quality of a system
-
---          Learner will be able to contrast function and quality of a system
-
---          Learner will be able to identify functionality scenarios and Quality Attribute scenarios?
-
---          Learner will be able to list out why Quality Attribute Scenarios are required
-
- |
-| **CITA -- Associate** | --          Learner will be able to list out Quality Attribute scenarios main parts
-
---          Learner will be able to list out basic requirements of a QA scenario
-
---          Learner will be able to define architectural tactics
-
---          Learner will be able to list out importance of architectural tactics in QA scenarios
-
- |
-| **CITA -- Specialist** | --          Learner will be able to reason why response measure be specified separately from response
-
---          Learner will be able to identify performance QA in availability scenario
-
- |
-| **CITA -- Professional** | --          Learner will be able to  find dependency among QA while developing a particular QA scenario
-
---          Learner will be able to list out how usability scenario would affect flexibility/security QA
-
- |
+| **CITA - Foundation** | - Learner will be able to define functions and quality of a system
+| | - Learner will be able to contrast function and quality of a system
+| | - Learner will be able to identify functionality scenarios and Quality Attribute scenarios?
+| | - Learner will be able to list out why Quality Attribute Scenarios are required
+| **CITA - Associate** | - Learner will be able to list out Quality Attribute scenarios main parts
+| | - Learner will be able to list out basic requirements of a QA scenario
+| | - Learner will be able to define architectural tactics
+| | - Learner will be able to list out importance of architectural tactics in QA scenarios
+| **CITA - Specialist** | - Learner will be able to reason why response measure be specified separately from response
+| | - Learner will be able to identify performance QA in availability scenario
+| **CITA - Professional** | - Learner will be able to  find dependency among QA while developing a particular QA scenario
+| | - Learner will be able to list out how usability scenario would affect flexibility/security QA
 
 ## Quality Attribute Design Strategy
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to list out characteristics of Attribute-driven design (ADD)
-
---          Learner will be able to list out other design methods
-
---          Learner will be able to list design checklist for Quality Attribute
-
- |
-| **CITA -- Associate** | --          Learner will be able to list required inputs for ADD
-
---          Learner will be able to list outputs from ADD
-
---          Learner will be able to enumerate steps in ADD
-
---          Learner will be able to explain refinement strategies in ADD
-
- |
-| **CITA -- Specialist** | --          Learner will be able to map Architecturally Significant requirement(ASR) to design approaches
-
---          Learner will be able to verify that all ASRs are accounted in ADD
-
---          Learner will be able to create design decisions checklist for a QA. For e.g. Security
-
- |
-| **CITA -- Professional** | --          Learner will be able to develop design approaches for ASR |
+| **CITA - Foundation** | - Learner will be able to list out characteristics of Attribute-driven design (ADD)
+| | - Learner will be able to list out other design methods
+| | - Learner will be able to list design checklist for Quality Attribute
+| **CITA - Associate** | - Learner will be able to list required inputs for ADD
+| | - Learner will be able to list outputs from ADD
+| | - Learner will be able to enumerate steps in ADD
+| | - Learner will be able to explain refinement strategies in ADD
+| **CITA - Specialist** | - Learner will be able to map Architecturally Significant requirement(ASR) to design approaches
+| | - Learner will be able to verify that all ASRs are accounted in ADD
+| | - Learner will be able to create design decisions checklist for a QA. For e.g. Security
+| **CITA - Professional** | - Learner will be able to develop design approaches for ASR |
 
 ## Software Architecture evaluation
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to list out evaluation factors
-
---          Learner will be able to reason how QA scenario would be useful for software evaluation
-
- |
-| **CITA -- Associate** | --          Learner will be able to list out methods used for software evaluation
-
---          Learner will be able to list out steps involved in ATAM
-
---          Learner will be able to identify stakeholders for ATAM
-
- |
-| **CITA -- Specialist** | --          Learner will be able to list important architectural views to be presented during ATAM
-
---          Learner will be able to list out characteristic of Attribute-based architectural styles (ABAS)
-
---          Learner will be able to draw utility tree for the project
-
- |
-| **CITA -- Professional** | --          Learner will be able to provide architectural decisions for a QA. For e.g. performance
-
---          Learner will be able to provide weightage for each refinement of a QA in utility tree
-
---          Learner will be able to present ABAS
-
---          Learner will be able to brainstorm QA and help prioritize
-
- |
+| **CITA - Foundation** | - Learner will be able to list out evaluation factors
+| | - Learner will be able to reason how QA scenario would be useful for software evaluation
+| **CITA - Associate** | - Learner will be able to list out methods used for software evaluation
+| | - Learner will be able to list out steps involved in ATAM
+| | - Learner will be able to identify stakeholders for ATAM
+| **CITA - Specialist** | - Learner will be able to list important architectural views to be presented during ATAM
+| | - Learner will be able to list out characteristic of Attribute-based architectural styles (ABAS)
+| | - Learner will be able to draw utility tree for the project
+| **CITA - Professional** | - Learner will be able to provide architectural decisions for a QA. For e.g. performance
+| | - Learner will be able to provide weightage for each refinement of a QA in utility tree
+| | - Learner will be able to present ABAS
+| | - Learner will be able to brainstorm QA and help prioritize
 
 ## Quality Attribute Testing
 
 | **Iasa Certification Level** | **Learning Objective** |
-| **CITA -- Foundation** | --          Learner will be able to list out source of ideas for a QA testing
-
---          Learner should know the reason for QA testing
-
- |
-| **CITA -- Associate** | --          Learner will be able to identify and list out QA testing separate from functional testing |
-| **CITA -- Specialist** | --          Learner wil be able to identify required information for a particular QA testing
-
---          Learner should be able to identify methods required to test a QA
-
- |
-| **CITA -- Professional** | --          Learner will be able to list out testing requirements for a particular QA testing |
+| **CITA - Foundation** | - Learner will be able to list out source of ideas for a QA testing
+| | - Learner should know the reason for QA testing
+| **CITA - Associate** | - Learner will be able to identify and list out QA testing separate from functional testing |
+| **CITA - Specialist** | - Learner wil be able to identify required information for a particular QA testing
+| | - Learner should be able to identify methods required to test a QA
+| **CITA - Professional** | - Learner will be able to list out testing requirements for a particular QA testing |
 
 # Related Capabilities
 
@@ -351,17 +277,17 @@ Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:ta
 
 # Resources
 
-## Articles:
+**Articles:**
 
-[SEI Quality Attribute Workshop -- 3rd Edition](http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=6687){:target="_blank"}
+[SEI Quality Attribute Workshop - 3rd Edition](http://resources.sei.cmu.edu/library/asset-view.cfm?assetID=6687){:target="_blank"}
 
 [Architecture Best Practices for Project and Technical Leaders](http://resources.sei.cmu.edu/asset_files/Presentation/2014_017_101_423682.pdf){:target="_blank"}
 
-[Architecturally Significant Requirements -- Paul Preiss](https://btabok.iasaglobal.org/architecturally-significant-requirements/){:target="_blank"}
+[Architecturally Significant Requirements - Paul Preiss](https://btabok.iasaglobal.org/architecturally-significant-requirements/){:target="_blank"}
 
 [Classification of Software Prototyping](http://resources.sei.cmu.edu/asset_files/TechnicalReport/1992_005_001_16067.pdf){:target="_blank"}
 
-## Blogs/Webcasts/News/Reference sources:
+**Blogs/Webcasts/News/Reference sources:**
 
 [IASA Foundation BTABoK](https://btabok.iasaglobal.org){:target="_blank"}
 

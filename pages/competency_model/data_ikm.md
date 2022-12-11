@@ -10,8 +10,7 @@ tags:
   - software_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Knowledge Management (KM) is a discipline that crosses many areas such as economics, informatics, psychology and technology. KM is seen as a strategy that creates, acquires, transfers, consolidates, shares and enhances the use of **knowledge** in order to improve organizational performance and survival in a business environment.
 
@@ -19,8 +18,7 @@ According to literature, there are two main types of knowledge which are **tacit
 
 In **Software Development**, KM is seen such as the process across the different phases/stages of the SDLC, that involves a cycle of exchanging tacit knowledge and converting it to explicit knowledge and then re-formulating it through an individual's experience and other factors (such as belief, perspective, and values) into tacit knowledge. Therefore individuals are the most important actor in KM, individuals performs through social and collaborative work tasks among the people in an organization to create, share, amplify, enlarge and justify the knowledge over an organizational setting. KM is expected to be **integral part** any software development environment.
 
-Overview
-========
+# Overview
 
 What Is Knowledge?
 
@@ -56,8 +54,7 @@ The EFO approach split the responsibilities to maintain the experiences into two
 
 When using EFO, not only must the organization add another suborganization for learning, packaging, and storing experience, but it also must change the way it does its work.
 
-Proven Practices
-================
+# Proven Practices
 
 **Clearly identify business problems and align knowledge management project with overall business objectives**.
 
@@ -139,10 +136,9 @@ Overall, cultural changes of this magnitude take time, so they have to practice 
 
 Normally, two thirds of KM effort needs to focus on non-technical issues such as culture and practice. For making this effective, must use motivational approaches such as sharing success stories about KM implemented recently within their organization. These positive impacts could be how the tools development process has been improved, quick fixing of the tools issues, reduced attrition rates and shortening skills gap within the test development team. By doing this, it will stimulate the team member's curiosity to involve in KM activities and help the KM team to apply KM methodologies in other parts of the organization.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Knowledge Management Process**
+## Knowledge Management Process
 
 A knowledge management project should support the activities that comprise a knowledge process. According to Staab a knowledge process involves the following steps:
 
@@ -156,30 +152,14 @@ A knowledge management project should support the activities that comprise a kno
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to name the steps in the KM Process and understand what they are.
+| **CITA -- Associate** | -   Learner will be able to identify and describe the differences between the steps of a basic SDLC (conception, requirements, development, test, transition, deployment) and the steps of the KM process
+| | -   Learner will be able to identify the joint points between the SDLC and the KM process.
+| **CITA -- Specialist** | -   Learner will be able to identify and describe when it is most appropriate to use the different steps of the KM Process whit different SDLC, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   *Learner will be able to customize the KM Process to get advantage over the different SDLCs and identify what is the most effective thing to do*
+| | -   *Learner will know the risk of missing out activities defined in the KM process and be able to justify this where appropriate*
 
--   Learner will be able to name the steps in the KM Process and understand what they are.
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to identify and describe the differences between the steps of a basic SDLC (conception, requirements, development, test, transition, deployment) and the steps of the KM process
--   Learner will be able to identify the joint points between the SDLC and the KM process.
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to identify and describe when it is most appropriate to use the different steps of the KM Process whit different SDLC, and highlight the advantages and disadvantages of each
-
- |
-| **CITA -- Professional** |
-
--   *Learner will be able to customize the KM Process to get advantage over the different SDLCs and identify what is the most effective thing to do*
--   *Learner will know the risk of missing out activities defined in the KM process and be able to justify this where appropriate*
-
- |
-
-### **Knowledge Management Infrastructure (system)**
+## Knowledge Management Infrastructure (system)
 
 To support the KM process, knowledge management infrastructure should be provide to facilitate knowledge access and reuse. In order to facilitate communication and information exchange, a community may define a standard domain-oriented vocabulary using ontologies, this includes definitions and indications of how concepts are inter-related, which collectively impose a structure on the domain and constrain the possible interpretations of the terms. Ontologies are particularly important for KM. They constitute the glue that binds KM activities together, allowing a content-oriented view of KM. Ontologies define the shared vocabulary used in the KM system to facilitate communication, integration, search, storage and representation of knowledge.
 
@@ -191,38 +171,21 @@ Typical utilization scenarios comprise discussion groups, search engines, inform
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to name the various types of tools and techniques used by the current organization and understand what they are used for
+| | -   Learner will be to identify the set of types of tools to be used
+| **CITA -- Associate** | -   Learner will be able to use a number of the tools and techniques
+| | -   Learner will be able to identify the common use scenarios for the KM infrastructure
+| | -   Learner will be able to identify the different common concepts ontology for the KM infrastructure
+| **CITA -- Specialist** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
+| | -   Learner will be able to identify the most favourable use scenarios for the KM infrastructure
+| | -   Learner will be able to define the concepts that underlying the KM ontology
+| **CITA -- Professional** | -   *Learner will be able to drive the introduction of new tools and technique into the organization*
+| | -   Learner will be able to design the use scenarios for the KM infrastructure
+| | -   *Learner will be able to define the ontology for the OM*
 
--   Learner will be able to name the various types of tools and techniques used by the current organization and understand what they are used for
--   Learner will be to identify the set of types of tools to be used
+# Resources
 
- |
-| **CITA -- Associate** |
-
--   Learner will be able to use a number of the tools and techniques
--   Learner will be able to identify the common use scenarios for the KM infrastructure
--   Learner will be able to identify the different common concepts ontology for the KM infrastructure
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
--   Learner will be able to identify the most favourable use scenarios for the KM infrastructure
--   Learner will be able to define the concepts that underlying the KM ontology
-
- |
-| **CITA -- Professional** |
-
--   *Learner will be able to drive the introduction of new tools and technique into the organization*
--   Learner will be able to design the use scenarios for the KM infrastructure
--   *Learner will be able to define the ontology for the OM*
-
- |
-
-Resources
-=========
-
-### **Articles:**
+**Articles:**
 
 1.  Johnson, G and Scholes, K (2002) Exploring Corporate Strategy, 6th Edition, Prentice Hall
 2.  Ted E. Lee , "Applying Knowledge Management Approach For Software Testing"
@@ -248,12 +211,11 @@ Resources
 22. M. Polanyi, The Tacit Dimension, Doubleday, 1967, pp. 108.
 23. S. Nerur, V. Balijepally, Theoretical reflections on agile development methodologies, Communications of the ACM 50 (2007) 79--83.
 
-Author
-======
+# Author
 
 ![Juan Mestas](media/juan_mestas.jpg)
-## **Juan Mestas**
-**Senior Solution Architect -- Deloitte Ireland**
+**Juan Mestas**
+*Senior Solution Architect -- Deloitte Ireland*
 
 Juan Mestas is a Senior Architect in the Deloitte Technology Centre of Excellence with more than 15 years of experience in consultancy services and vertical industries, specializing on Enterprise Architecture (EA) and Solutions Architecture (SA).
 
