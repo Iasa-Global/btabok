@@ -6,7 +6,6 @@ toc: true
 permalink: architect_organization_canvas.html
 folder: structured_canvases
 tags: 
-  - business
   - chief
   - engagement_model
 ---
