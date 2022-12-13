@@ -8,8 +8,7 @@ folder: dictionary
 summary: "The intention of this document is to capture the definitions of all the terms in the Engagement Model."
 ---
 
-1 - Overview of the Engagement Terms
-======================================================
+# 1 - Overview of the Engagement Terms
 
 | **Framework**  | **Imagine** | **Become** | **Achieve**  | **Maximise** |
 | **Phases** | **Digital Customer** | **Digital Business** | **Digital Employee** | **Digital Operations** |
