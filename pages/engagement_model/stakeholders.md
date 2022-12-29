@@ -16,7 +16,7 @@ tags:
 # What are Stakeholders
 
 A stakeholder is a person or organization which as an interest or
-concern in a given [objective](objectives.md){:target="_blank"}, [business case](.\businesscase.md){:target="_blank"} or
+concern in a given [objective](objectives.md){:target="_blank"}, [business case](.structured_canvases/business_case_sc.md){:target="_blank"} or
 [assignment](assignment.md){:target="_blank"}. Stakeholders have a vested interest in the
 success of assignments, which can affect the stakeholder positively or
 negatively. A stakeholder may use their influence to promote and help an
@@ -166,7 +166,7 @@ After analysis, actions need to be taken to actively manage the
 stakeholders. The communication strategies tool provides a way for
 planning the action.
 
-# **Identifying** and prioritizing Stakeholders
+# Identifying and prioritizing Stakeholders
 
 The first step in stakeholder management is to identify the stakeholders
 in the assignment or the proposed architecture. A good way to start
