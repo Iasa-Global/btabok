@@ -45,7 +45,7 @@ Context is "The set of circumstances or facts that surround a particular event, 
 
 Put in the architecture context, this is the primary set of circumstances or facts that affect the nature and execution of architects within an organization. Things that affect context can generally be classified using a matrix of influences such as business size, type, and business unit. For example, large financial institutions tend to have certain character-of-architecture context when compared with similarly sized retail organizations.
 
-Additional contextual influences are location, including geography, language, and culture; process; framework and SDLC levels; and current architecture level as well as understanding. Because context affects everything about architecture internally, it is important to accurately map these influencers when considering an engagement model.
+Additional contextual influences are location, including geography, language, and culture; process; framework and SDLC levels; and current architecture level as well as understanding. Because context affects everything about architecture internally, it is important to accurately map these influencers when considering an engagement model. 
 
 -   Business size
 -   Business type
