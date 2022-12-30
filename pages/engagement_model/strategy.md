@@ -416,7 +416,7 @@ engagement model elements.
 
 ## Investment planning
 
-[Investment planning](investmentplanning.md){:target="_blank"} considers the prioritization of the
+[Investment planning](investment_planning.md){:target="_blank"} considers the prioritization of the
 initiatives identified as part of the work with the Strategy Scorecard,
 these may be formed as business cases. Investment planning evaluates the
 costs, benefits, complexity and value delivered from the initiatives and

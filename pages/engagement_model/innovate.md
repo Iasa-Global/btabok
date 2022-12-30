@@ -42,7 +42,7 @@ Innovation is an overloaded term similar to architecture and agile. Often corpor
 
 # Why is Innovation Important to Architects
 
-![image001](media/innovate001.png)
+![image001](media/innovate001.jpg)
 
 Figure 1 MIT Sloan Innovation and Disruption
 
