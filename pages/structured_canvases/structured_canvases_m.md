@@ -43,7 +43,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Business Case</h4>
-                     <a href="business_case.html" class="btn btn-primary">Learn More</a>
+                     <a href="business_case_sc.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
