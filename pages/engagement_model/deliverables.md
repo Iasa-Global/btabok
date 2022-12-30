@@ -104,7 +104,7 @@ When using the Iasa Basic [Engagement Model](engagement.md){:target="_blank"} th
 
 | **Artifact** | **Description ** | **Source** | **Models** |
 | --- | --- | --- | --- |
-| **Business Models and Strategy Scorecards** | A shared combination of business models including business model [canvas](.\structured_canvases_m.md), basic business and technical capability models and a strategy scorecard indexed to the program/project list | Architecture Team | Business Model Canvas, Capability Models, Strategy Scorecard |
+| **Business Models and Strategy Scorecards** | A shared combination of business models including business model [canvas](../structured_canvases/structured_canvases_m.md), basic business and technical capability models and a strategy scorecard indexed to the program/project list | Architecture Team | Business Model Canvas, Capability Models, Strategy Scorecard |
 | **Business Case(s)** |   | Architect Team |   |
 | **Estimation Model ** | Agreed estimation approach supported by finance and management teams along with specification of required metrics, hurdle rate and valuation calculations. | Finance/IT Executive | Value Stream |
 | **Stakeholder Mapping ** | Stakeholder mapping capturing the key stakeholders for a given context their title, level of authority, reporting lines etc. Used by architect team and project teams to better understand stakeholder concerns. | Architect Team | Stakeholder Power and Influence Grid |

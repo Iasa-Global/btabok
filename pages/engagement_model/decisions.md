@@ -195,8 +195,6 @@ The following tools and techniques can be useful in managing architecture decisi
 
 # References
 
-[https://personal.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf](https://personal.utdallas.edu/~chung/SA/zz-Impreso-architecture_decisions-tyree-05.pdf){:target="_blank"}
-
 [http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions){:target="_blank"}
 
 [https://dzone.com/articles/lean-tools-last-responsible](https://dzone.com/articles/lean-tools-last-responsible){:target="_blank"}

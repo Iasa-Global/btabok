@@ -171,43 +171,37 @@ We have identified five primary pitfalls to successfully architecting qualit
 For quality attributes, please take a look at the following examples and sources:
 
 **Wikipedia list of QA's**
-<https://en.wikipedia.org/wiki/List_of_system_quality_attributes> and another perspective <http://www.softwarearchitectures.com/qa.html>  
+[https://en.wikipedia.org/wiki/List_of_system_quality_attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes){:target="_blank"} and another perspective [http://www.softwarearchitectures.com/qa.html](http://www.softwarearchitectures.com/qa.html){:target="_blank"}
 
-**A short list of QA definitions**\
-<https://medium.com/@nvashanin/quality-attributes-in-software-architecture-3844ea482732>\
-A longer description by SEI on quality attributes\
-<https://resources.sei.cmu.edu/asset_files/TechnicalReport/1995_005_001_16427.pdf>\
-and the American Society for Quality\
-<https://asq.org/quality-resources/software-quality>  
+**A short list of QA definitions**
+[https://medium.com/@nvashanin/quality-attributes-in-software-architecture-3844ea482732](https://medium.com/@nvashanin/quality-attributes-in-software-architecture-3844ea482732){:target="_blank"}
+A longer description by SEI on quality attributes
+[https://resources.sei.cmu.edu/asset_files/TechnicalReport/1995_005_001_16427.pdf](https://resources.sei.cmu.edu/asset_files/TechnicalReport/1995_005_001_16427.pdf){:target="_blank"} and the American Society for Quality
+[https://asq.org/quality-resources/software-quality](https://asq.org/quality-resources/software-quality){:target="_blank"}
 
-**Some questions to ask during QA elicitation**\
-<https://flylib.com/books/en/2.843.1.40/1/>\
-<https://docs.microsoft.com/en-us/previous-versions/bb402962(v=msdn.10)?redirectedfrom=MSDN>\
-<http://www.guidanceshare.com/wiki/Application_Architecture_Guide_-_Chapter_7_-_Quality_Attributes>  
+**Some questions to ask during QA elicitation**
+[https://flylib.com/books/en/2.843.1.40/1/](https://flylib.com/books/en/2.843.1.40/1/){:target="_blank"}
+[https://docs.microsoft.com/en-us/previous-versions/bb402962(v=msdn.10)?redirectedfrom=MSDN](https://docs.microsoft.com/en-us/previous-versions/bb402962(v=msdn.10)?redirectedfrom=MSDN){:target="_blank"}
 
-**Many articles exist on software performance engineering, including **\
-<http://www.spe-ed.com/classic-site/papers/bestprac.pdf>\
-<http://www.perfeng.com/papers/rtuml.pdf>  
+**Many articles exist on software performance engineering, including**
+[http://www.spe-ed.com/classic-site/papers/bestprac.pdf](http://www.spe-ed.com/classic-site/papers/bestprac.pdf){:target="_blank"}
+[http://www.perfeng.com/papers/rtuml.pdf](http://www.perfeng.com/papers/rtuml.pdf){:target="_blank"}
 
-**Examples of quality attribute failures are listed regularly**\
-<https://www.computerworld.com/article/3412197/top-software-failures-in-recent-history.html>
-<https://www.tricentis.com/blog/real-life-examples-of-software-development-failures/>
-<https://www.cigniti.com/blog/37-software-failures-inadequate-software-testing/>
-<https://www.functionize.com/blog/worst-of-the-worst-the-biggest-software-fails-in-recent-memory/>
-<https://medium.com/fast-company/twitters-big-hack-raises-red-flags-in-political-circles-ahead-of-november-1fa303bfc72b>  
+**Examples of quality attribute failures are listed regularly**
+[https://www.tricentis.com/blog/real-life-examples-of-software-development-failures/](https://www.tricentis.com/blog/real-life-examples-of-software-development-failures/){:target="_blank"}
+[https://www.cigniti.com/blog/37-software-failures-inadequate-software-testing/](https://www.cigniti.com/blog/37-software-failures-inadequate-software-testing/){:target="_blank"}
+[https://www.functionize.com/blog/worst-of-the-worst-the-biggest-software-fails-in-recent-memory/](https://www.functionize.com/blog/worst-of-the-worst-the-biggest-software-fails-in-recent-memory/){:target="_blank"}
+[https://medium.com/fast-company/twitters-big-hack-raises-red-flags-in-political-circles-ahead-of-november-1fa303bfc72b](https://medium.com/fast-company/twitters-big-hack-raises-red-flags-in-political-circles-ahead-of-november-1fa303bfc72b){:target="_blank"}
 
 **Traditional availability calculations**
-<https://en.wikipedia.org/wiki/Availability>
-<http://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm> and reliability analysis
-<https://en.wikipedia.org/wiki/Reliability_block_diagram>
-<http://www.eventhelix.com/RealtimeMantra/FaultHandling/reliability_availability_basics.htm> and fault tolerance
-<https://en.wikipedia.org/wiki/Fault_tolerance>  
-
-**Security approaches under OWASP**
-<https://blog.threatpress.com/security-design-principles-owasp/>  
+[https://en.wikipedia.org/wiki/Availability](https://en.wikipedia.org/wiki/Availability){:target="_blank"}
+[http://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm](http://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm){:target="_blank"} and reliability analysis
+[https://en.wikipedia.org/wiki/Reliability_block_diagram](https://en.wikipedia.org/wiki/Reliability_block_diagram){:target="_blank"}
+[http://www.eventhelix.com/RealtimeMantra/FaultHandling/reliability_availability_basics.htm](http://www.eventhelix.com/RealtimeMantra/FaultHandling/reliability_availability_basics.htm){:target="_blank"} and fault tolerance
+[https://en.wikipedia.org/wiki/Fault_tolerance](https://en.wikipedia.org/wiki/Fault_tolerance){:target="_blank"} 
 
 **Usability as well is a broad domain**
-<https://en.wikipedia.org/wiki/Usability>  
+[https://en.wikipedia.org/wiki/Usability](https://en.wikipedia.org/wiki/Usability){:target="_blank"}  
 
 Standards which apply to quality attributes: IEEE 1061, ISO 9126, ISO 42010 
 
