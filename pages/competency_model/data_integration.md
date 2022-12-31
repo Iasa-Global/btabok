@@ -254,7 +254,6 @@ With a federation server, multiple data stores can be made to look as one. Consu
 
 *   [Extract, Transform, Load](http://en.wikipedia.org/wiki/Extract,_transform,_load){:target="_blank"} (Wikipedia)
 *   [http://www.dataintegration.info/](http://www.dataintegration.info/){:target="_blank"}
-*   [http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf](http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf){:target="_blank"}
 *   [http://www.enterpriseintegrationpatterns.com/eaipatterns.html](http://www.enterpriseintegrationpatterns.com/eaipatterns.html){:target="_blank"}
 *   [http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html](http://www.enterpriseintegrationpatterns.com/CanonicalDataModel.html){:target="_blank"}
 *   [http://www.enterpriseintegrationpatterns.com/docs/EDA.pdf](http://www.enterpriseintegrationpatterns.com/docs/EDA.pdf){:target="_blank"}

@@ -120,7 +120,6 @@ Performance is the driving factor for any system architecture.
 **Blogs/Webcasts/News/Reference sources**
 
 -   [The Eight Fallacies of Distributed Computing](https://blogs.oracle.com/jag/resource/Fallacies.html)
--   [SEI Blog "Evolutionary Improvements of Quality Attributes: Performance in Practice"](http://blog.sei.cmu.edu/post.cfm/evolutionary-improvements-quality-attributes-251)
 
 **Training** --
 

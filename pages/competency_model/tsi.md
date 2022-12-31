@@ -178,7 +178,7 @@ Bridging the CIO-CEO gap: It takes two to tango
 
 **Blogs/Webcasts/News/Reference Resources:**
 
-IASA IT Architecture Body of Knowledge (ITABoK) [https://btabok.iasaglobal.org/](X){:target="_blank"}
+IASA IT Architecture Body of Knowledge (ITABoK) [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/){:target="_blank"}
 
 The Open Group Architecture Framework (TOGAF) [http://www.opengroup.org/publications/togaf](http://www.opengroup.org/publications/togaf){:target="_blank"}
 

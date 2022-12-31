@@ -106,8 +106,6 @@ EA are the catalyst for organizational change and the mediator between business 
 
 [http://www.strategy-business.com/blog/Leading-Teams-through-Change-at-the-Speed-of-Business](http://www.strategy-business.com/blog/Leading-Teams-through-Change-at-the-Speed-of-Business){:target="_blank"}
 
-[http://blog.delphix.com/ron/2014/07/03/cm-and-ea/](http://blog.delphix.com/ron/2014/07/03/cm-and-ea/){:target="_blank"}
-
 [https://en.wikipedia.org/wiki/Enterprise_architecture#cite_note-FEAPO-1](https://en.wikipedia.org/wiki/Enterprise_architecture#cite_note-FEAPO-1){:target="_blank"}
 
 [http://events.asug.com/2011ac/2307_enterprise_architecture_and_organization_change_management.pdf](http://events.asug.com/2011ac/2307_enterprise_architecture_and_organization_change_management.pdf){:target="_blank"}

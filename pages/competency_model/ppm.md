@@ -136,8 +136,6 @@ The Project Management dimensions cover the scope of Program Management and incl
     
 -   [PMOver Transforming the Program Management Office into a Results Management Office](http://www2.deloitte.com/content/dam/Deloitte/ru/Documents/Operation/dtt_PMOver_eng_260309.pdf){:target="_blank"}
     
--   [In control: how project portfolio management can improve strategy deployment](http://performance.ey.com/wp-content/uploads/downloads/2013/02/Improve-strategy-deployment.pdf){:target="_blank"}
-    
 -   [How to implement Management of Portfolios within 100 days](https://www.axelos.com/CMSPages/GetFile.aspx?guid=bbf43295-8481-4a52-afae-220e2b757dda){:target="_blank"}
     
 -   [Project portfolio adjustment and balance: a case study in the chemical sector](http://www.scielo.br/pdf/prod/v22n4/en_aop_t6_0007_0160.pdf){:target="_blank"}
