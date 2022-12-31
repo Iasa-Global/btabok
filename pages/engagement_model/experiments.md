@@ -109,8 +109,6 @@ To generate hypothesis and to develop a possible experiment use the Architecture
 
 [https://blog.acolyer.org/2017/09/29/the-evolution-of-continuous-experimentation-in-software-product-development/](https://blog.acolyer.org/2017/09/29/the-evolution-of-continuous-experimentation-in-software-product-development/){:target="_blank"}
 
-[https://link.springer.com/chapter/10.1007/978-3-319-91602-6_20](https://link.springer.com/chapter/10.1007/978-3-319-91602-6_20){:target="_blank"}
-
 [DevOps: From Continuous Delivery to Continuous Experimentation](https://cloudacademy.com/blog/devops-from-continuous-delivery-to-continuous-experimentation/){:target="_blank"}
 
 [https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experimentation-and-learning-and-how-overcome](https://www.scrum.org/resources/blog/7-tips-how-create-culture-continual-experimentation-and-learning-and-how-overcome){:target="_blank"}
