@@ -90,8 +90,6 @@ While the ETL process is about consolidating data from many sources into one, En
 
 [Home](https://dataintegration.info/){:target="_blank"}
 
-[http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf](http://www.dataacademy.com/files/ETL-vs-ELT-White-Paper.pdf){:target="_blank"}
-
 [ref 1] [http://www.enterpriseintegrationpatterns.com/](http://www.enterpriseintegrationpatterns.com/){:target="_blank"}
 
 [ref 3] [http://en.wikipedia.org/wiki/Comparison_of_business_integration_software](http://en.wikipedia.org/wiki/Comparison_of_business_integration_software){:target="_blank"}

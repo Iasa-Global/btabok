@@ -143,8 +143,6 @@ Prince2 [https://www.axelos.com/find-a-training-provider](https://www.axelos.com
 
 Prosci [http://www.prosci.com/training/trainingoverview/](http://www.prosci.com/training/trainingoverview/){:target="_blank"}
 
-TOGAF [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program){:target="_blank"}
-
 **Certifications:**
 
 ITIL Foundation Certification [https://www.axelos.com/find-a-training-provider](https://www.axelos.com/find-a-training-provider){:target="_blank"}

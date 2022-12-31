@@ -188,8 +188,6 @@ Industrial, geographical and political regulations are to be known and understoo
 
 **Blogs/Webcasts/News Sources**
 
--   40 Security Blogs at [http://www.securityinnovationeurope.com/blog/40-information-security-blogs-you-should-be-reading](http://www.securityinnovationeurope.com/blog/40-information-security-blogs-you-should-be-reading){:target="_blank"}
-
 **Training**
 
 -   CISM Review Courses [http://www.isaca.org/Certification/CISM-Certified-Information-Security-Manager/Prepare-for-the-Exam/Review-Courses/Pages/default.aspx](http://www.isaca.org/Certification/CISM-Certified-Information-Security-Manager/Prepare-for-the-Exam/Review-Courses/Pages/default.aspx){:target="_blank"}
