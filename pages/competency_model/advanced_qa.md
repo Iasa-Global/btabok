@@ -1,4 +1,4 @@
---
+---
 title: "Advanced Quality Attributes"
 keywords: 
 sidebar: mydoc_sidebar
@@ -8,7 +8,7 @@ folder: competency_model
 summary: "Requirements are not sufficient to develop architecturally good software."
 tags:
   - software_architecture
---
+---
 
 # Description
 
