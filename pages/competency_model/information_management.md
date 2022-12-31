@@ -142,8 +142,6 @@ All sub-capabilities encompass a complete information management solution by lev
 
 Patterns of Information Management -- by Mandy Chessell, Amanda Chessell, Harald C. Smith Publisher: IBM Press, *Release Date: May 2013* ISBN: 9780133155501
 
-[http://www.dama.org/sites/default/files/download/DAMA-DMBOK_Functional_Framework_v3_02_20080910.pdf](http://www.dama.org/sites/default/files/download/DAMA-DMBOK_Functional_Framework_v3_02_20080910.pdf){:target="_blank"}
-
 **Articles:**
 
 [http://www.oracle.com/technetwork/articles/entarch/oea-best-practices-data-gov-400760.pdf](http://www.oracle.com/technetwork/articles/entarch/oea-best-practices-data-gov-400760.pdf){:target="_blank"}

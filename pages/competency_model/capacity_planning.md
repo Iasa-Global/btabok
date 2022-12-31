@@ -298,10 +298,6 @@ Reflecting the dynamic nature of capacity management in a cloud service it is cr
 
 **Blogs/Webcasts/News/Reference Resources:**
 
-IVI IT-CMF -- Capacity Forecasting & Planning Capability -- [http://ivi.nuim.ie/it-cmf/capacity-forecasting-and-planning](http://ivi.nuim.ie/it-cmf/capacity-forecasting-and-planning){:target="_blank"}
-
-IVI IT-CMF -- Demand & Supply Management -- [http://ivi.nuim.ie/it-cmf/demand-and-supply-management](http://ivi.nuim.ie/it-cmf/demand-and-supply-management){:target="_blank"}
-
 The Open Group web site: [http://www.opengroup.org/subjectareas/enterprise](http://www.opengroup.org/subjectareas/enterprise){:target="_blank"}
 
 TOGAF: [http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html](http://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html){:target="_blank"}
