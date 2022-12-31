@@ -16,89 +16,53 @@ tags:
 
 # What is a Roadmap
 
-A roadmap is a visual description which shows a plan against time for
-achieving one or more goals or objectives. It is used to plan large
-activities which deliver value to the enterprise. The roadmap can be
-used to synchronize [deliverables](deliverables.md){:target="_blank"} with important events and
-uncover important dependencies between deliverables.
+A roadmap is a visual description which shows a plan against time for achieving one or more goals or objectives. It is used to plan large
+activities which deliver value to the enterprise. The roadmap can be used to synchronize [deliverables](deliverables.md){:target="_blank"} with important events and uncover important dependencies between deliverables.
 
-<img src="media\roadmaps_overview1.png" title="" alt="" data-align="center">
+![image001](media/roadmaps_overview1.png) 
 
-Roadmaps are primarily used in the [Innovation](innovation.md){:target="_blank"} and
-[Transformation](transformation.md){:target="_blank"} stages in the engagement model. Under the
-innovation stage the roadmap can be used to plan and assess feasibility
-of new initiatives and plan against existing initiatives. Under the
-transformation the roadmap can be used to track and update the progress
-of deliverables in work. The [Utilization](utilization.md){:target="_blank"} and
-[Measurement](measurement.md){:target="_blank"} stages provide experience and feedback which
+Roadmaps are primarily used in the [Innovation](innovate.md){:target="_blank"} and [Transformation](transform.md){:target="_blank"} stages in the engagement model. Under the innovation stage the roadmap can be used to plan and assess feasibility of new initiatives and plan against existing initiatives. Under the transformation the roadmap can be used to track and update the progress of deliverables in work. The [Utilization](utilize.md){:target="_blank"} and [Measurement](measures.md){:target="_blank"} stages provide experience and feedback which
 may alter the future planning on the roadmap.
 
-Roadmaps are used broadly in business for many purposes but this article
-focuses on strategic roadmaps and product development roadmaps.
+Roadmaps are used broadly in business for many purposes but this article focuses on strategic roadmaps and product development roadmaps.
 
 # Why we need Roadmaps
 
-Assignment on the engagement model provides a way of identifying,
-assigning and prioritizing business initiatives. The roadmap provides a
+Assignment on the engagement model provides a way of identifying, assigning and prioritizing business initiatives. The roadmap provides a
 way to plan these initiatives over time.
 
-Roadmaps are important as they provide a common understanding for
-stakeholders regarding the current status of a business initiative and
-also a broad plan for future deliverables, goals and objectives. Having
-a common understanding means that stakeholders will not only be pulling
-together in the right direction using the business vision and
-[strategy](strategy.md){:target="_blank"}, but also coordinating the timing and
+Roadmaps are important as they provide a common understanding for stakeholders regarding the current status of a business initiative and
+also a broad plan for future deliverables, goals and objectives. Having a common understanding means that stakeholders will not only be pulling
+together in the right direction using the business vision and [strategy](strategy.md){:target="_blank"}, but also coordinating the timing and
 dependencies of deliverables.
 
-Visualizing the dependencies between the deliverables significantly
-reduces the risk for deliverables being blocked by other
-[deliverables](deliverables.md){:target="_blank"} , and supports the ability of stakeholders to
-prioritize deliverables.
+Visualizing the dependencies between the deliverables significantly reduces the risk for deliverables being blocked by other
+[deliverables](deliverables.md){:target="_blank"} , and supports the ability of stakeholders to prioritize deliverables.
 
-The roadmap also gives a framework for making broad estimations
-regarding budget and resources, this can be used to assess the
+The roadmap also gives a framework for making broad estimations regarding budget and resources, this can be used to assess the
 feasibility of a business initiative before detailed planning starts.
-This avoids spending valuable resources on detail planning of
-initiatives which lack business feasibility.
+This avoids spending valuable resources on detail planning of initiatives which lack business feasibility.
 
-Being able to monitor progress and show that an initiative is moving
-forward is a highly motivating factor for [stakeholders](stakeholders.md){:target="_blank"}.
-The roadmap provides a tool which shows on a long-term scale how much
-progress has been made as deliverables are completed, as well as
-providing a view of the next deliverables to be addressed.
+Being able to monitor progress and show that an initiative is moving forward is a highly motivating factor for [stakeholders](stakeholders.md){:target="_blank"}. The roadmap provides a tool which shows on a long-term scale how much progress has been made as deliverables are completed, as well as providing a view of the next deliverables to be addressed.
 
-Roadmaps are important for the architect as they provide direction for
-the architecture against time. This allows the architect to balance
-architectural decisions against which can be achieved in the given time
-period. Roadmaps are also a tool for the architect to communicate the
-consequences of alternative architecture decisions. For example,
-delivering on a shorter time period may result in a compromise on
+Roadmaps are important for the architect as they provide direction for the architecture against time. This allows the architect to balance
+architectural decisions against which can be achieved in the given time period. Roadmaps are also a tool for the architect to communicate the
+consequences of alternative architecture decisions. For example, delivering on a shorter time period may result in a compromise on
 quality or features, but may be required for other business initiatives.
-Alternatively extending the time period will allow for better quality or
-features but results in the delay of other business initiatives.
+Alternatively extending the time period will allow for better quality or features but results in the delay of other business initiatives.
 
 # Roadmap Approach
 
-The following are some key principles which can help in developing good
-roadmaps.
+The following are some key principles which can help in developing good roadmaps.
 
 ## Make the scope of the roadmap clear
 
-It is important for those who are developing the roadmap to have a
-common understanding of the roadmap [scope](scope.md){:target="_blank"}. This provides
-the boundaries for the changes to the enterprise that the roadmap will
-address. The scope provides an understanding for what is included in the
-roadmap but importantly also provides the basis for what should not be
-included. Having a clearly defined scope provides focus for all
-stakeholders and reduces the risks for misunderstanding.
+It is important for those who are developing the roadmap to have a common understanding of the roadmap [scope](scope_context.md){:target="_blank"}. This provides the boundaries for the changes to the enterprise that the roadmap will address. The scope provides an understanding for what is included in the roadmap but importantly also provides the basis for what should not be included. Having a clearly defined scope provides focus for all stakeholders and reduces the risks for misunderstanding.
 
 ## Business centric planning
 
-The roadmap is defined by the business with the customer or market in
-focus and is a plan for how to achieve something of value to the
-business. In the value model the [Objectives](objectives.md){:target="_blank"} and the [Business
-Case](businesscase.md){:target="_blank"} provide the drivers for goals and the objectives on the roadmap.
-The [operating model](operatingmodel.md){:target="_blank"} provides [Assignment](strategy.md){:target="_blank"}(assignment.md){:target="_blank"} for the initiatives that are prioritized for work and the the roadmap provides the time plan for when initiatives can be achieved.
+The roadmap is defined by the business with the customer or market in focus and is a plan for how to achieve something of value to the
+business. In the value model the [Objectives](objectives.md){:target="_blank"} and the [Business Case](../structured_canvases/business_case_sc.md){:target="_blank"} provide the drivers for goals and the objectives on the roadmap. The [operating model](operatingmodel.md){:target="_blank"} provides [Assignment](strategy.md){:target="_blank"}(assignment.md){:target="_blank"} for the initiatives that are prioritized for work and the the roadmap provides the time plan for when initiatives can be achieved.
 
 Items on a roadmap should clearly contribute to partly or completely meeting a goal or objective which provides value for the enterprise. If
 the item is not related to a roadmap [objective](objectives.md){:target="_blank"} or objective then the item may be out of the roadmap scope. On the roadmap it may be that many items contribute to the same goal or objective, and that one item can contribute to many goals and objectives.
@@ -320,123 +284,80 @@ stakeholders working with the enterprise strategy.
 consumer need and is hence seen as a benefit of owning the item."* --
 **Definition of Feature,** **www.businessdictionary.com**
 
-Each release on the roadmap contains a set of features.
-Features in the roadmap are deliverables within a release
-and provide a way for product management and the development team to
-organize and prioritize the content of a release. A feature is a
-substantially large function which partly or completely fulfils a
-requirement on the product. In agile methods a feature is often defined
-as an Epic. Releases may also contain major events in the development
-cycle such as final QA ([quality assurance](qualityassurance.md){:target="_blank"}) or delivery.
+Each release on the roadmap contains a set of features. Features in the roadmap are deliverables within a release and provide a way for product management and the development team to organize and prioritize the content of a release. A feature is a substantially large function which partly or completely fulfils a requirement on the product. In agile methods a feature is often defined as an Epic. Releases may also contain major events in the development cycle such as final QA ([quality assurance](quality_assurance.md){:target="_blank"}) or delivery.
 
-The diagram below illustrates a fictional roadmap for the Pizza Order
-System previously described in the example strategic roadmap. It shows
+The diagram below illustrates a fictional roadmap for the Pizza Order System previously described in the example strategic roadmap. It shows
 the features and events related to each release.
 
 ![image001](media/roadmaps_plan6.png)
 
-The product development roadmap provides the basis for detailed
-planning. This gives a framework for product management and the
-development teams to plan activities, resources and budgets in detailed
-plans.
+The product development roadmap provides the basis for detailed planning. This gives a framework for product management and the development teams to plan activities, resources and budgets in detailed plans.
 
 # Working with a Product Roadmap
 
-The planning of a Product Roadmap begins with the Product Management
-stakeholders. Product Management stakeholders provide the link between
-the deliverable in the Strategic Roadmap and the more detailed planning
-which gives the Development Team scope and direction.
+The planning of a Product Roadmap begins with the Product Management stakeholders. Product Management stakeholders provide the link between
+the deliverable in the Strategic Roadmap and the more detailed planning which gives the Development Team scope and direction.
 
-When starting a new product development or in the event of major product
-changes the following method may support the creation of a Product
+When starting a new product development or in the event of major product changes the following method may support the creation of a Product
 Roadmap.
 
 **Step 1: Product Planning** **Workshop**
 
-In order to plan the roadmap, the Product Management stakeholders call
-key stakeholders to a workshop. The workshop may be held for 2-4 hours
-and the number of stakeholders should be between 4-9 persons. As a
-recommendation, set a timeline of no more than 2 years for the roadmap.
+In order to plan the roadmap, the Product Management stakeholders call key stakeholders to a workshop. The workshop may be held for 2-4 hours
+and the number of stakeholders should be between 4-9 persons. As a recommendation, set a timeline of no more than 2 years for the roadmap.
 
-As an input to the workshop a number of product releases may already be
-defined in the Strategic Roadmap as deliverables to transitions.
-However, it is also reasonable to expect that releases may be planned
-which are not connected to a transition.
+As an input to the workshop a number of product releases may already be defined in the Strategic Roadmap as deliverables to transitions.
+However, it is also reasonable to expect that releases may be planned which are not connected to a transition.
 
-The following Product Roadmap Canvas can be used to support the
-workshop. The canvas can be pinned to the wall and sticky notes used to
+The following Product Roadmap Canvas can be used to support the workshop. The canvas can be pinned to the wall and sticky notes used to
 visualize information on the canvas.
 
 ![image001](media/roadmaps_canvas7.png)
 
-The following describes a process which may be used to formulate the
-product roadmap.
+The following describes a process which may be used to formulate the product roadmap.
 
-1. The Product Management stakeholders describe the scope and vision
-   for the product. This sets the context for content and features.
-   This is important to ensure that only relevant features are placed
-   in the product. Scope and vision for the product is refined until
+1. The Product Management stakeholders describe the scope and vision for the product. This sets the context for content and features.
+   This is important to ensure that only relevant features are placed in the product. Scope and vision for the product is refined until
    key stakeholders are in agreement.
 
-2. Product Management and key stakeholders then define the goals and
-   objectives for the product, observing the scope and vision. The
-   goals and objectives for the product may be associated with goals
-   and objectives in the Strategic Roadmap. Deadlines should be given
+2. Product Management and key stakeholders then define the goals and objectives for the product, observing the scope and vision. The
+   goals and objectives for the product may be associated with goals and objectives in the Strategic Roadmap. Deadlines should be given
    for each goal or objective.
 
-3. Releases are then planned from the goals and the objectives on the
-   product. A broad description of the content of the release is given.
-   As the releases are discussed key dependencies between releases may
-   be identified as well as risks.
+3. Releases are then planned from the goals and the objectives on the product. A broad description of the content of the release is given.
+   As the releases are discussed key dependencies between releases may be identified as well as risks.
 
-The result of this workshop acts as input for creating releases on the
-roadmap. Each release can be planned to a deadline and have a clear goal
-or objective. Key dependencies aid the prioritization of releases on the
-timeline, while mitigation can start on identified risks.
+The result of this workshop acts as input for creating releases on the roadmap. Each release can be planned to a deadline and have a clear goal
+or objective. Key dependencies aid the prioritization of releases on the timeline, while mitigation can start on identified risks.
 
 **Step 2: Release Planning Workshop**
 
-After the Product Planning Workshop, a roadmap now shows the planned
-releases for the product, with goals, objectives and deadlines. The next
-challenge for Product Management stakeholders is to plan the development
-of features in a release.
+After the Product Planning Workshop, a roadmap now shows the planned releases for the product, with goals, objectives and deadlines. The next
+challenge for Product Management stakeholders is to plan the development of features in a release.
 
-This involves Project Management stakeholders and the Development Teams.
-How this planning takes place depends very much on the product
-development method. Some products run release cycles of from 6 months to
-1 year, others have a release cycle of 6 weeks, some releases run in
-parallel. This affects the way the product releases are planned and how
-Release Planning workshops will be used.
+This involves Project Management stakeholders and the Development Teams. How this planning takes place depends very much on the product
+development method. Some products run release cycles of from 6 months to 1 year, others have a release cycle of 6 weeks, some releases run in
+parallel. This affects the way the product releases are planned and how Release Planning workshops will be used.
 
-The aim of the Release Planning Workshop is to involve the Project
-Management stakeholders and the Development Teams in planning the
+The aim of the Release Planning Workshop is to involve the Project Management stakeholders and the Development Teams in planning the
 features for a single release.
 
-The following Release Roadmap Canvas can be used to support the
-workshop. As with the other workshops the canvas can be pinned to the
+The following Release Roadmap Canvas can be used to support the workshop. As with the other workshops the canvas can be pinned to the
 wall and sticky notes used to visualize information on the canvas.
 
 ![image001](media/roadmaps_canvas8.png)
 
 The following process may be used to formulate a release.
 
-1. The Product Management stakeholders state the goal and deadline for
-   the release.
+1. The Product Management stakeholders state the goal and deadline for the release.
 
-2. The Product Management stakeholders and Development Team identify
-   stakeholders that have a vested interest in the value the release
-   provides. These are stakeholders who will benefit from the release.
+2. The Product Management stakeholders and Development Team identify stakeholders that have a vested interest in the value the release provides. These are stakeholders who will benefit from the release.
 
-3. The Product Management stakeholders and Development Team define the
-   features of the release. These may be based on an existing
-   requirements specification, or they may be an initiative of the
-   team. Features are aligned with the goal of the release and provide
-   a stated value and should have a deadline.
+3. The Product Management stakeholders and Development Team define the features of the release. These may be based on an existing requirements specification, or they may be an initiative of the team. Features are aligned with the goal of the release and provide a stated value and should have a deadline.
 
 4. Key dependencies between features are identified by the team.
 
-The result of the workshop is a series of features which can be plotted
-on the Product Development Roadmap according to deadlines and with
+The result of the workshop is a series of features which can be plotted on the Product Development Roadmap according to deadlines and with
 respect to key dependencies.
 
 # References and further reading
