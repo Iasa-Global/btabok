@@ -172,11 +172,7 @@ Roam, Dan, 2009 (copyright 2008, 2009). *The Back of the Napkin: Solving Problem
 
 **Blogs/Webcasts/News Sources** 
 
-Presentation Skills: Free tips & advice to enhance your presentation skills. Retrieved March 12, 2014, from [http://www.presentation-skills.biz/](http://www.presentation-skills.biz/){:target="_blank"}.
-
 Presentation magazine Retrieved March 12, 2014, from [http://www.presentationmagazine.com/Essential_Presentation_skills.htm](http://www.presentationmagazine.com/Essential_Presentation_skills.htm){:target="_blank"}.
-
-How to Improve Your Presentation Skills by Sarah Kessler Retrieved March 12, 2014, from [http://www.inc.com/guides/how-to-improve-your-presentation-skills.html](http://www.inc.com/guides/how-to-improve-your-presentation-skills.html){:target="_blank"}.
 
 Oral Presentation Skills A Practical Guide by C. Storz Retrieved March 12, 2014, from [http://people.engr.ncsu.edu/txie/publications/oral_presentation_skills.pdf](http://people.engr.ncsu.edu/txie/publications/oral_presentation_skills.pdf){:target="_blank"}.
 

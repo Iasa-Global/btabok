@@ -285,8 +285,6 @@ Enterprise Architecture is a strategic planning function that uses a methodical 
 -   Are we reaching our customers in the geographies and locales in which they live and work, and if not, why not? (Geographies and Locales)
 -   Have we relied on partners in the right way, leveraging their strengths and the cost implications of using them without opening ourselves to problems of key dependencies? (partner profiles)
 
-[General Systems Theory: Four Types of Systems](http://www.acasa.upenn.edu/scholarly.htm){:target="_blank"}
-
 There are four basic types of system depending on whether the parts and the whole can display choice, and therefore, be purposeful.
 
 Only animate (people) and social systems (corporations) can be said to be purposeful.

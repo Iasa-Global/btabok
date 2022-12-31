@@ -115,9 +115,6 @@ Effective communication requires understanding the needs of the stakeholders, an
 
 **Blogs/Webcasts/News/Reference Resources:**
 
-[http://www.ipenz.org.nz/ipenz/forms/pdfs/Improving_Collaboration-Architects_EngineersOct2014.pdf](http://www.ipenz.org.nz/ipenz/forms/pdfs/Improving_Collaboration-Architects_EngineersOct2014.pdf){:target="_blank"}
-Fisher, R., Ury, W. and Patton, B. (1991). Getting to Yes: negotiating Agreement Without Giving In. Second Edition. New York: Penguin Books.
-
 # Author
 
 ## Shrikumar Sharma
