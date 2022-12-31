@@ -151,8 +151,6 @@ COBIT 5 Foundation [http://www.isaca.org/Education/COBIT-Education/Pages/COBIT-T
 
 Prosci Change Management Certification Program [http://www.prosci.com/training/public-open-enrollment-training-programs/#certification](http://www.prosci.com/training/public-open-enrollment-training-programs/#certification){:target="_blank"}
 
-TOGAF 9.1 (Phase H) [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program){:target="_blank"}
-
 # Author
 
 ![Elton Tucker](media/e_tucker.jpg)
