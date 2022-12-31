@@ -16,91 +16,61 @@ tags:
 
 # What is Quality Assurance
 
-Any business or organization which produces services or products wants
-to ensure that they maintain the expected quality for their customers.
-Products and services which are technology-based rely on the
-architecture to provide the foundation or framework for design.
-Therefore, it is important to ensure that the architecture meets the
-expected quality since the following designs and implementation will be
+Any business or organization which produces services or products wants to ensure that they maintain the expected quality for their customers.
+Products and services which are technology-based rely on the architecture to provide the foundation or framework for design.
+Therefore, it is important to ensure that the architecture meets the expected quality since the following designs and implementation will be
 based on the architecture.
 
-Quality assurance (or QA) is the process by which we can ensure that an
-architecture meets the expected quality standards. This process should
-check both the process by which the architecture is created as well as
-testing the resulting architecture.
+Quality assurance (or QA) is the process by which we can ensure that an architecture meets the expected quality standards. This process should
+check both the process by which the architecture is created as well as testing the resulting architecture.
 
-Quality Assurance is commonly practiced through two methods that attempt
-to ensure that the architecture meets the quality expectations,
+Quality Assurance is commonly practiced through two methods that attempt to ensure that the architecture meets the quality expectations,
 validation and verification.
 
 # Why do we need Quality Assurance
 
-Perhaps the most important reason for quality assurance is that the
-customer receives a product or service at the expected quality. Without
-quality assurance it is difficult to assess the level of quality before
-the product or service reaches the customer. Low-quality deliveries to
-the customer eat at trust, and damage business reputation. This has a
-significantly negative effect on business. Since most technology
-products and services are built upon an architecture it is of critical
-importance that the architecture maintains a good quality.
+Perhaps the most important reason for quality assurance is that the customer receives a product or service at the expected quality. Without
+quality assurance it is difficult to assess the level of quality before the product or service reaches the customer. Low-quality deliveries to
+the customer eat at trust, and damage business reputation. This has a significantly negative effect on business. Since most technology
+products and services are built upon an architecture it is of critical importance that the architecture maintains a good quality.
 
-Performing quality assurance throughout the architecture and development
-process helps to find design defects and errors early in the development
-cycle. Defects which are found early in the cycle are less expensive to
-fix and require less effort.
+Performing quality assurance throughout the architecture and development process helps to find design defects and errors early in the development
+cycle. Defects which are found early in the cycle are less expensive to fix and require less effort.
 
-Quality assurance supports the development of architecture to the right
-quality, where quality is often a trade-off with time and cost. When
-developing an architecture it is important to ensure the right balance
-of quality, and ensure that the architecture is fit for its intended
-purpose. Performing good quality assurance practices supports getting
-the balance right.
+Quality assurance supports the development of architecture to the right quality, where quality is often a trade-off with time and cost. When
+developing an architecture it is important to ensure the right balance of quality, and ensure that the architecture is fit for its intended
+purpose. Performing good quality assurance practices supports getting the balance right.
 
-Quality assurance applies not only to testing the quality of the
-end-product but also to the process by which the product is developed.
-This also applies to the process by which we ensure quality in the
-architecture. This is particularly important in industries that have to
-comply with strong regulatory requirements and [governance]{.underline}.
-Quality assurance supports [governance](governance.md){:target="_blank"} ensuring that
-standards and regulations are followed.
+Quality assurance applies not only to testing the quality of the end-product but also to the process by which the product is developed.
+This also applies to the process by which we ensure quality in the architecture. This is particularly important in industries that have to
+comply with strong regulatory requirements and [governance]{.underline}. Quality assurance supports [governance](governance.md){:target="_blank"} ensuring that standards and regulations are followed.
 
 # Quality Assurance Approach
 
 ## Quality Assurance Throughout the Whole Process
 
-Quality assurance is something that is performed throughout the whole
-process of developing an architecture. Don't leave it to the end of
-product development. Starting quality assurance early and continually
-checking the architecture will lead to detecting ineffective design,
-errors and problems early in the process, making it less expensive to
-fix.
+Quality assurance is something that is performed throughout the whole process of developing an architecture. Don't leave it to the end of
+product development. Starting quality assurance early and continually checking the architecture will lead to detecting ineffective design,
+errors and problems early in the process, making it less expensive to fix.
 
 ## Architects Outside the Team
 
-Involve architects, who are outside the team, in the quality assurance
-process. Architects who work with an architecture day-in-day-out can
-become blind to design defects. Involving architects from outside the
-team can often result in detecting defects much faster and even the
+Involve architects, who are outside the team, in the quality assurance process. Architects who work with an architecture day-in-day-out can
+become blind to design defects. Involving architects from outside the team can often result in detecting defects much faster and even the
 discovery of new ways of improving quality.
 
 ## Cost and Quality Assurance
 
-Quality Assurance costs effort and time to operate, and can also cost
-products in terms of time-to-market. It is important to get the right
-balance of quality assurance against cost, just enough to ensure the
-expected quality. Some organizations may feel that an easy way to cut
-costs is to reduce expensive QA activities, however this can have
-significantly negative effects on business.
+Quality Assurance costs effort and time to operate, and can also cost products in terms of time-to-market. It is important to get the right
+balance of quality assurance against cost, just enough to ensure the expected quality. Some organizations may feel that an easy way to cut
+costs is to reduce expensive QA activities, however this can have significantly negative effects on business.
 
-*"If you think that Quality Assurance is expensive, wait until you see
-the cost of poor quality."*
+*"If you think that Quality Assurance is expensive, wait until you see the cost of poor quality."*
 
 ## Wasting Time
 
-The effect of poor quality is the expenditure of effort on non-value
-activities, for example, correcting mistakes, provision of extra
-support, appeasing unsatisfied customers, or performing ineffective
-workarounds.
+The effect of poor quality is the expenditure of effort on non-value activities, for example, correcting mistakes, provision of extra
+support, appeasing unsatisfied customers, or performing ineffective workarounds.
 
 *"Time waste differs from material waste in that there can be no salvage.
 The easiest of all wastes, and the hardest to correct, is the waste of
@@ -264,11 +234,7 @@ implementation.
 
 ## Requirements Validation
 
-Once a product or service is implemented and executable, the
-requirements on the architecture can be validated. [Quality
-attributes](quality_attributes.md){:target="_blank"} provide a set of non-functional requirements on
-the architecture, but these can still be tested. For example,
-performance and robustness as quality attributes are often tested before
+Once a product or service is implemented and executable, the requirements on the architecture can be validated. [Quality attributes](quality_attributes.md){:target="_blank"} provide a set of non-functional requirements on the architecture, but these can still be tested. For example, performance and robustness as quality attributes are often tested before
 product release.
 
 Significant functional requirements on the architecture are also

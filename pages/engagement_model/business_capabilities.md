@@ -87,7 +87,7 @@ make it clear to understand how a business capability is defined.
 
 - **Definition :** A particular ability or capacity that a business
   may possess or exchange to achieve a specific purpose or
-  outcome.[^2]
+  outcome.
 
 - **What comprises a capability:** A business capability consists of a
   set of knowledge (things you know), skills (things you can do), and
@@ -114,7 +114,7 @@ make it clear to understand how a business capability is defined.
 
 ![image001](media/bc3.png) 
 
-> Figure 1. The relationship between capabilities and processes[^3].
+> Figure 1. The relationship between capabilities and processes.
 
 ## Business Capability Models
 
@@ -143,7 +143,7 @@ colored green, yellow, or red to represent their position on an ordinal
 scale where green is “good” (less investment, more maturity) and red is
 “bad” (more investment, less maturity). There is widespread debate about
 the utility of the heat map, given its confusing meaning, but they
-continue to be widely used[^4].
+continue to be widely used.
 
 ![image001](media/bc4.png)
 
@@ -159,7 +159,7 @@ All participants in a given industry have a common capability model. The
 demands of the industry dictate the capabilities required to
 participate. This commonality makes possible industry models such as
 eTOM for the telecom industry, or the various industry models published
-by APQC[^5] (which are capability models even though APQC calls them
+by APQC (which are capability models even though APQC calls them
 process models). When building a capability model, the best place to
 start is with an industry standard model.
 
@@ -183,7 +183,7 @@ There are two main ways to find those capabilities important to your
 strategy, and both of them yield a slightly different set of
 capabilities. Both methods will be covered and both are recommended.
 
-Perry, Stott, and Smallwood[^6] provided some guidance as to which
+Perry, Stott, and Smallwood provided some guidance as to which
 capabilities were important based on the selected business focus. For
 the purposes of identifying what they call *the unit of competitive
 advantage (UCA)*, or more commonly, core capabilities, those that help
@@ -385,13 +385,11 @@ improvement project or program, depending on its size.
 1. Goldratt, Eliyahu M. and Jeff Cox, The Goal: A Process of Ongoing
    Improvement, North River Press, Great Barrington, MA: 1984.
 
-2. Ulrich Homann, “A Business-Oriented Foundation for Service Orientation”, Feb. 2006, [http://bit.ly/2faqT67](http://bit.ly/2faqT67){:target="_blank"}.
+2. Whitmire, Scott A. “It’s Time to Kill the Heat Map”, March 19, 2019, accessed August 10, 2020, [https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/](https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/){:target="_blank"}
 
-3. Whitmire, Scott A. “It’s Time to Kill the Heat Map”, March 19, 2019, accessed August 10, 2020, [https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/](https://scottwhitmire.wordpress.com/2019/03/19/its-time-to-kill-the-heat-map/){:target="_blank"}
+3. APQC's [Process Classification Framework® (PCF) ] [https://www.apqc.org/process-performance-management/process-frameworks](https://www.apqc.org/process-performance-management/process-frameworks){:target="_blank"} is a taxonomy of business processes that allows organizations to      objectively track and compare their performance internally and externally with organizations from any industry. It also forms the basis for a variety of projects related to business processes [https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7](https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7){:target="_blank"}.
 
-4. APQC's [Process Classification Framework® (PCF) ] [https://www.apqc.org/process-performance-management/process-frameworks](https://www.apqc.org/process-performance-management/process-frameworks){:target="_blank"} is a taxonomy of business processes that allows organizations to      objectively track and compare their performance internally and externally with organizations from any industry. It also forms the basis for a variety of projects related to business processes [https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7](https://www.apqc.org/resource-library/resource-listing/apqc-process-classification-framework-pcf-cross-industry-excel-7){:target="_blank"}.
-
-5. Perry, Stott, and Smallwood, Real-Time Strategy: Improvising Team-Based Planning for a Fast-Changing World, New York, NY: Wiley, 1993.
+4. Perry, Stott, and Smallwood, Real-Time Strategy: Improvising Team-Based Planning for a Fast-Changing World, New York, NY: Wiley, 1993.
 
 ![image001](media/by-nc.png)
 

@@ -80,7 +80,7 @@ availability, resiliency etc.).
 
 ## Promote Sustainability
 
-Sustainability is an important [quality attribute](qualityattributes.md){:target="_blank"} for
+Sustainability is an important [quality attribute](quality_attributes.md){:target="_blank"} for
 prolonging the lifetime of a system. Ensuring that the architecture is
 sustainable means that the system can meet the current expectations,
 without compromising future expectations. While this is not easy, this
@@ -225,7 +225,7 @@ the business to cope with change.
 ## Bottlenecks
 
 A system landscape can contain many modern systems, but a single legacy
-system can create a bottleneck in a [value stream](value_stream.md){:target="_blank"} or
+system can create a bottleneck in a [value stream](value_streams.md){:target="_blank"} or
 business process. In the flow of work, the presence of an upstream
 legacy system may well prevent or reduce the benefits of modernized
 systems further down the stream. Work and effort bunch up at the
