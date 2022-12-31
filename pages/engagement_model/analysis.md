@@ -120,10 +120,6 @@ Kazman, Rick, Mark Klein, and Paul Clements, *ATAM: Method for Architecture Eval
 'List of System Quality Attributes', *Wikipedia*, 2020 
 [https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877](https://en.wikipedia.org/w/index.php?title=List_of_system_quality_attributes&oldid=953823877){:target="_blank"} [accessed 28 May 2020]
 
-Marcus Vitruvius Pollio, *De Architectura*, 25AD
-
-Perry, Dewayne E., and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 [https://doi.org/10.1145/141874.141884](https://doi.org/10.1145/141874.141884){:target="_blank"}
-
 'SARM Tool Download' 
 [https://sarm.org.uk/download/](https://sarm.org.uk/download/){:target="_blank"} [accessed 29 May 2020]
 
@@ -135,9 +131,6 @@ Szwed, Piotr, Igor Wojnicki, Sebastian Ernst, and Andrzej Glowacz, 'Application 
 
 Wolman, David, 'Before the Levees Break: A Plan to Save the Netherlands', 2008 
 [http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all](http://www.wired.com/science/planetearth/magazine/17-01/ff_dutch_delta?currentPage=all){:target="_blank"} [accessed 20 February 2010]
-
-Dewayne E. Perry and Alexander L. Wolf, 'Foundations for the Study of Software Architecture', *SIGSOFT Softw. Eng. Notes*, 17.4 (1992), 40--52 (p. 43) 
-[https://doi.org/10.1145/141874.141884](https://doi.org/10.1145/141874.141884){:target="_blank"}
 
 IEEE, 'ISO/IEC/IEEE Systems and Software Engineering -- Architecture Description', *ISO/IEC/IEEE 42010:2011(E) (Revision of ISO/IEC 42010:2007 and IEEE Std 1471-2000)*, 2011, 1--46 (p. 9) 
 [https://doi.org/10.1109/IEEESTD.2011.6129467](https://doi.org/10.1109/IEEESTD.2011.6129467){:target="_blank"}
