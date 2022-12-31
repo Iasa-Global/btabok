@@ -22,7 +22,7 @@ A deep understanding of the importance of designing and utilizing change managem
 
 Architectural change management is the process by which the architecture is moved into production and the target business value must be achieved.   This involved both implementing the architecture into the target environment as well as monitoring and managing changes to the architecture as it moves into production environments.  As change management is where the work of the architect is realized into actual business value it is arguably among the most critical skill of a successful architect.
 
-**Common tasks involved in this skill**
+**Common tasks involved in this skill** 
 
 The architect will be engaged in multiple tasks through the change management phase of architectural development and deployment.   Among them are:
 

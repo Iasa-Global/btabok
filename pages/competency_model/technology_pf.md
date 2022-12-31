@@ -80,7 +80,7 @@ While the ETL process is about consolidating data from many sources into one, En
 | | -   Learner can give examples of scenarios for A2A and B2B integrations
 | **CITA -- Specialist** | -   Learner can fully use EAI Patterns to describe complex integration scenarios.
 | | -   Learner can judge when messaging should be applied or not.
-| | -   Learner can combine middleware products to implement both A2A and B2B integrations
+| | -   Learner can combine middleware products to implement both A2A and B2B integrations 
 | **CITA -- Professional** | -   Learner use
 
 # Resources

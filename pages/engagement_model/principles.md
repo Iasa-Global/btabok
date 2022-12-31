@@ -150,13 +150,9 @@ As it was mentioned, architecture principles are used to trace the architectural
 
 # Perspective
 
-There are a number of organizations -- both in the public good and commercial -- who have advanced statements of principles, listed below.  In this section, I am going to summarize an elevator pitch I heard consistently while at Boeing.  I asked the group of architects I was talking with how they prioritized principles and they almost unanimously replied with this simple statement, "We do:
+There are a number of organizations -- both in the public good and commercial -- who have advanced statements of principles, listed below.  In this section, I am going to summarize an elevator pitch I heard consistently while at Boeing.  I asked the group of architects I was talking with how they prioritized principles and they almost unanimously replied with this simple statement, 
 
-First, what is right for our customer [to be safe, see value in our solutions, ...]
-
-Then, we do what is right for Boeing as a company,
-
-Finally, we look at what is right for our own work group."
+"We do: First, what is right for our customer [to be safe, see value in our solutions, ...] Then, we do what is right for Boeing as a company,Finally, we look at what is right for our own work group."
 
 Ask around your organization and see what answers you might get.  One of my own teams (which had had some ethical issues pin the past) came back with a completely reversed order and I realized that we had a significant gap in our shared understanding of these core principles and how as a group we understood them. 
 

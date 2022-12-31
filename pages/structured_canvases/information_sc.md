@@ -9,7 +9,7 @@ folder: structured_canvases
 ---
 ![Structured Canvases - Business](media/information_001.png)
 
-1. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}
+1. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"} 
 2. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md){:target="_blank"}
 3. [Service Landscape Canvas](service_landscape_canvas.md){:target="_blank"}
 4. [Service Interface Design Canvas](service_interface_design_canvas.md){:target="_blank"}

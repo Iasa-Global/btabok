@@ -140,7 +140,7 @@ Evaluation of required acceptance level for security, acceptance testing, certif
 | **CITA -- Specialist** | -   Learner will be able to explain the relation between software assurance an the acceptance criteria for pre and post deployment/release.
 | | -   Learner will be able to understand what a software escrow is and why is needed.
 | **CITA -- Professional** | -   Learner will be able to verify that the measures of the impact of the software to be deployed to the exiting computing ecosystems is being taken and analyzed.
-| | -   Learner will be able to understand when a software escrow strategy is needed and implement it.
+| | -   Learner will be able to understand when a software escrow strategy is needed and implement it. 
 
 ## Security in Deployment, Operations, and Disposal
 
