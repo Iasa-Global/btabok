@@ -10,10 +10,8 @@ tags:
   - chief
 ---
 
+The architect ethical principles canvas is the 11 ethical guidelines to which Iasa architects must adhere. 
+
 ![image001](media/architect_ethical_principles001.svg)
 
-[Download PPT](media/ppt/architect_ethical_principles.ppt){:target="_blank"}
-
-| Area | Description | Links To |
-| --- | --- | --- |
-|   |   |   |
+[Download PPT](media/ppt/architect_ethical_principles.ppt)

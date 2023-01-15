@@ -262,7 +262,7 @@ Examples of stakeholder concerns which are addressed by this viewpoint are:
 
 The following is a simple example context view for an ERP (Enterprise Resource Planning) system. The view shows the systems, users and other entities which interact with the system. This may help address the concerns of stakeholders regarding which information flows in and out of the system, and who is dependent on the system.
 
-![](media\views_007_ContextDiagram.png)
+![](media/views_007_ContextDiagram.png)
 
 ## Process Viewpoint
 

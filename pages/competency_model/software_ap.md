@@ -10,8 +10,7 @@ tags:
   - software_architecture
 ---
 
-Description 
-===========
+# Description 
 
 This capability is being depreciated in version 2.0 due to the following rationale:
 

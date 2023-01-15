@@ -10,8 +10,7 @@ tags:
   - information_architecture
 ---
 
-Description
-===========
+# Description
 
 A phrase more commonly heard at C-level meetings is "information is an enterprise asset". Though it may not be listed as a line item on the organization's financial assets listings, inaccurate information does have real known costs associated with it. This includes, but is not limited to, the overhead associated with poor quality data (due to having data silos needing rework or fixes to errors) plus the price from untimely access to information. According to some data quality studies and experts, these issues cost companies 15% -- 25% of their operating budget, conservatively.
 
@@ -19,8 +18,7 @@ Information Governance and Management ensures that the information needed throug
 
 The [Information Management](information_management.md){:target="_blank"} capability will provide more details regarding organizing, analyzing, and integrating the many kinds of data created in an enterprise. Together with information governance, the organization creates value and manages costs through the establishment of policies, procedures, vocabularies, and models to administer and use information.
 
-Overview
-========
+# Overview
 
 What is Information Governance?
 
@@ -84,8 +82,7 @@ The information architect, as an expert custodian of the information assets, wil
 -   Metadata and Master Data Management management/architecture design and support
 -   Analytical and Operational management/architecture design and support
 
-Proven Practices
-================
+# Proven Practices
 
 As with other maturity models, with maturity comes acceptance and support. To get even to the first stage of maturity requires education and changes to organizational culture. The information architect will assist with the transitions that will require patience, persistence and proof of positive outcomes.
 
@@ -110,10 +107,9 @@ Information architects ongoing efforts will include watching for and mitigating:
 -   Underestimation of information management complexities
 -   Criticisms of the as-is state of information; care must be taken to avoid this, as it, obviously, will have an adverse effect on garnering support from the business
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Related Sub-Capabilities**
+## Related Sub-Capabilities
 
 [Human Dynamics: All capabilities](competency_model_m.md){:target="_blank"}
 
@@ -123,7 +119,7 @@ Sub-Capabilities
 
 [Information Architecture: Information Management](information_management.md){:target="_blank"}
 
-### **Provide support and tools for Information Governance council**
+## Provide support and tools for Information Governance council
 
 -   Create and Approve Information Governance Policies, Standards and Information Architecture
 -   Estimate value of information assets -- determine direct and indirect benefits, calculate hypothetical costs if information is lost and risks exposure
@@ -135,50 +131,37 @@ Sub-Capabilities
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
 | **CITA- Foundation** | Learner will be able to:
-
--   Understand the purpose of standards, policies and other documents
--   Assist with gathering metrics to estimate value of information assets
--   State the requirements for information governance projects and initiatives
-
- |
+| | -   Understand the purpose of standards, policies and other documents
+| | -   Assist with gathering metrics to estimate value of information assets
+| | -   State the requirements for information governance projects and initiatives
 | **CITA -- Associate** | Learner will be able to:
-
--   Assist in preparation of standards, policies and other documents requiring review by a senior architect for approval by information governance council
--   Run calculations to estimate value of information assets under guidance of a senior architect
--   Implement plans from a senior architect to support information governance projects and initiatives
-
- |
+| | -   Assist in preparation of standards, policies and other documents requiring review by a senior architect for approval by information governance council
+| | -   Run calculations to estimate value of information assets under guidance of a senior architect
+| | -   Implement plans from a senior architect to support information governance projects and initiatives
 | **CITA -- Specialist** | Learner will be able to:
-
--   Prepare standards, policies and other documents for approval by information governance council
--   Assess calculation techniques to estimate value of information assets
--   Provide technical support and guidance for information governance projects and initiatives
-
- |
+| | -   Prepare standards, policies and other documents for approval by information governance council
+| | -   Assess calculation techniques to estimate value of information assets
+| | -   Provide technical support and guidance for information governance projects and initiatives
 | **CITA -- Professional** | Learner will be able to:
+| | -   Justify to members of council the value of information as an asset using metrics and with an understanding of the business' strategy
+| | -   Review and critique estimated values of information assets
+| | -   Review technology, processes and value for information governance projects and initiatives
 
--   Justify to members of council the value of information as an asset using metrics and with an understanding of the business' strategy
--   Review and critique estimated values of information assets
--   Review technology, processes and value for information governance projects and initiatives
+# Resources
 
- |
+**Articles/Websites:**
 
-Resources
-=========
+Business Intelligence Solutions, What Enterprises Can Realistically Expect From Their Investment , April 2015 p. 32. [http://www.cybertrend.com/article/16925/business-intelligence-solutions](http://www.cybertrend.com/article/16925/business-intelligence-solutions){:target="_blank"}
 
-### **Articles/Websites:**
+Ambler, Scott. Agile/Lean Data Governance Best Practices. [http://agiledata.org/essays/dataGovernance.html](http://agiledata.org/essays/dataGovernance.html){:target="_blank"}
 
-Business Intelligence Solutions, What Enterprises Can Realistically Expect From Their Investment , April 2015 p. 32. <http://www.cybertrend.com/article/16925/business-intelligence-solutions>
+University Alliance. Data Governance: Moving Towards Better Data Management. [http://www.villanovau.com/resources/bi/data-governance/#.VbVhiflVikp](http://www.villanovau.com/resources/bi/data-governance/#.VbVhiflVikp){:target="_blank"}
 
-Ambler, Scott. Agile/Lean Data Governance Best Practices. <http://agiledata.org/essays/dataGovernance.html>
+The Data Governance Institute. [http://www.datagovernance.com/](http://www.datagovernance.com/){:target="_blank"}
 
-University Alliance. Data Governance: Moving Towards Better Data Management. <http://www.villanovau.com/resources/bi/data-governance/#.VbVhiflVikp>
+Data quality trends, with expert Larry English [http://searchdatamanagement.techtarget.com/podcast/Data-quality-trends-with-expert-Larry-English](http://searchdatamanagement.techtarget.com/podcast/Data-quality-trends-with-expert-Larry-English){:target="_blank"}
 
-The Data Governance Institute. <http://www.datagovernance.com/>
-
-Data quality trends, with expert Larry English <http://searchdatamanagement.techtarget.com/podcast/Data-quality-trends-with-expert-Larry-English>
-
-### **Books:**
+**Books:**
 
 -   The DAMA Guide to the Data Management Body of Knowledge (DAMA-DMBOK). Bradley Beach, NJ: Technics Publications, 2010.
 -   Godinez, M., Hechler, E., et al. The Art of Enterprise Information Architecture, A Systems-Based Approach for Unlocking Business Insight. IBM Press, 2010.
@@ -187,12 +170,10 @@ Data quality trends, with expert Larry English <http://searchdatamanagement.tech
 -   Loshin, David. Master Data Management. The MK/OMG Press, 2009.
 
 Author
-======
-
 
 ![Bina Reed](media/b_reed.jpg)
-## **Bina Reed**
-**Enterprise Information Architect -- MPI Research**
+**Bina Reed**
+*Enterprise Information Architect -- MPI Research*
 
 Bina has held many roles in IT over the past two decades, including Software Developer, Systems Programmer and Information Architect. She has worked in a variety of industries in the U.S. -- software, higher education, CPG, healthcare and drug-development -- implementing large, complex technology solutions with multiple components. She has extensive experience managing the interplay between enterprise, legacy, customized and vendor systems, with the objective of achieving beneficial results in cost-restricted environments.
 

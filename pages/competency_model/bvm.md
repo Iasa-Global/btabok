@@ -35,31 +35,31 @@ All need to be described in order to get a clear picture of what is intended.
 
 # Proven Practices
 
-## **The Strategy View**
+## The Strategy View
 
 1.  Describes the strategic intent, goals and strategies, for the company
 2.  The idea is to understand and communicate the intent into the organization to ensure operational alignment with the strategy
 
-## **Models**
+## Models
 
 -   Balanced Scorecard
 -   Strategy Map
 -   Business Model Canvas
 -   Business Motivation Model
 
-## **The Value View**
+## The Value View
 
 1.  Identifies the key relationships between the business and its stakeholders
 2.  Describes how each benefits from the relationships
 
-## **Models**
+## Models
 
 -   Value Chains
 -   Value Streams
 -   Value Network
 -   Experience or journey maps
 
-## **The Service View**
+## The Service View
 
 1.  Package business capabilities and presents them to internal and external participants via touch points on the various experience maps
 2.  The only model is an experience map, but from multiple perspectives:
@@ -72,7 +72,7 @@ All need to be described in order to get a clear picture of what is intended.
 
 The experience maps for all perspectives, taken together, identify all of the services required of the business
 
-## **The Capability View**
+## The Capability View
 
 1.  Represents something the business does to create value, regardless of organization or implementation
 2.  The model for the capability view is a hierarchical map
@@ -82,7 +82,7 @@ The experience maps for all perspectives, taken together, identify all of the se
 
 One of the most common uses is to indicate via color those capabilities that need the most investment
 
-## **The Process View**
+## The Process View
 
 1.  Implement business capabilities in channel- or location-specific ways
 2.  Processes are modeled in a hierarchy manner,  but a number of views are possible
@@ -99,7 +99,7 @@ There is one model for the process view, but a number of representations:
 -   Sequence diagram
 -   "Subway map"
 
-## **The Operating Model**
+## The Operating Model
 
 -   Integrates capability, process, and service views
 -   Shows how value is delivered to stakeholders
@@ -110,11 +110,11 @@ Services not included in one of the models are superfluous and should be conside
 
 An operating model closely mirrors a firm's operational pattern, and both concepts describe the same aspects of the business. However, the operating model is more focused on the integration and standardization of business processes and data, and thus, information technology. The book uses "enterprise architecture" as a term to describe the overall IT architecture, but does cover aspects relevant to business architecture.
 
-## **Tying the Models Together**
+## Tying the Models Together
 
 The operating model ties capabilities, processes, and services. Performance ratios connect the operating model to business performance measurement.  Adding the Business Model Canvas and experience map to the operating model ties all the way back to strategy, unifying the entire business architecture.
 
-## **A Final Word: Models versus Deliverables**
+## A Final Word: Models versus Deliverables
 
 Models in business architecture are NOT the deliverables; they are tools.
 
@@ -130,7 +130,7 @@ Deliverables are:
 # Resources
 
 
-## **Further Reading:**
+**Further Reading:**
 
 -   Allee, Verna, *The Future of Knowledge: Increasing Prosperity through Value Networks*, Butterworth-Heinemann, 2003.
 -   Kaplan, Robert S. and David P. Norton, *The Balanced Scorecard: Translating Strategy Into Action*, Boston:Harvard Business School Publishing,1996.

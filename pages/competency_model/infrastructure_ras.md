@@ -10,167 +10,81 @@ tags:
   - infrastructure_architecture
 ---
 
-Description
-===========
+# Description
 
 Description text here...
 
-Overview
-========
+# Overview
 
 Overview text here...
 
-Proven Practices
-================
+# Proven Practices
 
 Proven practice text here...
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Sub-Capability Title**
-
-Description text here...
-
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** |
-
--   Start list items here...
-
- |
-| **CITA -- Associate** |
-
--   Start list items here...
-
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-### **Sub-Capability Title**
+## Sub-Capability Title
 
 Description text here...
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
--   Start list items here...
-
- |
-| **CITA -- Associate** |
-
--   Start list items here...
-
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-### **Sub-Capability Title**
+## Sub-Capability Title
 
 Description text here...
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
--   Start list items here...
-
- |
-| **CITA -- Associate** |
-
--   Start list items here...
-
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-### **Sub-Capability Title**
+## Sub-Capability Title
 
 Description text here...
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
--   Start list items here...
+## Sub-Capability Title
 
- |
-| **CITA -- Associate** |
+Description text here...
 
--   Start list items here...
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
- |
-| **CITA -- Specialist** |
-
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-### **Sub-Capability Title**
+## Sub-Capability Title
 
 Description text here... 
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Start list items here...
+| **CITA -- Associate** | -   Start list items here...
+| **CITA -- Specialist** | -   Start list items here...
+| **CITA -- Professional** | -   Start list items here...
 
--   Start list items here...
+# Resources
 
- |
-| **CITA -- Associate** |
+**Articles:**
 
--   Start list items here...
+**Blogs / Webcasts / News / Reference Resources:**
 
- |
-| **CITA -- Specialist** |
+**Training:**
 
--   Start list items here...
-
- |
-| **CITA -- Professional** |
-
--   Start list items here...
-
- |
-
-Resources
-=========
-
-### **Articles:**
-
-### **Blogs/Webcasts/News/Reference Resources:**
-
-### **Training:**
-
-### **Certifications:**
-
+**Certifications:**

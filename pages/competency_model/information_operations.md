@@ -10,13 +10,11 @@ tags:
   - information_architecture
 ---
 
-Description
-===========
+# Description
 
 **Information Operations** is an area concerned with overseeing, designing, and controlling the process of information and redesigning [business operations](https://en.wikipedia.org/wiki/Business_operations "Business operations"){:target="_blank"} for the benefit of the organisation. It involves the responsibility of ensuring that [business](https://en.wikipedia.org/wiki/Business "Business"){:target="_blank"} operations are [efficient](https://en.wikipedia.org/wiki/Efficiency "Efficiency"){:target="_blank"} in terms of using information that is available , and is [effective](https://en.wikipedia.org/wiki/Effectiveness "Effectiveness"){:target="_blank"} in terms of meeting customer requirements.
 
-Overview
-========
+# Overview
 
 Information Operations is vital part of any architecture as this will measure the success of architecture more than any other area. This area decides on how robust and sustainable your architecture is.
 
@@ -38,14 +36,13 @@ Hence an architect need this skill to understand/define/enable/manage  the effe
 
 - **Disaster Recovery service qualities---**These attributes include the recovery of information from relevant components in the event of disasters. It includes Recovery point objectives, recovery time objectives, backup planning, business resumption planning and so on.
 
-Proven Practices
-================
+# Proven Practices
 
 Today the business challenge is to manage data operations across various LOB's.
 
 Key Business Challenges such as
 
-**Data privacy **
+**Data privacy**
 
 -   Are employees‟ or customers‟ privacy being compromised?
 -   Is access to data limited to the authorised people?
@@ -71,7 +68,7 @@ Key Business Challenges such as
 -   Who is responsible for information disposal?
 -   What is your policy for archival management?
 
-### Proven Practice : Central and Coordinated Operational Data Repository
+## Proven Practice : Central and Coordinated Operational Data Repository
 
 A proven practice to address most or all the concerns related to information operations management function mention above is to have the "central and coordinated operational data repository" . The coordinated interaction of Information across LOBs will enable decision making for organisation's success in today's competitive environment.
 
@@ -83,8 +80,7 @@ Information Operations is responsible for a wide range of decisions, ranging fr
 
 Hence, a good practice is a highly recommended in today's dynamic business environment. Among the trends that have had a significant impact on business are just-in-time, total quality management, reengineering, flexibility, time-based competition, supply chain management, financial management, risk management, and environmental issues.
 
-Related Capabilities
-====================
+# Related Capabilities
 
 **Quality Attributes :**[ All Skills](competency_model_m.md){:target="_blank"}
 
@@ -94,10 +90,10 @@ Related Capabilities
 
 **Information Architecture:** [Information Management](information_management.md){:target="_blank"}, [Information Usage](information_usage.md){:target="_blank"}, [Information Governance](governance.md){:target="_blank"}
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### Sub-capabilities
+
+## Sub-capabilities
 
 -   **Economics :** Improvements in costs, efficiency and productivity
 -   **Quality of service:** Factors related to how required services are delivered to business including availability, uptime, response times, better change and release management standards etc.
@@ -106,47 +102,28 @@ Sub-Capabilities
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will realise that information operations are critical to the business; beginning to take actions (in people/organization, process and technologies) to gain operational control and visibility.
+| **CITA -- Associate** | -   Learner will define the information operational services for the organisation to move to a managed environment, for example, for day-to-day IT support processes and improved success in project management to become more customer- centric and increase customer satisfaction.
+| **CITA -- Specialist** | -   Learner will influence the senior management/stakeholders to enable information operational services. Helps organisation to gain efficiencies and service quality through standardisation, policy development, governance structures and implementation of proactive, processes, such as change and release management.
+| **CITA -- Professional** | -   Learner will be a trusted partner to the business for increasing the value and competitiveness of business processes, as well as the business as a whole.
 
--   Learner will realise that information operations are critical to the business; beginning to take actions (in people/organization, process and technologies) to gain operational control and visibility.
+# Resources
 
- |
-| **CITA -- Associate** |
+**Articles:**
 
--   Learner will define the information operational services for the organisation to move to a managed environment, for example, for day-to-day IT support processes and improved success in project management to become more customer- centric and increase customer satisfaction.
+[https://en.wikipedia.org/wiki/Operations_architecture](https://en.wikipedia.org/wiki/Operations_architecture){:target="_blank"}
 
- |
-| **CITA -- Specialist** |
-
--   Learner will influence the senior management/stakeholders to enable information operational services. Helps organisation to gain efficiencies and service quality through standardisation, policy development, governance structures and implementation of proactive, processes, such as change and release management.
-
- |
-| **CITA -- Professional** |
-
--   Learner will be a trusted partner to the business for increasing the value and competitiveness of business processes, as well as the business as a whole.
-
- |
-
-Resources
-=========
-
-### **Articles:**
-
-https://en.wikipedia.org/wiki/Operations_architecture
-
-### **Books:**
+**Books:**
 
 [Operations Management: An Integrated Approach, 5th Edition](https://www.safaribooksonline.com/library/view/operations-management-an/9781118122679/) by R. Dan Reid; Nada R. SandersPublished by John Wiley & Sons, 2012
 
 Information lifecycle governance in a big data environment white-paper https://www-01.ibm.com/marketing/iwm/iwm/web/signup.do?source=swg- ECM&S_PKG=ov30597&dynform=13943
 
-Authors
-=======
-
+# Authors
 
 ![Jaya Mudugal](media/j_mudugal1.jpg)
-## **Jaya Mudugal**
-**Information & Solution Architect**
+**Jaya Mudugal**
+*Information & Solution Architect*
 
 Customer-focused Information Architect with 12 years of experience in improvement-based technical project delivery and business analysis. Demonstrated mastery in facilitating evaluation of business requirements to provide suitable technical solution; ability to consistently deliver enhancements and solutions that drive customer satisfaction and loyalty.\
 Proven mentor and trainer and can adapt quickly to the organisation's objectives and needs.

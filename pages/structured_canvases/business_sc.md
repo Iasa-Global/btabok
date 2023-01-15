@@ -63,7 +63,7 @@ folder: structured_canvases
 52. [Agile Enterprise Impact Canvas](agile_enterprise_impact_canvas.md){:target="_blank"}
 53. [Architects Roadmap Canvas](architects_roadmap_canvas.md){:target="_blank"}
 54. [Layered Roadmap Canvas](layered_roadmap_canvas.md){:target="_blank"}
-55. [QAT Card](qat_card.md){:target="_blank"}
+55. [QATT Card](qatt_card.md){:target="_blank"}
 56. [SCARF Stakeholder Assessment](scarf_stakeholder_assessment.md){:target="_blank"}
 57. [Stakeholder Engagement Map Card](stakeholder_engagement_map_card.md){:target="_blank"}
 58. [Stakeholder Management Plan](stakholder_management_plan.md){:target="_blank"}

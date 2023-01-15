@@ -10,15 +10,13 @@ tags:
   - information_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Information modeling is the set of practices that determine the structure, lifecycle and accessibility requirements of the information in the domain of a business. It  is required in today's businesses to enable information flow throughout the organization. Much like the modeling during software development, where designers create models of the class structure, database schemas, and systems architecture, developing an information model that is flexible enough to absorb future changes is an art that requires balancing functionality, performance, resilience, security, and flexibility.
 
 An Information model is a design aid and an artifact referenced throughout the lifecycle of information as it relates to systems and processes. It is used by architects to represent something in a given context needed to drive business value. Building design blueprints, maps, and organization charts are all examples of using an agreed upon format to communicate ideas and represent something in the environment.
 
-Overview
-========
+# Overview
 
 As enterprises attempt to create value from their information assets, information modeling provides an important tool to communicate the design, standards and key aspects of the entities in the context of the domain being represented to all involved throughout the lifecycle of the information.
 
@@ -40,8 +38,7 @@ Models will vary depending on a number of factors: usage (whether analytical or 
 
 A model provides a formalized format that aids conversations between architects and users, stakeholders, other architects and analysts. Modeling languages standardize the notations conveying the meanings of entities, attributes, transitions, relationships, identifiers and others. A modeling session with subject matter experts will assist in translating real-world concepts (a business scenario/process) to the correct entities and information for the business needs. The notation helps ensure the meaning is not lost during design and implementation phases. Therefore, it is important to have session participants understand the notations being used. Improper analysis and understanding of the usage of the data will lead to performance, reliability, availability and scalability issues.
 
-Proven Practices
-================
+# Proven Practices
 
 Information models and modelling is useful for the IT Architects as follows:
 
@@ -52,11 +49,9 @@ Information models and modelling is useful for the IT Architects as follows:
 
 Though this artifact can be a powerful tool, it is nothing without the support to see through Information Management initiatives, such as EAI, Data Governance and/or Master Data Management, through funding and leadership.  Additionally, the notion that models are sometimes thought of as unnecessary documentation needs to be challenged.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-Discover and Analyze Domain Information Requirements
-----------------------------------------------------
+## Discover and Analyze Domain Information Requirements
 
 Similar to Requirements Discovery capability, the focus here is to discover the domain information model requirements to aid in the creation of the information model.
 
@@ -83,8 +78,7 @@ Similar to Requirements Discovery capability, the focus here is to discover the 
 
  |
 
-**Design Information Model to support requirements**
-----------------------------------------------------
+## Design Information Model to support requirements
 
 Different approaches in developing models and to understand the business process:
 
@@ -135,34 +129,17 @@ A wide variety of tools are available to assist architects with the creation and
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will know the relationship patterns (1:1, 1:m, m:m) and their implications for keys and associative entities
+| | -   Learner is aware of the normalization rules for data models
+| | -   Learner understands significance of the entities in business domain being modeled
+| | -   Learner able to follow model logic
+| **CITA -- Associate** | -   Learner will be able to discover detailed cardinality and optionality of relationships
+| | -   Learner will be able to normalize and de-normalize structures
+| **CITA -- Specialist** | -   Learner will be able to conduct sessions to discover data models
+| **CITA -- Professional** | -   Learner will be able to optimize model for usage and purpose
+| | -   Learner will be able to ask key questions of SMEs to aid in discovery, translating answers to model notation
 
--   Learner will know the relationship patterns (1:1, 1:m, m:m) and their implications for keys and associative entities
--   Learner is aware of the normalization rules for data models
--   Learner understands significance of the entities in business domain being modeled
--   Learner able to follow model logic
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to discover detailed cardinality and optionality of relationships
--   Learner will be able to normalize and de-normalize structures
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to conduct sessions to discover data models
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to optimize model for usage and purpose
--   Learner will be able to ask key questions of SMEs to aid in discovery, translating answers to model notation
-
- |
-
-**Analyze Information Models**
-------------------------------
+## Analyze Information Models
 
 Look to optimize entities and relationships depending on usage: searches, transactional, or reporting. Provide flexibility relative to current needs of consumers versus anticipated future changes.
 
@@ -179,33 +156,16 @@ Physical models provide technology detail to be able to spec and build out the s
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to understand the that there are different usages
+| | -   Learner will be able to understand the different scopes
+| | -   Learner will be able to identify differences in forms of dimensional modeling (star and snowflake schemas) and entity relationship modeling
+| **CITA -- Associate** | -   Learner will be able to identify whether model is appropriate for usage, scope, level of detail and purpose
+| | -   Learner will be able to identify when normal form versus non-normalized structure is needed
+| **CITA -- Specialist** | -   Learner will be adjust model appropriate for usage, scope and flexibility for future changes
+| | -   Learner will be able match models with known common data model patterns
+| **CITA -- Professional** | -   Learner will be able critique models knowing when to need to follow common data model patterns and when differences are appropriate as dictated by requirements
 
--   Learner will be able to understand the that there are different usages
--   Learner will be able to understand the different scopes
--   Learner will be able to identify differences in forms of dimensional modeling (star and snowflake schemas) and entity relationship modeling
-
- |
-| **CITA -- Associate** |
-
--   Learner will be able to identify whether model is appropriate for usage, scope, level of detail and purpose
--   Learner will be able to identify when normal form versus non-normalized structure is needed
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be adjust model appropriate for usage, scope and flexibility for future changes
--   Learner will be able match models with known common data model patterns
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able critique models knowing when to need to follow common data model patterns and when differences are appropriate as dictated by requirements
-
- |
-
-**Model Information Flows and Lifecycles**
-------------------------------------------
+## Model Information Flows and Lifecycles
 
 These important aspects of information can be captured in models, where:
 
@@ -214,46 +174,28 @@ These important aspects of information can be captured in models, where:
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Learner will be able to understand information flow diagrams
+| | -   Learner will be able to understand information lifecycle diagrams
+| **CITA -- Associate** | -   Learner will be able to assist in documenting information flow diagrams
+| | -   Learner will be able to assist in documenting information lifecycle diagrams
+| **CITA -- Specialist** | -   Learner will be able to discover, document and analyze information flow diagrams
+| | -   Learner will be able to discover, document and analyze information lifecycle diagrams
+| **CITA -- Professional** | -   Learner will be able to describe and critique each piece of the information flow diagrams
+| | -   Learner will be able to describe and critique each piece of the information lifecycle diagrams
 
--   Learner will be able to understand information flow diagrams
--   Learner will be able to understand information lifecycle diagrams
+# Resources
 
- |
-| **CITA -- Associate** |
-
--   Learner will be able to assist in documenting information flow diagrams
--   Learner will be able to assist in documenting information lifecycle diagrams
-
- |
-| **CITA -- Specialist** |
-
--   Learner will be able to discover, document and analyze information flow diagrams
--   Learner will be able to discover, document and analyze information lifecycle diagrams
-
- |
-| **CITA -- Professional** |
-
--   Learner will be able to describe and critique each piece of the information flow diagrams
--   Learner will be able to describe and critique each piece of the information lifecycle diagrams
-
- |
-
-Resources
-=========
-
--   [Agile Modeling](http://www.agilemodeling.com/)
+-   [Agile Modeling](http://www.agilemodeling.com/){:target="_blank"}
 
 -   The DAMA Guide to the Data Management Body of Knowledge (DAMA-DMBOK). Bradley Beach, NJ: Technics Publications, 2010.
 -   Godinez, M., Hechler, E., et al. The Art of Enterprise Information Architecture, A Systems-Based Approach for Unlocking Business Insight. IBM Press, 2010.
 -   Hay, David C. Data Model Patterns: Conventions of Thought. New York, NY: Dorset House Publishing, 2011.
 
-Author
-======
+# Author
 
 ![Bina Reed](media/b_reed.jpg)
-## **Bina Reed**
-**Enterprise Information Architect -- MPI Research**
+**Bina Reed**
+*Enterprise Information Architect -- MPI Research*
 
 Bina has held many roles in IT over the past two decades, including Software Developer, Systems Programmer and Information Architect. She has worked in a variety of industries in the U.S. -- software, higher education, CPG, healthcare and drug-development -- implementing large, complex technology solutions with multiple components. She has extensive experience managing the interplay between enterprise, legacy, customized and vendor systems, with the objective of achieving beneficial results in cost-restricted environments.
 

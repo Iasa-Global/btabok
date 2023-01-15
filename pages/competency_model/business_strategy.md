@@ -42,114 +42,64 @@ The most important role the architect have is to construct a traceability matrix
 
 ![strategic_roadmap_timeline](media/business_strategy003.png)
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Business Strategy Formulation**
-
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** |
-
--   Able to outline the various methodology of strategy formulations and its trends over the years.
-
- |
-| **CITA -- Associate** |
-
--   Able to describe the current methodology of business strategy formulation and its benefits to the enterprise.
--   Able to apply the methodology for business strategy formulation to a specific vertical industry within his/her domain of expertise.
--   Able to apply the methodology for business strategy formulation to a multiple vertical industry taking into account its unique characteristics.
-
- |
-| **CITA -- Specialist** |
-
--   Able to illustrate the strengths and weaknesses of any given business strategy after analysing it within the context of the enterprise.
--   Able to solve issues related to business strategy formulation by analysing the pain points related to the enterprise business strategy.
-
- |
-| **CITA -- Professional** |
-
--   Able to elaborate the methodology of the formulation of the business strategy to business stakeholders within specified environment.
--   Able to formulate an action plan for the formulation of a business strategy for a vertical industry that incorporate the uniqueness of the industry.
--   Able to appraise the methodology of business strategy formulation and model the business strategy execution according to accepted research methodology.
--   Able to construct a practical formulation of Business Strategy and lead the team that formulates the Business Strategy.
-
- |
-
-### **Strategic Management System**
+## Business Strategy Formulation
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Able to outline the various methodology of strategy formulations and its trends over the years.
+| **CITA -- Associate** | -   Able to describe the current methodology of business strategy formulation and its benefits to the enterprise.
+| | -   Able to apply the methodology for business strategy formulation to a specific vertical industry within his/her domain of expertise.
+| | -   Able to apply the methodology for business strategy formulation to a multiple vertical industry taking into account its unique characteristics.
+| **CITA -- Specialist** | -   Able to illustrate the strengths and weaknesses of any given business strategy after analysing it within the context of the enterprise.
+| | -   Able to solve issues related to business strategy formulation by analysing the pain points related to the enterprise business strategy.
+| **CITA -- Professional** | -   Able to elaborate the methodology of the formulation of the business strategy to business stakeholders within specified environment.
+| | -   Able to formulate an action plan for the formulation of a business strategy for a vertical industry that incorporate the uniqueness of the industry.
+| | -   Able to appraise the methodology of business strategy formulation and model the business strategy execution according to accepted research methodology.
+| | -   Able to construct a practical formulation of Business Strategy and lead the team that formulates the Business Strategy.
 
--   Able to outline the various methodology for Strategic Management System and its trends over the years.
-
- |
-| **CITA -- Associate** |
-
--   Able to describe the current methodology for Strategic Management System and its benefits to the enterprise.
--   Able to apply the methodology for Strategic Management System to a specific vertical industry within his/her domain of expertise.
--   Able to apply the methodology for Strategic Management System to a multiple vertical industry taking into account its unique characteristics.
-
- |
-| **CITA -- Specialist** |
-
--   Able to illustrate the strengths and weaknesses of any given Strategic Management System after analyzing it within the context of the enterprise.
--   Able to solve issues related for Strategic Management System by analysing the pain points related to the enterprise business strategy.
-
- |
-| **CITA -- Professional** |
-
--   Able to elaborate the characteristics of a Strategic Management System to business stakeholders within specified environment.
--   Able to formulate an action plan for the formulation of a Strategic Management System for a vertical industry that incorporate the uniqueness of the industry.
--   Able to appraise a given Strategic Management System and model system according to accepted research methodology.
--   Able to construct a practical Strategic Management System and lead the team that formulates the Strategic Management System for any given vertical industry.
-
- |
-
-### **Alignment to IT of Business Strategy**
+## Strategic Management System
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Able to outline the various methodology for Strategic Management System and its trends over the years.
+| **CITA -- Associate** | -   Able to describe the current methodology for Strategic Management System and its benefits to the enterprise.
+| | -   Able to apply the methodology for Strategic Management System to a specific vertical industry within his/her domain of expertise.
+| | -   Able to apply the methodology for Strategic Management System to a multiple vertical industry taking into account its unique characteristics.
+| **CITA -- Specialist** | -   Able to illustrate the strengths and weaknesses of any given Strategic Management System after analyzing it within the context of the enterprise.
+| | -   Able to solve issues related for Strategic Management System by analysing the pain points related to the enterprise business strategy.
+| **CITA -- Professional** | -   Able to elaborate the characteristics of a Strategic Management System to business stakeholders within specified environment.
+| | -   Able to formulate an action plan for the formulation of a Strategic Management System for a vertical industry that incorporate the uniqueness of the industry.
+| | -   Able to appraise a given Strategic Management System and model system according to accepted research methodology.
+| | -   Able to construct a practical Strategic Management System and lead the team that formulates the Strategic Management System for any given vertical industry.
 
--   Able to outline the various methodology for alignment of IT to Business Strategy and its trends over the years.
+## Alignment to IT of Business Strategy
 
- |
-| **CITA -- Associate** |
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** | -   Able to outline the various methodology for alignment of IT to Business Strategy and its trends over the years.
+| **CITA -- Associate** | -   Able to describe the current methodology for alignment of IT to Business Strategy and its benefits to the enterprise.
+| | -   Able to apply the methodology for alignment of IT to Business Strategy to a specific vertical industry within his/her domain of expertise.
+| | -   Able to apply the methodology for alignment of IT to Business Strategy to a multiple vertical industry taking into account its unique characteristics.
+| **CITA -- Specialist** | -   Able to illustrate the strengths and weaknesses of any given alignment of IT to Business Strategy after analysing it within the context of the enterprise.
+| | -   Able to solve issues related for alignment of IT to Business Strategy by analysing the pain points related to the enterprise business strategy.
+| **CITA -- Professional** | -   Able to elaborate the characteristics of the methodology for alignment of IT to Business Strategy to business stakeholders within specified environment.
+| | -   Able to formulate an action plan for alignment of IT to Business Strategy for a vertical industry that incorporate the uniqueness of the industry.
+| | -   Able to appraise a given alignment of IT to Business Strategy and model the Information Technology according to accepted research methodology.
+| | -   Able to construct a practical alignment of IT to Business Strategy and lead the team that formulates the alignment for any given vertical industry.
 
--   Able to describe the current methodology for alignment of IT to Business Strategy and its benefits to the enterprise.
--   Able to apply the methodology for alignment of IT to Business Strategy to a specific vertical industry within his/her domain of expertise.
--   Able to apply the methodology for alignment of IT to Business Strategy to a multiple vertical industry taking into account its unique characteristics.
+# Resources
 
- |
-| **CITA -- Specialist** |
+**Blogs/Webcasts/News/Reference Resources:**
 
--   Able to illustrate the strengths and weaknesses of any given alignment of IT to Business Strategy after analysing it within the context of the enterprise.
--   Able to solve issues related for alignment of IT to Business Strategy by analysing the pain points related to the enterprise business strategy.
-
- |
-| **CITA -- Professional** |
-
--   Able to elaborate the characteristics of the methodology for alignment of IT to Business Strategy to business stakeholders within specified environment.
--   Able to formulate an action plan for alignment of IT to Business Strategy for a vertical industry that incorporate the uniqueness of the industry.
--   Able to appraise a given alignment of IT to Business Strategy and model the Information Technology according to accepted research methodology.
--   Able to construct a practical alignment of IT to Business Strategy and lead the team that formulates the alignment for any given vertical industry.
-
- |
-
-Resources
-=========
-
-### **Blogs/Webcasts/News/Reference Resources:**
-
-1.  <https://en.wikipedia.org/wiki/Strategy>
+1.  [https://en.wikipedia.org/wiki/Strategy](https://en.wikipedia.org/wiki/Strategy){:target="_blank"}
 2.  Good Strategy. Bad Strategy. The difference and why it matters. Richard P Rumelt. Crown Business. New York.2011
-3.  <https://en.wikipedia.org/wiki/Business>
-4.  <https://en.wikipedia.org/wiki/Strategy>
-5.  Kaplan, R.S. and Norton D.P., HBR Jan 2008. [hbr.org](http://hbr.org/)
+3.  [https://en.wikipedia.org/wiki/Business](https://en.wikipedia.org/wiki/Business){:target="_blank"}
+4.  [https://en.wikipedia.org/wiki/Strategy](https://en.wikipedia.org/wiki/Strategy){:target="_blank"}
+5.  Kaplan, R.S. and Norton D.P., HBR Jan 2008. [hbr.org](http://hbr.org/){:target="_blank"}
 6.  IASA Lecture Business Architecture
-7.  Kaplan, R.S. and Norton D.P., HBR Jan 2008. [HBR.org](http://hbr.org/)
+7.  Kaplan, R.S. and Norton D.P., HBR Jan 2008. [HBR.org](http://hbr.org/){:target="_blank"}
 8.  **Enterprise Architecture at Work**. Marc Lankhorst et al. Modelling, Communication and Analysis. Third Edition. 2013. Springer. Berlin Heidelberg.
 9.  **Strategic Alignment Model.** Henderson and Venkatraman IBM Systems Journal, Vol 38, No 273, 1999
 

@@ -10,15 +10,13 @@ tags:
   - business_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Governance, Risk and Compliance (GRC) for an architect is an ongoing effort to ensure business objectives are taken into account in determining the required evolution of an enterprise through supporting prioritization and decision-making process and monitor performance and compliance (defined in laws, regulations, contracts, strategies and policies) against an agreed-upon evolution in support of those business objectives. Mapping ownerships of organizational capabilities and responsibilities to resolve overlaps based on the RACI (Responsible, Accountable, Consulted, and Informed) model are also included in GRC. This model can lead directly to improved business performance, smarter investments, and increased productivity when managed and controlled at an enterprise-wide level.
 
 Wikipedia Definition: Governance, Risk Management, and Compliance are three pillars that normally work together, in conjunction within an organization with the important purpose of assuring that it meets its objectives. Governance is the combination of processes established and executed by the board of directors that reflects the organization's structure, how it is managed, led and driven towards the achievement of its goals. Aligned with the risk management, which involves the prediction and management of risks that could hinder the organization to achieve its objectives, and the compliance with the company's policies and procedures, laws and regulations, a strong and efficient Governance is considered key to organization's success.
 
-Overview
-========
+# Overview
 
 With a growing regulatory environment, higher business complexity and increased focus on accountability, enterprises are forced to pursue a broad range of governance, risk and compliance initiatives across the organization. However, risks are interdependent and controls are shared which leads to uncoordinated and unmanaged initiatives or getting planned and managed in silos, potentially increasing the overall business risk for the organization. Additionally, duplication of efforts is present due to parallel compliance and risk initiatives causing costs to be uncontrolled. GRC is a discipline with the purpose of coordinating and integrating these initiatives across governance, risk management and compliance through control, definition, enforcement, and monitoring in order to create efficiency, enable more effective information sharing and reporting and avoid wasteful overlaps. The basic concepts of GRC can be explained by the following
 
@@ -90,8 +88,7 @@ The infrastructure architect will analyze data center, network, storage and IT o
 
 The software architect is responsible for addressing software development and deployment related risk exposure and analysis. Software risks include the security and use of software intensive systems. These include software hacks (security) but also business critical risk associated with software function and use.
 
-Proven Practices
-================
+# Proven Practices
 
 Governance, Risk and Compliance is not just one particular subject, discipline or endeavor. It is the attempt to develop a unified approach to interrelated tasks and events within an enterprise. The Board of Executives of any enterprise want to know whether the organization is aptly protected against potential risks thereby defining and understanding risk tolerances of the enterprise, managing them and ultimately optimizing the risk/return of the business. Furthermore, both customers and regulatory agencies demand increased accountability and transparency of corporate executives and board of directors. The costs associated with compliance are also increasing significantly while at the same time resources are being stretched thin. These are highlighted in each sub-capability, where the architect must balance the need of delivery on execution, management of stakeholder expectations, roles and responsibilities, and communication of architectural details that relate to GRC, e.g. risk management activities, which is essential for most capability areas.
 
@@ -144,13 +141,11 @@ By integrating architecture into GRC activities the organization will gain the f
  |\
  |
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
 The capabilities outlined in this section strongly correlate to three distinct capabilities in Business Technology Strategy section, namely Governance, Risk Management and Compliance. For more in-depth knowledge regarding the requirements for an architect in each of these areas, it is recommended to go through each of the before-mentioned capabilities. This section is regarding the business aspect of GRC, strongly affecting the work for an enterprise architect and most of all a business architect.
 
-**Organize and oversee**
-------------------------
+## Organize and oversee
 
 The capability involves defining outcomes, commitment, roles and responsibilities as well as approach and accountability. The GRC system is organized and overseen to integrate with and when appropriate modify the existing operating model of the business and assigning management specific responsibilities, accountability and decision-making authority to achieve system goals.
 
@@ -181,270 +176,147 @@ The capability involves defining outcomes, commitment, roles and responsibilitie
 
  |
 
-**Assess and align**
---------------------
+## Assess and align
 
 The capability involves identifying, analyzing and optimizing risk mitigation. Risks are assessed and risk profiles optimized with a portfolio of initiatives, tactics and activities.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Understand risk mitigation types and classification scheme
+| | -   Define and differentiate between primary concepts in risk assessment such as business impact analysis, risk profiles, risk probability
+| | -   Understand critical risk identification and analysis tools and techniques
+| **CITA -- Associate** | -   Apply risk analysis and mitigation techniques to GRC level scope and interact with stakeholders
+| | -   Identify areas for risk exposure, impact, mitigation and the most effective approach
+| | -   Support and participate in risk management organization and identification activities
+| | -   Awareness and collaboration with risk operations staff and risk operation requirements
+| **CITA -- Specialist** | -   Take responsibility for risk mitigation techniques on GRC activities
+| | -   Lead GRC teams and stakeholders in risk analysis and to appropriately address risks
+| | -   Lead risk identification, analyze exposure and use classification techniques for risks (confidentiality, integrity, availability)
+| **CITA -- Professional** | -   Lead enterprise level risk mitigation activities within architecture initiatives and engagement model
+| | -   Identify and address critical enterprise class risks in future business and technology strategy and activities
 
--   Understand risk mitigation types and classification scheme
--   Define and differentiate between primary concepts in risk assessment such as business impact analysis, risk profiles, risk probability
--   Understand critical risk identification and analysis tools and techniques
-
- |
-| **CITA -- Associate** |
-
--   Apply risk analysis and mitigation techniques to GRC level scope and interact with stakeholders
--   Identify areas for risk exposure, impact, mitigation and the most effective approach
--   Support and participate in risk management organization and identification activities
--   Awareness and collaboration with risk operations staff and risk operation requirements
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for risk mitigation techniques on GRC activities
--   Lead GRC teams and stakeholders in risk analysis and to appropriately address risks
--   Lead risk identification, analyze exposure and use classification techniques for risks (confidentiality, integrity, availability)
-
- |
-| **CITA -- Professional** |
-
--   Lead enterprise level risk mitigation activities within architecture initiatives and engagement model
--   Identify and address critical enterprise class risks in future business and technology strategy and activities
-
- |
-
-**Prevent and promote**
------------------------
-
+## Prevent and promote
 The capability involves defining code of conduct, policies, preventative controls, awareness and education, human capital incentives, stakeholder relations and requirements and risk financing/insuring. Desirable conduct is promoted and motivated, while undesirable events and activities are prevented using a mix of controls and incentives.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Understand policy types
+| | -   Define preventative control techniques in multiple scenarios
+| **CITA -- Associate** | -   Apply preventative control techniques to business
+| | -   Identify areas which have undesirable events and the most effective approach
+| **CITA -- Specialist** | -   Take responsibility for preventative control techniques on business technology activities
+| | -   Lead GRC teams and stakeholders to appropriately address desirable conduct
+| **CITA -- Professional** | -   Lead enterprise level GRC activities within architecture initiatives for awareness and education
+| | -   Address critical enterprise class preventative controls within technical and business activities
 
--   Understand policy types
--   Define preventative control techniques in multiple scenarios
-
- |
-| **CITA -- Associate** |
-
--   Apply preventative control techniques to business
--   Identify areas which have undesirable events and the most effective approach
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for preventative control techniques on business technology activities
--   Lead GRC teams and stakeholders to appropriately address desirable conduct
-
- |
-| **CITA -- Professional** |
-
--   Lead enterprise level GRC activities within architecture initiatives for awareness and education
--   Address critical enterprise class preventative controls within technical and business activities
-
- |
-
-**Detect and discern**
-----------------------
+## Detect and discern
 
 The capability involves defining hotline and notification, inquiry and survey, and detective controls. Actual and potential undesirable conduct, GRC system weaknesses, stakeholder concerns and events are detected using an extensive network of effective information gathering and analysis techniques.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Understand detective control types
+| | -   Understand GRC system weaknesses
+| **CITA -- Associate** | -   Apply information gathering and analysis techniques for detective controls
+| | -   Identify areas for control and the most effective approach
+| **CITA -- Specialist** | -   Take responsibility for stakeholder concerns on GRC activities
+| | -   Lead GRC teams and stakeholders to appropriately address GRC system weaknesses
+| **CITA -- Professional** | -   Lead enterprise level control activities within architecture initiatives
+| | -   Address technical and business activities on an enterprise level regarding detective controls
 
--   Understand detective control types
--   Understand GRC system weaknesses
-
- |
-| **CITA -- Associate** |
-
--   Apply information gathering and analysis techniques for detective controls
--   Identify areas for control and the most effective approach
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for stakeholder concerns on GRC activities
--   Lead GRC teams and stakeholders to appropriately address GRC system weaknesses
-
- |
-| **CITA -- Professional** |
-
--   Lead enterprise level control activities within architecture initiatives
--   Address technical and business activities on an enterprise level regarding detective controls
-
- |
-
-**Respond and resolve**
------------------------
+## Respond and resolve
 
 The capability involves performing internal review and investigation, third-party inquiries and investigations, corrective controls, crisis response and recovery as well as remediation and discipline. This involves the ability to respond to and recover from noncompliance and unethical conduct events, or GRC system failures, so that each immediate issue is resolved by the organization and similar issues are prevented or resolved more effectively and efficiently in the future.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Understand crisis response and recovery types
+| | -   Define response and recovery techniques in multiple scenarios for noncompliance
+| **CITA -- Associate** | -   Apply corrective control techniques to business technology activities
+| | -   Identify areas for crisis response and recovery and the most effective approach
+| **CITA -- Specialist** | -   Take responsibility for crisis response and recovery techniques business technology activities
+| | -   Lead GRC teams and stakeholders to appropriately address GRC system failures
+| **CITA -- Professional** | -   Lead crisis response and recovery activities within architecture initiatives on an enterprise level
+| | -   Address critical enterprise class unethical conduct events and noncompliance within technical and business activities
 
--   Understand crisis response and recovery types
--   Define response and recovery techniques in multiple scenarios for noncompliance
-
- |
-| **CITA -- Associate** |
-
--   Apply corrective control techniques to business technology activities
--   Identify areas for crisis response and recovery and the most effective approach
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for crisis response and recovery techniques business technology activities
--   Lead GRC teams and stakeholders to appropriately address GRC system failures
-
- |
-| **CITA -- Professional** |
-
--   Lead crisis response and recovery activities within architecture initiatives on an enterprise level
--   Address critical enterprise class unethical conduct events and noncompliance within technical and business activities
-
- |
-
-**Monitor and measure**
------------------------
+## Monitor and measure
 
 The capability involves defining context monitoring, performance monitoring and evaluation, systematic improvement and assurance. The GRC system is periodically and on an ongoing basis monitored, measured and modified to ensure it contributes to business objectives while being effective, efficient and responsive to changing environment.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Understand monitoring and measuring types
+| | -   Define improvement techniques in multiple scenarios
+| **CITA -- Associate** | -   Apply improvement techniques within GRC business technology activities
+| | -   Identify areas for improvement and the most effective approach
+| **CITA -- Specialist** | -   Take responsibility for performance monitoring and evaluation techniques on business technology activities
+| | -   Lead GRC teams and stakeholders to appropriately address systematic improvement and assurance
+| **CITA -- Professional** | -   Lead enterprise level performance monitoring and evaluation activities within architecture initiatives
+| | -   Lead systematic improvement and assurance on an enterprise level within technical and business activities
 
--   Understand monitoring and measuring types
--   Define improvement techniques in multiple scenarios
-
- |
-| **CITA -- Associate** |
-
--   Apply improvement techniques within GRC business technology activities
--   Identify areas for improvement and the most effective approach
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for performance monitoring and evaluation techniques on business technology activities
--   Lead GRC teams and stakeholders to appropriately address systematic improvement and assurance
-
- |
-| **CITA -- Professional** |
-
--   Lead enterprise level performance monitoring and evaluation activities within architecture initiatives
--   Lead systematic improvement and assurance on an enterprise level within technical and business activities
-
- |
-
-**Inform and integrate**
-------------------------
+## Inform and integrate
 
 The capability involves defining and performing information management and documentation, internal and external communication, technology and infrastructure. GRC information is captured, managed and documented to efficiently and accurately be communicated across the extended enterprise and to external stakeholders.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   Understand communication types
+| | -   Define information management techniques in multiple scenarios
+| **CITA -- Associate** | -   Apply information management techniques within business technology activities
+| | -   Identify areas for communication type and the most effective approach
+| **CITA -- Specialist** | -   Take responsibility for information management techniques on technology and infrastructure activities
+| | -   Lead GRC teams and stakeholders to appropriately address information management and documentation
+| **CITA -- Professional** | -   Lead enterprise level risk information management activities within architecture initiatives
+| | -   Lead communication on an enterprise level within technical and business activities
 
--   Understand communication types
--   Define information management techniques in multiple scenarios
-
- |
-| **CITA -- Associate** |
-
--   Apply information management techniques within business technology activities
--   Identify areas for communication type and the most effective approach
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for information management techniques on technology and infrastructure activities
--   Lead GRC teams and stakeholders to appropriately address information management and documentation
-
- |
-| **CITA -- Professional** |
-
--   Lead enterprise level risk information management activities within architecture initiatives
--   Lead communication on an enterprise level within technical and business activities
-
- |
-
-**Context and culture**
------------------------
+## Context and culture
 
 The capability involves defining and incorporating external and internal business context, culture, values and objectives. This requires the GRC system to address current realities by an understanding of the current culture and internal as well as external business contexts in which the organization operates. This also involves identifying opportunities to affect the context to be more consistent with desired organizational outcomes.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
-
--   Understand culture and value types
--   Define context in which the organization operates
-
- |
-| **CITA -- Associate** |
-
--   Apply business context techniques within business technology activities
--   Identify the most effective approach to achieve desired organizational outcomes through culture within business and technical activities
-
- |
-| **CITA -- Specialist** |
-
--   Take responsibility for stimulating healthy culture and values within business and technical activities
--   Lead teams and stakeholders to appropriately address culture and value issues
-
- |
-| **CITA -- Professional** |
-
--   Lead enterprise level organizational activities within architecture initiatives regarding culture and values
--   Address critical enterprise level culture and value activities within technical and business activities
-
- |
+| **CITA- Foundation** | -   Understand culture and value types
+| | -   Define context in which the organization operates
+| **CITA -- Associate** | -   Apply business context techniques within business technology activities
+| | -   Identify the most effective approach to achieve desired organizational outcomes through culture within business and technical activities
+| **CITA -- Specialist** | -   Take responsibility for stimulating healthy culture and values within business and technical activities
+| | -   Lead teams and stakeholders to appropriately address culture and value issues
+| **CITA -- Professional** | -   Lead enterprise level organizational activities within architecture initiatives regarding culture and values
+| | -   Address critical enterprise level culture and value activities within technical and business activities
 
 Resources
-=========
 
-### **Articles:**
+**Articles:**
 
-http://www.tomsitpro.com/articles/it-governance-certifications,2-646-5.html
+[http://www.tomsitpro.com/articles/it-governance-certifications,2-646-5.html](http://www.tomsitpro.com/articles/it-governance-certifications,2-646-5.html){:target="_blank"}
 
-### **Blogs/Webcasts/News/Reference Resources:**
+**Blogs/Webcasts/News/Reference Resources:**
 
 Mithell, Scott L. Switzer, Carole Stern. GRC Capability Model "Red Book" 2.0. The Open Compliance and Ethics Group, 2009. Print.
 
-### **Training:**
+**Training:**
 
 The Open Compliance and Ethics Group as well as the Governance, Risk and Compliance Group offer various training programs in the field.
 
-http://www.oceg.org/
+[http://www.oceg.org/](http://www.oceg.org/){:target="_blank"}
 
-http://www.grcg.com/
+[http://www.grcg.com/](http://www.grcg.com/){:target="_blank"}
 
-### **Certifications:**
+**Certifications:**
 
 There are numerous organizations specializing in GRC certifications with an increasing number of certifications involving IT knowledge. The following are a few examples of professional, industry-acknowledged and best practice certifications.
 
-http://www.grccertify.org/
+[http://www.grccertify.org/](http://www.grccertify.org/){:target="_blank"}
 
-http://www.oceg.org/
+[http://www.oceg.org/](http://www.oceg.org/){:target="_blank"}
 
-http://www.grcg.com/
+[http://www.grcg.com/](http://www.grcg.com/){:target="_blank"}
 
-Author
-======
-
+# Author
 
 ![Farzad Ahmed](media/farzad_ahmed.jpg)
-### **Farzad Ahmed**
-**IT Consultant -- Gartner**
+**Farzad Ahmed**
+*IT Consultant -- Gartner*
 
 Farzad Ahmed has a firm background in IT Governance within the private and public sector with focus on Enterprise Architecture, business intelligence, business development and total quality management. His current position as Management Consultant for Gartner, focuses on ensuring that IT delivers value to the business and supports their goals, visions and objectives through effective governance, architecture, risk management and portfolio management. In other words, making the IT organization a strategic business partner. Farzad worked formerly as a Management Consultant for PwC where he defined requirements and defined solutions, which he still does.
 

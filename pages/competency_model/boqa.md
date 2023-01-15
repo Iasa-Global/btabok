@@ -73,7 +73,7 @@ availability, correctness, dependability, failure transparency, fault-tolerance
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
 *   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
 
-## **Change Management**
+## Change Management
 
 When the solution is being designed the IT Architect may be directed by the organisations principles of Buy vs Build. The constraints associated with this principle has a significant impact on the Change Management process. Change Management either as Configuration or Customisation via code.
 
@@ -88,7 +88,7 @@ Some of the Quality Attributes that could be associated with Change Management; 
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
 *   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
 
-## **Organisations Strategy**
+## Organisations Strategy
 
 When the IT Architect has to identify and design a solution that is aligned with the Organisations long term strategy and if incorrectly chosen has serious consequences to the organisations ability to deliver on its organisations business strategy.
 
@@ -103,7 +103,7 @@ Some of the Quality Attributes that could be associated with Organisations Strat
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
 *   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
 
-## **Financial Business Case**
+## Financial Business Case
 
 The solution needs to be financial sustainable and be designed, delivered, operated inline with the Business Case.
 

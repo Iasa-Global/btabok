@@ -366,7 +366,7 @@ time.
 
 ## Legacy systems
 
-Many businesses have [legacy systems](legacymodernization.md){:target="_blank"} in their IT-landscape which often
+Many businesses have [legacy systems](legacy_modernization.md){:target="_blank"} in their IT-landscape which often
 perform essential functions for the business. These systems often remain
 active since the cost to replace the system outweighs the perceived
 benefits of migrating to modern technology, or simply that investment is
@@ -503,8 +503,6 @@ implementation.
 **SAFe**
 [SAFe](https://www.scaledagileframework.com/){:target="_blank"}
 
-**Villanovau University**
-[Villanovau University](https://www.villanovau.com/resources/project-management/iron-triangle-project-management/){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

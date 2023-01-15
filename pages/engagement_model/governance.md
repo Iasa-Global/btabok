@@ -76,7 +76,7 @@ Practicing good governance facilitates transparency. Inspections in the
 governance process raise issues, non-conformances and openly publish
 recommendations for resolutions. This provides support for the
 organization in maintaining standards and allows architects involved in
-different [assignments](assignments.md){:target="_blank"} to learn from recommendations which
+different [assignments](assignment.md){:target="_blank"} to learn from recommendations which
 are openly discussed.
 
 Having a governance framework in place helps to develop a culture of
@@ -86,8 +86,7 @@ Governance is particularly important when working in business areas
 where bad decisions have severe consequences. These are often safety
 critical types of business, for example, medical, nuclear, or aerospace,
 where a bad decision or a missed inspection can cost lives. Governance
-provides the organization with a way of regulating [safety and
-liability](safety_and_liability.md), and provides clarity regarding responsibility
+provides the organization with a way of regulating [safety and liability](safety_liability.md), and provides clarity regarding responsibility
 and accountability.
 
 # Governance Approach
@@ -214,7 +213,7 @@ governance framework together with stakeholders:
 
 Governance not only influences the process of developing an architecture
 but even affects the architecture itself. Governance may place
-requirements or constraint requirements on many [products](products.md){:target="_blank"}
+requirements or constraint requirements on many products
 in the organization. For example, in the pharmaceutical industry,
 manufacturing technologies have to comply to FDA (Food and Drug
 Administration) regulations, if products are to be accepted to the US
@@ -286,18 +285,7 @@ how it should be designed or implemented.
 
 ![image001](media/governance_process2.png)
 
-Instead, it is up to the architect and the stakeholders to interpret
-which [requirements](requirements.md){:target="_blank"} should be placed on the architecture in
-order to comply to the governance. The architecture, and solution can
-then be designed using these requirements. Ensuring that the
-requirements on the architecture comply to governance is key to reducing
-business [risk](risk.md){:target="_blank"}. If the resulting solution does not meet the
-governance standards, the product may never make it to production. With
-this in mind, it is recommended to perform a review of the architecture
-requirements against any applicable governance, to ensure that the
-interpretation is correct. This is likely to include different kinds of
-stakeholders from the organization, for example, legal, financial,
-political or environmental.
+Instead, it is up to the architect and the stakeholders to interpret which [requirements](requirements.md){:target="_blank"} should be placed on the architecture in order to comply to the governance. The architecture, and solution can then be designed using these requirements. Ensuring that the requirements on the architecture comply to governance is key to reducing business [risk](risk_methods.md){:target="_blank"}. If the resulting solution does not meet the governance standards, the product may never make it to production. With this in mind, it is recommended to perform a review of the architecture requirements against any applicable governance, to ensure that the interpretation is correct. This is likely to include different kinds of stakeholders from the organization, for example, legal, financial, political or environmental.
 
 ## Checking for Compliance
 

@@ -42,11 +42,13 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 - How do I deal with all these canvases and how are they linked?
 
+- How do I update a legacy system?
+
 ## The Aspiring Architect
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. 
 
-## The New Product
+## The New Product Idea
 
 The solution arch that has been
 
@@ -85,3 +87,7 @@ sdfdf
 ## What's With All the Canvases
 
 This is my 
+
+## Understanding Our Customer
+
+This is my

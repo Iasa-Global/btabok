@@ -22,7 +22,7 @@ A deep understanding of the importance of designing and utilizing change managem
 
 Architectural change management is the process by which the architecture is moved into production and the target business value must be achieved.   This involved both implementing the architecture into the target environment as well as monitoring and managing changes to the architecture as it moves into production environments.  As change management is where the work of the architect is realized into actual business value it is arguably among the most critical skill of a successful architect.
 
-**Common tasks involved in this skill**
+**Common tasks involved in this skill** 
 
 The architect will be engaged in multiple tasks through the change management phase of architectural development and deployment.   Among them are:
 
@@ -143,8 +143,6 @@ Prince2 [https://www.axelos.com/find-a-training-provider](https://www.axelos.com
 
 Prosci [http://www.prosci.com/training/trainingoverview/](http://www.prosci.com/training/trainingoverview/){:target="_blank"}
 
-TOGAF [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program){:target="_blank"}
-
 **Certifications:**
 
 ITIL Foundation Certification [https://www.axelos.com/find-a-training-provider](https://www.axelos.com/find-a-training-provider){:target="_blank"}
@@ -152,8 +150,6 @@ ITIL Foundation Certification [https://www.axelos.com/find-a-training-provider](
 COBIT 5 Foundation [http://www.isaca.org/Education/COBIT-Education/Pages/COBIT-Training.aspx](http://www.isaca.org/Education/COBIT-Education/Pages/COBIT-Training.aspx){:target="_blank"}
 
 Prosci Change Management Certification Program [http://www.prosci.com/training/public-open-enrollment-training-programs/#certification](http://www.prosci.com/training/public-open-enrollment-training-programs/#certification){:target="_blank"}
-
-TOGAF 9.1 (Phase H) [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program){:target="_blank"}
 
 # Author
 

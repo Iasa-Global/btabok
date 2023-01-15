@@ -10,8 +10,7 @@ tags:
   - infrastructure_architecture
 ---
 
-Description
-===========
+# Description
 
 "Data Centers house critical computing resources in controlled environments and under centralized management, which enable enterprises to operate around the clock or according to their business needs".  Ultimately data centers need to support the applications that the business uses.
 
@@ -21,8 +20,7 @@ The architect needs to understand the trade-offs between technologies based on o
 
 Infrastructure Architecture -- Infrastructure Building Blocks and Concepts Second Edition (Kindle Location 3607). Laan, Sjaak (2012-01-31).  Lulu Press Inc. Kindle Edition.
 
-Overview
-========
+# Overview
 
 The architect needs to understand how to make technology trade-offs based on the business requirements for the data center.  These can be significant investments so proper business cases that examine not only ROI, Rate of Return or other measures of financial 'feasibility' of how to provide for basic capabilities need to be analyzed along with a realistic assessment of quality attribute , risk factors in order to make use of the appropriate architectural patterns in the design of the datacenter.   The technology landscape has changed so dramatically that even the way quality attributes are  implemented has changed considerably when real physical 'iron' realizations are compared with 'cloud services'.
 
@@ -48,7 +46,7 @@ The database needs to weight off alternative designs based on how well they meet
 
 How these layers are design very much depends on the choice of technologies and interacts between each layer.
 
-### **Availability**
+## Availability
 
 Availability or uptime is an important consideration that needs to be selected based on business needs  It is often recognized by a defined Service Level agreement (contractual) or operational level agreement (internal).  In order to calculate the overall availability of an architecture there are several important considerations.
 
@@ -149,13 +147,13 @@ Cloud technologies have also extended the concepts inherent in virtualization to
 
 Generally, the quality attributes like availability help drive the selection of the appropriate high availability architecture.  Availability costs money -- this also needs to be a consideration so that the data center is no overdesigned.
 
-### **Security**
+## Security
 
 Security and the related privacy issues have taken front stage.  These issues impact all the layers of data center design.  In a traditional design security includes not only application access remotely but securing the facility.  While auditability of security levels is important areas such as cloud technology have adapted by introducing third party certifications to validate levels of auditability are achieved.
 
 Regional and local issues with PII and laws also are important in data center set up.
 
-### **Scalability and Performance**
+## Scalability and Performance
 
 Performance is the ability to meet the user's expectations in terms of 'wait' time: it is hard to define.  Scalability refers to the ability of the system to be able to handle increased loads of various types.  However, since users notice poor performance:
 
@@ -169,11 +167,11 @@ Scalability refers to the ease with which a system can be modified to handle cha
 
 Similar to availability performance architecture references need to be evaluated. With cloud computing performance may not be as much an issue as the ability to deal with resource assignments and the proper granularity to add on resources or withdraw resources to cost effectively manages end user performance.  However bottlenecks could exist anywhere in the architecture and need to be addressed. Performance and scalability are deep subjects on their own.
 
-### **Flexibility**
+## Flexibility
 
 Flexibility has not normally been included with traditional data center design. It is the ability of the data center to be refitted with current technology.  With a traditional data center upgrades require a lot of investment in hardware.  However, cloud data centers have enabled data center design to be decoupled from its implementation.  In a word cloud has enabled unrivaled levels of flexibility.
 
-### **Why Does an Architect need this Skill?**
+## Why Does an Architect need this Skill?
 
 Data Centers are the physical realization of organizations IT infrastructure: they need to support all IT applications and end user services.   Architects need to carefully set the design to an appropriate capability based on business requirements, cost, risk factors, and quality attributes.  The infrastructure architect is the focal point that needs to bring other stakeholders together.  The infrastructure architect:
 
@@ -197,11 +195,11 @@ The architect will be involved in facilitating the data center design.
 -   The architect need to ensure that the design document is included as part of the project/initiative artifacts. Such information should be readily available for reference by various engineering groups.
 -   Familiarity with ITIL is needed to support configuration management activities around data center management.
 
-### **What is Their Ownership in this Skill?**
+## What is Their Ownership in this Skill?
 
 The infrastructure architect(s) will lead the architectural aspect of data center design.  This includes working with vendors to help set service level and operational level agreements.
 
-### **How does the architect in daily activities use this skill?**
+## How does the architect in daily activities use this skill?
 
 The Architect would be expected to be able to:
 
@@ -219,60 +217,41 @@ http://www.uptimeinstitute.com/
 
 Infrastructure Architecture -- Infrastructure Building Block and Concepts Second Edition.
 
-Proven Practices
-================
+# Proven Practices
 
 An architect is responsible for linking technology decisions with business strategy. It is increasingly evident that technology and the business cannot operate independently and there is a paradigm shift from perceiving IT as a cost center to IT as a business enabler. Solution or enterprise architect is uniquely positioned to bridge the gap between business requirements and technical reality.
 
-Sub-Capabilities
-================
+# Sub-Capabilities
 
-### **Sub-Capabilities**
+## Sub-Capabilities
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
-| **CITA- Foundation** |
+| **CITA- Foundation** | -   The Learner should be able to identify the key scenarios and recognize how these requirements match with various data center architecture.
+| | -   The learner should be able to describe the different layers of data center design.
+| | -   The learner should be aware of the basic data center architectures including both traditional and cloud architectures and the trade-offs that these architectures make.
+| **CITA -- Associate** | -   The Associate is able to articulate the key considerations in the design including data center trade-offs between cost, risk control, availability, performance, scalability, security and flexibility.
+| | -   The associate must be able to differentiate between different scenario to describe how different policies impact quality attribute trade-offs inherent in those scenarios.
+| | -   The associate needs to understand how data center management policies relate to ITIL standards at a high level.
+| | -   The associate should be able to use an appropriate reference model to match a given set of user scenarios.
+| **CITA -- Specialist** | -   The specialist is able to discuss the architectural implications various kinds of data centers.
+| | -   The specialist is able to describe how to manage these data center policies along with architectures to arrive at clear evaluation criteria for scenarios.
+| | -   The specialist is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
+| | -   The specialist is able to customize areas of the design to meet unique scenarios.
+| **CITA -- Professional** | -   The professional will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams.
+| | -   The professional has an ability to change their data center design based on further discussion with different stakeholders and explain in detail all the aspects required in making trade-off in the architecture based on requirements and how they impact quality attributes.
+| | -   The professional will understand different approaches to data center design in including data center network, storage and processing technologies.
+| | -   The professional will be able to articulate the impact of decisions from different layers in the data center design.
 
--   The Learner should be able to identify the key scenarios and recognize how these requirements match with various data center architecture.
--   The learner should be able to describe the different layers of data center design.
--   The learner should be aware of the basic data center architectures including both traditional and cloud architectures and the trade-offs that these architectures make.
+# Resources
 
- |
-| **CITA -- Associate** |
-
--   The Associate is able to articulate the key considerations in the design including data center trade-offs between cost, risk control, availability, performance, scalability, security and flexibility.
--   The associate must be able to differentiate between different scenario to describe how different policies impact quality attribute trade-offs inherent in those scenarios.
--   The associate needs to understand how data center management policies relate to ITIL standards at a high level.
--   The associate should be able to use an appropriate reference model to match a given set of user scenarios.
-
- |
-| **CITA -- Specialist** |
-
--   The specialist is able to discuss the architectural implications various kinds of data centers.
--   The specialist is able to describe how to manage these data center policies along with architectures to arrive at clear evaluation criteria for scenarios.
--   The specialist is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
--   The specialist is able to customize areas of the design to meet unique scenarios.
-
- |
-| **CITA -- Professional** |
-
--   The professional will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams.
--   The professional has an ability to change their data center design based on further discussion with different stakeholders and explain in detail all the aspects required in making trade-off in the architecture based on requirements and how they impact quality attributes.
--   The professional will understand different approaches to data center design in including data center network, storage and processing technologies.
--   The professional will be able to articulate the impact of decisions from different layers in the data center design.
-
- |
-
-Resources
-=========
-
-Uptime institute: <http://uptimeinstitute.com>
+Uptime institute: [http://uptimeinstitute.com](http://uptimeinstitute.com){:target="_blank"}
 
 Infrastructure Architecture -- Infrastructure Building Blocks and Concepts Second Edition (Kindle Location 3607). Laan, Sjaak (2012-01-31).  Lulu Press Inc. Kindle Edition.
 
 Data Center Fundamentals, understand Data Center Network design and Infrastructure Architecture, including load Balancing, SSL and security.  Mauricio Arregoces et al. Cisco Press 2004.
 
-High Availability Cluster, <https://en.wikipedia.org/wiki/High-availability_cluster>
+High Availability Cluster, [https://en.wikipedia.org/wiki/High-availability_cluster](https://en.wikipedia.org/wiki/High-availability_cluster){:target="_blank"}
 
 Architecting the Cloud, Design Decision for Cloud Computing Service Models, Michael J Kavis, Wiley, 2008
 
@@ -280,7 +259,7 @@ Author
 ======
 
 ![Brice Ominski](media/b_ominski.jpg)
-### **Brice Ominski**
-**ITAP Consultant -- Microsoft**
+**Brice Ominski**
+*ITAP Consultant -- Microsoft*
 
 Provides thought leadership and practical trusted advice that enables business strategy through technology to C-level and senior management. He is an Information Technology and Architecture Planning (ITAP) advisor for Microsoft who successfully translates business strategy and requirements to propose, develop and implement Enterprise level solutions to meet overall business objectives and manage risk. Recently obtained IASA CITA-P certification

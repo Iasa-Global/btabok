@@ -148,9 +148,6 @@ The Procure Management process is focused on the management of, and the provisio
 
 -   IASA Core Architecture Skills: Getting started with the 5 pillars of IT Architecture
 
--   Priority Systems
-    [http://www.prioritysystem.com/reasons2b.html](http://www.prioritysystem.com/reasons2b.html){:target="_blank"}
-
 -   The Prioritization Matrix: Do spreadsheets really suck?
     [http://spmintersections.blogspot.ie](http://spmintersections.blogspot.ie/){:target="_blank"}
 

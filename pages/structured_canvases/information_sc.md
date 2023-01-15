@@ -9,7 +9,7 @@ folder: structured_canvases
 ---
 ![Structured Canvases - Business](media/information_001.png)
 
-1. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"}
+1. [Technical Loan Request Card](technical_loan_request_card.md){:target="_blank"} 
 2. [Stakeholder Motivation Canvas](stakeholder_motivation_canvas.md){:target="_blank"}
 3. [Service Landscape Canvas](service_landscape_canvas.md){:target="_blank"}
 4. [Service Interface Design Canvas](service_interface_design_canvas.md){:target="_blank"}
@@ -39,7 +39,7 @@ folder: structured_canvases
 28. [Blue Ocean Canvas](blue_ocean_canvas.md){:target="_blank"}
 29. [Benefits Realization View Canvas](benefits_realization_view_canvas.md){:target="_blank"}
 30. [Benefit Dependency Network Canvas](benefits_dependency_network_canvas.md){:target="_blank"}
-31. [Architecturally Significant Requirements Card](asr_card.md){:target="_blank"}
+31. [Architecturally Significant Requirements Card](asr.md){:target="_blank"}
 32. [ARS Card](ars_card.md){:target="_blank"}
 33. [Architecture Pains and Gains Canvas](architecture_pains_and_gains.md){:target="_blank"}
 34. [Architecture Hypothesis Card](architecture_hypothesis_card.md){:target="_blank"}
@@ -50,7 +50,7 @@ folder: structured_canvases
 39. [Architects Process Engagement Canvas](architects_process_engagement_canvas.md){:target="_blank"}
 40. [Architects Engagement Touchpoints](architects_engagement_touchpoints.md){:target="_blank"}
 41. [Agile Enterprise Impact Canvas](agile_enterprise_impact_canvas.md){:target="_blank"}
-42. [QAT Card](qat_card.md){:target="_blank"}
+42. [QAT Card](qatt_card.md){:target="_blank"}
 43. [SCARF Stakeholder Assessment](scarf_stakeholder_assessment.md){:target="_blank"}
 44. [Stakeholder Engagement Map Card](stakeholder_engagement_map_card.md){:target="_blank"}
 45. [Stakeholder Management Plan](stakholder_management_plan.md){:target="_blank"}

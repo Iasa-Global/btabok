@@ -110,26 +110,22 @@ IASA believes that architecture as a profession -- not a role or an elevated eng
 
 For ethics, please take a look at the following examples and sources:
 
--   Hippocratic Oath -- <https://en.wikipedia.org/wiki/Hippocratic_Oath> & <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399321/>
--   Recent ethics issues -- <https://www.rockdovesolutions.com/blog/3-crisis-management-case-studies-we-can-learn-from>
--   Ethics in AI -- <https://aiethics.princeton.edu/case-studies/>
--   R&D ethics -- <https://research-compliance.umich.edu/>
--   CITA-P perspective (Scott Anderson) -- <https://iasaglobal.org/a-question-of-for-about-ethical-choices/>
--   Another CITA-P perspective -- <https://www.linkedin.com/pulse/my-principles-brian-loomis/>
--   UK university -- <https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation>
--   Princeton Consultants and Fiscal -- <https://www.princeton.com/code-ethics>
--   Ethics in Scouting -- <https://scoutingmagazine.org/2014/04/explore-ethics-shoplifting-dilemma/>
+-   Hippocratic Oath -- [https://en.wikipedia.org/wiki/Hippocratic_Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath){:target="_blank"} & [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399321/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3399321/){:target="_blank"}
+-   Recent ethics issues -- [https://www.rockdovesolutions.com/blog/3-crisis-management-case-studies-we-can-learn-from](https://www.rockdovesolutions.com/blog/3-crisis-management-case-studies-we-can-learn-from){:target="_blank"}
+-   Ethics in AI -- [https://aiethics.princeton.edu/case-studies/](https://aiethics.princeton.edu/case-studies/){:target="_blank"}
+-   R&D ethics -- [https://research-compliance.umich.edu/](https://research-compliance.umich.edu/){:target="_blank"}
+-   Another CITA-P perspective -- [https://www.linkedin.com/pulse/my-principles-brian-loomis/](https://www.linkedin.com/pulse/my-principles-brian-loomis/){:target="_blank"}
+-   UK university -- [https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation){:target="_blank"}
+-   Princeton Consultants and Fiscal -- [https://www.princeton.com/code-ethics](https://www.princeton.com/code-ethics){:target="_blank"}
+-   Ethics in Scouting -- [https://scoutingmagazine.org/2014/04/explore-ethics-shoplifting-dilemma/](https://scoutingmagazine.org/2014/04/explore-ethics-shoplifting-dilemma/){:target="_blank"}
 
 For principles, please take a look at the following examples and sources:
 
--   University of Washington -- <https://www.washington.edu/uwit/divisions/isss/ea/ea-guiding-principles/>
--   TOGAF -- <http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html>
--   Agile architect -- <http://www.agilearchitect.org/agile/principles.htm>
--   Quicken Loans' ISMs -- <https://dev-qlpr.pantheonsite.io/fast-facts/#isms>
--   Matt Kern and agile principles -- <https://www.linkedin.com/pulse/post-agile-principles-matthew-kern/>
--   Technical AWS principles -- <https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/>
--   AWS hiring principles -- <https://www.amazon.jobs/en/principles>
--   BCS Code of Conduct <https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/>
+-   University of Washington -- [https://www.washington.edu/uwit/divisions/isss/ea/ea-guiding-principles/](https://www.washington.edu/uwit/divisions/isss/ea/ea-guiding-principles/){:target="_blank"}
+-   TOGAF -- [http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html](http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html){:target="_blank"}
+-   Agile architect -- [http://www.agilearchitect.org/agile/principles.htm](http://www.agilearchitect.org/agile/principles.htm){:target="_blank"}
+-   AWS hiring principles -- [https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles){:target="_blank"}
+-   BCS Code of Conduct -- [https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/](https://www.bcs.org/membership/become-a-member/bcs-code-of-conduct/){:target="_blank"}
 
 ## IASA Code of Standards
 
@@ -241,25 +237,25 @@ BT Architects should uphold the integrity and dignity of the profession.
 
 # Principles
 
-**Architecture is a profession not a role.**
+Architecture is a profession not a role.
 
-**Architecture impacts health and human value, corporate fiscal interests and culture.**
+Architecture impacts health and human value, corporate fiscal interests and culture.
 
-**Architects get one major value proposition to society and business just like other professions.**
+Architects get one major value proposition to society and business just like other professions.
 
-**Architects are(n't) engineers.**
+Architects are(n't) engineers.
 
-**Architects have excellent technology skills and focus on pure business.**
+Architects have excellent technology skills and focus on pure business.
 
-**Architects having good technology skills or experience has nothing to do with reporting to IT or elsewhere.**
+Architects having good technology skills or experience has nothing to do with reporting to IT or elsewhere.
 
-**Architects must grow and retain both business and technology skills over time, we accept that other groups disagree with our choice.**
+Architects must grow and retain both business and technology skills over time, we accept that other groups disagree with our choice.
 
-**Architects share some skills with other roles but serve a different purpose than any other profession.**
+Architects share some skills with other roles but serve a different purpose than any other profession.
 
-**Architecture is about value delivery over system delivery.**
+Architecture is about value delivery over system delivery.
 
-**Meet them where they are Up and Out Not Down and In Form over Feature**
+Meet them where they are Up and Out Not Down and In Form over Feature
 
 ![image001](media/by-nc.png)
 

@@ -16,99 +16,65 @@ tags:
 # What are Stakeholders
 
 A stakeholder is a person or organization which as an interest or
-concern in a given [objective](objectives.md){:target="_blank"}, [business case](.\businesscase.md){:target="_blank"} or
-[assignment](assignment.md){:target="_blank"}. Stakeholders have a vested interest in the
-success of assignments, which can affect the stakeholder positively or
-negatively. A stakeholder may use their influence to promote and help an
-assignment succeed, or hinder the success of an assignment if the
-resulting architecture is negative for the stakeholder. Some
-stakeholders may play an active part by contributing to the initiative,
-while other stakeholders play a more passive role.
+concern in a given [objective](objectives.md){:target="_blank"}, [business case](../structured_canvases/business_case_sc.md){:target="_blank"} or
+[assignment](assignment.md){:target="_blank"}. Stakeholders have a vested interest in the success of assignments, which can affect the stakeholder positively or negatively. A stakeholder may use their influence to promote and help an assignment succeed, or hinder the success of an assignment if the resulting architecture is negative for the stakeholder. Some stakeholders may play an active part by contributing to the initiative, while other stakeholders play a more passive role.
 
 Examples of typical stakeholders are customers, executives or company
 departments.
 
 # Why are stakeholders important
 
-Stakeholders are important as they influence the progress of an
-[assignment](assignment.md){:target="_blank"} and in some cases can make the difference
-between success and failure. Different stakeholders have varying degrees
-of influence and needs for information.
+Stakeholders are important as they influence the progress of an [assignment](assignment.md){:target="_blank"} and in some cases can make the difference between success and failure. Different stakeholders have varying degrees of influence and needs for information.
 
-*"You can please some of the people all of the time, you can please all
-of the people some of the time, but you can't please all the people all
+*"You can please some of the people all of the time, you can please all of the people some of the time, but you can't please all the people all
 of the time"* - **Poet John Lydgate as made famous by Abraham Lincoln**
 
-Managing stakeholders can take a lot of effort, and where an assignment
-has a great many stakeholders this can be very challenging. Ensuring
-that influential and key stakeholders are satisfied, substantially
-increases the chances of an assignment's success.
+Managing stakeholders can take a lot of effort, and where an assignment has a great many stakeholders this can be very challenging. Ensuring
+that influential and key stakeholders are satisfied, substantially increases the chances of an assignment's success.
 
-Having key stakeholders as a positive influence on an assignment can
-deliver significant advantages such as, access to funding, availability
+Having key stakeholders as a positive influence on an assignment can deliver significant advantages such as, access to funding, availability
 of key personnel or increased priority over other initiatives.
 
-In some cases, a stakeholder may be key, but is affected negatively by
-the assignment or the proposed architecture. For example, when replacing
-a legacy system, the owner of the legacy system may be key for migrating
-data, however migration to a modern system may leave the stakeholder
-with less power or budget. In this case it is important to find ways to
-mitigate the negativity, perhaps by making compromises in the
+In some cases, a stakeholder may be key, but is affected negatively by the assignment or the proposed architecture. For example, when replacing
+a legacy system, the owner of the legacy system may be key for migrating data, however migration to a modern system may leave the stakeholder
+with less power or budget. In this case it is important to find ways to mitigate the negativity, perhaps by making compromises in the
 architecture, such as a favorable re-organization or a change of roles.
 
 # Stakeholders Approach
 
-The following are some key principles which can help in managing
-stakeholders.
+The following are some key principles which can help in managing stakeholders.
 
 ## Opinions matter
 
-Stakeholders will want to influence the direction of an assignment in
-their own favor, and one way of doing this is sharing their opinions
-with the architect. Taking opinions on-board from stakeholders can
-create a "buy-in" for the assignment, and this can increase the
+Stakeholders will want to influence the direction of an assignment in their own favor, and one way of doing this is sharing their opinions
+with the architect. Taking opinions on-board from stakeholders can create a "buy-in" for the assignment, and this can increase the
 stakeholder's interest in the assignment succeeding.
 
-Stakeholders may have conflicting opinions and with many stakeholders it
-is challenging to give all opinions the same attention. Choices may have
-to be made as to which opinions are satisfied and which are given less
-attention. This is where it is important to know which stakeholders hold
+Stakeholders may have conflicting opinions and with many stakeholders it is challenging to give all opinions the same attention. Choices may have
+to be made as to which opinions are satisfied and which are given less attention. This is where it is important to know which stakeholders hold
 the most favor for the assignment (see The Power-Interest Grid).
 
 ## What drives the stakeholder
 
-Interest or concern from a stakeholder is born from a driving factor.
-The driving factor is the force which drives the stakeholder interest
-and influences decision making. For individual persons driving factors
-may be: prestige, power, stability, skills advancement. For an
-organization the driving factors can depend on the organization culture
-and the type of business the organization conducts. Examples of driving
-factors for organizations are: growth, increase budget/sales, access to
-skills, compliance, competitive advantage.
+Interest or concern from a stakeholder is born from a driving factor. The driving factor is the force which drives the stakeholder interest
+and influences decision making. For individual persons driving factors may be: prestige, power, stability, skills advancement. For an
+organization the driving factors can depend on the organization culture and the type of business the organization conducts. Examples of driving
+factors for organizations are: growth, increase budget/sales, access to skills, compliance, competitive advantage.
 
-Knowing what drives the stakeholder makes it easier to promote an
-assignment to the stakeholder, and show how the stakeholder can gain
-value from the architecture. The driving factors of the stakeholder give
-a basis for assessing the stakeholder interest for the various aspects
-of the architecture. Understanding what drives the stakeholder makes it
-easier to promote an assignment and the architecture, as well as showing
+Knowing what drives the stakeholder makes it easier to promote an assignment to the stakeholder, and show how the stakeholder can gain
+value from the architecture. The driving factors of the stakeholder give a basis for assessing the stakeholder interest for the various aspects
+of the architecture. Understanding what drives the stakeholder makes it easier to promote an assignment and the architecture, as well as showing
 how the stakeholder can gain value.
 
 ## Managing stakeholders requires balance
 
-Stakeholders have complex relationships with each other, and to gain
-influence and interest from a stakeholder trust is key. This can be a
-delicate balancing act as a commitment to one stakeholder may have a
-negative effect on the relation with another stakeholder. Negotiation,
-diplomacy and conflict management are useful skills in achieving balance
-in the architecture and maintaining the trust of the stakeholders.
+Stakeholders have complex relationships with each other, and to gain influence and interest from a stakeholder trust is key. This can be a
+delicate balancing act as a commitment to one stakeholder may have a negative effect on the relation with another stakeholder. Negotiation,
+diplomacy and conflict management are useful skills in achieving balance in the architecture and maintaining the trust of the stakeholders.
 
-The available effort for managing stakeholders is not limitless, and
-focusing on a narrow band of stakeholders may keep a few important
-stakeholders satisfied. However, this can lead to problems with the
-broad spectrum of stakeholders who may lose interest in the assignment
-or start a negative trend towards the architecture. It is therefore
-important to find the right balance in managing the effort expended on
+The available effort for managing stakeholders is not limitless, and focusing on a narrow band of stakeholders may keep a few important
+stakeholders satisfied. However, this can lead to problems with the broad spectrum of stakeholders who may lose interest in the assignment
+or start a negative trend towards the architecture. It is therefore important to find the right balance in managing the effort expended on
 stakeholders
 
 ## Identify key dependencies
@@ -166,7 +132,7 @@ After analysis, actions need to be taken to actively manage the
 stakeholders. The communication strategies tool provides a way for
 planning the action.
 
-# **Identifying** and prioritizing Stakeholders
+# Identifying and prioritizing Stakeholders
 
 The first step in stakeholder management is to identify the stakeholders
 in the assignment or the proposed architecture. A good way to start

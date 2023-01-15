@@ -56,7 +56,7 @@ folder: structured_canvases
 44. [Architect Ethical Principles](architect_ethical_principles.md){:target="_blank"}
 45. [Agile Enterprise Impact Canvas](agile_enterprise_impact_canvas.md){:target="_blank"}
 46. [Layered Roadmap Canvas](layered_roadmap_canvas.md){:target="_blank"}
-47. [QAT Card](qat_card.md){:target="_blank"}
+47. [QAT Card](qatt_card.md){:target="_blank"}
 48. [SCARF Stakeholder Assessment](scarf_stakeholder_assessment.md){:target="_blank"}
 49. [Stakeholder Engagement Map Card](stakeholder_engagement_map_card.md){:target="_blank"}
 50. [Stakeholder Management Plan](stakholder_management_plan.md){:target="_blank"}

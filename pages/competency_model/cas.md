@@ -10,15 +10,13 @@ tags:
   - infrastructure_architecture
 ---
 
-Description 
-===========
+# Description 
 
 Infrastructure applications are those that provide infrastructure services, which can be consumed by servers and business applications alike. Every environment has these components in some form or another, whether they are automated or not.
 
-Overview
-========
+# Overview
 
-### **Directory Services**
+## Directory Services
 
 Directory services provide a number of benefits, mapping names to resources. For example, DNS maps names to computers, and Lightweight Directory Access Protocol (LDAP) maps usernames to directory objects/security context. Most of directory services fall into the realm of authentication, authorization, and accounting services (AAA). Authentication is the mechanism by which systems identify their users, authorization is the mechanism by which access permissions are determined for a particular user (security context), and accounting is the tracking of network resource consumption.
 
@@ -28,7 +26,7 @@ Identity comes in a lot of flavours, but the most common model these days is tha
 
 Should someone in the class note that Active Directory is not LDAP, attempt to reach middle ground and don't press the point, as this is common fodder for killing hours with debate that will amount to little. Sort of like the wars that occur over PC vs. Mac, or Emacs vs. VI.
 
-### **Identity and Access Management**
+## Identity and Access Management
 
 Identity paradigm refers to a single entity, which can map to multiple identities, which of which map to unique attributes. For example, I am a single person with three email accounts (gmail, hotmail, and yahoo), and each services have a different username and password. This is the challenge that IaM attempts to resolve, by unifying identity either into a centralized location or by synchronizing identity across multiple discrete repositories. In most environments, a single entity would be designated the authoritative source of identity for an organization. Most commonly, this is provided by the systems for human resources (HR) which track all the full time employees, contractors, and vendors within an organization.
 
@@ -41,7 +39,7 @@ Directory services, as noted before, are the repository for identity. Token serv
 
 Federation services are similar to token services, but span pools of identity. One organization will provide federation to a second organization, trusting the second organization to authenticate their users appropriately. Resources can be shared without the overhead of having to share significant quantities of information between one another. At a high level, federation works by creating a role within an organization that maps to users coming from a second organization, providing a local security context. The best example of federation is around calendar information within a messaging environment, where two organizations will allow calendar data to be shared to facilitate communication and meetings and what not. A user authenticates in their home organization, and  makes a security assertion to the second organization, who verified that the assertion is valid and then provide the requested data.
 
-### **Network Services**
+## Network Services
 
 Network and naming services are those that help us find resources in an environment. DNS and WINS are used to map node names to addresses, with the latter being almost exclusively used by Windows networks and is rapidly being deprecated in many organizations.
 
@@ -49,7 +47,7 @@ Dynamic Host Configuration Protocol (DHCP) is a network service that provides cr
 
 Quality of Service, or QoS, is a method of setting preference for traffic across a network. Switches, routers, and firewalls will show a preference for traffic on a specific port or traveling to/from a specific location. This is important for things that are time sensitive, like voice over IP communications.
 
-### **Domain Name Services**
+## Domain Name Services
 
 
 Domain Name Service (DNS) is used to convert IP addresses and short names into fully qualified domain names (FQDN) that can be used to address other networked hosts.
@@ -72,7 +70,7 @@ PTR -- Pointer record, can be thought of as a reverse
 
 SPF -- Used for Sender-Policy Framework (SPF), mail relay validation
 
-### **Database Services**
+## Database Services
 
 A database is an organized collection of data, which can be used for one or more purposes by one or more entities. Database theory is a huge topic, such that the author had three classes on it and it alone during college. Databases are commonly intertwined with data theory, which is the domain of the information architect and out of scope for our discussion here. We are not going to dive into the nitty gritty database architect / administrator stuff, either. Instead, we are going to go over databases at a high concept level and then talk about infrastructure and operational architecture considerations.
 

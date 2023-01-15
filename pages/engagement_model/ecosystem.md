@@ -15,34 +15,22 @@ tags:
 
 # What is the Ecosystem 
 
-The Ecosystem represents the external environment within which an
-organization participates, interacts and is affected by other parties in
+The Ecosystem represents the external environment within which an organization participates, interacts and is affected by other parties in
 the ecosystem. Typical parties in an ecosystem are:
 
 - Suppliers
-
 - Customers
-
 - Competitors
-
 - Government Agencies
-
 - Partners
 
-An ecosystem may be created by design, or may naturally evolve and grow
-as a consequence of innovation. Ecosystems are adaptive, self-organizing
-and scalable, they are loosely coupled and there is no explicit control
-of the parties in the ecosystem. By nature they are complex disordered
+An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation. Ecosystems are adaptive, self-organizing
+and scalable, they are loosely coupled and there is no explicit control of the parties in the ecosystem. By nature they are complex disordered
 systems and will change over time due to internal and external forces.
 
-The interaction or [collaboration](collaboration.md){:target="_blank"} of parties in the
-ecosystem creates [value streams](value_streams.md){:target="_blank"} which provide
-opportunities. When value increases the ecosystem grows, and when value
-decreases the ecosystem retracts, this may result in the ecosystem being
-overtaken by another ecosystem with greater value.
+The interaction or [collaboration](collaboration.md){:target="_blank"} of parties in the ecosystem creates [value streams](value_streams.md){:target="_blank"} which provide opportunities. When value increases the ecosystem grows, and when value decreases the ecosystem retracts, this may result in the ecosystem being overtaken by another ecosystem with greater value.
 
-In this article ecosystems are considered from two perspectives, the
-ecosystem surrounding the customer, and the ecosystem surrounding the
+In this article ecosystems are considered from two perspectives, the ecosystem surrounding the customer, and the ecosystem surrounding the
 organization.
 
 # Why the Ecosystem is important

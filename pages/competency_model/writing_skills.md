@@ -136,8 +136,6 @@ Basics of professional writing: [https://en.wikipedia.org/wiki/Professional_writ
 
 Purdue University Online Writing Lab: [https://owl.english.purdue.edu/owl/](https://owl.english.purdue.edu/owl/){:target="_blank"}
 
-Email correspondence etiquette: [http://www.inc.com/guides/2010/06/email-etiquette.html](http://www.inc.com/guides/2010/06/email-etiquette.html){:target="_blank"}
-
 Wikipedia Manual of Text Formatting: [https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Text_formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Text_formatting){:target="_blank"}
 
 # Author

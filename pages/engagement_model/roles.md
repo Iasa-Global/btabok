@@ -184,8 +184,6 @@ Enough cannot be said about an architect's potential role in society. In an incr
 
 # References and Further Reading
 
-[http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/nitiationAndContextAM%20203%20Some%20architecture%20role%20definitions%2030.pdf](http://grahamberrisford.com/AM%201%20Methods/6PRODUCTSandTECHNIQUES/nitiationAndContextAM%20203%20Some%20architecture%20role%20definitions%2030.pdf){:target="_blank"}
-
 [https://www.linkedin.com/pulse/structuring-forest-architecture-roles-harald-van-der-weel/](https://www.linkedin.com/pulse/structuring-forest-architecture-roles-harald-van-der-weel/){:target="_blank"}
 
 [https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap46.html](https://pubs.opengroup.org/architecture/togaf9-doc/arch/chap46.html){:target="_blank"}

@@ -172,9 +172,6 @@ Related with the capability to apply testing techniques in each of the projects 
 - IASA BTABoK
 [https://btabok.iasaglobal.org](https://btabok.iasaglobal.org){:target="_blank"}
 
-- Software Architecture.
-[http://carlosreynoso.com.ar/archivos/arquitectura/Arquitectura-software.pdf](http://carlosreynoso.com.ar/archivos/arquitectura/Arquitectura-software.pdf){:target="_blank"}
-
 - Testing introduction
 [http://www.fceia.unr.edu.ar/ingsoft/testing-intro-a.pdf](http://www.fceia.unr.edu.ar/ingsoft/testing-intro-a.pdf){:target="_blank"}
 
@@ -183,9 +180,6 @@ Related with the capability to apply testing techniques in each of the projects 
 
 - About TDD Practice, pro's and con's
 [http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html){:target="_blank"}
-
-- About Checklists and code review PSP practices
-[http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/](http://blog.fogcreek.com/increase-defect-detection-with-our-code-review-checklist-example/){:target="_blank"}
 
 - About micro-services, determinism, testing culture and testing maintenance
 [http://martinfowler.com/articles/microservice-testing/](http://martinfowler.com/articles/microservice-testing/){:target="_blank"}

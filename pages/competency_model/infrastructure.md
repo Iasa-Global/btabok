@@ -125,8 +125,6 @@ Cisco Networking Blogs [http://blogs.cisco.com](http://blogs.cisco.com){:target=
 
 Network+ [http://certification.comptia.org/Training/certmaster/comptia-certmaster-network](http://certification.comptia.org/Training/certmaster/comptia-certmaster-network){:target="_blank"}
 
-HP Server Training [http://h10076.www1.hp.com/education/curr-proliant.htm](http://h10076.www1.hp.com/education/curr-proliant.htm){:target="_blank"}
-
 **Certifications:**
 
 Network+ certification [http://certification.comptia.org/getCertified/certifications/network.aspx](http://certification.comptia.org/getCertified/certifications/network.aspx){:target="_blank"}
@@ -140,8 +138,6 @@ ITIL V3 [http://www.itilv3.net/Certification.html](http://www.itilv3.net/Certifi
 MCSE: Server Infrastructure Solutions Expert [https://www.microsoft.com/learning/en-us/mcse-server-infrastructure-certification.aspx](https://www.microsoft.com/learning/en-us/mcse-server-infrastructure-certification.aspx){:target="_blank"}
 
 The Microsoft Hybrid Cloud: Best Practices Guidance [http://www.microsoftvirtualacademy.com/training-courses/the-microsoft-hybrid-cloud-best-practices-guidance](http://www.microsoftvirtualacademy.com/training-courses/the-microsoft-hybrid-cloud-best-practices-guidance){:target="_blank"}
-
-TOGAF 9.1 (Phase F) [http://www3.opengroup.org/certifications/togaf9-program](http://www3.opengroup.org/certifications/togaf9-program){:target="_blank"}
 
 # Author
 
