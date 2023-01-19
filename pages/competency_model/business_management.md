@@ -160,7 +160,7 @@ International Institute of Business Analysis (IIBA) Business Analysis Competency
 
 [https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx](https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx){:target="_blank"}
 
-## Training:
+## Training: 
 
 IASA Architect Core
 
