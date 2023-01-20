@@ -6,6 +6,8 @@ The demands on business to meet customer needs are a key factor in maintaining c
 
 In this series of short articles, we will look at how we can use the BTABoK to help manage legacy systems and legacy transformations. The articles cover the following topics:
 
+- Legacy and Technical Debt
+
 - Identification and Strategy
 
 - Planning the transformation 
@@ -15,3 +17,5 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 - Migration and Test
 
 - Decommissioning
+
+- Preventing Legacy
