@@ -46,11 +46,11 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 ## The Aspiring Architect
 
-As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. 
+As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org.  Rotation, technical depth vs breadth, specialization
 
 ## The New Product Idea
 
-The solution arch that has been
+The 
 
 ## Architects During Development
 
@@ -82,7 +82,7 @@ This is one
 
 ## Consulting with the BTABoK
 
-sdfdf
+This is one
 
 ## What's With All the Canvases
 
@@ -91,3 +91,11 @@ This is my
 ## Understanding Our Customer
 
 This is my
+
+## Adopting the Competency Model
+
+This is my
+
+## Managed Mentoring and Career Path
+
+The key to this is rotation, depth to breadth of knowledge, and competencies.
