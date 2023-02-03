@@ -52,6 +52,8 @@ As an aspiring architect, whether you are more of a developer or fill another ro
 
 The 
 
+## My Business Stakeholder Wants to Buy a Product
+
 ## Architects During Development
 
 The age old question
@@ -99,3 +101,7 @@ This is my
 ## Managed Mentoring and Career Path
 
 The key to this is rotation, depth to breadth of knowledge, and competencies.
+
+## Designing with the BTABoK - 7 part Series  (Paul)
+
+Paul is working on a series 
