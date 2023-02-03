@@ -72,7 +72,7 @@ The btabok actually
 
 ## BTABoK for Business Architects
 
-There
+There (Scott Whitmire has this)
 
 ## BTABoK for Enterprise Architects
 
