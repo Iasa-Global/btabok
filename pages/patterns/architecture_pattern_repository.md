@@ -60,13 +60,25 @@ The specification of a Design Pattern is usually subjective. However, most speci
 | Name                   | A short descriptive appellation for the pattern, usually indicative of its purpose.                                                                                                   |
 | Functional description | A description of what the pattern does.                                                                                                                                               |
 | Synonyms               | Other names for the pattern                                                                                                                                                           |
+| Classification         | Behavioural, Creational, Structural, and so on.
+                                            |
 | Motivation             | A description of the problem for which this pattern could be the solution                                                                                                             |
 | Usage scenario         | Where this pattern would be applicable                                                                                                                                                |
 | Structure              |  How to construct an implementation based on this pattern                                                                                                                             |
 | Stakeholders           | Other entities with whom the construct in question would interact, and how the interaction would take place. The individual responsibilities of all the actors in the given scenario. |
 | Expected Behaviour     | The consequences of the usage of the pattern in a given situation                                                                                                                     |
 
-Pattern Types and Catalog
+# Pattern Types
+
+Patterns can be classified according to the following broad disciplines:
+
+* Enterprise Architecture
+* Enterprise Application Architecture
+* Software Architecture
+* Software Design
+
+
+## Software Pattern Types and Catalog
 
 | **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------|
