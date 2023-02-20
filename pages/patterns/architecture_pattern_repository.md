@@ -13,7 +13,7 @@ folder: patterns
 *Grady Booch, Design Patterns: Elements of Reusable Object-Oriented Software*
 
 
-# Design Patterns
+## Design Patterns
 
 Developers must design clean, clearly designed code to avoid bug creep into the system, and avoid complexity. Designing a system is not easy.
 
@@ -31,27 +31,27 @@ This observation was used by different software design experts. The most well-kn
 
 Over time, the library of patterns has grown. There are patterns spanning a range of topics in the software domain, like Cloud patterns, Microservice patterns, Enterprise systems patterns and general software design patterns.
 
-How can Design Patterns Help?
+## How can Design Patterns Help?
 
 Design patterns help to speed up the development process through the usage of proven and tested building blocks for the context under consideration. They provide a means to address common problems that frequent occur in the design of software development, irrespective of the category.
 
-**Reusability**
+### Reusability
 
 The fundamental principle here is to avoid reinventing the wheel.
 
 For example, consider the MVC (Model-View-Controller) pattern that was traditionally used in the design of desktop user interfaces. It was observed that web-based UIs had similar or related requirements and design principles; it led to the adoption of the MVC pattern in Web-based UI systems as well.
 
-**Common Vocabulary**
+### Common Vocabulary
 
 Design patterns provide a common vocabulary for software engineers to communicate, through the usage of well-known and well-understood names for specific software interactions.
 
 For example, when a designer refers to the usage of a singleton in a specific software design, it is immediately obvious to other designers and developers what is required.
 
-**Reducing the amount of variability and increasing Cohesion**
+### Reducing the amount of variability and increasing Cohesion
 
 Once the problem has been studied, designing with patterns will result in a cohesive solution with minimal coupling, built with “pre-fabricated” blocks. There will be fewer parts in the design that cannot be achieved with patterns.
 
-**Specifying Design Patterns**
+### Specifying Design Patterns
 
 The specification of a Design Pattern is usually subjective. However, most specifications usually conform to the basic template below.
 
@@ -68,7 +68,7 @@ The specification of a Design Pattern is usually subjective. However, most speci
 | Stakeholders           | Other entities with whom the construct in question would interact, and how the interaction would take place. The individual responsibilities of all the actors in the given scenario. |
 | Expected Behaviour     | The consequences of the usage of the pattern in a given situation                                                                                                                     |
 
-# Pattern Types
+## Classification of Pattern Types
 
 Patterns can be classified according to the following broad disciplines:
 
@@ -77,8 +77,15 @@ Patterns can be classified according to the following broad disciplines:
 * Software Architecture
 * Software Design
 
+## Catalog of Patterns
 
-## Software Pattern Types and Catalog
+### Enterprise Architecture Catalog
+
+### Enterprise Application Architecture Patterns
+
+### Software Architecture Patterns
+
+### Software Design Pattern Types and Catalog
 
 | **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------|
