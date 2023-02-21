@@ -3,11 +3,10 @@ title: "Architecture Definition Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: business.html
+permalink: architecture_definition_canvas.html
 folder: structured_canvases
 tags: 
-  - business
-  - information
+  - core
 ---
 
 ![image001](media/architecture_definition_canvas001.svg)
