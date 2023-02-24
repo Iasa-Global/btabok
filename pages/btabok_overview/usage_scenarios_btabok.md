@@ -68,7 +68,7 @@ This is a big topic
 
 ## The Architecture 'Review'
 
-The btabok actually
+Chris Cooper-Bland working on this
 
 ## BTABoK for Business Architects
 
