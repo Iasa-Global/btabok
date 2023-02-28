@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - core
 ---
 
 The BMC provides a business model on a page used for architecture and innovation. Generally to use the canvas you want to start from customers and value proposition, then move on to the other areas. 
