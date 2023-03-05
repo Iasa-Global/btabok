@@ -194,7 +194,12 @@ appropriate.
 2. The images will have to be added to the folder that has the name media.
 3. What name is given to the file?
     - We name the image file with the same name as the file we are editing, only we add the consecutive number. Example: xyz.md is the file to edit, the image file would be xyz01.png
-4. Label to display the image: ![](media/name_of_the_image_01.svg) or ![](media/name_of_the_image_01.png)
+4. Label to display the image: 
+
+```
+![](media/name_of_the_image_01.svg) or ![](media/name_of_the_image_01.png)
+
+```
 
 ## References and Further Reading
 
