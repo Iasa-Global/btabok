@@ -8,6 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
+  - core
 ---
 
 The capability card provides a capability analysis tool for understanding a business capability and its measurements.
