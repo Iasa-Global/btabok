@@ -62,7 +62,7 @@ As stated earlier risks are all around us and organizations take calculated risk
 
 # Risk Management
 
-In order to reduce the impact or remove risks, they need to managed and monitored throughout the development of the architecture. Many of the risk management processes and techniques which are used in business and project management can be applied to managing risks in the development of an architecture both at enterprise and solution level.
+In order to mitigate the impact or reduce the likelihood of risks, they need to managed and monitored throughout the development of the architecture. Many of the risk management processes and techniques which are used in business and project management can be applied to managing risks in the development of an architecture both at enterprise and solution level.
 
 ## Types of Risk
 
