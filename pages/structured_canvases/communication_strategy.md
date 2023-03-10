@@ -8,9 +8,6 @@ folder: structured_canvases
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
   - solution
 ---
 
@@ -18,8 +15,8 @@ tags:
 
 [Download PPT](media/ppt/communication_strategy.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Communication Method |   |   |
-| Format |   |   |
-| Stakeholders |   |   |
+| Area                 | Description | Links To |
+| -------------------- | ----------- | -------- |
+| Communication Method |             |          |
+| Format               |             |          |
+| Stakeholders         |             |          |

@@ -16,7 +16,7 @@ The three horizons canvas is a facilitation tool to allow a practice or group to
 
 [Download PPT](media/ppt/three_horizon_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Total Impact | The overall positive impact of the initiative in question | [Lean Business Case](business_case_nabc_card.md){:target="_blank"} (derived from), [Strategy Scorecard](strategy_scorecard_canvas.md){:target="_blank"} (linked to) |
-| Transformation Investment | The overall input in time, money or investment required. | [Lean Business Case](business_case_nabc_card.md){:target="_blank"} (derived from), [Strategy Scorecard](strategy_scorecard_canvas.md){:target="_blank"} (linked to) |
+| Area                      | Description                                               | Links To                                                                                                                                                            |
+| ------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Total Impact              | The overall positive impact of the initiative in question | [Lean Business Case](business_case_nabc_card.md){:target="_blank"} (derived from), [Strategy Scorecard](strategy_scorecard_canvas.md){:target="_blank"} (linked to) |
+| Transformation Investment | The overall input in time, money or investment required.  | [Lean Business Case](business_case_nabc_card.md){:target="_blank"} (derived from), [Strategy Scorecard](strategy_scorecard_canvas.md){:target="_blank"} (linked to) |

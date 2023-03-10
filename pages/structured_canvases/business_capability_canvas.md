@@ -8,10 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
-  - solution
+  - core
 ---
 
 ![image001](media/business_capability_canvas001.svg)
@@ -19,5 +16,5 @@ tags:
 [Download PPT](media/ppt/business_capability_canvas.ppt){:target="_blank"}
 
 | Area | Description | Links To |
-| --- | --- | --- |
-|   |   |   |
+| ---- | ----------- | -------- |
+|      |             |          |

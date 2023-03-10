@@ -8,19 +8,16 @@ folder: structured_canvases
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
-  - solution
+  - core
 ---
 
 ![image001](media/customer_journey_map001.svg)
 
 [Download PPT](media/ppt/customer_journey_map.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Doing |   |   |
-| Thinking |   |   |
-| Feeling |   |   |
-| Opportunities |   |   |
+| Area          | Description | Links To |
+| ------------- | ----------- | -------- |
+| Doing         |             |          |
+| Thinking      |             |          |
+| Feeling       |             |          |
+| Opportunities |             |          |
