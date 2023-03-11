@@ -69,7 +69,7 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "/"
       type: "pages"
     values:
       layout: "page"
