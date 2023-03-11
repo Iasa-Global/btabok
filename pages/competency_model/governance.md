@@ -3,7 +3,7 @@ title: "Governance"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: governance.html
+permalink: governance_cm.html
 folder: competency_model
 summary: "IT governance focuses on delivering business value of technology through four focus areas"
 tags: 
