@@ -118,7 +118,7 @@ description: "The Business Technology Architecture Body of Knowledge (Btabok) is
 
 github: [metadata]
 
-permalink: /:categories
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
 
 # Copyright 2022 IASA
