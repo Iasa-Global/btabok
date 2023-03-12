@@ -3,7 +3,7 @@ title: "Advanced Quality Attributes"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: advanced_qa.html
+permalink: :path/advanced_qa.html
 folder: competency_model
 summary: "Requirements are not sufficient to develop architecturally good software."
 tags:
