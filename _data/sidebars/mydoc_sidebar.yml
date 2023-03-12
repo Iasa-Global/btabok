@@ -180,7 +180,7 @@ entries:
           output: web
 
         - title: Governance
-          url: governance.html
+          url: governance_em.html
           output: web
 
         - title: Product & Project
