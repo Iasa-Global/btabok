@@ -19,7 +19,7 @@ The Quality Attribute Card is built to create ATAM scenarios to test the archite
 
 ![image001](../../media/5b2ee59d595666d35e06fe4ce6e3d113304b29ec.svg)
 
-[Download PPT](media/ppt/qat_card.ppt){:target="_blank"}
+[Download PPT](media/ppt/qatt_card.ppt){:target="_blank"}
 
 | Area               | Description                                                                                                                                                                | Links To          |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
