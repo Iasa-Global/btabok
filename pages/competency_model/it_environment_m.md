@@ -5,6 +5,8 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: it_environment_m.html
 folder: competency_model
+tags: 
+  - it_environment
 ---
 
 ![IT Environment](media/it_environment_m_001.png)
