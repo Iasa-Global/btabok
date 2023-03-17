@@ -77,17 +77,21 @@ Patterns can be classified according to the following broad disciplines:
 * Software Architecture
 * Software Design
 
+## Enterprise Architecture Pattern Catalog
 
-## Software Pattern Types and Catalog
+## Enterprise Application Architecture Patter Catalog
+
+## Software Architecture Patterns
+
+## Software Design Pattern Types and Catalog
 
 | **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------|
-| Cloud            | Infrastructure, Software, Solution | Cloud Patterns Library |
+| <a href="cloud_patterns.html">Cloud</a>            | Infrastructure, Software, Solution | Cloud Patterns Library |
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
 
 
-<div class="row">
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
