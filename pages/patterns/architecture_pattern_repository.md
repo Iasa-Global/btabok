@@ -79,7 +79,7 @@ Patterns can be classified according to the following broad disciplines:
 
 ## Enterprise Architecture Pattern Catalog
 
-## Enterprise Application Architecture Patter Catalog
+## Enterprise Application Architecture Pattern Catalog
 
 ## Software Architecture Patterns
 
