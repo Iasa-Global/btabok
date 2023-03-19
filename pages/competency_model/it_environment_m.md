@@ -7,6 +7,7 @@ permalink: it_environment_m.html
 folder: competency_model
 tags: 
   - it_environment
+  - information_architecture
 ---
 
 ![IT Environment](media/it_environment_m_001.png)
