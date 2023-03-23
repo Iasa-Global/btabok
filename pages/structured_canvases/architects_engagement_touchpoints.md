@@ -18,7 +18,7 @@ The architects engagement touch points is used to understand the stakeholder(s) 
 
 ![image001](media/architects_engagement_touchpoints001.svg)
 
-[Download PPT](media/ppt/architects_engagement_touchpoints.ppt){:target="_blank"}
+[Download PPT](media/ppt/architects_engagement_touchpoints.ppt)
 
 | Area              | Description                                                                                                                                                          | Links To                                                 |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
