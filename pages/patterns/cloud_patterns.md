@@ -26,7 +26,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Data Management</p>
-            <a href="" class="btn btn-primary">Learn More</a>
+            <a href="data_management.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
@@ -41,7 +41,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Software Design</p>
-            <a href="" class="btn btn-primary">Learn More</a>
+            <a href="software_design.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
@@ -56,7 +56,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Messaging</p>
-            <a href="" class="btn btn-primary">Learn More</a>
+            <a href="messaging.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
@@ -71,7 +71,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Resilience</p>
-            <a href="" class="btn btn-primary">Learn More</a>
+            <a href="resilience.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
@@ -86,7 +86,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Scale</p>
-            <a href="" class="btn btn-primary">Learn More</a>
+            <a href="scale.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
@@ -101,7 +101,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Latency</p>
-            <a href="" class="btn btn-primary">Learn More</a>
+            <a href="latency.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
