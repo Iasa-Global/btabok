@@ -47,7 +47,7 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 	<area shape="rect" href="https://iasa-global.github.io/btabok/repository.html" coords="181,490,206,521" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/architecture_tools.html" coords="139,437,169,479" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/quality_assurance.html" coords="112,368,148,413" alt="" target="_blank">
-	<area shape="rect" href="https://iasa-global.github.io/btabok/governance.html" coords="115,294,149,330" alt="" target="_blank">
+	<area shape="rect" href="https://iasa-global.github.io/btabok/governance_em.html" coords="115,294,149,330" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/product_project.html" coords="138,228,166,265" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/roadmap.html" coords="178,178,204,213" alt="" target="_blank">
 	<area shape="rect" href="https://iasa-global.github.io/btabok/experiments.html" coords="234,134,263,176" alt="" target="_blank">

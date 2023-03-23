@@ -31,7 +31,7 @@ This observation was used by different software design experts. The most well-kn
 
 Over time, the library of patterns has grown. There are patterns spanning a range of topics in the software domain, like Cloud patterns, Microservice patterns, Enterprise systems patterns and general software design patterns.
 
-How can Design Patterns Help?
+## How can Design Patterns Help?
 
 Design patterns help to speed up the development process through the usage of proven and tested building blocks for the context under consideration. They provide a means to address common problems that frequent occur in the design of software development, irrespective of the category.
 
@@ -77,17 +77,27 @@ Patterns can be classified according to the following broad disciplines:
 * Software Architecture
 * Software Design
 
+## Enterprise Architecture Pattern Catalog
 
-## Software Pattern Types and Catalog
+## Enterprise Application Architecture Pattern Catalog
+
+## Software Architecture Patterns
+
+## Software Design Pattern Types and Catalog
 
 | **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------|
-| Cloud            | Infrastructure, Software, Solution | Cloud Patterns Library |
+| <a href="cloud_patterns.html">Cloud</a>            | Infrastructure, Software, Solution | Cloud Patterns Library |
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
 
+## References
 
-<div class="row">
+1 [Microsoft Architecture Catalog]("https://learn.microsoft.com/en-us/azure/arch)
+
+2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
+
+3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">

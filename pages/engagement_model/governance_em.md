@@ -3,7 +3,7 @@ title: "Governance"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: governance.html
+permalink: governance_em.html
 folder: engagement_model
 summary: "These norms, values and policies may be specific to the organization and to the industry sector the organization is involved in."
 tags: 

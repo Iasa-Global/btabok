@@ -32,7 +32,7 @@ Information modeling in IT Architecture takes many forms, all of which have repr
 -   ER diagrams: data modeling specific for database design
 -   Information flow diagrams: indicates origin of data and its uses (process or systems) throughout either the enterprise, line of business (LOB) or system, depending on the context
 -   Data models: depending on level of detail, describes the entities and its relationships detailing attributes, types and multiplicity of an entity to other entities
--   Data lifecycles: how data is created, used and retained (archived or destroyed)
+-   Data lifecycles: how data is created, used and retained (archived or destroyed).
 
 Models will vary depending on a number of factors: usage (whether analytical or transactional), focus (global, enterprise, LOB or system) and level of detail (conceptual, logical, or physical). For example, customer data from an online application will differ from the data used to gather statistics on customer location, where the model of the former would have a normalized structure and the latter a star or snowflake schema. Modeling also can indicate boundaries showing the limits of the information flow needed for regulatory compliance or business access restrictions having audit trails and tight security around authentication and authorization. Models may be relevant either for only a small group of individuals for a specific business process need, or it could be recognized as a global industry-standard.
 

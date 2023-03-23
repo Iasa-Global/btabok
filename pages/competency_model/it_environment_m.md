@@ -5,6 +5,9 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: it_environment_m.html
 folder: competency_model
+tags: 
+  - it_environment
+  - information_architecture
 ---
 
 ![IT Environment](media/it_environment_m_001.png)
@@ -14,7 +17,7 @@ folder: competency_model
 3. [Change Management](change_management.md){:target="_blank"}
 4. [Infrastructure](infrastructure.md){:target="_blank"}
 5. [Application Development](application_development.md){:target="_blank"}
-6. [Governance](governance.md){:target="_blank"}
+6. [Governance](governance_cm.md){:target="_blank"}
 7. [Testing Methods, Tools, and Techniques](tmtt.md){:target="_blank"}
 8. [Knowledge Management](knowledge_management.md){:target="_blank"}
 9. [Decision Support](decision_support.md){:target="_blank"}

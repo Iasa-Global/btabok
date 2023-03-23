@@ -64,6 +64,9 @@ collections:
     output: false
   engagements:
     output: true
+  my_collection:
+    output: true
+    permalink: /:collection/:name
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
   
 defaults:
@@ -118,5 +121,7 @@ description: "The Business Technology Architecture Body of Knowledge (Btabok) is
 
 github: [metadata]
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
-# Copyright 2022 IASA 202222
+
+# Copyright 2022 IASA
