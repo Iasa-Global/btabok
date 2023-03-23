@@ -31,7 +31,7 @@ This observation was used by different software design experts. The most well-kn
 
 Over time, the library of patterns has grown. There are patterns spanning a range of topics in the software domain, like Cloud patterns, Microservice patterns, Enterprise systems patterns and general software design patterns.
 
-How can Design Patterns Help?
+## How can Design Patterns Help?
 
 Design patterns help to speed up the development process through the usage of proven and tested building blocks for the context under consideration. They provide a means to address common problems that frequent occur in the design of software development, irrespective of the category.
 
@@ -79,7 +79,7 @@ Patterns can be classified according to the following broad disciplines:
 
 ## Enterprise Architecture Pattern Catalog
 
-## Enterprise Application Architecture Patter Catalog
+## Enterprise Application Architecture Pattern Catalog
 
 ## Software Architecture Patterns
 
