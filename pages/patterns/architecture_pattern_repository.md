@@ -91,7 +91,13 @@ Patterns can be classified according to the following broad disciplines:
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
 
+## References
 
+1 [Microsoft Architecture Catalog]("https://learn.microsoft.com/en-us/azure/arch)
+
+2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
+
+3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
