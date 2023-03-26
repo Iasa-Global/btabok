@@ -292,7 +292,7 @@ entries:
       output: web
 
     - title: Human Dynamics
-      url: human_dynamics_m.html
+      url: tag_human_dynamics.html
       output: web
 
     - title: Design
