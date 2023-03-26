@@ -288,7 +288,7 @@ entries:
     folderitems:
 
     - title: Business Technology Strategy
-      url: bts_m.html
+      url: tag_business_technology_strategy.html
       output: web
 
     - title: Human Dynamics
