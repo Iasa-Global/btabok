@@ -6,6 +6,9 @@ permalink: tag_human_dynamics.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
+
+![Human Dynamics](media/human_dynamics_m_001.png)
+
 {% include taglogic.html %}
 
 {% include links.html %}
