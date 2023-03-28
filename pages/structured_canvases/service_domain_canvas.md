@@ -6,7 +6,6 @@ toc: true
 permalink: service_domain_canvas.html
 folder: structured_canvases
 tags: 
-  - business
   - information
   - infrastructure
   - software
@@ -17,10 +16,10 @@ tags:
 
 [Download PPT](media/ppt/service_domain_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Service Domain |   |   |
-| Service |   |   |
-| Value |   |   |
-| Dependencies |   |   |
-| Strategic Intention |
+| Area                | Description | Links To |
+| ------------------- | ----------- | -------- |
+| Service Domain      |             |          |
+| Service             |             |          |
+| Value               |             |          |
+| Dependencies        |             |          |
+| Strategic Intention |             |          |

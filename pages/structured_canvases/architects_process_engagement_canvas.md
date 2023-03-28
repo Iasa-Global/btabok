@@ -18,14 +18,14 @@ tags:
 
 [Download PPT](media/ppt/architects_process_engagement_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Innovate |   |   |
-| Strategy |   |   |
-| Plan |   |   |
-| Transform |   |   |
-| Measure |   |   |
-| Deliverables |   |   |
-| Process |   |   |
-| Tools |   |   |
-| Opportunities |   |   |
+| Area          | Description | Links To |
+| ------------- | ----------- | -------- |
+| Innovate      |             |          |
+| Strategy      |             |          |
+| Plan          |             |          |
+| Transform     |             |          |
+| Measure       |             |          |
+| Deliverables  |             |          |
+| Process       |             |          |
+| Tools         |             |          |
+| Opportunities |             |          |

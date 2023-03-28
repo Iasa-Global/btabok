@@ -8,9 +8,6 @@ folder: structured_canvases
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
   - solution
 ---
 
@@ -18,14 +15,14 @@ tags:
 
 [Download PPT](media/ppt/envisioning_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Thinking |   |   |
-| Core Idea |   |   |
-| Facts & Figures |   |   |
-| Feeling |   |   |
-| In Pictures |   |   |
-| Key Messages |   |   |
-| Tweets |   |   |
-| Hashtags |   |   |
-| Customers |   |   |
+| Area            | Description | Links To |
+| --------------- | ----------- | -------- |
+| Thinking        |             |          |
+| Core Idea       |             |          |
+| Facts & Figures |             |          |
+| Feeling         |             |          |
+| In Pictures     |             |          |
+| Key Messages    |             |          |
+| Tweets          |             |          |
+| Hashtags        |             |          |
+| Customers       |             |          |

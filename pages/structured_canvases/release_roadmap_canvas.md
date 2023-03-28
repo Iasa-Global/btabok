@@ -7,9 +7,6 @@ permalink: release_roadmap_canvas.html
 folder: structured_canvases
 tags: 
   - business
-  - information
-  - infrastructure
-  - software
   - solution
 ---
 
@@ -17,9 +14,9 @@ tags:
 
 [Download PPT](media/ppt/release_roadmap_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Goal and Deadline |   |   |
-| Stakeholders |   |   |
-| Features |   |   |
-| Key Dependencies |   |   |
+| Area              | Description | Links To |
+| ----------------- | ----------- | -------- |
+| Goal and Deadline |             |          |
+| Stakeholders      |             |          |
+| Features          |             |          |
+| Key Dependencies  |             |          |

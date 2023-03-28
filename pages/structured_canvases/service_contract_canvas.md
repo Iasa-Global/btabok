@@ -6,10 +6,9 @@ toc: true
 permalink: service_contract_canvas.html
 folder: structured_canvases
 tags: 
-  - business
-  - information
-  - infrastructure
   - software
+  - infrastructure
+  - information
   - solution
 ---
 
@@ -17,9 +16,9 @@ tags:
 
 [Download PPT](media/ppt/service_contract_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Goal and Purpose |   |   |
-| Service Level Agreement |   |   |
-| Service Specification |   |   |
-| Commercial Agreement |   |   |
+| Area                    | Description | Links To |
+| ----------------------- | ----------- | -------- |
+| Goal and Purpose        |             |          |
+| Service Level Agreement |             |          |
+| Service Specification   |             |          |
+| Commercial Agreement    |             |          |

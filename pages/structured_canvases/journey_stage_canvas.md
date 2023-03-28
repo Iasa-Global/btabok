@@ -8,9 +8,7 @@ folder: structured_canvases
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
+  - core
   - solution
 ---
 
@@ -18,14 +16,14 @@ tags:
 
 [Download PPT](media/ppt/journey_stage_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Persona |   |   |
-| Scenario |   |   |
-| Goals & Expectations |   |   |
-| Stage |   |   |
-| Doing |   |   |
-| Thinking |   |   |
-| Feeling |   |   |
-| Opportunities |   |   |
-| Time |   |   |
+| Area                 | Description | Links To |
+| -------------------- | ----------- | -------- |
+| Persona              |             |          |
+| Scenario             |             |          |
+| Goals & Expectations |             |          |
+| Stage                |             |          |
+| Doing                |             |          |
+| Thinking             |             |          |
+| Feeling              |             |          |
+| Opportunities        |             |          |
+| Time                 |             |          |

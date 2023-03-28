@@ -17,8 +17,6 @@ The architect skills gap analysis is a small worksheet that is also supported by
 
 [Download PPT](media/ppt/architect_skills_gap_analysis.ppt)
 
-
-
 The architect skills gap analysis provides you with the opportunity to define your 5 pillar deficiencies or strengths. Use this as a group exercise to communicate opportunities for the team to grow in their overall competency gaps. 
 
 | Area                         | Description                                                                                  | Links To                                                                     |
