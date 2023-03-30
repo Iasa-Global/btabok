@@ -12,23 +12,20 @@ tags:
   - software
 ---
 
-
 ![image001](media/persona_card001.svg)
 
 [Download PPT](media/ppt/persona_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Persona |   |   |
-| Scenario |   |   |
-| Expectations |   |   |
-| Personal Details |   |   |
-| Empathy Map |   |   |
-| Job to be done |   |   |
-| Personal Story |   |   |
-| Seeing |   |   |
-| Saying |   |   |
-| Doing |   |   |
-| Hearing |   |   |
-
-
+| Area             | Description | Links To |
+| ---------------- | ----------- | -------- |
+| Persona          |             |          |
+| Scenario         |             |          |
+| Expectations     |             |          |
+| Personal Details |             |          |
+| Empathy Map      |             |          |
+| Job to be done   |             |          |
+| Personal Story   |             |          |
+| Seeing           |             |          |
+| Saying           |             |          |
+| Doing            |             |          |
+| Hearing          |             |          |

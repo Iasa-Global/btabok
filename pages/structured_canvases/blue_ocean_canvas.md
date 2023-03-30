@@ -18,9 +18,9 @@ tags:
 
 [Download PPT](media/ppt/blue_ocean_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Strategy Canvas |   |   |
-| Four Actions / ERRC Grid |   |   |
-| Six Paths Framework |   |   |
-| Buyer Utility Map |   |   |
+| Area                     | Description | Links To |
+| ------------------------ | ----------- | -------- |
+| Strategy Canvas          |             |          |
+| Four Actions / ERRC Grid |             |          |
+| Six Paths Framework      |             |          |
+| Buyer Utility Map        |             |          |

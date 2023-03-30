@@ -18,11 +18,11 @@ tags:
 
 [Download PPT](media/ppt/benefits_dependency_network_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Digital Enablers |   |   |
-| Enabling Changes |   |   |
-| Business Changes |   |   |
-| Business Benefits |   |   |
-| Investment Objectives |   |   |
-| Drivers |   |   |
+| Area                  | Description | Links To |
+| --------------------- | ----------- | -------- |
+| Digital Enablers      |             |          |
+| Enabling Changes      |             |          |
+| Business Changes      |             |          |
+| Business Benefits     |             |          |
+| Investment Objectives |             |          |
+| Drivers               |             |          |

@@ -18,12 +18,12 @@ tags:
 
 [Download PPT](media/ppt/benefits_realization_view_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Model |   |   |
-| Description |   |   |
-| Costs |   |   |
-| Benefits |   |   |
-| Tech. Investments |   |   |
-| Tech. Debt |   |   |
-| Assumptions/Caveats |   |   |
+| Area                | Description | Links To |
+| ------------------- | ----------- | -------- |
+| Model               |             |          |
+| Description         |             |          |
+| Costs               |             |          |
+| Benefits            |             |          |
+| Tech. Investments   |             |          |
+| Tech. Debt          |             |          |
+| Assumptions/Caveats |             |          |

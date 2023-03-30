@@ -6,8 +6,6 @@ toc: true
 permalink: business.html
 folder: structured_canvases
 tags: 
-  - business
-  - chief
   - core
 ---
 

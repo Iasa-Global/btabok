@@ -9,7 +9,6 @@ folder: structured_canvases
 
 ![Structured Canvases - Business](media/chief_001.png)
 
-
 1. [Agile Team Designer](agile_team_designer.md){:target="_blank"}
 2. [Ecosystem Map](ecosystem_map.md){:target="_blank"}
 3. [Value Stream Canvas](value_stream_canvas.md){:target="_blank"}
@@ -66,4 +65,3 @@ folder: structured_canvases
 54. [Architecture Decision Record](architecture_decision_record.md){:target="_blank"}
 55. [Westrum Culture Diagnostic](westrum_culture_diagnostic.md){:target="_blank"}
 56. [ARS Card](ars_card.md){:target="_blank"}
-

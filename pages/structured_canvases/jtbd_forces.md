@@ -8,9 +8,6 @@ folder: structured_canvases
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
   - solution
 ---
 
@@ -18,7 +15,7 @@ tags:
 
 [Download PPT](media/ppt/jtbd_forces.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Forces Promoting Change |   |   |
-| Forces Blocking Change |   |   |
+| Area                    | Description | Links To |
+| ----------------------- | ----------- | -------- |
+| Forces Promoting Change |             |          |
+| Forces Blocking Change  |             |          |

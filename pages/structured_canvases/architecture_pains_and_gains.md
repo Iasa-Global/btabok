@@ -18,9 +18,9 @@ tags:
 
 [Download PPT](media/ppt/architecture_pains_and_gains.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| What is success to you |   |   |
-| Pains |   |   |
-| Gains |   |   |
-| Outcomes |   |   |
+| Area                   | Description | Links To |
+| ---------------------- | ----------- | -------- |
+| What is success to you |             |          |
+| Pains                  |             |          |
+| Gains                  |             |          |
+| Outcomes               |             |          |

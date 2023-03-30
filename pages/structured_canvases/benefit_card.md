@@ -14,11 +14,11 @@ tags:
 
 [Download PPT](media/ppt/benefit_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Benefit |   | OKR, NABC |
-| Changes Required |   | BDN |
-| Benefit Realization |   |   |
-| Benefit Measures |   |   |
-| Benefits Alignment |   |   |
-| Stakeholders |   |   |
+| Area                | Description | Links To  |
+| ------------------- | ----------- | --------- |
+| Benefit             |             | OKR, NABC |
+| Changes Required    |             | BDN       |
+| Benefit Realization |             |           |
+| Benefit Measures    |             |           |
+| Benefits Alignment  |             |           |
+| Stakeholders        |             |           |
