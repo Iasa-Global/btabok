@@ -41,5 +41,3 @@ Decision Style:
 ## Final Decision
 
 ## Rationale and Consequences
-
-

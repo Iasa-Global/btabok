@@ -18,11 +18,11 @@ tags:
 
 [Download PPT](media/ppt/context_view_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Model |   |   |
-| Description |   |   |
-| Requirements |   |   |
-| Decisions |   |   |
-| Warnings |   |   |
-| Assumptions/Caveats |   |   |
+| Area                | Description | Links To |
+| ------------------- | ----------- | -------- |
+| Model               |             |          |
+| Description         |             |          |
+| Requirements        |             |          |
+| Decisions           |             |          |
+| Warnings            |             |          |
+| Assumptions/Caveats |             |          |
