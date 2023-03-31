@@ -20,7 +20,7 @@ The ADR provides a decision management tool for discrete decisions for traceabil
 
 [Download PPT](media/ppt/architecture_decision_record.ppt){:target="_blank"}
 
-To create a working decision record requires agreement from the team.
+To use the decision record, 
 
 | Area                       | Description                                                             | Links To               |
 | -------------------------- | ----------------------------------------------------------------------- | ---------------------- |
