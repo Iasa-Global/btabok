@@ -18,9 +18,9 @@ The ADR provides a decision management tool for discrete decisions for traceabil
 
 ![image001](media/architecture_decision_record001.svg)
 
-[Download PPT](media/ppt/architecture_decision_record.ppt){:target="_blank"}
+[Download PPT](media/ppt/architecture_decision_record.ppt){:target="_blank"}, [Download MD](media/adr_md_download.md){:target="_blank"}
 
-To use the decision record, 
+To use the decision record you will need to either print it out or put it in a diagramming tool. The card is easy to fill out. We have found the best method for doing so is to use a scale of 1-10 for the different options. So for each 'area' rate the option with a scale. This also works extremely well in groups. 
 
 | Area                       | Description                                                             | Links To               |
 | -------------------------- | ----------------------------------------------------------------------- | ---------------------- |
@@ -29,7 +29,7 @@ To use the decision record,
 | Decision Scope             | The scope of impact of the decision                                     | Scope                  |
 | Characteristics            | Duration, information quality, effort and reversibility of the decision | ASR, OKR, Context View |
 | Authority                  | How the decision will be made and by whom                               | Stakeholder Ecosystem  |
-| Rationale and Consequences | Any additional thinking or consequences of the decision                 | OKR, Cascade           |
 | Options (Areas)            | The areas or topics to compare against for all of the options.          | N/A                    |
 | Options                    | The different choices available in the decision.                        | Roadmap                |
+| Rationale and Consequences | Any additional thinking or consequences of the decision                 | OKR, Cascade           |
 | Final Decision             | Which decision was made and any description.                            | N/A                    |
