@@ -65,7 +65,7 @@
   <text class="canvas" x="632.003" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION BIAS(ES):</text>
   <rect class="canvas" x="29.691" y="198.918" width="197.622" height="355.01" style="stroke-width: 0; fill: lightgrey;"/>
   <rect class="canvas" x="704.675" y="201.936" width="224.279" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="40.088" y="224.74" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Decsions:</text>
+  <text class="canvas" x="40.088" y="224.74" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Decisions:</text>
   <text class="canvas" x="733.271" y="226.412" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 3 Cascade</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 10px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, -2, 0)"><tspan x="635.184" y="88.472">How much of the enterprise is affected by the decision?</tspan><tspan x="635.184" dy="1em">​</tspan></text>
   <rect class="canvas" x="473.603" y="201.355" width="224.279" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
