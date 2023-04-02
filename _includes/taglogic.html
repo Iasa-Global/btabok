@@ -21,7 +21,7 @@
 
         <tr><td><a href="{{ post.url | remove: "/" }}">{{post.title}}</a></td>
             <td><span class="label label-primary">Post</span></td>
-            <td>{% if post.summary %} {{ post.summary | truncate: 50 }} {% else %} {{ post.content | truncatewords: 50 }} {% endif %}</td>
+            <td>{% if post.summary %} {{ post.summary | truncate: 30 }} {% else %} {{ post.content | truncatewords: 30 }} {% endif %}</td>
         </tr>
         {% endif %}
         {% endfor %}
