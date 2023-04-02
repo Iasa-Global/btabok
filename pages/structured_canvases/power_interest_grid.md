@@ -1,14 +1,12 @@
 ---
-title: "Power – Interest Grid""
+title: "Power – Interest Grid"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
 permalink: power_interest_grid.html
 folder: structured_canvases
 tags: 
-
   - core
-
 ---
 
 ![image001](media/power_interest_grid001.svg)
