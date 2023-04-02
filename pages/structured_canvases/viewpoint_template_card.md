@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: viewpoint_template_card.html
 folder: structured_canvases
+summary: "The viewpoint template card is used to describe a viewpoint used by an architecture practice."
 tags: 
   - engagement_model
   - core
