@@ -352,7 +352,7 @@ entries:
       output: web
 
     - title: Core
-      url: core_sc.html
+      url: tag_core.html
       output: web
 
     - title: Engagement Model
