@@ -360,19 +360,19 @@ entries:
       output: web
 
     - title: Information
-      url: information_sc.html
+      url: tag_information.html
       output: web
 
     - title: Infrastructure
-      url: infrastructure_sc.html
+      url: tag_infrastructure.html
       output: web
 
     - title: Software
-      url: software_sc.html
+      url: tag_software.html
       output: web
 
     - title: Solution
-      url: solution_sc.html
+      url: tag_solution.html
       output: web
 
   - title: Ethics and Principles
