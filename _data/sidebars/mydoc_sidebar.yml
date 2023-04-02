@@ -344,7 +344,7 @@ entries:
     folderitems:
 
     - title: Business
-      url: business_sc.html
+      url: tag_business.html
       output: web
 
     - title: Chief
