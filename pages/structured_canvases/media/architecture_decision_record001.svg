@@ -21,11 +21,11 @@
   <text class="canvas" x="644" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Date</text>
   <text class="canvas" x="794" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Version</text>
   <rect class="canvas" x="20" y="60" width="920" height="600"/>
-  <rect class="canvas" x="20" y="60" width="312.083" height="100.742" style=""/>
+  <rect class="canvas" x="20" y="60" width="313" height="100" style=""/>
   <rect class="canvas" x="20" y="560" width="920" height="100"/>
-  <rect class="canvas" x="20" y="161" width="724.66" height="400.206" style=""/>
-  <rect class="canvas" x="745" y="160" width="195.341" height="499.67" style=""/>
-  <rect class="canvas" x="745" y="382.351" width="195.192" height="140.082" style=""/>
+  <rect class="canvas" x="20" y="160" width="724" height="400" style=""/>
+  <rect class="canvas" x="745" y="160" width="195" height="500" style=""/>
+  <rect class="canvas" x="745" y="380" width="195" height="140" style=""/>
   <text class="canvas" x="20" y="32" width="100" height="20" font-size="1.4em" font-weight="500" style="white-space: pre-wrap; font-size: 21px;">ARCHITECTURE DECISION RECORD</text>
   <text class="canvas" x="26.031" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 82.391754, -114.587631)"><tspan x="26" y="290">Compare options by comparing 'areas'. Areas are the attributes such as cost, performance, etc. </tspan><tspan x="26" dy="1em">​</tspan><tspan>Use a number system from 1-10 for each option.</tspan></text>
@@ -43,28 +43,28 @@
   <text class="canvas" x="632.003" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION SCOPE:</text>
   <text class="canvas" x="752.677" y="178.33" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CHARACTERISTICS:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="338.039" y="89.639">This should link to an ASR. </text>
-  <rect class="canvas" x="29.691" y="198.918" width="123.959" height="355.01" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="160.701" y="200.402" width="187.051" height="352.783" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="354.062" y="201.144" width="187.051" height="351.299" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="547.052" y="201.144" width="187.051" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="34.504" y="217.948" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">AREAS:</text>
-  <text class="canvas" x="166.146" y="220.918" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">1 ________________</text>
-  <text class="canvas" x="358.303" y="220.918" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">2 ________________</text>
-  <text class="canvas" x="554.262" y="221.66" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">3 ________________</text>
-  <text class="canvas" x="37.398" y="249.866" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="36.828" y="270.764" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="35.686" y="291.661" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="35.115" y="312.559" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="33.402" y="333.457" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="34.544" y="354.354" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="36.257" y="375.252" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="33.973" y="396.15" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="38.54" y="417.048" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="37.969" y="437.945" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="40.824" y="458.843" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="39.682" y="479.741" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="40.253" y="500.638" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="39.111" y="521.536" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <rect class="canvas" x="30" y="198.918" width="123.959" height="355.01" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="160" y="200.402" width="187.051" height="352.783" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="355" y="201.144" width="187.051" height="351.299" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="547" y="201.144" width="187.051" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="34" y="217.948" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">AREAS:</text>
+  <text class="canvas" x="166" y="220.918" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">1 ________________</text>
+  <text class="canvas" x="358" y="220.918" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">2 ________________</text>
+  <text class="canvas" x="554" y="221.66" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">3 ________________</text>
+  <text class="canvas" x="37" y="249.866" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="36" y="270.764" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="35" y="291.661" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="35" y="312.559" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="33" y="333.457" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="34" y="354.354" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="36" y="375.252" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="33" y="396.15" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="38" y="417.048" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="38" y="437.945" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="458.843" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="479.741" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="500.638" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="521.536" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
   <g>
     <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757.113" y1="228.619" x2="922.639" y2="227.876"/>
     <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756.731" y1="224.173" x2="756.59" y2="232.764"/>
