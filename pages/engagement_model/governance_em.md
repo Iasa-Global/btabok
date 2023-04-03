@@ -19,27 +19,22 @@ tags:
 
 # What is Governance
 
-Governance is an important function in many organizations and
-professions, architecture and architecture practices are
-should align with and where possible facilitate effective organizational
-governance. There are many definitions of what governance is but most
+There are many definitions of what governance is but most
 point out that it is a framework of structures and processes which allow
 the organization to operate according to a set of norms, values and
 policies.
 
 These norms, values and policies may be specific to the organization and 
-to the industry sector the organization is involved in. For example,
-organizations in strongly regulated business sectors are also likely to
+to the industry sector the organization is involved in or they may be more general. For example, organizations in strongly regulated business sectors are also likely to
 have strong governance frameworks, since consequences of poor practices
 or decisions may be severe. Consider sectors such as the medical,
-pharmaceutical, nuclear or banking, where the consequences of poor
+pharmaceutical, energy, military or banking, where the consequences of poor
 [decisions](decisions.md){:target="_blank"} may result in loss of life, or substantial
-financial loss that leads to economic problems at a much higher scope.
+financial loss that leads to economic problems at a much higher scope. In the BTABoK [Safety and Liability](safety_liability.md) article these are labeled Tier 1 systems and result in a different governance implementation of the engagement model for architects. 
 
-Governance applies to architecture for the same reasons, and the
+Governance applies to architecture for similar reasons, and the
 strength of governance in the organization will likely be determined by
-the business sector and risk. The architecture is also important for
-governance, since a well architected organization is easier to govern.
+the business sector and risk. 
 
 A governance framework includes the structures and processes for:
 
@@ -51,8 +46,7 @@ A governance framework includes the structures and processes for:
 
 - Control
 
-Popular frameworks such as COBIT and ITIL may be used for IT governance.
-These are often used in large organizations and are comprehensive
+IT and technology governance is generally a subset of larger organization frameworks and processes. Popular frameworks such as COBIT and ITIL may be used for IT governance. These are often used in large organizations and are comprehensive
 frameworks. However, implementing such a comprehensive framework takes a
 lot of time and effort. Smaller organizations may find these frameworks
 overwhelming and settle for developing a framework which meets essential
@@ -94,6 +88,8 @@ and accountability.
 
 # Governance Approach
 
+The BTABoK is an innovation focused body of knowledge. This means that it generally leans towards architects being involved primarily as change agents. Governance itself is more review-focused. The BTABoK treats this as a flexible spectrum. For example, in Tier-1 systems (safety-critical) the architecture practice would be significantly more governance focused, while in Tier-2 and 3 systems they would be much more innovation focused. 
+
 ## Governance is Everyone's Business
 
 A governance framework should be flexible and develop, based on feedback
@@ -106,7 +102,11 @@ consideration, so that the architecture aligns with the
 [objectives](objectives.md){:target="_blank"} of the business, as well as ensuring that
 resulting implementations comply to the architecture.
 
-## Avoid "police state"
+### Architects Should Be Governed Not Governing
+
+As above the goal of the architecture practice is to deliver change in the most valuable and effective manner. Thus, a base practice for them is to be governed, not do the governing. 
+
+## Avoid the "police state"
 
 Governance is used to help the organization make good decisions, however
 if governance is practiced badly, it can create a "police state"
@@ -320,7 +320,7 @@ not just the resulting architecture. So, it may be important to show
 compliance in the processes and methods used to develop the
 architecture, as well as the resulting architecture.
 
-## Architecture Governance Boards
+## Architecture Mentoring Vs Governance Boards
 
 Beyond the inspections described above some organizations --
 particularly those in highly regulated industries -- will need to
