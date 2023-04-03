@@ -27,100 +27,100 @@
   <rect class="canvas" x="745" y="160" width="195" height="500" style=""/>
   <rect class="canvas" x="745" y="380" width="195" height="140" style=""/>
   <text class="canvas" x="20" y="32" width="100" height="20" font-size="1.4em" font-weight="500" style="white-space: pre-wrap; font-size: 21px;">ARCHITECTURE DECISION RECORD</text>
-  <text class="canvas" x="26.031" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
+  <text class="canvas" x="26" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 82.391754, -114.587631)"><tspan x="26" y="290">Compare options by comparing 'areas'. Areas are the attributes such as cost, performance, etc. </tspan><tspan x="26" dy="1em">​</tspan><tspan>Use a number system from 1-10 for each option.</tspan></text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;"><tspan x="26" y="90">Describe the forces at play, including technological, </tspan><tspan x="26" dy="1em">​</tspan><tspan>political, social, and project local.</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the tensions &amp; dependencies</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the facts as you know them</tspan><tspan x="26" dy="1em">​</tspan></text>
-  <text class="canvas" x="26" y="576.936" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">FINAL DECISION:</text>
+  <text class="canvas" x="26" y="577" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">FINAL DECISION:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 0, 400.090942)" x="26" y="190">What was the final decision? How does it link to other decisions? Does it Cascade? Are their cognitive biases involved? Is it captured in a view? How can it be tested?</text>
   <text class="canvas" x="26" y="177" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">OPTIONS:</text>
-  <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="754.165" y="402.309">AUTHORITY:</text>
-  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" x="754.21" y="190.952">What type of decision is this?</text>
+  <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="754" y="402">AUTHORITY:</text>
+  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" x="754" y="190">What type of decision is this?</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="756.185" y="210.062">REVERSABILITY:</text>
-  <text class="canvas" x="21.485" y="678.701" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Gar Mac Críosta</text>
-  <text class="canvas" x="21.485" y="690.701" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
-  <rect class="canvas" x="627.052" y="61" width="312.825" height="100" style=""/>
-  <text class="canvas" x="337.354" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">REQUIREMENTS:</text>
-  <text class="canvas" x="632.003" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION SCOPE:</text>
-  <text class="canvas" x="752.677" y="178.33" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CHARACTERISTICS:</text>
+  <text class="canvas" x="21" y="678" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Gar Mac Críosta</text>
+  <text class="canvas" x="21" y="690" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
+  <rect class="canvas" x="627" y="61" width="312" height="100" style=""/>
+  <text class="canvas" x="337" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">REQUIREMENTS:</text>
+  <text class="canvas" x="632" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION SCOPE:</text>
+  <text class="canvas" x="752" y="178" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CHARACTERISTICS:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="338.039" y="89.639">This should link to an ASR. </text>
-  <rect class="canvas" x="30" y="198.918" width="123.959" height="355.01" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="160" y="200.402" width="187.051" height="352.783" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="355" y="201.144" width="187.051" height="351.299" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="547" y="201.144" width="187.051" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="34" y="217.948" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">AREAS:</text>
-  <text class="canvas" x="166" y="220.918" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">1 ________________</text>
-  <text class="canvas" x="358" y="220.918" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">2 ________________</text>
-  <text class="canvas" x="554" y="221.66" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">3 ________________</text>
-  <text class="canvas" x="37" y="249.866" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="36" y="270.764" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="35" y="291.661" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="35" y="312.559" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="33" y="333.457" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="34" y="354.354" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="36" y="375.252" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="33" y="396.15" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="38" y="417.048" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="38" y="437.945" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="40" y="458.843" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="40" y="479.741" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="40" y="500.638" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
-  <text class="canvas" x="40" y="521.536" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <rect class="canvas" x="30" y="198" width="123" height="355" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="160" y="200" width="187" height="352" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="355" y="201" width="187" height="351" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="547" y="201" width="187" height="350" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="34" y="217" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">AREAS:</text>
+  <text class="canvas" x="166" y="220" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">1 ________________</text>
+  <text class="canvas" x="358" y="220" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">2 ________________</text>
+  <text class="canvas" x="554" y="221" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">3 ________________</text>
+  <text class="canvas" x="37" y="249" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="36" y="270" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="35" y="291" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="35" y="312" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="33" y="333" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="34" y="354" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="36" y="375" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="33" y="396" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="38" y="417" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="38" y="437" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="458" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="479" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="500" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
+  <text class="canvas" x="40" y="521" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">___________</text>
   <g>
-    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757.113" y1="228.619" x2="922.639" y2="227.876"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756.731" y1="224.173" x2="756.59" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787.586" y1="224.173" x2="787.445" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821.126" y1="223.989" x2="820.985" y2="232.58"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853.561" y1="223.805" x2="853.42" y2="232.396"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885.627" y1="223.436" x2="885.486" y2="232.027"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922.485" y1="223.436" x2="922.344" y2="232.027"/>
+    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757" y1="228" x2="922" y2="227"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756" y1="224" x2="756" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787" y1="224" x2="787" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821" y1="223" x2="820" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853" y1="223" x2="853" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885" y1="223" x2="885" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922" y1="223" x2="922" y2="232"/>
   </g>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757.008" y="259.121">DURATION: </text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757" y="259">DURATION: </text>
   <g transform="matrix(1, 0, 0, 1, 1.455819, 45.115593)">
-    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757.113" y1="228.619" x2="922.639" y2="227.876"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756.731" y1="224.173" x2="756.59" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787.586" y1="224.173" x2="787.445" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821.126" y1="223.989" x2="820.985" y2="232.58"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853.561" y1="223.805" x2="853.42" y2="232.396"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885.627" y1="223.436" x2="885.486" y2="232.027"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922.485" y1="223.436" x2="922.344" y2="232.027"/>
+    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757" y1="228" x2="922" y2="227"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756" y1="224" x2="756" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787" y1="224" x2="787" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821" y1="223" x2="820" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853" y1="223" x2="853" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885" y1="223" x2="885" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922" y1="223" x2="922" y2="232"/>
   </g>
   <g transform="matrix(1, 0, 0, 1, 1.005896, 87.858261)">
-    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757.113" y1="228.619" x2="922.639" y2="227.876"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756.731" y1="224.173" x2="756.59" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787.586" y1="224.173" x2="787.445" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821.126" y1="223.989" x2="820.985" y2="232.58"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853.561" y1="223.805" x2="853.42" y2="232.396"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885.627" y1="223.436" x2="885.486" y2="232.027"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922.485" y1="223.436" x2="922.344" y2="232.027"/>
+    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757" y1="228" x2="922" y2="227"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756" y1="224" x2="756" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787" y1="224" x2="787" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821" y1="223" x2="820" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853" y1="223" x2="853" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885" y1="223" x2="885" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922" y1="223" x2="922" y2="232"/>
   </g>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="758.985" y="301.797">INFORMATION QUALITY:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="758" y="301">INFORMATION QUALITY:</text>
   <g transform="matrix(1, 0, 0, 1, 0.720899, 134.686203)">
-    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757.113" y1="228.619" x2="922.639" y2="227.876"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756.731" y1="224.173" x2="756.59" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787.586" y1="224.173" x2="787.445" y2="232.764"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821.126" y1="223.989" x2="820.985" y2="232.58"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853.561" y1="223.805" x2="853.42" y2="232.396"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885.627" y1="223.436" x2="885.486" y2="232.027"/>
-    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922.485" y1="223.436" x2="922.344" y2="232.027"/>
+    <line style="stroke-width: 2px; fill: rgb(148, 148, 148); stroke: rgb(148, 148, 148);" x1="757" y1="228" x2="922" y2="227"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="756" y1="224" x2="756" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="787" y1="224" x2="787" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="821" y1="223" x2="820" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="853" y1="223" x2="853" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="885" y1="223" x2="885" y2="232"/>
+    <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="922" y1="223" x2="922" y2="232"/>
   </g>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="758.7" y="348.625">EFFORT: ($, time, people)</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757.811" y="239.708">REVERSABLE</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="884.423" y="238.446">IRREVERSABLE</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="758.697" y="285.15">HRS</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="913.454" y="284.969">YRS</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757.386" y="325.343">0%</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="909.605" y="324.982">100%</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757.445" y="373.801">VERY SMALL</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="892.437" y="373.801">VERY LARGE</text>
-  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" x="754.67" y="436.69">Who owns the decision?</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="754.838" y="423.098">DECISION-OWNER?</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="755.021" y="459.543">DECISION-PROCESS?</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="754.125" y="495.987">DECISION STYLE?</text>
-  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;"><tspan x="754.85" y="473.134">How are we making this decision.</tspan><tspan x="754.85" dy="1em">​</tspan></text>
-  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, -1.407728, 36.744064)"><tspan x="754.85" y="473.134">Tell, sell, consult, agree, inquire, </tspan><tspan x="754.85" dy="1em">​</tspan><tspan>delegate.</tspan><tspan x="754.85" dy="1em">​</tspan></text>
-  <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="753.631" y="541.187">RATIONALE &amp; <tspan x="753.6309814453125" dy="1em">​</tspan>CONSEQUENCES:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="758" y="348">EFFORT: ($, time, people)</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757" y="239">REVERSABLE</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="884" y="238">IRREVERSABLE</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="758" y="285">HRS</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="913" y="284">YRS</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757" y="325">0%</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="909" y="324">100%</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="757" y="373">VERY SMALL</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 5px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="892" y="373">VERY LARGE</text>
+  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" x="754" y="436">Who owns the decision?</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="754" y="423">DECISION-OWNER?</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="755" y="459">DECISION-PROCESS?</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="754" y="495">DECISION STYLE?</text>
+  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;"><tspan x="754" y="473">How are we making this decision.</tspan><tspan x="754" dy="1em">​</tspan></text>
+  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, -1.407728, 36.744064)"><tspan x="754" y="473">Tell, sell, consult, agree, inquire, </tspan><tspan x="754.85" dy="1em">​</tspan><tspan>delegate.</tspan><tspan x="754.85" dy="1em">​</tspan></text>
+  <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="753" y="541">RATIONALE &amp; <tspan x="753.6309814453125" dy="1em">​</tspan>CONSEQUENCES:</text>
   <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 0.194712, 92.295311)" x="754.8499755859375" y="473.1340026855469">Why did we choose this option?<tspan x="754.8499755859375" dy="1em">​</tspan>Are there any side-effects or impacts <tspan x="754.8499755859375" dy="1em">​</tspan>resulting form this decision? <tspan x="754.8499755859375" dy="1em">​</tspan><tspan x="754.8499755859375" dy="1em">​</tspan><tspan x="754.8499755859375" dy="1em">​</tspan></text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="635.184" y="88.472" transform="matrix(1, 0, 0, 1, -2, 0)">How much of the enterprise is affected by the decision?<tspan x="635.1840209960938" dy="1em">​</tspan></text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="635" y="88" transform="matrix(1, 0, 0, 1, -2, 0)">How much of the enterprise is affected by the decision?<tspan x="635.1840209960938" dy="1em">​</tspan></text>
   <!-- logo -->
   <g transform="matrix(0.264361, 0, 0, -0.264361, 770.92865, 713.30719)" style="">
     <g transform="">
