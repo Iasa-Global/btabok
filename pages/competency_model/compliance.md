@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: compliance.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Compliance denotes a (generally) mandatory conformance to specified rules framed by institutions such as businesses, governments, accredited standards bodies and industry groups."
 tags: 
   - business_technology_strategy
 ---

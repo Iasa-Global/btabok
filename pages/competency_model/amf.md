@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: amf.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "A Framework: is a meta-level (a higher level of abstraction) through which a range of concepts, models, techniques, methodologies can either be clarified and/or integrated. A framework is a static model."
 tags: 
   - business_technology_strategy
 ---
