@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: risk_management.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Risk Management for an architect is an ongoing effort to offset occurrences which would jeopardize or negatively impact the value generated from a project, program or set of activities."
 tags: 
   - business_technology_strategy
 ---

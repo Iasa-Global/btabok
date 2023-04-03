@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: investment_prioritization_and_planning.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Investment, Prioritization and Planning (IPP) are a set of practices focused on the management of asset and portfolio lifecycle, including planning and managing under a comprehensive understanding of the different investment approaches required for each."
 tags: 
   - business_technology_strategy
 ---
