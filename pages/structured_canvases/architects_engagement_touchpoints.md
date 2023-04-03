@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architects_engagement_touchpoints.html
 folder: structured_canvases
+summary: "The architects engagement touch points is used to understand the stakeholder(s) and their levels that the architecture practice 'touches'."
 tags: 
   - business
   - chief

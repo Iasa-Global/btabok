@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architects_roadmap_canvas.html
 folder: structured_canvases
+summary: "The architects roadmap is used to prioritize, assign and connect multiple initiatives within a value stream."
 tags: 
   - business
   - core

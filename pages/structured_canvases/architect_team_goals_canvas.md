@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_team_goals_canvas.html
 folder: structured_canvases
+summary: "The team goals canvas is a tool to understand the relationship to architecture practice objectives. "
 tags: 
   - business
   - chief

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business.html
 folder: structured_canvases
+summary: "Architects Process Engagement Canvas"
 tags: 
   - business
   - chief

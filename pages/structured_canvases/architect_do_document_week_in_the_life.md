@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_do_document_week_in_the_life.html
 folder: structured_canvases
+summary: "The week in the life designer is an as-is and to-be brainstorming tool which helps to identify the kind of time an architect or a team is spending and one what."
 tags: 
   - engagement_model
 ---
