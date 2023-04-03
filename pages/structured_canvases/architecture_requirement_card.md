@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_requirement_card.html
 folder: structured_canvases
+summary: "The ASR Card is a tool to define an architecturally significant requirement."
 tags: 
   - business
   - chief
