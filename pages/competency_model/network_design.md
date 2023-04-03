@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: network_design.html
 folder: competency_model
-summary: ""
+summary: "Network design is part of overall infrastructure design initiatives that deals with providing architectural framework for multiple layers of the data/voice network, starting at the core layer and extending to the end user."
 tags:
   - infrastructure_architecture
 ---

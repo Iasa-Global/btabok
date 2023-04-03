@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: software_ap.html
 folder: competency_model
-summary: ""
+summary: "Software Architecture Patterns"
 tags:
   - software_architecture
 ---
@@ -18,3 +18,13 @@ This capability is being depreciated in version 2.0 due to the following rationa
 -   It is listed in Software Architecture but not other specializations. The other specializations have their own patterns, therefore either all specializations should list them or none.
 
 It will not be included on certifications which are mapped to version 3.0 of the BTABoK.
+
+# Resources
+
+**Articles:**
+
+**Blogs / Webcasts / News / Reference Resources:**
+
+**Training:**
+
+**Certifications:**

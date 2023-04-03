@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: hace.html
 folder: competency_model
-summary: ""
+summary: "High Availability Computing Environment"
 tags:
   - infrastructure_architecture
 ---
@@ -81,10 +81,10 @@ Description text here...
 
 # Resources
 
-## **Articles:**
+**Articles:**
 
-## **Blogs/Webcasts/News/Reference Resources:**
+**Blogs/Webcasts/News/Reference Resources:**
 
-## **Training:**
+**Training:**
 
-## **Certifications:**
+**Certifications:**
