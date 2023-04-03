@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: development_value_stream_canvas.html
 folder: structured_canvases
+summary: "Development Value Stream Canvas"
 tags: 
   - business
   - chief

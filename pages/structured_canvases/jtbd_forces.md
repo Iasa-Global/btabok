@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: jtbd_forces.html
 folder: structured_canvases
+summary: "JTBD Forces"
 tags: 
   - business
   - chief

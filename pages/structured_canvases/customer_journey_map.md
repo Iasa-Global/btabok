@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: customer_journey_map.html
 folder: structured_canvases
+summary: "Customer Journey Map"
 tags: 
   - business
   - chief

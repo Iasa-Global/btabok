@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: envisioning_canvas.html
 folder: structured_canvases
+summary: "Envisioning Canvas"
 tags: 
   - business
   - chief
