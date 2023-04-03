@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: software_at.html
 folder: competency_model
-summary: ""
+summary: "Tools are essential to carry out the activities defined under "software architecture" work."
 tags:
   - software_architecture
 ---
