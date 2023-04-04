@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: journey_stage_canvas.html
 folder: structured_canvases
+summary: "Journey Stage Canvas"
 tags: 
   - business
   - chief

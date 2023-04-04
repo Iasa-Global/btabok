@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: demand_signal_card.html
 folder: structured_canvases
+summary: "Demand Signal Card"
 tags: 
   - business
   - chief

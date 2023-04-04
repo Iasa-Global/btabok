@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: sms.html
 folder: competency_model
-summary: ""
+summary: "System Management and Services"
 tags:
   - infrastructure_architecture
 ---

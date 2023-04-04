@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: ars_card.html
 folder: structured_canvases
+summary: "The ARS is used in agile architecture environments and mimics the epic or the detailed story while evaluating the requirement. Similar to ASR. "
 tags: 
   - business
   - chief

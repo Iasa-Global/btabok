@@ -344,35 +344,35 @@ entries:
     folderitems:
 
     - title: Business
-      url: business_sc.html
+      url: tag_business.html
       output: web
 
     - title: Chief
-      url: chief_sc.html
+      url: tag_chief.html
       output: web
 
     - title: Core
-      url: core_sc.html
+      url: tag_core.html
       output: web
 
     - title: Engagement Model
-      url: engagement_model_sc.html
+      url: tag_engagement_model.html
       output: web
 
     - title: Information
-      url: information_sc.html
+      url: tag_information.html
       output: web
 
     - title: Infrastructure
-      url: infrastructure_sc.html
+      url: tag_infrastructure.html
       output: web
 
     - title: Software
-      url: software_sc.html
+      url: tag_software.html
       output: web
 
     - title: Solution
-      url: solution_sc.html
+      url: tag_solution.html
       output: web
 
   - title: Ethics and Principles
@@ -391,4 +391,4 @@ entries:
 #
 #    - title: Overview
 #      url: manifesto.html
-#      output: web
+#      output: web 

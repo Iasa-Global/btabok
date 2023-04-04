@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: value_stream_canvas.html
 folder: structured_canvases
+summary: "The value stream canvas is used to understand where value is created in an organization driven from customers through control, suppliers and operations. "
 tags: 
   - business
   - chief

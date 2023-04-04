@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: benefits_realization_view_canvas.html
 folder: structured_canvases
+summary: "Benefits Realization View Canvas"
 tags: 
   - business
   - chief

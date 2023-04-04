@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_decision_record.html
 folder: structured_canvases
+summary: "The ADR provides a decision management tool for discrete decisions for traceability to ASR and usage."
 tags: 
   - business
   - chief

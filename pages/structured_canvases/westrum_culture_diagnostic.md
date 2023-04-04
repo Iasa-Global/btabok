@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: westrum_culture_diagnostic.html
 folder: structured_canvases
+summary: "The Westrum Culture Diagnostic helps teams and organizations understand the culture they are working within to better understand their engagement model."
 tags: 
   - engagement_model
   - chief

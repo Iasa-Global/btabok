@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: advanced_sm.html
 folder: competency_model
-summary: ""
+summary: "Advanced Stakeholder Management"
 tags:
   - software_architecture
 ---
@@ -20,4 +20,14 @@ This capability is being depreciated in version 2.0 due to the following rationa
 -   It is too amorphous and nebulous. It is not useful in terms of a body of knowledge. Elements may be listed elsewhere.
 
 It will not be included on certifications which are mapped to version 3.0 of the BTABoK.
+
+# Resources
+
+**Articles:**
+
+**Blogs / Webcasts / News / Reference Resources:**
+
+**Training:**
+
+**Certifications:**
 

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: doability_canvas.html
 folder: structured_canvases
+summary: "Doability Canvas"
 tags: 
   - business
   - chief

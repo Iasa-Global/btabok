@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: blue_ocean_canvas.html
 folder: structured_canvases
+summary: "Blue Ocean Canvas"
 tags: 
   - business
   - chief

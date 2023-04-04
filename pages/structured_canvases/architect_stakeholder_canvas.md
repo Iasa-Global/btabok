@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_stakeholder_canvas.html
 folder: structured_canvases
+summary: "The architect stakeholder canvas is a very powerful stakeholder tool."
 tags: 
   - business
   - chief

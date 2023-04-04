@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_definition_canvas.html
 folder: structured_canvases
+summary: "Architecture Definition Canvas"
 tags: 
   - core
 ---

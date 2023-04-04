@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: strategy_development_and_rationalization.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "The process of strategy development and rationalization defines how the business architect and IT architect work together."
 tags: 
   - business_technology_strategy
 ---

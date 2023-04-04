@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: infrastructure_ras.html
 folder: competency_model
-summary: ""
+summary: "Infrastructure RAS"
 tags:
   - infrastructure_architecture
 ---

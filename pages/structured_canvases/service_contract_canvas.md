@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: service_contract_canvas.html
 folder: structured_canvases
+summary: "Service Contract Canvas"
 tags: 
   - software
   - infrastructure

@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: requirements_discovery_and_constraints_analysis.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Requirements Discovery and Constraints Analysis are the tools and techniques for understanding business requirements with multiple strategic impacts, including how such requirements and constraints are formed internally and externally."
 tags: 
   - business_technology_strategy
 ---

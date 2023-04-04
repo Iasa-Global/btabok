@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_stakeholder_card.html
 folder: structured_canvases
+summary: "Architect Stakeholder Card"
 tags: 
   - business
   - chief

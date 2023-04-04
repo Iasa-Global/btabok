@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: benefit_card.html
 folder: structured_canvases
+summary: "Benefit Card"
 tags: 
   - business
   - chief

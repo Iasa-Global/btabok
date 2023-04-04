@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_case_nabc_card.html
 folder: structured_canvases
+summary: "The Business Case has many names and uses."
 tags: 
   - business
   - chief

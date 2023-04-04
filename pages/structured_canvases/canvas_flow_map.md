@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: canvas_flow_map.html
 folder: structured_canvases
+summary: "Canvas Flow Map"
 tags: 
   - business
   - chief

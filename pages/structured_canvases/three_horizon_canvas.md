@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: three_horizon_canvas.html
 folder: structured_canvases
+summary: "The three horizons canvas is a facilitation tool to allow a practice or group to determine on which of the horizons initiatives fall into based on their impact and investment requirements."
 tags: 
   - business
   - chief

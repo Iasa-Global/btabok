@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: PESTLE_canvas.html
 folder: structured_canvases
+summary: "The PESTLE canvas provides and ecosystem view of the enterprise or an initiative."
 tags: 
   - solution
   - business

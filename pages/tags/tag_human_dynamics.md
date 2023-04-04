@@ -7,7 +7,7 @@ sidebar: mydoc_sidebar
 folder: tags
 ---
 
-![Human Dynamics](media/human_dynamics_m_001.png)
+![Human Dynamics](media/human_dynamics_m_002.png)
 
 {% include taglogic.html %}
 

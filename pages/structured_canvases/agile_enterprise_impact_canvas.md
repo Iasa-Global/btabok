@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: agile_enterprise_impact_canvas.html
 folder: structured_canvases
+summary: "The agile impact canvas is used to describe the overall impact of agile methods on an enterprise, team, or domain."
 tags: 
   - business
   - chief

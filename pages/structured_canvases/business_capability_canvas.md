@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business_capability_canvas.html
 folder: structured_canvases
+summary: "Business Capability Canvas"
 tags: 
   - business
   - chief

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: technology_tracker_card.html
 folder: structured_canvases
+summary: "The technology tracker helps architects evaluate a new technology tracker for impacts on their environment."
 tags: 
   - information
   - infrastructure

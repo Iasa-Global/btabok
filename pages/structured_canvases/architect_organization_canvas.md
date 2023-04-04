@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architect_organization_canvas.html
 folder: structured_canvases
+summary: "The architecture organization canvas is a kind of business capability card specifically tailored to understanding and improving the architecture capability of an organization."
 tags: 
   - chief
   - engagement_model

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: course_change_card.html
 folder: structured_canvases
+summary: "Course Change Card"
 tags: 
   - business
   - chief
