@@ -21,18 +21,18 @@
   <text class="canvas" x="644" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Date</text>
   <text class="canvas" x="794" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Version</text>
   <rect class="canvas" x="20" y="60" width="920" height="600"/>
-  <rect class="canvas" x="19.999" y="60.001" width="609.905" height="100.742" style=""/>
-  <rect class="canvas" x="20" y="560.091" width="920" height="100"/>
-  <rect class="canvas" x="20" y="161" width="920.304" height="398.622" style=""/>
+  <rect class="canvas" x="20" y="60" width="610" height="100" style=""/>
+  <rect class="canvas" x="20" y="560" width="920" height="100"/>
+  <rect class="canvas" x="20" y="161" width="920" height="398" style=""/>
   <text class="canvas" x="20" y="32" width="100" height="20" font-size="1.4em" font-weight="500" style="white-space: pre-wrap; font-size: 21px;">DECISION CASCADE CARD</text>
-  <text class="canvas" x="26.031" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CASCADE CONTEXT:</text>
+  <text class="canvas" x="26" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CASCADE CONTEXT:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 10px; white-space: pre-wrap;" x="121.392" y="175.412">Use the decision to understand its connected decsions? What other decisions are obvious? Which are impacted?</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 10px; white-space: pre-wrap;"><tspan x="26" y="90">Describe the forces at play, including technological, </tspan><tspan x="26" dy="1em">​</tspan><tspan>political, social, and project local.</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the tensions &amp; dependencies</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the facts as you know them</tspan><tspan x="26" dy="1em">​</tspan></text>
-  <text class="canvas" x="26" y="576.936" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CASCADE IMPACTS:</text>
+  <text class="canvas" x="26" y="577" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CASCADE IMPACTS:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 10px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 0, 400.090942)" x="26" y="190">What was the final decision? How does it link to other decisions? Does it Cascade? Are their cognitive biases involved? Is it captured in a view? How can it be tested?</text>
   <text class="canvas" x="26" y="177" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CASCADES:</text>
-  <text class="canvas" x="21.485" y="678.701" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Paul T Preiss</text>
-  <text class="canvas" x="21.485" y="690.701" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
+  <text class="canvas" x="21" y="678" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Paul T Preiss</text>
+  <text class="canvas" x="21" y="690" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
   <g transform="matrix(0.264361, 0, 0, -0.264361, 770.92865, 713.30719)" style="">
     <g transform="">
       <path d="M 0 0 L 657.483 0 L 657.483 179.604 L 0 179.604 Z" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
@@ -61,15 +61,15 @@
       </g>
     </g>
   </g>
-  <rect class="canvas" x="627.052" y="61" width="312.825" height="100" style=""/>
-  <text class="canvas" x="632.003" y="76.845" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION BIAS(ES):</text>
-  <rect class="canvas" x="29.691" y="198.918" width="197.622" height="355.01" style="stroke-width: 0; fill: lightgrey;"/>
-  <rect class="canvas" x="704.675" y="201.936" width="224.279" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="40.088" y="224.74" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Decisions:</text>
-  <text class="canvas" x="733.271" y="226.412" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 3 Cascade</text>
+  <rect class="canvas" x="627" y="61" width="312" height="100" style=""/>
+  <text class="canvas" x="632" y="77" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION BIAS(ES):</text>
+  <rect class="canvas" x="30" y="198" width="197" height="355" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="704" y="201" width="224" height="350" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="40" y="224" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Decisions:</text>
+  <text class="canvas" x="733" y="226" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 3 Cascade</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 10px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, -2, 0)"><tspan x="635.184" y="88.472">How much of the enterprise is affected by the decision?</tspan><tspan x="635.184" dy="1em">​</tspan></text>
-  <rect class="canvas" x="473.603" y="201.355" width="224.279" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="494.541" y="227.255" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 2 Cascade </text>
-  <rect class="canvas" x="238.752" y="201.751" width="224.279" height="350.557" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="259.611" y="226.463" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 1 Cascade</text>
+  <rect class="canvas" x="473" y="201" width="224" height="350" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="494" y="227" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 2 Cascade </text>
+  <rect class="canvas" x="238" y="201" width="224" height="350" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="259" y="226" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Tier 1 Cascade</text>
 </svg>

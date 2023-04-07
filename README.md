@@ -61,8 +61,6 @@ The major elements of the guidelines include
 - Canvases – canvases and cards should be stored in two primary formats – ppt and SVG. This makes the editing of canvases relatively easy for anyone in the world as well as making them usable to architects doing presentations. These should be stored in media/canvases for the SVG files and media/files for the ppt files (the SVG files are considered the master copy).
 - Linking – linking should always be relative within the BTABoK as the files are published to gitpages. However, the goal is to convert these to published files on the official WordPress pages as well. This will be covered in a separate section.
 
-<style>
-</style>
 
 # Introduction
 
