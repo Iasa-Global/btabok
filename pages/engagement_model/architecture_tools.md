@@ -21,7 +21,6 @@ Engagement Principle: The tool of choice should support an engagement model for 
 
 ## Overview
 
-
 Architecture tools are the techniques and devices architects use to uncover or design the strategy and structure of a system as well as its form. True architecture tools are complex and no tool on the marketplace covers all of the essential elements.  
 
 ## Tool Capabilities and the BTABoK

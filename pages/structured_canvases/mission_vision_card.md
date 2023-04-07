@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: mission_vision_card.html
 folder: structured_canvases
+summary: "Mission Vision Card."
 tags: 
   - information
   - core

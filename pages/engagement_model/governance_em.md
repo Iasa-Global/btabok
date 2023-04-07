@@ -8,7 +8,6 @@ folder: engagement_model
 summary: "These norms, values and policies may be specific to the organization and to the industry sector the organization is involved in."
 tags: 
   - operating_model
-  - core
   - solution
   - business
   - software

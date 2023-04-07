@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: business.html
 folder: structured_canvases
+summary: "The experiment card provides a method for structuring an individual experiment."
 tags: 
   - core
 ---
