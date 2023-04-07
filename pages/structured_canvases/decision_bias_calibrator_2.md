@@ -10,14 +10,15 @@ tags:
   - business
   - chief
   - information
+  - core
 ---
 
 ![image001](media/decision_bias_calibrator_2001.svg)
 
 [Download PPT](media/ppt/decision_bias_calibrator_2.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Prelim |   |   |
-| Challenge |   |   |
-| Evaluation |   |   |
+| Area       | Description | Links To |
+| ---------- | ----------- | -------- |
+| Prelim     |             |          |
+| Challenge  |             |          |
+| Evaluation |             |          |
