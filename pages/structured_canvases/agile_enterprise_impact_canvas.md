@@ -9,7 +9,6 @@ summary: "The agile impact canvas is used to describe the overall impact of agil
 tags: 
   - business
   - chief
-  - core
   - information
   - infrastructure
   - software
