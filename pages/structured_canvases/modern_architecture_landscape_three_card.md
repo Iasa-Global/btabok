@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: modern_architecture_landscape_three_card.html
 folder: structured_canvases
+summary: "Modern Architecture Landscape Three Card"
 tags: 
   - information
   - core

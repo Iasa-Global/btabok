@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: modern_architecture_landscape_one_card.html
 folder: structured_canvases
+summary: "The modern architecture landscape describes technology"
 tags: 
   - core
 
