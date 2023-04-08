@@ -1,5 +1,5 @@
 ---
-title: "Lean Business Case: ABC Card"
+title: "Lean Business Case: NABC Card"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true

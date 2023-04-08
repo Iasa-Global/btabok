@@ -1,5 +1,5 @@
 ---
-title: "Agile Team Designer"
+title: "Agile Architect Team Designer"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
