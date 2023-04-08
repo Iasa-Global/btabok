@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: strategy_scorecard_canvas.html
 folder: structured_canvases
+summary: "The strategy scorecard is a combination of a strategy map and a balanced scorecard."
 tags: 
   - business
   - chief

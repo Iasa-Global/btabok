@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: stakeholder_engagement_map_card.html
 folder: structured_canvases
+summary: "The stakeholder empathy map is one of the most useful tools in the stakeholder cards and canvases as it allows a deep dive into stakeholder motivations."
 tags: 
   - core
 ---

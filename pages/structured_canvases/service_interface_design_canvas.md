@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: service_interface_design_canvas.html
 folder: structured_canvases
+summary: "The service interface design canvas fully describes the elements needed to describe a product."
 tags: 
   - information
   - information

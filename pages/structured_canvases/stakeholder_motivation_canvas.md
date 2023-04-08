@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: stakeholder_motivation_canvas.html
 folder: structured_canvases
+summary: "Stakeholder motivation helps in understanding the status of stakeholders in respect of a particular set of proposed changes."
 tags: 
   - business
   - chief

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: transition_roadmap_canvas.html
 folder: structured_canvases
+summary: "The transition roadmap canvas helps to define the major changes which are needed to transform the business to a state which will meet the vision."
 tags: 
   - business
   - chief
