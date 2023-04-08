@@ -4,7 +4,7 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 permalink: usage_scenarios_btabok.html
-folder: engagement_model
+folder: adoption
 summary: "Tools for adopting the btabok in everyday practice."
 tags: 
   - digital_business
