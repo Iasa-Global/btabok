@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: service_domain_canvas.html
 folder: structured_canvases
+summary: "Service Domain Canvas"
 tags: 
   - information
   - infrastructure

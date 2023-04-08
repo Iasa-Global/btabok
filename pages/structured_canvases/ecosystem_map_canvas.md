@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: ecosystem_map_canvas.html
 folder: structured_canvases
+summary: "An ecosystem can be viewed from many different perspectives, and each organization will have its own set of interests in the ecosystem."
 tags: 
   - business
 ---

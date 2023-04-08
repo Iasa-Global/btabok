@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: risk_and_cost_card.html
 folder: structured_canvases
+summary: "The Risk and Cost Card allows the evaluation of risk or costs as well as the relationship between a risk and possible costs."
 tags: 
   - core
 

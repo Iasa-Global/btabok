@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: stakeholder_initiative_canvas.html
 folder: structured_canvases
+summary: "The stakeholder initiatives canvas is useful in determining prioritization of products and projects according a particular stakeholder or a stakeholder group against the initiatives measured value outcomes."
 tags: 
   - business
   - chief

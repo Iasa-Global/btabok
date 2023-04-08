@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: market_segmentation_canvas.html
 folder: structured_canvases
+summary: "Market Segmentation Canvas"
 tags: 
   - business
   - chief

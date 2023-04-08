@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: service_landscape_canvas.html
 folder: structured_canvases
+summary: "When delivering many services within a large organization, services have to be placed within some sort of organizational structure, otherwise it would be difficult to know who owns the service, where services can be found and how to get access to services."
 tags: 
   - business
   - chief

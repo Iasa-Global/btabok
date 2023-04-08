@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: scarf_stakeholder_assessment.html
 folder: structured_canvases
+summary: "The SCARF Stakeholder Assessment allows the understanding of how a change."
 tags: 
   - solution
 ---

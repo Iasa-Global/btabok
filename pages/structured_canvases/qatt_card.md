@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: qatt_card.html
 folder: structured_canvases
+summary: "The Quality Attribute Card is built to create ATAM scenarios to test the architecture decisions and approaches of a particular architecture."
 tags: 
   - business
   - chief

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: product_roadmap_canvas.html
 folder: structured_canvases
+summary: "Product Roadmap Canvas"
 tags: 
   - business
   - chief
