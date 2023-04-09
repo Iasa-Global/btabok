@@ -31,6 +31,6 @@ The best use of the team designer is to facilitate a team discussion on roles, i
 Resources
 ---------
 
-- [Assignment article](../engagement_model/assignment.md){:target="_blank"}
-- [Extended team article](../engagement_model/extended_team.md){:target="_blank"}
-- [Job Descriptions article](../engagement_model/job_description.md){:target="_blank"}
+- [Assignment article](/../engagement_model/assignment.md){:target="_blank"}
+- [Extended team article](/../engagement_model/extended_team.md){:target="_blank"}
+- [Job Descriptions article](/../engagement_model/job_description.md){:target="_blank"}

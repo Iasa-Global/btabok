@@ -22,8 +22,8 @@ The architect skills gap analysis provides you with the opportunity to define yo
 
 | Area                         | Description                                                                                  | Links To                                                                     |
 | ---------------------------- | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Business Technology Strategy | This section defines the skills you need to work on from the BTS skills pillar.              | [Competency model](engagement_model/ccompetency.md)                          |
-| Human Dynamics               | This section defines the skills you need to work on from the Human Dynamics skills pillar.   | [Competency model](engagement_model/ccompetency.md)                          |
-| Design                       | This section defines the skills you need to work on from the design skills pillar.           | [Competency model](engagement_model/ccompetency.md)](/btabok/ccompetency.md) |
-| IT Environment               | This section defines the skills you need to work on from the tech environment skills pillar. | [Competency model](engagement_model/ccompetency.md)                          |
-| Quality Attributes           | This section defines the skills you need to work on from the QATT skills pillar.             | [Competency model](engagement_model/ccompetency.md)                          |
+| Business Technology Strategy | This section defines the skills you need to work on from the BTS skills pillar.              | [Competency model](/../engagement_model/competency.md){:target="_blank"}                          |
+| Human Dynamics               | This section defines the skills you need to work on from the Human Dynamics skills pillar.   | [Competency model](/../engagement_model/competency.md){:target="_blank"}                          |
+| Design                       | This section defines the skills you need to work on from the design skills pillar.           | [Competency model](/../engagement_model/competency.md){:target="_blank"} |
+| IT Environment               | This section defines the skills you need to work on from the tech environment skills pillar. | [Competency model](/../engagement_model/competency.md){:target="_blank"}                          |
+| Quality Attributes           | This section defines the skills you need to work on from the QATT skills pillar.             | [Competency model](/../engagement_model/competency.md){:target="_blank"}                          |
