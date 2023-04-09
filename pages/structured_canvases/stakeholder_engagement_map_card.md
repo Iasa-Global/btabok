@@ -18,8 +18,8 @@ The stakeholder empathy map is one of the most useful tools in the stakeholder c
 
 | Area                          | Description                                            | Links To                                        |
 | ----------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
-| Personal Details              |                                                        | Persona Card (used for stakeholder type)        |
-| Goal(s)                       |                                                        | Stakeholder Initiatives, OKRs                   |
-| See, Say, Do, Hear            | Mapping to describe the stakeholder and what surrounds | Customer Journey (used for stakeholder journey) |
-| Engage                        |                                                        | Communication Strategy Card                     |
-| Pains, Gains, Decision Making |                                                        | SCARF                                           |
+| Personal Details              |                                                        | [Persona Card (used for stakeholder type)](persona_card.md){:target="_blank"}        |
+| Goal(s)                       |                                                        | Stakeholder Initiatives, [OKRs](okr_card.md){:target="_blank"}                   |
+| See, Say, Do, Hear            | Mapping to describe the stakeholder and what surrounds | [Customer Journey (used for stakeholder journey)](customer_journey_map.md){:target="_blank"} |
+| Engage                        |                                                        | [Communication Strategy Card](communication_strategy.md){:target="_blank"}                     |
+| Pains, Gains, Decision Making |                                                        | [SCARF](scarf_stakeholder_assessment.md){:target="_blank"}                                           |
