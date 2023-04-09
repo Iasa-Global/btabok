@@ -24,10 +24,12 @@ The Quality Attribute Card is built to create ATAM scenarios to test the archite
 
 | Area               | Description                                                                                                                                                                | Links To          |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Quality Attribute  | What quality attribute are we testing? Ex Performance, Security, etc.                                                                                                      | ASR Card          |
-| Requirement        | This is generally the QATT requirement.                                                                                                                                    | ASR Card          |
+| Quality Attribute  | What quality attribute are we testing? Ex Performance, Security, etc.                                                                                                      | [ASR Card](asr.md
+){:target="_blank"}          |
+| Requirement        | This is generally the QATT requirement.                                                                                                                                    | [ASR Card](asr.md
+){:target="_blank"}         |
 | Source of Stimulus | An entity capable of creating stimulus (internal or external people, a computer system, etc) scenario defines the source of stimulus                                       |                   |
-| Environment        | The environment where the stimulus occurs. For instance, the system may be running in normal conditions, under heavy traffic, or with a high latency or any relevant state | Context View      |
+| Environment        | The environment where the stimulus occurs. For instance, the system may be running in normal conditions, under heavy traffic, or with a high latency or any relevant state | [Context View](context_view_card.md){:target="_blank"}      |
 | Stimulus           | The stimulus is a condition that requires a response when it arrives at a system                                                                                           |                   |
 | Trade Offs         | The trade offs include the positives and negatives that will come from the particular tactics chosen.                                                                      |                   |
-| Tactics            | The set of architecture decisions and techniques which will be used to create the desired result.                                                                          | ADR, Context View |
+| Tactics            | The set of architecture decisions and techniques which will be used to create the desired result.                                                                          | [ADR](architecture_decision_record.md){:target="_blank"}, [Context View](context_view_card.md){:target="_blank"} |

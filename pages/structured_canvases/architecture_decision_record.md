@@ -25,12 +25,14 @@ To use the decision record you will need to either print it out or put it in a d
 
 | Area                       | Description                                                             | Links To               |
 | -------------------------- | ----------------------------------------------------------------------- | ---------------------- |
-| Context                    | The overall name and description of the decision to be made             | Context View           |
-| Requirements               | The requirements (ASR) that drive the decision                          | ASR                    |
+| Context                    | The overall name and description of the decision to be made             | [Context View](context_view_card.md){:target="_blank"}           |
+| Requirements               | The requirements (ASR) that drive the decision                          | [ASR Card](asr.md
+){:target="_blank"}                    |
 | Decision Scope             | The scope of impact of the decision                                     | Scope                  |
-| Characteristics            | Duration, information quality, effort and reversibility of the decision | ASR, OKR, Context View |
+| Characteristics            | Duration, information quality, effort and reversibility of the decision |  [ASR Card](asr.md
+){:target="_blank"}, OKR, [Context View](context_view_card.md){:target="_blank"} |
 | Authority                  | How the decision will be made and by whom                               | Stakeholder Ecosystem  |
 | Options (Areas)            | The areas or topics to compare against for all of the options.          | N/A                    |
 | Options                    | The different choices available in the decision.                        | Roadmap                |
-| Rationale and Consequences | Any additional thinking or consequences of the decision                 | OKR, Cascade           |
+| Rationale and Consequences | Any additional thinking or consequences of the decision                 | [OKR](okr_card.md){:target="_blank"}, Cascade           |
 | Final Decision             | Which decision was made and any description.                            | N/A                    |
