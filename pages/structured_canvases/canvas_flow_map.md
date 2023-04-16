@@ -19,7 +19,7 @@ tags:
 
 [Download PPT](media/ppt/canvas_flow_map.ppt){:target="_blank"}
 
-| Area | Description | Links To |
+| Area  | Description | Links To |
 | --- | --- | --- |
 | Elevator Pitch |   |   |
 | Valuable Client Insight |   |   |
