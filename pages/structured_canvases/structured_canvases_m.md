@@ -28,7 +28,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Business</h4>
-                     <a href="business_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_business.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -56,7 +56,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Chief</h4>
-                     <a href="chief_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_chief.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -73,7 +73,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Core</h4>
-                     <a href="core_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_core.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -87,7 +87,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Engagement Model</h4>
-                     <a href="engagement_model_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_engagement_model.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
