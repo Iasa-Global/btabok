@@ -101,7 +101,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Information</h4>
-                     <a href="information_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_information.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -118,7 +118,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Infrastructure</h4>
-                     <a href="infrastructure_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_infrastructure.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -132,7 +132,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Software</h4>
-                     <a href="software_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_software.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -146,7 +146,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Solution</h4>
-                     <a href="solution_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_solution.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
