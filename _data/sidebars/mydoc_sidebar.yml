@@ -381,7 +381,7 @@ entries:
       url: tag_software.html
       output: web
 
-    - title: Solution
+    - title: Solution 
       url: tag_solution.html
       output: web
 

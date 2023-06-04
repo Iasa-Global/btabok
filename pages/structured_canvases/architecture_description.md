@@ -4,8 +4,11 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_description.html
-folder: btabok
+folder: structured_canvases
 summary: "The Architecture Description describes the architecture of a system (or systems), and provides detailed architecture communication, includes diagramming notation, architecture views and viewpoints."
+tags: 
+  - solution
+  - business
 ---
 
 # Description
