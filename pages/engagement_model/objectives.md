@@ -11,7 +11,7 @@ tags:
 ---
 
 > "The end toward which effort is directed"
-**Merriam-Webster dictionary, definition of Objective.**
+> **Merriam-Webster dictionary, definition of Objective.**
 
 # What is a Objective
 
@@ -57,39 +57,51 @@ the Objective.
 
 When defining Objectives it is important to understand which Objectives
 carry significant importance, and which Objectives are "nice to have".
-Prioritizing Objectives provides focus for the business and
+Prioritizing Objectives provides a focus for the business and
 stakeholders, this helps to guide which objectives to focus on,
 especially if resources or time become constrained. Assigning Objectives
 the same priority should be avoided, having many Objectives with the
 same importance may reduce business focus. This can result in many
-Objectives only being partly achieved, and none being fully achieved.
+Objectives only being partly achieved, and none is fully achieved.
 
-## Meeting a Objective provides value
+## Meeting an Objective provides value
 
-Objectives are value driven, and should result in an effect which
-provides value to the business. When defining a Objective the value
+Objectives are value driven and should result in an effect that
+provides value to the business. When defining an objective the value
 should be clearly explained, this puts the Objective in context. It may
 even be the case that several Objectives aim to contribute to the same
-expected value. Without the statement of value it can be difficult to
+expected value. Without the statement of value, it can be difficult to
 make a case for achieving the Objective.
 
-# Objectives are SMART
+- Strategy: A plan to achieve an objective. The deliverables that describe a plan to
+  achieve.
 
-Setting Objectives is important, as it provides the drive for an
+- Strategic Objective: A goal or achievement which will impact a strategy directly.
+
+- Supporting Objective: A goal or achievement which will impact a parent’s objective.
+
+- Key Result: A measurement or indicator that contributes to completing an objective. Uses SMART.
+
+- KPI: A measurement that indicates status and/or preparedness to achieve key results.
+
+- Measurement: Any data which indicates the state, status, or
+  measurable quantity or quality of a thing.
+
+# Objective Key Results are SMART
+
+Setting objectives is important, as it provides the drive for an
 architecture practice or business and ensures that everyone is pulling
-in the same direction. How a Objective is expressed is equally
-important, if the stakeholders do not understand the Objective or
-believe in the Objective, it is unlikely they will incorporate it in
-their daily architecture thinking. In order to ensure that Objectives
-are expressed in a way which motivates the members of the architecture
-practice or business, the SMART criteria can be applied. The SMART
-criteria indicates that Objectives should be formulated with the
-following attributes:
+in the same direction. How an objective is expressed is equally
+important, if the stakeholders do not understand the objective or
+believe in the objective, it is unlikely they will incorporate it into
+their daily architectural thinking. 
+
+In order to ensure that Objectives are expressed in a way that motivates the members of the architecture practice or business, the SMART criteria can be applied. However, objectives can also have multiple measures which contribute to them. This has led to the development of key results which contribute to completing or achieving the objective. This is where key results have been introduced. Key results are outcomes and measurements that indicate the objective is being achieved. SMART criteria indicate that key results should be formulated with the following attributes:
 
 - **S**pecific - it should be clear what is to be achieved by the
   Objective
 
-- **M**easurable -- the effect of the Objective should be measurable
+- **M**easurable -- the effect of the objective should be measurable
 
 - **A**ssignable - it should be clear who is responsible for achieving
   the Objective
@@ -97,39 +109,39 @@ following attributes:
 - **R**ealistic - the Objective should be attainable with the given
   resources
 
-- **T**ime bound - it should be stated when the Objective is expected
+- **T**ime bound - it should be stated when the objective is expected
   to be achieved
 
-Using SMART helps to provide clarity and focus in defining Objectives,
-but this is not set in stone. Sometimes when Objectives are very long
+Using SMART helps to provide clarity and focus in defining objectives,
+but this is not set in stone. Sometimes when objectives are very long
 term, it can be difficult to give precise indications, for example in
 time or measurability. However, SMART can still be used as a reference
-criteria for defining these types of Objectives, even if it is difficult
-to fully meet the criteria.
+criteria for defining these types of objectives, even if it is difficult
+to meet the criteria fully.
 
 # Objectives, Objectives and Key Results
 
-When working with Objectives in practice, it is commonplace that the
-term objective is also used. The term Objective and objective are
+When working with objectives in practice, it is a commonplace that the
+term objective is also used. The terms objective and objective are
 interchangeable as they have almost the same meaning. In some cases, the
-term Objective is used to define abstract or long-term aims, while
-objective is used to describe an aim which is actionable. A typical
-Objective or objective may read as follows:
+term objective is used to define abstract or long-term aims, while
+the objective is used to describe an aim that is actionable. A typical
+objective or objective may read as follows:
 
 > *"The architecture practice will increase the number of senior
 > architects in the company by 20% before the first quarter of 2022."*
 
-The above Objective conforms to the SMART criteria, however it does not
+The above objective conforms to the SMART criteria. However, it does not
 give a detailed indication of the outcome which is required to achieve
 the Objective. This is where Key Results are useful, as they provide a
 statement of the expected outcome of the Objective/objective which can
 be explicitly measured.
 
-From the above Objective we may define the following three Key Results:
+From the above objective, we may define the following three key results:
 
 > *"Employ 5 new senior business architects during Q1 2021."*
 > 
-> *"Ensure all architects with +4 years experience have CITA-S
+> *"Ensure all architects with +4 years of experience have CITA-S
 > certification."*
 > 
 > *"Establish mentoring program for architects which will launch in Q2
@@ -369,6 +381,7 @@ This method is described in the "Two Speed Execution" approach as
 detailed by Paul Niven.
 
 # References and further reading
+
 Doran, G. T. (1981). **"There\'s a S.M.A.R.T. Way to Write Management's
 Objectives and Objectives"**, Management Review, Vol. 70, Issue 11, pp.
 35-36.
