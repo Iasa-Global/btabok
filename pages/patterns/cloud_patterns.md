@@ -1,4 +1,4 @@
-~~---
+---
 title: Cloud Pattern Repository
 tags: [architecture]
 keywords:
