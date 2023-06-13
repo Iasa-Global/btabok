@@ -1,10 +1,10 @@
-~~---
+---
 title: Cloud Pattern Repository
 tags: [architecture]
 keywords:
-summary: "Repository of Cloud Patterns"
+summary: "Repository of Cloud Patterns for Data Management"
 sidebar: mydoc_sidebar
-permalink: data_management_cloud_patterns.html
+permalink: data_management.html
 folder: patterns
 ---
 
