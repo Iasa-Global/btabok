@@ -14,7 +14,6 @@ folder: patterns
 # Cloud Design Patterns
 
 Following are design patterns used to create reliable, scalable and secure applications in the cloud.
-(Data Management)[https://iasa-global.github.io/patterns/data_management.html]
 
 <div class="col-md-4 col-sm-6">
     <div class="panel panel-default text-center">
