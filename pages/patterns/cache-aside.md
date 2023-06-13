@@ -22,11 +22,11 @@ This pattern is a "lazy-load" solution to the problem above. The application fet
 
 ![cacheaside](images/cacheaside.png)
 
-# Advantages
+## Advantages
 - The cache only contains data that the application actually needs.
 - This is quite straightforward to implement.
 
-#Disadvantages
+## Disadvantages
 - Data expiration policies must be implemented in the application.
 - Potential delays are possible as data is only loaded into the cache after a cache miss.
 
