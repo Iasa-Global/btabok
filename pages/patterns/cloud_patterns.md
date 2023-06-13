@@ -26,7 +26,7 @@ Following are design patterns used to create reliable, scalable and secure appli
         <div class="panel-body">
             <h4></h4>
             <p>Data Management</p>
-            <a href="data_management.html" class="btn btn-primary">Learn More</a>
+            <a href="https://iasa-global.github.io/patterns/data_management.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
