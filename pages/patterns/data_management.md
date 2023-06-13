@@ -23,7 +23,7 @@ The following Design Patterns are used for data management in cloud applications
         <div class="panel-body">
             <h4></h4>
             <p>Cache-Aside pattern</p>
-            <a href="cache_aside.html" class="btn btn-primary">Learn More</a>
+            <a href="cache-aside.html" class="btn btn-primary">Learn More</a>
         </div>
     </div>
 </div>
