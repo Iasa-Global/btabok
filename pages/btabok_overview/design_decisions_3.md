@@ -2,9 +2,9 @@
 
 Welcome to part 3 of my design with the BTABoK Series. If you are unaware, the authors and contributors are writing a set of scenarios like this series to discuss using the BTABoK toolset in practical ways. 
 
-If you read my newsletter regularly, you are probably aware of how important I believe design decisions are to a well structured architecture. In fact, I strongly believe that decisions are the cornerstone, the currency and the point of architecture. 
+If you read my newsletter regularly, you are probably aware of how important I believe design decisions are to a well-structured architecture. In fact, I strongly believe that decisions are the cornerstone, the currency, and the point of architecture. 
 
-In fact I often describe great architecture as 
+In fact, I often describe great architecture as 
 
 > "making great business technology decisions, at the right velocity, in complex ecosystems with a complex set of stakeholders." 
 
@@ -12,67 +12,139 @@ But what makes a decision great or even architectural? And if this is so importa
 
 ![](../../media/f07b8d1e45273cd20f6c4a185d7c88bf6eb1c20c.png)
 
-Design Canvases from the BTABoK
-
-
+Primary Design Canvases from the BTABoK
 
 ![](../../media/8bd9a95d2a1fbfdf1176eb80afe6ddc5115fb258.png)
 
 Taken from BTABoK Design Article: [Design | IASA - BTABoK](https://iasa-global.github.io/btabok/design.html)
 
-If you haven’t read the BTABoK article and Part 1, you may want to familiarize yourself with those first. Always keep in mind the BTABoK is open source. If you don’t like the article, change however you want (no delete sorry 😊) and do a pull request and the editorial team will review and accept/reject. Also, we are shamelessly looking for volunteers for special BTABoK projects, like the Pattern Library.
-
-So where do all these options come from and how do we as architects keep up with them? The short answer is a) we study constantly and b) we don't - we simply learn to work with technical experts in a way that fundamentally supplements systems thinking.
+If you haven’t read the BTABoK article and Part 1, you may want to familiarize yourself with those first. Always keep in mind the BTABoK is open source. If you don’t like the article, change it however you want and do a pull request, and the editorial team will review and accept/reject it. Also, we are shamelessly looking for volunteers for special BTABoK projects, like the Pattern Library.
 
 ## The Decision Record
 
-![]()
+An architectural decision is one that impacts:
 
-This used to be called the T-Shaped Architect. We were depth experts in a single area of technology, then realized that it connected with so many other parts that we began to split out. Maybe we were java and spring experts but then had to do a .net project. Then we had to integrate the two. Maybe we started with data then moved into larger solutions and began programming. But technical breadth has turned into what I like to call the Tree-Shaped Architect. The simple truth is technology has grown into a behemoth of options and we go down branches of depth and then cross over to other branches. We have no hope of knowing it all but the key is to keep learning. The hardest truth for the lifelong architect is we can never stop practicing new technologies.
+1. Quality attributes
 
-Decision Characteristics
+2. Value outcomes
 
-The demand signal card and the technology tracker cards will help you find ways of determining what your business or client's needs might be and where you want to focus your efforts.
+3. Politics
 
-The Demand Signal Card from the SCA
+4. Complexity
 
-The Technology Tracker Card from the SCA
+It is often easier to say it is one which delivers against an architectural requirement. The decision needs a number of options and these options are then compared in areas of impact. I like to use a numbering system of 1-10 in decisions because it gives enough room to compare but doesn't get too complicated. The essential element is that stakeholders get a solid understanding of what is a 10 and what is a 1 in your organization. 
 
-Of course, the good old-fashioned way of keeping up to date (the way I mostly use) is to just do prototype after prototype. I'm currently working on a React/Spring prototype application which we are using in our software architecture course... I will be rewriting it in Node, .net, and whatever other technology I can find... then I get to implement it using different architecture styles... wooo hoo, hey it gives us something more fun to do on Sundays than clean the house :-)
+![image001](../structured_canvases/media/architecture_decision_record.svg)
 
-### Decision Velocity - Too Slow or Too Fast?
+As you can see the decision record provides plenty of space for the implementation of a decision. It includes the context (what is shaping the decision), traceability to the [ASR](../structured_canvases/architecture_requirements_card.md), and the [scope ](../engagement_model/scope.md)of the decision. 
 
-Technical depth refers to the options that come from depth knowledge a a particular area. For example my software specialization is in full-stack java/spring development with multiple types of front ends. This gives me a great deal of insight into analogous technology choices... ones that are closely related like kotlin and .net, but also ones that work fundamentally differently like reactive programming and node.js running in containers. However, technical depth is a danger zone for architects in design as it becomes a default decision as opposed to an objective one. This is one reason Iasa makes decision records the fundamental building blocks of an architecture as opposed to designs or models. One it helps us expose our biases (you will love the bias calibrator) as well as to force us to look at multiple options, references models or technologies to solve a problem.
+## Decision Importance
+
+Think of the number of decisions made related to technology daily in your organization. Try to imagine, every library, product, SaaS tool, vendor agreement, pattern, style, and reference model that is being chosen by one or more people. From huge (ERP, standardizing a single cloud vendor, information management structures) to small (library dependency, pattern application to code, GitHub structure). The real question is, how many of those are architecturally relevant (Note: it is NOT all of them)? And how many of them come with a decision record of any kind? 
+
+I have asked this question of countless audiences and teams over time. The answer is... almost none. And that is scary. We end up with WHAT we decided, not WHY we decided. Traceability, understanding, decision excellence are all thrown out the window because we think it might take too, long. Just FYI, whenever I have implemented decision management in teams, important decisions (structural, value-based, etc) go FASTER not slower. The decision record allows us to focus on apples to apples instead of long-winded, emotionally charged, opinion-heavy, biased arguments. 
+
+## Facilitation, Command and Control and Method
+
+Anyone who has worked in a team knows that they don't know everything and that includes architects. However, we also know that some decisions are too important or too specialized, political or otherwise impossible to make as a group. The goal of the decision record is to allow facilitated decisions where necessary and command and control decisions where important. This allows decisions to be identified within context. 
+
+The techniques for using the canvases in these contexts are described below. 
+
+### Last Responsible Moment
+
+This comes up time after time. Emergent design supports the last responsible moment or the latest moment where a decision can be made. If following set-based design from SAFe, this might not even occur during the initial build phases. The decision record supports even that. Either way, in the end, we look at a filled decision and it is obvious what the architect evaluated and why! 
+
+## Breaking Down the ADR
+
+The following defines how to make the most out of the ADR in practice. First, it should be noted the average product would not have a significant number of decision records. Even in large projects, the number of ADRs might not be more than 20. Much of the 'volume' can be reduced using decision cascades and principles. In addition, the views and viewpoints in use will help describe decisions in context, allowing plenty of flexibility to stakeholders in how they execute. 
+
+### Decision Overview
+
+This area is for the basic decision elements.
+
+#### Context
+
+The context is the name of the decision plus any related context elements. This sounds a bit generic and it is meant to be. Use your imagination, throw sticky note into it, and don't worry about perfect just usefulness. 
+
+#### Traceability
+
+This is a chance to link the decision to a requirement or objective. The decision does not have to be linked but it deeply helps traceability. To link to a requirement simply list the name of the ASR. This is relatively straightforward. 
+
+#### Scope
+
+As you know scope is a tricky subject in architecture. However, you can simply use the classifications from the [scope article](../engagement_model/scope_context.md) in the BTABoK.
+
+### Decision Characteristics
+
+The decision characteristics is one of the most important elements of the card, though people often overlook it. As you get more experienced in design you will realize these elements impact the overall importance and decision making process by a wide margin. So you should definitely get good at filling these in! 
+
+##### Decision Reversibility - Are we stuck with this?
+
+Reversibility is inexorably tied to scope of course. But it can be a lot smaller too. Think about a design style like Microservices or Serverless. It is pretty hard to roll that back if you've gotten a way into delivery. Same can be said for product purchases or library dependencies. So think a bit. Will we be able to reverse this decision easily... if not then...
+
+##### Decision Velocity - Too slow or too fast?
+
+Maybe we should go a little slower on this decision. Or are we plodding along trying to get it perfect. [Velocity](../engagement_model/velocity.md) is itself more art than science. However, we want to try to move at the highest velocity possible without giving in to the god of speed. Try to aim for too short, then let it lag a bit and revisit as the decisions begin to cascade. 
+
+##### Decision Information - Too much or too little?
+
+Most engineers want all the information possible. But a great architect knows there is no such thing as 100% of the information we need. Shoot for 70% or a little lower if possible. And look for ways to speed even that up. 
+
+##### Decision Effort - How much effort should the decision take?
+
+Effort is not just a function of calendar time but of resources. One organization I know of spent a year on an enterprise-scoped decision and roughly 5 people were involved the whole time. That is a lot of effort. Think through the importance of the decision and treat it like any other work element. 
+
+### Decision Authority
+
+Decision style is almost always taken for granted. The decision is completely over-written by a senior or manager when the team had found the best answer. The team comes up with a decision that is sub-par due to a lack of expertise. Politics override our awareness of the wrongness of a decision. But focusing on decision style and making it explicit will seriously help you as an architect understand and manage these elements. Remember though, never get emotionally attached to decisions. Also remember that Tier 1 decisions should NOT subject to politics, prestige or opinion. They impact lives so get it RIGHT. 
+
+##### Decision Ownership
+
+Who owns this decision? Who owns it really? Are they paying for it? The decision owner is not often listed on a decision and yet everyone knows who it is. Make sure the real owner is listed and try to spread that as little as possible. 
+
+#### Decision Process
+
+What techniques are we using to make the decision? My favorite is the time-boxed decision meeting. Print the record(s) on the wall and give everyone sticky notes. Everyone gets a vote. Then allow individuals to argue out numeric differences or opinions but time-box the whole thing. Often I will have everyone fill out their numbers in secret so we hear their real opinions, not just what they heard from someone else. 
+
+Other techniques include decision boards, single owner and more. This is kind of an exciting area to do more research as we learn more about good architectural decisions. 
+
+#### Decision Style
+
+Decision poker is a fun game... know how the decision is being made and list it. 
+
+#### Linked Decisions
+
+There are a lot of decisions which impact each other. This area allows the architect to explore those linkages and describe them. Some decisions will cancel out others (should I use Lamdas in AWS, duh no we are deploying to Azure is a silly but fitting example). 
+
+#### Linked Principles
+
+Principles will often cancel out decisions as well. If we have a principle that we prefer 'Cloud Native' solutions I don't really need a decision record on whether to use Serverless if possible as that is the most cloud native style. 
+
+#### Biases
+
+Decision poker is a fun game... know how the decision is being made and list it.
 
 ## Decision Record Types
 
-Let's face it, tk!
+So when do I need a decision record. Currently we are aware of three major areas where ADRs are used. But feel free to message me about others you know. These are relatively loose and the architect should use whatever decision records they think they need. 
 
-## Reference Models
+### Design Patterns and Structure
 
-Chris 
+Structural decisions are relatively easy to identify. Should we go with Serverless, Microservices, or Macroservices (I HATE the term monolithic, it sounds soooo awful which makes it cognitively biased:-))? These structural choices or Patterns are about the implementation of a set of systems. They apply to any concept in structure (domain entities), routing, hosting, etc. These decisions are critical to the overall topology, shape and engineering rigor of the final system. 
 
-## Managing All These Options
+### Business Technology Components
 
-So the
+Component decisions are about whether we support certain pre-built or existing building blocks of a system. I like to think of these as ERP, Oauth or other existing standards and tools. 
 
-## How Many Options Should I ‘Know’?
+### Products
 
-So howupdated and sharpen your technical skills
+The product bake-off is a tried and tested decision technique and very common for architects. Comparing products, frameworks or technologies fits into this category. 
 
-## Software, Solution, Infrastructure and Information
+## Conclusion
 
-For 
+Well I hope this helps in terms of using the BTABoK for referencing architecture decisions. This is one of my most passionate topic areas and should be on the MUST DO list of any architecture practice. We cannot provide value if we don't know how we make decisions! 
 
-## Business and Chief Architects (Enterprise Too)
-
-As y
-
-The
-
-## How Options Impact Value/Requirements
-
-Anyone who has designed systems (or even dog houses) knows that once you start creating or developing requirements you start creating work and potential value. Some things are more valuable than others! And that is where the next article come in.
+In a somewhat backwards way, I started with decisions and will be working to a requirements and objectives article next because I want to show the contextual nature of architecture and how changing decisions can change requirements. 
 
 # BTABoK References
 
@@ -86,7 +158,7 @@ I am looking forward to this Design Series based on the BTABoK. Here is my curre
 
 ~~2.      Options, Options, Options – So Many Choices - Done~~
 
-3.      Decision Rights Rule the World – Why Agile Architecture is so Hard (Coming Soon)
+~~3.      Decision Rights Rule the World – Why Agile Architecture is so Hard~~
 
 4.      From Cornflower Blue Buttons to Architecturally Significant Requirements
 

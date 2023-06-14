@@ -21,28 +21,28 @@
   <text class="canvas" x="644" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Date</text>
   <text class="canvas" x="794" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Version</text>
   <rect class="canvas" x="20" y="60" width="920" height="600"/>
-  <rect class="canvas" x="20" y="60" width="313" height="100" style=""/>
+  <rect class="canvas" x="242.394" y="60" width="365.124" height="100" style=""/>
   <rect class="canvas" x="20" y="560" width="920" height="100"/>
   <rect class="canvas" x="20" y="160" width="724" height="400" style=""/>
   <rect class="canvas" x="745" y="160" width="195" height="500" style=""/>
-  <rect class="canvas" x="745" y="380" width="195" height="140" style=""/>
+  <rect class="canvas" x="745" y="380" width="195" height="145.56" style=""/>
   <text class="canvas" x="20" y="32" width="100" height="20" font-size="1.4em" font-weight="500" style="white-space: pre-wrap; font-size: 21px;">ARCHITECTURE DECISION RECORD</text>
-  <text class="canvas" x="26" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 82.391754, -114.587631)"><tspan x="26" y="290">Compare options by comparing 'areas'. Areas are the attributes such as cost, performance, etc. </tspan><tspan x="26" dy="1em">​</tspan><tspan>Use a number system from 1-10 for each option.</tspan></text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;"><tspan x="26" y="90">Describe the forces at play, including technological, </tspan><tspan x="26" dy="1em">​</tspan><tspan>political, social, and project local.</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the tensions &amp; dependencies</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the facts as you know them</tspan><tspan x="26" dy="1em">​</tspan></text>
-  <text class="canvas" x="26" y="577" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">FINAL DECISION:</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 0, 400.090942)" x="26" y="190">What was the final decision? How does it link to other decisions? Does it Cascade? Are their cognitive biases involved? Is it captured in a view? How can it be tested?</text>
+  <text class="canvas" x="251.174" y="81.56" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 82.391754, -114.587631)"><tspan x="26" y="290">Compare options by comparing 'areas'. Areas are the attributes such as cost, performance, etc. </tspan><tspan x="26" dy="1em">​</tspan><tspan>Use a number system from 1-10 for each option. Circle the final decision made. </tspan></text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 225.173737, 5.559845)"><tspan x="26" y="90">Describe the forces at play, including technological, </tspan><tspan x="26" dy="1em">​</tspan><tspan>political, social, and project local.</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the tensions &amp; dependencies</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the facts as you know them</tspan><tspan x="26" dy="1em">​</tspan></text>
+  <text class="canvas" x="529.166" y="579.475" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">BIASES:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="530.556" y="591.871">Are their any biases coloring the decsion? </text>
   <text class="canvas" x="26" y="177" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">OPTIONS:</text>
   <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="754" y="402">AUTHORITY:</text>
   <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" x="754" y="190">What type of decision is this?</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="756.185" y="210.062">REVERSABILITY:</text>
   <text class="canvas" x="21" y="678" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Gar Mac Críosta</text>
   <text class="canvas" x="21" y="690" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
-  <rect class="canvas" x="627" y="61" width="312" height="100" style=""/>
-  <text class="canvas" x="337" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">REQUIREMENTS:</text>
-  <text class="canvas" x="632" y="76" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">DECISION SCOPE:</text>
+  <rect class="canvas" x="769.471" y="61" width="169.529" height="99.305" style=""/>
+  <text class="canvas" x="617.077" y="78.78" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">TRACEABILITY:</text>
+  <text class="canvas" x="777.946" y="78.78" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">SCOPE AND TIER:</text>
   <text class="canvas" x="752" y="178" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CHARACTERISTICS:</text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="338.039" y="89.639">This should link to an ASR. </text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="618.116" y="92.419">This should link to an ASR or OKR. </text>
   <rect class="canvas" x="30" y="198" width="123" height="355" style="stroke-width: 0; fill: lightgrey;"/>
   <rect class="canvas" x="160" y="200" width="187" height="352" style="stroke-width: 0; fill: lightgrey;"/>
   <rect class="canvas" x="355" y="201" width="187" height="351" style="stroke-width: 0; fill: lightgrey;"/>
@@ -118,11 +118,10 @@
   <text class="canvas" width="100" height="20" style="fill: rgb(122, 122, 122); font-size: 12px; font-style: italic; stroke-width: 2px; white-space: pre-wrap;" x="754" y="495">DECISION STYLE?</text>
   <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;"><tspan x="754" y="473">How are we making this decision.</tspan><tspan x="754" dy="1em">​</tspan></text>
   <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, -1.407728, 36.744064)"><tspan x="754" y="473">Tell, sell, consult, agree, inquire, </tspan><tspan x="755" dy="1em">​</tspan><tspan>delegate.</tspan><tspan x="755" dy="1em">​</tspan></text>
-  <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="753" y="541">RATIONALE &amp; <tspan x="753.6309814453125" dy="1em">​</tspan>CONSEQUENCES:</text>
-  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 0.194712, 92.295311)" x="754.8499755859375" y="473.1340026855469">Why did we choose this option?<tspan x="754.8499755859375" dy="1em">​</tspan>Are there any side-effects or impacts <tspan x="754.8499755859375" dy="1em">​</tspan>resulting form this decision? <tspan x="754.8499755859375" dy="1em">​</tspan><tspan x="754.8499755859375" dy="1em">​</tspan><tspan x="754.8499755859375" dy="1em">​</tspan></text>
-  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="635" y="88" transform="matrix(1, 0, 0, 1, -2, 0)">How much of the enterprise is affected by the decision?<tspan x="635.1840209960938" dy="1em">​</tspan></text>
-  <!-- logo -->
-  <g transform="matrix(0.264361, 0, 0, -0.264361, 770.92865, 713.30719)" style=""> 
+  <text class="canvas" width="100" height="20" style="font-size: 12px; font-style: italic; white-space: pre-wrap;" x="753" y="541" transform="matrix(1, 0, 0, 1, 0, 9)">RATIONALE &amp; <tspan x="753.6309814453125" dy="1em">​</tspan>CONSEQUENCES:</text>
+  <text width="100" height="20" style="fill: rgb(148, 148, 148); font-family: Verdana; font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 0.194712, 101.295311)" x="754.8499755859375" y="473.1340026855469">Why did we choose this option?<tspan x="754.8499755859375" dy="1em">​</tspan>Are there any side-effects or impacts <tspan x="754.8499755859375" dy="1em">​</tspan>resulting form this decision? <tspan x="754.8499755859375" dy="1em">​</tspan><tspan x="754.8499755859375" dy="1em">​</tspan><tspan x="754.8499755859375" dy="1em">​</tspan></text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="635" y="88" transform="matrix(1, 0, 0, 1, 143.945938, 2.779923)">How much of the enterprise is <tspan x="635" dy="1em">​</tspan>affected by the decision? what safety<tspan x="635" dy="1em">​</tspan>tier is impacted by this decsion?</text>
+  <g transform="matrix(0.264361, 0, 0, -0.264361, 770.92865, 713.30719)" style="">
     <g transform="">
       <path d="M 0 0 L 657.483 0 L 657.483 179.604 L 0 179.604 Z" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
       <path d="M 159.811 19.771 L 18.778 19.771 L 18.778 160.804 L 159.811 160.804 Z" style="fill: rgb(26, 132, 201); fill-opacity: 1;"/>
@@ -150,4 +149,11 @@
       </g>
     </g>
   </g>
+  <text class="canvas" x="29.216" y="82.355" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">NAME:</text>
+  <rect class="canvas" x="518.673" y="560.108" width="225.433" height="100" style="fill: none;"/>
+  <rect class="canvas" x="256.318" y="559.888" width="262.267" height="100" style="fill: none;"/>
+  <text class="canvas" x="28.087" y="581.061" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">LINKED DECSIONS:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="29.477" y="593.457">What other decsions are related to this decsion? </text>
+  <text class="canvas" x="267.855" y="580.366" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">PRINCIPLES:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="269.245" y="592.762">What principles impact the decsiion?</text>
 </svg>
