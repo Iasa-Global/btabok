@@ -10,11 +10,11 @@ In fact, I often describe great architecture as
 
 But what makes a decision great or even architectural? And if this is so important why do we not do a better job of it?
 
-![](../../media/f07b8d1e45273cd20f6c4a185d7c88bf6eb1c20c.png)
+![](media/design/structuredcanvases.png)
 
 Primary Design Canvases from the BTABoK
 
-![](../../media/8bd9a95d2a1fbfdf1176eb80afe6ddc5115fb258.png)
+![](media/design/designbreakdown.png)
 
 Taken from BTABoK Design Article: [Design | IASA - BTABoK](https://iasa-global.github.io/btabok/design.html)
 
