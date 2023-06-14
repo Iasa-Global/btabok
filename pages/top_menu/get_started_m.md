@@ -9,9 +9,8 @@ summary: "The most important is it connects all types of architects instead of d
 toc_sticky: true
 ---
 
-
 > "I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may."
-**Leonard Nimoy**
+> **Leonard Nimoy**
 
 # Forward to Getting Started by Paul Preiss
 

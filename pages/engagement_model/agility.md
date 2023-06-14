@@ -11,7 +11,7 @@ tags:
 ---
 
 > "Ways of planning and doing work in which it is understood that making changes as they are needed is an important part of the job" 
-**Cambridge Dictionary, definition of Agility.**
+> **Cambridge Dictionary, definition of Agility.**
 
 # What is Agility
 
@@ -297,7 +297,6 @@ that there has to be flexibility in time, cost and scope.
 
 ![image001](media/agility_iron_triangle.png) 
 
-
 The "iron triangle" of project management shows that there is a relation
 between cost, time and scope. The following scenarios apply:
 
@@ -502,7 +501,6 @@ implementation.
 
 **SAFe**
 [SAFe](https://www.scaledagileframework.com/){:target="_blank"}
-
 
 ![image001](media/by-nc.png)
 

@@ -47,11 +47,13 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org.  Rotation, technical depth vs breadth, specialization
 
-## The New Product Idea
+## The New Product/Project Idea
 
-The 
+Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTBoK to guide innovation, new projects, business ideas, and experimentation.  
 
 ## My Business Stakeholder Wants to Buy a Product
+
+Nothing is more frustrating than being handed a new purchased product by a stakeholder and be told to make it work. This is a situation many architecture teams find themselves in everyday. This series will show you how to use the BTABoK to begin changing this into a positive scenario with few or no surprises. 
 
 ## Architects During Development
 

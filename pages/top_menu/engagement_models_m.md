@@ -35,7 +35,6 @@ and navigation lending itself to a somewhat sequential order. It should
 be understood that many of these activities happen concurrently,
 iteratively and with multiple team members leading and participating.
 
-
 <ul id="" class="nav nav-tabs">
     <li class="active"><a href="#usageandvalue" data-toggle="tab">Usage and Value</a></li>
     <li><a href="#assessment" data-toggle="tab">Assessment</a></li>
@@ -110,7 +109,6 @@ iteratively and with multiple team members leading and participating.
 </div>
 
 </div>
-
 
 ## The Red Thread
 

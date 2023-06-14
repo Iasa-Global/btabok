@@ -73,10 +73,9 @@ even be the case that several Objectives aim to contribute to the same
 expected value. Without the statement of value, it can be difficult to
 make a case for achieving the Objective.
 
-- Strategy: A plan to achieve an objective. The deliverables that describe a plan to
-  achieve.
+- Strategy: A plan to achieve an objective and the deliverables that describe a plan.
 
-- Strategic Objective: A goal or achievement which will impact a strategy directly.
+- Strategic Objective: A goal or achievement which will impact a strategy directly.  The outcome of a strategic objective will be visible to the marketplace (in for profit companies) or critical owners ()
 
 - Supporting Objective: A goal or achievement which will impact a parent’s objective.
 
@@ -205,7 +204,7 @@ Objectives.
 For example, a business Objective may be defined to release 5 new
 products within the next year. Clearly the increase in new products
 affects the architecture practice and they may define the following
-Objective:
+objective:
 
 *"Increase number of architects by 10% within the next six months"*
 

@@ -11,7 +11,7 @@ tags:
 ---
 
 > "A series of stages through which something (such as an individual, culture, or manufactured product) passes during its lifetime"
-**Merriam Webster Dictionary**
+> **Merriam Webster Dictionary**
 
 # What is a lifecycle
 
