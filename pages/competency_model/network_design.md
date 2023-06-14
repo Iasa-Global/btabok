@@ -71,10 +71,10 @@ With convergence of data, voice and video into a single network usually referred
 | **CITA- Foundation** | -   The Learner should be able to identify the key requirements for the network design.
 | **CITA -- Associate** | -   The Learner is able to articulate the key considerations in the design including Quality of service (QoS) consideration for voice networks.
 | | -   The Learner is able to speak to the different processes and interdependencies between these services
-| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of different design considerations.
+| **CITA -- Professional** | -   The Learner will be able to demonstrate working knowledge of different design considerations.
 | | -   The Learner is able to discuss the architectural implications of voice and video, including capacity planning, data and networking implications
 | | -   The leaner is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
-| **CITA -- Professional** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
+| **CITA -- Distinguished** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
 | | -   The Learner has an ability to change their network design based on further discussion with different stakeholders.
 | | -   The Learner has the ability to deliver the design to business stakeholders in none technical fashion.
 

@@ -36,9 +36,9 @@ Expectations
 | | -   What is considered a well-maintained system?
 | | -   Quantify the value of flexibility/extensibility attributes.
 | | -   What is the difference between customization and personalization?
-| **CITA -- Specialist** | -   What was your "design for operations" strategy?
+| **CITA -- Professional** | -   What was your "design for operations" strategy?
 | | -   What specification for maintainability did you follow to claim that the system was easy to maintain?
-| **CITA -- Professional** | -   Was your solution flexible or extensible -- or both? Explain.
+| **CITA -- Distinguished** | -   Was your solution flexible or extensible -- or both? Explain.
 | | -   When Operations rejected the hand-over due to poor manageability, what were your options?
 
 # Resources

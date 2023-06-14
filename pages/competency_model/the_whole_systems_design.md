@@ -79,12 +79,12 @@ Taking an "Integrative View" of architecture encompasses the systems sciences, s
 | | -   Learner will be able to recognize and describe an expanded definition of context in solution design.
 | | -   Learner will be able to recognize the role of architect in the creation of a design culture.
 | | -   Learner has researched and is able to explain the frameworks that support whole systems design.
-| **CITA -- Specialist** | -   Learner will be able to apply one or more frameworks that support whole systems design.
+| **CITA -- Professional** | -   Learner will be able to apply one or more frameworks that support whole systems design.
 | | -   Learner will be able to identify the project benefits derived from taking a whole systems design approach
 | | -   Learner will have a rich understanding of the organization's IT environment
 | | -   Learner is able to validate that the given perspective includes the whole system and not just parts of it.
 | | -   Learner is able to explain the elements of the organization's IT environment which must be understand to gain a holistic architectural perspective.
-| **CITA -- Professional** | -   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
+| **CITA -- Distinguished** | -   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
 | | -   Learner will be able to drive the introduction Whole Systems Design and Systems Thinking.
 | | -   Learner will act as a mentor for Whole Systems Design.
 | | -   Learner will write and speak publically, and contribute to the development of Whole Systems Design thinking.
@@ -98,12 +98,12 @@ The "whole system" of interconnected elements that participate in, impact, and i
 | **CITA- Foundation** | -   Learner will be able to identify a containing whole (system) of which the thing to be explained is a part (or is intended to become a part).
 | **CITA -- Associate** | -   Learner will be able functions as part of the architecture team for the organization's IT environment.
 | | -   Learner will be able to provide a broader vision of the environment in which their projects operate.
-| **CITA -- Specialist** | -   Learner will have a rich understanding of the organization's IT environment
+| **CITA -- Professional** | -   Learner will have a rich understanding of the organization's IT environment
 | | -   Learner will be able to discuss how they have leveraged existing services in a solution.
 | | -   Learner will be able to discuss how the whole environment has impacted their project.
 | | -   Learner will be able to explain the anticipated complications of creating architectural solutions within an existing complex IT environment.
 | | -   Learner will be able to explain their own design process in the context of design as a discipline.
-| **CITA -- Professional** | -   Learner will be able to mentor others in the discipline of design
+| **CITA -- Distinguished** | -   Learner will be able to mentor others in the discipline of design
 | | -   Learner will write and speak publically, and contribute to the development of the concept of design as a discipline.
 
 ## Design Evaluation, Redesign and Decoupling
@@ -119,12 +119,12 @@ Design judgment and the construction of meaning, including work redesign, indust
 | | -   Learner understands and can explain key design deliverables which support whole system design e.g. Context Model.
 | | -   Learner will be able to describe the use of systemic thought and design to plan and resolve problems.
 | | -   Learner will be able to describe the context and interactions between contextual elements that will impact the design.
-| **CITA -- Specialist** | -   Learner will be able to balance the short-term and long-term perspectives of a project and express this in the design.
+| **CITA -- Professional** | -   Learner will be able to balance the short-term and long-term perspectives of a project and express this in the design.
 | | -   Learner will be able to generate and clarify alternative representations of the system that can meet the project requirements and expectations.
 | | -   Learner is able to diagnose and describe design problems.
 | | -   Learner will be able to devise criteria by which design alternatives can be evaluated.
 | | -   Learner is able to evaluate design alternatives and makes recommendations to decision makers.
-| **CITA -- Professional** | -   Learner is skilled in the evaluation of complex designs.
+| **CITA -- Distinguished** | -   Learner is skilled in the evaluation of complex designs.
 | | -   Learner will be evaluating and driving improvements in design efficiency in the organization.
 | | -   Learner will be able to mentor others in design evaluation
 | | -   Learner will write and speak publicly, and contribute to the development of the design evaluation techniques and methods.

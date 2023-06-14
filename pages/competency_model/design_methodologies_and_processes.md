@@ -58,11 +58,11 @@ There is both art and science in architecture, but leveraging methods and proces
 | | -   Learner will be able to explain MDA (Model Driven Architecture) and its impact on the design process.
 | | -   Learner will be able to explain how an architect applies design patterns and common design principles in the design process.
 | | -   Learner will be able to name some principles and tenets that help delivering efficient designs.
-| **CITA -- Specialist** | -   Learner will be able to articulate the value of good design process to business stakeholders.
+| **CITA -- Professional** | -   Learner will be able to articulate the value of good design process to business stakeholders.
 | | -   Learner will be an expert in some of the design methods and processes, and be able to highlight the advantages and disadvantages of each
 | | -   Learner will be able to explain how to design for operations
 | | -   Learner will be able to explain how to focus on design simplicity and still meets customer's needs.
-| **CITA -- Professional** | -   Learner will be able to drive the introduction of new design methods and processes into the organization
+| **CITA -- Distinguished** | -   Learner will be able to drive the introduction of new design methods and processes into the organization
 | | -   Learner will be able to act as a mentor for the design methods and processes
 | | -   Learner will be able to measure or control the design quality on the project.
 
@@ -89,10 +89,10 @@ Methodologies and Concepts
 | | -   Learner will be able to participate in the design process
 | | -   Learner will be able to carry out design reviews
 | | -   Learner will be able to share experiences: e.g. is UML (or ArchiMate) a good visualization tool to support design process?
-| **CITA -- Specialist** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
 | | -   Learner will be able to carry out design reviews on complex areas.
 | | -   Learner can explain their level of concern on a project and how to design and model it.
-| **CITA -- Professional** | -   Learner will be able to drive the introduction of new tools and techniques into the organization
+| **CITA -- Distinguished** | -   Learner will be able to drive the introduction of new tools and techniques into the organization
 | | -   Learner will be able to act as a mentor for the tools and techniques
 | | -   Learner will be involved in defining the design review process and the checklists to be used.
 

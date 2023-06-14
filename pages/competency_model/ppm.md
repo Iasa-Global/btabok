@@ -101,9 +101,9 @@ The aim of Project Portfolio Control/Assurance is to ensure that projects within
 | :-: | :-: |
 | **CITA- Foundation** | -   Learners will be able to name the components that conforms the Project Portfolio Control/Assurance discipline
 | **CITA -- Associate** | -   Learners will be able to describe each component and how it supports the achieving of benefits to the business.
-| **CITA -- Specialist** | -   Learners will be able to implement a consolidate view of financial status across the Project Portfolio
+| **CITA -- Professional** | -   Learners will be able to implement a consolidate view of financial status across the Project Portfolio
 | | -   Learners will be able to define the major milestones and interdependencies among the Project Portfolio and Programs
-| **CITA -- Professional** | -   *Learners will be able to define a consistent strategic decision-making processes (around agreed to decisions) together within a common process to managing and leveraging critical/constrained resources.*
+| **CITA -- Distinguished** | -   *Learners will be able to define a consistent strategic decision-making processes (around agreed to decisions) together within a common process to managing and leveraging critical/constrained resources.*
 | | -   *Learners will be able to define key performance indicators across the Culture, Organization, Governance, Enterprise Communications, Organization Capability and Metrics & Rewards for the business.*
 
 ## Program and Project Management
@@ -118,10 +118,10 @@ The Project Management dimensions cover the scope of Program Management and incl
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to identify the main phases and activities for the methodology of Program and Project Management.
 | **CITA -- Associate** | -   Learner will be able to define activities, standards and constraints that ensure better Program and Project Management practices.
-| **CITA -- Specialist** | -   Learners will be able to identify and describe the AS-IS model for the Program and Project Management cycle work in their organization.
+| **CITA -- Professional** | -   Learners will be able to identify and describe the AS-IS model for the Program and Project Management cycle work in their organization.
 | | -   Learners will be able to define the TO-BE model for the Program and Project Management cycle work in their organization
 | | -   Learner will be able to create a transformation plan to move toward the TO-BE desired model across the business.
-| **CITA -- Professional** | -   *Learners will be able to implement an effective PPM discipline through the implementation of the Program and Project Management methodologies, formal processes for risk and issue management; clear change-control policies; standardized reporting to convey clear messages to all stakeholder groups; as well as a standardized set of project deliverables.*
+| **CITA -- Distinguished** | -   *Learners will be able to implement an effective PPM discipline through the implementation of the Program and Project Management methodologies, formal processes for risk and issue management; clear change-control policies; standardized reporting to convey clear messages to all stakeholder groups; as well as a standardized set of project deliverables.*
 
 # Resources
 

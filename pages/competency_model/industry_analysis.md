@@ -53,11 +53,11 @@ Industry research is the acquisition of corporate intelligence on a broad range 
 | **CITA -- Associate** | -   Learner will be able to identify industry associations and information sources
 | | -   Learner will be able to compile industry information and external research from multiple sources
 | | -   Learner will be able to identify wider sources of research if needed
-| **CITA -- Specialist** | -   Learner will be able to aggregate and analyze research information from multiple sources
+| **CITA -- Professional** | -   Learner will be able to aggregate and analyze research information from multiple sources
 | | -   Learner will be able to validate research and derive results from research
 | | -   Learner will be able to identify missing information
 | | -   Learner will be able to create custom research reports relevant to the needs of a business problem
-| **CITA -- Professional** | -   Learner will be able to independently research existing, emerging or niche industry segments
+| **CITA -- Distinguished** | -   Learner will be able to independently research existing, emerging or niche industry segments
 | | -   Learner will be able to access wider or indirectly related sources of research, including demographic data and nascent technology developments
 | | -   Learner will be able to aggregate and analyze research across multiple industries and countries for large scale multi-national operations
 | | -   Learner will be able to derive analysis from limited information and create custom research reports in an enterprise context.
@@ -73,9 +73,9 @@ Information analysis is the process of discovery and quantification of patterns 
 | **CITA -- Associate** | -   Learner will be able to analyze financial performance of a business and industry
 | | -   Learner will be able to analyze key success factors of an industry
 | | -   Learner will be able to analyze impact of technology relevant to the industry
-| **CITA -- Specialist** | -   Learner will be able to analyze future projections on industry
+| **CITA -- Professional** | -   Learner will be able to analyze future projections on industry
 | | -   Learner will be able to predict business outcomes in an industry that can be influenced by technology
-| **CITA -- Professional** | -   Learner will be able to assess industry performance on macroeconomic indicators and on a global scale
+| **CITA -- Distinguished** | -   Learner will be able to assess industry performance on macroeconomic indicators and on a global scale
 | | -   Learner will be able to analyze statistical market behaviors
 | | -   Learner will be able to predict influence of emerging technology trends on business outcomes
 
@@ -90,10 +90,10 @@ Industry segmentation is the process of defining and subdividing a large homogen
 | | -   Learner will be able to identify segmentation of their organization
 | **CITA -- Associate** | -   Learner will be able to classify standard industry verticals, business segments and sub-segments
 | | -   Learner will be able to classify standard factors such a product, customer, geography, size etc which drive segmentation
-| **CITA -- Specialist** | -   Learner will be able to contrast various industry verticals and sub-segments
+| **CITA -- Professional** | -   Learner will be able to contrast various industry verticals and sub-segments
 | | -   Learner will be able to identify business strategies for different segments
 | | -   Learner will be able to create a reference model (such as a value chain) for a specific domain
-| **CITA -- Professional** | -   Learner will be able to assess multiple industry segments
+| **CITA -- Distinguished** | -   Learner will be able to assess multiple industry segments
 | | -   Learner will be able to model multiple industries
 | | -   Learner will be able to develop technology strategy addressing an industry vertical
 | | -   Learner will be able to identify new or niche segments that can be generated via technology
@@ -108,9 +108,9 @@ An assumed tendency of a given industry to move in a particular direction over t
 | | -   Learner will be able to identify emerging technology trends and technology shifts on the hype cycle
 | **CITA -- Associate** | -   Learner will be able to identify primary and secondary business trends influencing the industry
 | | -   Learner will be able to identify technology trends influencing the industry
-| **CITA -- Specialist** | -   Learner will be able to identify secular as well as fast moving trends driving the industry
+| **CITA -- Professional** | -   Learner will be able to identify secular as well as fast moving trends driving the industry
 | | -   Learner will be able to analyze impact of industry and technology trends on existing technology and new initiatives.
-| **CITA -- Professional** | -   Learner will be able to assess historical industry trends and trend cycles
+| **CITA -- Distinguished** | -   Learner will be able to assess historical industry trends and trend cycles
 | | -   Learner will be able to analyze forces driving industry trends on a global scale
 | | -   Learner will be able to define enterprise technology strategies that can drive positive outcomes from emerging trends
 
@@ -123,8 +123,8 @@ The preparation of a sustainability strategy for IT, taking into account politic
 | **CITA- Foundation** | -   Learner will be able to describe common technology based sustainability strategies used in industry
 | **CITA -- Associate** | -   Learner will be able to differentiate between industry sustainability strategies and define sustainability initiatives for IT relevant to their unique business context.
 | | -   Learner will be able to perform business valuation of IT enabled sustenance initiatives
-| **CITA -- Specialist** | -   Learner will be able to define sustainability strategy and roadmap for the business
-| **CITA -- Professional** | -   Learner will be able to define sustainability strategy for the enterprise
+| **CITA -- Professional** | -   Learner will be able to define sustainability strategy and roadmap for the business
+| **CITA -- Distinguished** | -   Learner will be able to define sustainability strategy for the enterprise
 
 # Related Capabilities
 

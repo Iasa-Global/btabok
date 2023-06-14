@@ -47,9 +47,9 @@ Integration
 | **CITA- Foundation** | -   Learner will be able to discuss the process of data mapping.
 | **CITA -- Associate** | -   Learner will be able to complete a data mapping exercise.
 | | -   Learner will be able to identify gaps between source and destination data models.
-| **CITA -- Specialist** | -   Learner will be able to validate the output of a data mapping exercise.
+| **CITA -- Professional** | -   Learner will be able to validate the output of a data mapping exercise.
 | | -   Learner will be able to identify problems areas such as differences in character encoding and design an appropriate transformation
-| **CITA -- Professional** | -   Learner will be able to mentor others is data mapping.
+| **CITA -- Distinguished** | -   Learner will be able to mentor others is data mapping.
 | | -   Learner will be able to review the output of a data mapping exercise, highlighting any problem areas.
 
 ## Testing
@@ -62,10 +62,10 @@ The output of an ETL must be tested to ensure the data fulfills all of the busin
 | **CITA -- Associate** | -   Learner will be able to explain standard pricing strategies for software, hardware, services and infrastructure.
 | | -   Learner will be able to identify and compare different pricing strategies.
 | | -   Learner will be able to identify solution attributes and business needs that influence pricing.
-| **CITA -- Specialist** | -   Learner will be able to interpret pricing strategies for software, hardware, services and infrastructure.
+| **CITA -- Professional** | -   Learner will be able to interpret pricing strategies for software, hardware, services and infrastructure.
 | | -   Learner will be able to identify optimal pricing strategies based on current and future business needs.
 | | -   Learner will be able to differentiate between pricing and valuation of IP.
-| **CITA -- Professional** | -   Learner will be able to develop, review and recommend pricing strategies for IP, software, hardware, services and infrastructure.
+| **CITA -- Distinguished** | -   Learner will be able to develop, review and recommend pricing strategies for IP, software, hardware, services and infrastructure.
 | | -   Learner will be able to develop and review valuation of technology pertaining to IP development and transfer or acquisition of IP.
 
 ## Enterprise Application Integration Design
@@ -78,10 +78,10 @@ While the ETL process is about consolidating data from many sources into one, En
 | | -   Learner knows what A2A and B2B integration is.
 | **CITA -- Associate** | -   Learner can distinguish between EAI Patterns and understands how Asynchronous Messaging can contribute to a loosely coupled architecture.
 | | -   Learner can give examples of scenarios for A2A and B2B integrations
-| **CITA -- Specialist** | -   Learner can fully use EAI Patterns to describe complex integration scenarios.
+| **CITA -- Professional** | -   Learner can fully use EAI Patterns to describe complex integration scenarios.
 | | -   Learner can judge when messaging should be applied or not.
 | | -   Learner can combine middleware products to implement both A2A and B2B integrations 
-| **CITA -- Professional** | -   Learner use
+| **CITA -- Distinguished** | -   Learner use
 
 # Resources
 

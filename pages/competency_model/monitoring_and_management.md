@@ -60,10 +60,10 @@ ITSM refers to the implementation and management of quality information technolo
 | | -   Learner will be able to discuss problem management
 | | -   Learner will be able to discuss incident management
 | | -   Learner will be able to give examples of availability measurements
-| **CITA -- Specialist** | -   Learner will be able to demonstrate proficiency in ITIL or another recognized ITSM framework
+| **CITA -- Professional** | -   Learner will be able to demonstrate proficiency in ITIL or another recognized ITSM framework
 | | -   Learner will be able to demonstrate practice in at least one ITSM tool
 | | -   Learner will be able to assess measurements and metrics in place and evaluate if the level of service satisfies compliance and business objectives
-| **CITA -- Professional** | -   Learner will be able to compare and evaluate different ITSM frameworks
+| **CITA -- Distinguished** | -   Learner will be able to compare and evaluate different ITSM frameworks
 | | -   Learner will be able to compare and evaluate different high-availability strategies
 
 ## Service Level Agreement (SLA)
@@ -78,10 +78,10 @@ Service level agreement (SLA) is a documented agreement between the service prov
 | | -   Learner will be able to identify elements in an OLA
 | | -   Learner will be able to discuss SLA management and QoS (quality of service) parameters
 | | -   Learner will be able to describe multi-tiered solution support (levels 1, 2, 3)
-| **CITA -- Specialist** | -   Learner will be able to defend an SLA to peers
+| **CITA -- Professional** | -   Learner will be able to defend an SLA to peers
 | | -   Learner will be able to describe maintenance procedures for a solution
 | | -   Learner will be able to differentiate between Master Service Agreement, Service Agreement, and SLA
-| **CITA -- Professional** | -   Learner will be able to model an SLA
+| **CITA -- Distinguished** | -   Learner will be able to model an SLA
 | | -   Learner will be able to demonstrate proficiency in SLA creation and management
 | | -   Learner will be able to demonstrate proficiency in issue response techniques
 
@@ -95,11 +95,11 @@ Monitoring is awareness of the state of a system.
 | | -   Learner will be able to recognize the basic set of quality attributes
 | **CITA -- Associate** | -   Learner will be able to explain how a quality attribute can be monitored
 | | -   Learner will be able to recognize COTS monitoring tools
-| **CITA -- Specialist** | -   Learner will be able to practice monitoring quality attributes
+| **CITA -- Professional** | -   Learner will be able to practice monitoring quality attributes
 | | -   Learner will be able to select which quality attributes to monitor
 | | -   Learner will be able to implement a quality attribute tracking mechanism for a solution
 | | -   Learner will be able to demonstrate proficiency in a monitoring tool that is relevant to a domain area
-| **CITA -- Professional** | -   Learner will be able to evaluate quality attribute trade-offs
+| **CITA -- Distinguished** | -   Learner will be able to evaluate quality attribute trade-offs
 | | -   Learner will be able to justify financial value of quality attributes
 
 ## Capacity Management
@@ -112,10 +112,10 @@ Capacity management is a process that ensures the IT capacity meets current and 
 | | -   Learner will be able to describe high-level activities related to capacity management, according to the ITIL framework
 | **CITA -- Associate** | -   Learner will be able to track direct business benefits arising from a technology solution
 | | -   Learner will be able to classify benefits and value additions
-| **CITA -- Specialist** | -   Learner will be able to discuss the impact of capacity management
+| **CITA -- Professional** | -   Learner will be able to discuss the impact of capacity management
 | | -   Learner will be able to discuss how performance management and capacity management are related
 | | -   Learner will be able to describe the relationship between capacity management and proper risk assessment for business continuity planning (BCP
-| **CITA -- Professional** | -   Learner will be able to model a capacity planning strategy
+| **CITA -- Distinguished** | -   Learner will be able to model a capacity planning strategy
 | | -   Learner will be able to choose between capacity planning strategies
 | | -   Learner will be able to justify the business value of a capacity planning strategy
 

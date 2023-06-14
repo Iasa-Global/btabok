@@ -69,8 +69,8 @@ Understand and articulate the various organizational designs and how they are im
 | **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
 | **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
 | | -   Learner will be able to describe the similarities, if any, between leadership and management
-| **CITA -- Specialist** |-   Learner will be able to describe a situation where good management was exhibited
-| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
+| **CITA -- Professional** |-   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Distinguished** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
 
 
 
@@ -83,8 +83,8 @@ Understand and articulate ...
 | **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
 | **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
 | |-   Learner will be able to describe the similarities, if any, between leadership and management
-| **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
-| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
+| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Distinguished** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
 
 
 
@@ -96,8 +96,8 @@ Understand and articulate ...
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
 | **CITA -- Associate** | -   Learner will be able to describe the differences between leadership and management
-| **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
-| **CITA -- Professional** |-   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
+| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Distinguished** |-   Learner will be able to describe a situation where poor leadership was exhibited and discuss why. Was there room for improvement?
 
 
 ## Can articulate the difference between leadership and management
@@ -109,8 +109,8 @@ Understand and articulate the primary difference between leadership and manageme
 | **CITA- Foundation** | -   Learner will be able to clearly define the terms leadership and management
 | **CITA -- Associate** |-   Learner will be able to describe the differences between leadership and management
 | | -   Learner will be able to describe the similarities, if any, between leadership and management
-| **CITA -- Specialist** | -   Learner will be able to describe a situation where good management was exhibited
-| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
+| **CITA -- Professional** | -   Learner will be able to describe a situation where good management was exhibited
+| **CITA -- Distinguished** | -   Learner will be able to describe a situation where good management was exhibited and discuss why. Was there room for improvement?
 
 
 ## Can describe their approach to leading or managing during the projects they documented
@@ -123,9 +123,9 @@ Understand when to lead and when to manage. Evaluate strategies for each.
 | |-   Learner can articulate the common traits a manager has
 | **CITA -- Associate** | -   Learner can articulate the key activities of a leader
 | |-   Learner can articulate the key activities of a manager
-| **CITA -- Specialist** | -   Learner is able to describe a situation where they acted as a leader
+| **CITA -- Professional** | -   Learner is able to describe a situation where they acted as a leader
 | | -   Learner is able to describe a situation where they acted as a manager
-| **CITA -- Professional** | -   Learner is able to describe a situation where they acted as a leader and should have applied more management principles
+| **CITA -- Distinguished** | -   Learner is able to describe a situation where they acted as a leader and should have applied more management principles
 | | -   Learner is able to describe a situation where they acted as a manager and should have applied more leadership principles
 | | -   Learner should be able to discuss someone who exhibits great leadership skills today. Why and how could they could improve.
 | | -   Learner should be able to discuss someone who exhibits great management skills today. Why and how could they could improve.
@@ -140,8 +140,8 @@ Discuss a management book that the learner has read or a management class they h
 | **CITA- Foundation** | -   Learner can name a book they have read or a class they have attended.
 | | -   Learner can discuss some of the principles they learned.
 | **CITA -- Associate** | -   Learner can identify past projects where they have utilized the skills learned in the class or book.
-| **CITA -- Specialist** | -   Learner can discuss their own management traits and areas for improvement
-| **CITA -- Professional** | -   Learner can discuss a situation where the principles learned in the class or book would have improved a project they worked on
+| **CITA -- Professional** | -   Learner can discuss their own management traits and areas for improvement
+| **CITA -- Distinguished** | -   Learner can discuss a situation where the principles learned in the class or book would have improved a project they worked on
 | | -   Learner can discuss how they will adjust, or not adjust, their leadership and management styles based on the information presented in the class or book
 
 

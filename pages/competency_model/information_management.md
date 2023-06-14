@@ -126,10 +126,10 @@ All sub-capabilities encompass a complete information management solution by lev
 | | -   Run brainstorming meetings with stakeholders to estimate value of information and gather concerns, views from functional, operational, delivery and business value viewpoints.
 | | -   Generate Information metrics and articulate the context, content and business value of the data.
 | | -   Prioritise and Implement plans to support information management projects and initiatives
-| **CITA -- Specialist** | -   Learner will be able to:
+| **CITA -- Professional** | -   Learner will be able to:
 | | -   Create Impact on organisational information management policies and practices .
 | | -   Advise and recommend best practices and techniques for Information management. To delivery sustainable and long term information management model.
-| **CITA -- Professional** | -   Learner will be able to:
+| **CITA -- Distinguished** | -   Learner will be able to:
 | | -   Work across multiple organisations and tailor information management techniques based on enterprise needs.
 | | -   Justify the needs for best information management practices.
 

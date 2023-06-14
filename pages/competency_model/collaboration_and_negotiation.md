@@ -88,8 +88,8 @@ This sub-capability deals with knowing the different types of stakeholders, and 
 | :-: | :-: |
 | **CITA- Foundation** | -   The Learner will be able to list the different kinds of stakeholders
 | **CITA -- Associate** | -   The Learner will be able to list the needs of different kinds of stakeholders
-| **CITA -- Specialist** | -   The Learner will be able to identify the contributions that each stakeholder can bring to the project
-| **CITA -- Professional** | -   The Learner will be able to identify means to engage the stakeholder positively
+| **CITA -- Professional** | -   The Learner will be able to identify the contributions that each stakeholder can bring to the project
+| **CITA -- Distinguished** | -   The Learner will be able to identify means to engage the stakeholder positively
 | | -   The Learner will be able to estimate the impact of the stakeholder's personality on the collaboration
 
 ## Effective Communication
@@ -100,9 +100,9 @@ Effective communication requires understanding the needs of the stakeholders, an
 | :-: | :-: |
 | **CITA- Foundation** | -   The Learner will learn to identify views and viewpoints of the stakeholders
 | **CITA -- Associate** | -   The Learner will be able to identify the objectives of his stakeholders
-| **CITA -- Specialist** |-   The Learner will be able to communicate his requirements to the stakeholders effectively
+| **CITA -- Professional** |-   The Learner will be able to communicate his requirements to the stakeholders effectively
 | | -   The Learner will be able to identify what is required to engage the stakeholder in order to ensure continuous commitment
-| **CITA -- Professional** |-   The Learner will be able to communicate and negotiate with the stakeholders to achieve results
+| **CITA -- Distinguished** |-   The Learner will be able to communicate and negotiate with the stakeholders to achieve results
 | | -   The Learner will be able to understand the constraints of the stakeholders and appropriately engage them
 
 

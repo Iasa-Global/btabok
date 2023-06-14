@@ -64,11 +64,11 @@ This includes but is not restricted to: most know security models and methodolog
 | | -   Learner will be able to explain how to transform collected architectural information and intents into viable models.
 | | -   Learner will be able to depict functional requirements of the architecture.
 | | -   Learner will be able to explain the vocabulary of their preferred Architecture Description Language (ADL).
-| **CITA -- Specialist** | -   Learner will be able to conduct a threat modeling process
+| **CITA -- Professional** | -   Learner will be able to conduct a threat modeling process
 | | -   Learner will be able to apply some security methodologies, like OCTAVE, STRIDE, DREAD
 | | -   Learner will be able to create architectures that are compliant to different standards from NIST, ISO, etc.
 | | -   Learner will be able to implement a suitable security model.
-| **CITA -- Professional** | -   Learner will be able to define and implement risk management in the enterprise
+| **CITA -- Distinguished** | -   Learner will be able to define and implement risk management in the enterprise
 | | -   Learner will be able to implement and comply with security best practices indicated in know frameworks, like COBIT
 | | -   Learner will be able to identify the impact of the use of different security models for systems enterprise wide.
 
@@ -85,9 +85,9 @@ Methods and techniques to elicit security requirements evaluate them and priorit
 | **CITA -- Associate** | -   Learner will be able to extract security requirements from positive requirements
 | | -   Learner will be able to explain different authorization requirements types (DAC, NDAC, MAC, RBAC, etc).
 | | -   Learner will be able to identify different types of requirements (integrity, auditing, session management, archiving, antipiracy, etc).
-| **CITA -- Specialist** | -   Learner will be able to conduct Protection Needs Elicitation procedures, like policy decomposition, data classification, misuse and abuse case modeling S-OM.
+| **CITA -- Professional** | -   Learner will be able to conduct Protection Needs Elicitation procedures, like policy decomposition, data classification, misuse and abuse case modeling S-OM.
 | | -   Learner will be able to identify the access control method to use in different cases
-| **CITA -- Professional** | -   Learner will be able to identify, capture, manage, security requirements enterprise wide
+| **CITA -- Distinguished** | -   Learner will be able to identify, capture, manage, security requirements enterprise wide
 | | -   Learner will be able to prioritize and perform a trade-of process to select security requirements to implement based on the business strategy and resources.
 
 ## Security in Architecture and Design
@@ -103,10 +103,10 @@ Security analysis at architectural level, description of solution using improved
 | | -   Learner will be able to explain the design considerations related to security, including confidentiality, integrity, availability, authentication, authorization, auditing.
 | | -   Learner will be able to explain the issues and solutions of Identity architecture.
 | | -   Learner will be able to the implication of security in database design
-| **CITA -- Specialist** | -   Learner will be able to implement technologies like identify management, certificate management, IDS, IPS, Virtualization, DRM
+| **CITA -- Professional** | -   Learner will be able to implement technologies like identify management, certificate management, IDS, IPS, Virtualization, DRM
 | | -   Learner will be able to identify issues and implement security adjustments for different types of architectures, like web applications, SaaS, RIA, pervasive computing, etc.
 | | -   Learner will be able to perform an attack surface evaluation.
-| **CITA -- Professional** | -   Learner will be able to evaluate the impact on business of each design decision and balance the cost benefit.
+| **CITA -- Distinguished** | -   Learner will be able to evaluate the impact on business of each design decision and balance the cost benefit.
 
 ## Security in Implementation
 
@@ -121,9 +121,9 @@ Knowledge of security issues in different languages, workarounds, common softwar
 | | -   Learner will be able to name security issues related to different coding languages.
 | **CITA -- Associate** | -   Learner will be able to explain how the common vulnerabilities can be exploited and name the most common solutions to avoid or minimize the issue.
 | | -   Learner will be able to explain the importance of security in the regular development processes like code analysis, peer reviews and configuration management.
-| **CITA -- Specialist** | -   Learner will be able to indicate the best development practices to be used during development.
+| **CITA -- Professional** | -   Learner will be able to indicate the best development practices to be used during development.
 | | -   Learner will be able to incorporate security during the corresponding development methodology
-| **CITA -- Professional** | -   Learner will be able to evaluate the impact of vulnerabilities and solutions to strategy, and explain the long term impact to stakeholders.
+| **CITA -- Distinguished** | -   Learner will be able to evaluate the impact of vulnerabilities and solutions to strategy, and explain the long term impact to stakeholders.
 
 ## Security in Acceptance
 
@@ -137,9 +137,9 @@ Evaluation of required acceptance level for security, acceptance testing, certif
 | | -   Learner will be able to explain why assurance in acquisitions and legal protection mechanism are needed for software procurement.
 | **CITA -- Associate** | -   Learner will be able to define the acceptance criteria for pre and post deployment/release
 | | -   Learner will be able to understand how Validation and Verification can be used for Certification and Accreditation
-| **CITA -- Specialist** | -   Learner will be able to explain the relation between software assurance an the acceptance criteria for pre and post deployment/release.
+| **CITA -- Professional** | -   Learner will be able to explain the relation between software assurance an the acceptance criteria for pre and post deployment/release.
 | | -   Learner will be able to understand what a software escrow is and why is needed.
-| **CITA -- Professional** | -   Learner will be able to verify that the measures of the impact of the software to be deployed to the exiting computing ecosystems is being taken and analyzed.
+| **CITA -- Distinguished** | -   Learner will be able to verify that the measures of the impact of the software to be deployed to the exiting computing ecosystems is being taken and analyzed.
 | | -   Learner will be able to understand when a software escrow strategy is needed and implement it. 
 
 ## Security in Deployment, Operations, and Disposal
@@ -156,10 +156,10 @@ Environment hardening, penetration testing, problem and incident management, pro
 | | -   Learner will be able to explain what incident management is
 | | -   Learner will be able to explain what a patching strategy is
 | | -   Learner will be able to explain what a root cause analysis is
-| **CITA -- Specialist** | -   Learner will be able to define the requirements for the implementation of the incident management, patching and problem detection strategies.
+| **CITA -- Professional** | -   Learner will be able to define the requirements for the implementation of the incident management, patching and problem detection strategies.
 | | -   Learner will be able to ensure the compliance with end-of-life (EOL) policies for software systems.
 | | -   Learner will be able to ensure the hardening of software and hardware is in place and working as expected.
-| **CITA -- Professional** | -   Learner will be able to explain why strategies for continuous monitoring, problem detection and incident management should be aligned to the business strategy and goal.
+| **CITA -- Distinguished** | -   Learner will be able to explain why strategies for continuous monitoring, problem detection and incident management should be aligned to the business strategy and goal.
 | | -   Learner will be able to align EOL policies to external regulations
 
 ## Business continuity and disaster recovery planning
@@ -177,9 +177,9 @@ Industrial, geographical and political regulations are to be known and understoo
 | | -   Learner will be able to describe the benefits of following the different security standards
 | **CITA -- Associate** | -   Learner will be able to list the significant regulations and acts, namely SOX, BASEl II, GLBA, HIPAA, Data protection Act, Computer miuse Act, etc.
 | | -   Learner will be able to explain what a Acceptably Use Policy (AUP) is and why is it important for privacy and software development
-| **CITA -- Specialist** | -   Learner will be able to understand and apply the different regulations and acts in software architecture definition
+| **CITA -- Professional** | -   Learner will be able to understand and apply the different regulations and acts in software architecture definition
 | | -   Learner will be able to define an architecture the complies with AUP
-| **CITA -- Professional** | -   Learner will be able to explain how regulations impact the business strategy and plan for a remedial solution
+| **CITA -- Distinguished** | -   Learner will be able to explain how regulations impact the business strategy and plan for a remedial solution
 | | -   Learner will be able to measure the impact of regulations for globally used/distributed systems.
 
 # Capabilities Resources

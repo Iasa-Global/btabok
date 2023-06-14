@@ -86,9 +86,9 @@ One of the most common oversights in accessibility is not considering people who
 | | -   How does personalization work for mobile/search/social solutions?
 | | -   How should the solution help users recover from errors?
 | | -   What standards can you use for usability design and evaluation? (ISO/TR 16982:2002, ISO 9241)
-| **CITA -- Specialist** | -   You said that the solution was 'user-friendly'. What exactly does this mean?
+| **CITA -- Professional** | -   You said that the solution was 'user-friendly'. What exactly does this mean?
 | | -   How did your solution allow users to personalize it to their needs?
-| **CITA -- Professional** | -   How was the decision to support only one browser justified from accessibility perspective?
+| **CITA -- Distinguished** | -   How was the decision to support only one browser justified from accessibility perspective?
 | | -   If you'd have a chance to redesign your solution today, what would you change to improve its usability?
 
 # Resources 

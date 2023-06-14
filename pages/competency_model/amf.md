@@ -109,9 +109,9 @@ Other factors that can provide the solutions architect with guidance in selectin
 | | -   You can describe the processes and tools used to deliver strategy.
 | **CITA -- Associate** | -   You know which templates or tools are used to engage stakeholders in business architecture.
 | | -   You know exactly which elements of the existing 'frameworks' help you with your job function.
-| **CITA -- Specialist** | -   You know when each methods and tools begin to truly impact your day to day activities.
+| **CITA -- Professional** | -   You know when each methods and tools begin to truly impact your day to day activities.
 | | -   You can confidently integrate your technology stack in chosen architecture methodology.
-| **CITA -- Professional** |-   You manage the process and technology integration.
+| **CITA -- Distinguished** |-   You manage the process and technology integration.
 | | -   You can integrate information flow into methodology and processes.
 
 

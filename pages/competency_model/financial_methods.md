@@ -64,9 +64,9 @@ The basic financial skill of being able to analyze a set of financial statements
 | **CITA -- Associate** | -   Learner will be able to compute the current financial performance measures for their company
 | | -   Learner will be able to identify and explain actual and potential financial trends based on their company's current position and past history
 | | -   Learner will be able to compute their company's cost of capital
-| **CITA -- Specialist** | -   Learner will be able to assess and describe the financial impacts of risks and events in terms of changes to financial measures within a program or business domain
+| **CITA -- Professional** | -   Learner will be able to assess and describe the financial impacts of risks and events in terms of changes to financial measures within a program or business domain
 | | -   Learner will be able to analyze and explain the effects of financing and other management decisions on the financial measures of the company
-| **CITA -- Professional** | -   Learner will be able to assess and describe the financial impacts of risks and events in terms of changes to financial measures at the enterprise level
+| **CITA -- Distinguished** | -   Learner will be able to assess and describe the financial impacts of risks and events in terms of changes to financial measures at the enterprise level
 | | -   Learner will be able to teach and mentor less senior architects through senior managers on the effects of changes in financial measures on the company
 | | -   Learner will be able to evaluate and explain how possible courses of action, the inputs that management can change, are linked to outcomes in terms of changes in financial measures
 
@@ -79,9 +79,9 @@ All change initiatives have at their root improvements in financial performance,
 | **CITA- Foundation** | -   Learner will be able to explain how the costs and benefits of a proposed investment will affect the financial measures
 | | -   Learner will be able to compare and contrast changes in one financial measure in terms of changes in others, for example, being able to explain how changes in gross margin might affect return on assets and earnings per share
 | **CITA -- Associate** | -   Learner will be able to analyze a set of proposed investments and determine the most likely outcome in terms of changes in financial measures
-| **CITA -- Specialist** | -   Learner will be able to evaluate impact of potential action on the state of the company using changes in financial measures
+| **CITA -- Professional** | -   Learner will be able to evaluate impact of potential action on the state of the company using changes in financial measures
 | | -   Learner will be analyze targeted changes in financial measures and synthesize a plan of investments that potentially lead to the target values for a business domain
-| **CITA -- Professional** | -   Learner will be analyze targeted changes in financial measures and synthesize a plan of investments that potentially lead to the target values for a business unit, line of business, or the enterprise as a whole
+| **CITA -- Distinguished** | -   Learner will be analyze targeted changes in financial measures and synthesize a plan of investments that potentially lead to the target values for a business unit, line of business, or the enterprise as a whole
 | | -   Learner will be able to demonstrate cause-and-effects between proposed business change and technology investments and outcomes expressed as changes in financial measures
 
 ## Financing Methods
@@ -94,8 +94,8 @@ Once a decision is made to make an investment, there are several options for fin
 | | -   Learner will be able to describe examples of the sets of circumstances that would favor one method over the other
 | **CITA -- Associate** | -   Learner will be able to analyze and explain how the choice of financing method for a project will affect the financial measures
 | | -   Learner will be able to analyze the effects of alternative funding choices on the financial measures
-| **CITA -- Specialist** | -   Learner will be able to analyze the current state of the business domain or business units determine the effects of various financing options might have given the current set of investments for the domain or unit
-| **CITA -- Professional** | -   Learner will be able to analyze the current state of the company, assess the effects of different financing options, and recommend a course of action covering the entire investment portfolio
+| **CITA -- Professional** | -   Learner will be able to analyze the current state of the business domain or business units determine the effects of various financing options might have given the current set of investments for the domain or unit
+| **CITA -- Distinguished** | -   Learner will be able to analyze the current state of the company, assess the effects of different financing options, and recommend a course of action covering the entire investment portfolio
 
 ## Time-Driven Activity Based Costing
 
@@ -108,9 +108,9 @@ Time-driven activity based costing (TDABC) is a powerful, easy-to-use, method to
 | **CITA -- Associate** | -   Learner will be able to compute and maintain a TBABC model of each process step or activity for which they are responsible
 | | -   Learner will be able to demonstrate how changes in the volume of activity for a process step or activity will affect either the capacity cost rate or capacity required
 | | -   Learner will be able to compute the level of excess (or short) capacity that currently exists for each process step or activity for which they are responsible
-| **CITA -- Specialist** | -   Learner will be able to compute the capacity cost rate and capacity required for an entire end-to-end process or business organization
+| **CITA -- Professional** | -   Learner will be able to compute the capacity cost rate and capacity required for an entire end-to-end process or business organization
 | | -   Learner will be able to analyze and explain the effects proposed changes might have on the capacity cost rate and/or capacity required for a business process or organization
-| **CITA -- Professional** | -   Learner will be able to establish and maintain a set of TDABC models for all end-to-end processes for the enterprise
+| **CITA -- Distinguished** | -   Learner will be able to establish and maintain a set of TDABC models for all end-to-end processes for the enterprise
 | | -   Learner will be able to create a TDABC model for any organization or business unit in the enterprise
 | | -   Learner will be able to predict where capacity problems are likely to arise as business volume changes
 | | -   Learner will be able to explain potential capacity problems to senior management
@@ -129,10 +129,10 @@ It can be difficult at times to determine the financial costs and benefits a pot
 | **CITA -- Associate** | -   Learner will be able to apply the goal/question/metric or Fermi question approach to a single project to determine a set of appropriate measures
 | | -   Learner will be able to construct an appropriate set of performance measures for a business process
 | | -   Learner will be able to apply the concepts of efficiency, productivity, and effectiveness measures to a business service, process, or capability
-| **CITA -- Specialist** | -   Learner will be able to construct an appropriate set of performance measures for the processes in a business domain and for the business domain itself
+| **CITA -- Professional** | -   Learner will be able to construct an appropriate set of performance measures for the processes in a business domain and for the business domain itself
 | | -   Learner will be able to construct and operate a data collection mechanism sufficient to compute and report the structural performance measures for the processes in a business domain and for the business domain itself
 | | -   Learner will be able to mentor others, including business unit and process owners, on ways to measure the structural performance of their unit or process
-| **CITA -- Professional** | -   Learner will be able to construct an appropriate set of performance measures for any activity anywhere in the enterprise
+| **CITA -- Distinguished** | -   Learner will be able to construct an appropriate set of performance measures for any activity anywhere in the enterprise
 | | -   Learner will be able to construct and operate a data collection mechanism sufficient to compute and report the structural performance measures for any activity in the enterprise
 | | -   Leaner will be able to mentor others, including senior executive, on ways to measure structural performance of a given context
 

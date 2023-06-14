@@ -95,11 +95,11 @@ The IT architect should have an understanding of the components of a sound archi
 | | -   The Learner shall be able to identify ESM tools such as Business Motivation Modeling (BMM) and Business Model Canvas
 | | -   The Learner shall be able to describe the roles and responsibilities in an organizational structure including functions, entities, divisions, departments and groups
 | | -   The Learner shall have practical exposure to involve or assist development of strategic plan for small organization
-| **CITA -- Specialist** | -   The Learner shall have work experience in assisting the development of an organization's strategic plan
+| **CITA -- Professional** | -   The Learner shall have work experience in assisting the development of an organization's strategic plan
 | | -   The Learner shall have work experience in leveraging ESM with BMM and Business Model Canvas
 | | -   The Learner shall be able to demonstrate how to develop an organization's strategic plan
 | | -   The Learner shall be aware how an organization's strategic plan affect current and future IT requirements and architecture
-| **CITA -- Professional** | -   The Learner can demonstrate experience of strategy planning for large organization
+| **CITA -- Distinguished** | -   The Learner can demonstrate experience of strategy planning for large organization
 | | -   The Learner shall be able to demonstrate experience of development strategy planning utilizing ESM approach for large organization
 | | -   The Learner has the ability to mentor other IT Architect
 | | -   The Learner is able to support stakeholders in defining business objective and business model for development of an organization's strategic plan
@@ -116,9 +116,9 @@ Define technology strategy plan as known as IT Strategic Plan that aligned with 
 | | -   The Learner shall comprehend the organization technology tactical and operational plan
 | **CITA -- Associate** | -   The Learner shall be able to describe the contents of a IT strategic plan as well as explain why these are important to IT function and moreover entire organization
 | | -   The Learner shall have practical exposure to involve or assist development of IT strategic plan for small organization
-| **CITA -- Specialist** | -   The Learner shall have work experience in assisting the development of an IT strategic plan for large organization
+| **CITA -- Professional** | -   The Learner shall have work experience in assisting the development of an IT strategic plan for large organization
 | | -   The Learner shall be aware how an IT strategic plan affect current and future IT requirements and architecture
-| **CITA -- Professional** | -   The Learner can demonstrate experience of developing IT strategy planning for large organization
+| **CITA -- Distinguished** | -   The Learner can demonstrate experience of developing IT strategy planning for large organization
 | | -   The Learner is able to assess and manage the impact(s) of new IT requirements and architectural changes
 | | -   The Learner is able to suggest insights, opinion and advice in the IT strategic plan's role and influence onto an organization strategic plan
 
@@ -131,10 +131,10 @@ Provide technology innovation by keeping abreast of technology current and lates
 | **CITA- Foundation** | -   The Learner shall be able to identify the current and latest trends in technology
 | **CITA -- Associate** | -   The Learner shall be able to assess and select the emerging technologies that suitable to meet organization and business objectives and goals
 | | -   The Learner shall have practical exposure to involve or assist the assessment and selection of emerging technologies for small organization
-| **CITA -- Specialist** | -   The Learner shall have work experience in assessing and selecting emerging technologies for large organization
+| **CITA -- Professional** | -   The Learner shall have work experience in assessing and selecting emerging technologies for large organization
 | | -   The Learner shall be aware how selected technology will affect legacy and future architecture
 | | -   The Learner shall be aware how to show value proposition of a technology innovation
-| **CITA -- Professional** | -   The Learner can demonstrate experience of proposing selected technology as business case for projects that provide value to a large organization
+| **CITA -- Distinguished** | -   The Learner can demonstrate experience of proposing selected technology as business case for projects that provide value to a large organization
 | | -   The Learner can demonstrate experience of deploying selected technology for a large organization
 | | -   The Learner is able to assess the dependency and impact(s) of accommodating new technology into existing architecture and future architecture.
 | | -   The Learner is able to manage the dependency and impact(s) of architectural changes

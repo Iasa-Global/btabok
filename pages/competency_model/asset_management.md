@@ -39,9 +39,9 @@ Set of business practices that join financial, contractual and inventory functio
 | | -   How can you use product or service warranty expiration in asset management?
 | | -   How can you link architecture lifecycle with asset management processes?
 | | -   How can you enhance performance of assets through good asset management?
-| **CITA -- Specialist** | -   What is your IT department's road map for equipment management?
+| **CITA -- Professional** | -   What is your IT department's road map for equipment management?
 | | -   How did migration to off-premises technologies impact your asset management strategy?
-| **CITA -- Professional** | -   How did you gain and maintain control of the asset inventory within the organization?
+| **CITA -- Distinguished** | -   How did you gain and maintain control of the asset inventory within the organization?
 | | -   How did you stop 'leaking' of assets and established loss detection on the project?
 
 # Resources

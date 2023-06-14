@@ -48,9 +48,9 @@ Corporate Governance of IT is the planning and implementation of initiatives and
 | **CITA -- Associate** | -   Learner will be able to design solution architecture in alignment with corporate governance objectives at a project level.
 | | -   Learner will be able to use reference architecture, guidelines and standards to align with Enterprise Architecture.
 | | -   Learner will be able to demonstrate alignment with Enterprise Architecture to Architecture Review Board.
-| **CITA -- Specialist** | -   Learner will be able to set-up governance framework, processes and standards for their area of specialization for the enterprise.
+| **CITA -- Professional** | -   Learner will be able to set-up governance framework, processes and standards for their area of specialization for the enterprise.
 | | -   Learner will be able to participate in Architecture Review Boards to review compliance to governance objectives and processes for architecture.
-| **CITA -- Professional** | -   The Learner will be able to improve and enhance governance processes in their area of specialization.
+| **CITA -- Distinguished** | -   The Learner will be able to improve and enhance governance processes in their area of specialization.
 | | -   The Learner will be able to set-up governance framework, processes and standards for the enterprise.
 | | -   The Learner will be able to set-up Architecture Review Board and define objectives in alignment with Corporate Governance Framework for the enterprise.
 
@@ -65,9 +65,9 @@ These are activities that focus on overseeing and guiding the performance or ope
 | | -   Learner will be able to define key performance indicators such as value, risk and compliance use for process measurement and improvements.
 | **CITA -- Associate** | -   Learner will be able to apply oversight and guidance through use of standards, validation techniques and reporting performance at a project level.
 | | -   Learner will be able to define tools and frameworks used to enable oversight.
-| **CITA -- Specialist** | -   Learner will be able to design frameworks for oversight and guidance for the business or the enterprise in their area of specialization.
+| **CITA -- Professional** | -   Learner will be able to design frameworks for oversight and guidance for the business or the enterprise in their area of specialization.
 | | -   Learner will be able to define and track performance of key metrics and use techniques such as root cause analysis for corrective and preventive actions and continuous improvements.
-| **CITA -- Professional** | -   Learner will be able to design frameworks for oversight and guidance for the enterprise.
+| **CITA -- Distinguished** | -   Learner will be able to design frameworks for oversight and guidance for the enterprise.
 | | -   Learner will be able to design performance measurement metrics for the enterprise as well as measures for analysis and improvement.
 | | -   Learner will be able to design roadmap for continuous improvement as well as leading and lagging performance indicators (for example business value, time to market, respond to industry and business changes, risk management) to track progress.
 
@@ -82,9 +82,9 @@ Information Security and Risk Management is the overall framework for control of
 | | -   Learner will be able to identify technology requirements and solutions for information security.
 | **CITA -- Associate** | -   Learner will be able to define security architecture requirements to ensure information security at a project level.
 | | -   Learner will be able to identify information security requirements related to their area of concern or specialization.
-| **CITA -- Specialist** | -   Learner will be able to identify common frameworks and standards for information security compliance and governance.
+| **CITA -- Professional** | -   Learner will be able to identify common frameworks and standards for information security compliance and governance.
 | | -   Learner will be able to implement information risk management framework for the enterprise including information classification, risk assessment and related controls.
-| **CITA -- Professional** | -   Learner will be able to design enterprise framework for information security and risk management.
+| **CITA -- Distinguished** | -   Learner will be able to design enterprise framework for information security and risk management.
 | | -   Learner will be able to define and implement enterprise information security architecture to align with enterprise information security and risk management objectives.
 
 # Related Capabilities

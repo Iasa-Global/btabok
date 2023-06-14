@@ -138,7 +138,7 @@ Design requires the use of techniques, tools, patterns, methodologies, and a hos
 -   Learner will be able to explain how an architect applies design patterns and common design principles in the design process.
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Learner will be able to explain SCA (Service Component Architecture).
 -   Learner will be able to define and design the Workflow across business
@@ -149,7 +149,7 @@ Design requires the use of techniques, tools, patterns, methodologies, and a hos
 -   Learner will be able to explain how to focus on design simplicity and still meets customer's needs.
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   Learner will be able to drive the introduction of new design methods and processes into the organization
 -   Learner will be able to mentor team for designing of Service Architecture, Workflow Implementation and Utilizing the Messaging Pattern.

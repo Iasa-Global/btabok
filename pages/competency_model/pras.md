@@ -61,8 +61,8 @@ Performance is the driving factor for any system architecture.
 | **CITA -- Associate** | -   Learner will be able to measure the performance of an existing application, its throughput and latency
 | | -   Learner will know how to use dedicate tools to measure: profilers, code analysis, etc
 | | -   Learner will be able to identify and document scenarios and use cases that negatively impact Performance
-| **CITA -- Specialist** | -   Learner will be able to design a system that is easily measurable in terms of Performance and has built in ways to assist troubleshooting, e.g. logging, instrumentation, etc.
-| **CITA -- Professional** | -   Learner will be able to design and implement tests that can predict the Performance breaking points of a system
+| **CITA -- Professional** | -   Learner will be able to design a system that is easily measurable in terms of Performance and has built in ways to assist troubleshooting, e.g. logging, instrumentation, etc.
+| **CITA -- Distinguished** | -   Learner will be able to design and implement tests that can predict the Performance breaking points of a system
 | | -   Learner will be able to describe and predict the negative impact on a business if the Performance is not achieved as expected
 
 ## P.R.A.S. -- Knowledge Overlap
@@ -83,7 +83,7 @@ Performance is the driving factor for any system architecture.
 | | -   Know the CAP Theorem. Be able to choose 2 of the 3 in CAP
 | | -   Be able to use instruments and tools to detect DoS
 | | -   Be able to identify and document scenarios and use cases that negatively impact PRAS.
-| **CITA -- Specialist** | -   Be able to design a system that is easily measurable and has built in ways to assist troubleshooting, e.g. logging, instrumentation, etc.
+| **CITA -- Professional** | -   Be able to design a system that is easily measurable and has built in ways to assist troubleshooting, e.g. logging, instrumentation, etc.
 | | -   Be able to engage the proper stakeholders and explain to them the trade-offs required when choosing a higher priority for a Quality Attribute over other QAs.
 | | -   Be able to design systems that prevent and minimize DoS.
 | | -   Understands Business Continuity Planning (BCP)
@@ -93,7 +93,7 @@ Performance is the driving factor for any system architecture.
 | | -   Know how to plan for unpredictable capacity growth.
 | | -   Know how to reach the availability target.
 | | -   Understand that Architectural Styles like REST are about Quality Attributes
-| **CITA -- Professional** | -   Be able to use the Quality Attributes perspective when designing and architecting a complex system to make Performance part of the initial design and implementation. Be able to identify the risks early on.
+| **CITA -- Distinguished** | -   Be able to use the Quality Attributes perspective when designing and architecting a complex system to make Performance part of the initial design and implementation. Be able to identify the risks early on.
 | | -   Can provide guidance for scalability rather than absolutes.
 | | -   Be able to balance the quality attributes.
 | | -   Be able to provide trade-offs between the Quality Attributes.

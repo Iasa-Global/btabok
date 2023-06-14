@@ -96,11 +96,11 @@ An architect is responsible for linking technology decisions with business strat
 | **CITA -- Associate** | -   The Learner should be able to identify various sub processes and components involved in provisioning
 | | -   The Learner should be able to articulate various provisioning methodologies -- Dynamic provisioning, Automated/Policy driven provisioning
 | | -   The Learner is able to articulate the key considerations in the design
-| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of different design considerations
+| **CITA -- Professional** | -   The Learner will be able to demonstrate working knowledge of different design considerations
 | | -   The Learner is able to design the solution including the orchestration between various components involved in provisioning
 | | -   The Learner is able to customize the design to include or exclude various components to meet the requirements
 | | -   The leaner is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options
-| **CITA -- Professional** | -   The professional will be able to understand various technology disruptions like auto-scaling, varied delivery models like developer defined infrastructure, etc. and propose approaches and solutions that can scale for enterprise consumption
+| **CITA -- Distinguished** | -   The professional will be able to understand various technology disruptions like auto-scaling, varied delivery models like developer defined infrastructure, etc. and propose approaches and solutions that can scale for enterprise consumption
 | | -   The Learner will have experience with delivering provisioning solutions leveraging complex environments, processes and can discuss working with engineering and operational teams
 
 # Resources

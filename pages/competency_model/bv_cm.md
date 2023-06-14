@@ -67,12 +67,12 @@ Financial Expression of Technology Decisions is a process and a set of procedure
 | | -   Learner will be able to compare CBA for multiple technology options at a project level
 | | -   Learner will be able to explain standard pricing strategies for software, hardware, services and infrastructure
 | | -   Learner will be able to explain solution CBA for a project
-| **CITA -- Specialist** | -   Learner will be able to create business case for a technology program with qualitative and quantitative assumptions
+| **CITA -- Professional** | -   Learner will be able to create business case for a technology program with qualitative and quantitative assumptions
 | | -   Learner will be able to breakdown technology costs into capital and operating expenses
 | | -   Learner will be able to model multiple scenarios for ROI by varying parameters that drive costs and benefits
 | | -   Learner will be able to interpret pricing strategies for software, hardware, services and infrastructure
 | | -   Learner will be able to defend business case for a program
-| **CITA -- Professional** | -   Learner will be able to lead business case for enterprise level solutions and complex multi-year, multi-generation technology roadmaps
+| **CITA -- Distinguished** | -   Learner will be able to lead business case for enterprise level solutions and complex multi-year, multi-generation technology roadmaps
 | | -   Learner will be able to decompose multi-year spend into cost allocation, cash flows and amortization/depreciation baselines
 | | -   Learner will be able to review and recommend pricing strategies for IP, software, hardware, services and infrastructure
 
@@ -86,10 +86,10 @@ Technology pricing is the value charged for procurement of third party or in-hou
 | **CITA -- Associate** | -   Learner will be able to explain standard pricing strategies for software, hardware, services and infrastructure.
 | | -   Learner will be able to identify and compare different pricing strategies.
 | | -   Learner will be able to identify solution attributes and business needs that influence pricing.
-| **CITA -- Specialist** | -   Learner will be able to interpret pricing strategies for software, hardware, services and infrastructure.
+| **CITA -- Professional** | -   Learner will be able to interpret pricing strategies for software, hardware, services and infrastructure.
 | | -   Learner will be able to identify optimal pricing strategies based on current and future business needs.
 | | -   Learner will be able to differentiate between pricing and valuation of IP.
-| **CITA -- Professional** | -   Learner will be able to develop, review and recommend pricing strategies for IP, software, hardware, services and infrastructure.
+| **CITA -- Distinguished** | -   Learner will be able to develop, review and recommend pricing strategies for IP, software, hardware, services and infrastructure.
 | | -   Learner will be able to develop and review valuation of technology pertaining to IP development and transfer or acquisition of IP.
 
 ## Financial Management for IT
@@ -105,10 +105,10 @@ Financial Management for IT is the overall management, control and stewardship o
 | | -   Learner will be able to prepare budgetary inputs for the life of a technology solution related to software, hardware, services and infrastructure
 | | -   Learner will be able to define standard metrics for attributes of technology solution that should be measured and monitored under SLA
 | | -   Learner will be able to estimate architect involvement in a technology initiative
-| **CITA -- Specialist** | -   Learner will be able to apply organization methodology for IT costing
+| **CITA -- Professional** | -   Learner will be able to apply organization methodology for IT costing
 | | -   Learner will be able to prepare budgetary inputs for the life of a technology program related to software, hardware, services and infrastructure
 | | -   Learner will be able to devise cost optimization opportunities in technology, asset, capacity and change management
-| **CITA -- Professional** | -   Learner will be able to design technology strategies aligned to organization maturity and financial model for IT
+| **CITA -- Distinguished** | -   Learner will be able to design technology strategies aligned to organization maturity and financial model for IT
 | | -   Learner will be able to design technology and architecture KPIs for financial management
 
 ## Benefits Management
@@ -121,11 +121,11 @@ Benefits Management is the process of monitoring for the emergence of anticipate
 | | -   Learner will be able to measure benefits related to cost savings
 | **CITA -- Associate** | -   Learner will be able to track direct business benefits arising from a technology solution
 | | -   Learner will be able to classify benefits and value additions
-| **CITA -- Specialist** | -   Learner will be able to identify business benefits that are aligned to the business KPIs
+| **CITA -- Professional** | -   Learner will be able to identify business benefits that are aligned to the business KPIs
 | | -   Learner will be able to track benefits and compare actual versus planned benefits
 | | -   Learner will be able to analyze deviations from projected benefits
 | | -   Learner will be able to explain co-relation between architecture and business benefits
-| **CITA -- Professional** | -   Learner will be able to track benefits against enterprise KPIs
+| **CITA -- Distinguished** | -   Learner will be able to track benefits against enterprise KPIs
 | | -   Learner will be able to compare benefits of a solution with respect to industry benchmarks
 | | -   Learner will be able to measure direct and indirect benefits
 | | -   Learner will be able to perform benefit classification
