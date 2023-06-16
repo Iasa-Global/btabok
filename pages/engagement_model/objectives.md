@@ -75,7 +75,7 @@ make a case for achieving the Objective.
 
 - Strategy: A plan to achieve an objective and the deliverables that describe a plan.
 
-- Strategic Objective: A goal or achievement which will impact a strategy directly.  The outcome of a strategic objective will be visible to the marketplace (in for profit companies) or critical owners ()
+- Strategic Objective: A goal or achievement which will impact a strategy directly.  The outcome of a strategic objective will be visible to the marketplace (in for profit companies) or critical owners.
 
 - Supporting Objective: A goal or achievement which will impact a parent’s objective.
 
