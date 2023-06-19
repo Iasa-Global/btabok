@@ -47,9 +47,9 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org.  Rotation, technical depth vs breadth, specialization
 
-## The New Product/Project Idea
+## The Architecture of a Product/Project
 
-Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTBoK to guide innovation, new projects, business ideas, and experimentation.  
+Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTBoK to guide innovation, new projects, business ideas, and experimentation. Solutions architecture specialization. 
 
 ## My Business Stakeholder Wants to Buy a Product
 
@@ -59,9 +59,11 @@ Nothing is more frustrating than being handed a new purchased product by a stake
 
 The age old question
 
-## Solution Decisions
+## Using the BTABoK in Different Contexts
 
-The decision
+Using the BTABoK in a Tier 1 Organization (safety and mission critical) versus using the BTABoK as a solutions architect on a single agile project can be vastly different. This article explores how to focus your efforts on the parts of the BTABoK that apply to your particular context. Understand how to identify your context and it's key factors as well as the concepts and competencies in the BTABoK that might change. 
+
+Often we find that it is the relative importance or emphasis on different activities and concepts that change in different contexts. For example, decisions will be made more up front in safety-critical systems than in smaller more agile projects. This article will explore these differences and how you can adopt the BTABoK in your environment. 
 
 ## Building a Practice
 
