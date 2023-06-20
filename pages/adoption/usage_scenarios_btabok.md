@@ -43,13 +43,53 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 - How do I update a legacy system?
 
+## [Adopting the Competency Model](../btabok_overview/adopting_the_competency_model.md)
+
+The competency model of the BTABoK is at the core of the practice. It is the most robust and well-documented competency model for architects on the market. In this article we are going to evaluate methods for adoption and their benefits to your organization.
+
+## Designing with the BTABoK - 7 part Series (Paul)
+
+Design methodologies for architecture are relatively difficult to find, especially those that relate to both technical and business outcomes. One of the goals of the BTABoK was to create a ‘method to the madness’ for current architects and architecturally significant decisions. Keep in mind, in this article, we are referring to the design of the combination of business and technology areas, so the design of a purely manual business process is not part of our consideration (see Iasa’s definition of architecture). We are going to discuss the following model for design relationships and a structured approach using the BTABoK structured canvas approach. Here is my current thinking on the order they will come in:
+
+1.     [Dissecting Design – And Introduction](../btabok_overview/design_overview_1.md)
+
+2.     [Options, Options, Options – So Many Choices](../btabok_overview/design_overview_2.md)
+
+3.     [Decision Making – Why Agile Architecture is so Hard](../btabok_overview/design_overview_3.md)
+
+4.     Views and *BEYOND* – Thinking, Facilitating, and Communicating
+
+5.     I Like Patterns – Patterns, Reference Models, and Conformance
+
+6.     Assessments, Tests, and Chasing Perfection – How Governance and Architecture are Different
+
 ## The Aspiring Architect
 
-As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org.  Rotation, technical depth vs breadth, specialization
+As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. Rotation, technical depth vs breadth, and specialization.
+
+## Legacy Systems Modernization
+
+The demands on business to meet customer needs are a key factor in maintaining competitiveness. A common challenge faced by business is the management, replacement, and decommissioning of legacy systems. What happens when your key IT systems just aren’t keeping up with the demands of the business? Perhaps the system no longer fits with the business process and is too expensive to change, or the maintenance costs are seriously cutting into your profit margin. Perhaps it is a change in the direction or strategy of the business which means that the IT landscape needs to change.
+
+In this series of short articles, we will look at how we can use the BTABoK to help manage legacy systems and legacy transformations. The articles cover the following topics:
+
+- [Legacy and Technical Debt](../btabok_overview/legacy_and_technical_debt.md)
+
+- Identification and Strategy
+
+- Planning the transformation
+
+- Culture and User Acceptance
+
+- Migration and Test
+
+- Decommissioning
+
+- Preventing Legacy
 
 ## The New Product/Project Idea
 
-Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTBoK to guide innovation, new projects, business ideas, and experimentation.  
+Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation.  
 
 ## My Business Stakeholder Wants to Buy a Product
 
@@ -57,19 +97,15 @@ Nothing is more frustrating than being handed a new purchased product by a stake
 
 ## Architects During Development
 
-The age old question
-
-## Solution Decisions
-
-The decision
+This article explores the relationship to architects, emergent design, and tasks associated with architecture in an extended team model. It looks at architecture competencies and their application to non-architect roles and how to utilize the BTABoK in those environments as well as the tradeoffs necessary to make that work. In addition, we will discuss a full architect position and how to execute successfully in multiple fast-paced teams. 
 
 ## Building a Practice
 
-This is a big topic
+In building a practice we will review the methods recommended by the BTABoK to starting and running an effective architecture practice, from small to extremely large. We will discuss and refine numerous BTABoK articles which relate to managing the architects, competencies, communities of practice and development of a set of maturity objectives. 
 
 ## The Architecture 'Review'
 
-Chris Cooper-Bland working on this
+Architecture review boards, governance, architecture analysis methods, quality assurance, mentoring. Reviews and evaluation of architecture decisions come in many sizes and colors. This article 
 
 ## BTABoK for Business Architects
 
@@ -84,7 +120,7 @@ There
 
 This is one
 
-## Consulting with the BTABoK
+## Architecture-Led Consulting with the BTABoK
 
 This is one
 
@@ -96,14 +132,8 @@ This is my
 
 This is my
 
-## Adopting the Competency Model
-
-This is my
-
 ## Managed Mentoring and Career Path
 
 The key to this is rotation, depth to breadth of knowledge, and competencies.
 
-## Designing with the BTABoK - 7 part Series  (Paul)
-
-Paul is working on a series 
+## 
