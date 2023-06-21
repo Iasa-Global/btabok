@@ -89,51 +89,98 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 
 ## The New Product/Project Idea
 
-Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation.  
+Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation. In addition, this article looks at the nature of new products and projects. When do these ideas occur? How are they submitted? How can architects be more involved? 
 
 ## My Business Stakeholder Wants to Buy a Product
 
-Nothing is more frustrating than being handed a new purchased product by a stakeholder and be told to make it work. This is a situation many architecture teams find themselves in everyday. This series will show you how to use the BTABoK to begin changing this into a positive scenario with few or no surprises. 
+Nothing is more frustrating than being handed a newly purchased product by a stakeholder and being told to make it work. This is a situation many architecture teams find themselves in every day. This series will show you how to use the BTABoK to begin changing this into a positive scenario with few or no surprises. 
 
 ## Architects During Development
 
 This article explores the relationship to architects, emergent design, and tasks associated with architecture in an extended team model. It looks at architecture competencies and their application to non-architect roles and how to utilize the BTABoK in those environments as well as the tradeoffs necessary to make that work. In addition, we will discuss a full architect position and how to execute successfully in multiple fast-paced teams. 
 
+## It Is All About Value
+
+This series explores the most important topic of architecture; the value of the practice. It describes how architects grow value, measure themselves and interact with the organization. 
+
+- An Overview of Value in Architecture
+
+- Soft Value vs Hard Numbers (Apples and Spaceships)
+
+- Quick Time to Value and Minimum Valuable Products
+
+- How Do We Value Architects
+
+- OKRs, KPIs, Measurements and Other Hairy Topics
+
+- The Rapid Value Achievement Method
+
 ## Building a Practice
 
-In building a practice we will review the methods recommended by the BTABoK to starting and running an effective architecture practice, from small to extremely large. We will discuss and refine numerous BTABoK articles which relate to managing the architects, competencies, communities of practice and development of a set of maturity objectives. 
+In building a practice we will review the methods recommended by the BTABoK to start and run an effective architecture practice, from small to extremely large. We will discuss and refine numerous BTABoK articles which relate to managing the architects, competencies, communities of practice, and development of a set of maturity objectives. 
 
 ## The Architecture 'Review'
 
-Architecture review boards, governance, architecture analysis methods, quality assurance, mentoring. Reviews and evaluation of architecture decisions come in many sizes and colors. This article 
+Architecture review boards, governance, architecture analysis methods, quality assurance, and mentoring. Reviews and evaluations of architecture decisions come in many sizes and colors. This article expands on the notion of reviews and governance boards and puts them in perspective of lifecycles, safety and liability, and deliverables needed to ensure they are handled with the appropriate amount of care. 
+
+- Running effective Governance Review Boards
+
+- What is the Architecture Mentoring Board
 
 ## BTABoK for Business Architects
 
-There
-Scott Whitmire has this
+This article series will describe using the BTABoK for business architects and architectures. The goal of the series is to describe not only the tools but the relationship between business architects and the architecture practice. I
+
+- The BTABoK and Business Architects 
+
+- Business Architect Competencies and Role
+
+- Artifacts, Deliverables, and Utilization
+
+- Business to Solution in Value Streams
+
+- Maturity Methods for Architecture Practices
 
 ## BTABoK for Enterprise Architects
 
-There
+There is more debate about enterprise architecture than any other activity in the profession. And all that rhetoric and debate serves to slow down our adoption and value accrual. Here is how to get this properly aligned with BTABoK principles and guidelines and make the practice significantly more valuable. 
 
 ## Understanding Stakeholders
 
-This is one
+The BTABoK describes a set of tools to manage, lead and interact with stakeholders. This article shows off the Stakeholder Driven Approach which uses these tools to create a solid understanding of even the largest and most complex stakeholder communities. 
+
+## Understanding Our Customer and Our Client
+
+In this article we will review the client and customer language prevalent in the market and propose a functional structure for using the BTABoK to derive value for both. This also applies to making consulting and products more successful within the enterprise and combining efforts of the architecture practice to get truly customer driven. A portion of the article deals with non-profits, governments, and other mission-based organizations. 
 
 ## Architecture-Led Consulting with the BTABoK
 
-This is one
+This article series describes how consulting organizations can use the BTABoK to significantly increase the effectiveness of accounts by using stable and effective techniques from the BTABoK. Also, it digs into the relationship of value flow inside the consulting and product company to better align client-trusted advisors with architecture teams and practices. 
 
 ## What's With All the Canvases
 
-This is my 
+This series of articles describes the Structured Canvas Approach and how to use it. It lays out basic artifact relationships to the scenarios in this document and describes other aspects like relationships to architecture tools, storage of models/canvases, and implementation patterns in lifecycles and deliverables. 
 
-## Understanding Our Customer
+- An Overview of the Structured Canvas/Concept Approach
 
-This is my
+- Understanding Sub-Groupings of Canvases
+
+- Core Canvases Maybe All You Need
+
+- From Canvas to Tools and Back (Why We Need Better Tools)
+
+- Usage in the Real World
 
 ## Managed Mentoring and Career Path
 
-The key to this is rotation, depth to breadth of knowledge, and competencies.
+This article series will focus on the career path of architects from basic skills to distinguished board certifications. It lays out the necessary elements of building an internal career path and how that will impact the organization. 
+
+- A Mentoring Program How To
+
+- Career Path vs Internal Job Growth for Architects
+
+- How to Deal with Specializations
+
+- Hiring, Job Descriptions and HR
 
 ## 
