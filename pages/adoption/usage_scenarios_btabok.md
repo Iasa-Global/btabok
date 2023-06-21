@@ -87,9 +87,9 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 
 - Preventing Legacy
 
-## The Architecture of a Product/Project
+## The New Product/Project Idea
 
-Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation. Solutions architecture specialization. 
+Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation.  
 
 ## My Business Stakeholder Wants to Buy a Product
 
