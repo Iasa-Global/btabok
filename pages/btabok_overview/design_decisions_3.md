@@ -1,3 +1,16 @@
+---
+title: "Design Decisions"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: design_decisions_3.html
+folder: btabok_overview
+summary: "Tools for adopting the btabok in everyday practice."
+tags: 
+  - digital_business
+  - engagement_model
+---
+
 # Decision Rights Rule the World - Design Part 3
 
 Welcome to part 3 of my design with the BTABoK Series. If you are unaware, the authors and contributors are writing a set of scenarios like this series to discuss using the BTABoK toolset in practical ways. 

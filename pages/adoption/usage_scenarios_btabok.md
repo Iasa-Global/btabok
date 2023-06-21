@@ -145,13 +145,45 @@ This article series will describe using the BTABoK for business architects and a
 
 There is more debate about enterprise architecture than any other activity in the profession. And all that rhetoric and debate serves to slow down our adoption and value accrual. Here is how to get this properly aligned with BTABoK principles and guidelines and make the practice significantly more valuable. 
 
+## Software Architecture with the BTABoK
+
+The BTABoK was designed as a foundation for an architect and an architecture practice, as such it deals with levels of scope and activity that go beyond the day-to-day work of a software architect. However the tools of the BTABoK make the practice of software architecture much simpler, by bringing together common events, moments, meetings, and activities into a suite of tools that aid in the design and delivery of software-intensive systems. This series will look into those activities in depth to show how to use it to take your work to the next level. 
+
+- Designing Software Overview
+
+- Traceability in Software
+
+- UX, Services, and Storage
+
+- Integration 
+
+- Agile and DevOps
+
+- Patterns, Styles and Quality Attributes
+
+- Business, Investment and Maintenance
+
+- Stakeholders and Users
+
+## Infrastructure and Cloud Architecture
+
+Infrastructure architecture often sits behind the other architecture practices or is seen as an enabler to them. This confuses the overall lifecyle of the practice as a whole and can often cause infrastructure to function as an enabler instead of the business driver that it can be. This series of articles explores the relationship and tools in the BTABoK for making infrastructure a critical part of the innovation lifecycle. 
+
+- Storage, Network, and Compute - Laying the Foundations of Innovation
+
+- Operations and the Stack 
+
+- Working with Solutions and Business
+
+- Quality Attributes
+
 ## Understanding Stakeholders
 
 The BTABoK describes a set of tools to manage, lead and interact with stakeholders. This article shows off the Stakeholder Driven Approach which uses these tools to create a solid understanding of even the largest and most complex stakeholder communities. 
 
 ## Understanding Our Customer and Our Client
 
-In this article we will review the client and customer language prevalent in the market and propose a functional structure for using the BTABoK to derive value for both. This also applies to making consulting and products more successful within the enterprise and combining efforts of the architecture practice to get truly customer driven. A portion of the article deals with non-profits, governments, and other mission-based organizations. 
+In this article, we will review the client and customer language prevalent in the market and propose a functional structure for using the BTABoK to derive value for both. This also applies to making consulting and products more successful within the enterprise and combining efforts of the architecture practice to get truly customer driven. A portion of the article deals with non-profits, governments, and other mission-based organizations. 
 
 ## Architecture-Led Consulting with the BTABoK
 

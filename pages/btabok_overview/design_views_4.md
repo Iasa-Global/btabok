@@ -1,3 +1,16 @@
+---
+title: "Design Requirements and Views"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: design_views_4.html
+folder: btabok_overview
+summary: "Tools for adopting the btabok in everyday practice."
+tags: 
+  - digital_business
+  - engagement_model
+---
+
 # Architecturally Significant Requirements - Design Part 4
 
 Welcome to part 3 of my design with the BTABoK Series. If you are unaware, the authors and contributors are writing a set of scenarios like this series to discuss using the BTABoK toolset in practical ways. 

@@ -1,3 +1,16 @@
+---
+title: "Dissecting Design"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: design_options_2.html
+folder: btabok_overview
+summary: "Tools for adopting the btabok in everyday practice."
+tags: 
+  - digital_business
+  - engagement_model
+---
+
 # Options, Options, Options! Design Part 2
 
 What do we do with so many choices?

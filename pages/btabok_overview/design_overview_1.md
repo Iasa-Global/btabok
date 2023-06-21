@@ -1,3 +1,16 @@
+---
+title: "Dissecting Design"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: design_overview_1.html
+folder: btabok_overview
+summary: "Tools for adopting the btabok in everyday practice."
+tags: 
+  - digital_business
+  - engagement_model
+---
+
 # Dissecting Design - Introduction
 
 So this was my first time using an AI generated image for a blog... have to admit I'm not super impressed. The first one it generated was somewhat spooky and distopian... off of the this text: "design tools and computers and diagrams creative work people who do the work cartoon lines diagram happy people process and technology"
