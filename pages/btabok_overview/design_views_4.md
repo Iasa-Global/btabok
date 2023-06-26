@@ -7,9 +7,10 @@ permalink: design_views_4.html
 folder: btabok_overview
 summary: "Tools for adopting the btabok in everyday practice."
 tags: 
-  - digital_business
-  - engagement_model
----
+
+- digital_business
+- engagement_model
+  ---
 
 # Architecturally Significant Requirements - Design Part 4
 

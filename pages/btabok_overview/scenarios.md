@@ -10,5 +10,5 @@ folder: tags
 ![BTS](media/bts_001.png)
 
 {% include taglogic.html %}
- 
+
 {% include links.html %}

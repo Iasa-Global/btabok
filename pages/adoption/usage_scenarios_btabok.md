@@ -47,7 +47,9 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 The competency model of the BTABoK is at the core of the practice. It is the most robust and well-documented competency model for architects on the market. In this article we are going to evaluate methods for adoption and their benefits to your organization.
 
-## Designing with the BTABoK - 7 part Series (Paul)
+## How Much Architecture and When
+
+## Designing with the BTABoK - 7 part Series
 
 Design methodologies for architecture are relatively difficult to find, especially those that relate to both technical and business outcomes. One of the goals of the BTABoK was to create a ‘method to the madness’ for current architects and architecturally significant decisions. Keep in mind, in this article, we are referring to the design of the combination of business and technology areas, so the design of a purely manual business process is not part of our consideration (see Iasa’s definition of architecture). We are going to discuss the following model for design relationships and a structured approach using the BTABoK structured canvas approach. Here is my current thinking on the order they will come in:
 
@@ -95,9 +97,11 @@ Much of architecture centers around innovation and ways of handling new ideas. T
 
 Nothing is more frustrating than being handed a newly purchased product by a stakeholder and being told to make it work. This is a situation many architecture teams find themselves in every day. This series will show you how to use the BTABoK to begin changing this into a positive scenario with few or no surprises. 
 
-## Architects During Development
+## Architects During Development (Software Solution Architecture)
 
 This article explores the relationship to architects, emergent design, and tasks associated with architecture in an extended team model. It looks at architecture competencies and their application to non-architect roles and how to utilize the BTABoK in those environments as well as the tradeoffs necessary to make that work. In addition, we will discuss a full architect position and how to execute successfully in multiple fast-paced teams. 
+
+- [How Much Architecture and When?](../btabok_overview/how_much_architecture_and_when.md) 
 
 ## It Is All About Value
 
