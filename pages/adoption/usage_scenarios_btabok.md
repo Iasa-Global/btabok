@@ -53,9 +53,9 @@ Design methodologies for architecture are relatively difficult to find, especial
 
 1.     [Dissecting Design – And Introduction](../btabok_overview/design_overview_1.md)
 
-2.     [Options, Options, Options – So Many Choices](../btabok_overview/design_overview_2.md)
+2.     [Options, Options, Options – So Many Choices](../btabok_overview/design_options_2.md)
 
-3.     [Decision Making – Why Agile Architecture is so Hard](../btabok_overview/design_overview_3.md)
+3.     [Decision Making – Why Agile Architecture is so Hard](../btabok_overview/design_decisions_3.md)
 
 4.     Views and *BEYOND* – Thinking, Facilitating, and Communicating
 
