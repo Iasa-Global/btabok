@@ -345,7 +345,9 @@ features for a single release.
 The following Release Roadmap Canvas can be used to support the workshop. As with the other workshops the canvas can be pinned to the
 wall and sticky notes used to visualize information on the canvas.
 
-![image001](media/roadmaps_canvas8.png)
+[![image001](media/roadmaps_canvas8.png)](https://iasa-global.github.io/btabok/release_roadmap_canvas.html){:target="_blank"}
+
+
 
 The following process may be used to formulate a release.
 
