@@ -9,9 +9,13 @@ summary: "Product Roadmap Canvas"
 tags: 
   - business
   - chief
+  - core
 ---
+The product roadmap canvas is used most commonly by solution architects to describe a solution roadmap in either an agile or waterfall solution. The canvas provides areas for events, business visible elements, technology elements and learning for the product. 
 
-![image001](media/product_roadmap_canvas001.svg)
+[Read the full article.](../engagement_model/roadmap.md)
+
+![image001](media/product_roadmap_canvas.svg)
 
 [Download PPT](media/ppt/product_roadmap_canvas.ppt){:target="_blank"}
 
