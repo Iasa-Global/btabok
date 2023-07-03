@@ -12,7 +12,7 @@ tags:
 ---
 
 > "A plan for how to achieve something"
-**Cambridge Dictionary**
+> **Cambridge Dictionary**
 
 # What is a Roadmap
 
@@ -123,7 +123,7 @@ driven by the Strategy and Assignment in the engagement model, these provide the
 In order to organize strategic roadmaps, we can refer to a change as a Transition.
 
 > "A change from one form to another, or the process by which thishappens"
-**Transition, Cambridge Dictionary**
+> **Transition, Cambridge Dictionary**
 
 A single Transition states clearly the goal or objective
 to be satisfied as well as a broad description of the required change.
@@ -269,6 +269,10 @@ Each release has a clear scope, stakeholders, goals and objectives. If
 the release is part of a Transition these may already be defined in the
 Transition Roadmap Canvas.
 
+The Product Roadmap Canvas helps to organize the product releases into layers of organized components. The layers are events, which represent outcomes in the product, business visible components such as features and the underlying enabling technology. For example, we might have Oauth available after two weeks (technology), then build a login screen (business) and then show an event of login available as an event. 
+
+[![image001](../structured_canvases/media/product_roadmap_canvas.svg)](https://iasa-global.github.io/btabok/product_roadmap_canvas.html){:target="_blank"}
+
 *"A product release is the process of launching a new product for a
 specific market or user base. In software development, a product release
 is sometimes done with a beta version so that core developers/users can
@@ -346,8 +350,6 @@ The following Release Roadmap Canvas can be used to support the workshop. As wit
 wall and sticky notes used to visualize information on the canvas.
 
 [![image001](media/roadmaps_canvas8.png)](https://iasa-global.github.io/btabok/release_roadmap_canvas.html){:target="_blank"}
-
-
 
 The following process may be used to formulate a release.
 
