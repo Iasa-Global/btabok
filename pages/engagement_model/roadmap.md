@@ -170,6 +170,8 @@ a large number of stakeholders with opinions regarding the strategy and
 direction, and while there are many ways in which to construct a
 roadmap, the following method may provide support.
 
+[![image001](../structured_canvases/media/strategic_roadmap_canvas.svg)](https://iasa-global.github.io/btabok/strategic_roadmpap_canvas.html)
+
 **Step 1: Strategic workshop**
 
 A workshop is held for the key stakeholders who have broad knowledge of
@@ -180,12 +182,12 @@ communication and reaching decisions, this reduces the likelihood of the
 workshop succeeding. A recommendation is to set a timeline of no more
 than 3 years for the roadmap.
 
-The following Strategic Roadmap Canvas can be used to support the
+The following Strategic Roadmap Card can be used to support the
 workshop. A simple method which can be used is to pin the canvas to the
 wall and throughout the workshop stakeholders can use sticky notes to
 add information to the canvas.
 
-![image001](media/roadmaps_canvas4.png)
+[![image001](../structured_canvases/media/strategic_roadmap_card.svg)](https://iasa-global.github.io/btabok/strategic_roadmpap_card.html)
 
 The following describes a process which may be used to formulate the transitions in a roadmap.
 
