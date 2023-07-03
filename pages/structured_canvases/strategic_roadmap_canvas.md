@@ -11,7 +11,21 @@ tags:
   - chief
 ---
 
-The strategic roadmap canvas provides a description of a portfolio or top level strategic view of a set of initiatives, produce/projects or activities. It can be combined.with strategy scorecards and other Strategy tools to define a direction and set of objectives.
+
+
+## Strategic Roadmap Canvas (Visual)
+
+The strategic roadmap canvas is a tool to bring together the architects view on multiple streams of work. This can be likened to the portfolio or program level in traditional project management but serves a different function for architects. The goal of this canvas is to bring together the strategic nature of the projects/products being delivered and how they depend on each other. 
+
+![]()
+
+
+
+Download the PPT, Download the Strategic Initiatives XLS
+
+## Strategic Roadmap Card (Descriptive)
+
+The strategic roadmap card provides a description of a portfolio or top level strategic view of a set of initiatives, produce/projects or activities. It can be combined.with strategy scorecards and other Strategy tools to define a direction and set of objectives.
 
 The vision is often expressed as a short textual statement, providing a description of what is to be achieved and why.
 
