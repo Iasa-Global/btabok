@@ -170,11 +170,53 @@ a large number of stakeholders with opinions regarding the strategy and
 direction, and while there are many ways in which to construct a
 roadmap, the following method may provide support.
 
-[![image001](../structured_canvases/media/strategic_roadmap_canvas.svg)](https://iasa-global.github.io/btabok/strategic_roadmpap_canvas.html)
+## Building a Strategic Roadmap
 
-**Step 1: Strategic workshop**
+The initiatives ongoing and upcoming are often displayed on a strategic roadmap. The primary information necessary to create one is based on the business case of the initiative (see investment planning) but also is included in the product roadmaps below. The goal of this is to align architects on the working direction of initiatives in terms of their importance and dependencies. The initial strategic roadmap often looks like a set of initiatives ([products/projects](product_project.md)) that are lined up on a timeline. 
 
-A workshop is held for the key stakeholders who have broad knowledge of
+There are two possible approaches to creating strategic roadmaps. In the first, a team of architects uses initiatives either in flight or coming up in the future and structures them according to strategic importance and dependencies, then breaks them down further into product roadmaps. In the other, a broader set of stakeholders is put together to structure objectives and goals into a set of transitions. 
+
+### Workshop 1: Initiatives Strategy and Dependencies
+
+This workshop is one of the first that architects use to better understand the relationship between technology work on-going, business drivers, and dependencies between initiatives. The strategic roadmap canvas can be used to create these interdependencies. 
+
+[![image001](../structured_canvases/media/strategic_roadmap_canvas.svg)](https://iasa-global.github.io/btabok/strategic_roadmap_canvas.html)
+
+#### Step 1: Preparing the Workshop
+
+To run the strategic roadmap canvas workshop, first, bring all architects (or those involved in this area of business) together. Make sure it includes business, enterprise, solution, and any other types of architects interested but especially business and solution. 
+
+Materials Needed for the Workshop:
+
+- Business Cases for Initiatives: The best case would be to have lean business cases for each initiative to be considered. These should be no more than one page if possible. Use the [NABC method](../structured_canvases/business_case_nabc_card.md) from the BTABoK or Lean Business Case from agile frameworks if possible. 
+
+- Strategic Roadmap Canvas: Have the business cases added to a version of the canvas or use a Sroad mapping tool. 
+
+- Sticky Notes and Voting Cards: Using voting dots or sticky notes can radically simplify the process and help time-box the activity. 
+
+Make sure each architect has had a chance to read and review the business cases privately before entering or starting step two. This way all architects are aware of the activities and initiatives coming up. 
+
+#### Step 2: Rating and Prioritizing
+
+In this portion of the workshop the initiatives are ranked according to a) their stated value and b) their perceived architectural complexity. While doing this describe any potential governance issues (such as external audits) or risks the initiative might face. 
+
+> Architectural Complexity Note:
+> 
+> It is easiest to use a number from 1 - 10 with 10 being the most complex initiative the organization could EVER do. A retail company will have a much different level of complexity for things than a nuclear power facility. So this process will get architects used to rating systems and a shared basis for evaluations. If necessary use the checklist items from the Architecturally Significant Requirements card as the categories of complexity then map to a 1-10 figure, but often just letting people free-style creates wonderful conversation. 
+
+Every architect in the workshop should have an equal opinion about the rankings and value of the project, no matter their specialization or seniority. This equality makes architect's opinions matter and empowers people to disagree. The debates should be handled with differing opinions given a timeframe to voice their reasoning and then a shared number declared. It is important not to devolve into getting the same perfect number or solution from everyone but use an averaging system to move the workshop along. 
+
+#### Step 3: Finding Dependencies, Recommending Splinter Initiatives
+
+In the final step of the workshop the architects work together to line up the initiatives on the timeline based on importance and target release dates. From this they should look for shared dependencies and shared capabilities, goals, or enabling technical services. For example, most solutions have an authentication and authorization requirement. This can be identified as a shared dependency and then implemented in the first initiative with the other depending on it. Optionally larger dependencies can be rolled out into a separate initiative or group effort so that the architects are depending on an enablement sprint or activity equally. 
+
+### Workshop 2: Strategic Goals and Objectives Workshop
+
+The second workshop is more of a business exploration workshop and is very valuable in describing how [capabilities ](business_capabilities.md)should be changed and managed. This workshop helps to define the relationship between transitions, the changes needed, and the goals of the transitions. 
+
+**Step 1**
+
+A workshop is held for the key stakeholders who have a broad knowledge of
 the business which is affected by the change to the enterprise. The
 workshop can be held for a maximum of a single day with 4-9
 stakeholders. Larger groups of stakeholders will mean more effort in
@@ -183,31 +225,31 @@ workshop succeeding. A recommendation is to set a timeline of no more
 than 3 years for the roadmap.
 
 The following Strategic Roadmap Card can be used to support the
-workshop. A simple method which can be used is to pin the canvas to the
-wall and throughout the workshop stakeholders can use sticky notes to
+workshop. A simple method that can be used is to pin the canvas to the
+wall and throughout the workshop, stakeholders can use sticky notes to
 add information to the canvas.
 
 [![image001](../structured_canvases/media/strategic_roadmap_card.svg)](https://iasa-global.github.io/btabok/strategic_roadmpap_card.html)
 
-The following describes a process which may be used to formulate the transitions in a roadmap.
+The following describes a process that may be used to formulate the transitions in a roadmap.
 
-1. Formulate the Scope and Vision\
+1. Formulate the Scope and Vision
    The stakeholders who are responsible for the initiative should
    describe the scope and vision. Other stakeholders at the workshop
    have the opportunity to comment and suggest changes. The scope and
-   vision are formulated in a way which all stakeholders agree on.
+   vision are formulated in a way that all stakeholders agree on.
 
-2. Define the Goals, Objectives and Deadlines\
+2. Define the Goals, Objectives, and Deadlines
    The stakeholders define important goals and objectives which shall
    be met by the initiative. These goals and objectives shall adhere to
    the scope and vision and are given expected delivery dates or
    deadlines.
 
-3. Define the transitions\
+3. Define the transitions
    The stakeholders start to define the major changes which are needed
-   to transform the business to a state which will meet the vision.
+   to transform the business into a state which will meet the vision.
    Each transition should contribute partly or completely to the
-   achievement of the define goals and objectives. As the transitions
+   achievement of the defined goals and objectives. As the transitions
    are defined stakeholders can also note key dependencies for the
    transitions and any risks that are identified.
 
