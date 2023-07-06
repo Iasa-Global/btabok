@@ -18,13 +18,11 @@ Figure 1 Roles Involved In Extended Teams
 
 # Why It Matters
 
-
 For an organization to successfully mature it's architecture capability, the concepts and value of the architecture practice must be stabilized and well understood. While an extended team model allows for better coverage of the enterprise, decentralized decision making, just in time architecture, self-directing teams, and partner role empowerment, with too small or too unknown an architecture team it devolves quickly into confusion and political infighting. Is the architecture decided by the agile team? By the infrastructure team? By the business? In addition there is no replacing the skills of an experienced architect to handle value management, investment prioritization and strategy in both the planning and the execution sections of the [lifecycle](architecture_lifecycle.md){:target="_blank"}.
 
 # Themes and Challenges
 
 Extended team's arise in many organizations up from the lack of enough architects to cover a full project and capability portfolio. Many if not most organizations use the extended team model, especially early in the [architecture maturity model](../top_menu/maturity_model_m.md){:target="_blank"}. In these organizations for example the development leads and agile teams often decide on which technology to invest in for the project. This creates locally optimized output which often overlaps or even duplicates other investments in the organization sometimes resulting massive duplication of effort, overly complicated systems, and poor investment decisions. In addition, most development teams lack the business skills to accurately calculate what is or isn't best for the organization. Other extended team roles face similar challenges. The PMO will often prioritize business projects according to business objectives decided by individuals with little technology depth leaving many essential components out of the [roadmap](roadmap.md){:target="_blank"}. Thus, using the extended team model often requires significantly higher maturity to be successful.
-
 
 ![image001](media/e_t002.png)
 
@@ -70,32 +68,38 @@ Architects in extended team models find themselves saying no to their organizati
 
 [Agile](agility.md){:target="_blank"} and architecture are more than naturally compatible once certain criteria are met. Agile patterns provide for quick time to market, self-empowered teams, decisions at the edges and many more benefits. However, without the architect as a part of the team they can lead to siloed delivery, sub-optimized value creation, feature focus, and duplication in the extreme. The criteria which must be met for a valuable agile architecture practice:
 
-1.  All teams understand the value of architecture in delivery
-2.  Architects are deeply connected to delivery
-3.  Agile leaders are trained in critical architecture skills
-4.  Product/project assignment of architects is clear
-5.  Strong mentoring/partnering models exist between agile leaders and architects
-6.  Architecture responsibility and investment is established in the engagmenet model
-7.  Engagement model has reached a minimum of level 2
+1. All teams understand the value of architecture in delivery
+2. Architects are deeply connected to delivery
+3. Agile leaders are trained in critical architecture skills
+4. Product/project assignment of architects is clear
+5. Strong mentoring/partnering models exist between agile leaders and architects
+6. Architecture responsibility and investment is established in the engagmenet model
+7. Engagement model has reached a minimum of level 2
 
 Following the principle of Up and Out Instead of Down and In, the solution architecture practice specifically should be directly involved in as much delivery as possible as decided by the engagement model team relating to portfolio. Architecture is NOT Above Other Roles, describes the principle that architects have a different function and purpose than other roles in strategy and delivery. Therefore in extended team engagement models the architecture responsibility must be fully covered by other roles with enough skill to fulfill the function.
+
+### Using the Agile Team Designer
+
+To develop an extended team model, the roles which will take on architect competencies should be clearly defined and the competencies they are expected to acquire should be added to their job descriptions. Using the agile team designer, each role can be placed inside the solution architect field and their competencies assigned. This will give the team explicit awareness of the architect competencies they need to develop. 
+
+![](../structured_canvases/mmedia/agile_team_designer.svg)
 
 ## Steps to Running an ET Engagement Model
 
 To be successful your organization should follow these steps
 
-1.  Define the extended [roles](roles.md){:target="_blank"} explicitly
-2.  Define role in the SALC (Arch Life Cycle) explicitly
-3.  Educate and mentor and extended team on critical skills
-4.  Constantly include and build relationships extended team
-5.  Communicate successes of the extended team
-6.  Provide long-term opportunities for ET members to become architects
+1. Define the extended [roles](roles.md){:target="_blank"} explicitly
+2. Define role in the SALC (Arch Life Cycle) explicitly
+3. Educate and mentor and extended team on critical skills
+4. Constantly include and build relationships extended team
+5. Communicate successes of the extended team
+6. Provide long-term opportunities for ET members to become architects
 
 ## Role Interactions
 
-| **Role** | **Interaction Points** | **ET Skill Focus** |
-| --- | --- | --- |
-| **Development** | Structural Impact and Analysis, Business Model Impact, Investment Planning, Roadmap,
+| **Role**        | **Interaction Points**                                                               | **ET Skill Focus** |
+| --------------- | ------------------------------------------------------------------------------------ | ------------------ |
+| **Development** | Structural Impact and Analysis, Business Model Impact, Investment Planning, Roadmap, |                    |
 
 Innovation, Disruption, Design Tradeoff, Traceability, ASR
 

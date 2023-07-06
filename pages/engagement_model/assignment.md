@@ -11,7 +11,7 @@ tags:
 ---
 
 > "I do not want to waste any time. And if you are not working on important things, you are wasting time."
-**Dean Kamen**
+> **Dean Kamen**
 
 # Architecture Portfolio and Assignment
 
@@ -19,10 +19,10 @@ The portfolio of work at an organization is the amount of people, process, or te
 
 Architecture assignment is the process, methods and goals which describe the way a team of architects engages in work with a customer or organization. It requires more than just assigning an architect on a project or product. It also specifies:
 
-1.  How architects choose work within the portfolio (or continuous delivery cycle).
-2.  How architects work together to grow in experience, mentor, and ensure success.
-3.  How the team prioritizes work with a client or project management office or [agile](agility.md){:target="_blank"} releases.  
-4.  How the team delivers the roadmap.
+1. How architects choose work within the portfolio (or continuous delivery cycle).
+2. How architects work together to grow in experience, mentor, and ensure success.
+3. How the team prioritizes work with a client or project management office or [agile](agility.md){:target="_blank"} releases.  
+4. How the team delivers the roadmap.
 
 ## Assignment Methodology
 
@@ -34,51 +34,51 @@ Immature organizations and small companies often use stakeholder managed project
 
 ## PMO Methods
 
-Project management methods are the standard for work prioritization in medium to large organizations and include the use of a project management office (PMO) to coordinate and discuss all investment options through a portfolio-program-project-maintenance hierarchy which is controlled by one or more investment committees of powerful stakeholders and/or budgetary comparisons using value tools such as ROI and TCO. These companies have organized around doing large expensive things relatively safely and well but tend to stifle innovation and disruption. The architecture team should first achieve excellence in participating fully in the the a) origination of architectural priorities and new business initiatives using stakeholder management techniques and business case orgination and measurement, and b) drive towards more quick release innovation management techniques for business initiatives paving the way for a agile business methods. This follows the principle of Innovation over Governance.
+Project management methods are the standard for work prioritization in medium to large organizations and include the use of a project management office (PMO) to coordinate and discuss all investment options through a portfolio-program-project-maintenance hierarchy which is controlled by one or more investment committees of powerful stakeholders and/or budgetary comparisons using value tools such as ROI and TCO. These companies have organized around doing large expensive things relatively safely and well but tend to stifle innovation and disruption. The architecture team should first achieve excellence in participating fully in a) origination of architectural priorities and new business initiatives using stakeholder management techniques and business case origination and measurement, and b) drive towards more quick-release innovation management techniques for business initiatives paving the way for agile business methods. This follows the principle of Innovation over Governance.
 
 ## Agile Methods
 
-Agile methods are the use of change techniques which need to be fast and innovation and disruption aware. Agile businesses are those that adapt quickly, embrace change and welcome disruption. Scaled agile businesses drive not only technology change in this way but full organization, product and service change in these ways while respecting and allowing for appropriate hiarchical and slower more traditional production and operational methods to control where necessary. Architects should focus on coverage between innovation and structural safety and engineering and will need a high level of maturity and business penetration to succeed.
+Agile methods are the use of change techniques that need to be fast and innovation and disruption aware. Agile businesses are those that adapt quickly, embrace change, and welcome disruption. Scaled agile businesses drive not only technology change in this way but full organization, product, and service change in these ways while respecting and allowing for appropriate hierarchical and slower more traditional production and operational methods to control where necessary. Architects should focus on coverage between innovation and structural safety and engineering and will need a high level of maturity and business penetration to succeed.
 
 ## Understanding Work Priority
 
-Within any method of change priorities must be established to allow the architecture team to assign the most appropriate architect(s).
+Within any method of change, priorities must be established to allow the architecture team to assign the most appropriate architect(s).
 
 ## Understanding Scope and Coverage in Architecture Assignment
 
 ![image001](media/assignment001.png)
 
-Scope and coverage are both important when assigning architects and are somewhat complex. We have derived a simple method for outlining scope of impact of the team while creating the teams goals.
+Scope and coverage are both important when assigning architects and are somewhat complex. We have derived a simple method for outlining the scope of impact of the team while creating the team's goals.
 
-The difficulties in architecture often arise out of too few people trying to cover too much of the enterprise strategy. This leads to engagement anti-patterns like the ivory tower or rubber stamp effect. Enterprise architecture only teams often face this challenge as they try to stay proactive with the fraction of the resources needed.
+The difficulties in architecture often arise out of too few people trying to cover too much of the enterprise strategy. This leads to engagement in anti-patterns like the ivory tower or rubber stamp effect. Enterprise architecture-only teams often face this challenge as they try to stay proactive with a fraction of the resources needed.
 
-To create an assignment methodology that works the team must divide the amount of work into portions in which they can stay proactively involved in delivery and they must cover the most important work first.
+To create an assignment methodology that works the team must divide the amount of work into portions in which they can stay proactively involved in the delivery and they must cover the most important work first.
 
 Architects are first responsible for strategic change management. Working together as a team fill out the work priority cards for the planned work prior to selection from business investment.
 
 The recommended approach to architecture assignment is:
 
-1.  Start with project/product level work. Using the impact/effort card assign architecture resources based on solution delivery and show success and value there. As solution successes mount the team will generate a large amount credibility and demand for its services. This can lead to team expansion but do not expand coverage too far too quickly (use recommended guidance for engagement model expansion from the engagement model guidelines).
-2.  Expand work towards business architecture being sure that there is no lost work in solution delivery and that the team has begun building a working and flexible repository and a formal engagement model. Business architects (see below) will be optimally assigned at the value stream, capability, and vertical levels depending on the nature of the organization. Ensure that business architects and solution architects retain tight coupling in their roles and outcomes so that they do not branch too far. This will continue to build value stream based momentum and credibility within the enterprise.
-3.  As the value stream delivery begins to become stable and more mature, the team will add specialists to help cover technical services/capability areas such as security, integration, information, and other topic areas. At this point the team should have achieved a level of maturity which is repeatable across value streams and projects/products. During each of these expansions the team should be growing its extended team integration as well as sophistication in competency areas and is ready to grow an enterprise architecture practice which drastically scales out the coverage and scope of the team.
-4.  Enterprise architecture gives full coverage across value streams and technical services but retains its proactive assignment method. This means that enterprise architecture should still be actively engaged in delivery of value in addition to outcomes they must achieve within their coverage area in improvements to the overall value created in technology strategy.
+1. Start with project/product level work. Using the impact/effort card assign architecture resources based on solution delivery and show success and value there. As solution successes mount the team will generate a large amount of credibility and demand for its services. This can lead to team expansion but do not expand coverage too far too quickly (use recommended guidance for engagement model expansion from the engagement model guidelines).
+2. Expand work towards business architecture being sure that there is no lost work in solution delivery and that the team has begun building a working and flexible repository and a formal engagement model. Business architects (see below) will be optimally assigned at the value stream, capability, and vertical levels depending on the nature of the organization. Ensure that business architects and solution architects retain tight coupling in their roles and outcomes so that they do not branch too far. This will continue to build value stream-based momentum and credibility within the enterprise.
+3. As the value stream delivery begins to become stable and more mature, the team will add specialists to help cover technical services/capability areas such as security, integration, information, and other topic areas. At this point, the team should have achieved a level of maturity that is repeatable across value streams and projects/products. During each of these expansions, the team should be growing its extended team integration as well as sophistication in competency areas and is ready to grow an enterprise architecture practice that drastically scales out the coverage and scope of the team.
+4. Enterprise architecture gives full coverage across value streams and technical services but retains its proactive assignment method. This means that enterprise architecture should still be actively engaged in the delivery of value in addition to outcomes they must achieve within their coverage area in improvements to the overall value created in technology strategy.
 
 ## Architectural Priorities and Impact Estimation
 
 The most motivating work for an architecture team is the change the business or grow the business type. To understand and assign architects it is necessary to understand the complexity and desirability of the work. The following characteristics provide a simple work prioritization scheme.
 
-| **Characteristic** | **Explanation** |
-| --- | --- |
-| Cost to Change | Projects or changes which are extremely expensive. |
-| Cost to Undo | Changes which will be very difficult or expensive to come back from or create a large amount of [technicaldebt](technical_debt.md){:target="_blank"}. |
-| Newness | Unfamiliar business models or technologies. |
-| Resources | High resource consumption or work that requires very specialized or rare skills. |
-| Capability Milestone | Work which will achieve significant milestones in business or technical capabilities. |
-| Financial Return | Work which has very high returns on the investment using value measurements. |
-| Customer (real customer) Impact | Work with direct impact on [Customer Journey](customer_journey.md){:target="_blank"}, Experience, etc. |
-| Risk | High [risk](risk_methods.md){:target="_blank"} with large impact and high probability of occurrence or where risk must be managed actively throughout the program. |
-| Domain Complexity | Areas where the knowledge domain is sufficiently complex as in scientific processes or specialized architectures. |
-| Political/Stakeholder Desirability | Impact from high power, high interest stakeholders who must be managed carefully. |
+| **Characteristic**                 | **Explanation**                                                                                                                                                      |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cost to Change                     | Projects or changes that are extremely expensive.                                                                                                                    |
+| Cost to Undo                       | Changes which will be very difficult or expensive to come back from or create a large amount of [technicaldebt](technical_debt.md){:target="_blank"}.                |
+| Newness                            | Unfamiliar business models or technologies.                                                                                                                          |
+| Resources                          | High resource consumption or work that requires very specialized or rare skills.                                                                                     |
+| Capability Milestone               | Work which will achieve significant milestones in business or technical capabilities.                                                                                |
+| Financial Return                   | Work has very high returns on the investment using value measurements.                                                                                               |
+| Customer (real customer) Impact    | Work with direct impact on [Customer Journey](customer_journey.md){:target="_blank"}, Experience, etc.                                                               |
+| Risk                               | High [risk](risk_methods.md){:target="_blank"} with a large impact and high probability of occurrence or where risk must be managed actively throughout the program. |
+| Domain Complexity                  | Areas where the knowledge domain is sufficiently complex as in scientific processes or specialized architectures.                                                    |
+| Political/Stakeholder Desirability | Impact from high power, high interest stakeholders who must be managed carefully.                                                                                    |
 
 ## Engagement Principle
 
@@ -121,6 +121,12 @@ Assign architects based on capability ownership whether it is technical or busin
 ## Integration Into the [Extended Team](extended_team.md){:target="_blank"}
 
 In many organizations the extended team is used as architects. For example, there may be an enterprise architect team centralized while all software delivery work is done by agile teams with a senior engineer. This method is covered fully in the extended team article but it should be noted that it is both necessary and highly risky unless competencies in the extended team are well understood.
+
+## Using the Agile Team Designer
+
+As a part of the assignment, each architect should sit down with their partners in both the delivery and strategy organization to use the agile team designer to communicate, understand and balance interactions. This can drastically reduce communication issues as delivery begins. This also works particularly well with partner organizations. 
+
+[![](../structured_canvases/media/agile_team_designer.svg)](../structured_canvases/agile_team_designer.md)
 
 ## Assignments by Across Specializations
 

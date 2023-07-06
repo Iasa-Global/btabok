@@ -7,8 +7,8 @@ permalink: agile_team_designer.html
 folder: structured_canvases
 summary: "Product and project team assignments and structure are deeply important to the success of any solution."
 tags: 
-  - business
-  - chief
+  - solution
+  - software
   - core
   - agile
 ---
@@ -17,16 +17,16 @@ Product and project team assignments and structure are deeply important to the s
 
 The best use of the team designer is to facilitate a team discussion on roles, interactions and expectations. 
 
-![image001](media/agile_team_designer001.svg)
+![image001](media/agile_team_designer.svg)
 
 [Download PPT](media/ppt/Agile-Architect-Team-Designer.ppt)
 
-| Area                  | Description                                                                                                                                                                   | Links To                                                                                 |
-| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Team of Teams         | Take your project/product and divide it into the number of teams and their names. This is often done on a functional or service basis.                                        | Service View, Functional View                                                            |
-| Individual Architect  | Describe the role of the architect in relation to all of the team of teams, as well as the other architects in the company as well as the relationship to an individual team. | [Role Description](/../engagement_model/roles.md){:target="_blank"}                                     |
-| Architect Team        | What other architects will be involved with the primary architect? Mentors, reviewers, specialists?                                                     | [Architect Stakeholder Canvas](/../structured_canvases/architect_stakeholder_canvas.md){:target="_blank"} |
-| Individual Agile Team | What is the make up of an individual team? How many people will be on it and what are their roles? How will they relate to the architect?                                     |                                                                                          |
+| Area                  | Description                                                                                                                                                                   | Links To                                                                                                  |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Team of Teams         | Take your project/product and divide it into the number of teams and their names. This is often done on a functional or service basis.                                        | Service View, Functional View                                                                             |
+| Individual Architect  | Describe the role of the architect in relation to all of the team of teams, as well as the other architects in the company as well as the relationship to an individual team. | [Role Description](/../engagement_model/roles.md){:target="_blank"}                                       |
+| Architect Team        | What other architects will be involved with the primary architect? Mentors, reviewers, specialists?                                                                           | [Architect Stakeholder Canvas](/../structured_canvases/architect_stakeholder_canvas.md){:target="_blank"} |
+| Individual Agile Team | What is the make up of an individual team? How many people will be on it and what are their roles? How will they relate to the architect?                                     |                                                                                                           |
 
 Resources
 ---------
