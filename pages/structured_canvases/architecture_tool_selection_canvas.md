@@ -13,7 +13,7 @@ tags:
   - engagement_model
 ---
 
-![image001](media/architecture_definition_canvas001.svg)
+![image001](media/architecture_definition_canvas.svg)
 
 [Download PPT](media/ppt/architecture_tool_selection_canvas.ppt){:target="_blank"}
 
