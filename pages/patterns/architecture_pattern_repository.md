@@ -87,7 +87,7 @@ Patterns can be classified according to the following broad disciplines:
 
 | **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
 |------------------|------------------------------------|----------------------------------------------------------------------------------|
-| [Cloud](cloud_patterns.html)            | Infrastructure, Software, Solution | Cloud Patterns Library |
+| [Cloud](https://iasa-global.github.io/btabok/cloud_patterns.html)            | Infrastructure, Software, Solution | Cloud Patterns Library |
 | Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
 | Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
 
