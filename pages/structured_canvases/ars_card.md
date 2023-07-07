@@ -17,7 +17,7 @@ tags:
 
 The ARS is used in agile architecture environments and mimics the epic or the detailed story while evaluating the requirement. Similar to ASR. 
 
-![image001](media/ars_card001.svg)
+![image001](media/ars_card.svg)
 
 [Download PPT](media/ppt/ars_card.ppt)
 

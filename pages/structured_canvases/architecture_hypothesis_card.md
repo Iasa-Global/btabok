@@ -17,7 +17,7 @@ tags:
 
 The hypothesis card is used to brainstorm hypothesis development in experimentation.
 
-![image001](media/architecture_hypothesis_card001.svg)
+![image001](media/architecture_hypothesis_card.svg)
 
 [Download PPT](media/ppt/architecture_hypothesis_card.ppt){:target="_blank"}
 

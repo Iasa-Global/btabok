@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/architecture_pains_and_gains001.svg)
+![image001](media/architecture_pains_and_gains.svg)
 
 [Download PPT](media/ppt/architecture_pains_and_gains.ppt){:target="_blank"}
 
