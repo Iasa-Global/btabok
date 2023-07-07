@@ -17,7 +17,7 @@ tags:
 
 The architect stakeholder canvas is a very powerful stakeholder tool. However it can be a bit confusing at first. The canvas is used to understand stakeholder relationships to any given architect, or architecture team. It can be used at multiple levels of scope. It works best to when used in a team environment and an informal setting. It is used to decern stakeholder relationships and can be used for deliverables as well. 
 
-![image001](media/architect_stakeholder_canvas001.svg)
+![image001](media/architect_stakeholder_canvas.svg)
 
 [Download PPT](media/ppt/architect_stakeholder_canvas.ppt)
 
