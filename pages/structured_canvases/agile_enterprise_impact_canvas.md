@@ -17,7 +17,7 @@ tags:
 
 The agile impact canvas is used to describe the overall impact of agile methods on an enterprise, team, or domain. The canvas is a tool for thinking about impacts to business models, organization structures, culture, and more. It works best if used as a facilitation tool with a multi-faceted team who are brainstorming the best ways to make agile work in their organizations. 
 
-![image001](media/agile_enterprise_impact_canvas001.svg)
+![image001](media/agile_enterprise_impact_canvas.svg)
 
 [Download PPT](media/ppt/agile_enterprise_impact_canvas.ppt){:target="_blank"}
 
