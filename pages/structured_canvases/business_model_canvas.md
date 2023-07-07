@@ -14,7 +14,7 @@ tags:
 
 The BMC provides a business model on a page used for architecture and innovation. Generally to use the canvas you want to start from customers and value proposition, then move on to the other areas. 
 
-![image001](media/business_model_canvas001.svg)
+![image001](media/business_model_canvas.svg)
 
 [Download PPT](media/ppt/business_model_canvas.ppt){:target="_blank"}
 
