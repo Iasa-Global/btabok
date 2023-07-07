@@ -10,7 +10,7 @@ tags:
   - core
 ---
 
-![image001](media/architecture_definition_canvas001.svg)
+![image001](media/architecture_definition_canvas.svg)
 
 [Download PPT](media/ppt/architecture_definition_canvas.ppt){:target="_blank"}
 

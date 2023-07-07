@@ -17,7 +17,7 @@ tags:
 
 The architects engagement touch points is used to understand the stakeholder(s) and their levels that the architecture practice 'touches'. The canvas is used by putting sticky notes on the stakeholders and their type. The columns represent 'types' which translate to areas of interaction. For example the Sr VP of Sales would be in the Biz Management, Exec cell. If this is a meeting or document use corresponding icons. In this way, the practice can define it's primary interaction points in IT, in Business, and as a part of change management (portfolio down to solution scope).
 
-![image001](media/architects_engagement_touchpoints001.svg)
+![image001](media/architects_engagement_touchpoints.svg)
 
 [Download PPT](media/ppt/architects_engagement_touchpoints.ppt)
 

@@ -14,7 +14,7 @@ tags:
 
 The architects roadmap is used to prioritize, assign and connect multiple initiatives within a value stream. It is essential to align deliveries and opportunities within the architect practice and across large teams.
 
-![image001](media/architects_roadmap_canvas001.svg)
+![image001](media/architects_roadmap_canvas.svg)
 
 [Download PPT](media/ppt/architects_roadmap_canvas.ppt){:target="_blank"}
 

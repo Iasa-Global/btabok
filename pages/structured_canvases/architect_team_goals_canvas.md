@@ -14,7 +14,7 @@ tags:
 
 The team goals canvas is a tool to understand the relationship to architecture practice objectives. The goal of the canvas is to define outcomes related to value streams and OKRs for the architecture team itself. It is a play on the Strategy Scorecard. 
 
-![image001](media/architect_team_goals_canvas001.svg)
+![image001](media/architect_team_goals_canvas.svg)
 
 [Download PPT](media/ppt/architect_team_goals_canvas.ppt)
 

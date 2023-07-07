@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/architects_process_engagement_canvas001.svg)
+![image001](media/architects_process_engagement_canvas.svg)
 
 [Download PPT](media/ppt/architects_process_engagement_canvas.ppt){:target="_blank"}
 

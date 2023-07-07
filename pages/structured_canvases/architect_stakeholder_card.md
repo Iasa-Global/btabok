@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/architect_stakeholder_card001.svg)
+![image001](media/architect_stakeholder_card.svg)
 
 [Download PPT](media/ppt/architect_stakeholder_card.ppt){:target="_blank"}
 
