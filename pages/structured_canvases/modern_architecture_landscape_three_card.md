@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![image001](media/modern_architecture_landscape_three_card001.svg)
+![image001](media/modern_architecture_landscape_three_card.svg)
 
 [Download PPT](media/ppt/modern_architecture_landscape_three_card.ppt){:target="_blank"}
 

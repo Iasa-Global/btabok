@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/market_segmentation_canvas001.svg)
+![image001](media/market_segmentation_canvas.svg)
 
 [Download PPT](media/ppt/market_segmentation_canvas.ppt){:target="_blank"}
 

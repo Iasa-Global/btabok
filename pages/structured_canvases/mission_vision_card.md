@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![image001](media/mission_vision_card001.svg)
+![image001](media/mission_vision_card.svg)
 
 [Download PPT](media/ppt/mission_vision_card.ppt){:target="_blank"}
 

@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![image001](media/okr_card001.svg)
+![image001](media/okr_card.svg)
 
 [Download PPT](media/ppt/okr_card.ppt){:target="_blank"}
 
