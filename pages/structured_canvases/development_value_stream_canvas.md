@@ -11,7 +11,7 @@ tags:
   - chief
 ---
 
-![image001](media/development_value_stream_canvas001.svg)
+![image001](media/development_value_stream_canvas.svg)
 
 [Download PPT](media/ppt/development_value_stream_canvas.ppt){:target="_blank"}
 
