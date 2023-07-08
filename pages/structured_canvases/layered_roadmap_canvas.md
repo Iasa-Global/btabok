@@ -14,7 +14,7 @@ tags:
 
 The layered roadmap provides a tool for understanding the business capability changes, technology services and stakeholder changes rolling out over time.
 
-![image001](media/layered_roadmap_canvas001.svg)
+![image001](media/layered_roadmap_canvas.svg)
 
 [Download PPT](media/ppt/layered_roadmap_canvas.ppt){:target="_blank"}
 

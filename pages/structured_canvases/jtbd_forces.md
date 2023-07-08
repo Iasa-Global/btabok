@@ -12,7 +12,7 @@ tags:
   - solution
 ---
 
-![image001](media/jtbd_forces001.svg)
+![image001](media/jtbd_forces.svg)
 
 [Download PPT](media/ppt/jtbd_forces.ppt){:target="_blank"}
 

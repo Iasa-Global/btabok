@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/impact_effort_assessment_card001.svg)
+![image001](media/impact_effort_assessment_card.svg)
 
 [Download PPT](media/ppt/impact_effort_assessment_card.ppt){:target="_blank"}
 

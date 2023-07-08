@@ -13,7 +13,7 @@ tags:
   - solution
 ---
 
-![image001](media/journey_stage_canvas001.svg)
+![image001](media/journey_stage_canvas.svg)
 
 [Download PPT](media/ppt/journey_stage_canvas.ppt){:target="_blank"}
 

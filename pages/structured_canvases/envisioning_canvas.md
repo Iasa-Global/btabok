@@ -12,7 +12,7 @@ tags:
   - solution
 ---
 
-![image001](media/envisioning_canvas001.svg)
+![image001](media/envisioning_canvas.svg)
 
 [Download PPT](media/ppt/envisioning_canvas.ppt){:target="_blank"}
 
