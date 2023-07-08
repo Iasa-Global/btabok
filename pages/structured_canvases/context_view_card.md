@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/context_view_card001.svg)
+![image001](media/context_view_card.svg)
 
 [Download PPT](media/ppt/context_view_card.ppt){:target="_blank"}
 

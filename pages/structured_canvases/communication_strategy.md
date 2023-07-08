@@ -12,7 +12,7 @@ tags:
   - solution
 ---
 
-![image001](media/communication_strategy001.svg)
+![image001](media/communication_strategy.svg)
 
 [Download PPT](media/ppt/communication_strategy.ppt){:target="_blank"}
 

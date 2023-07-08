@@ -12,7 +12,7 @@ tags:
   - core
 ---
 
-![image001](media/customer_journey_map001.svg)
+![image001](media/customer_journey_map.svg)
 
 [Download PPT](media/ppt/customer_journey_map.ppt){:target="_blank"}
 

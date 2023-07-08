@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/course_change_card001.svg)
+![image001](media/course_change_card.svg)
 
 [Download PPT](media/ppt/course_change_card.ppt){:target="_blank"}
 

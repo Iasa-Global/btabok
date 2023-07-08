@@ -13,7 +13,7 @@ tags:
   - core
 ---
 
-![image001](media/decision_bias_calibrator_2001.svg)
+![image001](media/decision_bias_calibrator_2.svg)
 
 [Download PPT](media/ppt/decision_bias_calibrator_2.ppt){:target="_blank"}
 
