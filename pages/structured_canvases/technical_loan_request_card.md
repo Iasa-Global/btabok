@@ -14,7 +14,7 @@ tags:
 
 The technical loan request combines the concept of [Technical Debt](../engagement_model/technical_debt.md){:target="_blank"} with a repayment schedule in work days, payment, or other means and allows the architect to ensure technical debt is both deliberate and prudent.
 
-![image001](media/technical_loan_request_card001.svg)
+![image001](media/technical_loan_request_card.svg)
 
 [Download PPT](media/ppt/technical_loan_request_card.ppt){:target="_blank"}
 

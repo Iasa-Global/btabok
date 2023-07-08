@@ -15,7 +15,7 @@ tags:
 
 The technology tracker helps architects evaluate a new technology tracker for impacts on their environment.
 
-![image001](media/technology_tracker_card001.svg)
+![image001](media/technology_tracker_card.svg)
 
 [Download PPT](media/ppt/technology_tracker_card.ppt){:target="_blank"}
 
