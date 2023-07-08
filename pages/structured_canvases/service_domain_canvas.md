@@ -13,7 +13,7 @@ tags:
   - solution
 ---
 
-![image001](media/service_domain_canvas001.svg)
+![image001](media/service_domain_canvas.svg)
 
 [Download PPT](media/ppt/service_domain_canvas.ppt){:target="_blank"}
 

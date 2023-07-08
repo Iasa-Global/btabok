@@ -23,7 +23,7 @@ Service domains can be grouped in a number of ways, for example:
 -   a technology (e.g. Business Intelligence Services, Cloud Services)
 -   a solution (e.g. SAP Services, Azure Services)
 
-![image001](media/service_landscape_canvas001.svg)
+![image001](media/service_landscape_canvas.svg)
 
 [Download PPT](media/ppt/service_landscape_canvas.ppt){:target="_blank"}
 

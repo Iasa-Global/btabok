@@ -12,7 +12,7 @@ tags:
 
 The stakeholder empathy map is one of the most useful tools in the stakeholder cards and canvases as it allows a deep dive into stakeholder motivations, communication styles, empathy tools, metrics and communication preferences. It would primarily be used for powerful and high interest stakeholders.
 
-![image001](media/stakeholder_engagement_map_card001.svg)
+![image001](media/stakeholder_engagement_map_card.svg)
 
 [Download PPT](media/ppt/stakeholder_engagement_map_card.ppt){:target="_blank"}
 

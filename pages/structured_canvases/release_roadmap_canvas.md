@@ -11,7 +11,7 @@ tags:
   - solution
 ---
 
-![image001](media/release_roadmap_canvas001.svg)
+![image001](media/release_roadmap_canvas.svg)
 
 [Download PPT](media/ppt/release_roadmap_canvas.ppt){:target="_blank"}
 

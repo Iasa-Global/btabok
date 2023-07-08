@@ -11,7 +11,7 @@ tags:
   - core
 ---
 
-![image001](media/service_blueprint_canvas001.svg)
+![image001](media/service_blueprint_canvas.svg)
 
 [Download PPT](media/ppt/service_blueprint_canvas.ppt){:target="_blank"}
 

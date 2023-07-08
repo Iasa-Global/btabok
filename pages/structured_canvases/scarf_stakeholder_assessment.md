@@ -12,7 +12,7 @@ tags:
 
 The SCARF Stakeholder Assessment allows the understanding of how a change, project or other initiative will impact a stakeholder from their point of view.
 
-![image001](media/scarf_stakeholder_assessment001.svg)
+![image001](media/scarf_stakeholder_assessment.svg)
 
 [Download PPT](media/ppt/scarf_stakeholder_assessment.ppt){:target="_blank"}
 

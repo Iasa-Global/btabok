@@ -13,7 +13,7 @@ tags:
 
 The Risk and Cost Card allows the evaluation of risk or costs as well as the relationship between a risk and possible costs. It can be used to catalog either risks alone, costs alone, or risk/cost combinations. 
 
-![image001](media/risk_and_cost_card001.svg) 
+![image001](media/risk_and_cost_card.svg)
 
 [Download PPT](media/ppt/risk_and_cost_card.ppt){:target="_blank"}
 

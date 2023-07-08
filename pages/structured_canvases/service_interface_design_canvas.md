@@ -16,7 +16,7 @@ tags:
 
 The service interface design canvas fully describes the elements needed to describe a product, service or API delivered by a team. It describes the service from the outside-in including the consumption economics, service level agreements and dependencies.
 
-![image001](media/service_interface_design_canvas001.svg)
+![image001](media/service_interface_design_canvas.svg)
 
 [Download PPT](media/ppt/service_interface_design_canvas.ppt){:target="_blank"}
 
