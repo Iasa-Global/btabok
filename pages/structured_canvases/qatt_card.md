@@ -18,7 +18,7 @@ tags:
 
 The Quality Attribute Card is built to create ATAM scenarios to test the architecture decisions and approaches of a particular architecture. It is based on the notion of taking quality attribute requirements and then testing them with scenarios. The scenario includes a source of a 'stimulus' which is something the architecture must respond to and is generally taken from requirements. These stimuli can be planned or unplanned but include anything that might happen which would impact the final system. It can include both business and technical stimuli. For example, if our competitors change their prices or if we receive twice the number of requests per minute than we planned to handle. Use the QATT cards to 'test' the architecture for its' effectiveness and look for tradeoffs, tactics and risks. 
 
-![image001](../../media/5b2ee59d595666d35e06fe4ce6e3d113304b29ec.svg)
+![image001](media/qatt_card.svg)
 
 [Download PPT](media/ppt/qatt_card.ppt){:target="_blank"}
 

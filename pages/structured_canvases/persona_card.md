@@ -13,7 +13,7 @@ tags:
   - software
 ---
 
-![image001](media/persona_card001.svg)
+![image001](media/persona_card.svg)
 
 [Download PPT](media/ppt/persona_card.ppt){:target="_blank"}
 

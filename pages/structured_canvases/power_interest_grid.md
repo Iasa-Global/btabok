@@ -10,7 +10,7 @@ tags:
   - core
 ---
 
-![image001](media/power_interest_grid001.svg)
+![image001](media/power_interest_grid.svg)
 
 [Download PPT](media/ppt/power_interest_grid.ppt){:target="_blank"}
 

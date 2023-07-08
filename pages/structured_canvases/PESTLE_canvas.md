@@ -13,7 +13,7 @@ tags:
 
 The PESTLE canvas provides and ecosystem view of the enterprise or an initiative.
 
-![image001](media/pestle001.svg)
+![image001](media/pestle.svg)
 
 [Download PPT](media/ppt/PESTLE.pptx){:target="_blank"}
 
