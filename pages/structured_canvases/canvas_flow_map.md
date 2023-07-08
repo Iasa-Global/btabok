@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/canvas_flow_map001.svg)
+![image001](media/canvas_flow_map.svg)
 
 [Download PPT](media/ppt/canvas_flow_map.ppt){:target="_blank"}
 

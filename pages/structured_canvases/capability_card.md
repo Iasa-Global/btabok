@@ -14,7 +14,7 @@ tags:
 
 The capability card provides a capability analysis tool for understanding a business capability and its measurements.
 
-![image001](media/capability_card001.svg)
+![image001](media/capability_card.svg)
 
 [Download PPT](media/ppt/capability_card.ppt){:target="_blank"}
 
