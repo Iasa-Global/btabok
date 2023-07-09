@@ -7,10 +7,6 @@ permalink: architecture_definition_canvas.html
 folder: structured_canvases
 summary: "Architecture Tool Selection Canvas"
 tags: 
-  - chief
-  - solution
-  - business
-  - engagement_model
 ---
 
 ![image001](media/architecture_definition_canvas.svg)
