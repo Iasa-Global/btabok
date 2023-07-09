@@ -13,9 +13,7 @@ tags:
 
 The viewpoint template card is used to describe a viewpoint used by an architecture practice. The viewpoint concept [see views article](../engagement_model/views.md){:target="_blank"} is used to help in describing an architecture and is based on ISO 42010.
 
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
-
-![image001](media/viewpoint_template_card001.svg)
+![image001](media/viewpoint_template_card.svg)
 
 [Download PPT](media/ppt/viewpoint_template_card.ppt){:target="_blank"}
 

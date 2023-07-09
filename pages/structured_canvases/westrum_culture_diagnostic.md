@@ -13,7 +13,7 @@ tags:
 
 The Westrum Culture Diagnostic helps teams and organizations understand the culture they are working within to better understand their engagement model. The diagnostic provides clear set of tools to describe the environment related to its support for safety and cultural characteristics.
 
-![image001](../../media/83543645a4cdd8a79a8696bcf5a7bfa99cd3c685.png)
+![image001](media/westrum_culture_diagnostic_card.svg)
 
 [Download PPT](media/ppt/value_stream_canvas.ppt){:target="_blank"}
 
