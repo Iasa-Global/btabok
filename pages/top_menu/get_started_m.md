@@ -42,7 +42,7 @@ Digital transformation is a vendor phrase. It is about changing into something a
 
 ## What Goes Where
 
-![image001](media/get_started_m01.png)
+![image001](media/get_started_m.png)
 
 The right hand navigation leads to semi-independent areas of knowledge exploration in the BTABoK and Iasa. The engagement model is represented by the primary diagram, however it is matched by the competency model, topic areas, the maturity model and structured canvases. All of these areas are connected under the BTABoK umbrella but may be used in independent ways.
 
