@@ -173,12 +173,16 @@ There are a large number of less well known and less well supported ADL, includi
 -   Unicon (CMU) --
 -   ByADL (Build Your ADL) -- University of L'Aquila -- <http://byadl.di.univaq.it/>
 -   LePUS3 and Class-Z (University of Essex) -- <http://lepus.org.uk/>
--   ABACUS (UTS) -- <http://www.avolution.com.au/>
+-   ABACUS (UTS) -- <http://www.avolution.com.au/> 
 
 # Author
 
 ### **![](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/s_gordon.jpg)Sean Gordon**
 ![image001](media/s_gordon.jpg)
+
+![Sean Gordon](media/s_gordon.jpg)
+**Sean Gordon**
+*IT Consultant – Gartner*
 
 ### **Technical Expert for Solution Architecture -- Chevron**
 
