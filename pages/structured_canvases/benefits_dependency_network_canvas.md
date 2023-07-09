@@ -15,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/benefits_dependency_network_canvas001.svg)
+![image001](media/benefits_dependency_network_canvas.svg)
 
 [Download PPT](media/ppt/benefits_dependency_network_canvas.ppt){:target="_blank"}
 
