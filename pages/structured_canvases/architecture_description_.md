@@ -177,12 +177,8 @@ There are a large number of less well known and less well supported ADL, includi
 
 # Author
 
-### **![](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/s_gordon.jpg)Sean Gordon**
-![image001](media/s_gordon.jpg)
-
 ![Sean Gordon](media/s_gordon.jpg)
 **Sean Gordon**
-*IT Consultant – Gartner*
 
 ### **Technical Expert for Solution Architecture -- Chevron**
 
