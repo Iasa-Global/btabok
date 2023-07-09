@@ -1,5 +1,5 @@
 ---
-title: "Benefit Dependency Network Canvas"
+title: "BenefitDependency Network Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
