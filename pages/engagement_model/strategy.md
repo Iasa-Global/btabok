@@ -95,8 +95,9 @@ strategy map and balanced scorecard techniques (based on the method from the Bal
 
 The strategy map provides a way to map out objectives required in order to achieve the strategic aims, and to show the relationships between objectives.
 
-[![image001](media/strategy_scorecard.png)](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}
-</br>[Click Here fo the canva](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}
+[![image001](media/strategy_scorecard.png)](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}\
+
+[Click Here fo the canva](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}
 
 Objectives are placed on the strategy map in four perspectives:
 
