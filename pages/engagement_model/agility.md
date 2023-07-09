@@ -15,11 +15,7 @@ tags:
 
 # What is Agility
 
-Agility in terms of business or product development can be thought of as
-the ability to adapt quickly to change, and thus take advantage of the
-opportunities that change brings. Technology and IT have been major
-facilitators for disruption, the rate of change has accelerated
-significantly in the 2000s and continues to accelerate.
+Agility in terms of business or product development can be thought of as the ability to adapt quickly to change, and thus take advantage of the opportunities that change brings. Technology and IT have been major facilitators for disruption, the rate of change has accelerated significantly in the 2000s and continues to accelerate.
 
 Businesses increase their agility by cultivating an agile [culture](culture.md){:target="_blank"} and
 employing agile methods for product or service development.
@@ -36,124 +32,57 @@ Some of the key factors of an agile business are:
 
 - Transparent
 
-It is important to realize that agility is both a culture and a way of
-thinking and a software development method which when used together form
-a much more powerful organization for delivery on its mission and
-vision. Since agility is dependent on the business culture and nature,
-different businesses generally have different levels agility.
+It is important to realize that agility is both a culture and a way of thinking and a software development method which when used together form a much more powerful organization for delivery on its mission and vision. Since agility is dependent on the business culture and nature, different businesses generally have different levels agility.
 
 # Why is Agility important
 
-Technology is a driver for the speed and frequency of significant
-changes in the world. Access to communication tools, such as social
-media, on a world-wide basis has increased the scope of change to global
-markets. This results in these markets being more volatile and prone to
-disruption.
+Technology is a driver for the speed and frequency of significant changes in the world. Access to communication tools, such as social media, on a world-wide basis has increased the scope of change to global markets. This results in these markets being more volatile and prone to disruption.
 
-The challenge for business is to adapt as quickly as they can to the
-changing world around them. Therefore, agility is a key factor to ensure
-that a business remains competitive.
+The challenge for business is to adapt as quickly as they can to the changing world around them. Therefore, agility is a key factor to ensure that a business remains competitive.
 
-The customer centric nature of agile methods, helps to ensure that the
-development of products or services meet customer expectations, and
-provide a clear value to the customer and the business.
+The customer centric nature of agile methods, helps to ensure that the development of products or services meet customer expectations, and provide a clear value to the customer and the business.
 
-Another aspect of agility is continuous improvement and a focus on
-delivery in increments. Performing regular evaluations of the working
-method and suggesting improvements can help to improve productivity and
-quality. Focus on incremental delivery also provides a clear way of
-measuring progress, this creates forward momentum which is a highly
-motivating factor for teams.
+Another aspect of agility is continuous improvement and a focus on delivery in increments. Performing regular evaluations of the working method and suggesting improvements can help to improve productivity and quality. Focus on incremental delivery also provides a clear way of measuring progress, this creates forward momentum which is a highly motivating factor for teams.
 
 # Agility Approach
 
 ## Know the constraints
 
-Before embarking on an agile journey be aware of the constraints of the
-business. When making changes to a business for agility and developing
-agile methods, awareness of the business limitations helps to adapt any
-changes to fit the business in its current state. Trying to force
-changes or agile methods on a business without considering constraints
-can have adverse effects, such as [stakeholders](stakeholders.md){:target="_blank"} turning against the
-initiative, or agile disillusionment when results do not meet
+Before embarking on an agile journey be aware of the constraints of the business. When making changes to a business for agility and developing agile methods, awareness of the business limitations helps to adapt any changes to fit the business in its current state. Trying to force changes or agile methods on a business without considering constraints can have adverse effects, such as [stakeholders](stakeholders.md){:target="_blank"} turning against the initiative, or agile disillusionment when results do not meet
 expectations.
 
 ## Move at the right pace
 
-The maturity and current agility of any given business is likely to
-affect how quickly changes in the working process can be achieved. In
-less mature businesses it may be reasonable to start with simple agile
-practices, while in businesses already running agile practices more
-advanced techniques may be attempted. The key factor is to ensure that
-the implementation of agile practices is in pace with the ability of the
-business to change and accept these practices.
+The maturity and current agility of any given business is likely to affect how quickly changes in the working process can be achieved. In less mature businesses it may be reasonable to start with simple agile practices, while in businesses already running agile practices more advanced techniques may be attempted. The key factor is to ensure that the implementation of agile practices is in pace with the ability of the business to change and accept these practices.
 
 ## Customer-centric
 
-Agile practices work best when there is a close relationship with the
-customer. Regular feedback from the customer allows development teams to
-tailor the product or services as they go according to the customers\'
-expectations. This ultimately results in a higher level of customer
-satisfaction. In order to achieve this, there is great importance placed
-on the relationship between the customer and the team.
+Agile practices work best when there is a close relationship with the customer. Regular feedback from the customer allows development teams to tailor the product or services as they go according to the customers\' expectations. This ultimately results in a higher level of customer satisfaction. In order to achieve this, there is great importance placed on the relationship between the customer and the team.
 
 ## Just in time and one at a time
 
-Agile practices tend to focus on performing one or a very few tasks at a
-time. This way the likelihood of delivering a usable product is
-increased. That is to say, it is better to deliver 3 fully complete
-tasks out of 5 tasks than to deliver 5 partly complete tasks. The idea
-is that it is better to have 3 tasks that can actually be delivered,
-than 5 tasks that cannot.
+Agile practices tend to focus on performing one or a very few tasks at a time. This way the likelihood of delivering a usable product is increased. That is to say, it is better to deliver 3 fully complete tasks out of 5 tasks than to deliver 5 partly complete tasks. The idea is that it is better to have 3 tasks that can actually be delivered, than 5 tasks that cannot.
 
-Another aspect of agile practices is to make decisions just-in-time.
-This ensures that there is time to gather information to support
-decisions and reduces the scope for assumptions. This is in-line with
-reducing the planning-up-front. While this is a good principle, it is
-important to realize that just-in-time for some decisions might actually
-mean they have to be made well in advance, thus introducing
-planning-up-front.
+Another aspect of agile practices is to make decisions just-in-time. This ensures that there is time to gather information to support decisions and reduces the scope for assumptions. This is in-line with reducing the planning-up-front. While this is a good principle, it is important to realize that just-in-time for some decisions might actually mean they have to be made well in advance, thus introducing planning-up-front.
 
 ## Automation is key
 
-A key part of improving agility is [automation](automation.md){:target="_blank"}, particularly in product
-development. Adopting agile practices with a low level of automation
-reduces the ability to make quick changes. This is evident in software
-development where in order to deliver working products at every
-increment the version management, deployment and test cycles have to be
-executed quickly. Automating version management and deployment through
-continuous integration provides a means of quickly making releases of
-the software. Automation of regression testing provides a means of
-continually checking the effect of changes to the software. This ensures
-that any adverse effects on functions which have already been
-implemented in previous increments can be detected.
+A key part of improving agility is [automation](automation.md){:target="_blank"}, particularly in product development. Adopting agile practices with a low level of automation reduces the ability to make quick changes. This is evident in software development where in order to deliver working products at every increment the version management, deployment and test cycles have to be
+executed quickly. Automating version management and deployment through continuous integration provides a means of quickly making releases of the software. Automation of regression testing provides a means of continually checking the effect of changes to the software. This ensures that any adverse effects on functions which have already been implemented in previous increments can be detected.
 
 # Agile Methods
 
-Agile methods provide processes and tools which help to increase the
-agility of an organisation. These methods originate in modern times from
-the manufacturing industry where the car company Toyota is merited as a
-cornerstone for lean and agile practices.
+Agile methods provide processes and tools which help to increase the agility of an organisation. These methods originate in modern times from the manufacturing industry where the car company Toyota is merited as a cornerstone for lean and agile practices.
 
-Agile software development methodologies gained popularity in the early
-2000s, these methods are widely used in the industry and the broad
-principles of agile methods may be considered a de-facto standard in the
-industry.
+Agile software development methodologies gained popularity in the early 2000s, these methods are widely used in the industry and the broad principles of agile methods may be considered a de-facto standard in the industry.
 
-Agile methods have expanded their scope to consider not just the
-development of software, but the agility of the business.
+Agile methods have expanded their scope to consider not just the development of software, but the agility of the business.
 
-This article does not go in to detail regarding specific agile methods,
-since there is a sea of information widely available for further reading
-on the subject. Instead, the following is a short description of the
-essential aspects of agile and the most popular agile methods.
+This article does not go in to detail regarding specific agile methods, since there is a sea of information widely available for further reading on the subject. Instead, the following is a short description of the essential aspects of agile and the most popular agile methods.
 
 ## Essential Agile
 
-The core of agile methods is the execution of a continuous series of
-increments which deliver a working product. These increments can be
-thought of as having three important stages: planning, execution and
-evaluation.
+The core of agile methods is the execution of a continuous series of increments which deliver a working product. These increments can be thought of as having three important stages: planning, execution and evaluation.
 
 The planning and prioritization of work in agile methods is often
 performed in a backlog. The role of Product Owner is responsible for the

@@ -15,7 +15,7 @@ The Westrum Culture Diagnostic helps teams and organizations understand the cult
 
 ![image001](media/westrum_culture_diagnostic_card.svg)
 
-[Download PPT](media/ppt/value_stream_canvas.ppt){:target="_blank"}
+[Download PPT](media/ppt/westrum_culture_diagnostic_card.ppt){:target="_blank"}
 
 | Area                  | Description                                                                                                                                  | Links To                                                                                                  |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
