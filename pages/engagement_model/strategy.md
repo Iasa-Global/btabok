@@ -97,9 +97,9 @@ The strategy map provides a way to map out objectives required in order to achie
 
 [![image001](media/strategy_scorecard.png)](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}\
 
-[Click Here for the canva](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}\
+[Click Here for the canva](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}
 
-Objectives are placed on the strategy map in four perspectives:
+\Objectives are placed on the strategy map in four perspectives:
 
 - **Financial** -- provides a view of the financial objectives of the organization.
 
