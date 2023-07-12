@@ -11,15 +11,11 @@ tags:
   - chief
 ---
 
-
-
 ## Strategic Roadmap Canvas (Visual)
 
 The strategic roadmap canvas is a tool to bring together the architects view on multiple streams of work. This can be likened to the portfolio or program level in traditional project management but serves a different function for architects. The goal of this canvas is to bring together the strategic nature of the projects/products being delivered and how they depend on each other. 
 
 ![]()
-
-
 
 Download the PPT, Download the Strategic Initiatives XLS
 

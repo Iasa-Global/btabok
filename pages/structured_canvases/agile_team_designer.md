@@ -7,8 +7,8 @@ permalink: agile_team_designer.html
 folder: structured_canvases
 summary: "Product and project team assignments and structure are deeply important to the success of any solution."
 tags: 
-  - solution
-  - software
+  - business
+  - chief
   - core
   - agile
 ---
