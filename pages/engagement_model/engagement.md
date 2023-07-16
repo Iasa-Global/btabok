@@ -84,8 +84,9 @@ The BTABoK uses the following definitions:
 
 Many of the tools in this article can be used for any of the previous examples of individuals. The following persona card is used to get into the mind of a person or group of people who have a similar story. It makes a customer segment into a real person. It is easier to design success for Tom, the father of 2, who picks his kids up from school at 3:30 and works a job as a virtual assistant, lives in Breda, and likes American football than design for a ‘user.’ It is also easier to understand his jobs to be done (get the kids home safely while succeeding at work) and his experiences, what his friends say, etc. The Persona Card is the first step in understanding the mind and emotions of a customer in a particular scenario.
 
-![Figure 3 Persona Card](media/engagement003.jpg)
+[![Figure 3 Persona Card](media/engagement003.jpg)](https://iasa-global.github.io/btabok/persona_card.html){:target="_blank"}
 <br>Figure 3 Persona Card
+
 
 ## What Jobs is the Customer Doing
 
