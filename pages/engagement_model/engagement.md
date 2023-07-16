@@ -41,7 +41,7 @@ The BTABoK is based on an architecture practice creating digital outcomes reliab
 Architects, as digital innovators driving digital advantage, must be customer-obsessed. From business architecture to infrastructure to complex systems, each decision may fundamentally impact a customer, changing how they behave and perceive a company.
 
 ![image001](media/engagement001.png)
-\Figure 1 Empathy and Features
+<br>Figure 1 Empathy and Features
 
 Tinder, as a dating application, changed the world with a tiny feature, the swipe. This feature was easy to implement from a code perspective but has quite literally changed the world of dating forever. For this reason, customer engagement is not about selling but about empathy and understanding. Think of the number of technology implementation decisions made in an average enterprise in a day. How many of them are genuine customer engaged? Architects using the BTABoK will be able to answer that question with tangible metrics.
 
@@ -66,7 +66,7 @@ There are several tools in the BTABoK for understanding customers and even more 
 The Persona Card contains what is called a set of empathy map ideas. The Empathy Map was designed at XPLANE many years ago as part of a human-centered design toolkit they call [Gamestorming](http://gamestorming.com/){:target="_blank"}.
 
 ![Figure 2 Empathy Map](media/engagement002.png)
-\Figure 2 Empathy Map
+<br>Figure 2 Empathy Map
 
 Notice that the customer has pains and gains; they see things, hear things, say things and do something. This tool is the beginning of understanding the actual customer. The BTABoK has created several canvases that include these empathy notions. They can be used to formally understand how empathy and business technology strategy align.
 
@@ -85,7 +85,7 @@ The BTABoK uses the following definitions:
 Many of the tools in this article can be used for any of the previous examples of individuals. The following persona card is used to get into the mind of a person or group of people who have a similar story. It makes a customer segment into a real person. It is easier to design success for Tom, the father of 2, who picks his kids up from school at 3:30 and works a job as a virtual assistant, lives in Breda, and likes American football than design for a ‘user.’ It is also easier to understand his jobs to be done (get the kids home safely while succeeding at work) and his experiences, what his friends say, etc. The Persona Card is the first step in understanding the mind and emotions of a customer in a particular scenario.
 
 ![Figure 3 Persona Card](media/engagement003.jpg)
-\Figure 3 Persona Card
+<br>Figure 3 Persona Card
 
 ## What Jobs is the Customer Doing
 
@@ -104,7 +104,7 @@ Architects use these tools to explore the solution and customer space to identif
 The architect’s goal is to facilitate and participate as an innovator throughout the customer’s process. The JTBD Timeline provides the basis for understanding the relationship between the customer and the organization, backed by the technology underpinning the relationship.
 
 ![image001](media/engagement005.svg)
-\Figure 4 JBTD Timeline Canvas
+<br>Figure 4 JBTD Timeline Canvas
 
 Notice that the timeline provides the tools to connect JBTD to the customer journey and begin facilitating discussion about business and technology layers that impact that journey. This may be an automated set of steps, or it may be creating a quick way for the customer to contact a person.
 
@@ -113,14 +113,14 @@ Notice that the timeline provides the tools to connect JBTD to the customer jour
 Another canvas that can be used to understand the customers’ behavior in the process is to understand the forces affecting the customers’ behavior and choices during the JBTD. This canvas outlines the forces that allow architects to understand why a customer may choose a new way of doing things. A great example of this comes from Uber. One of the forces on using traditional taxis was the difficulty in payment. Using a credit card with a random taxi driver or having cash were difficulties (what are called pains) in the job of getting from one place in a city to another. By using the Uber app, payment was fully automated. This ‘pain reliever’ is a major attractive force to using the product instead of the more traditional way. However, it is also important to note the forces pushing in the opposite direction. For example, consider the mindset of the individual. Suppose they are deeply unfamiliar with technology or it is difficult to set up a credit card, or they do not have a credit card. In that case, the Uber application may actually create enough anxiety to push the customer into traditional taxis and cash methods.
 
 ![Figure 5 JBTD Forces Canvas](media/engagement006.svg)
-\Figure 5 JBTD Forces Canvas
+<br>Figure 5 JBTD Forces Canvas
 
 ## Customer Engagement Methods Work on Stakeholders Too
 
 The wonderful thing about people is that they are still people whether they work for the enterprise or the customer. Many if not all of the digital customer tools and methods work for stakeholders and customers. For example, the following canvas, the Stakeholder Engagement canvas, is effectively a modified Empathy Map that allows the architect to explore a stakeholder’s environment, ecosystem, pains/gains, and personality. Similar overlap exists with JBTD and other customer engagement methods.
 
 ![Figure 6 Stakeholder Engagement Card](media/engagement007.svg)
-\Figure 6 Stakeholder Engagement Card
+<br>Figure 6 Stakeholder Engagement Card
 
 # Strategies for Engagement
 
@@ -172,7 +172,7 @@ The JTBD Filter provides the tools to understand how jobs should be served. It a
 The benefits dependency canvas provides a way of translating technology enablers like cloud, AI, or integration back into business objectives, and the BTABoK Structured Canvas Approach displays the value contribution of technology to the initiative, which is essential in budgeting and value contribution reporting in benefits realization.
 
 ![Figure 8 Benefits Dependency Canvas](media/engagement009.svg)
-Figure 8 Benefits Dependency Canvas\
+<br>Figure 8 Benefits Dependency Canvas
 
 ## Doing Engagement Work with Product Management
 
