@@ -165,14 +165,14 @@ Engagement is a shared goal among many business units. The architecture team mus
 The JTBD Filter provides the tools to understand how jobs should be served. It allows the team to prioritize jobs from an overall customer and value perspective. This will enable the team to discuss overall how valuable a particular job is to the company and the importance. Use a JTBD filtering session instead of a traditional investment prioritization session to get customer-obsessed. This will help define priorities alongside other outcome model objectives.
 
 ![Figure 7 JTBD Filter](media/engagement008.svg)
-\Figure 7 JTBD Filter
+<br>Figure 7 JTBD Filter
 
 ## Using a BDN with Customer Engagement Objectives
 
 The benefits dependency canvas provides a way of translating technology enablers like cloud, AI, or integration back into business objectives, and the BTABoK Structured Canvas Approach displays the value contribution of technology to the initiative, which is essential in budgeting and value contribution reporting in benefits realization.
 
 ![Figure 8 Benefits Dependency Canvas](media/engagement009.svg)
-\Figure 8 Benefits Dependency Canvas
+Figure 8 Benefits Dependency Canvas\
 
 ## Doing Engagement Work with Product Management
 
