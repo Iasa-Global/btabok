@@ -21,5 +21,7 @@ Architects are responsible for advising organisations on business and technology
 
 Whilst sustainable architecture choices apply across the layers of architecture it can be helpful to break them into 2 categories:
 
-- **Organisational Sustainability** (influenced by business architecture and leveraging technologies to make the organisation more sustainable)
-- **Technology Sustainability** (i.e. what is the footprint of your systems and technology
+1. **Organisational Sustainability** (influenced by business architecture and leveraging technologies to make the organisation more sustainable)
+2. **Technology Sustainability** (i.e. what is the footprint of your systems and technology)
+
+Whilst all organisations should strive to consider both of these areas; the sector of your organisation, the regulatory compliance regime you operate under and leadership priorities will likely influence whether you focus on Organisational or Technology sustainability. For example if your organisation operates in (or uses a lot of suppliers from) an energy intense or industrial sector focusing on Organisational Sustainability is likely to have the greatest impact. However if your organisation operates in the technology, finance or knowledge work / services sectors then your technology might have the greatest impact and that should be prioritised.
