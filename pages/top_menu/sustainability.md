@@ -7,7 +7,7 @@ Conscious, sustainable business is no longer a nice to have - consumers and busi
 
 Architects have a challenge to pragmatically navigate a way that allows their organisations to adapt - and continue to be adaptable, whilst ensuring that the way forward aligns with being a sustainable organisation that builds towards the much needed more positive society of tomorrow.
 
-Whilst very important topics this goes beyond climate change and sustainability - there are a whole spectrum of SDGs and non functionals that organisations need to consider:
+Whilst very important topics this goes beyond climate change and sustainability - there are a whole spectrum of Sustainable Development Goals and quality attributes that organisations need to consider including:
 
  - Climate change & impacts on food production and health
  - Sustainability, biodiversity & protecting ecosystems
