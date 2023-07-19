@@ -43,7 +43,7 @@ Innovation is an overloaded term similar to architecture and agile. Often corpor
 # Why is Innovation Important to Architects
 
 ![image001](media/innovate001.jpg)
-Figure 1 MIT Sloan Innovation and Disruption</br>
+\Figure 1 MIT Sloan Innovation and Disruption
 
 The architecture practice is a major source of innovation for the digital advantage of a company within the limits of risk-appetite and safety and liability limits of the organization.
 
