@@ -120,7 +120,7 @@ Another canvas that can be used to understand the customers’ behavior in the p
 
 The wonderful thing about people is that they are still people whether they work for the enterprise or the customer. Many if not all of the digital customer tools and methods work for stakeholders and customers. For example, the following canvas, the Stakeholder Engagement canvas, is effectively a modified Empathy Map that allows the architect to explore a stakeholder’s environment, ecosystem, pains/gains, and personality. Similar overlap exists with JBTD and other customer engagement methods.
 
-![Figure 6 Stakeholder Engagement Card](media/engagement007.svg)
+[![Figure 6 Stakeholder Engagement Card](media/engagement007.svg)](https://iasa-global.github.io/btabok/stakeholder_engagement_map_card.html){:target="_blank"}
 <br>Figure 6 Stakeholder Engagement Card
 
 # Strategies for Engagement
@@ -172,7 +172,7 @@ The JTBD Filter provides the tools to understand how jobs should be served. It a
 
 The benefits dependency canvas provides a way of translating technology enablers like cloud, AI, or integration back into business objectives, and the BTABoK Structured Canvas Approach displays the value contribution of technology to the initiative, which is essential in budgeting and value contribution reporting in benefits realization.
 
-![Figure 8 Benefits Dependency Canvas](media/engagement009.svg)
+[![Figure 8 Benefits Dependency Canvas](media/engagement009.svg)](https://iasa-global.github.io/btabok/benefits_dependency_network_canvas.html){:target="_blank"}
 <br>Figure 8 Benefits Dependency Canvas
 
 ## Doing Engagement Work with Product Management
