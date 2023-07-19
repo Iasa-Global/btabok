@@ -43,8 +43,7 @@ Innovation is an overloaded term similar to architecture and agile. Often corpor
 # Why is Innovation Important to Architects
 
 ![image001](media/innovate001.jpg)
-
-Figure 1 MIT Sloan Innovation and Disruption
+Figure 1 MIT Sloan Innovation and Disruption</br>
 
 The architecture practice is a major source of innovation for the digital advantage of a company within the limits of risk-appetite and safety and liability limits of the organization.
 
@@ -86,7 +85,7 @@ As an architect especially as a heavily technical architect it is essential that
 
 ## Blue Ocean Canvas
 
-![image001](media/innovate005.png)
+[![image001](media/innovate005.png)](https://iasa-global.github.io/btabok/blue_ocean_canvas.html){:target="_blank"}
 
 # Managing and Maximizing Innovation
 
