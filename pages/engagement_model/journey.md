@@ -46,18 +46,20 @@ For each of the stages of a customer journey we can identify the details of the 
 Which bring us to the next question, how do we discover this Customer?
 
 ![image001](media/journey004.png)
-<br>Business Model
+<br>Business Model<br>
 
 Developing (or using if they already exist) both of two models are the first step in this discovery. The first is the _Business Model (BM)_. The Business Model is interesting because not only is it a concise one pager that gives us a high level and extremely pertinent view, but developing it also helps in situating the problem and solution in the larger context and not just within a narrower product/service related paradigm. In my opinion, developing this model is also a great way to up our game and get access to business and the real decision makers as well as to make sure we have a shared vision of where value is and what it means for the Customer. The BM describes important aspects; from the Customer Segment, distribution channels, revenue to be realized and the cost that will be incurred before that happens, to the key value proposition for the service/product. 
 
 The second is the 5P’s marketing model.
 
 
-![image001](media/journey005.png)5 P’s
+![image001](media/journey005.png)
+<br>5 P’s<br>
 
 The 5P’s is normally what the marketing folk use to understand and describe the ecosystem for the product/service to be developed. This model is more focused on the product/service and defines the attributes of the Product, the Pricing strategies, the channels or Places through which the product can be distributed, the Promotional strategies that would influence consumption of the product, and the People at whom the product is aimed as well as the kind of experience they would expect and their specific needs that need to be fulfilled.
 
-![image001](media/journey006.png)Solution Ecosystem
+![image001](media/journey006.png)
+<br>Solution Ecosystem<br>
 
 With the above two models as our foundation we can now delve deeper into the problem space to expand our knowledge of the Customer by modelling the overall [ecosystem](ecosystem.md){:target="_blank"} perspective. If we take the diagram here, we can see it is the way an organization like IASA would be described. In the centre we have what IASA needs to do for its Customer, the budding architect; work with him to grow his skills and get him certified. And the challenges the budding architect will face in his journey juxtaposed against the gains or value that he can/will enjoy. Around this core is an understanding of the resistance the budding architect will consider in terms of dampeners, pitted against what will induce him to work with IASA; the enablers. We also have the activities IASA will have to conduct to make its position stronger and more meaningful as well as the competitors it will have to contend with. To an extent this is like the high-level description of the system we used to do earlier during the requirements gathering phase. The difference is in the model we use. The key advantage of this to what would otherwise have been a document is now a pictorial representation making it easier to understand and communicate with. Having modelled the 90000-foot view of the problem/solution space we need to get closer to the Customer and understand and model his [_viewpoint_](views.md){:target="_blank"} and describe how we can enable him.
 
