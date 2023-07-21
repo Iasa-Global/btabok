@@ -43,7 +43,7 @@ Innovation is an overloaded term similar to architecture and agile. Often corpor
 # Why is Innovation Important to Architects
 
 ![image001](media/innovate001.jpg)
-\Figure 1 MIT Sloan Innovation and Disruption
+Figure 1 MIT Sloan Innovation and Disruption
 
 The architecture practice is a major source of innovation for the digital advantage of a company within the limits of risk-appetite and safety and liability limits of the organization.
 
@@ -57,7 +57,7 @@ of innovations. Thinking of innovation in broad terms can help a company look fo
 | --- | --- |
 | New Products, Services or Technologies | Consider the impact of products such as the light bulb, automobile, personal computer and the Internet |
 | New Customer Experiences | Furniture retailing was transformed by having customers\
-co-create and assemble furniture |
+Co-create and assemble furniture |
 | New Processes | Dell's build-to-order personal computer process has dramatically changed the way people purchase technology |
 | New Channels | Netflix transformed the movie rental business by using the Internet and mail to rent DVDs with no late fees |
 | New Business Models | Southwest Airlines, JetBlue, and other low-cost airline business models have demonstrated profitability and changed the nature of competition in the airline industry. |
