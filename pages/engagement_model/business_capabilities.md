@@ -66,7 +66,7 @@ The Business Architecture Guild provides another method to find capabilities thr
 
 To find the most important capabilities for a company's strategy, there are two main methods: using an industry standard model or following the guidance of Perry, Stott, and Smallwood. Companies that do not fit neatly into the product, customer, or technology categories, such as retail stores or consumer service businesses, should focus on capabilities that directly contribute to delivering the customer experience. This can be achieved by building stakeholder experience maps, identifying touchpoints, and determining value-delivering and supporting capabilities.
 
-![image001](media/bc6.png)
+[![image001](media/bc6.png)](https://iasa-global.github.io/btabok/business_capability_canvas.html){:target="_blank"}
 
 > Figure 4. Customer journey map template.
 
