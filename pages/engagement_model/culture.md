@@ -163,7 +163,7 @@ There are many tools available to diagnose culture in the marketplace. As a part
 
 The WCD provides a tool to understand how culture can be understood from a information sharing, learning, responsibility, collaboration, failure and ideas perspective.
 
-![image001](media/culture005.png)
+[![image001](media/culture005.png)](https://iasa-global.github.io/btabok/westrum_culture_diagnostic.html){:target="_blank"}
 
 ## Culture Map
 
