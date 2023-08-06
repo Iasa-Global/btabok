@@ -64,7 +64,7 @@ In a given industry, all participants share a common capability model that is de
 
 The Business Architecture Guild provides another method to find capabilities through its BIZBoK. The Guild's method creates a business domain class model and applies CRUD functionality to identify capabilities. However, the Guild method is not sufficient for business architecture.
 
-To find the most important capabilities for a company's strategy, there are two main methods: using an industry standard model or following the guidance of Perry, Stott, and Smallwood. Companies that do not fit neatly into the product, customer, or technology categories, such as retail stores or consumer service businesses, should focus on capabilities that directly contribute to delivering the customer experience. This can be achieved by building stakeholder experience maps, identifying touchpoints, and determining value-delivering and supporting capabilities.
+To find the most important capabilities for a company's strategy, there are two main methods: using an industry standard model or following the guidance of Perry, Stott, and Smallwood. Companies that do not fit neatly into the product, customer, or technology categories, such as retail stores or consumer service businesses, should focus on capabilities that directly contribute to delivering the customer experience. This can be achieved by building stakeholder experience maps, identifying touchpoints, and determining value-delivering and supporting capabilities. 
 
 [![image001](media/bc6.png)](https://iasa-global.github.io/btabok/business_capability_canvas.html){:target="_blank"}
 
