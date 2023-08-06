@@ -61,9 +61,9 @@ The architecture team should regularly identify critical areas of the organizati
 
 Utilization should directly impact the jobs that an induvial does and how they execute that job.
 
--   More than 50 percent of newly launched products fall short of the company's projected expectations.
--   Only 1 in 100 new products covers its development costs.
--   Only 1 in 300 new products has a significant impact on customer purchase behaviour, the product category, or the company's growth trajectory.
+- More than 50 percent of newly launched products fall short of the company's projected expectations.
+- Only 1 in 100 new products covers its development costs.
+- Only 1 in 300 new products has a significant impact on customer purchase behaviour, the product category, or the company's growth trajectory.
 
 ![image001](media/utilize001.png)
 

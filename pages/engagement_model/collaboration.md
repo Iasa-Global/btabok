@@ -85,247 +85,103 @@ Collaboration with partners can be really useful to an architecture practice. It
 
 # On the inside
 
-Collaborations within an organization can take many forms. In order to
-facilitate good collaboration, tools like collaboration platforms,
-document management systems, wikis or the organization\'s intranet can
-be used. These provide a good starting point for the organization to
-share knowledge and information. The [value streams](value_streams.md){:target="_blank"} within
-the organization require collaboration between different parties in
-order to effectively deliver value. So good collaboration is essential
-to effective value delivery.
+Collaborations within an organization can take many forms. In order to facilitate good collaboration, tools like collaboration platforms, document management systems, wikis or the organization\'s intranet can be used. These provide a good starting point for the organization to share knowledge and information. The [value streams](value_streams.md){:target="_blank"} within the organization require collaboration between different parties in order to effectively deliver value. So good collaboration is essential to effective value delivery.
 
-Key factors in collaboration are transparency and trust between the
-parties. A collaboration with little trust is defensive, and makes
-working together difficult. This can arise if there are conflicting
-expectations on parties involved, this may be regarding the valued
-gained from the collaboration, or the outcome of the collaboration.
-Trust is affected by transparency, if the parties involved in the
-collaboration are not open with each other, this will negatively affect
-the trust between the parties.
+Key factors in collaboration are transparency and trust between the parties. A collaboration with little trust is defensive, and makes working together difficult. This can arise if there are conflicting expectations on parties involved, this may be regarding the valued gained from the collaboration, or the outcome of the collaboration. Trust is affected by transparency, if the parties involved in the collaboration are not open with each other, this will negatively affect the trust between the parties.
 
-It is important for an architecture practice to work well together with
-the different areas of the organization. This helps to promote the
-practice of architecture, and spread architectures throughout the
-organization. It also provides the architecture practice with a
-substantial network of knowledge and stakeholders, which aid value
-delivery.
+It is important for an architecture practice to work well together with the different areas of the organization. This helps to promote the practice of architecture, and spread architectures throughout the organization. It also provides the architecture practice with a substantial network of knowledge and stakeholders, which aid value delivery.
 
 # Key Considerations for Collaboration
 
 ## Confidentiality
 
-Different parties participating in a collaboration may have to adhere to
-different rules regarding confidentiality. This is true both for
-internal and external collaborations. Confidentiality can hinder a
-collaboration as it restricts information to certain participants, and
-if handled incorrectly can lead to feelings of exclusion. If
-confidentiality substantially restricts the information flow between
-participants, it may well be that a collaboration between the
-participants is not feasible.
+Different parties participating in a collaboration may have to adhere to different rules regarding confidentiality. This is true both for internal and external collaborations. Confidentiality can hinder a collaboration as it restricts information to certain participants, and if handled incorrectly can lead to feelings of exclusion. If confidentiality substantially restricts the information flow between participants, it may well be that a collaboration between the participants is not feasible.
 
 ## Internal politics
 
-Internal politics influence and affect collaborations.
-[Stakeholders](stakeholders.md){:target="_blank"}, internal or external, will have vested
-interests in the different outcomes of the collaboration. These
-stakeholders are likely to try and influence the collaboration to their
-best advantage. Analysis of the stakeholders in a collaboration is
-important, managing stakeholders in the right way can make some aspects
-of a collaboration much easier. For example, securing financial backing,
-spreading positivity or providing access to resources.
+Internal politics influence and affect collaborations. [Stakeholders](stakeholders.md){:target="_blank"}, internal or external, will have vested interests in the different outcomes of the collaboration. These stakeholders are likely to try and influence the collaboration to their best advantage. Analysis of the stakeholders in a collaboration is important, managing stakeholders in the right way can make some aspects of a collaboration much easier. For example, securing financial backing, spreading positivity or providing access to resources.
 
 ## Communication
 
-Communication is one of the most important factors in a collaboration.
-Good communication ensures that participants work well together, and
-that all parties in the collaboration get the information they need.
-When starting a collaboration initiative, it is a good idea to consider
-a communication strategy.
+Communication is one of the most important factors in a collaboration. Good communication ensures that participants work well together, and that all parties in the collaboration get the information they need. When starting a collaboration initiative, it is a good idea to consider a communication strategy.
 
-![image001](media/collaboration_communication_strategy.png) 
+![image001](media/collaboration_communication_strategy.png)
 
-The communication strategy helps to define the methods by which
-information is communicated to participants in the collaboration. It is
-also used to plan communication to [stakeholders](stakeholders.md){:target="_blank"} who are
-interested in the outcome of the collaboration. The canvas above can be
-used as a method for helping to define a communication strategy.
+The communication strategy helps to define the methods by which information is communicated to participants in the collaboration. It is also used to plan communication to [stakeholders](stakeholders.md){:target="_blank"} who are interested in the outcome of the collaboration. The canvas above can be used as a method for helping to define a communication strategy.
 
 ## Organizational barriers
 
-In large organizations there is often a complex structure for the
-organizational units and capabilities. These organizational units have
-their own interests (political, financial, influence, competition,
-etc..) and this can create organizational barriers to a collaboration. A
-[value stream](value_streams.md){:target="_blank"} may rely on several organizational units
-working together effectively in order to deliver value, organizational
-barriers represent a threat to efficient value delivery. To reduce
-organizational barriers, make sure key stakeholders from the
-organizations are well represented, and that the participants have a
-vested interest in the successful outcome of the collaboration.
+In large organizations there is often a complex structure for the organizational units and capabilities. These organizational units have their own interests (political, financial, influence, competition, etc..) and this can create organizational barriers to a collaboration. A [value stream](value_streams.md){:target="_blank"} may rely on several organizational units working together effectively in order to deliver value, organizational barriers represent a threat to efficient value delivery. To reduce organizational barriers, make sure key stakeholders from the organizations are well represented, and that the participants have a vested interest in the successful outcome of the collaboration.
 
 ## Geographical barriers
 
-When the participants in a collaboration are not placed in the same
-geographical location, finding a flow in working together can be
-challenging. If the collaboration is running over several countries,
-then aspects such as time-zones become an issue. It requires much more
-planning to set up meetings and get all participants in attendance.
+When the participants in a collaboration are not placed in the same geographical location, finding a flow in working together can be challenging. If the collaboration is running over several countries, then aspects such as time-zones become an issue. It requires much more planning to set up meetings and get all participants in attendance.
 
-There are many tools which help in working remotely (remote meetings,
-knowledge sharing, collaboration platforms), however there is a lot to
-be said for face-to-face meetings. Human factors such as the atmosphere
-of a meeting, and the body language of participants, are difficult to
-convey over remote tools. Meetings which are innovation based, or
-require complex conceptual thinking, also require a certain interaction
-between the participants, and this is difficult to achieve when using
-remote tools. It is important to get the right balance between working
-remotely and working face-to-face, as in many cases it may be more
-productive to meet people in person.
+There are many tools which help in working remotely (remote meetings, knowledge sharing, collaboration platforms), however there is a lot to be said for face-to-face meetings. Human factors such as the atmosphere of a meeting, and the body language of participants, are difficult to convey over remote tools. Meetings which are innovation based, or require complex conceptual thinking, also require a certain interaction between the participants, and this is difficult to achieve when using remote tools. It is important to get the right balance between working remotely and working face-to-face, as in many cases it may be more productive to meet people in person.
 
 ## Language
 
-In collaborations which span across different countries, language can be
-a barrier to good communication. There are a number of tools which can
-help aid communication across different languages, such as translation
-tools, and in the case of remote meetings auto-translation and close
-captioning.
+In collaborations which span across different countries, language can be a barrier to good communication. There are a number of tools which can help aid communication across different languages, such as translation tools, and in the case of remote meetings auto-translation and close captioning.
 
-However, in these types of collaborations it is important to document
-communication, as it can be easy to misunderstand verbal communication.
-Verbal communication in many cases can rely on the tone of the language
-to convey meaning, which might not be easy to pick up. Providing
-documented communication allows all parties to verify the meaning of the
-communication and leads to a better understanding between the
-participants.
+However, in these types of collaborations it is important to document communication, as it can be easy to misunderstand verbal communication. Verbal communication in many cases can rely on the tone of the language to convey meaning, which might not be easy to pick up. Providing documented communication allows all parties to verify the meaning of the communication and leads to a better understanding between the participants.
 
 ## Cultural differences
 
-Cultural differences within a collaboration may create tension.
-Companies and organizations nurture their own [cultures](culture.md){:target="_blank"}. In addition,
-cultures may differ depending on country and even regions within a
-country. A collaboration which involves many cultures can be challenging
-and require a lot of effort and tolerance from the participants. At the
-same time, it can also be very rewarding and spark innovation which
-simply may not occur if the culture is homogonous.
+Cultural differences within a collaboration may create tension. Companies and organizations nurture their own [cultures](culture.md){:target="_blank"}. In addition, cultures may differ depending on country and even regions within a country. A collaboration which involves many cultures can be challenging and require a lot of effort and tolerance from the participants. At the same time, it can also be very rewarding and spark innovation which simply may not occur if the culture is homogonous.
 
 ## Multi-profession
 
-Collaborations may involve the inclusion of individuals from several
-different professions (UX, Development, Test, Business Management,
-Subject Matter Experts), like an [extended team](extended_team.md){:target="_blank"}. In such
-collaborations it can be challenging to find a common way of working.
-Each profession has their own working practices and it is important to
-take time to build a collaborative process which works for all
-participants.
+Collaborations may involve the inclusion of individuals from several different professions (UX, Development, Test, Business Management, Subject Matter Experts), like an [extended team](extended_team.md){:target="_blank"}. In such collaborations it can be challenging to find a common way of working.
+Each profession has their own working practices and it is important to take time to build a collaborative process which works for all participants.
 
 # Planning a Collaboration
 
-Not all collaborations require planning, sometimes they just grow
-organically. However, if a collaboration is required for a
-business-critical activity or deliverable then it is wise to perform
-some planning for the collaboration. For example, a service to customers
-which requires the collaboration of several suppliers, a large solution
-project with several product teams or a new strategy for security over a
-portfolio of products. These all require collaboration between
-stakeholders or teams which belong to different organizations.
+Not all collaborations require planning, sometimes they just grow organically. However, if a collaboration is required for a business-critical activity or deliverable then it is wise to perform some planning for the collaboration. For example, a service to customers which requires the collaboration of several suppliers, a large solution project with several product teams or a new strategy for security over a portfolio of products. These all require collaboration between stakeholders or teams which belong to different organizations.
 
-In order to help plan for a collaboration, the Collaboration Planning
-Canvas can be used.
+In order to help plan for a collaboration, the Collaboration Planning Canvas can be used.
 
 ![image001](media/collaboration_collaboration_planning_canvas.png) 
 
-The Collaboration Planning Canvas highlights several different areas
-which are valuable when planning a collaboration.
+The Collaboration Planning Canvas highlights several different areas which are valuable when planning a collaboration.
 
-The **Objective** describes what is to be achieved by the collaboration.
-All participants should be agreed on the objective.
+The **Objective** describes what is to be achieved by the collaboration. All participants should be agreed on the objective.
 
-The **Outcome** describes the value delivered from the collaboration.
-Again, all participants should be agreed on the outcome.
+The **Outcome** describes the value delivered from the collaboration. Again, all participants should be agreed on the outcome.
 
-**Preconditions** is an important consideration. There may be
-requirements on legal grounds, organizational, tools or special working
-environments which have to be met before the collaboration can begin.
+**Preconditions** is an important consideration. There may be requirements on legal grounds, organizational, tools or special working environments which have to be met before the collaboration can begin.
 
-**Participants and Stakeholders** describes a list of both the active
-participants in the collaboration, and stakeholders who have an active
-interest in the outcome. **Contribution** is a description of what a
-participant expects to contribute to the collaboration, while **Gains**
-is a description of what the participant expects to get out of the
-collaboration.
+**Participants and Stakeholders** describes a list of both the active participants in the collaboration, and stakeholders who have an active interest in the outcome. **Contribution** is a description of what a participant expects to contribute to the collaboration, while **Gains** is a description of what the participant expects to get out of the collaboration.
 
-Contribution and Gain are important as this sets the expectations for
-the participants and avoids confusion later in the collaboration. From
-the start of the collaboration, it will be clear what each participant
-contributes and what they expect to gain.
+Contribution and Gain are important as this sets the expectations for the participants and avoids confusion later in the collaboration. From the start of the collaboration, it will be clear what each participant contributes and what they expect to gain.
 
-This is very useful to the architect when entering a joint venture with
-different parties, or even as a tool to assess which stakeholders and
-participants may be required for a given initiative. Even once the
-collaboration is up and running, it is worthwhile to periodically review
-the Collaboration Plan, as objectives, outcomes and expectations tend to
-change over time. A review will help maintain the collaboration on good
-terms as time progresses.
+This is very useful to the architect when entering a joint venture with different parties, or even as a tool to assess which stakeholders and participants may be required for a given initiative. Even once the collaboration is up and running, it is worthwhile to periodically review the Collaboration Plan, as objectives, outcomes and expectations tend to change over time. A review will help maintain the collaboration on good terms as time progresses.
 
 # Measuring Collaboration
 
-Collaboration is something which is highly desirable within an
-organization but it is difficult to measure broadly. Collaborative
-projects can be measured on the outcome of the project, but informal
-collaboration between individuals in an organization or collaboration as
-a whole is much more difficult.
+Collaboration is something which is highly desirable within an organization but it is difficult to measure broadly. Collaborative projects can be measured on the outcome of the project, but informal collaboration between individuals in an organization or collaboration as a whole is much more difficult.
 
-A common way of measuring collaboration is to commission a survey, and
-ask relevant questions about collaboration to the members of the
-organization. The result of a survey is highly dependent on how the
-questions are constructed, and managing a survey can involve heavy
-administration.
+A common way of measuring collaboration is to commission a survey, and ask relevant questions about collaboration to the members of the organization. The result of a survey is highly dependent on how the questions are constructed, and managing a survey can involve heavy administration.
 
-Collaboration can also be assessed by measuring collaborative
-activities. Some examples of these activities are:
+Collaboration can also be assessed by measuring collaborative activities. Some examples of these activities are:
 
 - Meetings
-
 - Document management
-
 - Schedules and tasks
-
 - Status/progress report management
-
 - Calendar management
-
 - Responsibility management
-
 - Sharing notes and Ideas
-
 - Sharing knowledge sets on Wikis
-
 - Sharing knowledge sets on Blogs
-
 - Sharing contacts
-
 - Social networking
-
 - Search queries
 
-These activities can be measured in terms of number of persons
-performing the activity, or hours spent on the activity.
+These activities can be measured in terms of number of persons performing the activity, or hours spent on the activity.
 
-Organizational Network Analysis (ONA) is a technique by which a network
-is visually constructed to show how communication and information flows
-through an organization. This provides a tool for analyzing
-collaboration and identifying bottlenecks, critical knowledge flows and
-areas which are peripheral in the organization (potential for better
-collaboration).
+Organizational Network Analysis (ONA) is a technique by which a network is visually constructed to show how communication and information flows through an organization. This provides a tool for analyzing collaboration and identifying bottlenecks, critical knowledge flows and areas which are peripheral in the organization (potential for better collaboration).
 
-There are also a number of technical solutions which can help in
-measuring collaboration. An organization can measure the digital flow of
-information (email, chat, collaboration tools...) between the members of
-the organization and use this information to visualize collaboration. AI
-can also be leveraged to facilitate collaboration within the
-organization. However, gathering this type of information will require
-the consent of the organization's members, and careful consideration
-should also be given to legal issues.
+There are also a number of technical solutions which can help in measuring collaboration. An organization can measure the digital flow of information (email, chat, collaboration tools...) between the members of the organization and use this information to visualize collaboration. AI can also be leveraged to facilitate collaboration within the organization. However, gathering this type of information will require the consent of the organization's members, and careful consideration should also be given to legal issues.
 
 # References and Further Reading
 
