@@ -185,7 +185,7 @@ A PESTEL analysis considers the surrounding environment of an organization, and 
 - **Legal** - the legal aspect refers to laws and regulations which affect the organization and its products and services. This may
   include laws or regulations regarding, for example, privacy, health and safety, security, pollution or employment.
 
-![image001](media/strategy_pestel.png)
+[![image001](media/strategy_pestel.png)](https://iasa-global.github.io/btabok/PESTLE_canvas.html){:target="_blank"}
 
 The working method for performing a PESTEL analysis is similar to SWOT. This works best in a team workshop using brainstorming techniques to add factors to each aspect. When the participants feel they have identified all the factors which influence the organization, they can begin to discuss tactics to mitigate threats and take advantage of opportunities.
 This analysis can be used in combination with SWOT.
@@ -212,7 +212,7 @@ The values for probability and consequence are used together with the risk matri
 
 The power-interest grid is a useful tool for identifying tactics based on stakeholders. The grid is used to identify important strategic stakeholders based on the stakeholder interest and power (or influence).
 
-![image001](media/strategy_power_intrest.png)
+[![image001](media/strategy_power_intrest.png)](https://iasa-global.github.io/btabok/power_interest_grid.html){:target="_blank"}
 
 [Stakeholders](stakeholders.md){:target="_blank"} with a high level of interest and power are often central to the success of the strategy, and tactics regarding the management of these stakeholders should be defined. Further information about the power-interest grid and stakeholder management can be found in the stakeholder's element.
 
