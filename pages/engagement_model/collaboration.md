@@ -15,168 +15,73 @@ tags:
 
 # What is Collaboration
 
-Collaboration is people or organizations working together to deliver
-value. Participants in a collaboration may have different perspectives
-on value, but a collaboration has a common objective. For example, two
-organizations may collaborate to deliver a software product. The value
-for organization A is to expand development capacity, while the value
-for organization B is to gain experience and learn new technologies.
-However, both organizations achieve this through the common objective of
-delivering the software product.
+Collaboration is people or organizations working together to deliver value. Participants in a collaboration may have different perspectives on value, but a collaboration has a common objective. For example, two organizations may collaborate to deliver a software product. The value for organization A is to expand development capacity, while the value for organization B is to gain experience and learn new technologies. However, both organizations achieve this through the common objective of delivering the software product.
 
-Collaboration often arises, where there is a need for skills, knowledge
-or resources from different parties in order to achieve a common
-objective.
+Collaboration often arises, where there is a need for skills, knowledge or resources from different parties in order to achieve a common objective.
 
-The following are examples of typical parties involved in a
-collaboration:
+The following are examples of typical parties involved in a collaboration:
 
-- **Individuals** -- individual people with special knowledge or
-  skills working together with other parties
+- **Individuals** -- individual people with special knowledge or skills working together with other parties
 
-- **Teams** (Products/Services) -- teams in the same organization
-  which work with different products or services, collaborating to
-  deliver greater value to a common customer
+- **Teams** (Products/Services) -- teams in the same organization which work with different products or services, collaborating to deliver greater value to a common customer
 
-- **Business Units** -- collaboration on an organizational
-  perspective, for example European offices working together with US
-  offices
+- **Business Units** -- collaboration on an organizational perspective, for example European offices working together with US offices
 
-- **Capabilities** -- collaboration between the capabilities of the
-  organization to increase value flow, for example Production working
-  together with Sales
+- **Capabilities** -- collaboration between the capabilities of the organization to increase value flow, for example Production working together with Sales
 
-- **Partners** -- collaboration with external organizations, for
-  example, suppliers or re-sellers
+- **Partners** -- collaboration with external organizations, for example, suppliers or re-sellers
 
-It is important for the architect, and the architecture practice, to
-identify and maintain collaborations which optimize value delivery. The
-architect plays a significant role in facilitating collaboration in
+It is important for the architect, and the architecture practice, to identify and maintain collaborations which optimize value delivery. The architect plays a significant role in facilitating collaboration in
 every aspect of their organization.
 
 # Why Collaboration is Important
 
-When collaboration works well, it leads to significant gains in
-productivity and provides vital access to skills, experience and
-knowledge. Without collaboration an organization may be forced to invest
-in training programs, and procuring experience in a given subject area,
-and this can take a long time.
+When collaboration works well, it leads to significant gains in productivity and provides vital access to skills, experience and knowledge. Without collaboration an organization may be forced to invest in training programs, and procuring experience in a given subject area, and this can take a long time.
 
-Collaboration is not only about gaining skills and knowledge, it can
-also be about the positioning of an organization, initiative, product or
-service. For example, an organization wishing to launch a product on a
-new market, may partner with another organization which is already
-established in the market. This makes entry to the market easier.
+Collaboration is not only about gaining skills and knowledge, it can also be about the positioning of an organization, initiative, product or service. For example, an organization wishing to launch a product on a new market, may partner with another organization which is already established in the market. This makes entry to the market easier.
 
-Collaboration between parties with different skillsets or perspectives
-is also a driver for innovation. When the different perspectives meet,
-new ideas are born. Insight into different viewpoints strengthens all
-parties in the collaboration. It can also provide motivation for change,
-or disruption, giving the organization a competitive advantage.
+Collaboration between parties with different skillsets or perspectives is also a driver for innovation. When the different perspectives meet, new ideas are born. Insight into different viewpoints strengthens all parties in the collaboration. It can also provide motivation for change, or disruption, giving the organization a competitive advantage.
 
-Networks of collaborations between the different capabilities within an
-organization strengthen value streams. This provides an effective
-delivery mechanism for value.
+Networks of collaborations between the different capabilities within an organization strengthen value streams. This provides an effective delivery mechanism for value.
 
-It is important for an architecture practice to collaborate well with
-the different parts of the organization. This allows the architecture
-practice to gain traction and [coverage](coverage.md){:target="_blank"} throughout the
-organization. This leads to respect and understanding for the
-architecture practice itself, and the architectures that the practice
+It is important for an architecture practice to collaborate well with the different parts of the organization. This allows the architecture practice to gain traction and [coverage](coverage.md){:target="_blank"} throughout the organization. This leads to respect and understanding for the architecture practice itself, and the architectures that the practice
 produce.
 
 # Collaboration Approach
 
 ## Know the stakeholders
 
-The parties participating in a collaboration have an invested interest
-and influence, on the outcome of the collaboration. These participants
-are [stakeholders](stakeholders.md){:target="_blank"}. In order for a collaboration to be
-successful, it is important to understand the stakeholders needs. This
-ensures that the participants can work well together, and that the
-participants will be motivated and satisfied with the outcome of the
-collaboration.
+The parties participating in a collaboration have an invested interest and influence, on the outcome of the collaboration. These participants are [stakeholders](stakeholders.md){:target="_blank"}. In order for a collaboration to be successful, it is important to understand the stakeholders needs. This ensures that the participants can work well together, and that the participants will be motivated and satisfied with the outcome of the collaboration.
 
 ## Avoid silos
 
-Many organizations create a structure in order to make the organization
-manageable. This structure contains organizational units which may be
-based on, for example, geography, capabilities or special business
-functions. It is common that organizational units become silos (vertical
-communication and collaboration), looking after their own concerns,
-neither sharing or collaborating with other organizational units. This
-is sub-optimal as it reduces potential for innovation and shared
-solutions. A typical indication of a silo culture is the duplication of
-very similar solutions or processes across different organizational
-units. Horizontal collaboration and communication in an organization can
-help break the silo structure, and promote re-usable solutions and
-processes across the organization.
+Many organizations create a structure in order to make the organization manageable. This structure contains organizational units which may be based on, for example, geography, capabilities or special business functions. It is common that organizational units become silos (vertical communication and collaboration), looking after their own concerns, neither sharing or collaborating with other organizational units. This is sub-optimal as it reduces potential for innovation and shared solutions. A typical indication of a silo culture is the duplication of very similar solutions or processes across different organizationalunits. Horizontal collaboration and communication in an organization can help break the silo structure, and promote re-usable solutions and processes across the organization.
 
 ## Buy-in and win-win
 
-In order for a collaboration to be successful there has to be "buy-in"
-for the participants. That is to say, that the participants have to gain
-something from the outcome of the collaboration. Participants in a
-collaboration who have no vested interest in the outcome, are unlikely
-to be motivated to ensure the collaboration is a success. The best
-collaborations have a "win-win" scenario for all parties.
+In order for a collaboration to be successful there has to be "buy-in" for the participants. That is to say, that the participants have to gain something from the outcome of the collaboration. Participants in a collaboration who have no vested interest in the outcome, are unlikely to be motivated to ensure the collaboration is a success. The best collaborations have a "win-win" scenario for all parties.
 
 ## Collaboration does not happen by itself
 
-Collaboration requires time and effort. The architecture practice can
-provide technologies, solutions, structures and processes which nurture
-a culture of collaboration, and even more specifically can pin-point
-areas in the organization which can be optimized by collaboration in
-order to deliver greater value.
+Collaboration requires time and effort. The architecture practice can provide technologies, solutions, structures and processes which nurture a culture of collaboration, and even more specifically can pin-point areas in the organization which can be optimized by collaboration in order to deliver greater value.
 
 ## Work Out Loud
 
-Work Out Loud is a way of working, in which individuals are encouraged
-to work transparently, and actively share what they are working with.
-This way of working uses two principals, observable work and narrate
-work. Observable work is just as it sounds, individuals make their work
-available where others can see it and comment or contribute. Narrating
-work means that individuals describe what they are doing in a log, for
-others who are interested to follow, rather like social media. This
-method of working promotes networking and collaboration throughout an
-organization.
+Work Out Loud is a way of working, in which individuals are encouraged to work transparently, and actively share what they are working with. This way of working uses two principals, observable work and narrate work. Observable work is just as it sounds, individuals make their work available where others can see it and comment or contribute. Narrating work means that individuals describe what they are doing in a log, for others who are interested to follow, rather like social media. This method of working promotes networking and collaboration throughout an organization.
 
 ## Decisions
 
-In order to drive collaboration forward it is important that
-decision-making runs smoothly, especially in joint ventures.
-Collaborations may rely on collective decision-making between the
-different parties and this can take time. It is important to ensure that
-there are structures in place, which can be used, if the parties cannot
-resolve a decision or situation. This may be a committee or steering
-group which is impartial and can support the decision-making process.
+In order to drive collaboration forward it is important that decision-making runs smoothly, especially in joint ventures. Collaborations may rely on collective decision-making between the different parties and this can take time. It is important to ensure that there are structures in place, which can be used, if the parties cannot resolve a decision or situation. This may be a committee or steering group which is impartial and can support the decision-making process.
 
 ## Responsibilities
 
-In a collaboration between several parties, it is normal that each part
-will place expectations on the other parties. If the responsibilities of
-the parties are not clear, this can lead to friction within the
-collaboration, where expectations are built up but not fulfilled by one
-or more parties. To avoid this, it is important to define the
-responsibilities of each part, so expectations are clear.
+In a collaboration between several parties, it is normal that each part will place expectations on the other parties. If the responsibilities of the parties are not clear, this can lead to friction within the collaboration, where expectations are built up but not fulfilled by one or more parties. To avoid this, it is important to define the responsibilities of each part, so expectations are clear.
 
 # On the Outside
 
-Collaborations with parties outside the organization is usually achieved
-by creating some sort of partnership which is advantageous to value
-delivery. Collaboration with partners does have its limitations, since
-the partner is not likely to have the same kind of access to information
-that an internal collaboration will have. Since the partner cannot be
-steered by the organization, contracts or partnership agreements are
-used to ensure that responsibilities, conditions and principles are
-adhered to. A partnership agreement takes time to work through and often
-involves a review of legal conditions. This means that it can often take
-some time to get a partnership up and running, compared to an internal
-collaboration.
+Collaborations with parties outside the organization is usually achieved by creating some sort of partnership which is advantageous to value delivery. Collaboration with partners does have its limitations, since the partner is not likely to have the same kind of access to information that an internal collaboration will have. Since the partner cannot be steered by the organization, contracts or partnership agreements are sed to ensure that responsibilities, conditions and principles are adhered to. A partnership agreement takes time to work through and often involves a review of legal conditions. This means that it can often take some time to get a partnership up and running, compared to an internal collaboration.
 
-Collaboration with partners can be really useful to an architecture
-practice. It can open doors to new technologies, competitive rates (for
-products or consulting services) or access to learning new skills.
+Collaboration with partners can be really useful to an architecture practice. It can open doors to new technologies, competitive rates (for products or consulting services) or access to learning new skills.
 
 # On the inside
 
