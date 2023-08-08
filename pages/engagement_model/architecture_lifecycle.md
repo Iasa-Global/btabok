@@ -1,5 +1,6 @@
 ---
-title: "Architecture Lifecycle"keywords: 
+title: "Architecture Lifecycle"
+keywords: 
 sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_lifecycle.html
@@ -9,8 +10,7 @@ tags:
   - operating_model
 ---
 
-> "A series of stages through which something (such as an individual, culture, or manufactured product) passes during its lifetime" 
-> **Merriam Webster Dictionary**
+> "A series of stages through which something (such as an individual, culture, or manufactured product) passes during its lifetime" **Merriam Webster Dictionary**
 
 # What is a lifecycle
 
