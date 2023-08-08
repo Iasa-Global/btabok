@@ -15,22 +15,15 @@ tags:
 
 # What is a lifecycle
 
-The architecture lifecycle, or Architecture Development Life Cycle
-(ADLC), are the stages that an architecture goes through from its
-inception to its decommissioning. The ADLC provides a guiding process
-for developing architecture, and helps the architect understand and
-communicate the state of the architecture.
+The architecture lifecycle, or Architecture Development Life Cycle (ADLC), are the stages that an architecture goes through from its inception to its decommissioning. The ADLC provides a guiding process for developing architecture, and helps the architect understand and communicate the state of the architecture.
 
 ![image001](media/lifecycle_overview.png) 
 
-The diagram above shows the stages of the ADLC. The ADLC is an iterative
-cycle to ensure that the architecture develops and evolves in line with
-its surrounding environment.
+The diagram above shows the stages of the ADLC. The ADLC is an iterative cycle to ensure that the architecture develops and evolves in line with its surrounding environment.
 
 The following are the stages of the ADLC:
 
-- **Innovation Cycle** -- the continuous cycle of value driven ideas
-  for changing the business and gaining value. This continually drives
+- **Innovation Cycle** -- the continuous cycle of value driven ideas  for changing the business and gaining value. This continually drives
   the evolution of the architecture.
 
 - **Strategy**-- the charting of the architecture direction in the
