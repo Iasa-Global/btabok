@@ -22,68 +22,33 @@ The diagram above shows the stages of the ADLC. The ADLC is an iterative cycle t
 
 The following are the stages of the ADLC:
 
-- **Innovation Cycle** -- the continuous cycle of value driven ideas  for changing the business and gaining value. This continually drives
-  the evolution of the architecture.
+- **Innovation Cycle** -- the continuous cycle of value driven ideas  for changing the business and gaining value. This continually drives the evolution of the architecture.
 
-- **Strategy**-- the charting of the architecture direction in the
-  long term, and the assessment and prioritization of business cases
-  and assignments. This results in a statement of the requirements for
-  developing the architecture.
+- **Strategy**-- the charting of the architecture direction in the long term, and the assessment and prioritization of business cases and assignments. This results in a statement of the requirements for developing the architecture.
 
-- **Planning** -- given an assignment and the requirements on the
-  architecture, the fundamental blueprints for the architecture are
-  developed. The architecture practice or team are also assessed in
-  terms of what is required to deliver the architecture
-  transformation.
+- **Planning** -- given an assignment and the requirements on the architecture, the fundamental blueprints for the architecture are developed. The architecture practice or team are also assessed in terms of what is required to deliver the architecture transformation.
 
-- **Transformation** - the use of the architecture in creating
-  deliverables, such as a product or solution, which provides the
-  sponsor with an expected value. This includes refinement of the
-  architecture during the product or solution development.
+- **Transformation** - the use of the architecture in creating deliverables, such as a product or solution, which provides the sponsor with an expected value. This includes refinement of the architecture during the product or solution development.
 
-- **Utilize and Measure** - the use of the architecture in practice
-  after deployment of the deliverables. This includes measurement of
-  the architecture to assess if it provided the expected value for the
-  sponsor.
+- **Utilize and Measure** - the use of the architecture in practice after deployment of the deliverables. This includes measurement of the architecture to assess if it provided the expected value for the sponsor.
 
-- **Decommission** -- when utilization of the architecture has run its
-  course and no longer provides value to the sponsor, the architecture
-  may be decommissioned or replaced by another architecture.
+- **Decommission** -- when utilization of the architecture has run its course and no longer provides value to the sponsor, the architecture may be decommissioned or replaced by another architecture.
 
-The ADLC is a cycle which aims to continuously improve the architecture,
-where measurement of the architecture provides the feedback for further
-innovation.
+The ADLC is a cycle which aims to continuously improve the architecture, where measurement of the architecture provides the feedback for further innovation.
 
 # Why we need the lifecycle
 
-The ADLC provides a method including tools, deliverables and processes
-which help the architect develop a quality architecture. With the
-standard stages in the lifecycle it provides a common process between
-architects in developing an architecture. It helps architects
-communicate the status of an architecture, and to know what is required
-of the architect in each stage of the lifecycle.
+The ADLC provides a method including tools, deliverables and processes which help the architect develop a quality architecture. With the standard stages in the lifecycle it provides a common process between architects in developing an architecture. It helps architects communicate the status of an architecture, and to know what is required of the architect in each stage of the lifecycle.
 
-The lifecycle helps the architect to perform architecture activities in
-an ordered sequence at the right stages of the lifecycle, and provides a
-way of communicating process in the architecture development.
+The lifecycle helps the architect to perform architecture activities in an ordered sequence at the right stages of the lifecycle, and provides a way of communicating process in the architecture development.
 
-Developing the ADLC itself allows the architecture practice to
-incorporate a standard way of working with architecture development.
-This facilitates an iterative and continuous improvement of architecture
-practices and may also provide the foundations for governance.
+Developing the ADLC itself allows the architecture practice to incorporate a standard way of working with architecture development. This facilitates an iterative and continuous improvement of architecture practices and may also provide the foundations for governance.
 
 # Lifecycle Approach
 
 ## Plan the Journey
 
-Architectures are often developed for the long term from an initial
-innovation through to decommissioning. Use the strategy and planning
-stages of the lifecycle to assess the starting point (baseline
-architecture), the future state (the target architecture) and any stops
-on the way (transition architectures). Assess if the current lifecycle
-provides the means to ensure that transformation is feasible and
-manageable. A series of iterations of the lifecycle can be planned
-evolving the lifecycle to meet increasingly challenging transformations.
+Architectures are often developed for the long term from an initial innovation through to decommissioning. Use the strategy and planning stages of the lifecycle to assess the starting point (baseline architecture), the future state (the target architecture) and any stops on the way (transition architectures). Assess if the current lifecycle provides the means to ensure that transformation is feasible and manageable. A series of iterations of the lifecycle can be planned evolving the lifecycle to meet increasingly challenging transformations.
 
 ## Plan the Scope and Coverage of the Lifecycle
 
