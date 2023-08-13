@@ -151,7 +151,8 @@ expectations.
 
 A practical example of planning velocity is shown in the OKR card below.
 
-![image001](media/velocity_okr1.png) 
+
+[![image001](media/velocity_okr1.png)](https://iasa-global.github.io/btabok/okr_card.html)
 
 
 It can be seen in the OKR card above, that for each Key Result in the

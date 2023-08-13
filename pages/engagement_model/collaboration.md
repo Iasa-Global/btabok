@@ -105,7 +105,7 @@ Internal politics influence and affect collaborations. [Stakeholders](stakeholde
 
 Communication is one of the most important factors in a collaboration. Good communication ensures that participants work well together, and that all parties in the collaboration get the information they need. When starting a collaboration initiative, it is a good idea to consider a communication strategy.
 
-![image001](media/collaboration_communication_strategy.png)
+[![image001](media/collaboration_communication_strategy.png)](https://iasa-global.github.io/btabok/communication_strategy.html){:target="_blank"}
 
 The communication strategy helps to define the methods by which information is communicated to participants in the collaboration. It is also used to plan communication to [stakeholders](stakeholders.md){:target="_blank"} who are interested in the outcome of the collaboration. The canvas above can be used as a method for helping to define a communication strategy.
 
