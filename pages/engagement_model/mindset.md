@@ -118,7 +118,7 @@ David Rock has done excellent work in understanding how stakeholders react to ch
 SCARF Impact
 
 
-[![image001](media/mindset004.png)](https://iasa-global.github.io/btabok/scarf_stakeholder_assessment.html){:target="_blank"}
+[![image001](media/mindset004.png)](https://iasa-global.github.io/btabok/stakeholder_engagement_map_card.html){:target="_blank"}
 SCARF Assessment
 
 Context: Enterprise Transformation 
