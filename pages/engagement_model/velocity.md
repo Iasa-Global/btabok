@@ -11,17 +11,11 @@ tags:
 ---
 
 > "The speed of something in a given direction." 
-**-- Oxford Dictionary,definition of Velocity.**
+**Oxford Dictionary,definition of Velocity.**
 
 # What is Velocity
 
-Within business the term velocity is often used to describe the rate at
-which work can be performed. However, it is often missed that velocity
-also requires two other vital attributes, time and direction. Without
-these attributes the business only has a measurement of speed, this is
-not very useful as it does not give an indication of whether the
-business is making progress against its aims, only that it is able to
-perform work fast.
+Within business the term velocity is often used to describe the rate at which work can be performed. However, it is often missed that velocity also requires two other vital attributes, time and direction. Without these attributes the business only has a measurement of speed, this is not very useful as it does not give an indication of whether the business is making progress against its aims, only that it is able to perform work fast.
 
 In order for a business to measure velocity a direction has to be
 specified, and a time period given for the measurement. The definition
