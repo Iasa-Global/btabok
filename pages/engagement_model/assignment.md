@@ -46,7 +46,7 @@ Within any method of change, priorities must be established to allow the archite
 
 ## Understanding Scope and Coverage in Architecture Assignment
 
-[![image001](media/assignment001.png)](https://iasa-global.github.io/btabok/impact_effort_assessment_card.html)
+[![image001](media/assignment001.png)](https://iasa-global.github.io/btabok/impact_effort_assessment_card.html){:target="_blank"}
 
 Scope and coverage are both important when assigning architects and are somewhat complex. We have derived a simple method for outlining the scope of impact of the team while creating the team's goals.
 
@@ -88,7 +88,7 @@ The most motivating work for an architecture team is the change the business or 
 
 The roadmap impact and prioritization canvas is a quick and easy way to connect the concepts of work prioritization and impact with the portfolio.
 
-[![image001](media/assignment002.png)](https://iasa-global.github.io/btabok/architects_roadmap_canvas.html)
+[![image001](media/assignment002.png)](https://iasa-global.github.io/btabok/architects_roadmap_canvas.html){:target="_blank"}
 
 The architects roadmap is a combination of architectural priorities and the estimated interdependencies between work scope. It should be addressed and updated on a quarterly or semi-annual basis if not more frequently.
 
@@ -100,7 +100,7 @@ The architects roadmap is a combination of architectural priorities and the esti
 
 **Step 4:** Iterate on this process until the team agrees to the numbers and timelines. Assign architects based on the most critical factors identified in the previous steps. Use the stakeholder initiative map to help identify areas where stakeholder assignment based on politics and real-world delivery is needed.
 
-[![image001](media/assignment003.jpg)](https://iasa-global.github.io/btabok/stakeholder_initiative_canvas.html)
+[![image001](media/assignment003.jpg)](https://iasa-global.github.io/btabok/stakeholder_initiative_canvas.html){:target="_blank"}
 
 ## Architect Assignment
 
@@ -126,7 +126,7 @@ In many organizations the extended team is used as architects. For example, ther
 
 As a part of the assignment, each architect should sit down with their partners in both the delivery and strategy organization to use the agile team designer to communicate, understand and balance interactions. This can drastically reduce communication issues as delivery begins. This also works particularly well with partner organizations. 
 
-[![image001](media/agile_team_designer.svg)](https://iasa-global.github.io/btabok/agile_team_designer.html)
+[![image001](media/agile_team_designer.svg)](https://iasa-global.github.io/btabok/agile_team_designer.html){:target="_blank"}
 
 
 ## Assignments by Across Specializations

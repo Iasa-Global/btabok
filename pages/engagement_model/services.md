@@ -260,7 +260,7 @@ the result of the interaction is that the consumer receives a "Customer
 Membership Number".
 
  
-[![image001](media/services_canvas4.png)](https://iasa-global.github.io/btabok/service_contract_canvas.html)
+[![image001](media/services_canvas4.png)](https://iasa-global.github.io/btabok/service_contract_canvas.html){:target="_blank"}
 
 **Step 2: Service Level Agreement**
 
@@ -340,7 +340,7 @@ before tackling more complex or special case scenarios.
 Detail the expected outcome the service will provide from the scenario.
 
 
-[![image001](media/services_canvas5.png)](https://iasa-global.github.io/btabok/service_blueprint_canvas.html)
+[![image001](media/services_canvas5.png)](https://iasa-global.github.io/btabok/service_blueprint_canvas.html){:target="_blank"}
 
 **Step 2: Consumer and Provider Frontstage actions**
 
@@ -401,7 +401,7 @@ structure of the service domains can depend on a number of factors such
 as culture of the company, specialist skills or organizational
 structure.
 
-[![image001](media/services_landscape6.png)](https://iasa-global.github.io/btabok/service_landscape_canvas.html)
+[![image001](media/services_landscape6.png)](https://iasa-global.github.io/btabok/service_landscape_canvas.html){:target="_blank"}
 
 The canvas above shows a simple way to create a service landscape using
 service domains and stakeholders. This can be performed by individual
@@ -446,7 +446,7 @@ When working with the Service Domain Canvas it is recommended that a workshop me
 To start the workshop make a short statement describing the Service Domain and ensure that all participants in the workshop are agreed upon the scope and context of the Service Domain.
 
 
-[![image001](media/services_canvas7.png)](https://iasa-global.github.io/btabok/service_domain_canvas.html)
+[![image001](media/services_canvas7.png)](https://iasa-global.github.io/btabok/service_domain_canvas.html){:target="_blank"}
 
 **Step 2: List the services**
 
