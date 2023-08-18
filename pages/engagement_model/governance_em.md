@@ -263,17 +263,25 @@ the organization and can be regarded as industry standards.
 The architect can inherit, or develop architecture
 [principles](principles.md){:target="_blank"}, these help the architecture to comply with
 governance. This helps to align the architecture with the aims of the
-organization, for example goals and objectives. Developing principles
+organization, for example, goals and objectives. Developing principles
 help to give context and direction, which aids decision-making.
 
 For example, some simple principles may be that "Flexibility is favored
 over performance.", "COTS products are preferred to in-house
 development", or "User actions must be fully traceable.".
 
-In regulated industries these standards and principles may be strict, as
+In regulated industries, these standards and principles may be strict, as
 compliance to regulation is often business critical. It is therefore
 extremely important, that the architect understands the implications of
 governance for the architecture.
+
+### Standards and Time Models
+
+### Standards and Technology Status Models
+
+### How Standards Relate to Principles
+
+The basis for managed principles provide direct decision support for a particular architectural decisions. Standards support this through 
 
 ## Developing the Architecture
 

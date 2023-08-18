@@ -31,7 +31,7 @@ A practice mindset may be the most essential change in architecture and technolo
 In addition, a practice model brings significant benefits to all parties within the system. Problems that have plagued IT and organizations both vendor and non-vendor alike can be linked with the solutions provided by using a practice model rather than a management model for professionals involved in the field. This is not limited to architects but they and engineers are the most obvious candidates for the development of a true professional model. Below are issues and benefits that can be achieved through this shift in employment and experiential model.
 
 | **Benefits/Issues**                                      | **Description**                                                                                                                                                                                                                                                                                                                                                                                    | **Practice/Professional Impact**                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Effective adoption of modern methods and techniques.** | The industry currently experiences great difficulty in using, adapting, growing and maturing useful techniques such as Agility, CI/CD, DDD, etc.                                                                                                                                                                                                                                                   | A practice model requires that professionals maintain certain minimum levels of modern understanding. A professional is required to acquire new skills and to use them in practice and share findings in useful ways with other professionals                                                                                                                                                                                                                   |
 | **Difficulty in finding and retaining talent**           | There are never enough architects to go around. In fact, scarcity defines many of our engagement models (see Assignment). Great architects are hard to find and difficult to create even for the most advanced global organizations.                                                                                                                                                               | Much of this difficulty rests in the lack of a professional practice model. Since each company, service integrator and vendor 'create' their own version of architects, they are effectively re-inventing everything themselves over and over again.                                                                                                                                                                                                            |
 | **Poor understanding of value**                          | Architects are often seen as an unnecessary resource who struggle to define their value to companies and society.                                                                                                                                                                                                                                                                                  | Again professions have faced this challenge dozens of times. A professional model defines its value 'as a body' both internally and externally.                                                                                                                                                                                                                                                                                                                 |
@@ -72,11 +72,11 @@ The skills gap analysis canvas provides a tool for estimating a team or an indiv
 
 The most important element of building an architecture practice is simple but at the same time difficult. Take everyone in the company, and its direct vendors and service integrators with the title architect and roll them into an Architecture Practice. Some call this a Center of Excellence, some call it other names. The basis for the practice is to get all architects aligned with the primary success elements of the architecture practices:
 
--   A competency, experience based career path,
--   A value outcome based mindset,
--   A set of measured quality attribute based structural drivers,
--   A clear understanding of current maturity of the practice, and
--   An agreed path towards increasing maturity over time.
+- A competency, experience based career path,
+- A value outcome based mindset,
+- A set of measured quality attribute based structural drivers,
+- A clear understanding of current maturity of the practice, and
+- An agreed path towards increasing maturity over time.
 
 The practice, may need to include representatives from 'non-architect' roles but that are doing architecture work, especially in early maturity phases. The extended team article describes this in detail.
 
@@ -90,11 +90,11 @@ As in all of the outcome model articles of the BTABoK there are a set of objecti
 
 In general, the Architecture Practice should be responsible for the following 5 types of activities.
 
-1.  Building a Practice Steering Body
-2.  Growing People
-3.  Growing Maturity
-4.  Growing Acceptance/Awareness
-5.  Managing the Engagement Model
+1. Building a Practice Steering Body
+2. Growing People
+3. Growing Maturity
+4. Growing Acceptance/Awareness
+5. Managing the Engagement Model
 
 ## The Architecture Practice Steering Body
 
@@ -108,12 +108,12 @@ Great professionals make great practices. The first responsibility of the archit
 
 Growing the group of architects is based on:
 
--   Adopting a competency model,
--   Measuring each practitioner and extended team member against it,
--   Committing to both knowledge and mentoring based growth,
--   Measuring the growth in competencies,
--   Rewarding/promoting/supporting individuals for achievements, and
--   Committing learning back to a shared industry body of knowledge.
+- Adopting a competency model,
+- Measuring each practitioner and extended team member against it,
+- Committing to both knowledge and mentoring based growth,
+- Measuring the growth in competencies,
+- Rewarding/promoting/supporting individuals for achievements, and
+- Committing learning back to a shared industry body of knowledge.
 
 People advancement can be done as a part of training but it is essential that the training be followed up and supported in the engagement model and via a mentoring method that allows individuals to try new skills under appropriate circumstances.
 
@@ -153,20 +153,20 @@ There are numerous ways for every level of architect to contribute back into the
 
 Some examples and opportunities include:
 
--   Sharing experiences applying BTABoK concepts or methods of a concept or method on a project -- both and good and bad results (of course this contribution must have private data removed but the learning remains)
--   Creating videos, articles, or other records of applying patterns or techniques and tagging them to the body of knowledge
--   [Patterns](../patterns/architecture_pattern_repository.md){:target="_blank"}, [quality attributes](quality_attributes.md){:target="_blank"} and [viewpoint](views.md){:target="_blank"} examples
--   Supporting working groups delivery especially where the working group needs more junior members to help with the overall time contribution required
+- Sharing experiences applying BTABoK concepts or methods of a concept or method on a project -- both and good and bad results (of course this contribution must have private data removed but the learning remains)
+- Creating videos, articles, or other records of applying patterns or techniques and tagging them to the body of knowledge
+- [Patterns](../patterns/architecture_pattern_repository.md){:target="_blank"}, [quality attributes](quality_attributes.md){:target="_blank"} and [viewpoint](views.md){:target="_blank"} examples
+- Supporting working groups delivery especially where the working group needs more junior members to help with the overall time contribution required
 
 For more senior members
 
--   Videos, interviews, and speaking opportunities
--   Article contribution to official publications and organizations (beyond personal blogs)
--   Mentoring and teaching
--   Contribution to the Body of Knowledge
--   Coordination of organization architecture practice learnings as overall contributions
--   Participation in and leadership of working groups
--   Influencing the organization to adopt external levels of knowledge and practice
+- Videos, interviews, and speaking opportunities
+- Article contribution to official publications and organizations (beyond personal blogs)
+- Mentoring and teaching
+- Contribution to the Body of Knowledge
+- Coordination of organization architecture practice learnings as overall contributions
+- Participation in and leadership of working groups
+- Influencing the organization to adopt external levels of knowledge and practice
 
 ## Managing the Engagement Model
 
