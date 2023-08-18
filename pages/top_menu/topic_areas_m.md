@@ -21,9 +21,10 @@ Topic Areas are those which are considered detailed technologies or techniques w
 
 Topic Areas considered for version 3.0
 
-1. Integration
+1. [Integration](../topics/integration.md)
 2. Security
-3. [Sustainability](sustainability.md)
+3. [Sustainability](../topics/sustainability.md)
+4. [Microservices](../topics/microservices.md)
 
 Trends and techniques cover the following areas for version 3.0:
 
