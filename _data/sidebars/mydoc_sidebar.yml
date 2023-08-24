@@ -349,6 +349,26 @@ entries:
       url: topic_areas_m.html
       output: web
 
+    - title: DevOps
+      url: devops.html
+      output: web
+
+    - title: Cloud
+      url: cloud.html
+      output: web
+
+    - title: Security
+      url: Security.html
+      output: web
+
+    - title: Integration
+      url: Integration.html
+      output: web
+
+    - title: Sustainability
+      url: Sustainability.html
+      output: web
+
   - title: Structed Canvases
     output: web
     folderitems:

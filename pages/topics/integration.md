@@ -1,6 +1,20 @@
-Overview 
+---
+title: "Integration Architecture"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: integration.html
+folder: engagement_model
+summary: "Integration architecture is evolving to meet increasing stakeholder demands and accompanying advances in information technology."
+tags: 
+  - topic_area
+  - integration
+---
 
-What is Integration Architecture 
+
+#Overview 
+
+##What is Integration Architecture 
 
 Integration architecture is evolving to meet increasing stakeholder demands and accompanying advances in information technology. There is a growing need to new types of integrations. Newer styles of integration are displacing legacy approaches. The integration architecture is often a messaging architecture1 and generally adheres to defined principles that are described below.  To summarize: 
 
