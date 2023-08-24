@@ -3,7 +3,7 @@ title: "Security Architecture"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: security_architecture.html
+permalink: security.html
 folder: engagement_model
 summary: "security architecture "
 tags: 
@@ -11,6 +11,7 @@ tags:
   - integration
 ---
 
+*Note this is an initial stub / work in progress page.*
 
 #Overview 
 

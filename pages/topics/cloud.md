@@ -14,6 +14,6 @@ tags:
 
 #Overview 
 
-##What is Security Architecture 
+##What is Cloud Architecture 
 
 

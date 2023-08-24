@@ -3,7 +3,7 @@ title: "Sustainability Architecture"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: sustainability_architecture.html
+permalink: sustainability.html
 folder: engagement_model
 summary: "Integration architecture is evolving to meet increasing stakeholder demands and accompanying advances in information technology."
 tags: 

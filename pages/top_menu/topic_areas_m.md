@@ -24,7 +24,7 @@ Topic Areas considered for version 3.0
 1. [Integration](../topics/integration.md)
 2. Security
 3. [Sustainability](../topics/sustainability.md)
-4. [Microservices](../topics/microservices.md)
+4. [Microservices](../patterns/microservices_style.md)
 
 Trends and techniques cover the following areas for version 3.0:
 
