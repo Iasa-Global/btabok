@@ -11,10 +11,9 @@ tags:
 ---
 
 > "For good ideas and true innovation, you need human interaction, conflict, argument, debate."
-**Margaret Heffernan**
+> **Margaret Heffernan**
 
 # What Does it Mean to Innovate
-
 
 verb (used without object), in-no-vat-ed, in-no-vat-ing.
 
@@ -53,16 +52,16 @@ Although people tend to think of products when they think of innovations, there 
 
 of innovations. Thinking of innovation in broad terms can help a company look for sources of new value outside of traditional products.
 
-| **Type** | **Example** |
-| --- | --- |
-| New Products, Services or Technologies | Consider the impact of products such as the light bulb, automobile, personal computer and the Internet |
-| New Customer Experiences | Furniture retailing was transformed by having customers\
-Co-create and assemble furniture |
-| New Processes | Dell's build-to-order personal computer process has dramatically changed the way people purchase technology |
-| New Channels | Netflix transformed the movie rental business by using the Internet and mail to rent DVDs with no late fees |
-| New Business Models | Southwest Airlines, JetBlue, and other low-cost airline business models have demonstrated profitability and changed the nature of competition in the airline industry. |
-| New Markets | Novocaine was developed for general surgery, but took off among dentists (much to the dismay of its inventor) |
-| New Organizations | eBay has thousands of "employees" who pay the company to work for it! |
+| **Type**                               | **Example**                                                                                                                                                            |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New Products, Services or Technologies | Consider the impact of products such as the light bulb, automobile, personal computer and the Internet                                                                 |
+| New Customer Experiences               | Furniture retailing was transformed by having customers\                                                                                                               |
+| Co-create and assemble furniture       |                                                                                                                                                                        |
+| New Processes                          | Dell's build-to-order personal computer process has dramatically changed the way people purchase technology                                                            |
+| New Channels                           | Netflix transformed the movie rental business by using the Internet and mail to rent DVDs with no late fees                                                            |
+| New Business Models                    | Southwest Airlines, JetBlue, and other low-cost airline business models have demonstrated profitability and changed the nature of competition in the airline industry. |
+| New Markets                            | Novocaine was developed for general surgery, but took off among dentists (much to the dismay of its inventor)                                                          |
+| New Organizations                      | eBay has thousands of "employees" who pay the company to work for it!                                                                                                  |
 
 ## Types of Innovation
 
@@ -71,7 +70,6 @@ Greg Satel has done a great deal of work in the innovation space. This diagram d
 ![image001](media/innovate002.png)
 
 Tim Kastelle has also done significant work in the innovation space. He defines his matrix based on how well the group does innovation and how committed to innovation it is.
-
 
 ![image001](media/innovate003.png)
 
@@ -125,10 +123,10 @@ The idea that people can see the future is clearly ridiculous. What they can do 
 
 Futurecasting is simply envisioning a potential future based on a certain set of assumptions about the world and usually constrained or bounded in some way.
 
--   Linear approaches to dealing with the future lead to missed opportunities
--   People lack to tools to describe potential futures
--   Missed opportunities where key trends were ignored
--   There is no safe space to imagine and play with ideas
+- Linear approaches to dealing with the future lead to missed opportunities
+- People lack to tools to describe potential futures
+- Missed opportunities where key trends were ignored
+- There is no safe space to imagine and play with ideas
 
 In thinking about the future it's critical to create the sense of urgency that the future is coming faster and that the waves will simply not stop coming not matter how hard we wish them to. With wave after wave of disruption coming in increasingly shorter cycles, how valid are the linear multi-year plans we create based on assumption about the future that are eroded as soon as we hit save.
 
@@ -136,9 +134,9 @@ There are many big things coming with significant research and data that foresha
 
 As a species we are addicted to certainty and this addiction leads us into believing that we have the ability to predict the future.
 
--   Assumptions are not information
--   Assumptions are the absence of information
--   Assumptions once accepted or documented are treated as information
+- Assumptions are not information
+- Assumptions are the absence of information
+- Assumptions once accepted or documented are treated as information
 
 Our job when futurecasting is to create space to imagine and storytell while remaining grounded about our inability to predict future events accurately.
 
@@ -146,10 +144,10 @@ The future isn't certain. We struggle to understand the impact of the future and
 
 Challenges
 
--   We miss signals that could impact our organisations
--   We have no process to understand the signals
--   We miss opportunities to benefit from these potential futures
--   We drift into unwanted futures
+- We miss signals that could impact our organisations
+- We have no process to understand the signals
+- We miss opportunities to benefit from these potential futures
+- We drift into unwanted futures
 
 There is an excellent technique and metaphor described by Jane McGonigal.
 
@@ -172,6 +170,12 @@ Figure 4 Future Casting Canvas
 # References and Further Reading
 
 [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/){:target="_blank"}
+
+Innovation [Innovation explained – Definition, Types and Meaning of Innovation (morethandigital.info)](https://morethandigital.info/en/innovation-definition-innovation-types-and-meaning/)
+
+[8 Types of Innovation (With Examples and Integration Tips) | Indeed.com Australia](https://au.indeed.com/career-advice/career-development/types-of-innovation)
+
+
 
 HBR article on Taxonomy of Innovation
 

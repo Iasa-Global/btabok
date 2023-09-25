@@ -13,7 +13,7 @@ tags:
   - software
 ---
 
-The decision cascade card looks for downstream impacts from a technology decision.
+The decision cascade card looks for downstream impacts from a technology decision. The notion of a decision cascade is to track how one decision impacts another. For example, the operating environment (cloud, hybrid, private cloud) will impact the decision on technology vendors as well as what architectural style to use for service implementation (serverless, microservices, macroservices). 
 
 ![image001](media/architecture_decision_cascade_card.svg)
 
