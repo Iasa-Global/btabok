@@ -3,7 +3,7 @@ title: "Architects Process Engagement Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: business.html
+permalink: architecture_process_engagement.html
 folder: structured_canvases
 summary: "Architects Process Engagement Canvas"
 tags: 
