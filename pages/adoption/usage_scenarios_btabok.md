@@ -137,7 +137,7 @@ This article series will describe using the BTABoK for business architects and a
 
 - The BTABoK and Business Architects 
 
-- Business Architect Competencies and Role
+- Business Architect Competencies and Roles
 
 - Artifacts, Deliverables, and Utilization
 

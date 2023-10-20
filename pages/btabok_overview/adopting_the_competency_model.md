@@ -4,6 +4,7 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 folder: btabok_overview
+permalink: adopting_the_competency_model.html
 summary: "Tools for adopting the btabok in everyday practice."
 tags: 
   - digital_business

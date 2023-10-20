@@ -10,7 +10,7 @@ tags:
 
 - digital_business
 - engagement_model
- 
+
 ---
 
 # Architecturally Significant Requirements - Design Part 4

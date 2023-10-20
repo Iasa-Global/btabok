@@ -16,13 +16,7 @@ entries:
       url: get_started_m.html
       output: web
 
-# Adoption
-
-  - title: Adoption
-    output: web
-    folderitems:
-
-    - title: Overview
+    - title: BTABoK Guides
       url: usage_scenarios_btabok.html
       output: web
 
