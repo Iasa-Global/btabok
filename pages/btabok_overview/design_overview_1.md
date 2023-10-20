@@ -9,6 +9,7 @@ summary: "Tools for adopting the btabok in everyday practice."
 tags: 
   - digital_business
   - engagement_model
+  - 
 ---
 
 # Dissecting Design - Introduction
