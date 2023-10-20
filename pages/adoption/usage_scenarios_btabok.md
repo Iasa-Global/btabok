@@ -69,6 +69,8 @@ Design methodologies for architecture are relatively difficult to find, especial
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. Rotation, technical depth vs breadth, and specialization.
 
+(write this article)
+
 ## Legacy Systems Modernization
 
 The demands on business to meet customer needs are a key factor in maintaining competitiveness. A common challenge faced by business is the management, replacement, and decommissioning of legacy systems. What happens when your key IT systems just aren’t keeping up with the demands of the business? Perhaps the system no longer fits with the business process and is too expensive to change, or the maintenance costs are seriously cutting into your profit margin. Perhaps it is a change in the direction or strategy of the business which means that the IT landscape needs to change.

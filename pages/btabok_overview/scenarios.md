@@ -2,7 +2,7 @@
 title: "Adoption Scenarios"
 tagName: btabok_adoption
 search: exclude
-permalink: tag_scenarios.html
+permalink: scenarios.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
