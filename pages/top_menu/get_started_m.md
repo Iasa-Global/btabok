@@ -76,7 +76,7 @@ The value model was named based on the techniques to understand quality, value, 
 
 ## The People Model
 
-The people model is named primarily to deal with the people side of architecture, namely architects themselves. Note, this is different from the competency model which is a separately maintained body of knowledge on the competencies of an individual architect, including their specializatation. However it is the people model which connects the two bodies of knowledge together. It also includes things like how to organize architects, role descriptions, community methods and other valuable tools in practices especially as they grow beyond a couple of dozen architects towards the large value areas.
+The people model is named primarily to deal with the people side of architecture, namely architects themselves. Note, this is different from the competency model which is a separately maintained body of knowledge on the competencies of an individual architect, including their specialization. However it is the people model which connects the two bodies of knowledge together. It also includes things like how to organize architects, role descriptions, community methods and other valuable tools in practices especially as they grow beyond a couple of dozen architects towards the large value areas.
 
 ## The Architecture Practice
 
