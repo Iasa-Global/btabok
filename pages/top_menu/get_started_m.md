@@ -132,7 +132,7 @@ Service integrators and vendors have a very difficult position in maintaining ar
 
 ## Government or NGO Adoption
 
-Mission based organizations have as strong or even stronger need for architecture than for-profit companies as in many cases the problem space is much bigger and has very real impact on peoples lives. In addition value is much harder to understand in a mission based organization as it cannot be aligned to profitability. Many non-profits and government agencies have to deal with very high safety and liability issues, risk aversion, and beauracratic or political difficulties. This is a very exciting place to get architecture done but requires very careful handling and setup of federated methods across agencies, states, provinces, local governments etc. This often creates significant complexity as well as duplication of effort and difficulties in funding.
+Mission based organizations have as strong or even stronger need for architecture than for-profit companies as in many cases the problem space is much bigger and has very real impact on people's lives. In addition value is much harder to understand in a mission based organization as it cannot be aligned to profitability. Many non-profits and government agencies have to deal with very high safety and liability issues, risk aversion, and beauracratic or political difficulties. This is a very exciting place to get architecture done but requires very careful handling and setup of federated methods across agencies, states, provinces, local governments etc. This often creates significant complexity as well as duplication of effort and difficulties in funding.
 
 ## For-Profit Adoption
 
