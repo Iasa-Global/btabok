@@ -9,7 +9,7 @@ summary: "Architecture Tool Selection Canvas"
 tags: 
 ---
 
-![image001](media/architecture_definition_canvas.svg)
+![image001](media/architecture_tool_selection_canvas.svg)
 
 [Download PPT](media/ppt/architecture_tool_selection_canvas.ppt){:target="_blank"}
 
