@@ -150,8 +150,8 @@ Challenges
 - We drift into unwanted futures
 
 There is an excellent technique and metaphor described by Jane McGonigal.
+[![image001](media/innovate007.png)](https://iasa-global.github.io/btabok/future_casting_canvas.html){:target="_blank"}
 
-![image001](media/innovate007.png)
 
 Figure 2 Future Casting -- Artwork by Gar Mac Criosta
 
