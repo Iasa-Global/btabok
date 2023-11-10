@@ -11,7 +11,6 @@ tags:
   - integration
 ---
 
-
 #Overview 
 
 ##What is Integration Architecture 

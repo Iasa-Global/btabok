@@ -348,7 +348,7 @@ entries:
       output: web
 
     - title: DevOps
-      url: devops.html
+      url: dev_ops.html
       output: web
 
     - title: Cloud
@@ -356,15 +356,15 @@ entries:
       output: web
 
     - title: Security
-      url: Security.html
+      url: security.html
       output: web
 
     - title: Integration
-      url: Integration.html
+      url: integration.html
       output: web
 
     - title: Sustainability
-      url: Sustainability.html
+      url: sustainability.html
       output: web
 
   - title: Structed Canvases
