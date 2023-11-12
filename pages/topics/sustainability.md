@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: sustainability.html
 folder: engagement_model
-summary: "Integration architecture is evolving to meet increasing stakeholder demands and accompanying advances in information technology."
+summary: "Sustainable architecture is evolving to meet increasing stakeholder demands and accompanying advances in information technology."
 tags: 
   - topic_area
   - sustainability
