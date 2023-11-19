@@ -192,7 +192,7 @@ customers.
 The following is an Ecosystem Map Canvas, it shows an ecosystem, rather
 like a universe of different parties around a particular Subject.
 
-![image001](media/ecosystem_eco1.png) 
+[![image001](media/ecosystem_eco1.png)](https://iasa-global.github.io/btabok/ecosystem_map_canvas.html){:target="_blank"}
 
 The ecosystem map consists of four concepts:
 
