@@ -181,6 +181,8 @@ The architect does not prioritize outside of tier 1 safety and liability issues.
 
 [![image001](media/engagement010.svg)](https://iasa-global.github.io/btabok/jbtd_prioritization.html){:target="_blank"}
 
+[![Figure 8 Benefits Dependency Canvas](media/engagement010.svg)](https://iasa-global.github.io/btabok/jbtd_prioritization.html){:target="_blank"}
+
 
 ## Metrics and Measurements in Engagement
 
