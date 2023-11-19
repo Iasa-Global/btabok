@@ -179,7 +179,8 @@ The benefits dependency canvas provides a way of translating technology enablers
 
 The architect does not prioritize outside of tier 1 safety and liability issues. Outside that scope, the architect must work with product owners and other stakeholders to understand and manage the priority and detail of engaged customers. This is done through metrics, contribution, and prioritization. Speaking the language of feature, structure, value creates the optimum communication environment for facilitating outcomes. The JTBD Prioritization canvas can help facilitate precisely this kind of dialog.
 
-![image001](media/engagement010.svg)
+[![image001](media/engagement010.svg)](https://iasa-global.github.io/btabok/jbtd_prioritization.html){:target="_blank"}
+
 
 ## Metrics and Measurements in Engagement
 
