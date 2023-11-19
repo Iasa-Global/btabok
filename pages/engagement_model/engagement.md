@@ -165,6 +165,7 @@ Engagement is a shared goal among many business units. The architecture team mus
 
 The JTBD Filter provides the tools to understand how jobs should be served. It allows the team to prioritize jobs from an overall customer and value perspective. This will enable the team to discuss overall how valuable a particular job is to the company and the importance. Use a JTBD filtering session instead of a traditional investment prioritization session to get customer-obsessed. This will help define priorities alongside other outcome model objectives.
 
+[![Figure 7 JTBD Filter](media/engagement008.svg)](https://iasa-global.github.io/btabok/jbtd_timeline_canvas.html){:target="_blank"}
 ![Figure 7 JTBD Filter](media/engagement008.svg)
 <br>Figure 7 JTBD Filter
 
