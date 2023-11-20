@@ -161,7 +161,6 @@ SWOT analysis is a useful tool for identifying strengths, weaknesses, opportunit
 The SWOT analysis works best as a brainstorming tool with a team in a workshop environment. Before beginning the analysis, it should be clear to all participants what the subject of the analysis is. The objectives from the Strategy Scorecard may be used to form the SWOT subject.
 
 [![image001](media/strategy_swot.png)](https://iasa-global.github.io/btabok/swot_canvas.html){:target="_blank"}
-![image001](media/strategy_swot.png)
 
 Participants discuss, brainstorm and place the different strengths, weaknesses, opportunities and threats on the canvas.
 
