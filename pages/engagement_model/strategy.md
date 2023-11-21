@@ -160,7 +160,7 @@ SWOT analysis is a useful tool for identifying strengths, weaknesses, opportunit
 
 The SWOT analysis works best as a brainstorming tool with a team in a workshop environment. Before beginning the analysis, it should be clear to all participants what the subject of the analysis is. The objectives from the Strategy Scorecard may be used to form the SWOT subject.
 
-![image001](media/strategy_swot.png)
+[![image001](media/strategy_swot.png)](https://iasa-global.github.io/btabok/swot_canvas.html){:target="_blank"}
 
 Participants discuss, brainstorm and place the different strengths, weaknesses, opportunities and threats on the canvas.
 
@@ -204,7 +204,7 @@ strategy moves to execution or an alternative strategy is required. The early id
 A risk matrix is a useful way to identify risks and rate them accordingly. Risks are listed in a column, and each risk is given a
 probability rating, from very unlikely (1) to most likely (5). A rating is also given for the consequences the risk will have if it is realized, from trivial (1) to critical (5).
 
-![image001](media/strategy_risk_matrix.png)
+[![image001](media/strategy_risk_matrix.png)](https://iasa-global.github.io/btabok/risk_canvas.html){:target="_blank"}
 
 The values for probability and consequence are used together with the risk matrix to provide an overall rating, ranging from low to critical. After rating the risks, an assessment can be made of the strategy and tactics required to best provide mitigation.
 

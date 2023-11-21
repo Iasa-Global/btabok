@@ -160,11 +160,9 @@ The future sends signals, the team can think of those signals as jellybeans. Jel
 This technique has been turned into the future-casting signal card and future-casting canvas below.
 
 ![image001](media/innovate008.png)
-
 Figure 3 Signal Cards
 
-![image001](media/innovate009.png)
-
+[![image001](media/innovate009.png)](https://iasa-global.github.io/btabok/future_casting_canvas.html){:target="_blank"}
 Figure 4 Future Casting Canvas
 
 # References and Further Reading

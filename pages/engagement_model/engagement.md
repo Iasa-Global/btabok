@@ -65,7 +65,7 @@ There are several tools in the BTABoK for understanding customers and even more 
 
 The Persona Card contains what is called a set of empathy map ideas. The Empathy Map was designed at XPLANE many years ago as part of a human-centered design toolkit they call [Gamestorming](http://gamestorming.com/){:target="_blank"}.
 
-![Figure 2 Empathy Map](media/engagement002.png)
+[![image001](media/engagement002.png)](https://iasa-global.github.io/btabok/stakeholder_empathy_map.html){:target="_blank"}
 <br>Figure 2 Empathy Map
 
 Notice that the customer has pains and gains; they see things, hear things, say things and do something. This tool is the beginning of understanding the actual customer. The BTABoK has created several canvases that include these empathy notions. They can be used to formally understand how empathy and business technology strategy align.
@@ -104,7 +104,7 @@ Architects use these tools to explore the solution and customer space to identif
 
 The architect’s goal is to facilitate and participate as an innovator throughout the customer’s process. The JTBD Timeline provides the basis for understanding the relationship between the customer and the organization, backed by the technology underpinning the relationship.
 
-![image001](media/engagement005.svg)
+[![image001](media/engagement005.svg)](https://iasa-global.github.io/btabok/jbtd_timeline_canvas.html){:target="_blank"}
 <br>Figure 4 JBTD Timeline Canvas
 
 Notice that the timeline provides the tools to connect JBTD to the customer journey and begin facilitating discussion about business and technology layers that impact that journey. This may be an automated set of steps, or it may be creating a quick way for the customer to contact a person.
@@ -113,7 +113,7 @@ Notice that the timeline provides the tools to connect JBTD to the customer jour
 
 Another canvas that can be used to understand the customers’ behavior in the process is to understand the forces affecting the customers’ behavior and choices during the JBTD. This canvas outlines the forces that allow architects to understand why a customer may choose a new way of doing things. A great example of this comes from Uber. One of the forces on using traditional taxis was the difficulty in payment. Using a credit card with a random taxi driver or having cash were difficulties (what are called pains) in the job of getting from one place in a city to another. By using the Uber app, payment was fully automated. This ‘pain reliever’ is a major attractive force to using the product instead of the more traditional way. However, it is also important to note the forces pushing in the opposite direction. For example, consider the mindset of the individual. Suppose they are deeply unfamiliar with technology or it is difficult to set up a credit card, or they do not have a credit card. In that case, the Uber application may actually create enough anxiety to push the customer into traditional taxis and cash methods.
 
-![Figure 5 JBTD Forces Canvas](media/engagement006.svg)
+[![image001](media/engagement006.svg)](https://iasa-global.github.io/btabok/jbtd_forces_canvas.html){:target="_blank"}
 <br>Figure 5 JBTD Forces Canvas
 
 ## Customer Engagement Methods Work on Stakeholders Too
@@ -165,7 +165,7 @@ Engagement is a shared goal among many business units. The architecture team mus
 
 The JTBD Filter provides the tools to understand how jobs should be served. It allows the team to prioritize jobs from an overall customer and value perspective. This will enable the team to discuss overall how valuable a particular job is to the company and the importance. Use a JTBD filtering session instead of a traditional investment prioritization session to get customer-obsessed. This will help define priorities alongside other outcome model objectives.
 
-![Figure 7 JTBD Filter](media/engagement008.svg)
+[![Figure 7 JTBD Filter](media/engagement008.svg)](https://iasa-global.github.io/btabok/jtbd_filter.html){:target="_blank"}
 <br>Figure 7 JTBD Filter
 
 ## Using a BDN with Customer Engagement Objectives
@@ -179,7 +179,9 @@ The benefits dependency canvas provides a way of translating technology enablers
 
 The architect does not prioritize outside of tier 1 safety and liability issues. Outside that scope, the architect must work with product owners and other stakeholders to understand and manage the priority and detail of engaged customers. This is done through metrics, contribution, and prioritization. Speaking the language of feature, structure, value creates the optimum communication environment for facilitating outcomes. The JTBD Prioritization canvas can help facilitate precisely this kind of dialog.
 
-![image001](media/engagement010.svg)
+
+[![Figure 10 JBTD Prioritization](media/engagement010.svg)](https://iasa-global.github.io/btabok/jbtd_prioritization.html){:target="_blank"}
+
 
 ## Metrics and Measurements in Engagement
 
