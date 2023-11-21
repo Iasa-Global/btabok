@@ -27,7 +27,3 @@ folder: structured_canvases
 16. [Modern Architecture Landscape Three Card](modern_architecture_landscape_three_card.md){:target="_blank"}
 17. [Architecture Decision Cascade Card](architecture_decision_cascade_card.md){:target="_blank"}
 18. [OKR Card](okr_card.md){:target="_blank"}
-
-
-
-

@@ -3,7 +3,7 @@ title: "Architecture Tool Selection Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: architecture_definition_canvas.html
+permalink: architecture_tool_selection.html
 folder: structured_canvases
 summary: "Architecture Tool Selection Canvas"
 tags: 

@@ -19,12 +19,12 @@ tags:
 
 [Download PPT](media/ppt/canvas_flow_map.ppt){:target="_blank"}
 
-| Area  | Description | Links To |
-| --- | --- | --- |
-| Elevator Pitch |   |   |
-| Valuable Client Insight |   |   |
-| Solution Idea |   |   |
-| Customer and Solution Features |   |   |
-| Architecture Description |   |   |
-| Operational, Measurable Implementation |   |   |
-| Insight |   |   |
+| Area                                   | Description | Links To |
+| -------------------------------------- | ----------- | -------- |
+| Elevator Pitch                         |             |          |
+| Valuable Client Insight                |             |          |
+| Solution Idea                          |             |          |
+| Customer and Solution Features         |             |          |
+| Architecture Description               |             |          |
+| Operational, Measurable Implementation |             |          |
+| Insight                                |             |          |
