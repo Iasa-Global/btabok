@@ -8,7 +8,9 @@ folder: top_menu
 summary: "There are numerous maturity models for architecture mostly EA focused."
 ---
 
-There are numerous maturity models for architecture mostly EA focused. In addition their are other maturity models which touch or influence architecture maturity. 
+> This article is under development. It does not reflect final thoughts from the BTABoK
+
+There are numerous maturity models for architecture mostly which are mostly EA focused. In addition their are other maturity models which touch or influence architecture maturity. However, as the articl
 
 Maturity in architecture practice is measured through an understanding of:
 
