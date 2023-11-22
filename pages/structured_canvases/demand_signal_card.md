@@ -19,10 +19,10 @@ tags:
 
 [Download PPT](media/ppt/demand_signal_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Problem |   |   |
-| Options |   |   |
-| Progress |   |   |
-| Actions |   |   |
-| Insights |   |   |
+| Area     | Description | Links To |
+| -------- | ----------- | -------- |
+| Problem  |             |          |
+| Options  |             |          |
+| Progress |             |          |
+| Actions  |             |          |
+| Insights |             |          |

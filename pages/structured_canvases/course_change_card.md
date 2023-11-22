@@ -19,11 +19,11 @@ tags:
 
 [Download PPT](media/ppt/course_change_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Course |   |   |
-| Issues Found |   |   |
-| Module/Workshop Impacts |   |   |
-| Certification Impacts |   |   |
-| Details |   |   |
-| Canvases Impacted |   |   |
+| Area                    | Description | Links To |
+| ----------------------- | ----------- | -------- |
+| Course                  |             |          |
+| Issues Found            |             |          |
+| Module/Workshop Impacts |             |          |
+| Certification Impacts   |             |          |
+| Details                 |             |          |
+| Canvases Impacted       |             |          |

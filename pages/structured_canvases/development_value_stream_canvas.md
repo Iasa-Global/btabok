@@ -15,10 +15,10 @@ tags:
 
 [Download PPT](media/ppt/development_value_stream_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| P/VS Manage |   |   |
-| Customer |   |   |
-| People, Process, Tools |   |   |
-| Quotes |   |   |
-| Facts & Figures |   |   |
+| Area                   | Description | Links To |
+| ---------------------- | ----------- | -------- |
+| P/VS Manage            |             |          |
+| Customer               |             |          |
+| People, Process, Tools |             |          |
+| Quotes                 |             |          |
+| Facts & Figures        |             |          |
