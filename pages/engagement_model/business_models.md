@@ -126,7 +126,7 @@ Gains are more difficult, and are not simply the opposite of pains. Gains are th
 
 Once completed, the right side of the value proposition canvas becomes part of the customer persona for that segment. Keep it, and keep it up to date. Revisit the entire customer persona on a regular basis.
 
-![image001](media/b_m004.png)
+[![image001](media/b_m004.png)](https://iasa-global.github.io/btabok/value_proposition_canva.html){:target="_blank"}
 
 Figure 4. Value Proposition Canvas (credit: Business Model Generation, 2010).
 
