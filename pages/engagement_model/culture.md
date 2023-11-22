@@ -169,7 +169,8 @@ The WCD provides a tool to understand how culture can be understood from a infor
 
 The BTABoK follows the folks at strategyzer quite closely. They provide a Culture Map tool to help understand the dynamics and implementation of culture.
 
-![image001](media/culture006.png)
+
+[![image001](media/culture006.png)](https://iasa-global.github.io/btabok/culture_map_canva.html){:target="_blank"}
 
 # Hacking the Architecture Culture
 
