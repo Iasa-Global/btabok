@@ -69,7 +69,7 @@ Utilization should directly impact the jobs that an induvial does and how they e
 
 The Customer articles go into JBTD in significant detail, but notice that is infact is seeking to understand utilization from the provider and not features or measurements. It is experiential initially which then drives understanding of important measures, correlation to outcomes, and fuels innovation.
 
-![image001](media/utilize002.png)
+[![image001](media/utilize002.png)](https://iasa-global.github.io/btabok/strategyn_jtbd_canvas.html){:target="_blank"}
 
 Figure 1 Strategyn JTBD Canvas
 
