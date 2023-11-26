@@ -88,7 +88,7 @@ Every architect should consistently practice measurement calculation and communi
 
 In the following benefits realization view, measures are used for cost and benefits and those that can be considered technical debt versus technical investment.
 
-![image001](media/measures003.jpg)
+[![image001](media/measures003.jpg)](https://iasa-global.github.io/btabok/benefits_realization_view_canvas.html){:target="_blank"}
 
 Figure 3 Benefits Realization View
 
@@ -96,9 +96,8 @@ Figure 3 Benefits Realization View
 
 Standard measures can be calculated and collected in the same way technologists use patterns. This should be done alongside value methods, as said before. The BTABoK is beginning to catalog standard value measures though it will not house specific measures by the industry as that is far beyond the scope. When engaging in value models with clients, the architect must gather as many measures as possible as they become the language of value for outcomes and objectives. The benefits card below lists some possible benefits measures and how they can be achieved.
 
-![image001](media/measures004.png)
-
-Figure 4 Benefits Card
+[![image001](media/measures004.png)](https://iasa-global.github.io/btabok/benefits_card_layout-b_canvas.html){:target="_blank"}
+Figure 4 Benefits Card Layout-B
 
 ## Build a Measurement Culture
 
@@ -110,17 +109,19 @@ It should be noted that technology itself has its limits in current understandin
 
 The benefits dependency network can often help to connect these technical measures with impacts to more common business measures allowing architects to help the organization understand these decisions.
 
-![image001](media/measures005.png)
+[![image001](media/measures005.png)](https://iasa-global.github.io/btabok/jtbd_timeline_canvas.html){:target="_blank"}
+
 Figure 4 JBTD Timeline Canvas
 
-![image001](media/measures005.jpg)
+[![image001](media/measures005.jpg)](https://iasa-global.github.io/btabok/benefits_dependency_network_canva.html){:target="_blank"}
+
 Figure 5 Benefits Dependency Network
 
 ## Use Measurement in Technical Debt
 
 The technical debt metaphor has its roots in converting technology choices to measurements that can help deliver value. A team or product may implement features in a less desirable way to improve delivery time. But this must be translated into clear value measures to identify a payback period and amount for these decisions. This makes decisions related to technical debt ripe for measurement. The technical loan card can be used alongside measures to frame all technical debt as a financial payback problem.
 
-![image001](media/measures006.png)
+[![image001](media/measures006.png)](https://iasa-global.github.io/btabok/technical_loan_request_card.html){:target="_blank"}
 
 Figure 6 Technical Loan Card
 

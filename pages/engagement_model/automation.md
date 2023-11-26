@@ -110,7 +110,7 @@ In order to do this, some measurements commonly used in the manufacturing indust
 
 The following Value Stream Automation Canvas can be used to consider flows within a value stream, and measure processes and tasks. Depending on the value stream, there may be different scenarios to test, in which case a canvas can be used for each scenario. The expected outcome of the scenario should be clearly stated.
 
-[![image001](media/automation_valuestream_automation_canvas.png))](https://iasa-global.github.io/btabok/automation_valuestream_automation_canvas.html){:target="_blank"}
+[![image001](media/automation_valuestream_automation_canvas.png)](https://iasa-global.github.io/btabok/automation_valuestream_automation_canvas.html){:target="_blank"}
 
 
 For each process or task in the value stream scenario the following metrics can be measured:
