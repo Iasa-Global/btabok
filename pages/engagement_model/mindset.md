@@ -115,11 +115,11 @@ As discussed in [Investment Prioritization](investment_planning.md){:target="_b
 David Rock has done excellent work in understanding how stakeholders react to change and its personal impact. In the SCARF assessment method, the team can understand how digital changes affect a stakeholder or stakeholder community. SCARF stands for Status, Certainty, Autonomy, Relatedness and Fairness. It can be used with the provided scarf assessment card to assess the perceived impact to a particular stakeholder group.  
 
 ![image001](media/mindset003.png)
-</br>SCARF Impact
+SCARF Impact
 
 
 [![image001](media/mindset004.png)](https://iasa-global.github.io/btabok/stakeholder_engagement_map_card.html){:target="_blank"}
-</br>SCARF Assessment
+SCARF Assessment
 
 Context: Enterprise Transformation 
 

@@ -140,7 +140,7 @@ Not all collaborations require planning, sometimes they just grow organically. H
 
 In order to help plan for a collaboration, the Collaboration Planning Canvas can be used.
 
-![image001](media/collaboration_collaboration_planning_canvas.png) 
+[![image001](media/collaboration_collaboration_planning_canvas.png)](https://iasa-global.github.io/btabok/collaborations_planning_canva.html){:target="_blank"}
 
 The Collaboration Planning Canvas highlights several different areas which are valuable when planning a collaboration.
 
