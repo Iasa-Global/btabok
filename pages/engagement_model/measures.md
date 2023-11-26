@@ -114,7 +114,7 @@ The benefits dependency network can often help to connect these technical measur
 <br />
 Figure 4 JBTD Timeline Canvas
 
-[![image001](media/measures005.jpg)](https://iasa-global.github.io/btabok/benefits_dependency_network_canva.html){:target="_blank"}
+[![image001](media/measures005.jpg)](https://iasa-global.github.io/btabok/benefits_dependency_network_canvas.html){:target="_blank"}
 <br />
 Figure 5 Benefits Dependency Network
 
