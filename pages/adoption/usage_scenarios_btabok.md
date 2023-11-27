@@ -49,7 +49,7 @@ The competency model of the BTABoK is at the core of the practice. It is the mos
 
 ## How Much Architecture and When
 
-## Designing with the BTABoK - 7 part Series
+## Designing with the BTABoK - 6 part Series
 
 Design methodologies for architecture are relatively difficult to find, especially those that relate to both technical and business outcomes. One of the goals of the BTABoK was to create a ‘method to the madness’ for current architects and architecturally significant decisions. Keep in mind, in this article, we are referring to the design of the combination of business and technology areas, so the design of a purely manual business process is not part of our consideration (see Iasa’s definition of architecture). We are going to discuss the following model for design relationships and a structured approach using the BTABoK structured canvas approach. Here is my current thinking on the order they will come in:
 

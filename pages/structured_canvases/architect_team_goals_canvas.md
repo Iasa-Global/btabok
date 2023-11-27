@@ -23,7 +23,7 @@ Using the team goals canvas, you will bring the architects together to help unde
 | Area         | Description | Links To |
 | ------------ | ----------- | -------- |
 | Strategy     |             |          |
-| Objectives   |             |          |
+| Value Stream |             |          |
 | Measures     |             |          |
 | Initiatives  |             |          |
 | Stakeholders |             |          |
