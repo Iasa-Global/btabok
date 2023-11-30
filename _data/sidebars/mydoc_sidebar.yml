@@ -20,10 +20,6 @@ entries:
       url: usage_scenarios_btabok.html
       output: web
 
-    - title: Current Scenarios
-      url: scenarios.html
-      output: web
-
 # Engagement Model
 
   - title: Engagement Model

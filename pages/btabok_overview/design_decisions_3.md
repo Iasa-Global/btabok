@@ -135,7 +135,7 @@ Principles will often cancel out decisions as well. If we have a principle that 
 
 #### Biases
 
-Decision poker is a fun game... know how the decision is being made and list it.
+There are often cognitive biases in decisions. The BTABoK includes a set of decision bias calibrators to help unearth biases found. Use this section to connect to those biases. 
 
 ## Decision Record Types
 

@@ -47,23 +47,23 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 The competency model of the BTABoK is at the core of the practice. It is the most robust and well-documented competency model for architects on the market. In this article we are going to evaluate methods for adoption and their benefits to your organization.
 
-## How Much Architecture and When
-
 ## Designing with the BTABoK - 6 part Series
 
 Design methodologies for architecture are relatively difficult to find, especially those that relate to both technical and business outcomes. One of the goals of the BTABoK was to create a ‘method to the madness’ for current architects and architecturally significant decisions. Keep in mind, in this article, we are referring to the design of the combination of business and technology areas, so the design of a purely manual business process is not part of our consideration (see Iasa’s definition of architecture). We are going to discuss the following model for design relationships and a structured approach using the BTABoK structured canvas approach. Here is my current thinking on the order they will come in:
 
-1.     [Dissecting Design – And Introduction](../btabok_overview/design_overview_1.md)
+1. [Dissecting Design – And Introduction](../btabok_overview/design_overview_1.md)
 
-2.     [Options, Options, Options – So Many Choices](../btabok_overview/design_options_2.md)
+2. [Options, Options, Options – So Many Choices](../btabok_overview/design_options_2.md)
 
-3.     [Decision Making – Why Agile Architecture is so Hard](../btabok_overview/design_decisions_3.md)
+3. [Decision Making – Why Agile Architecture is so Hard](../btabok_overview/design_decisions_3.md)
 
-4.     Views and *BEYOND* – Thinking, Facilitating, and Communicating
+4. Views and *BEYOND* – Thinking, Facilitating, and Communicating
 
-5.     I Like Patterns – Patterns, Reference Models, and Conformance
+5. I Like Patterns – Patterns, Reference Models, and Conformance
 
-6.     Assessments, Tests, and Chasing Perfection – How Governance and Architecture are Different
+6. Assessments, Tests, and Chasing Perfection – How Governance and Architecture are Different 
+
+7. How Much Architecture and When
 
 ## The Aspiring Architect
 
@@ -94,6 +94,10 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 ## The New Product/Project Idea
 
 Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation. In addition, this article looks at the nature of new products and projects. When do these ideas occur? How are they submitted? How can architects be more involved? 
+
+Federated Practices
+
+Much
 
 ## My Business Stakeholder Wants to Buy a Product
 
