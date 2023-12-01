@@ -127,14 +127,14 @@ capability scope it becomes apparent much more is necessary.
 Every design problem, set of requirements and principles serves to extend or limit the available options. The Design Landscape canvases allow the architect to think about the services and design elements needed without connecting them immediately to a product or a particular style. This stage of design allows the architect to think about
 requirements and options. Then narrow down to what is needed via a set of views and viewpoints, most specifically the context view. Each option considered for the solution will likely require a decision record or decision cascade to demonstrate it is actually needed and why the final decision was made.
 
-![image001](media/design003.png) 
-Figure 3 Architecture Landscape 1
+[![image001](media/design003.png)](https://iasa-global.github.io/btabok/modern_architecture_landscape_one_card.html){:target="_blank"}
+<br />Figure 3 Architecture Landscape 1
 
-![image001](media/design004.png) 
-Figure 4 Architecture Landscape 2
+[![image001](media/design004.png)](https://iasa-global.github.io/btabok/modern_architecture_landscape_two_card.html){:target="_blank"}
+<br />Figure 4 Architecture Landscape 2
 
-![image001](media/design005.png) 
-Figure 5 Architecture Landscape 3
+[![image001](media/design005.png)](https://iasa-global.github.io/btabok/modern_architecture_landscape_three_card.html){:target="_blank"}
+<br />Figure 5 Architecture Landscape 3
 
 ## Options Come From Breadth and Depth
 
