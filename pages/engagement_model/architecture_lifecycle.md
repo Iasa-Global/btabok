@@ -181,7 +181,7 @@ example, reduced cost, increased productivity, personnel motivation or
 greater market share. To express the benefits more clearly add "+"
 symbols next to each benefit to indicate how strong the benefit is.
 
-![image001](media/lifecycle_innovation_assessment_card.png) 
+[![image001](media/lifecycle_innovation_assessment_card.png)](https://iasa-global.github.io/btabok/innovation_assestment_card.html){:target="_blank"}
 
 **Step 3: List the changes required**
 
