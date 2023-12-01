@@ -351,7 +351,7 @@ specific domain or scope. Sometimes the purpose and aims of the
 lifecycle change over time, this is why it is important to re-iterate
 the purpose and aim before starting the planning.
 
-![image001](media/lifecycle_lifecycle_planning.png) 
+[![image001](media/lifecycle_lifecycle_planning.png)](https://iasa-global.github.io/btabok/lifecycle_planning_canvas.html){:target="_blank"}
 
 **Step 2: Describe the current status**
 
