@@ -161,7 +161,7 @@ Handout sticky notes to the participants and ask them to write down all stakehol
 
 Ask each participant to place the stakeholders on the Power-Interest Grid according to the perceived interest and power of the stakeholder.
 
-[![image001](media/stakeholders002.png)](https://iasa-global.github.io/btabok/stakeholder_ecosystem_canvas.html){:target="_blank"}
+[![image001](media/stakeholders002.png)](https://iasa-global.github.io/btabok/power_interest_grid.html){:target="_blank"}
 
 **Step 3: Reach consensus**
 
@@ -257,7 +257,7 @@ in connecting the stakeholders with relationship lines. At this point
 the participants only need to indicate that they are aware that a
 relationship exists between stakeholders.
 
-![image001](media/stakeholders003.png)
+[![image001](media/stakeholders003.png)](https://iasa-global.github.io/btabok/stakeholder_ecosystem_canvas.html){:target="_blank"}
 
 **Step 5: Assess the relationships**
 
