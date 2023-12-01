@@ -155,18 +155,13 @@ used with participants in workshop format.
 
 **Step 1: Identify the Stakeholders**
 
-Handout sticky notes to the participants and ask them to write down all
-stakeholders they can think of concerning the given context (one
-stakeholder per sticky note). This exercise should be time bound,
-usually 10-15 mins. The participants should do this without conferring
-with each other.
+Handout sticky notes to the participants and ask them to write down all stakeholders they can think of concerning the given context (one stakeholder per sticky note). This exercise should be time bound, usually 10-15 mins. The participants should do this without conferring with each other.
 
 **Step 2: Prioritize the stakeholders**
 
-Ask each participant to place the stakeholders on the Power-Interest
-Grid according to the perceived interest and power of the stakeholder.
+Ask each participant to place the stakeholders on the Power-Interest Grid according to the perceived interest and power of the stakeholder.
 
-![image001](media/stakeholders002.png)
+[![image001](media/stakeholders002.png)](https://iasa-global.github.io/btabok/stakeholder_ecosystem_canvas.html){:target="_blank"}
 
 **Step 3: Reach consensus**
 

@@ -1,5 +1,5 @@
 ---
-title: "lifecycle_planning_canvas"
+title: "Lifecycle Planning Canvas"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
