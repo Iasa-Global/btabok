@@ -59,7 +59,7 @@ Figure 1 Architecture Traceability
 
 Use the architecture decision record card as a way to identify option categories and comparisons for framework decisions. The cards can be used on all but the most complex decision categories. To use the card download the PowerPoint file and a) if using alone simply fill out the card with the decision context, linkage to requirements, and other fields, or b) print at canvas size and use sticky notes with a team to brainstorm decision categories and other fields.
 
-![image001](media/decisions002.jpg)
+[![image001](media/decisions002.jpg)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
 ## Decisions Come with Cognitive Biases
 
@@ -72,9 +72,10 @@ Figure 3 Cognitive Bias
 
 To re-enforce a decision and to ensure it is as free of bias as possible, use the decision bias calibrator card to understand and reframe the decision away from biases.
 
-![image001](media/decisions004.jpg)
+[![image001](media/decisions004.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_1.html){:target="_blank"}
 
-![image001](media/decisions005.jpg)
+[![image001](media/decisions005.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
+
 
 ## Decisions and their Characteristics and Methods
 
@@ -148,7 +149,7 @@ This is the Last Responsible Moment to make the decision, Glenn Ballard and Todd
 
 One decision tends to lead to another. However, it is distinctly important to consider how one impacts another and whether that deserves its own independent tradeoff analysis. Having an HTML front end generally necessitates a web server, but which one and how will it impact the other elements and structural integrity of your architecture? Decision cascades are a means by which some decisions get covered up and cause systemic problems later. As the organization gets more experience making decisions first order objects, these cascades tend to get halted around elements that have deep structural or business outcomes.
 
-![image001](media/decisions006.jpg)
+[![image001](media/decisions006.jpg)](https://iasa-global.github.io/btabok/architecture_decision_cascade_card.html){:target="_blank"}
 
 ## Decisions Affect the Enterprise
 
@@ -183,13 +184,13 @@ The following tools and techniques can be useful in managing architecture decisi
 
 ## Architecture Decision Record
 
-![image001](media/decisions007.png)
+[![image001](media/decisions007.png)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
 ## Decision Bias Calibrator
 
-![image001](media/decisions008.png)
+[![image001](media/decisions008.png)](https://iasa-global.github.io/btabok/architecture_decision_cascade_card.html){:target="_blank"}
 
-![image001](media/decisions009.png)
+[![image001](media/decisions009.png)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
 
 # References
 
