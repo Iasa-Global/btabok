@@ -97,7 +97,7 @@ Figure 3 Benefits Realization View
 Standard measures can be calculated and collected in the same way technologists use patterns. This should be done alongside value methods, as said before. The BTABoK is beginning to catalog standard value measures though it will not house specific measures by the industry as that is far beyond the scope. When engaging in value models with clients, the architect must gather as many measures as possible as they become the language of value for outcomes and objectives. The benefits card below lists some possible benefits measures and how they can be achieved.
 
 [![image001](media/measures004.png)](https://iasa-global.github.io/btabok/benefits_card_layout-b_canvas.html){:target="_blank"}
-<br />
+<br /> 
 Figure 4 Benefits Card Layout-B
 
 ## Build a Measurement Culture
