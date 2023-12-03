@@ -251,7 +251,8 @@ The scorecard also defines measure (or KPI) by which the Objectives can
 be assess and provides a target which often expresses a value to be
 achieved by a given time period.
 
-![image001](media/objectives_scorecard1.png) 
+[![image001](media/objectives_scorecard1.png)](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}
+
 
 The Strategy Scorecard Canvas above shows a representation of a balanced
 scorecard, where Objectives (or objectives), measurements, targets and
@@ -294,7 +295,7 @@ of an objective:
 
 *"Increase the market coverage in Asia for MyProduct by 10%"*
 
-![image001](media/objectives_okr2.png) 
+[![image001](media/objectives_okr2.png)](https://iasa-global.github.io/btabok/okr_card.html){:target="_blank"}
 
 **Step 2: Objective Alignment**
 
