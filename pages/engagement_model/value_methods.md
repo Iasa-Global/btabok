@@ -256,7 +256,7 @@ An Architect impacts Cost when delivering or performing any of the following:
 
 Any successful Cost Reduction or Cost Avoidance effort is attributable to analysis and activities primarily performed by an Architect. It is a powerful metric for demonstrating the Value that Architecture can deliver.
 
-![image001](media/v_m004.png)
+[![image001](media/v_m004.png)](https://iasa-global.github.io/btabok/risk_and_cost_card.html){:target="_blank"}
 
 ## Revenue
 
@@ -294,7 +294,7 @@ An Architect impacts Revenue when delivering or performing any of the following:
 -   Stakeholder Communication
 -   Engagement Models
 
-![image001](media/v_m007.png)
+[![image001](media/v_m007.png)](https://iasa-global.github.io/btabok/benefits_card_layout-b_canvas.html){:target="_blank"}
 
 New Revenue or Increased Existing Revenue is a result of the entire effort. It is difficult to attribute any portion of this Value directly to, say, a really good Capability Model. But as in the examples above, the rigor that Architecture brings to delivering the product or service is an important aspect of the Value equation and should be front and center in the Value Story.
 
@@ -364,7 +364,7 @@ Simplicity and reuse are one of the most commonly mentioned value categories but
 | Reduced Technical Debt | The amount of technical debt is the number of poor decisions which lock the orgaization into a single technology choice. | Measure technical debt as the cost to reverse a decision. |
 | Increased Reuse | Reuse refers to the number of systems which utilize a single business or technical function. | Measure API level calls and which systems are dependent. |
 
-![image001](media/v_m012.png)
+[![image001](media/v_m012.png)](https://iasa-global.github.io/btabok/technical_loan_request_card.html){:target="_blank"}
 
 ## Market Dynamics
 
@@ -376,7 +376,7 @@ Critical market changes are driven by technology innovation whether it is disrup
 | SWOT | Tool to understand the strengths, weaknesses, opportunities and threats within a particular activity. | Requires a multi-disciplinary approach to correctly understand the organization. |
 | Platform Design Toolkit | The toolkit provides platform thinking which enables organizations to understand themselves as a part of an ecosystem of change. | [https://platformdesigntoolkit.com/](https://platformdesigntoolkit.com/){:target="_blank"} |
 
-![image001](media/v_m013.png)
+[![image001](media/v_m013.png)](https://iasa-global.github.io/btabok/market_segmentation_canvas.html){:target="_blank"}
 
 ## Doing Good
 
