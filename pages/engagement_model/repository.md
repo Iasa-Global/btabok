@@ -93,9 +93,10 @@ Top-Down Loading suggests that the team define a rigorous set of artifacts neces
 ## Repository and Tools
 
 
-The marketplace is filled with tools for the architect. When considering tools it is best to understand when and how it will be used within the architecture delivery methodology. The team can use the process engagement canvas to determine the appropriate level of artifacts, information and tools necessary to support their current engagement. 
+The marketplace is filled with tools for the architect. When considering tools it is best to understand when and how it will be used within the architecture delivery methodology. The team can use the process engagement canvas to determine the appropriate level of artifacts, information and tools necessary to support their current engagement.
 
-![image001](media/repository003.png)
+[![image001](media/repository003.png)](https://iasa-global.github.io/btabok/engagement_canvas.html){:target="_blank"}
+
 
 The Process Engagement Canvas allows a team to define the artifacts and processes the tooling needs to support.
 

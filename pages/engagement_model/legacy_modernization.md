@@ -289,7 +289,7 @@ applications are then categorized as follows:
 - **Eliminate** -- the application no longer provides value and is eliminated. The application may be replaced completely by another
   application.
 
-The diagram below shows an example of a TIME model based on Tinkelman Coffee Shop.
+The diagram below shows an example of a TIME model based on Tinkelman Coffee Shop. 
 
 [![image001](media/legacymodernization_time1.png)](https://iasa-global.github.io/btabok/time_model_canvas.html){:target="_blank"}
 
