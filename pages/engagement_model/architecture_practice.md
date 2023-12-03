@@ -182,7 +182,7 @@ One of the critical elements of the engagement model is the processes, deliverab
 
 The Engagement Model Designer can be used to understand current and future state techniques on a single page.
 
-[![image001](media/a_p007.png)](https://iasa-global.github.io/btabok/architect_organization_canvas.html){:target="_blank"}
+[![image001](media/a_p007.png)](https://iasa-global.github.io/btabok/architecture_engagement_designer.html){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
