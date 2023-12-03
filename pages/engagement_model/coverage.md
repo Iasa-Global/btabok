@@ -40,7 +40,7 @@ To effectively provide coverage for architecture activities, the architecture te
 
 The canvas below provides a tool for estimating coverage. Think of each of the columns as different areas of business and technology. The rows highlight the level of stakeholders such as the executive level and their involvement includes the senior most executives in the organization, which may be a small or large group. The columns at first seem odd but they are organized around change/transformation in relation to large and small technology decisions. Using this tool, the architecture practice can quickly decide where it is currently providing effective coverage and where it needs to grow.
 
-![image001](media/coverage002.png)
+[![image001](media/coverage002.png)](https://iasa-global.github.io/btabok/architects_engagement_touchpoints.html){:target="_blank"}
 
 Figure 2 Architect Engagement Canvas
 
