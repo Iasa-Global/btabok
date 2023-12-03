@@ -167,7 +167,7 @@ Think about different reporting structure and use a rating system to determine i
 
 The following practice based techniques and methods will aid the organization in growing the recognition of value as well as the competencies of its practitioners. The team goals canvas is an interesting tool to help align a practice.
 
-![image001](media/organization007.png)
+[![image001](media/organization007.png)](https://iasa-global.github.io/btabok/architect_team_goals_canvas.html){:target="_blank"}
 
 ## Mentors, Administrators and Career Path
 
