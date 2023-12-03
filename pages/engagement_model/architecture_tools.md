@@ -64,13 +64,13 @@ The process of architecture tool selection requires the team coordinate and unde
 
 **Step 2:** Use the Tool Selection Canvas to list and describe usage requirements using a sticky note and dot-voting mechanism to identify the primary impact areas of the tool in question.
 
-![image001](media/tools001.png)
+[![image001](media/tools001.png)](https://iasa-global.github.io/btabok/tools_needs_canvas.html){:target="_blank"}
 
 ## Using the Decision Record to Select
 
 The BTABoK Decision Record Card is an excellent tool to compare and contrast different architecture tools on the marketplace.
 
-![image001](media/tools002.png)
+[![image001](media/tools002.png)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
 Additional elements to consider in tool evaluation are more related to the method by which the tool is deployed. Keep in mind tools like canvases while paper still require versioning, communication, printing and other physical limitations.
 
