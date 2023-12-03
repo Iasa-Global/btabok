@@ -36,7 +36,7 @@ Experimenation can be very lightweight in most companies but it provides the per
 
 The experiment card can be used to design experiments for a team or group or for the individual. Starting with observations, problems or opportunities, the team brainstorms options which might impact the opportunity. They select one of the options as a possible experiment and create a set of actions to test it, including a hypothesis and possible qualitative and quantitative measure which can be evaluated agains actual results.
 
-![image001](media/experiments001.png)
+[![image001](media/experiments001.png)](https://iasa-global.github.io/btabok/experiment_card.html){:target="_blank"}
 
 ## Requirements and Business Cases are Also Just Experiments
 
@@ -98,7 +98,7 @@ The BTABoK suggests the following types of experiments.
 
 To generate hypothesis and to develop a possible experiment use the Architecture Hypothesis Card.
 
-![image001](media/experiments002.png)
+[![image001](media/experiments002.png)](https://iasa-global.github.io/btabok/architecture_hypothesis_card.html){:target="_blank"}
 
 # References and Further Reading
 
