@@ -70,7 +70,7 @@ If the Architect performing these activities results in better outcomes, but the
 
 The word 'value' itself has some problems in this context. The main issue is that value can be extremely subjective. What is of value to one Director of Application Development may not be of value to a Senior Manager of Risk and Compliance both [stakeholders](stakeholders.md){:target="_blank"} then have differing perspective on value for initiatives.
 
-![image001](media/v_m001.png)
+[![image001](media/v_m001.png)](https://iasa-global.github.io/btabok/stakeholder_initiative_canva.html){:target="_blank"}
 
 For this reason, architects need to be looking at outcomes when we are defining value. Outcomes in the BTABoK are defined using objectives. Acceptable or expected outcomes of an effort will be core to the effort, defined up front, and will provide the standard against which to measure for value.
 
