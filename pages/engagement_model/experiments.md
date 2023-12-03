@@ -98,7 +98,7 @@ The BTABoK suggests the following types of experiments.
 
 To generate hypothesis and to develop a possible experiment use the Architecture Hypothesis Card.
 
-[![image001](media/experiments002.png)](https://iasa-global.github.io/btabok/architecture_hypothesis_card.html){:target="_blank"}
+[![image001](media/experiments002.png)](https://iasa-global.github.io/btabok/architecture_engagement_designer.html){:target="_blank"}
 
 # References and Further Reading
 
