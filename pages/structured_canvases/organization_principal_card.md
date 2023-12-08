@@ -15,7 +15,7 @@ tags:
 
 ![image001](media/organization_principal_card.svg)
 
-[Download PPT](media/ppt/organization_principal_card.ppt){:target="_blank"}
+[Download PPT](media/ppt/organization_principal_card.pptx){:target="_blank"}
 
 | Area                     | Description | Links To |
 | ------------------------ | ----------- | -------- |
