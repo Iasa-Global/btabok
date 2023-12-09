@@ -62,7 +62,7 @@ Depending on the context, the business function, and the company in question, an
 
 In the development of an engagement model these activities are called 'The Red Thread' and are included in the Design Traceability as well as [Business Technology Strategy](strategy.md){:target="_blank"} competencies.
 
-f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](governance.md){:target="_blank"}, [analysis](analysis.md){:target="_blank"} and [extended team](extended_team.md){:target="_blank"}.
+f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](governance_em.md){:target="_blank"}, [analysis](analysis.md){:target="_blank"} and [extended team](extended_team.md){:target="_blank"}.
 
 If the Architect performing these activities results in better outcomes, but there isn't a measure for how much each activity is worth to the effort in dollars, how is value defined?
 
@@ -136,7 +136,7 @@ How long did it take? 
 
 -   [Roadmaps](roadmap.md){:target="_blank"} 
 -   Sequencing and Prioritization  
--   [Governance](governance.md){:target="_blank"} (Reviews, Toll-Gates) 
+-   [Governance](governance_em.md){:target="_blank"} (Reviews, Toll-Gates) 
 -   [Stakeholder](stakeholders.md){:target="_blank"} Communication 
 -   Engagement Models 
 
