@@ -12,7 +12,7 @@ tags:
 
 ![image001](media/architecture_definition_canvas.svg)
 
-[Download PPT](media/ppt/architecture_definition_canvas.ppt){:target="_blank"}
+[Download PPT](media/ppt/architecture_definition_canvas.pptx){:target="_blank"}
 
 | Area                | Description                                                                                                                                                                                                                                                                                                                 | Links To |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
