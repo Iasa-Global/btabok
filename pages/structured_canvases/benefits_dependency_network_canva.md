@@ -12,6 +12,6 @@ tags:
 
 
 
-![image001](media/benefits_dependency_network_canva01.svg)
+![image001](media/benefits_dependency_network_canva.svg)
 
 [Download PPT](media/ppt/benefits_dependency_network_canva.pptx)
