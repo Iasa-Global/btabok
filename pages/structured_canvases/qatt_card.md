@@ -24,8 +24,7 @@ The Quality Attribute Card is built to create ATAM scenarios to test the archite
 
 | Area               | Description                                                                                                                                                                | Links To          |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Quality Attribute  | What quality attribute are we testing? Ex Performance, Security, etc.                                                                                                      | [ASR Card](asr.md
-){:target="_blank"}          |
+| Quality Attribute  | What quality attribute are we testing? Ex Performance, Security, etc.                                                                                                      |[ASR Card](architecture_requirement_card.md){:target="_blank"}          |
 | Requirement        | This is generally the QATT requirement.                                                                                                                                    | [ASR Card](asr.md
 ){:target="_blank"}         |
 | Source of Stimulus | An entity capable of creating stimulus (internal or external people, a computer system, etc) scenario defines the source of stimulus                                       |                   |
