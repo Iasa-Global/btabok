@@ -15,7 +15,3 @@ tags:
 ![image001](media/business_capability_canvas001.svg)
 
 [Download PPT](media/ppt/business_capability_canvas.ppt){:target="_blank"}
-
-| Area | Description | Links To |
-| ---- | ----------- | -------- |
-|      |             |          |
