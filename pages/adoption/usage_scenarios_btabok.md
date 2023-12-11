@@ -69,7 +69,7 @@ Design methodologies for architecture are relatively difficult to find, especial
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. Rotation, technical depth vs breadth, and specialization.
 
-(write this article)
+
 
 ## Legacy Systems Modernization
 
@@ -95,9 +95,15 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 
 Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation. In addition, this article looks at the nature of new products and projects. When do these ideas occur? How are they submitted? How can architects be more involved? 
 
-Federated Practices
+## Federated vs Centralized Practices
 
-Much
+Many organizations switch between centralized and decentralized models of architecture practices. Many are actually only considering their titled enterprise architects in this thinking and already have many architects working in a federated model. In addition most of the extended team will be outside of a centralized group. These articles will describe pros-cons and best practices in how architects communicate and report. 
+
+### Things that CIOs From the Team
+
+What duplicate application services to we have? 
+
+What is the risk I have in certain business areas? 
 
 ## My Business Stakeholder Wants to Buy a Product
 

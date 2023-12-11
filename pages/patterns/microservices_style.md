@@ -8,11 +8,15 @@ permalink: microservices_style.html
 folder: patterns
 ---
 
+## 
+
+
+
 ## The CQRS Pattern
 
 Most 
 
-## Motivation 
+## Motivation
 
 * One 
 
@@ -22,18 +26,14 @@ The
 
 ### Commands
 
-* 
-
-### Queries
+* ### Queries
 
 * 
 
 ## Advantages
 
-* 
+* ## Disadvantages
 
-## Disadvantages
-
-* 
-## References
-[1] http
+* ## References
+  
+  [1] http
