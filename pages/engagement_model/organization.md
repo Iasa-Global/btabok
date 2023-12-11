@@ -92,7 +92,7 @@ The assumption in a practice is different than a corporate organization. In a pr
 
 To begin the development of the organization the team must define the elements to be resolved for this area of the BTABoK engagement model and how they relate to the overall people model. To begin it is important to describe the overall architecture capability desired and its current state. The architecture capability card can help understand what is currently happing and opportunities for improvement.
 
-![image001](media/organization002.png)
+[![image001](media/organization002.png)](https://iasa-global.github.io/btabok/architect_organization_canvas.html){:target="_blank"}
 
 ## Using the Canvas
 
@@ -110,7 +110,8 @@ In addition it is important to understand what types of architects work at the c
 
 The canvas includes areas to describe coverage and scope of the team (refer to the scope and coverage article for more information). Use this to understand how the architects engage with the company. The architect engagement touchpoints canvas can be used to help identify the types and areas of engagement. And is included in that article.
 
-![image001](media/organization003.png)
+[![image001](media/organization003.png)](https://iasa-global.github.io/btabok/architects_engagement_touchpoints.html){:target="_blank"}
+
 
 ## People, Process and Technology
 
@@ -166,7 +167,7 @@ Think about different reporting structure and use a rating system to determine i
 
 The following practice based techniques and methods will aid the organization in growing the recognition of value as well as the competencies of its practitioners. The team goals canvas is an interesting tool to help align a practice.
 
-![image001](media/organization007.png)
+[![image001](media/organization007.png)](https://iasa-global.github.io/btabok/architect_team_goals_canvas.html){:target="_blank"}
 
 ## Mentors, Administrators and Career Path
 

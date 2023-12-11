@@ -58,7 +58,7 @@ Step 1 in any Value Stream activity is finding the value streams. A number of st
 
 -   Option 4: Financial -- find and follow the money
 -   Option 5: Operational -- find and follow the activity
--   Option 6: [Governance](governance.md){:target="_blank"} -- find and follow the outcomes (rules, policies, principles)
+-   Option 6: [Governance](governance_em.md){:target="_blank"} -- find and follow the outcomes (rules, policies, principles)
 
 ## Capability Value Stream Mapping
 

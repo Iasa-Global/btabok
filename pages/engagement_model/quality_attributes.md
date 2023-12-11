@@ -71,7 +71,7 @@ Does that mean that all hope is lost?  No.  But we need to watch a couple thin
 
 For the first steps, we may use a canvas or card like the one shown below to capture our starting point: epic title, principles, enablers (suggested to be put in Backlog or Jira), and monitoring strategy. 
 
-![image001](media/q_a002.png)
+[![image001](media/q_a002.png)](https://iasa-global.github.io/btabok/quality_attributes_canvas.html){:target="_blank"}
 
 ## A quality attribute planning canvas
 

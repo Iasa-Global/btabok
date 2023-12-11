@@ -47,9 +47,10 @@ An architectural decision is one that impacts:
 
 It is often easier to say it is one which delivers against an architectural requirement. The decision needs a number of options and these options are then compared in areas of impact. I like to use a numbering system of 1-10 in decisions because it gives enough room to compare but doesn't get too complicated. The essential element is that stakeholders get a solid understanding of what is a 10 and what is a 1 in your organization. 
 
-![image001](../structured_canvases/media/architecture_decision_record.svg)
+[![image001](../structured_canvases/media/architecture_decision_record.svg)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
-As you can see the decision record provides plenty of space for the implementation of a decision. It includes the context (what is shaping the decision), traceability to the [ASR](../structured_canvases/architecture_requirements_card.md), and the [scope ](../engagement_model/scope.md)of the decision. 
+
+As you can see the decision record provides plenty of space for the implementation of a decision. It includes the context (what is shaping the decision), traceability to the [ASR](../structured_canvases/architecture_requirement_card.md), and the [scope ](../engagement_model/scope_context.md)of the decision.
 
 ## Decision Importance
 
@@ -63,7 +64,7 @@ Anyone who has worked in a team knows that they don't know everything and that i
 
 The techniques for using the canvases in these contexts are described below. 
 
-### Last Responsible Moment
+## Last Responsible Moment
 
 This comes up time after time. Emergent design supports the last responsible moment or the latest moment where a decision can be made. If following set-based design from SAFe, this might not even occur during the initial build phases. The decision record supports even that. Either way, in the end, we look at a filled decision and it is obvious what the architect evaluated and why! 
 
@@ -71,7 +72,7 @@ This comes up time after time. Emergent design supports the last responsible mom
 
 The following defines how to make the most out of the ADR in practice. First, it should be noted the average product would not have a significant number of decision records. Even in large projects, the number of ADRs might not be more than 20. Much of the 'volume' can be reduced using decision cascades and principles. In addition, the views and viewpoints in use will help describe decisions in context, allowing plenty of flexibility to stakeholders in how they execute. 
 
-### Decision Overview
+## Decision Overview
 
 This area is for the basic decision elements.
 
@@ -87,7 +88,7 @@ This is a chance to link the decision to a requirement or objective. The decisio
 
 As you know scope is a tricky subject in architecture. However, you can simply use the classifications from the [scope article](../engagement_model/scope_context.md) in the BTABoK.
 
-### Decision Characteristics
+## Decision Characteristics
 
 The decision characteristics is one of the most important elements of the card, though people often overlook it. As you get more experienced in design you will realize these elements impact the overall importance and decision making process by a wide margin. So you should definitely get good at filling these in! 
 
@@ -141,15 +142,15 @@ There are often cognitive biases in decisions. The BTABoK includes a set of deci
 
 So when do I need a decision record. Currently we are aware of three major areas where ADRs are used. But feel free to message me about others you know. These are relatively loose and the architect should use whatever decision records they think they need. 
 
-### Design Patterns and Structure
+## Design Patterns and Structure
 
 Structural decisions are relatively easy to identify. Should we go with Serverless, Microservices, or Macroservices (I HATE the term monolithic, it sounds soooo awful which makes it cognitively biased:-))? These structural choices or Patterns are about the implementation of a set of systems. They apply to any concept in structure (domain entities), routing, hosting, etc. These decisions are critical to the overall topology, shape and engineering rigor of the final system. 
 
-### Business Technology Components
+## Business Technology Components
 
 Component decisions are about whether we support certain pre-built or existing building blocks of a system. I like to think of these as ERP, Oauth or other existing standards and tools. 
 
-### Products
+## Products
 
 The product bake-off is a tried and tested decision technique and very common for architects. Comparing products, frameworks or technologies fits into this category. 
 

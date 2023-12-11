@@ -158,7 +158,8 @@ The Architecture Loan Request is a canvas that can be used to capture significan
 
 Work with the Product Owner to identify the business value delivered by the decision, and the justification. It is important to identify which components are impacted and the cost of repaying the debt and have a plan for remediation in place.
 
-![image001](media/t_d004.png)
+[![image001](media/t_d004.png)](https://iasa-global.github.io/btabok/technical_loan_request_card.html){:target="_blank"}
+
 
 # Summary
 

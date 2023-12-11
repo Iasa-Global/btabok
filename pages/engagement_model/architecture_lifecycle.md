@@ -181,7 +181,7 @@ example, reduced cost, increased productivity, personnel motivation or
 greater market share. To express the benefits more clearly add "+"
 symbols next to each benefit to indicate how strong the benefit is.
 
-![image001](media/lifecycle_innovation_assessment_card.png) 
+[![image001](media/lifecycle_innovation_assessment_card.png)](https://iasa-global.github.io/btabok/innovation_assestment_card.html){:target="_blank"}
 
 **Step 3: List the changes required**
 
@@ -351,7 +351,7 @@ specific domain or scope. Sometimes the purpose and aims of the
 lifecycle change over time, this is why it is important to re-iterate
 the purpose and aim before starting the planning.
 
-![image001](media/lifecycle_lifecycle_planning.png) 
+[![image001](media/lifecycle_lifecycle_planning.png)](https://iasa-global.github.io/btabok/lifecycle_planning_canvas.html){:target="_blank"}
 
 **Step 2: Describe the current status**
 

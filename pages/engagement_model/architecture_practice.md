@@ -62,7 +62,7 @@ Figure 1 BTABoK Competencies and Specialization
 
 The competency model used in the BTABoK establishes a clear value proposition within the profession and that is Business Technology Strategy. Later sections of this article will clarify how that applies to specialists such as business or software architects as well as how sub-specialists or technical experts are included. In addition, the [Extended Team](extended_team.md){:target="_blank"}article explores ways to use the competencies in environments where architecture as a profession is not firmly established. Below is a common canvas used to highlight competency strengths and weaknesses in both individuals and architecture teams.
 
-![image001](media/a_p002.png)
+[![image001](media/a_p002.png)](https://iasa-global.github.io/btabok/architect_skills_gap_analysis.html){:target="_blank"}
 
 Figure 2 Architect Skills Gap Analysis Canvas
 
@@ -127,7 +127,7 @@ One of the first areas of an architecture practice works with is to identify int
 
 To understand the type and nature of interactions with stakeholders the Architecture Touchpoints Canvas can be used. This exercise is best done by the entire steering group. The goal is to document the target state of the engagement model with current staff and competencies. It is also useful in understanding the current state of interactions.
 
-![image001](media/a_p003.png)
+[![image001](media/a_p003.png)](https://iasa-global.github.io/btabok/architects_engagement_touchpoints.html){:target="_blank"}
 
 Figure 3 Architecture Touchpoints Canvas
 
@@ -141,7 +141,7 @@ The maturity of an architect practice is measured by understanding its impact on
 
 As a part of the practice and engagement model there should be clear objectives for the entire group of architects employed by an organization, including vendors and SI partners. This means the practice has to set and measure these objectives and how they are being achieved alongside working with other business units on digital advantage. In most cases these two elements will cross over significantly. Effectively the architecture practice becomes responsible for a portion of outcomes related to all areas of the business it officially supports. However, it needs to be noted that based on the BTABoK, this level of support must be proactive involvement in the delivery of value for the business units the practice engages with, including the IT business unit, thus enterprise wide objectives are only possible if there are enough architects to commit to such proactive engagement. See the [Coverage](coverage.md){:target="_blank"} article for more guidance.
 
-![image001](media/a_p005.png)
+[![image001](media/a_p005.png)](https://iasa-global.github.io/btabok/architect_team_goals_canvas.html){:target="_blank"}
 
 ## Growing Acceptance/Awareness
 
@@ -172,7 +172,7 @@ For more senior members
 
 It is essential that this group create an understandable [engagement model](engagement.md){:target="_blank"} and that they do so in a way that represents the real work of the architects in the organization. For a full description of developing an engagement model see Engagement Models.
 
-![image001](media/a_p006.png)
+[![image001](media/a_p006.png)](https://iasa-global.github.io/btabok/architect_organization_canvas.html){:target="_blank"}
 
 The Architect Capability Canvas provides a tool for overall capability management of the architecture practice and there are multiple additional [canvases](../structured_canvases/structured_canvases_m.md){:target="_blank"} that aid the development of a truly well-understood and accepted model of practice.
 
@@ -182,7 +182,7 @@ One of the critical elements of the engagement model is the processes, deliverab
 
 The Engagement Model Designer can be used to understand current and future state techniques on a single page.
 
-![image001](media/a_p007.png)
+[![image001](media/a_p007.png)](https://iasa-global.github.io/btabok/architecture_engagement_designer.html){:target="_blank"}
 
 ![image001](media/by-nc.png)
 

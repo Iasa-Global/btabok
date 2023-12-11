@@ -101,7 +101,7 @@ consideration, so that the architecture aligns with the
 [objectives](objectives.md){:target="_blank"} of the business, as well as ensuring that
 resulting implementations comply to the architecture.
 
-### Architects Should Be Governed Not Governing
+## Architects Should Be Governed Not Governing
 
 As above the goal of the architecture practice is to deliver change in the most valuable and effective manner. Thus, a base practice for them is to be governed, not do the governing. 
 

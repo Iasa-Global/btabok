@@ -21,7 +21,7 @@ Requirements are recognized and developed throughout the entire portfolio of the
 
 For the purpose of the BTABoK, all thinking, ideas and desires about a business or technology system can be characterized as requirements, though depending on the full engagement model in use by an organization they may be called other names and use other format. 
 
-![Figure_1](media/requirements001.png)
+[![image001](media/requirements001.png)](https://iasa-global.github.io/btabok/ars_card.html){:target="_blank"}
 
 ## Description
 

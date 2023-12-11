@@ -270,7 +270,7 @@ The following canvas can support the workshop by placing the canvas on a
 wall where the stakeholders can visualize the details of the transition.
 A recommendation is to use sticky notes method.
 
-![image001](media/roadmaps_canvas5.png)
+[![image001](media/roadmaps_canvas5.png)](https://iasa-global.github.io/btabok/transition_roadmap_canvas.html){:target="_blank"}
 
 The following describes a process which may be used to formulate the
 details of a transition in a roadmap.
@@ -360,7 +360,7 @@ However, it is also reasonable to expect that releases may be planned which are 
 The following Product Roadmap Canvas can be used to support the workshop. The canvas can be pinned to the wall and sticky notes used to
 visualize information on the canvas.
 
-![image001](media/roadmaps_canvas7.png)
+[![image001](media/roadmaps_canvas7.png)](https://iasa-global.github.io/btabok/product_roadmap_canvas.html){:target="_blank"}
 
 The following describes a process which may be used to formulate the product roadmap.
 
