@@ -15,23 +15,21 @@ There is a scene in Fight Club where the main actor is sitting in a meeting with
 
 As an architect in the middle of design, requirements stitch together the outcome of the system with it's purpose. UI design requirements, quality attribute requirements, constraints, business functionality, all the desires and wants that great systems represent. Sometimes they are specific and sometimes they are general, but ultimately they form the basis for what is delivered, configured or designed. 
 
-And yet requirements are an utter mess. 
 
-In fact, I often describe great architecture as
-
-> "making great business technology decisions, at the right velocity, in complex ecosystems with a complex set of stakeholders."
-
-But what makes a decision great or even architectural? And if this is so important why do we not do a better job of it?
 
 ![](file:///Users/paultpreiss/Documents/dev/btabok/pages/btabok_overview/media/design/structuredcanvases.png?msec=1701169703288)
 
 Primary Design Canvases from the BTABoK
 
+What do we mean by 'requirements'? 
+
+
+
+
+
 ![](file:///Users/paultpreiss/Documents/dev/btabok/pages/btabok_overview/media/design/designbreakdown.png?msec=1701169703282)
 
 Taken from BTABoK Design Article: [Design | IASA - BTABoK](https://iasa-global.github.io/btabok/design.html)
-
-If you haven’t read the BTABoK article and Part 1, you may want to familiarize yourself with those first. Always keep in mind the BTABoK is open source. If you don’t like the article, change it however you want and do a pull request, and the editorial team will review and accept/reject it. Also, we are shamelessly looking for volunteers for special BTABoK projects, like the Pattern Library
 
 ## Conclusion
 
