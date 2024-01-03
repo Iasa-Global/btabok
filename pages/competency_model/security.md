@@ -5,20 +5,22 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: security.html
 folder: competency_model
-summary: "Security is one universal quality property."
+summary: "Security is a universal quality attribute to manage risk to the confidentiality, integrity, or availability of information or systems."
 tags:
   - quality_attributes
 ---
 
 # Description
 
-Demonstrated understanding of security concepts and the application of best security practices during the whole system life cycle. Demonstrated understanding of regulations and compliance, security administration and business continuity assurance. Demonstrated competence in basic implementation techniques.
+Security is a complex quality attribute which has developed into a capability with specialized architects.  Security as a quality attribute represents the mitigation of threats and vulnerabilities to confidentiality, integrity, or availability of the data in a system or the systems themselves.  In order to enhance delivery against this quality attribute, the architect will need to understand potential risks, the technology, process, and people capabilities needed to mitigate those risks, and be able to identify appropriate tradeoffs with cost and system functionality.
+
+In recent years, managing the Security of a system will require architects to have closely related design and understanding of options for system performance, availability, meeting compliance criteria, and the advent of Privacy as a quality attribute.
 
 # Overview
 
 ## Why does an architect need this skill? 
 
-Security is one "universal" quality property. That is, it is present in all systems, even small, simple ones.  The architect should be aware of that, and needs to have the "security awareness", a state that will detect security requirements in regular, common scenarios, even when no security seems to be needed. That is because security relates not only to authentication, but also on quality of delivery, availability and several other "illities"
+Security is a "universal" quality property. That is, it is present in all systems, even small, simple ones.  The architect should be aware of that, and needs to have the "security awareness", a state that will detect security requirements in regular, common scenarios, even when no security seems to be needed. That is because security relates not only to authentication, but also on quality of delivery, availability and several other "illities"
 
 ## Common tasks involved in this skill?
 
