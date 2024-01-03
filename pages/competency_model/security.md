@@ -22,35 +22,35 @@ Security is one "universal" quality property. That is, it is present in all syst
 
 ## Common tasks involved in this skill?
 
-The architect should understand what security is about, and include security awareness from stage 0 (stating the business context). The architect must understand business needs and identify the security requirements aligned with the business strategy. The architect needs to comply with regulations, establish security models and frameworks, review correct design and coding practices, and assure security is present during operation and sunset of systems.
+All architects need a basic understanding of strategies for availability for a system, and to understand a basic requirements gathering process for potential vulnerabilities, high likelihood threats, and compliance requirements for the protection of a system and its data.  Security awareness should be included in architecture and design approaches from stage 0 (stating the business context). The architect must understand business needs and identify the security requirements aligned with the business strategy. The architect needs to comply with regulations, establish security models and frameworks, review correct design and coding practices, and assure security is present during operation and sunset of systems.
 
 ## What is their ownership in this skill?
 
-The architect is the closest link to the system implementation in a special security chain that starts with the business goals and strategy, the stakeholder and the security officers.
+The architect is the closest link to the system implementation in a  security chain that starts with the business goals and strategy, the stakeholder and security officers if they exist at the organization.
 
 Name an example of how an architect would use this in daily activities?
 
-For instance, an online sales company wants to expand its operations and become international. Apart from ensuring the use of the best security practices to provide confidentiality, integrity and availability, the architect must also understand the requirements in this strategy, take into account regulations on the target countries regarding information use and distribution, the regulations and compliance to industrial payment standards, the effect on availability of the increased number of clients, etc.
+An online sales company wants to expand its operations and become international. Apart from ensuring the use of the best security practices to provide confidentiality, integrity and availability, the architect must also understand the requirements in this strategy, take into account regulations on the target countries regarding information use and distribution, the regulations and compliance to industrial payment standards, the effect on availability of the increased number of clients, etc.
 
 # Best Practices
 
 ## Describe why an architect should be involved in this skill at a corporate level
 
-Security is not a technology only issue, it relates primarily to business. The impact of a security breach affects business in several ways, from an impact to the company image and trust, to the loss of money due to non-operation periods. Still, security is mainly enforces using technology, and security in technology is a very complex area. This is why architects should need this skill in a corporate facing analysis of security needs.
+Security is not a technology only issue, it relates to the obligations of the business and the composite people, processes AND technologies that realize the business intent. The impact of a security breach affects business in several ways, from an impact to the company image and trust, to the loss of money due to non-operation periods. Still, security is mainly realized using technology means and the operation and monitoring of system information.  To mitigate risk in realizing the business targeted results, an architect will need either deep skill in designing for these needs or to partner with specialists inside or outside the organization to ensure th requirements for the system's security are gathered, prioritized, and capabilities included to meet these needs.
 
 ## Primary push back and/or challenges for architects
 
-Security is usually thought as an identification/authorization problem. It is also taken as a afterthought, something to be added later. To create a robust architecture, the architect needs to understand and make understandable to stakeholder, the complexity of security, risk and planning.
+Security is usually thought as an identification/authorization problem. It is also taken as a afterthought, something to be added later. To create a robust architecture, the architect needs to understand and make understandable to stakeholder, the complexity of security, risk and planning.  This complexity, too, can be a difficulty as people with the neccessary skills, and increases in cost to meet security needs can be challenging to the organization.
 
 ## How would a stakeholder engage an architect for assistance utilizing this skill?
 
-As mentioned, security is almost a universal topic, present in all systems. It should be part of every requirement/scenario/use case review. Sadly, more than often the topic is mentioned after a problem or attack has been detected.
+As mentioned, security is almost a universal topic, present in all systems. It should be part of every requirement/scenario/use case review. Sadly, more than often the topic is mentioned after a problem or attack has been detected.  Organizations should include security and privacy obligations as part of the design cycle, identify the magnitude and type of risks which are not tolerable to the intended outcomes of the system, and identify capabilities that mitigate, avoid, or transfer intolerable risk.
 
 # Sub-Components Skills
 
 ## Secure Component Skills:
 
-This includes but is not restricted to: most know security models and methodologies, authorization models, knows security related frameworks, hacking methodologies, the C.I.A. acronym (Confidentiality, Integrity and Availability), risk evaluation concepts.
+This includes but is not restricted to: common and/or standardized security models and methodologies, authorization models, knows security related frameworks, hacking methodologies, the C.I.A. acronym (Confidentiality, Integrity and Availability), risk evaluation concepts.
 
 | **Iasa Certification Level** | **Learning Objective** |
 | :-: | :-: |
@@ -58,18 +58,19 @@ This includes but is not restricted to: most know security models and methodolog
 | | -   Learner will be able to explain what is risk management and why is it important
 | | -   Learner will be able to name some of the most known security standards
 | | -   Learner will be able to name common security methodologies.
-| | -   Learner will be able to explain what Trust Computing means
-| | -   Learner will be able to name the different security models, like BLP, Biba, Chinese Wall, etc.
+| | -   Learner will be able to name the security models or patterns most relevant to the type of architecture they are engaged in, like walled garden, zero trust architecture, etc.
 | **CITA -- Associate** | -   Learner will be able to explain the design flow from conceptual to implementation description of architecture artifacts.
 | | -   Learner will be able to explain how to transform collected architectural information and intents into viable models.
 | | -   Learner will be able to depict functional requirements of the architecture.
-| | -   Learner will be able to explain the vocabulary of their preferred Architecture Description Language (ADL).
+| | -   Learner will be able to explain the key patterns used to mitigate risk in the architectural description.
 | **CITA -- Professional** | -   Learner will be able to conduct a threat modeling process
-| | -   Learner will be able to apply some security methodologies, like OCTAVE, STRIDE, DREAD
-| | -   Learner will be able to create architectures that are compliant to different standards from NIST, ISO, etc.
+| | -   Learner will be able to apply some security threat modeling approaches, like OCTAVE, STRIDE, DREAD, and apply industry published bodies of work that organize attack patterns like ATT&CK and ATLAS.
+| | -   Learner will be able to identify likely regulatory and compliance obligations that would affect a system in the context of that system's implementer, geography, and industry.
+| | -   Learner will be able to create architectures that are compliant to different standards from NIST, ISO, regulators for an industry or country etc.
 | | -   Learner will be able to implement a suitable security model.
-| **CITA -- Distinguished** | -   Learner will be able to define and implement risk management in the enterprise
-| | -   Learner will be able to implement and comply with security best practices indicated in know frameworks, like COBIT
+| | -   Learner will be able to synthesize security adoption approaches to enhance the likelihood of successful risk mitigation in the implemented system..
+| **CITA -- Distinguished** | -   Learner will be able to define and implement risk management in the enterprise and guide other architects in established processes, approaches, and patterns to mitigate similar risks
+| | -   Learner will be able to implement and comply with security best practices indicated in known frameworks, like COBIT
 | | -   Learner will be able to identify the impact of the use of different security models for systems enterprise wide.
 
 ## Security in Requirements
