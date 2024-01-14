@@ -16,5 +16,3 @@ tags:
 #Overview 
 
 ##What is DevOps & Architecture 
-
-

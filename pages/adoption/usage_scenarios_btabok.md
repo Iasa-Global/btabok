@@ -43,9 +43,37 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 - How do I update a legacy system?
 
-## [Adopting the Competency Model](../btabok_overview/adopting_the_competency_model.md)
+## Managed Mentoring and Career Path
+
+This article series will focus on the career path of architects from basic skills to distinguished board certifications. It lays out the necessary elements of building an internal career path and how that will impact the organization. It also includes common people managament, HR and benefits management concepts for architects. 
+
+- A Mentoring Program How To
+
+- Career Path vs Internal Job Growth for Architects
+
+- How to Deal with Specializations
+
+- Hiring, Job Descriptions and HR 
+
+### [Adopting the Competency Model](../btabok_overview/adopting_the_competency_model.md)
 
 The competency model of the BTABoK is at the core of the practice. It is the most robust and well-documented competency model for architects on the market. In this article we are going to evaluate methods for adoption and their benefits to your organization.
+
+## What's With All the Canvases
+
+This series of articles describes the Structured Canvas Approach and how to use it. It lays out basic artifact relationships to the scenarios in this document and describes other aspects like relationships to architecture tools, storage of models/canvases, and implementation patterns in lifecycles and deliverables.
+
+- An Overview of the Structured Canvas/Concept Approach
+
+- [Creating/Updating a Canvas](./btabok_overview/creating_a_canvas.md)
+
+- Understanding Sub-Groupings of Canvases
+
+- Core Canvases Maybe All You Need
+
+- From Canvas to Tools and Back (Why We Need Better Tools)
+
+- Usage in the Real World
 
 ## Designing with the BTABoK - 6 part Series
 
@@ -202,31 +230,3 @@ In this article, we will review the client and customer language prevalent in th
 ## Architecture-Led Consulting with the BTABoK
 
 This article series describes how consulting organizations can use the BTABoK to significantly increase the effectiveness of accounts by using stable and effective techniques from the BTABoK. Also, it digs into the relationship of value flow inside the consulting and product company to better align client-trusted advisors with architecture teams and practices. 
-
-## What's With All the Canvases
-
-This series of articles describes the Structured Canvas Approach and how to use it. It lays out basic artifact relationships to the scenarios in this document and describes other aspects like relationships to architecture tools, storage of models/canvases, and implementation patterns in lifecycles and deliverables. 
-
-- An Overview of the Structured Canvas/Concept Approach
-
-- Understanding Sub-Groupings of Canvases
-
-- Core Canvases Maybe All You Need
-
-- From Canvas to Tools and Back (Why We Need Better Tools)
-
-- Usage in the Real World
-
-## Managed Mentoring and Career Path
-
-This article series will focus on the career path of architects from basic skills to distinguished board certifications. It lays out the necessary elements of building an internal career path and how that will impact the organization. 
-
-- A Mentoring Program How To
-
-- Career Path vs Internal Job Growth for Architects
-
-- How to Deal with Specializations
-
-- Hiring, Job Descriptions and HR
-
-## 

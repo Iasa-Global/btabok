@@ -11,11 +11,9 @@ tags:
   - sustainability
 ---
 
-
 *Note this is an initial stub / work in progress page.*
 
 The decisions every organisation makes  have a future impact and often have implications beyond their organisation. The first step is raise awareness of the need to consider sustainability issues in architecture and design processes so they can be considered alongside typical considerations of business impact, quality, cost & compliance. Architects should consider what environmental debt has their organisation (and potentially the wider ecosystem they operate in) built up that now needs to be addressed systematically? How do we advise our stakeholder to build more sustainable systems and architectures to avoid these issues?
- 
 
 Conscious, sustainable business is no longer a nice to have - consumers and business customers, employees, stakeholders and investors want to do work with organisations that (pragmatically) do the right thing.   
 
@@ -23,11 +21,11 @@ Architects have a challenge to pragmatically navigate a way that allows their or
 
 Whilst very important topics this goes beyond climate change and sustainability - there are a whole spectrum of Sustainable Development Goals and quality attributes that organisations need to consider including:
 
- - Climate change & impacts on food production and health
- - Sustainability, biodiversity & protecting ecosystems
- - Diversity, the increasing digital divide & social inclusion
- - Cybersecurity & privacy
- - Responsible consumption and production (of energy and products/services)
+- Climate change & impacts on food production and health
+- Sustainability, biodiversity & protecting ecosystems
+- Diversity, the increasing digital divide & social inclusion
+- Cybersecurity & privacy
+- Responsible consumption and production (of energy and products/services)
 
 You shouldn't just think of this as someone else’s problem - don't just try and outsource it. I.e. How does your supply chain and extended enterprise / business ecosystem tackle these challenges? What is your total footprint?
 

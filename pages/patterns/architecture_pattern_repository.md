@@ -12,7 +12,6 @@ folder: patterns
 
 *Grady Booch, Design Patterns: Elements of Reusable Object-Oriented Software*
 
-
 ## Design Patterns
 
 Developers must design clean, clearly designed code to avoid bug creep into the system, and avoid complexity. Designing a system is not easy.
@@ -55,13 +54,15 @@ Once the problem has been studied, designing with patterns will result in a cohe
 
 The specification of a Design Pattern is usually subjective. However, most specifications usually conform to the basic template below.
 
-| **Term**               | **Description**                                                                                                                                                                       |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Name                   | A short descriptive appellation for the pattern, usually indicative of its purpose.                                                                                                   |
-| Functional description | A description of what the pattern does.                                                                                                                                               |
-| Synonyms               | Other names for the pattern                                                                                                                                                           |
-| Classification         | Behavioural, Creational, Structural, and so on.
+| **Term**               | **Description**                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------- |
+| Name                   | A short descriptive appellation for the pattern, usually indicative of its purpose. |
+| Functional description | A description of what the pattern does.                                             |
+| Synonyms               | Other names for the pattern                                                         |
+| Classification         | Behavioural, Creational, Structural, and so on.                                     |
+
                                             |
+
 | Motivation             | A description of the problem for which this pattern could be the solution                                                                                                             |
 | Usage scenario         | Where this pattern would be applicable                                                                                                                                                |
 | Structure              |  How to construct an implementation based on this pattern                                                                                                                             |
@@ -87,12 +88,11 @@ Patterns can be classified according to the following broad disciplines:
 
 ### Software Design Pattern Types and Catalog
 
-
-| **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
-|------------------|------------------------------------|----------------------------------------------------------------------------------|
-| [Cloud](https://iasa-global.github.io/btabok/cloud_patterns.html)            | Infrastructure, Software, Solution | Cloud Patterns Library |
-| Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
-| Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
+| **Pattern Type**                                                  | **Architectural Relevance**        | **Patterns**                                     |
+| ----------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------ |
+| [Cloud](https://iasa-global.github.io/btabok/cloud_patterns.html) | Infrastructure, Software, Solution | Cloud Patterns Library                           |
+| Microservices                                                     | Infrastructure, Software, Solution | Microservices Patterns Library                   |
+| Software Design                                                   | Software, Solution                 | Software Patterns Library (example: Gang of Four |
 
 ## References
 
@@ -101,6 +101,7 @@ Patterns can be classified according to the following broad disciplines:
 2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
 
 3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
+
 <div class="row">
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
