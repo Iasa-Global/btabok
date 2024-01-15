@@ -65,7 +65,7 @@ This series of articles describes the Structured Canvas Approach and how to use 
 
 - An Overview of the Structured Canvas/Concept Approach
 
-- [Creating/Updating a Canvas](creating_a_canvas.md)
+- [Creating/Updating a Canvas](../btabok_overview/creating_a_canvas.md)
 
 - Understanding Sub-Groupings of Canvases
 
