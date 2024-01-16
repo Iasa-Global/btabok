@@ -121,6 +121,12 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 
 Much of architecture centers around innovation and ways of handling new ideas. This article series explores using the BTABoK to guide innovation, new projects, business ideas, and experimentation. In addition, this article looks at the nature of new products and projects. When do these ideas occur? How are they submitted? How can architects be more involved? 
 
+- The Business Case
+
+- Lean Change or Change Canvas
+
+- The Product Solution Canvas
+
 ## Federated vs Centralized Practices
 
 Many organizations switch between centralized and decentralized models of architecture practices. Many are actually only considering their titled enterprise architects in this thinking and already have many architects working in a federated model. In addition most of the extended team will be outside of a centralized group. These articles will describe pros-cons and best practices in how architects communicate and report. 

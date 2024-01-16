@@ -34,6 +34,4 @@ So you have a canvas idea. How then do you add it to the BTABoK? First ensure it
    
    ![Screenshot 2024-01-15 at 09.53.10.png](media/canvas_area_screencap.png)
 
-
-
 The structured canvas method is meant to provide a navigable set of practical tools and concepts for the user. Thus the more detail you put into the BTABoK which supports your canvas method the better it will be adopted. Don't forget to lookup in the glossary any definitions from you canvas which need to be inserted or changed. 
