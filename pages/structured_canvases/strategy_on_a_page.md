@@ -7,8 +7,6 @@ permalink: strategy_on_a_page.html
 folder: structured_canvases
 summary: "."
 tags: 
-  - business
-  - chief
 ---
 
 ## Overview
