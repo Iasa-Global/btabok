@@ -49,7 +49,6 @@ It is often easier to say it is one which delivers against an architectural requ
 
 [![image001](../structured_canvases/media/architecture_decision_record.svg)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
-
 As you can see the decision record provides plenty of space for the implementation of a decision. It includes the context (what is shaping the decision), traceability to the [ASR](../structured_canvases/architecture_requirement_card.md), and the [scope ](../engagement_model/scope_context.md)of the decision.
 
 ## Decision Importance
