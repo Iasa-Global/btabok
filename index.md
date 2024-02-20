@@ -111,7 +111,7 @@ The BTABoK is inclusive of all specializations, sub-specializations and career l
 <h2>What is Architecture</h2>
 
 <p>
-As the favorite topic of architects everywhere, what is architecture and what are architects is central to the theme of the BTABoK. Read the [What is Architecture Article](btabok/what_is_architecture.md).
+As the favorite topic of architects everywhere, what is architecture and what are architects is central to the theme of the BTABoK. Read the [What is Architecture Article](btabok_overview/what_is_architecture.md).
 </p>
 
 <h2>Roadmap</h2>

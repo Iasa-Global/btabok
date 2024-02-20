@@ -2,7 +2,7 @@
 title: "What is Architecture"
 tagName: btabok_adoption
 search: exclude
-permalink: what_is_architecture.html
+    permalink: what_is_architecture.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
