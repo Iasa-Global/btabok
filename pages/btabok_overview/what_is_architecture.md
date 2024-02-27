@@ -4,7 +4,7 @@ keywords:
 sidebar: mydoc_sidebar
 toc: true
 permalink: what_is_architecture.html
-folder: structured_canvases
+folder: btabok_overview
 summary: ""
 ---
 
