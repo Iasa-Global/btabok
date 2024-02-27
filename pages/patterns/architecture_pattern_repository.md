@@ -73,18 +73,11 @@ The specification of a Design Pattern is usually subjective. However, most speci
 
 Patterns can be classified according to the following broad disciplines:
 
-* Enterprise Architecture
-* Enterprise Application Architecture
-* Software Architecture
-* Software Design
+* Reference Models
+* Architecture Styles
+* Design Patterns
 
 ## Catalog of Patterns
-
-### Enterprise Architecture Catalog
-
-### Enterprise Application Architecture Patterns
-
-### Software Architecture Patterns
 
 ### Software Design Pattern Types and Catalog
 

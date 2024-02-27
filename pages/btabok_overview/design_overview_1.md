@@ -96,10 +96,12 @@ I am looking forward to this Design Series based on the BTABoK. Here is my curre
 
 2.     Options, Options, Options – So Many Choices
 
-3.     Deceptive Decision Making – Why Agile Architecture is so Hard
+3.     Decision Rights Rule the World – Why Agile Architecture is so Hard (Coming Soon)
 
-4.     Views and *BEYOND* – Thinking, Facilitating, and Communicating
+4.      From Cornflower Blue Buttons to Architecturally Significant Requirements
 
-5.     I Like Patterns – Patterns, Reference Models, and Conformance
+5.      Views and *BEYOND* – Thinking, Facilitating, and Communicating
 
-6.     Assessments, Tests, and Chasing Perfection – How Governance and Architecture are Different
+6.      I Like Patterns – Patterns, Reference Models, and Conformance
+
+7.      Assessments, Tests, and Chasing Perfection – How Governance and Assessment are Different

@@ -15,17 +15,11 @@ There is a scene in Fight Club where the main actor is sitting in a meeting with
 
 As an architect in the middle of design, requirements stitch together the outcome of the system with it's purpose. UI design requirements, quality attribute requirements, constraints, business functionality, all the desires and wants that great systems represent. Sometimes they are specific and sometimes they are general, but ultimately they form the basis for what is delivered, configured or designed. 
 
-
-
 ![](file:///Users/paultpreiss/Documents/dev/btabok/pages/btabok_overview/media/design/structuredcanvases.png?msec=1701169703288)
 
 Primary Design Canvases from the BTABoK
 
 What do we mean by 'requirements'? 
-
-
-
-
 
 ![](file:///Users/paultpreiss/Documents/dev/btabok/pages/btabok_overview/media/design/designbreakdown.png?msec=1701169703282)
 
