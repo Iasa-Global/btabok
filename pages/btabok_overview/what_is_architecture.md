@@ -1,11 +1,13 @@
 ---
 title: "What is Architecture"
-tagName: btabok_adoption
-search: exclude
-    permalink: what_is_architecture.html
+keywords: 
 sidebar: mydoc_sidebar
-folder: tags
+toc: true
+permalink: what_is_architecture.html
+folder: structured_canvases
+summary: ""
 ---
+
 # What is Architecture?
 
 ## Iasa Definition
