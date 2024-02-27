@@ -10,7 +10,7 @@ folder: tags
 
 ## Iasa Definition
 
-[![defs](../../media/9245879d936d8cdd2f62e9953f49d63c79e859c5.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/defs.png)
+
 
 The Iasa community feels that both sides of those definitions, when blended are a good definition. **IT architecture is the art and science of designing and delivering valuable technology strategy.**
 
