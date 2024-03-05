@@ -1,18 +1,20 @@
 ---
 title: "What is Architecture"
-tagName: btabok_adoption
-search: exclude
-    permalink: what_is_architecture.html
+keywords: 
 sidebar: mydoc_sidebar
-folder: tags
+toc: true
+permalink: what_is_architecture.html
+folder: btabok_overview
+summary: ""
 ---
+
 # What is Architecture?
 
 ## Iasa Definition
 
 [![defs](../../media/9245879d936d8cdd2f62e9953f49d63c79e859c5.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/defs.png)
 
-The Iasa community feels that both sides of those definitions, when blended are a good definition. **IT architecture is the art and science of designing and delivering valuable technology strategy.**
+The Iasa community feels that both sides of those definitions, when blended are a good definition. **IT architecture is the art and science of designing and delivering valuable technology strategy.
 
 We must be able to describe a strategy for solving business problem with IT. By having business skills, we speak the language of business to executive sponsors to understand what drives the organization, what challenges they face, and what others in their domain are doing and what challenges they face.
 
