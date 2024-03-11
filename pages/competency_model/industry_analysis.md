@@ -32,104 +32,104 @@ A key challenge for majority of architects is that they have a background softwa
 
 # Proven Practices
 
--   Develop an "outside-in thinking" and understand the business from a customer viewpoint.
--   Build an understanding of business motivation (why and how businesses exist and survive) generally and in the organization where the architect works.
--   Study industry reference models such as value chain analysis, Porter's Five Forces model, PEST (Political, Economic, Social and Technological), PESTLE (PEST with Legal, Environmental impacts) or STEEPLED (social, demographic and ethical impacts).
--   Follow information sources on industry beyond technology e.g. trade publications, business journals.
--   Develop domain knowledge through knowledge sharing with business, business glossaries or training on industry fundamentals.
--   Developing or studying reference domain architecture for the industry.
+- Develop an "outside-in thinking" and understand the business from a customer viewpoint.
+- Build an understanding of business motivation (why and how businesses exist and survive) generally and in the organization where the architect works.
+- Study industry reference models such as value chain analysis, Porter's Five Forces model, PEST (Political, Economic, Social and Technological), PESTLE (PEST with Legal, Environmental impacts) or STEEPLED (social, demographic and ethical impacts).
+- Follow information sources on industry beyond technology e.g. trade publications, business journals.
+- Develop domain knowledge through knowledge sharing with business, business glossaries or training on industry fundamentals.
+- Developing or studying reference domain architecture for the industry.
 
 ## Sub-Capabilities
 
-##  Industry Research
+## Industry Research
 
 Industry research is the acquisition of corporate intelligence on a broad range of issues including macro environment, market and competitive landscape and consumer analysis. As a rule, an architect will be required to perform secondary type of industry research i.e. research is derived from aggregation of existing sources of information and data, as well as broader research reports published by dedicated research and analyst firms. Sources of industry research include publicly available information, government released statistics, trade publications, data suppliers, research and analyst organizations. To consume and analyze industry research, an architect should have a broad understanding of business operations and knowledge of the specific domain. Domain knowledge pertinent to industry research includes understanding industry codes, markets, product offerings, regulatory requirements, financial information, as well as international variations if needed.
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to describe terminology of the domain, standard products, processes and target markets
-| | -   Learner will be able to describe common knowledge and research sources applicable to the industry
-| | -   Learner will be able to identify research needs and access common sources of industry information
-| **CITA -- Associate** | -   Learner will be able to identify industry associations and information sources
-| | -   Learner will be able to compile industry information and external research from multiple sources
-| | -   Learner will be able to identify wider sources of research if needed
-| **CITA -- Professional** | -   Learner will be able to aggregate and analyze research information from multiple sources
-| | -   Learner will be able to validate research and derive results from research
-| | -   Learner will be able to identify missing information
-| | -   Learner will be able to create custom research reports relevant to the needs of a business problem
-| **CITA -- Distinguished** | -   Learner will be able to independently research existing, emerging or niche industry segments
-| | -   Learner will be able to access wider or indirectly related sources of research, including demographic data and nascent technology developments
-| | -   Learner will be able to aggregate and analyze research across multiple industries and countries for large scale multi-national operations
-| | -   Learner will be able to derive analysis from limited information and create custom research reports in an enterprise context.
+| **Iasa Certification Level** | **Learning Objective**                                                                                                                             |
+|:----------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to describe terminology of the domain, standard products, processes and target markets                                    |
+|                              | -   Learner will be able to describe common knowledge and research sources applicable to the industry                                              |
+|                              | -   Learner will be able to identify research needs and access common sources of industry information                                              |
+| **CITA -- Associate**        | -   Learner will be able to identify industry associations and information sources                                                                 |
+|                              | -   Learner will be able to compile industry information and external research from multiple sources                                               |
+|                              | -   Learner will be able to identify wider sources of research if needed                                                                           |
+| **CITA -- Professional**     | -   Learner will be able to aggregate and analyze research information from multiple sources                                                       |
+|                              | -   Learner will be able to validate research and derive results from research                                                                     |
+|                              | -   Learner will be able to identify missing information                                                                                           |
+|                              | -   Learner will be able to create custom research reports relevant to the needs of a business problem                                             |
+| **CITA -- Distinguished**    | -   Learner will be able to independently research existing, emerging or niche industry segments                                                   |
+|                              | -   Learner will be able to access wider or indirectly related sources of research, including demographic data and nascent technology developments |
+|                              | -   Learner will be able to aggregate and analyze research across multiple industries and countries for large scale multi-national operations      |
+|                              | -   Learner will be able to derive analysis from limited information and create custom research reports in an enterprise context.                  |
 
 ## Information Analysis
 
 Information analysis is the process of discovery and quantification of patterns in industry-specific data and trends. An architect will perform information analysis to interpret macro and mega trends, financial indicators, market growth indicators and influence of technology in shaping business outcomes.
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to describe financial performance of a business and its peers
-| | -   Learner will be able to describe standard parameters that influence an industry
-| **CITA -- Associate** | -   Learner will be able to analyze financial performance of a business and industry
-| | -   Learner will be able to analyze key success factors of an industry
-| | -   Learner will be able to analyze impact of technology relevant to the industry
-| **CITA -- Professional** | -   Learner will be able to analyze future projections on industry
-| | -   Learner will be able to predict business outcomes in an industry that can be influenced by technology
-| **CITA -- Distinguished** | -   Learner will be able to assess industry performance on macroeconomic indicators and on a global scale
-| | -   Learner will be able to analyze statistical market behaviors
-| | -   Learner will be able to predict influence of emerging technology trends on business outcomes
+| **Iasa Certification Level** | **Learning Objective**                                                                                    |
+|:----------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to describe financial performance of a business and its peers                    |
+|                              | -   Learner will be able to describe standard parameters that influence an industry                       |
+| **CITA -- Associate**        | -   Learner will be able to analyze financial performance of a business and industry                      |
+|                              | -   Learner will be able to analyze key success factors of an industry                                    |
+|                              | -   Learner will be able to analyze impact of technology relevant to the industry                         |
+| **CITA -- Professional**     | -   Learner will be able to analyze future projections on industry                                        |
+|                              | -   Learner will be able to predict business outcomes in an industry that can be influenced by technology |
+| **CITA -- Distinguished**    | -   Learner will be able to assess industry performance on macroeconomic indicators and on a global scale |
+|                              | -   Learner will be able to analyze statistical market behaviors                                          |
+|                              | -   Learner will be able to predict influence of emerging technology trends on business outcomes          |
 
 ## Industry Segmentation
 
 Industry segmentation is the process of defining and subdividing a large homogenous market into clearly identifiable components having similar needs, wants, or demand characteristics. Industry segmentation is driven by factors such as products, target markets, geography, demographics and size of businesses that constitute an industry. Industry segmentation determines key factors such as product, pricing, business composition and resources required for operation. An architect needs to understand industry segmentation as it has an influence on technology resources and technology enablement within the industry. Industry segmentation is a business artifact, however architects should recognize that technology can enable creation of niche and new segments wherein it becomes a technology led activity.
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to describe standard industry segmentation
-| | -   Learner will be able to describe standard industry verticals
-| | -   Learner will be able to identify segmentation of their organization
-| **CITA -- Associate** | -   Learner will be able to classify standard industry verticals, business segments and sub-segments
-| | -   Learner will be able to classify standard factors such a product, customer, geography, size etc which drive segmentation
-| **CITA -- Professional** | -   Learner will be able to contrast various industry verticals and sub-segments
-| | -   Learner will be able to identify business strategies for different segments
-| | -   Learner will be able to create a reference model (such as a value chain) for a specific domain
-| **CITA -- Distinguished** | -   Learner will be able to assess multiple industry segments
-| | -   Learner will be able to model multiple industries
-| | -   Learner will be able to develop technology strategy addressing an industry vertical
-| | -   Learner will be able to identify new or niche segments that can be generated via technology
+| **Iasa Certification Level** | **Learning Objective**                                                                                                       |
+|:----------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to describe standard industry segmentation                                                          |
+|                              | -   Learner will be able to describe standard industry verticals                                                             |
+|                              | -   Learner will be able to identify segmentation of their organization                                                      |
+| **CITA -- Associate**        | -   Learner will be able to classify standard industry verticals, business segments and sub-segments                         |
+|                              | -   Learner will be able to classify standard factors such a product, customer, geography, size etc which drive segmentation |
+| **CITA -- Professional**     | -   Learner will be able to contrast various industry verticals and sub-segments                                             |
+|                              | -   Learner will be able to identify business strategies for different segments                                              |
+|                              | -   Learner will be able to create a reference model (such as a value chain) for a specific domain                           |
+| **CITA -- Distinguished**    | -   Learner will be able to assess multiple industry segments                                                                |
+|                              | -   Learner will be able to model multiple industries                                                                        |
+|                              | -   Learner will be able to develop technology strategy addressing an industry vertical                                      |
+|                              | -   Learner will be able to identify new or niche segments that can be generated via technology                              |
 
 ## Industry Trends
 
 An assumed tendency of a given industry to move in a particular direction over time; trends are classified as secular trends for long time frames, primary trends for medium time frames, and secondary trends lasting short times. Mega and macro trends influence the product offering, market size and overall competitive nature and life of an industry. Information technology has been a primary and rapid disruptive force for businesses in the last fifty years, making the role of architects very important in signaling industry changes arising from technology trends. Architects combine industry and technology trends to provide input and direction for technology strategy.
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to describe primary business trends influencing the industry
-| | -   Learner will be able to identify emerging technology trends and technology shifts on the hype cycle
-| **CITA -- Associate** | -   Learner will be able to identify primary and secondary business trends influencing the industry
-| | -   Learner will be able to identify technology trends influencing the industry
-| **CITA -- Professional** | -   Learner will be able to identify secular as well as fast moving trends driving the industry
-| | -   Learner will be able to analyze impact of industry and technology trends on existing technology and new initiatives.
-| **CITA -- Distinguished** | -   Learner will be able to assess historical industry trends and trend cycles
-| | -   Learner will be able to analyze forces driving industry trends on a global scale
-| | -   Learner will be able to define enterprise technology strategies that can drive positive outcomes from emerging trends
+| **Iasa Certification Level** | **Learning Objective**                                                                                                    |
+|:----------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to describe primary business trends influencing the industry                                     |
+|                              | -   Learner will be able to identify emerging technology trends and technology shifts on the hype cycle                   |
+| **CITA -- Associate**        | -   Learner will be able to identify primary and secondary business trends influencing the industry                       |
+|                              | -   Learner will be able to identify technology trends influencing the industry                                           |
+| **CITA -- Professional**     | -   Learner will be able to identify secular as well as fast moving trends driving the industry                           |
+|                              | -   Learner will be able to analyze impact of industry and technology trends on existing technology and new initiatives.  |
+| **CITA -- Distinguished**    | -   Learner will be able to assess historical industry trends and trend cycles                                            |
+|                              | -   Learner will be able to analyze forces driving industry trends on a global scale                                      |
+|                              | -   Learner will be able to define enterprise technology strategies that can drive positive outcomes from emerging trends |
 
 ## Sustainability Strategy
 
 The preparation of a sustainability strategy for IT, taking into account political, legislative, economic, social and technological factors. Identification of major external standards, practices, or schemes to be adopted. Architects will be responsible for identification of technology choices to support corporate sustenance strategy and alignment of IT strategy.
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to describe common technology based sustainability strategies used in industry
-| **CITA -- Associate** | -   Learner will be able to differentiate between industry sustainability strategies and define sustainability initiatives for IT relevant to their unique business context.
-| | -   Learner will be able to perform business valuation of IT enabled sustenance initiatives
-| **CITA -- Professional** | -   Learner will be able to define sustainability strategy and roadmap for the business
-| **CITA -- Distinguished** | -   Learner will be able to define sustainability strategy for the enterprise
+| **Iasa Certification Level** | **Learning Objective**                                                                                                                                                       |
+|:----------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to describe common technology based sustainability strategies used in industry                                                                      |
+| **CITA -- Associate**        | -   Learner will be able to differentiate between industry sustainability strategies and define sustainability initiatives for IT relevant to their unique business context. |
+|                              | -   Learner will be able to perform business valuation of IT enabled sustenance initiatives                                                                                  |
+| **CITA -- Professional**     | -   Learner will be able to define sustainability strategy and roadmap for the business                                                                                      |
+| **CITA -- Distinguished**    | -   Learner will be able to define sustainability strategy for the enterprise                                                                                                |
 
 # Related Capabilities
 
--   [Business Fundamentals](business_fundamentals.md){:target="_blank"}
--   [Business Valuation](bv_cm.md){:target="_blank"}
+- [Business Fundamentals](business_fundamentals.md){:target="_blank"}
+- [Business Valuation](bv_cm.md){:target="_blank"}
 
 # Resources
 
@@ -137,30 +137,30 @@ The preparation of a sustainability strategy for IT, taking into account politic
 
 -- More about Industry Analysis
 
--   Quick MBA -- [http://www.quickmba.com/strategy/](http://www.quickmba.com/strategy/){:target="_blank"}
+- Quick MBA -- [http://www.quickmba.com/strategy/](http://www.quickmba.com/strategy/){:target="_blank"}
 
 --  Government Sources of Data for Industry Analysis
 
--   World Trade Organization -- [http://www.wto.org](http://www.wto.org/){:target="_blank"}
--   EconomicIndicators.gov (US) -- Daily releases of key economic indicators
--   (USA) Office of Entrepreneurship Education -- Resources -- [http://www.sba.gov](http://www.sba.gov/){:target="_blank"}
--   Enterprise and Leadership (EU) -- [http://ec.europa.eu](http://ec.europa.eu){:target="_blank"}
+- World Trade Organization -- [http://www.wto.org](http://www.wto.org/){:target="_blank"}
+- EconomicIndicators.gov (US) -- Daily releases of key economic indicators
+- (USA) Office of Entrepreneurship Education -- Resources -- [http://www.sba.gov](http://www.sba.gov/){:target="_blank"}
+- Enterprise and Leadership (EU) -- [http://ec.europa.eu](http://ec.europa.eu){:target="_blank"}
 
 --         Financial Sources of Information
 
--   Internet sources -- [bix.yahoo.com](http://bix.yahoo.com){:target="_blank"}
--   Dun and Bradstreet [www.dnb.com](http://www.dnb.com/){:target="_blank"}
+- Internet sources -- [bix.yahoo.com](http://bix.yahoo.com){:target="_blank"}
+- Dun and Bradstreet [www.dnb.com](http://www.dnb.com/){:target="_blank"}
 
 --         Consulting and Analyst Sources for Industry Analysis
 
--   Management Consulting Firms -- McKinsey [www.mckinsey.com](http://www.mckinsey.com/){:target="_blank"}
--   Ernst & Young [www.ey.com](http://www.ey.com/){:target="_blank"}
--   Price Waterhouse Coopers [www.pwc.com](http://www.pwc.com/){:target="_blank"}
+- Management Consulting Firms -- McKinsey [www.mckinsey.com](http://www.mckinsey.com/){:target="_blank"}
+- Ernst & Young [www.ey.com](http://www.ey.com/){:target="_blank"}
+- Price Waterhouse Coopers [www.pwc.com](http://www.pwc.com/){:target="_blank"}
 
 --         Analyst and Research Firms
 
--   IDC [Www.idc.com](http://www.idc.com/) {:target="_blank"}
--   Datamonitor [www.datamonitor.com](http://www.datamonitor.com/){:target="_blank"}
+- IDC [Www.idc.com](http://www.idc.com/) {:target="_blank"}
+- Datamonitor [www.datamonitor.com](http://www.datamonitor.com/){:target="_blank"}
 
 --         Books
 

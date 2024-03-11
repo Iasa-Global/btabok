@@ -11,9 +11,6 @@ tags:
   - cloud
 ---
 
-
 #Overview 
 
 ##What is Cloud Architecture 
-
-
