@@ -12,11 +12,15 @@ tags:
   - core
 ---
 
+# Canvas Overview
+
 The BMC provides a business model on a page used for architecture and innovation. Generally to use the canvas you want to start from customers and value proposition, then move on to the other areas. The Business Model Canvas is a powerful strategic tool that condenses your entire business model onto a single, visual sheet. It's not just about architecture – it's about sparking innovation and ensuring all aspects of your business are aligned.
 
 The canvas prioritizes your customers and their needs. By starting with your value proposition – the core benefit you offer – you can tailor your operations, resources, and finances to deliver exceptional value.
 
 ![image001](media/business_model_canvas.svg)
+
+## How to Use This Canvas
 
 **Key Partners**
 
@@ -54,7 +58,11 @@ Identify your largest fixed costs, like overhead, buildings, or regular salaries
 
 Outline how customers pay you— through subscriptions, one-time purchases, licensing, usage fees, advertising, or other models. Pinpoint what customers are truly paying for— is it the product itself, access or membership, status, or some other underlying value? Assess the relative contribution of each revenue stream to your business, understanding which ones are most critical for your financial well-being.
 
+## Downloads
+
 [Download PPT](media/ppt/business_model_canvas.ppt){:target="_blank"}
+
+## Canvas Sections and Links to BTABoK
 
 | Area                          | Description                                                                                                                                                                                                                         | Links To                                                                                                                            |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
