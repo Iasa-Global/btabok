@@ -83,7 +83,7 @@ The career path is based on significant and measurable competency gains in the 5
 
 ![Screenshot 2024-03-20 at 16.29.54.png](../../media/21bc95873091b6eacceb46f933a972955b406280.png)
 
-
+The recommended career path is based on levels of seniority in measured skills as opposed to domain based or scope based titles. 
 
 ## Technical to Business And Breadth to Depth
 

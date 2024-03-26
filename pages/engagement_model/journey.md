@@ -11,7 +11,7 @@ tags:
 ---
 
 > "You’ve got to start with the customer experience and work back the technology, not the other way round."
-**Steve Jobs**
+> **Steve Jobs**
 
 # Introduction
 
@@ -34,11 +34,13 @@ The most obvious answer to this is, it is the organization and the sponsor that 
 The customer journey map helps identify the full interaction lifecycle of our customer (based on personas) to engaging with the organization.
 
 [![image001](media/journey001.jpg)](https://iasa-global.github.io/btabok/customer_journey_map.html){:target="_blank"}
+
 ## Journey Stage Card
 
 For each of the stages of a customer journey we can identify the details of the interaction and opportunities based on it using the journey stage card.
 
 [![image002](media/journey002.jpg)](https://iasa-global.github.io/btabok/journey_stage_canvas.html){:target="_blank"}
+
 ## Customer Persona Card
 
 [![image003](media/journey003.jpg)](https://iasa-global.github.io/btabok/persona_card.html){:target="_blank"}
@@ -51,7 +53,6 @@ Which bring us to the next question, how do we discover this Customer?
 Developing (or using if they already exist) both of two models are the first step in this discovery. The first is the _Business Model (BM)_. The Business Model is interesting because not only is it a concise one pager that gives us a high level and extremely pertinent view, but developing it also helps in situating the problem and solution in the larger context and not just within a narrower product/service related paradigm. In my opinion, developing this model is also a great way to up our game and get access to business and the real decision makers as well as to make sure we have a shared vision of where value is and what it means for the Customer. The BM describes important aspects; from the Customer Segment, distribution channels, revenue to be realized and the cost that will be incurred before that happens, to the key value proposition for the service/product. 
 
 The second is the 5P’s marketing model.
-
 
 ![image001](media/journey005.png)
 <br>5 P’s<br>

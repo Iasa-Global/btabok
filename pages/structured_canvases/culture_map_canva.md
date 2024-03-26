@@ -10,7 +10,6 @@ tags:
   - engagement_model
 ---
 
-
 ![image001](media/culture_map_canva.svg)
 
 [Download PPT](media/ppt/culture_map_canva.pptx)
