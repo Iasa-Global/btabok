@@ -7,9 +7,11 @@ permalink: business_model_canvas.html
 folder: structured_canvases
 summary: "The BMC provides a business model on a page used for architecture and innovation."
 tags: 
-  - business
-  - chief
-  - core
+
+- business
+- chief
+- core
+
 ---
 
 # Canvas Overview
@@ -81,3 +83,7 @@ Outline how customers pay you— through subscriptions, one-time purchases, lice
 We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
 
 ![Screenshot 2024-03-26 at 18.09.36.png](../../media/d5e48b4098dbddbc08058d0424096488940c33d9.png)
+
+## Examples
+
+![Screenshot 2024-03-28 at 08.54.28.png](../../media/19dc3557e73fec48e3d6327b596daf6da8c4bc24.png)
