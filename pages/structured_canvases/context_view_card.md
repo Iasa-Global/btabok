@@ -7,12 +7,7 @@ permalink: context_view_card.html
 folder: structured_canvases
 summary: "Context View Card"
 tags: 
-  - business
-  - chief
-  - information
-  - infrastructure
-  - software
-  - solution
+  - core
 ---
 
 # Canvas Overview

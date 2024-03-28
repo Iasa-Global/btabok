@@ -29,7 +29,7 @@ Overall, ADRs offer several significant benefits. They foster informed decision-
 
 
 
-#### Define the Decision
+**. Define the Decision**
 
 - **Title:** Concisely state the architectural decision being recorded (e.g., "Adopt Microservices Architecture").
 - **Date & Version:** Record the date the decision was made and any subsequent revisions.
@@ -39,7 +39,7 @@ Overall, ADRs offer several significant benefits. They foster informed decision-
   - What technical or design constraints apply?
 - **Decision:** State the chosen solution or approach in clear terms. Use unambiguous language.
 
-#### Explore and Explain
+**2. Explore and Explain**
 
 - **Consequences:** List both positive and negative outcomes of the decision. Think about:
   - Impact on other parts of the system or architecture
