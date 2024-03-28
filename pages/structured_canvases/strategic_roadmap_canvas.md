@@ -64,8 +64,6 @@ The risks associated with the iniative and how big or small they are.
 
 Governance, constraints, guardrails and principles which impact the iniative. 
 
-
-
 **Filling out the Architecture Strategic Roadmap Canvas**
 
 - **Information Sources:**
@@ -74,8 +72,6 @@ Governance, constraints, guardrails and principles which impact the iniative.
   - Enterprise Architecture Documentation
 - **Relationship to Other Architectural Practices:**  
   Architecture roadmaps can be informed by and aligned with other architectural practices like business process modeling and IT infrastructure design.
-
-
 
 **Additional Tips**
 

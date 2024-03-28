@@ -17,8 +17,7 @@ The stakeholder initiatives canvas is useful in determining prioritization of pr
 
 [Download PPT](media/ppt/stakeholder_initiative_canvas.ppt){:target="_blank"}
 
-
-| Area | Description | Links To |
-| --- | --- | --- |
-| Importance to Stakeholder | This spectrum describes how important an initiative is to a stakeholder. This can be ranked directly by the stakeholders using voting methods or through interviews. | Stakeholder Ecosystem, Stakeholder Empathy |
-| Influence on Business Success | This spectrum defines the overall value of the initiative as measured by it's objectives and targets. | OKRs |
+| Area                          | Description                                                                                                                                                          | Links To                                   |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| Importance to Stakeholder     | This spectrum describes how important an initiative is to a stakeholder. This can be ranked directly by the stakeholders using voting methods or through interviews. | Stakeholder Ecosystem, Stakeholder Empathy |
+| Influence on Business Success | This spectrum defines the overall value of the initiative as measured by it's objectives and targets.                                                                | OKRs                                       |

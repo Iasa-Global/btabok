@@ -10,8 +10,6 @@ tags:
   - engagement_model
 ---
 
-
-
 ![image001](media/stakeholder_ecosystem_canvas.svg)
 
 [Download PPT](media/ppt/stakeholder_ecosystem_canvas.pptx)
