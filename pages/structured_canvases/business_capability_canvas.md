@@ -55,3 +55,5 @@ A well-constructed capability model is best represented visually. This allows fo
 ## Use this in Miro
 
 We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![Screenshot 2024-03-28 at 10.37.55.png](../../media/d1f7dac5d39467058970311cfcde080991c11970.png)
