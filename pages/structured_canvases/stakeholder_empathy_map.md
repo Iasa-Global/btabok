@@ -10,8 +10,6 @@ tags:
   - engagement_model
 ---
 
-
-
 ![image001](media/stakeholder_empathy_map.svg)
 
 [Download PPT](media/ppt/stakeholder_empathy_map.pptx)
