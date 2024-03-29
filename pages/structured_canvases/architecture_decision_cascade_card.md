@@ -26,4 +26,10 @@ The decision cascade card looks for downstream impacts from a technology decisio
 | Cascades        | Use this area to look for immediate and downstream decisions that are impacted.                                                                                                                                                                               |                          |
 | Decisions       | Primary decisions under evaluation. Use decision records (generally 1-3) as a starting point for the cascade evaluations.                                                                                                                                     | ADR                      |
 | Tiers           | Each 'tier' represents levels of abstraction or 'distance from the decsion'. this is not an exact science. For example a service implementation pattern like CQRS might link to caching decisions immediately which might link to database product decisions. | Context View             |
-| Cascade Impacts | Any descriptions of the impacts, rationale or consequences uncovered in the cascade.                                                                                                                                                                          |                          |
+| Cascade Impacts | Any descriptions of the impacts, rationale or consequences uncovered in the cascade.  
+                                                                                                                                                                        |                          |
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/ADCCMiro.png)

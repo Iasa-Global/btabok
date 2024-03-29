@@ -31,3 +31,9 @@ The Quality Attribute Card is built to create ATAM scenarios to test the archite
 | Stimulus           | The stimulus is a condition that requires a response when it arrives at a system                                                                                           |                   |
 | Trade Offs         | The trade offs include the positives and negatives that will come from the particular tactics chosen.                                                                      |                   |
 | Tactics            | The set of architecture decisions and techniques which will be used to create the desired result.                                                                          | [ADR](architecture_decision_record.md){:target="_blank"}, [Context View](context_view_card.md){:target="_blank"} |
+
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/QATTMiro.png)

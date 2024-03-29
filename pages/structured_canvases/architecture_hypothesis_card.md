@@ -29,3 +29,9 @@ The hypothesis card is used to brainstorm hypothesis development in experimentat
 | Measure (measurement) |             |          |
 | Value Impact          |             |          |
 | Measure (criteria)    |             |          |
+
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/AHCMiro.png)
