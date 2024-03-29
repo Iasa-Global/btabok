@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: decision_bias_calibrator_2.html
 folder: structured_canvases
-summary: "Decision Bias Calibrator (2 of 2)"
+summary: "Decision Bias Calibrator (2 of 2). The bias calibrator helps architects determine whether cognitive bias is impacting their decisions."
 tags: 
   - business
   - chief
