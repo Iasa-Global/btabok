@@ -28,3 +28,9 @@ tags:
 | Tech. Investments   |             |          |
 | Tech. Debt          |             |          |
 | Assumptions/Caveats |             |          |
+
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/BRVCMiro.png)

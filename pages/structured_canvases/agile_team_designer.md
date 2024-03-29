@@ -82,3 +82,9 @@ Resources
 - [Assignment article](/../engagement_model/assignment.md){:target="_blank"}
 - [Extended team article](/../engagement_model/extended_team.md){:target="_blank"}
 - [Job Descriptions article](/../engagement_model/job_description.md){:target="_blank"}
+
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/AgileArchitectTeamDesignerMiro.png)

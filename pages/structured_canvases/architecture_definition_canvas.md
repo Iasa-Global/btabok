@@ -18,3 +18,9 @@ tags:
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Define Architecture | Put your definition of architecture in this area. Try to think in terms of a global definition for architecture that would apply to all 'types' of architects.                                                                                                                                                              | None     |
 | Situation (areas)   | These situation areas allow you to describe architecture to a particular type of person or stakeholder. Think in terms of what they would understand about an architects value to a company or to society as a whole. For example, doctors 'heal people' and specific types of doctors provide particular types of healing. | None     |
+
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/ADCMiro.png)

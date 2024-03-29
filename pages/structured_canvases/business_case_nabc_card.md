@@ -82,3 +82,5 @@ The Business Case Canvas is a relatively simple tool and doesn’t require any s
 We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
 
 ![Screenshot 2024-03-29 at 12.28.21.png](../../media/599cc8b105578a92eb12bda23209d78718f48b68.png)
+
+![image001](media/NABCCardMiro.png)
