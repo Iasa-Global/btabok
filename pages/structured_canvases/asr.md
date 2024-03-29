@@ -3,7 +3,7 @@ title: "Architecturally Significant Requirements"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: ars_card.html
+permalink: asr_card.html
 folder: structured_canvases
 summary: "The ASR Card is a tool to define an architecturally significant requirement."
 tags:
