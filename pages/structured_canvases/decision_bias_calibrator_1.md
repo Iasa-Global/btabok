@@ -11,6 +11,8 @@ tags:
 
 ---
 
+# Overview
+
 The bias calibrators help architects determine whether cognitive bias is impacting their decisions. The Decision Bias Caliberator Canvas is a valuable tool designed to pinpoint and address the potential cognitive biases that can unintentionally cloud rational decision-making within the context of architectural strategy. Architects face a myriad of complex choices and unchecked bias can lead to suboptimal outcomes. Some common biases, like anchoring, cause architects to overemphasize initial ideas while self-interest bias can lead to choices that benefit a specific team rather than the entire organization. Using a Decision Bias Caliberator Canvas provides a structured way to identify these biases, question your thought processes, and take proactive steps to ensure your decisions remain sound.
 
 The canvas typically lists out various biases. Next to each bias are targeted questions designed to help you recognize if it's affecting a current decision. Finally, the canvas provides practical tips on how to counteract the identified bias. The Decision Bias Caliberator doesn't require specific external information – it's purpose is to stimulate discussion and critical thinking within your architecture team. It works hand-in-hand with other established architecture practices like creating a roadmap or gathering stakeholder input by adding another layer of scrutiny to the decision-making process. By consciously working to identify and mitigate cognitive biases, your architectural decisions become more innovative, better aligned with the overall business goals, and less susceptible to costly mistakes.
