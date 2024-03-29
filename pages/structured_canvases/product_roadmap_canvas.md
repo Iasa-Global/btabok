@@ -30,3 +30,9 @@ The product roadmap canvas is used most commonly by solution architects to descr
 | Technology          | Technology support components are technical services or products which support features. Using an authentication provider or a security framework would support login.                                                                         | Context View, ASR, ADR |
 | People and Learning | The people needed or what they need to learn. Training, pilots, or other learning methods go here.                                                                                                                                             |                        |
 | Linking (between)   | Generally arrows connecting components on the roadmap indicate dependencies (if going down) or enablement (if going up). These are optional.                                                                                                   |                        |
+
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/ProductRoadmapCanvasMiro.png)

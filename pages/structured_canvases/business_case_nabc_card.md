@@ -26,3 +26,8 @@ The Business Case has many names and uses. However, it primarily provides the de
 | Costs(s)                                         | The expected costs of the solution, product or project.                                                                                                          |                         |
 | Return on Investment                             |                                                                                                                                                                  |                         |
 | Considerations, Competition, Alternatives, Risks |                                                                                                                                                                  |                         |
+## Use this in Miro
+
+We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
+
+![image001](media/NABCCardMiro.png)
