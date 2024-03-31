@@ -10,7 +10,17 @@ tags:
   - core
 ---
 
+# Overview
+
+The architecture definition canvas is a tool to help get architects and other to understand what they mean by the term. That is useful as the title is poorly understood even by its senior practicioners. 
+
 ![image001](media/architecture_definition_canvas.svg)
+
+## How to use this canvas
+
+
+
+## Downloads
 
 [Download PPT](media/ppt/architecture_definition_canvas.pptx){:target="_blank"}
 

@@ -7,13 +7,10 @@ permalink: architecture_pains_and_gains.html
 folder: structured_canvases
 summary: "Architecture Pains and Gains Canvas"
 tags: 
-  - business
-  - chief
-  - information
-  - infrastructure
-  - software
-  - solution
+  - core
 ---
+
+The architecture pains gains canvas is a tool to help a team envision their current state as an architecture practice. Things that are working and not working, things that are wonderful, things they want to learn. It also helps to understand how that success will be measured. 
 
 ![image001](media/architecture_pains_and_gains.svg)
 

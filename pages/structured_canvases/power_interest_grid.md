@@ -10,7 +10,17 @@ tags:
   - core
 ---
 
+# Overview
+
+This type of canvas is a visual tool that helps project managers and other stakeholders understand the project’s stakeholders, their interests in the project, their power to influence the project, and the best way to engage with them (https://www.projectmanagement.com/deliverables/282408/Stakeholder-Management-Plan).
+
 ![image001](media/power_interest_grid.svg)
+
+## How to use this canvas
+
+
+
+## Downloads
 
 [Download PPT](media/ppt/power_interest_grid.ppt){:target="_blank"}
 
