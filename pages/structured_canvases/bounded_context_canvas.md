@@ -13,49 +13,54 @@ tags:
 
 # Canvas Overview
 
-The BMC provides a business model on a page used for architecture and innovation. Generally to use the canvas you want to start from customers and value proposition, then move on to the other areas. The Business Model Canvas is a powerful strategic tool that condenses your entire business model onto a single, visual sheet. It's not just about architecture – it's about sparking innovation and ensuring all aspects of your business are aligned.
+The Bounded Context Canvas fits into strategy and execution by helping teams to develop a shared understanding of the system they are building. This shared understanding is essential for developing a successful strategy and for executing on that strategy. The canvas can also be used to identify potential risks and challenges early in the development process. This can help teams to mitigate these risks and challenges and to deliver a successful project.
 
-The canvas prioritizes your customers and their needs. By starting with your value proposition – the core benefit you offer – you can tailor your operations, resources, and finances to deliver exceptional value.
+There are a number of resources available to help you get started with the Bounded Context Canvas. The original canvas was created by Nick Tune and Eric Evans, and you can find more information about it on Nick Tune’s blog https://medium.com/nick-tune-tech-strategy-blog/bounded-context-canvas-v2-simplifications-and-additions-229ed35f825f. There are also a number of commercial tools available that can help you to use the Bounded Context Canvas, such as Domainlanguage.com [https://www.domainlanguage.com/](https://www.domainlanguage.com/).
+
+
 
 ![image001](media/bounded_context_canvas.svg)
 
+## Bounded Context, Domains and Capabilities
+
+A bounded context in DDD is a way to carve out a specific portion of a larger business domain. It defines a boundary within which a particular model of the domain applies. This means that terms, concepts, and relationships within that bounded context have a specific, well-defined meaning that might differ from their use in other parts of the system.
+
+**Business Capabilities Map an Organization**
+
+Business capabilities are essentially a description of *what* an organization does, not *how* it does it. They are usually high-level, stable functionalities that provide value to the business. Examples of business capabilities might be:
+
+- Customer Relationship Management (CRM)
+- Order Fulfillment
+- Inventory Management
+- Payment Processing
+
+**Alignment: Finding the Sweet Spot**
+
+The real power of understanding the relationship between bounded contexts and business capabilities lies in their alignment:
+
+- **Identifying Bounded Contexts:** Business capabilities can be a starting point for the discovery and definition of bounded contexts. Analyzing the distinct activities and responsibilities within a business capability can point towards natural divisions where separate, focused domain models might make sense.
+
+- **Context Size:** Sometimes, a bounded context might directly encapsulate a single business capability. Other times, a business capability might be complex enough to be composed of several related bounded contexts.
+
+- **Evolving Together:** Ideally, bounded contexts and business capabilities inform each other and evolve in tandem. Changes in how a business operates should be reflected in the capabilities it defines, and this will likely influence the models within your bounded contexts.
+
+**Why This Relationship Matters**
+
+1. **Reduced Complexity:** Breaking down a complex business domain into bounded contexts aligned with capabilities makes the system easier to understand, design, build, and maintain. Teams can focus on a smaller, more manageable domain.
+
+2. **Clear Communication:** Explicitly aligning business terms with the concepts in bounded contexts creates a common language, improving communication between development teams and business stakeholders.
+
+3. **Adaptability:** As a business's needs and capabilities change, bounded contexts that reflect those capabilities provide natural points for the software system to evolve and adapt as well.
+
 ## How to Use This Canvas
 
-**Key Partners**
-
-Think about the businesses or suppliers that are critical to making your business work. Consider who helps you get the resources you need, carry out essential tasks, or even reach your customers. Determine what specific activities partners handle that your company doesn't, and what resources they possess that are valuable to you. Finally, understand why these partnerships matter – perhaps they reduce expenses, help you manage risk, or offer expertise that you lack internally.
-
-**Key Activities**
-
-Identify the most important actions your company needs to take in order to deliver your value proposition. These activities could include production, problem-solving, marketing, managing a platform or network, or distribution. Ask yourself if there are unique ways you approach these tasks that might differentiate you from competitors.
-
-**Key Resources**
-
-List your most precious assets, whether they are physical (like equipment or facilities), intellectual (brand reputation, patents, or data), human (your skilled staff), or financial. Figure out which of these resources are crucial for creating the value your customers want. Additionally, determine which resources are vital for your distribution channels and for maintaining strong customer relationships.
-
-**Value Propositions**
-
-Clearly define the specific problem or pain point that your product or service solves for your customers. Identify the core offering that directly satisfies this need. Consider if there are additional benefits that go beyond the basic need that make your offering even more appealing to customers.
-
-**Customer Relationships**
-
-Determine how you engage with each distinct customer segment. Describe the kinds of relationships you maintain – this could involve personal assistance, dedicated support, self-service options, online communities, or even co-creation processes where customers participate in shaping your offerings. Consider how you currently acquire and retain customers, and the costs associated with these efforts (staff, marketing, etc.). Ensure that your customer relationship styles and strategies are consistent with your overall business model and brand image.
-
-**Customer Segments**
-
-Clearly define your most important customer groups. Specify if you serve a niche segment, a mass market, or different participants within a multi-sided platform. Outline their common characteristics— consider demographics, geography, attitudes, or behaviors. Most importantly, define the fundamental problems that customers need your business to solve for them.
-
-**Channels**
-
-Describe how customers become aware of your business (advertising, PR, social media, etc.). Map out how you help customers evaluate your offerings— do you provide comparison tools, informative resources, or free trials? Explain how you physically deliver your product or service, including any distribution or sales partners. Determine how you offer ongoing support after the purchase, such as online help centers, technical support, or customer service staff.
-
-**Cost Structure**
-
-Identify your largest fixed costs, like overhead, buildings, or regular salaries. List your most significant variable costs, such as raw materials, usage-based fees, or commissions. Decide whether your business model is cost-driven (prioritizing minimizing expenses), or value-driven (focused on value creation, which might allow for a higher price point).
-
-**Revenue Streams**
-
-Outline how customers pay you— through subscriptions, one-time purchases, licensing, usage fees, advertising, or other models. Pinpoint what customers are truly paying for— is it the product itself, access or membership, status, or some other underlying value? Assess the relative contribution of each revenue stream to your business, understanding which ones are most critical for your financial well-being.
+1. **Assemble your team.** The Bounded Context Canvas is a collaborative tool, so it is important to get all of the stakeholders involved in the bounded context together to work on it. This could include developers, business analysts, domain experts, and product managers.
+2. **Fill out the canvas.** The canvas is divided into several sections, each of which prompts you to enter information about the bounded context. The specific sections may vary slightly depending on the version of the canvas you are using, but they typically include:
+   - 
+3. **Discuss and refine.** As you fill out the canvas, discuss each section with the team and come to a consensus on the information that you enter. This is a great opportunity to identify any areas of disagreement or uncertainty.
+4. **Use the canvas to guide your design and implementation.** Once you have completed the Bounded Context Canvas, you can use it to guide your design and implementation of the bounded context. The information on the canvas will help you to make decisions about the architecture, technology stack, and APIs of the bounded context. 
+   
+   
 
 ## Downloads
 
@@ -63,17 +68,18 @@ Outline how customers pay you— through subscriptions, one-time purchases, lice
 
 ## Canvas Sections and Links to BTABoK
 
-| Area                          | Description                                                                                                                                                                                                                         | Links To                                                                                                                            |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Key Partners (also Suppliers) | Who do we do business with that makes our value proposition successful?                                                                                                                                                             | [Ecosystem Article](../engagement_model/ecosystem.md)                                                                               |
-| Key Activities                | Key activities are the actions (verb/noun) that are critical to the effectiveness of the value proposition.                                                                                                                         | [Business Capabilities Canvas](business_capability_canvas.md) (identifies critical capabilities)                                    |
-| Key Resources                 | Resources are the assets (like warehouses and distribution systems for Amazon) that directly impact the value model.                                                                                                                | N/A                                                                                                                                 |
-| Value Proposition             | Probably the most important area of the canvas. This is not a list of our products but the actual value we create for our customers. Good example was the iPod, "A seamless music experience"                                       | N/A                                                                                                                                 |
-| Customer Relationships        | Possibly the hardest of the areas, customer relationships are WHY our customers stay with our value proposition. For example, if a person has a large number of books on the Amazon Kindle they will likely not use another eReader | [Customer Personas](persona_card.md), [Empathy Maps](stakeholder_empathy_map.md)                                                    |
-| Channels                      | The marketing, distribution and delivery of our products or services.                                                                                                                                                               | [Customer Journey(s)](customer_journey_map.md), [Service Blueprint(s)](service_blueprint_canvas.md)                                 |
-| Customer Segments             | The Customers and their groupings we are serving. The best use of these come from marketing customer segments and then a real customer.                                                                                             | [Customer Persona(s)](persona_card.md)                                                                                              |
-| Costs                         | The critical cost factors impacting the business model                                                                                                                                                                              | [Cost Risk Card](risk_and_cost_card.md)                                                                                             |
-| Revenues                      | The critical revenue factors impacting the business model                                                                                                                                                                           | [Benefits Realization Article](../engagementmment_model/benefits_realization.md), [Benefits Card](benefits_card_layout-b_canvas.md) |
+| Area                     | Description                                                                                                            | Links To                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| Domain                   | The domain that the bounded context belongs to.                                                                        | Capability Article            |
+| Purpose                  | A brief description of the purpose of the bounded context.                                                             |                               |
+| Strategic Classification | How the bounded context is classified from a strategic perspective (e.g., Core, Context Layer, Anti-Corruption Layer). | Strategy Article              |
+| Domain Roles             | The different roles that interact with the bounded context.                                                            | Stakeholder Environment       |
+| Inbound Communication    | How the bounded context receives data from other bounded contexts.                                                     | API Designer, Capability Card |
+| Outbound Communication   | How the bounded context sends data to other bounded contexts.                                                          | API Designer, Capability Card |
+| Ubiquitous Launguage     | The key terms and concepts that are used within the bounded context.                                                   |                               |
+| Assumptions              | Any assumptions that are made about the bounded context.                                                               | Principles                    |
+| Metrics and Analytics    | The metrics that will be used to measure the success of the bounded context.                                           | Objectives, Benefits Card     |
+| Open Questions           | Any open questions that the team has about the bounded context.                                                        |                               |
 
 ## Use this in Miro
 
