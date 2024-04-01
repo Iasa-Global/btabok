@@ -14,47 +14,35 @@ tags:
 
 # Canvas Overview
 
-The 
+The Solution Design Canvas is helpful for architects for a number of reasons. First, it encourages teams to think critically about the problem they are trying to solve and the desired outcomes. This can help to ensure that the final solution is aligned with business goals. Second, the canvas provides a framework for developing and testing ideas. This can help to save time and money in the long run by identifying and eliminating flawed concepts early on. Finally, the canvas can be used to communicate complex ideas to stakeholders in a clear and concise way.
+
+The Solution Design Canvas can be used in conjunction with design thinking and lean startup methodologies [1]. Design thinking is a human-centered approach to problem solving that emphasizes understanding the needs of users. Lean startup is a methodology for rapidly developing and testing new products or services. The Solution Design Canvas can help to integrate these two methodologies by providing a framework for thinking about the business problem, the target customer, and the desired outcomes. 
 
 ![image001](media/solution_design_canvas.svg)
 
 ## How to Use This Canvas
 
-**Key Partners**
+Guide the team to reach a concise, shared problem statement. Write this prominently on the canvas.
 
-Think about the businesses or suppliers that are critical to making your business work. Consider who helps you get the resources you need, carry out essential tasks, or even reach your customers. Determine what specific activities partners handle that your company doesn't, and what resources they possess that are valuable to you. Finally, understand why these partnerships matter – perhaps they reduce expenses, help you manage risk, or offer expertise that you lack internally.
+1. Discuss the desired goals of the solution. Be specific and measurable.
+2. Prioritize the top 2-3 outcomes and add them to the canvas.
+3. Brainstorm potential solutions - encourage wild ideas, quantity over quality here.
+4. Cluster similar solutions together.
+5. Choose 1-2 promising solutions. Break them into key features or 'user stories' (how a user experiences the solution).
+6. Discuss assumptions about the market, users, or solution. These are your hypotheses.
+7. Identify key areas you need to research or validate (Need to Learn).
+8. Explore potential competitors, challenges, or risks (Landscape & Landmines).
+9. Decide which metrics will determine whether the solution is successful. Link them to the Business Outcomes.
 
-**Key Activities**
 
-Identify the most important actions your company needs to take in order to deliver your value proposition. These activities could include production, problem-solving, marketing, managing a platform or network, or distribution. Ask yourself if there are unique ways you approach these tasks that might differentiate you from competitors.
 
-**Key Resources**
+**Tips:**
 
-List your most precious assets, whether they are physical (like equipment or facilities), intellectual (brand reputation, patents, or data), human (your skilled staff), or financial. Figure out which of these resources are crucial for creating the value your customers want. Additionally, determine which resources are vital for your distribution channels and for maintaining strong customer relationships.
-
-**Value Propositions**
-
-Clearly define the specific problem or pain point that your product or service solves for your customers. Identify the core offering that directly satisfies this need. Consider if there are additional benefits that go beyond the basic need that make your offering even more appealing to customers.
-
-**Customer Relationships**
-
-Determine how you engage with each distinct customer segment. Describe the kinds of relationships you maintain – this could involve personal assistance, dedicated support, self-service options, online communities, or even co-creation processes where customers participate in shaping your offerings. Consider how you currently acquire and retain customers, and the costs associated with these efforts (staff, marketing, etc.). Ensure that your customer relationship styles and strategies are consistent with your overall business model and brand image.
-
-**Customer Segments**
-
-Clearly define your most important customer groups. Specify if you serve a niche segment, a mass market, or different participants within a multi-sided platform. Outline their common characteristics— consider demographics, geography, attitudes, or behaviors. Most importantly, define the fundamental problems that customers need your business to solve for them.
-
-**Channels**
-
-Describe how customers become aware of your business (advertising, PR, social media, etc.). Map out how you help customers evaluate your offerings— do you provide comparison tools, informative resources, or free trials? Explain how you physically deliver your product or service, including any distribution or sales partners. Determine how you offer ongoing support after the purchase, such as online help centers, technical support, or customer service staff.
-
-**Cost Structure**
-
-Identify your largest fixed costs, like overhead, buildings, or regular salaries. List your most significant variable costs, such as raw materials, usage-based fees, or commissions. Decide whether your business model is cost-driven (prioritizing minimizing expenses), or value-driven (focused on value creation, which might allow for a higher price point).
-
-**Revenue Streams**
-
-Outline how customers pay you— through subscriptions, one-time purchases, licensing, usage fees, advertising, or other models. Pinpoint what customers are truly paying for— is it the product itself, access or membership, status, or some other underlying value? Assess the relative contribution of each revenue stream to your business, understanding which ones are most critical for your financial well-being.
+- **Timeboxing:** Set a timer for each section to keep the meeting focused.
+- **Diversity:** Include team members with various perspectives (technical, business, user-focused)
+- **Visuals:** Use sticky notes and markers to capture ideas, making it easy to rearrange and group them.
+- **Breaks:** Schedule short breaks to keep energy levels high.
+- **Documentation:** Take photos of the completed canvas or transfer it digitally. This makes it easy to share and refine afterwards.
 
 ## Downloads
 
@@ -62,20 +50,19 @@ Outline how customers pay you— through subscriptions, one-time purchases, lice
 
 ## Canvas Sections and Links to BTABoK
 
-| Area                          | Description                                                                                                                                                                                                                         | Links To                                                                                                                            |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Key Partners (also Suppliers) | Who do we do business with that makes our value proposition successful?                                                                                                                                                             | [Ecosystem Article](../engagement_model/ecosystem.md)                                                                               |
-| Key Activities                | Key activities are the actions (verb/noun) that are critical to the effectiveness of the value proposition.                                                                                                                         | [Business Capabilities Canvas](business_capability_canvas.md) (identifies critical capabilities)                                    |
-| Key Resources                 | Resources are the assets (like warehouses and distribution systems for Amazon) that directly impact the value model.                                                                                                                | N/A                                                                                                                                 |
-| Value Proposition             | Probably the most important area of the canvas. This is not a list of our products but the actual value we create for our customers. Good example was the iPod, "A seamless music experience"                                       | N/A                                                                                                                                 |
-| Customer Relationships        | Possibly the hardest of the areas, customer relationships are WHY our customers stay with our value proposition. For example, if a person has a large number of books on the Amazon Kindle they will likely not use another eReader | [Customer Personas](persona_card.md), [Empathy Maps](stakeholder_empathy_map.md)                                                    |
-| Channels                      | The marketing, distribution and delivery of our products or services.                                                                                                                                                               | [Customer Journey(s)](customer_journey_map.md), [Service Blueprint(s)](service_blueprint_canvas.md)                                 |
-| Customer Segments             | The Customers and their groupings we are serving. The best use of these come from marketing customer segments and then a real customer.                                                                                             | [Customer Persona(s)](persona_card.md)                                                                                              |
-| Costs                         | The critical cost factors impacting the business model                                                                                                                                                                              | [Cost Risk Card](risk_and_cost_card.md)                                                                                             |
-| Revenues                      | The critical revenue factors impacting the business model                                                                                                                                                                           | [Benefits Realization Article](../engagementmment_model/benefits_realization.md), [Benefits Card](benefits_card_layout-b_canvas.md) |
+| Area                    | Description                                                                                                                                                                                        | Links To                                     |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| Business Problem        | In this section, you need to clearly articulate the problem you are trying to solve. What are the customer needs that are not being met? What are the pain points that your solution will address? | Lean Busines Case                            |
+| Business Outcomes       | What are the specific goals you hope to achieve with your solution? This could include things like increased revenue, improved customer satisfaction, or reduced costs.                            | OKRs                                         |
+| Solution Ideas          | In this section, you will brainstorm potential solutions to the business problem. There are no bad ideas at this stage!                                                                            | N/A                                          |
+| Key Metrics             | How will you measure the success of your solution? What data will you need to collect?                                                                                                             | OKR, Benefits Card                           |
+| Features and Stories    | In this section, you will need to develop a more detailed description of your solution. What features will it have? How will it benefit users?                                                     | N/A                                          |
+| Hypotheses              | What are your assumptions about the market and your customers? How will you test these assumptions?                                                                                                |                                              |
+| Need to Learn           | What information do you still need to gather in order to move forward? What are the biggest risks associated with your solution?                                                                   | Product Roadmap                              |
+| Landscape and Landmines | What is the competitive landscape? What are the potential risks and challenges that you need to be aware of?                                                                                       | Principles, Contraint Requirments, Ecosystem |
 
 ## Use this in Miro
 
 We in the BTABoK are so very excited about the native support for architecture canvases in Miro! Find this canvas in the Miroverse!
 
-![Screenshot 2024-03-26 at 18.09.36.png](../../media/d5e48b4098dbddbc08058d0424096488940c33d9.png)
+![Screenshot 2024-04-01 at 10.48.36.png](../../media/577f979dfd70e0964dedf28970247994556ee674.png)
