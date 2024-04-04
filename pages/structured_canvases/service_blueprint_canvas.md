@@ -61,7 +61,7 @@ The true payoff of using Service Blueprint Canvas is bridging the gap between wh
 
 [Download PPT](media/ppt/service_blueprint_canvas.ppt){:target="_blank"}
 
-| Area                             | Description                                                                                                                                               | Links To |
+| Area                             | Description                                                                                                                                               |  |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Capability/Service               | This section captures a brief description of the service being offered.                                                                                   |          |
 | Scenario                         | This section outlines a specific user scenario or journey that interacts with the service.                                                                |          |
