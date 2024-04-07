@@ -89,7 +89,7 @@ To use the decision record you will need to either print it out or put it in a d
 | [OKR](https://iasa-global.github.io/btabok/okr_card.html){:target="_blank"}, [Cascade](https://iasa-global.github.io/btabok/architecture_decision_cascade_card.html){:target="_blank"} || Final Decision | Which decision was made and any description.| N/A |
 
 
-| Item              | In Stock | Price |
+| Area              | Description  | Links To |
 | :---------------- | :------: | ----: |
 | Python Hat        |   True   | 23.99 |
 | SQL Hat           |   True   | 23.99 |
