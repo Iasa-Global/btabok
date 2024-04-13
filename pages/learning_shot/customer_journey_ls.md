@@ -12,5 +12,5 @@ tags:
 
 <iframe
   src="https://btabok.iasaglobal.org/wp-content/uploads/articulate_uploads/Customer-Journey/story_html5.html?lms=1"
-  style="width:100%; height:300px;"
+  style="width:100%; height:100%;"
 ></iframe>
