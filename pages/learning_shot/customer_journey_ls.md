@@ -7,7 +7,7 @@ permalink: customer_journey_ls.html
 folder: learning_shot
 summary: ""
 tags:
-  - software_architecture
+  - learning_shots
 ---
 
 <iframe
