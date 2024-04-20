@@ -117,6 +117,23 @@ The following shows a Gartner version of the quick ideation and design thinking 
 
 ![image001](media/innovate006.png)
 
+## Innovation as a part of the Lifecycle
+
+![Screenshot 2024-04-20 at 15.23.29.png](../../media/ee4f363bc112dac0c894c1d9823dbfb0f1265dc9.png)
+
+- **Interpret**  
+  In this stage, a researcher gathers information by interpreting signals from a multitude of indicators. This might involve observing user behavior, conducting interviews, or collecting data through surveys. The goal is to understand what problem needs to be solved or what opportunity exists.
+
+- **Experiment** In this stage, the researcher experiments with possible solutions. This might involve creating prototypes, testing different designs with users, or developing a business model.
+
+- **Innovate** Based on the results of the experiments, the researcher refines the solution and develops a new idea or product.
+
+- **Commit** This stage involves securing resources to bring the new idea or product to market. This might involve getting approval from management, securing funding, or building a team.
+
+- **Extract** This stage involves launching the new idea or product and measuring its success. The researcher monitors how the market responds and uses this information to improve the product or develop new ones.
+  
+  
+
 ## Innovation and Future-Casting
 
 The idea that people can see the future is clearly ridiculous. What they can do is see what's around them, imagine what could be and tell stories about the future for others.
@@ -152,7 +169,6 @@ Challenges
 There is an excellent technique and metaphor described by Jane McGonigal.
 [![image001](media/innovate007.png)](https://iasa-global.github.io/btabok/future_casting_canvas.html){:target="_blank"}
 
-
 Figure 2 Future Casting -- Artwork by Gar Mac Criosta
 
 The future sends signals, the team can think of those signals as jellybeans. Jellybeans have a flavour, combined with other jellybeans they can create new and interesting flavours some they love and others they hate.
@@ -172,8 +188,6 @@ Figure 4 Future Casting Canvas
 Innovation [Innovation explained – Definition, Types and Meaning of Innovation (morethandigital.info)](https://morethandigital.info/en/innovation-definition-innovation-types-and-meaning/)
 
 [8 Types of Innovation (With Examples and Integration Tips) | Indeed.com Australia](https://au.indeed.com/career-advice/career-development/types-of-innovation)
-
-
 
 HBR article on Taxonomy of Innovation
 
