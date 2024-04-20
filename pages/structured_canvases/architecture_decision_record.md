@@ -82,19 +82,17 @@ Overall, ADRs offer several significant benefits. They foster informed decision-
 
 To use the decision record you will need to either print it out or put it in a diagramming tool. The card is easy to fill out. We have found the best method for doing so is to use a scale of 1-10 for the different options. So for each 'area' rate the option with a scale. This also works extremely well in groups. 
 
-| Area                                                                             | Description                                                             | Links To                                                       |
-| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Context                                                                          | The overall name and description of the decision to be made             | [Context View](context_view_card.md){:target="_blank"}         |
-| Requirements                                                                     | The requirements (ASR) that drive the decision                          | [ASR Card](architecture_requirement_card.md){:target="_blank"} |
-|                                                                                  |                                                                         |                                                                |
-| Decision Scope                                                                   | The scope of impact of the decision                                     | Scope                                                          |
-| Characteristics                                                                  | Duration, information quality, effort and reversibility of the decision | [ASR Card](asr.md                                              |
-| ){:target="_blank"}, OKR, [Context View](context_view_card.md){:target="_blank"} |                                                                         |                                                                |
-| Authority                                                                        | How the decision will be made and by whom                               | Stakeholder Ecosystem                                          |
-| Options (Areas)                                                                  | The areas or topics to compare against for all of the options.          | N/A                                                            |
-| Options                                                                          | The different choices available in the decision.                        | Roadmap                                                        |
-| Rationale and Consequences                                                       | Any additional thinking or consequences of the decision                 | [OKR](okr_card.md){:target="_blank"}, Cascade                  |
-| Final Decision                                                                   | Which decision was made and any description.                            | N/A                                                            |
+| Area              | Description  | Links To |
+| :---------------- | :------: | ----: |
+| Context        |   The overall name and description of the decision to be made   | [Context View](context_view_card.md){:target="_blank"} |
+| Requirements           |   The requirements (ASR) that drive the decision   | [ASR Card](https://iasa-global.github.io/btabok/asr_card.html){:target="_blank"} |
+| Decision Scope    |  The scope of impact of the decision   | [Scope](https://iasa-global.github.io/btabok/scope_context.html){:target="_blank"} |
+| Characteristics |  Duration, information quality, effort and reversibility of the decision   | [ASR Card](https://iasa-global.github.io/btabok/asr_card.html){:target="_blank"}, [OKR](https://iasa-global.github.io/btabok/okr_card.html){:target="_blank"}, [Context View](context_view_card.md){:target="_blank"} |
+| Authority |  How the decision will be made and by whom.  | [Stakeholder Ecosystem](https://iasa-global.github.io/btabok/stakeholder_ecosystem_canvas.html){:target="_blank"} |
+| Options (Areas) |  The areas or topics to compare against for all of the options.  | N/A |
+| Options |  The different choices available in the decision.   | [Roadmap](https://iasa-global.github.io/btabok/architects_roadmap_canvas.html){:target="_blank"} |
+| Rationale and Consequences |  Any additional thinking or consequences of the decision.   | [OKR](https://iasa-global.github.io/btabok/okr_card.html){:target="_blank"}, [Cascade](https://iasa-global.github.io/btabok/architecture_decision_cascade_card.html){:target="_blank"} |
+| Final Decision | Which decision was made and any description.| N/A |
 
 ## Use this in Miro
 
