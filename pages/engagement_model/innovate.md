@@ -131,8 +131,6 @@ The following shows a Gartner version of the quick ideation and design thinking 
 - **Commit** This stage involves securing resources to bring the new idea or product to market. This might involve getting approval from management, securing funding, or building a team.
 
 - **Extract** This stage involves launching the new idea or product and measuring its success. The researcher monitors how the market responds and uses this information to improve the product or develop new ones.
-  
-  
 
 ## Innovation and Future-Casting
 

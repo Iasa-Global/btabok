@@ -46,6 +46,12 @@ The need for a business capability is understood by many in the business world. 
 
 > Figure 1. The relationship between capabilities and processes.
 
+
+
+A capability can be described with people, process and technology (services). The relationship between each is a highly debated point.  
+
+![capability_card.svg](../../media/706283ebdc1e56cdc1895c3ef8d34bb72e436840.svg)
+
 ## Business Capability Models
 
 Models of the set of business capabilities are typically presented in a hierarchical structure that becomes more specific as one moves down a branch. There are various ways to organize this hierarchy, such as functional decomposition, shared characteristics, subway routes on the process map, level of investment required, and maturity. The most common approach is by function, but the chosen scheme should be based on the reason for presenting the model and the intended audience. Level of investment and maturity are the bases for many "heat maps" seen in business architecture. In a heat map, capabilities are color-coded green, yellow, or red to represent their position on an ordinal scale where green indicates less investment and more maturity, and red indicates more investment and less maturity. There is a debate about the usefulness of the heat map due to its confusing meaning, but they remain widely used.
@@ -117,9 +123,7 @@ Then, focusing on the processes that deliver customer touchpoints, and the capab
 
 It may be that a capability is insufficient to meet goals even though it might not directly influence the customer behavior that needs to change. For example, the capability to accept and process an order may need more capacity as customers are encouraged to order more online. The architect identifies the capacity measures that are or will be insufficient and determines the minimum value they need to become. Then, the architect determines the changes to each affected capacity required to achieve the new measures. The collective set of changes becomes an improvement project or program, depending on its size.
 
-## Measuring Capabilities
-
-Capabilities can be measured for both inputs and outputs. They can also be dev
+## 
 
 # References
 
