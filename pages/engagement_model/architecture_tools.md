@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: architecture_tools.html
 folder: engagement_model
-summary: "How do we cover the vast touchpoints of an architecture tool without covering all technology tools? Think of each of the BTABoK topic areas and imagine how a tool would support it."
+summary: "How do we cover the vast touchpoints of an architecture tool without covering all technology tools? Think of each of the BTABoK topic areas and imagine how a tool would support it. This article covers all architect tools for BTABoK reviews."
 tags: 
   - operating_model
 ---
