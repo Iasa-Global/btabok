@@ -331,7 +331,7 @@ entries:
       url: tag_software_architecture.html
       output: web
 
-  - title: Maturity Model
+  - title: Org Readiness
     output: web
     folderitems:
 
