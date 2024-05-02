@@ -1,5 +1,5 @@
 ---
-title: "Maturity Model"
+title: "Organization Readiness"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
