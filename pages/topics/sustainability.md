@@ -11,7 +11,7 @@ tags:
   - sustainability
 ---
 
-*Note this is an initial stub / work in progress page.*
+*Note this is an initial stub / work in progress page. We are working to create a comprehensive architecture sustainability model.*
 
 The decisions every organisation makes  have a future impact and often have implications beyond their organisation. The first step is raise awareness of the need to consider sustainability issues in architecture and design processes so they can be considered alongside typical considerations of business impact, quality, cost & compliance. Architects should consider what environmental debt has their organisation (and potentially the wider ecosystem they operate in) built up that now needs to be addressed systematically? How do we advise our stakeholder to build more sustainable systems and architectures to avoid these issues?
 
