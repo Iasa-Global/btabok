@@ -12,6 +12,18 @@ tags:
 ---
 
 *Note this is an initial stub / work in progress page. We are working to create a comprehensive architecture sustainability model.*
+In the context of IT architecture, sustainability refers to the long-term viability and adaptability of an organization's technology infrastructure, considering both environmental and social impact. This encompasses the responsible management of resources, energy consumption, and waste reduction while maintaining a high level of performance and efficiency.
+
+Sustainability in IT architecture is closely tied to Environmental, Social, and Governance (ESG) considerations. ESG aims to balance the triple bottom line of economic, social, and environmental performance by integrating sustainable practices into business operations and strategies. In the context of IT architecture, this means:
+
+1. **Energy Efficiency**: Designing data centers with efficient power management systems to reduce energy consumption and carbon footprint.
+2. **Resource Management**: Implementing resource-sharing and virtualization techniques to optimize hardware utilization and minimize resource waste.
+3. **Waste Reduction**: Implementing recycling programs for used or obsolete equipment and reducing electronic waste production.
+4. **Supply Chain Transparency**: Ensuring fair labor practices and ethical supply chain management to promote social responsibility.
+
+The United Nations' Sustainable Development Goals (SDGs) also play a significant role in shaping the future of sustainability in IT architecture. The 17 SDGs aim to address global challenges, such as climate change, inequality, and access to education and healthcare, through collaborative efforts and policy changes.
+
+By incorporating sustainability principles into IT architecture, organizations can create more resilient, adaptable, and environmentally conscious infrastructure, ultimately contributing to a more sustainable future for our planet.
 
 The decisions every organisation makes  have a future impact and often have implications beyond their organisation. The first step is raise awareness of the need to consider sustainability issues in architecture and design processes so they can be considered alongside typical considerations of business impact, quality, cost & compliance. Architects should consider what environmental debt has their organisation (and potentially the wider ecosystem they operate in) built up that now needs to be addressed systematically? How do we advise our stakeholder to build more sustainable systems and architectures to avoid these issues?
 

@@ -351,8 +351,8 @@ entries:
       url: ai_ml.html
       output: web
 
-    - title: Physical Systems
-      url: physical_systems.html
+    - title: Systems
+      url: systems.html
       output: web
 
     - title: DevOps

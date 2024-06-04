@@ -1,22 +1,22 @@
 ---
-title: "Physical Systems Architecture"
+title: " Systems Architecture"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: physical_systems.html
+permalink: _systems.html
 folder: engagement_model
 summary: "complex systems architecture "
 tags: 
   - topic_area
   - complex_systems
-  - physical_systems
+  - _systems
 ---
 
 *Note this is an initial stub / work in progress page.*
 
-# Introducing the Physical Systems Architect
+# Introducing the Systems Architect
 
-Physical systems architecture (PSA) is not a new concept. It is the skillset and design and delivery of business technology strategy through physical, electrical, mechanical, and technical systems most commonly within intense resource or environmental forces. A synonymous phrase would be physical systems architecture. The physical systems architect deals with deeply complex and often unique combinations of physical, electrical and technical systems. These are most often found in the embedded, defense, aeronautics, marine, energy, and national infrastructure environments. However, the digital product spaces, such as smart buildings, smart cities, and even fashion accessories and home products are showing signs of the same basic patterns of design and delivery. 
+Systems architecture (PSA) is not a new concept. It is the skillset and design and delivery of business technology strategy through physical, electrical, mechanical, and technical systems most commonly within intense resource or environmental forces. A synonymous phrase would be  systems architecture. The  systems architect deals with deeply complex and often unique combinations of , electrical and technical systems. These are most often found in the embedded, defense, aeronautics, marine, energy, and national infrastructure environments. However, the digital product spaces, such as smart buildings, smart cities, and even fashion accessories and home products are showing signs of the same basic patterns of design and delivery. 
 
 The PS architect is an exciting field emerging as an integrated part of architecture practices. Traditionally these engineers and architects have been segregated from the other forms of architecture. However, in the modern world, it has become essential that the work product of these architects is integrated across all forms of architecture as business technology strategy now spans the entire enterprise, from a single product to the sales, manufacturing and/or financial processes in place in the organization. 
 
@@ -24,9 +24,9 @@ The PS architect is an exciting field emerging as an integrated part of architec
 
 As a professional body of knowledge, the BTABoK should not define or control all job descriptions. However, a shared [competency model](../competency_model/competencies.md) is essential to being able to ensure individual ability in a specialization is validated externally. So an embedded systems architect has roughly analogous competencies to a mechatronic architect though their particular product or domain knowledge may be different. This is similar to other professions. The PS Architect certification and career path would then provide a generic certification that supports all of these jobs, drastically improving hiring quality, education systems, available talent, massive reduction in the employee hiring process, improved vendor integration and support, horizontal mobility as well as knowledge sharing. 
 
-## Why Is Physical Systems Architecture a Specialization
+## Why Is  Systems Architecture a Specialization
 
-Physical systems architecture is often described as a set of deliverables much like traditional software architecture or infrastructure architecture. However, when looked at from the systems engineering field and the industry it is in fact a radically different and specialized environment due to a number of factors:
+ systems architecture is often described as a set of deliverables much like traditional software architecture or infrastructure architecture. However, when looked at from the systems engineering field and the industry it is in fact a radically different and specialized environment due to a number of factors:
 
 - There are extreme forces at play. Software to control a nuclear reactor, a spacecraft, or a self-driving car is radically more specialized. The forces on the technology are drastically different than the average website or hardware controller in a data center. 
 
@@ -36,31 +36,31 @@ Physical systems architecture is often described as a set of deliverables much l
 
 - The field includes enough depth to qualify as a long-term career from associate to distinguished in the BTABoK [career path](../competency_model/career_path.md). 
 
-- The field needs to be fully distinguished between engineer and architect. Similarly to other specialization areas, it has become necessary to identify the career path of a physical systems architect vs. that of a complex systems engineer, designer, maintenance, or other role. 
+- The field needs to be fully distinguished between engineer and architect. Similarly to other specialization areas, it has become necessary to identify the career path of a  systems architect vs. that of a complex systems engineer, designer, maintenance, or other role. 
 
-## Proposed Physical Systems Architecture Competencies
+## Proposed  Systems Architecture Competencies
 
 The following competencies have been identified by an expert community from a cross-cutting body of employers and from a broad search of titled jobs and their associated tasks, deliverables and abilities. These have been cross-referenced with the current BTABoK competency model. This results in 
 
-| Physical Systems Specialization Pillar                   | Description                                                                                                                                                  |
+|  Systems Specialization Pillar                   | Description                                                                                                                                                  |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Open Systems Standards Expertise                         | Use and understanding of specialized standards (FACE, SOSA, CMOSS, ARINC, SAE, etc.)                                                                         |
 | Systems Engineering                                      | Integration of complex systems across engineering disciplines. This may include multiple engineering disciplines or a depth in a single one.                 |
-| Physical system design and documentation methods         | Use of modeling to elaborate and document system architectures, including frameworks, viewpoint libraries, and modeling tools (SYSML, DODAF, UAF, FEAF, etc) |
-| Physical System Interoperability, Testing and Assessment | Complex systems testing requires multi-organization tech labs and specialized equipment.                                                                     |
-| Physical Acquisition Programs                            | Acquisition Program Structures (multi-organization interoperability)                                                                                         |
-| Physical Product Design and Testing                      | Physical, Mechanical, Electrical, Embedded product design and connection including custom manufacturing processes                                            |
+|  system design and documentation methods         | Use of modeling to elaborate and document system architectures, including frameworks, viewpoint libraries, and modeling tools (SYSML, DODAF, UAF, FEAF, etc) |
+|  System Interoperability, Testing and Assessment | Complex systems testing requires multi-organization tech labs and specialized equipment.                                                                     |
+|  Acquisition Programs                            | Acquisition Program Structures (multi-organization interoperability)                                                                                         |
+|  Product Design and Testing                      | , Mechanical, Electrical, Embedded product design and connection including custom manufacturing processes                                            |
 | System Safety                                            | Embedded Systems Safety (medical, automotive, robotics, avionics, etc.)                                                                                      |
 
 ### Career Path
 
 ### Interesting Job Descriptions
 
-The following job descriptions are for systems architects from different areas which are derived from the physical systems architect specialization. In effect, the PS architect would be a shared career path for each of these types of jobs (and potentially many others). The expectation would be that either experience in a particular field or specialized product training would account for primary differences. This is true of all specializations. 
+The following job descriptions are for systems architects from different areas which are derived from the  systems architect specialization. In effect, the PS architect would be a shared career path for each of these types of jobs (and potentially many others). The expectation would be that either experience in a particular field or specialized product training would account for primary differences. This is true of all specializations. 
 
 **Interdisciplinary**
 
-1. (Physical) Systems Architect 
+1. () Systems Architect 
 
 2. Mechatronic Architect
 
