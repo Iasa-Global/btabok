@@ -18,12 +18,12 @@
   </style>
   <rect class="canvas" x="638" y="10" width="144" height="41" style="stroke-width: 0; fill: lightgrey;"/>
   <rect class="canvas" x="788" y="10" width="139" height="41" style="stroke-width: 0; fill: lightgrey;"/>
-  <text class="canvas" x="644" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Date</text>
-  <text class="canvas" x="794" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Version</text>
+  <text class="canvas" x="644" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Date:</text>
+  <text class="canvas" x="794" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Version:</text>
   <rect class="canvas" x="25" y="60" width="900" height="600" style=""/>
-  <rect class="canvas" y="210" width="300" height="150" style="" x="25"/>
+  <rect class="canvas" y="210" width="600" height="150" style="" x="25"/>
   <text class="canvas" x="20" y="32" width="100" height="20" font-size="1.4em" font-weight="500" style="white-space: pre-wrap; font-size: 21px;">ORGANIZATION PRINCIPLE CARD</text>
-  <text class="canvas" x="35" y="234.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
+  <text class="canvas" x="35" y="234.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Busines Drivers:</text>
   <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 4.793536, 6.472379)"><tspan x="26" y="90">Describe the forces at play, including technological, </tspan><tspan x="26" dy="1em">​</tspan><tspan>political, social, and project local.</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the tensions &amp; dependencies</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the facts as you know them</tspan><tspan x="26" dy="1em">​</tspan></text>
   <text class="canvas" x="21" y="678" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Gar Mac Críosta</text>
   <text class="canvas" x="21" y="690" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
@@ -65,11 +65,13 @@
   <rect class="canvas" x="325" y="360" width="300" height="150" style="fill: none;"/>
   <rect class="canvas" y="510" width="450" height="150" style="" x="25"/>
   <rect class="canvas" x="475" y="510" width="450" height="150" style="fill: none;"/>
-  <text class="canvas" x="333" y="233.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" x="636" y="232.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" x="35" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" x="334" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" x="637" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" x="35" y="530" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
-  <text class="canvas" x="485" y="530" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">CONTEXT:</text>
+  <text class="canvas" x="333" y="233.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Rationale:</text>
+  <text class="canvas" x="636" y="232.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Linked Principles:</text>
+  <text class="canvas" x="35" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Implications:</text>
+  <text class="canvas" x="334" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Actions:</text>
+  <text class="canvas" x="637" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Decisions:</text>
+  <text class="canvas" x="35" y="530" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Identified Expectations:</text>
+  <text class="canvas" x="485" y="530" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Allowed Exemptions:</text>
+  <rect class="canvas" x="488.445" y="10" width="144" height="41" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="494.445" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Scope:</text>
 </svg>

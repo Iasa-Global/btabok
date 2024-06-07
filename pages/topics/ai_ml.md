@@ -28,4 +28,3 @@ Here are three reasons why AI is important:
 • **Enhanced Patient Care**: AI can improve patient outcomes by analyzing medical images, detecting anomalies, and alerting doctors to potential health issues earlier, allowing for more effective treatment and prevention of diseases.
 
 Note: These points highlight only a few examples of the many benefits AI brings to various industries and applications.
-
