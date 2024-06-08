@@ -150,18 +150,19 @@ A somewhat new method of reporting has emerged from agile methods combined with 
 
 In many organizations business architects report to a different management group than other architects. This has both positive and negative consequences and should be addressed in a truly robust organizational model.
 
-Think about different reporting structure and use a rating system to determine impact. For example the above scenario might result in (as seen in numerous Iasa corporate assessments) the following
+Think about different reporting structure and use a rating system to determine impact. For example, the above scenario might result in (as seen in numerous Iasa corporate assessments) the following.
 
 | Reporting Impact | Rating | Positive | Negative |
-| Architect Communication | Very low |   | Difficulty in communication and lack of shared language even where skillsets are similar. |
-| Community Involvement | Very Low |   | There is no community extant. |
-| Stakeholder Understanding | Medium Low |   | Low/Medium. The stakeholders seem independently ok with this but confusion arises commonly. |
-| Skillset Compatibility | Low |   | The groups have significant skill differences leading to communication problems. |
-| Training | Low |   | There is no sharing training. |
-| Shared Value Delivery | Medium | Both teams are delivering value and contributing to architecture. | It is difficult to share value goals with so much |
+| Architect Communication | Very low | Clear roles and responsibilities can help mitigate communication issues. | Difficulty in communication and lack of shared language even where skillsets are similar. |
+| Community Involvement | Very Low | Potential for growth if community is established. | No existing community support. |
+| Stakeholder Understanding | Medium Low | Stakeholders are generally informed and supportive. | Low/Medium. The stakeholders seem independently ok with this but confusion arises commonly. |
+| Skillset Compatibility | Low | Opportunities for skill development and training to align team capabilities. | The groups have significant skill differences leading to communication problems. |
+| Training | Low | Opportunity to establish a structured training program. | Lack of shared training programs. |
+| Shared Value Delivery | Medium | Both teams are delivering value and contributing to architecture. | Difficulty in aligning and sharing value goals. |
 | Stakeholder Access | High | This arrangement allows access to business stakeholders unavailable to reporting to an IT group. | Possibly a negative in that the access is not delivering as much value as it could. |
-| Lifceycle/Process | Very Low |   | Constant bickering and re-orgs and confusion about process touchpoints and handoffs. |
-| Etc. |   |   |   |
+| Lifceycle/Process | Very Low | Opportunity to streamline and clarify processes to reduce confusion. | Constant disputes and reorganisation, leading to confusion about process touchpoints and handoffs. |
+| Collaboration Tools | Medium | Implementation of collaboration tools can enhance communication and coordination. | Lack of effective collaboration tools hinders communication. |
+| Performance Metrics | Medium | Establishing clear performance metrics can drive improvements and accountability. | Inconsistent or unclear performance metrics can lead to confusion and lack of direction. |
 
 # Practice Based Methods
 
