@@ -3,7 +3,7 @@ title: " Systems Architecture"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: _systems.html
+permalink: systems.html
 folder: engagement_model
 summary: "complex systems architecture "
 tags: 
