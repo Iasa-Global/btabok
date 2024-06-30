@@ -11,7 +11,7 @@ tags:
 ---
 
 > "A basic idea or rule that explains or controls how something happens or works"
-**Definition of Principle, Cambridge Dictionary**
+> **Definition of Principle, Cambridge Dictionary**
 
 # Architecture Principles Overview
 
@@ -27,12 +27,12 @@ In this section, we'll describe what a good principle looks like and show how to
 
 Principles are expressed in simple language, usually in one or two sentences. A good principle is:
 
--   constructive (it helps to drive decisions forward and highlight issues)
--   compelling (it is strongly motivated by drivers, goals and other principles)
--   memorable (it is clear, concise and understood)
--   testable (we can determine if it is being followed)
--   decisive (it unambiguously sets direction)
--   useful (it is not a truism: could the opposite ever be true?)
+- constructive (it helps to drive decisions forward and highlight issues)
+- compelling (it is strongly motivated by drivers, goals and other principles)
+- memorable (it is clear, concise and understood)
+- testable (we can determine if it is being followed)
+- decisive (it unambiguously sets direction)
+- useful (it is not a truism: could the opposite ever be true?)
 
 The key to developing a useful set of principles is gaining *buy in* by collaboration, this is a team activity.
 
@@ -44,17 +44,17 @@ Architecture principles are there to help projects arrive at the best solution f
 
 A fully formed principle is comprised of:
 
--   An easy to remember title
--   A statement describing what the catchy title means
--   Rationales to justify or explain the motivation for the principle, that is, why it has been adopted. Many rationales themselves are business drivers or other principles
--   Implications or the consequences or outcomes of adopting the principle. Many implications turn into further principles themselves.
--   Actions which the principle drives
--   Exceptions, if allowed for tactical reasons, are specified
--   Source of the principle
+- An easy to remember title
+- A statement describing what the catchy title means
+- Rationales to justify or explain the motivation for the principle, that is, why it has been adopted. Many rationales themselves are business drivers or other principles
+- Implications or the consequences or outcomes of adopting the principle. Many implications turn into further principles themselves.
+- Actions which the principle drives
+- Exceptions, if allowed for tactical reasons, are specified
+- Source of the principle
 
 As we said, the number of principles in a principles set should not be large, 8 to 12 is a good number. If an organisation has more than this, they might be being too prescriptive or the principles need to be broken down into subsets, for example, there are EA principles, data principles, security principles, etc., which are useful for different stages or areas of the design.
 
-## Here's how to do it. 
+## Here's how to do it.
 
 No particular knowledge is required beyond a basic understanding of the organization's culture and knowledge management practices.  Constructing a principles set is a multi-stage process, a good place to start to capture the statement of principles is a simple list.  The first stage is to identify the [stakeholders](stakeholders.md){:target="_blank"} who should be involved (Link to Stakeholder doc), these will typically be the technical decision maker and their advisors.
 
@@ -62,19 +62,19 @@ The architect should call a meeting and have the group discuss the following sec
 
 Create a list
 
-1.  Canvas the team for examples of architectural principles
-2.  Identify key business drivers (relevant to the group) -- can be key words or phrases like "Grow market share" or "Focus on quality products"
-3.  Establish the goal for creating a list of principles (possibly reviewing some examples)
-4.  Brainstorm key principle titles -- can be single words or phrases like "knowledge sharing," "opt for lowest cost," "in compliance wherever we operate," or "predictable."
-5.  Split into smaller groups or individuals to write a short description for each -- no longer than 50 words.
-6.  Review the complete list and ask external organization members to suggest any gaps or unclear areas.
+1. Canvas the team for examples of architectural principles
+2. Identify key business drivers (relevant to the group) -- can be key words or phrases like "Grow market share" or "Focus on quality products"
+3. Establish the goal for creating a list of principles (possibly reviewing some examples)
+4. Brainstorm key principle titles -- can be single words or phrases like "knowledge sharing," "opt for lowest cost," "in compliance wherever we operate," or "predictable."
+5. Split into smaller groups or individuals to write a short description for each -- no longer than 50 words.
+6. Review the complete list and ask external organization members to suggest any gaps or unclear areas.
 
 Complete the canvas for each principle
 
--   The smaller groups complete the canvas for each principle
--   Review the completed canvases and ask external organization members to suggest any gaps or unclear areas.
--   Team reassembles to complete the version and convert to a shareable graphic/web site/etc. for sharing with the broader organization.
--   Update the architectural governance process to include the use of principles and ensure they are updated.
+- The smaller groups complete the canvas for each principle
+- Review the completed canvases and ask external organization members to suggest any gaps or unclear areas.
+- Team reassembles to complete the version and convert to a shareable graphic/web site/etc. for sharing with the broader organization.
+- Update the architectural governance process to include the use of principles and ensure they are updated.
 
 This process should take a 2-6 meetings, some basic supplies (post-it notes, flip charts), some graphic communication technique familiarity (communications).
 
@@ -82,18 +82,18 @@ This process should take a 2-6 meetings, some basic supplies (post-it notes, fli
 
 There are several potential areas where creating a set of effective principles can fail:
 
-1.  Other leaders do not buy-in to the principles and are not willing to practice them
-2.  The architects and engineering teams involved do not know how to implement the principles and cannot make them part of their personal practice
-3.  The socialization of principles or ethics becomes a paralyzed process and potentially leads to arguments
-4.  Architects or designers will blindly follow a principles which is plainly wrong in this context.
-5.  Too many principles could show that either the requirements are not clear or that principles are too narrow in scope (too specific, becoming rules), thus creating a rigid context → more generic principles should be defined instead
-6.  Too few principles would make harder to trace the decisions back to requirements and also blurs the [scope](scope_context.md){:target="_blank"} of architecture
+1. Other leaders do not buy-in to the principles and are not willing to practice them
+2. The architects and engineering teams involved do not know how to implement the principles and cannot make them part of their personal practice
+3. The socialization of principles or ethics becomes a paralyzed process and potentially leads to arguments
+4. Architects or designers will blindly follow a principles which is plainly wrong in this context.
+5. Too many principles could show that either the requirements are not clear or that principles are too narrow in scope (too specific, becoming rules), thus creating a rigid context → more generic principles should be defined instead
+6. Too few principles would make harder to trace the decisions back to requirements and also blurs the [scope](scope_context.md){:target="_blank"} of architecture
 
 These problems are all about collaboration and understanding, which is why the workshop approach is important. Then there needs to be socialization and education, discussions with case studies or examples may be helpful. To avoid this taking too long set a timeline for the first version to be drafted, making sure the goal is understood by all participants, and meeting facilitation techniques are employed. Having a published revision process will help with acceptance, as we can refine the principles later as well as making sure they stay aligned with business and technology strategy.
 
 Do note that the Dilbert cartoon strip and others which have their roots in modern corporate behavior often show antipatterns in principles -- which are both human and altogether common.  These can be a useful way to start discussion without being perceived as either boring or negative.
 
-# Examples  
+# Examples
 
 Principles do not generally depend on other areas of the BTABoK and instead often inform those areas.  In this section, we describe some sets of architecture principles.
 

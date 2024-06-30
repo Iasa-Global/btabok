@@ -1,0 +1,313 @@
+```yaml
+title: "Career Path"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: career.html
+folder: engagement_model
+summary: "Competency is therefore the combined skills necessary to be a successful architect which an architect hones, develops and grows throughout their career."
+tags:   - people_model
+```
+
+# Introduction
+
+![5716001-ai (3).svg](../../media/7f8ece854449e8ac8723085bab09d3ce1ef29289.svg)
+
+The career path for BT archtiects is an elusive concept in business. Most of the time careers are defined by current employers who often switch them around based on current management. This variability has made determining an appropriate and repeatable career path very difficult. However, it is an essential component to being able to reproduce architecture value and success over time. 
+
+Iasa conducted many focus groups with senior architects from 2006 onward plus conducted over 2,000 surveys to understand the career path for architects taken from architects of all types of backgrounds and from all parts of the world. Since then it has done over 1,000 interviews, 200 corporate assessments and 4,500 individual competency assessments which have supported the BTABoK Career Path.
+
+The BTABoK describes 6 of these career levels, 4 of which are measurable/testable by a combination of testing, homework/work submission or experiential board certifications. Other bodies of knowledge may use slightly different names but in general most agree to the 4-5 primary levels of architects. However, when measuring the BTABoK levels against another body of knowledge it is deeply important to compare, a) competency model and specialization, b) career levels, c) concept areas (engagement model). Without similar depth in all three of those areas career frameworks become much less useful in the practical world and cannot truly be compared to the BTABoK.
+
+# What is a Career Path
+
+*noun*
+
+1. the series of jobs or roles that constitute a person's career, especially one in a particular field.
+   
+   "you never know how your first job might influence your career path"
+
+A career path is a set of knowledge items and skills learned over a period of time. Within a specific field the knowledge and experience must roughly match those of other professionals in the field. 
+
+It is important to note the difference between a managed career path and a randomized one. 
+
+## Randomized Career Path - Job or Role Based
+
+The current model in architecture is effectively random. While some belief exists that there are common career models, the actual careers of modern architects are essentially randomized based on radically different contexts of the employers and architect happens to work for. A job as an architect in Microsoft is signficantly different in tenor, skills and purpose than within a bank. 
+
+Sometimes the randomize path is a starting point, especially when individuals are unsure which direction to take. Also applicable skills and knowledge are perhaps not so repeatable when changing roles. Fields which tend towards the arts rather than science and engineering often have similar challenges. 
+
+In reviewing over 200 job descriptions from major employers in different industries for the [BTABoK Job Description](job_description.md) templates it was found that little or no commonality in a) length of service, b) expected competencies, c) expected job activities, d) required previous employment existed either across or within specializations. For example, business architect job categorize randomly define both experience in technology as well as type of job activities randomly. This holds true of all identified specialization areas (Business, information, infrastructure, software, solution and systems architects). 
+
+A randomized career path makes career advancement primarily based on the descretion of current management. Management jobs as well as executive jobs are always randomized ([The Big Idea: No, Management Is Not a Profession](https://hbr.org/2010/07/the-big-idea-no-management-is-not-a-profession)). Thus a senior manager of one employer may come from a very different background than another. 
+
+## A Managed Career Path
+
+A managed career path, by contrast, provides rigorous steps towards achieving a measurable set of skills. Skills and knowledge repeatable and measurable. It is answerable to an institution with defined standards.The case for IT architect as a profession implies that there should be a managed career path.
+
+A managed career path is the basis for all professions. It is based primarily on a set of agreed upon competencies and levels. These levels are determined outside of organizations and employers, most often by a group of existing senior practicioners within a geography or other context. For example, the modern building architecture competency model in America is decided by a group within the American Institute of Architecture (aia.org) and its partners in government and industry. A managed career path is most commonly applied to professionals whose work has the ability to impact public safety, corporate interests or national safety (see [Safety and Liability](safety_liability.md)). It does not mean that all members of the profession do that level of work, nor does it limit other benefits of hiring a managed career professional. 
+
+In a managed career path, demonstrated excellence in appropriate competencies are the primary method for career advancement. This advancement is noted by more senior professionals in a form of career journal which each member of the profession must maintain. 
+
+# Why is Career Path Important to Architects
+
+The question of career path is deeply important to architects. It determines many of the qualities which allow them to perform well in their expected jobs. Some jobs become managed from when they are founded and some remain role-based. The determining factors for this from research in the field of professions* seems to be:
+
+1. Importance of the job to safety, financial outcomes or societal impacts
+
+2. Liability and security related to the execution and outcome of professional decisions. 
+
+3. The group desire of the professionals to maintain minimum competency standards. Normally this results from a desire to keep quality and pricing manageable. 
+
+4. External requirements such as governments, standards or other that demand certain levels for certain jobs. 
+
+For those jobs to be similar in nature and activity across employers and for employers to be able to hire reasonably qualified individuals into the role. There are a set of tradeoffs from either approach to architect career path. 
+
+|      | Role Based                                                                                                                                                  | Managed                                                                                                                                                                                    |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Pros | - easily adapted to organization, less expensive upfront, follows management preferences                                                                    | - high level of excellence across companies, excellent outcomes, repeatable success and value, better adoption of technology, secure and safe, better value and reliability, international |
+| Cons | - lower quality of employee, requires much higher training costs, lower level of outcomes, high turnover, lack of agreed value, much more expensive overall | - lower management control and customization, increase cost of individual professionals                                                                                                    |
+
+## The Case for a Managed Career Path for Architects
+
+There are benefits in both random (current) and managed (future) career paths. The case for making architecture a managed profession stems from a few critical factors:
+
+- **Rising Levels of Societal Impact:** The impact of technology is growing daily. This impact, not just threats but things like subscription models, is becoming increasily visible to the average person. This rising friction with individuals creates a demand for trusted professionals in similar ways to medicine and law. While the average person will likely not hire an architect soon, society is in need of the trust that profession creates to ensure that corporate interests or complexity do not rule their lives. 
+
+- **Regulatory Pressure:** Increasing pressure is coming to bear on all aspects of technology as it relates to government and regulation. From things like sustainability, privacy and accountability to impacts to purchasing, monopolies, identity and security. The more prevelant technology becomes in society, the more regulation that needs to be met to ensure appropriate use. In all industries where this level of regulation exists, professionals rise to meet the challenge and guide clients through the process. Doing so while creating value for clients and employers is the art and the science of architecture. 
+
+- **New Technology Opportunties/Threats:** Avoiding catastrophies in both small and large scopes is one function of modern professions. Non-professionals are not allowed to play with dangerous research or deploy dangerous products in most fields. For example, laypeople are not allowed to do bio-research or build complex structures (buildings) because they can harm peole. The rise of the use of internet, AI, mobile platforms, and even social media and identity can harm both individuals and society. These threats are emerging faster and faster and it has become essential to have professionals to understand their implications before they are simply released to regular people or companies. In addition to threats, most organizations are not able to realize the benefit of new technologies in a repeatable way. Agility, AI, Cloud, Mobility, Digital Transformation, Manufacturing, and much much more suffer from poor learning delivering poor results primarily due to lack of skilled and capable teams and leaders. The randomized backgrounds and skill sets of role-based architects are unlikely to be able to scale to achieve these needed results. 
+
+- **Severe Deman/Quality Problems:** The demand for high-quality architecture professionals is growing daily. This demand can no longer be met in the role-based education methods. The system has tens if not hundreds of thousands of opportunities where a skilled architect is needed and yet no consistent method of generating them. This makes it extremely important to create a consitent and repeatable method for generating architects globally. Due to the other reason it is even more important that this be externally managed by the professionals themselves so that corporate interests do not negate the benefits. Due to this demand growth and the likely hood that it will continue for many decades it becomes very important that a managed profession emerge to meet those demands. 
+
+### Benefits of a Managed Profession
+
+- **Excellence at all Levels:** It is familiar to expect excellence in a professional. Doctors, lawyers, accountants and other managed professions are expected to provide excellence. BT Architecture is no different when using a managed career path. Expecting people skills, business skills and technical skills at certain levels of competency can become an expectation in this method.
+
+- **Increased Value:** With a common definition of value. A common and well understood suite of tools and a standard of excellence, any group of professionals will deliver high value outcomes. This includes reduced risk as well and increased direct outcomes in both business and technical terms. An organization has the right to expect this level of repeatable success no matter which architect or which type of architect they work with.
+
+- **Excellence at all Levels:** It is familiar to expect excellence in a professional. Doctors, lawyers, accountants and other managed professions are expected to provide excellence. BT Architecture is no different when using a managed career path. Expecting people skills, business skills and technical skills at certain levels of competency can become an expectation in this method.
+
+- **Better Adoption of Technology:** The industry continually struggle to adopt even basic changes to practice. From cloud (native) to agility, AI, sustainability and integration, the lack of skill and the lack of awareness are constantly sited as the reasons behind failure. By managing professional credetials externally on a rigorous career path and competency model, industry can more stably adapt to new technologies in both a beneficial and safe way.
+
+- **International:** The BT architecture profession is one where companies are as likely to work with an international set of professionals as local ones. This means the standard of excellence must be similar in all countries. This becomes impossible in a single organization. However an externalized and recognized profession can drastically increase the opportunities there. 
+
+### Benefits of the role-based career path:
+
+- **Easily adapted:** In the role-based career path it is very easy to adapt the career to an organization as there are no requirements for its formation or structure. For example if one company wants to have business architects doing programming and another wants to have chief architects doing business capabilities, that is completely up to them. This obviously comes 
+
+- **Less Expensive Upfront:**  In role-based careers the profession can be adapted to whatever the company can afford to pay. The company can decide training levels, experience and engagement level. This makes it easy to begin doing some architecture without the overhead of the higer expense/higher skilled model. 
+
+- **Follows Management Preferences:** The role-based career path is based on the preferences and desires of management so it can be run in a much more customized way at least as long as individuals are found who are willing to do the work. 
+
+### Tradeoffs of Role-based Career Paths
+
+- **Increased Risk/Decreased Value:** In the role-based career path it is very easy to adapt the career to an organization as there are no requirements for its formation or structure. For example if one company wants to have business architects doing programming and another wants to have chief architects doing business capabilities, that is completely up to them. 
+
+- **Higher Training Cost:** In role-based careers the profession can be adapted to whatever the company can afford to pay. The company can decide training levels, experience and engagement level. This makes it easy to begin doing some architecture without the overhead of the higer expense/higher skilled model.
+
+- **High Turnover/Low Satisfaction:** When architecture is a management-defined activity as opposed to a professional one, the practicioners are often severely disappointed with the role. Surveys indicate that most architects are deeply disconnected from their current practice models as they do not mirror the expected job activities and value proposition that architects are expected to perform. 
+
+- **More Expensive:** In the long run, architecture practices using this model appear to be much more expensive than a managed profession when measured against similar quality outcomes. It follows the old adage, "You can't afford to do it right, but you can afford to do it twice."
+
+Managed career path has almost the opposite characteristics of the role-based career.  A managed professional will move significantly faster to excellence in the field and the overall profession will hold much higher value outcomes for its clients. Think of the difference in medicine after the establishment of professional levels.
+
+# BTABoK Approach
+
+![1.svg](../../media/df3e636bad114f14000ffb004ca7527bdacae8df.svg)
+
+- Architecture is a a profession meant to aid in the delivery (execution) of business technology strategy. By this we mean that requires a consistent structure of knowledge and specific set of competencies which are defined and measurable to achieve its value to society. 
+
+- The value of the profession and the effects it has on society, corporate interests and safety are high enough to demand a professionally managed career path.
+
+- Specializations are supported in a variety of instances and work together to fulfill these needs for large engagement models. 
+
+## Career Levels
+
+The career levels are adaptable to employer and client context in regular and understandable ways. Each of the levels is both a milestone as well as the period of time afterwards before they achieve the next milestone.
+
+### Aspiring - Unmeasured
+
+Aspiring architects are anyone wishing a career in architecture or prior to starting their journey into mastery. Many senior architects describe this time either in another role or job (some quite unrelated) the time 'before' they understand what they wanted to become. This could be a senior developer or a sales person. But somewhere along the way they learn enough about the skills and nature of architecture to begin learning more formally. This is sometimes an organic process or may involved taking an introduction to architecture course from a teaching provider or university. 
+
+The movement from Aspiring to Foundation is handled through a basic set of exams which test basic understanding and awareness of concepts and skills. It is not expected that the learner will be able to deeply apply these skills but it is extremely important that the aspiring architect understand them all together. It is also important that the aspiring architect learn to identify which critical deliverables and techniques work together at the foundation of understanding (the Red Thread). Once they have demonstrated this understanding as a test or as a reviewed set of deliverable examples they may move on to foundational learning.
+
+### Managed Career and Higher Educaition
+
+A managed career path has the distinct advantage of having stable relationships and systemic support for appropriate higher education. It offloads much early career learning to these environments. Medical doctors attend medical school, nurses, accountants, building architects all have their analogous relationships with higher education. The BTABoK career path requires full support for partnership and accreditation of universities in 4 fundamental ways. 
+
+- **Accreditation:** The BTABoK material is used to accredit universities curriculum and learning against the architecture career path. It forms the basis for professional to higher education partnership and allows universities to provide the kind of primary competencies and knowledge necessary to enter the field. It is expected that some form of specialized college, degrees or other aspects will be formed over the coming decades. 
+
+- **Internship and Employment:** Graduates of programs need to enter into fully managed internships and residency programs which guarantee the application of the competencies within the workd environment and with advanced mentoring. By creating this relationship universities which form architecture learning environments will benefit and the profession will achieve a stable pathway to an architecture career. 
+
+- **Research and Advisory:** Advanced professions do a signficant amount of research. This research should be conducted in appropriate ways and university systems make excellent research centers. By building shared research programs between universities and professionals a huge amount of value can be created while simultaneously reducing risk. 
+
+- **Outreach:** A profession is always about its youngest members. How many new graduates want to become architects. Joint outreach into the education system is needed to create this funnel of highly capable and motivated future architects. 
+
+
+
+| Attribute             | Description                                                                                           |
+| --------------------- | ----------------------------------------------------------------------------------------------------- |
+| Expected Length       | 1 year                                                                                                |
+| Learning Method       | Unstructured                                                                                          |
+| Learning Level*       | 0 or Unknown                                                                                          |
+| Experience Level*     | 0 or Unknown                                                                                          |
+| Specialization Level* | 0 or Unknown                                                                                          |
+| Contribution Level*   | 0 or Unknown                                                                                          |
+| Next Step             | Introduction to Architecture**, Interaction with Architecture Community, Self-paced reading and study |
+
+*levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
+
+**be careful about first courses, either take one that truly surveys the field or take muliple courses to get a broad understanding
+
+### Foundational - Measured
+
+Early stage architects describe a period of learning about the foundations of the field. The BTABoK describes these as understanding 'The Red Thread' or learning the basic set of competencies of an architect (The 5 Pillars). This introductory period is followed by a long period of working to deeply understand these primary skills and deliverables. The Foundation architect is often described as an intern/resident or similar inside of employers. Depending on the length of their experience in another role/job such as programming or product management, they may advance more quickly or slowly through this level. 
+
+The growth as a Foundational Architect primarily involves deepening study and application of core skills and concepts. The core skills used are those involved in supporting the 'red thread'. These deliverables are the ones used by the average architect as a part of a reasonably simple client engagement. Note: as a part of Iasa studies, this has been a contentious point as the industry does not have common definitions etc it has taken much effort to extract the 'general' case from the specific employer case. 
+
+The movement from Foundational to Associate involves demonstration of the skills and learning aligned with the foundation set of skills in the 5 pillars and a new level of competency in the primary deliverables of an architect. In addition, most architects will add the beginnings of specialization at this phase. To progress to the associate or advanced stage the architect must submit a body of work, examples and demonstrated understanding of the primary foundation skills of the architect. 
+
+| Attribute             | Description                                                                              |
+| --------------------- | ---------------------------------------------------------------------------------------- |
+| Expected Length       | 1-2 years                                                                                |
+| Learning Method       | Structured Learning - specific concepts and skills are needed                            |
+| Learning Level*       | 2                                                                                        |
+| Experience Level*     | 1                                                                                        |
+| Specialization Level* | 1                                                                                        |
+| Contribution Level*   | 0                                                                                        |
+| Next Step             | Core Architecture Concepts, Foundation Certification, Self-Study, Architecture Community |
+
+*levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
+
+### Associate/Advanced - Measured
+
+The BTABoK recognizes the application of both terms asssociate or advanced to this stage of an architects career. This is the time of both deep specialization and deep experiential growth. It is expected the associate architect will be working on prodocts/projects under a mentor who has already achieved professional status. Many leaders of architecture practice describe this as the hardest time in an architects career and the time where some drop out or are sidelined into another role. 
+
+The associate architect work through a series of advanced skills within the 5 pillars of architecture as well as beginning their specialization focus (B,I,I,S,S,S). This specialization areas allow the architect to learn both core knowledge areas as well as topic areas for their specialization. For example an associate software architect would be growing their humand dyanamics skills (core) but also would be focused on software engineering, platform engineering and service design. This period of time is often described as one of intense learning/trying of new ideas. The more structured/mentored this process is, the better the outcomes in terms of creating highly skilled architects.  
+
+The associate architect should be focused on skills learning and application in each pillar as well as development of deeper skills in their specialization. It is critical to get both mentored as well as individual experience in these skills. At the same time the associate architect should begin contributing both to the internal practice as well as attending industry activities such as conferences and training. 
+
+
+
+To be recognized as an associate architect one must submit examples of both work product and experimental deliverables. In addition, deep testing in both core and specialized concepts is necessary preferrably on multiple competencies and concepts. 
+
+| Attribute             | Description                                                    |
+| --------------------- | -------------------------------------------------------------- |
+| Expected Length       | 2-5 years                                                      |
+| Learning Method       | Structured Mentoring                                           |
+| Learning Level*       | 5                                                              |
+| Experience Level*     | 3                                                              |
+| Specialization Level* | 3                                                              |
+| Contribution Level*   | 1                                                              |
+| Certification Method  | Testing, Work Demonstration, Graded Work                       |
+| Next Step             | Experiential Mentoring, Specialization Focus, Complex Problems |
+
+*levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
+
+### Professional - Measured
+
+The professional level of architect is one in which the primary skills have been learned an practiced to the degree necessary to work reliably without signficant oversight on all but the most complex architecture challenges. The level of application of professional should be the multi-project/product level. A professional architect should be able to work with a team of associates to produce high value and reasonably complex results and valuable results. 
+
+The professional designation is done through a deep level of validation through testing, review of work products and board-based interviewing. This degree of validation ensures a number of benefits to the profession and clients. 
+
+1. It reduces signficantly the amount of validation that an employer or client needs to do, reducing cost and inefficiency. 
+
+2. It increases the level of benefits the employer or client can expect as it increases the likelihood that all architects are trained and practiced in the latest techniques. 
+
+3. It creates an ethically driven practice and relationship between architect and client. 
+
+4. It ensures those that cannot do the job fully yet are not put in charge of things they cannot yet handle. 
+
+See CITA-Professional Details
+
+It is perfectly acceptable to remain a professional architect for an entire career. Many architects, like other types of professionals are perfectly satisfied delivering high quality services to employers and clients for years. However to remain at the professional level, certain minimum skills have to be maintained and emergining techniques must be learned. The maintenance of professional status/board requires three primary learning/experiential areas. 
+
+1. The latest techniques in architecture, including those within the 5 pillars must be learned annually. These techniques can be brought into the existing practice of the architect. 
+
+2. The architect must continue to deliver within their specialization. Without constant use of professional skills they can atrophy over time. 
+
+3. The architect must contribute back to the profession by helping to grow associates and learning through both thought leadership and mentoring. 
+
+| Attribute             | Description                                                                                     |
+| --------------------- | ----------------------------------------------------------------------------------------------- |
+| Expected Length**     | 3-5 years ?                                                                                     |
+| Learning Method       | Mentoring , Real World, Contribution                                                            |
+| Learning Level*       | 6 or Unknown                                                                                    |
+| Experience Level*     | 6 or Unknown                                                                                    |
+| Specialization Level* | 6 or Unknown                                                                                    |
+| Contribution Level*   | 3 or Unknown                                                                                    |
+| Certification Method  | Board of Professionals, Work and Success Demonstration                                          |
+| Next Step             | Contribution to Industry, Extreme Problem Focus, Deep Specialization, Cross Practice Leadership |
+
+*levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
+
+**professional architects may choose to remain at this level their whole career as achieving a distinguished level requires huge investment
+
+### Distinquished - Measured
+
+The journey to distinguished is often quite dificult for an architect as with any professional. A distinguished architect is able to handle the most difficult architecture challenges in the marketplace. The focus of distinguished architects are towards practical outcomes and large, complex problem domains. 
+
+
+
+| Attribute             | Description                                                                                            |
+| --------------------- | ------------------------------------------------------------------------------------------------------ |
+| Expected Length       | Unknown                                                                                                |
+| Learning Method       | Unstructured                                                                                           |
+| Learning Level*       | 8                                                                                                      |
+| Experience Level*     | 8                                                                                                      |
+| Specialization Level* | 8                                                                                                      |
+| Contribution Level*   | 8                                                                                                      |
+| Next Step             | Leadership of a practice, signficant industry contribution, advanced research, extreme transformations |
+
+*levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
+
+### Chief - Measured
+
+
+
+| Attribute             | Description                                                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Expected Length       | Unknown                                                                                                                                                                  |
+| Learning Method       | Unstructured                                                                                                                                                             |
+| Learning Level*       | 10                                                                                                                                                                       |
+| Experience Level*     | 10                                                                                                                                                                       |
+| Specialization Level* | 10                                                                                                                                                                       |
+| Contribution Level*   | 10                                                                                                                                                                       |
+| Next Step             | Leadership of profession, designing next generation professional outcomes. Navigate outreach at board level and country level. International leadership and recognition. |
+
+*levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
+
+## Types of Growth Required
+
+![3.svg](../../media/6be174c8549ef969e942dcd8570c0185ff82b1bc.svg)
+
+### Learning Primary Skills and Knowledge Areas
+
+### Managed Mentoring and Experience
+
+### Specialized Learning and Experience
+
+### Contribution and Leadership
+
+# Addressing Competencies and Specialization
+
+Possibly the most difficult part of the career path as it stands in industry is when to learn which competency and at what level of sophistication. In addition, how long can a competency go unused in a professionals background before it becomes irrelevant to an architects current role. This is tremendously important when combined with specializations. For example, how high are the business skills in a software or systems architects? Are they employed every day? What about the technical competencies in a business architect? When were they last used? How much technical skill does a business architect need to maintain to be able to work effectively with other architects and across employers?
+
+The BTABoK answer to that is similar to other professions. It is understood that architects will gather specific and structure core competencies early in their career. They will learn and demonstrate all 5 pillars of skill. During associate and advanced education they will choose a specialization. This 
+
+# References and further reading
+
+[Career Path: Definition and Role in Professional Development](https://peoplespheres.com/career-path-definition-and-role-in-professional-development/#:~:text=A%20career%20path%20is%20a,into%20throughout%20their%20working%20life.)
+
+[Career Path Definition and 12 Steps to Pave Yours (+Examples)](https://www.betterup.com/blog/career-path#:~:text=There%20are%20four%20types%20of,help%20you%20perform%20your%20job.)
+
+[Deciding on a Career in Medicine | Students &amp; Residents](https://students-residents.aamc.org/choosing-medical-career/deciding-career-medicine)
+
+https://aaca.org.au/national-standard-of-competency-for-architects/2021nsca/
+
+Salaries
+
+[Physicians and Surgeons : Occupational Outlook Handbook: : U.S. Bureau of Labor Statistics](https://www.bls.gov/ooh/healthcare/physicians-and-surgeons.htm#tab-5)
+
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

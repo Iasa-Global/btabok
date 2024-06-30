@@ -11,7 +11,7 @@ tags:
 ---
 
 > "A detailed plan for achieving success in situations such as war, politics, business, industry or sport, or the skill of planning for such situations"
-**definition of Strategy, Cambridge Dictionary**
+> **definition of Strategy, Cambridge Dictionary**
 
 # What is strategy
 

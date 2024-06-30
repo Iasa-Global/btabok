@@ -12,7 +12,6 @@ tags:
 
 # What Is Community
 
-
 The BTABoK uses the term community to refer to a group of architects, extended team members, internal and external to an organization who must work together to deliver the best business and technology strategy possible. The community is the binding agent between them, which some might call a center of excellence or professionalism or other terms.
 
 The goal of an architecture community is to increase the overall architecture capability which impact their shared context, scope and coverage as well as to achieve the goals that they set for themselves and the organization.  
@@ -43,9 +42,9 @@ As a positive extension of the previous tenet, the community of architects (incl
 
 The value proposition of an architecture community is difficult to quantify explicitly and objectively. There are three major components that the community can use to drive its value proposition. These are critical components that will drastically change how the organization views architecture.
 
-1.  Use the stakeholder driven approach from the BTABoK. Value is perception. What is believed by the organization is the truth, regardless of its veracity. On average there are 3-5 stakeholders per architect within a company who are deeply important to the architecture practice, with much overlap. If these stakeholders perceive the team as valuable, the team will be considered valuable. Don't be reactive, be proactive. Use the tools provided to divvy them up and make a difference in their jobs. It works every time.
-2.  Create goals that are innovative and ownership-based as opposed to governance focused and consultative. The goals of a valuable practice should focus on what value is delivered and to which stakeholder and how it is measured. Reuse, cost-reduction, and risk-aversion are focused on enterprise stability. Innovation is based on new business, higher returns, new customers, successful missions, faster service, etc. Ownership-based goals are focused on delivery not design. How many successful outcomes did each member, or member team create from the practice?
-3.  Get explicit about the engagement model. Understand that engagement is about how the architects view the practice and how they choose to deliver services. If every architect in the company is involved and approves of the engagement model, they will implement it and live it. This reduces the arguments, disagreements and friction in delivering value. Do not wait for the chief architect to decide the approach. A professional practice includes the explicit, not implicit, agreement from the participants. The approach below to creating an engagement steering committee comprised of all types and levels of architects will help with that.
+1. Use the stakeholder driven approach from the BTABoK. Value is perception. What is believed by the organization is the truth, regardless of its veracity. On average there are 3-5 stakeholders per architect within a company who are deeply important to the architecture practice, with much overlap. If these stakeholders perceive the team as valuable, the team will be considered valuable. Don't be reactive, be proactive. Use the tools provided to divvy them up and make a difference in their jobs. It works every time.
+2. Create goals that are innovative and ownership-based as opposed to governance focused and consultative. The goals of a valuable practice should focus on what value is delivered and to which stakeholder and how it is measured. Reuse, cost-reduction, and risk-aversion are focused on enterprise stability. Innovation is based on new business, higher returns, new customers, successful missions, faster service, etc. Ownership-based goals are focused on delivery not design. How many successful outcomes did each member, or member team create from the practice?
+3. Get explicit about the engagement model. Understand that engagement is about how the architects view the practice and how they choose to deliver services. If every architect in the company is involved and approves of the engagement model, they will implement it and live it. This reduces the arguments, disagreements and friction in delivering value. Do not wait for the chief architect to decide the approach. A professional practice includes the explicit, not implicit, agreement from the participants. The approach below to creating an engagement steering committee comprised of all types and levels of architects will help with that.
 
 Community Approach
 ==================
@@ -77,9 +76,9 @@ In large teams or highly complex domains specialization will exist and likely in
 
 The question of assignment is particularly difficult as having all architects everywhere is impossible. The assignment article provides detailed guidance and tools for assigning architects but specialists require specific attention. There is no use using a software architect to repurpose a data center if there are infrastructure architects available. Use the following to describe and assign architects based on specializations.
 
-1.  In general, solution architects focus on shared skills across the specializations. They are the go to for assignment for regular projects and should have the freedom to get hours from specialist as needed for the health of the product/project. They work with business architects to ensure the delivery of a value stream.
-2.  Large, complex, domain focused programs should be lead by a very senior specialist in that area. There are three axis to consider in this. One is specialization (the primary focus of ones competencies and experience), the second is domain focus (what medicine calls sub-specialization), for example an architect may be a software architect focusing on the retail domain with deep skills in mobile and web-based software. The third axis to consider in assignment is value to the business and the individual. Many architects will be passionate about a particular project. This motivation provides and extra layer of quality and benefit to the practice.
-3.  Be careful of assigning non-architects to lead architecture efforts because of their depth specialist skills. Architects must be based on the 5 pillars of competencies or their work will require direct architectural support.
+1. In general, solution architects focus on shared skills across the specializations. They are the go to for assignment for regular projects and should have the freedom to get hours from specialist as needed for the health of the product/project. They work with business architects to ensure the delivery of a value stream.
+2. Large, complex, domain focused programs should be lead by a very senior specialist in that area. There are three axis to consider in this. One is specialization (the primary focus of ones competencies and experience), the second is domain focus (what medicine calls sub-specialization), for example an architect may be a software architect focusing on the retail domain with deep skills in mobile and web-based software. The third axis to consider in assignment is value to the business and the individual. Many architects will be passionate about a particular project. This motivation provides and extra layer of quality and benefit to the practice.
+3. Be careful of assigning non-architects to lead architecture efforts because of their depth specialist skills. Architects must be based on the 5 pillars of competencies or their work will require direct architectural support.
 
 The Extended Team: Mentoring and Leadership
 -------------------------------------------
@@ -105,12 +104,12 @@ The Engagement Model Steering Committee (Large Teams)
 
 The engagement model should be managed by a cross-section of ALL architects
 
--   If there is no common reporting structure then manage by vote
--   This should include customer or service facing architects as well
--   The group defines how the entire architect organization
--   Engages with the business
--   Measures itself for success
--   Grows it's value and capability across the enterprise
+- If there is no common reporting structure then manage by vote
+- This should include customer or service facing architects as well
+- The group defines how the entire architect organization
+- Engages with the business
+- Measures itself for success
+- Grows it's value and capability across the enterprise
 
 ![image001](media/by-nc.png)
 

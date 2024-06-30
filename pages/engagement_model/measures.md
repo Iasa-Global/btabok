@@ -11,22 +11,20 @@ tags:
 ---
 
 > "People think the free market is a philosophy; they believe it is a creed. It is none of those things. The free market is a bathroom scale; it is a measuring tape; it's simply a measurement."
-**P. J. O'Rourke**
+> **P. J. O'Rourke**
 
 # What is Measurement
 
-
 Measure
 
-1.  ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units. "the amount of water collected is measured in pints."
-2.  assess the importance, effect, or value of (something). "it is hard to measure teaching ability."
+1. ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units. "the amount of water collected is measured in pints."
+2. assess the importance, effect, or value of (something). "it is hard to measure teaching ability."
 
 The definitions of 'to measure' give a clear picture of why it is critical to an organization. Measurement is the act of understanding the standard units or value of anything. The measurement consists of agreements surrounding what is to be measured, what teams are used to measure it, and what the resulting measurement means or indicates. This process is neither easy nor exceptionally accurate. Even in common measurements like the kilogram and the pound, there has been considerable variation in methods and techniques, and meaning. However, no company or government agency could understand their product, service, or capabilities without measurement, much less set a plan for change and growth.
 
 The basis for measurement is a set of commonly held beliefs about what a symbol or a particular unit of measure means and what it represents. For example, is the kilogram a unit of weight? How does it relate to a team of mass? And how are those two things related to developing a turbine engine or a bottle of cola? These tools, while initially appearing simple, are in fact regulated and debated around the world. This underlies the business companies do every day, from currencies to shipping. Thus understanding measurements are critical to understanding business. Business capabilities, value methods, and realization of benefits are all underscored by costs to lead time measurements. In one instance, a significant charity converted or compared all measures internally to a 'unit of a good,' allowing them to compare and contrast projects, programs, and proposals based on how good they would be for humanity.
 
 ## Measurement as a Continuous Event
-
 
 Measuring is as natural to humans as breathing. Employees, owners, investors, journalists, employees are constantly measuring everything around them, from team satisfaction to payscales. To do this, they use a continuous set of internal measures, which are generally very 'fuzzy' and often quite personal. Job satisfaction, work effectiveness, and efficiency are all a part of these internal measures people use to understand how they fit in their environment and how well that environment is functioning.
 
@@ -50,13 +48,12 @@ Figure 1 Value Categories in Measurement
 
 The critical aspect of understanding measures are:
 
-1.  The idea or object to be measured.
-2.  The units of measurement.
-3.  The outputs or correlations to the measurement.
-4.  The translation between those items to meaning.
+1. The idea or object to be measured.
+2. The units of measurement.
+3. The outputs or correlations to the measurement.
+4. The translation between those items to meaning.
 
 An excellent measurement includes a solid understanding of what is being measured. For example, in a value stream, lead time is a measurement that represents the total time it takes for an item to move forward, including both direct and wait time.
-
 
 ![image001](media/measures002.jpg)
 
