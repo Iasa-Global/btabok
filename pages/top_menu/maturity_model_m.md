@@ -46,9 +46,13 @@ This section of the BTABoK provides three primary sections. One proposes an arch
 
 ![image002](media/maturity_model_m02.png) 
 
+
+
 ### Level 1
 
 ![image003](media/maturity_model_m03.png) 
+
+
 
 ### Level 2
 

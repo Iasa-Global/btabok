@@ -24,12 +24,12 @@ Topic Areas considered for version 3.0
 1. [Integration](../topics/integration.md)
 2. Security
 3. [Sustainability](../topics/sustainability.md)
-4. [Microservices](../patterns/microservices_style.md)
+4. [Services Style](../patterns/microservices_style.md)
 
 Trends and techniques cover the following areas for version 3.0:
 
-1. **_Cloud_** as an emerging platform
-2. **_DevOps_**
+1. **_Cloud_** as a platform
+2. **_DevOps_** as Platform Engineering
 3. Artificial Intelligence 
 
 We will describe each domain, trend or technique using the following table of contents:

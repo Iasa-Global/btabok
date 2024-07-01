@@ -339,6 +339,10 @@ entries:
       url: maturity_model_m.html
       output: web
 
+    - title: Accredited Partner
+      url: accreditation.html
+      output: web
+
   - title: Topic Areas
     output: web
     folderitems:
