@@ -1,4 +1,4 @@
-```yaml
+```
 title: "Career Path"
 keywords: 
 sidebar: mydoc_sidebar
