@@ -144,8 +144,6 @@ A managed career path has the distinct advantage of having stable relationships 
 
 - **Outreach:** A profession is always about its youngest members. How many new graduates want to become architects. Joint outreach into the education system is needed to create this funnel of highly capable and motivated future architects. 
 
-
-
 | Attribute             | Description                                                                                           |
 | --------------------- | ----------------------------------------------------------------------------------------------------- |
 | Expected Length       | 1 year                                                                                                |
@@ -176,6 +174,7 @@ The movement from Foundational to Associate involves demonstration of the skills
 | Experience Level*     | 1                                                                                        |
 | Specialization Level* | 1                                                                                        |
 | Contribution Level*   | 0                                                                                        |
+| Maintenance           | Per Year: 30 hrs learning, 2 weeks delivery focus experience                             |
 | Next Step             | Core Architecture Concepts, Foundation Certification, Self-Study, Architecture Community |
 
 *levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
@@ -188,20 +187,19 @@ The associate architect work through a series of advanced skills within the 5 pi
 
 The associate architect should be focused on skills learning and application in each pillar as well as development of deeper skills in their specialization. It is critical to get both mentored as well as individual experience in these skills. At the same time the associate architect should begin contributing both to the internal practice as well as attending industry activities such as conferences and training. 
 
-
-
 To be recognized as an associate architect one must submit examples of both work product and experimental deliverables. In addition, deep testing in both core and specialized concepts is necessary preferrably on multiple competencies and concepts. 
 
-| Attribute             | Description                                                    |
-| --------------------- | -------------------------------------------------------------- |
-| Expected Length       | 2-5 years                                                      |
-| Learning Method       | Structured Mentoring                                           |
-| Learning Level*       | 5                                                              |
-| Experience Level*     | 3                                                              |
-| Specialization Level* | 3                                                              |
-| Contribution Level*   | 1                                                              |
-| Certification Method  | Testing, Work Demonstration, Graded Work                       |
-| Next Step             | Experiential Mentoring, Specialization Focus, Complex Problems |
+| Attribute             | Description                                                                       |
+| --------------------- | --------------------------------------------------------------------------------- |
+| Expected Length       | 2-5 years                                                                         |
+| Learning Method       | Structured Mentoring                                                              |
+| Learning Level*       | 5                                                                                 |
+| Experience Level*     | 3                                                                                 |
+| Specialization Level* | 3                                                                                 |
+| Contribution Level*   | 1                                                                                 |
+| Certification Method  | Testing, Work Demonstration, Graded Work                                          |
+| Maintenance           | Per Year: 10 hrs contribution, 30 hrs learning, 2 weeks delivery focus experience |
+| Next Step             | Experiential Mentoring, Specialization Focus, Complex Problems                    |
 
 *levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
 
@@ -232,12 +230,13 @@ It is perfectly acceptable to remain a professional architect for an entire care
 | Attribute             | Description                                                                                     |
 | --------------------- | ----------------------------------------------------------------------------------------------- |
 | Expected Length**     | 3-5 years ?                                                                                     |
-| Learning Method       | Mentoring , Real World, Contribution                                                            |
+| Learning Method       | Mentoring , Experience                                                                          |
 | Learning Level*       | 6 or Unknown                                                                                    |
 | Experience Level*     | 6 or Unknown                                                                                    |
 | Specialization Level* | 6 or Unknown                                                                                    |
 | Contribution Level*   | 3 or Unknown                                                                                    |
 | Certification Method  | Board of Professionals, Work and Success Demonstration                                          |
+| Maintenance           | Per Year: 20 hrs contribution, 20 hrs learning, 2 weeks delivery focus experience               |
 | Next Step             | Contribution to Industry, Extreme Problem Focus, Deep Specialization, Cross Practice Leadership |
 
 *levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
@@ -246,34 +245,56 @@ It is perfectly acceptable to remain a professional architect for an entire care
 
 ### Distinquished - Measured
 
-The journey to distinguished is often quite dificult for an architect as with any professional. A distinguished architect is able to handle the most difficult architecture challenges in the marketplace. The focus of distinguished architects are towards practical outcomes and large, complex problem domains. 
+The journey to distinguished is often quite dificult for an architect as with any professional. A distinguished architect is able to handle the most difficult architecture challenges in the marketplace. The focus of distinguished architects are towards practical outcomes and large, complex problem domains. The distinguished designation is both a leadership and a practicioner evaluation.
 
+The distinguished architecture certification is a deep level of review of the candidates experience profile against the competency model, both their in the field, as well as their contributions back to the field. The distinguished architect will have achieved a signficant degree of leadership of the most complex architecture teams and products. They will have developed architecture practicies within their specialization and will have given a great deal of that back into the body of knowledge. 
 
+The distinguished practicioner is using advanced techniques often within their specialization to deal with complex product/programs and delivery on enterprise scope outcomes. They have achieved mastery of the five pillars as well as signficant depth in their chose specialization area. 
 
 | Attribute             | Description                                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------------------------ |
 | Expected Length       | Unknown                                                                                                |
-| Learning Method       | Unstructured                                                                                           |
+| Learning Method       | Mentoring/Experience, Specialized                                                                      |
 | Learning Level*       | 8                                                                                                      |
 | Experience Level*     | 8                                                                                                      |
 | Specialization Level* | 8                                                                                                      |
 | Contribution Level*   | 8                                                                                                      |
+| Maintenance           | Per Year: 40 hrs contribution, 2 weeks delivery focus experience, 2 weeks leadership                   |
 | Next Step             | Leadership of a practice, signficant industry contribution, advanced research, extreme transformations |
 
 *levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
 
 ### Chief - Measured
 
+The chief architect designation is the pinnacle of the measured career path. It represents a true leader of architecture practice. The chief architect has achieved a milestone in career development and capability that requires extreme effort to gain. They are the heads of their practice model both in specialized as well as generalized career measurements. 
 
+Chiefs of architecture are still responsible for change but are the heads of the full practice as well. The BTABoK recommends that all large architecture practices are lead by Chief Architects. It is recommended that chief architects practice both within their specialization as well as in large change initiatives. 
+
+The board process for chief architects recognizes the leadership of the proffesional architect. It is a review of large change initiatives as well as how well they have built architecture practice models that lift up their fellow architects both internal to an organization as well as externally (through mentoring and thought leadership). It reviews their career up to the point of leadership and how they have stayed up to date with all areas of their professional career. In the words of a chief anesthesiology of a major heart hospital said, "First, I see patients, then I help other doctors see patients". The chief architect is committed to the most junior architect in their practice to the degree they are the most senior. 
+
+Chief architects represent the best of our career path. A commitment to excellence in both strategy and execution an comprehensive understanding of business and technology and the ability to guide clients to outcomes. This excellence will show itself in all levels of:
+
+1. Hands on practice leadership
+
+2. Successful change initiatives
+
+3. A complete commitment to client success
+
+4. A comprehensive and handson approach to measured competencies
+
+5. An ethically driven body of work
+
+6. A focus on giving back to the profession in signficant and measurable ways
 
 | Attribute             | Description                                                                                                                                                              |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expected Length       | Unknown                                                                                                                                                                  |
-| Learning Method       | Unstructured                                                                                                                                                             |
+| Expected Length       | Career                                                                                                                                                                   |
+| Learning Method       | Mentoring/Exprience, Specialized                                                                                                                                         |
 | Learning Level*       | 10                                                                                                                                                                       |
 | Experience Level*     | 10                                                                                                                                                                       |
 | Specialization Level* | 10                                                                                                                                                                       |
 | Contribution Level*   | 10                                                                                                                                                                       |
+| Maintenance           | Per Year: 40 hrs contribution, 2 weeks delivery focus experience, 8 weeks leadership                                                                                     |
 | Next Step             | Leadership of profession, designing next generation professional outcomes. Navigate outreach at board level and country level. International leadership and recognition. |
 
 *levels are measured in 0-10 based on how far the individual is expected to achieve to move to the next level
@@ -282,19 +303,27 @@ The journey to distinguished is often quite dificult for an architect as with an
 
 ![3.svg](../../media/6be174c8549ef969e942dcd8570c0185ff82b1bc.svg)
 
-### Learning Primary Skills and Knowledge Areas
+### Learning Primary Skills and Structured Mentoring
+
+Learning is a major element of the architect career growth and expectations for continued excellence. The architect learns through training, reading and experimentation. The architect is continuously learning. 
+
+There is a difference between core learning and topic area learning. Core learning are the skills, activities and materials that are industry and technology agnostic. They focus on things like requirements, value, design, and strategy. These are applicable across all types of architects. Topic area learning is also valuable but is specifically focused on a single depth area of learning. Technology learning on platform engineering and cloud are examples of topic area learning. It is essential that the architect understand the difference. 
+
+Currently only measured core learning is accepted into the BTABoK career path. The measurement of the learning must be done against an area of the BTABoK and submitted to accreditation. This is due to the current volatility of the professional marketplace. 
 
 ### Managed Mentoring and Experience
 
-### Specialized Learning and Experience
+Experience is the primary learning engine of the architecture profession. The level of complexity of the profession is so signficant that it must be learned by doing. Because of the types of experiences needed to create excellence in architecture it best to get this under the guidance of a professional who is already certified at the professional level. This gives rise to professional mentoring which is the primary method of learning for other complex professions like building architecture and medicine. The Iasa Mentoring Program is one such legitimate program where professional experience can be gained. 
 
 ### Contribution and Leadership
 
-# Addressing Competencies and Specialization
+Giving back to the profession is a critical aspect of professional life and growth. It is the means by which the profession improves itself and its practices. Contribution can take both lightweight and heavy forms. For example, speaking at a conference can be useful in giving back, but a major contribution to the body of knowledge that has been well researched is a much bigger overall contribution. Currently BTABoK Accreditation, Mentoring and Career Path require measured contributions back to the profession for both maintenance and progression in the field. 
+
+### Addressing Competencies and Specialization
 
 Possibly the most difficult part of the career path as it stands in industry is when to learn which competency and at what level of sophistication. In addition, how long can a competency go unused in a professionals background before it becomes irrelevant to an architects current role. This is tremendously important when combined with specializations. For example, how high are the business skills in a software or systems architects? Are they employed every day? What about the technical competencies in a business architect? When were they last used? How much technical skill does a business architect need to maintain to be able to work effectively with other architects and across employers?
 
-The BTABoK answer to that is similar to other professions. It is understood that architects will gather specific and structure core competencies early in their career. They will learn and demonstrate all 5 pillars of skill. During associate and advanced education they will choose a specialization. This 
+The BTABoK answer to that is similar to other professions. It is understood that architects will gather specific and structure core competencies early in their career. They will learn and demonstrate all 5 pillars of skill. During associate and advanced education they will choose a specialization. 
 
 # References and further reading
 
@@ -303,6 +332,8 @@ The BTABoK answer to that is similar to other professions. It is understood that
 [Career Path Definition and 12 Steps to Pave Yours (+Examples)](https://www.betterup.com/blog/career-path#:~:text=There%20are%20four%20types%20of,help%20you%20perform%20your%20job.)
 
 [Deciding on a Career in Medicine | Students &amp; Residents](https://students-residents.aamc.org/choosing-medical-career/deciding-career-medicine)
+
+[Architectural Experience Program (AXP)](https://www.ncarb.org/gain-axp-experience)
 
 https://aaca.org.au/national-standard-of-competency-for-architects/2021nsca/
 

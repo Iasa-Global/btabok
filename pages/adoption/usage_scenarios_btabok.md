@@ -43,8 +43,6 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 - How do I update a legacy system?
 
-
-
 ### [Adopting the Competency Model](../btabok_overview/adopting_the_competency_model.md)
 
 The competency model of the BTABoK is at the core of the practice. It is the most robust and well-documented competency model for architects on the market. In this article we are going to evaluate methods for adoption and their benefits to your organization.
@@ -86,8 +84,6 @@ The demands on business to meet customer needs are a key factor in maintaining c
 In this series of short articles, we will look at how we can use the BTABoK to help manage legacy systems and legacy transformations. The articles cover the following topics:
 
 - [Legacy and Technical Debt](../btabok_overview/legacy_and_technical_debt.md)
-
-
 
 ## Architects During Development (Software Solution Architecture)
 
