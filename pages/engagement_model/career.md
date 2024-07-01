@@ -6,7 +6,6 @@ toc: true
 permalink: career.html
 folder: engagement_model
 summary: "A career path is a set of knowledge items and skills learned over a period of time. Within a specific field the knowledge and experience must roughly match those of other professionals in the field."
-tags:   - people_model
 ---
 
 # Introduction
