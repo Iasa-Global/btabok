@@ -267,6 +267,10 @@ entries:
           url: organization.html
           output: web
 
+        - title: Career
+          url: career.html
+          output: web
+
         - title: Roles
           url: roles.html
           output: web
