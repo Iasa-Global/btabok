@@ -3,7 +3,7 @@ title: "Career Path"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: career.html
+permalink: career_path.html
 folder: engagement_model
 summary: "Competency is therefore the combined skills necessary to be a successful architect which an architect hones, develops and grows throughout their career."
 tags:   - people_model

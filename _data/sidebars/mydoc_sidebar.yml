@@ -268,7 +268,7 @@ entries:
           output: web
 
         - title: Career
-          url: career.html
+          url: career_path.html
           output: web
 
         - title: Roles
