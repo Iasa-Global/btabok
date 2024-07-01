@@ -11,7 +11,7 @@ tags:
 ---
 
 > "The act of working together with other people or organizations to create or acheive something"
-**definition of Collaboration, Cambridge Dictionary**
+> **definition of Collaboration, Cambridge Dictionary**
 
 # What is Collaboration
 
