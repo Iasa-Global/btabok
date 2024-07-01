@@ -10,7 +10,9 @@ summary: "A career path is a set of knowledge items and skills learned over a pe
 
 # Introduction
 
-![5716001-ai (3).svg](../../media/7f8ece854449e8ac8723085bab09d3ce1ef29289.svg)
+
+
+![5716001 (1)-ai.jpg](../../media/e943e5b33c14cc6629b7b7438a3150bff42c331c.jpg)
 
 The career path for BT archtiects is an elusive concept in business. Most of the time careers are defined by current employers who often switch them around based on current management. This variability has made determining an appropriate and repeatable career path very difficult. However, it is an essential component to being able to reproduce architecture value and success over time. 
 
