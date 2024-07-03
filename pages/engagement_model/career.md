@@ -5,81 +5,79 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: career.html
 folder: engagement_model
-summary: "A career path is a set of knowledge items and skills learned over a period of time. Within a specific field the knowledge and experience must roughly match those of other professionals in the field."
+Summary: "A career path is a set of knowledge items and skills learned over a period of time. Within a specific field, the knowledge and experience must roughly match those of other professionals in the field."
 ---
 
 # Introduction
 
-
-
 ![5716001 (1)-ai.jpg](../../media/e943e5b33c14cc6629b7b7438a3150bff42c331c.jpg)
 
-The career path for BT archtiects is an elusive concept in business. Most of the time careers are defined by current employers who often switch them around based on current management. This variability has made determining an appropriate and repeatable career path very difficult. However, it is an essential component to being able to reproduce architecture value and success over time. 
+The career path for BT architects is an elusive concept in business. Most of the time, careers are defined by current employers, who often switch them around based on current management. This variability has made determining an appropriate and repeatable career path very difficult. However, it is an essential component to reproducing architecture's value and success over time. 
 
-Iasa conducted many focus groups with senior architects from 2006 onward plus conducted over 2,000 surveys to understand the career path for architects taken from architects of all types of backgrounds and from all parts of the world. Since then it has done over 1,000 interviews, 200 corporate assessments and 4,500 individual competency assessments which have supported the BTABoK Career Path.
+From 2006 onward, Iasa conducted many focus groups with senior architects and over 2,000 surveys to understand the career path of architects from all types of backgrounds and from all parts of the world. Since then, it has conducted over 1,000 interviews, 200 corporate assessments, and 4,500 individual competency assessments, which have supported the BTABoK Career Path. 
 
-The BTABoK describes 6 of these career levels, 4 of which are measurable/testable by a combination of testing, homework/work submission or experiential board certifications. Other bodies of knowledge may use slightly different names but in general most agree to the 4-5 primary levels of architects. However, when measuring the BTABoK levels against another body of knowledge it is deeply important to compare, a) competency model and specialization, b) career levels, c) concept areas (engagement model). Without similar depth in all three of those areas career frameworks become much less useful in the practical world and cannot truly be compared to the BTABoK.
+The BTABoK describes 6 of these career levels, 4 of which are measurable/testable by a combination of testing, homework/work submission, or experiential board certifications. Other bodies of knowledge may use slightly different names, but most generally agree on the 4-5 primary levels of architects. However, when measuring the BTABoK levels against another body of knowledge, it is deeply important to compare a) competency model and specialization, b) career levels, and c) concept areas (engagement model). Without similar depth in all three of those areas, career frameworks become much less useful in the practical world and cannot truly be compared to the BTABoK.
 
 # What is a Career Path
 
-*noun*
+noun 
 
-1. the series of jobs or roles that constitute a person's career, especially one in a particular field.
-   
-   "you never know how your first job might influence your career path"
+1. The series of jobs or roles that constitute a person's career, especially one in a particular field. 
 
-A career path is a set of knowledge items and skills learned over a period of time. Within a specific field the knowledge and experience must roughly match those of other professionals in the field. 
+    "you never know how your first job might influence your career path." 
 
-It is important to note the difference between a managed career path and a randomized one. 
+A career path is a set of knowledge items and skills learned over a period of time. Within a specific field, the knowledge and experience must roughly match those of other professionals in the field. 
+
+It is important to note the difference between a managed career path and a randomized one.
 
 ## Randomized Career Path - Job or Role Based
 
-The current model in architecture is effectively random. While some belief exists that there are common career models, the actual careers of modern architects are essentially randomized based on radically different contexts of the employers and architect happens to work for. A job as an architect in Microsoft is signficantly different in tenor, skills and purpose than within a bank. 
+The current model in architecture is effectively random. While some belief exists that there are common career models, the actual careers of modern architects are essentially randomized based on radically different contexts of the employers and architect they happen to work for. A job as an architect in Microsoft is significantly different in tenor, skills and purpose than within a bank. 
 
-Sometimes the randomize path is a starting point, especially when individuals are unsure which direction to take. Also applicable skills and knowledge are perhaps not so repeatable when changing roles. Fields which tend towards the arts rather than science and engineering often have similar challenges. 
+Sometimes, the randomized path is a starting point, especially when individuals are unsure which direction to take. Also, applicable skills and knowledge are perhaps not so repeatable when changing roles. Fields that tend towards the arts rather than science and engineering often have similar challenges. 
 
-In reviewing over 200 job descriptions from major employers in different industries for the [BTABoK Job Description](job_description.md) templates it was found that little or no commonality in a) length of service, b) expected competencies, c) expected job activities, d) required previous employment existed either across or within specializations. For example, business architect job categorize randomly define both experience in technology as well as type of job activities randomly. This holds true of all identified specialization areas (Business, information, infrastructure, software, solution and systems architects). 
+In reviewing over 200 job descriptions from significant employers in different industries for the [BTABoK Job Description](https://usc-word-edit.officeapps.live.com/we/job_description.md) templates, it was found that little or no commonality in a) length of service, b) expected competencies, c) expected job activities, d) required previous employment existed either across or within specializations. For example, business architect job categories randomly define both experience in technology as well as the type of job activities randomly. This holds true for all identified specialization areas (Business, information, infrastructure, software, solution, and systems architects). 
 
-A randomized career path makes career advancement primarily based on the descretion of current management. Management jobs as well as executive jobs are always randomized ([The Big Idea: No, Management Is Not a Profession](https://hbr.org/2010/07/the-big-idea-no-management-is-not-a-profession)). Thus a senior manager of one employer may come from a very different background than another. 
+A randomized career path makes career advancement primarily based on the discretion of current management. Management jobs, as well as executive jobs, are always randomized ([The Big Idea: No, Management Is Not a Profession](https://hbr.org/2010/07/the-big-idea-no-management-is-not-a-profession)). Thus, a senior manager of one employer may come from a very different background than another.
 
 ## A Managed Career Path
 
-A managed career path, by contrast, provides rigorous steps towards achieving a measurable set of skills. Skills and knowledge repeatable and measurable. It is answerable to an institution with defined standards.The case for IT architect as a profession implies that there should be a managed career path.
+A managed career path, by contrast, provides rigorous steps toward achieving a measurable set of skills. Skills and knowledge are repeatable and measurable. It is answerable to an institution with defined standards. The case for IT architecture as a profession implies that there should be a managed career path. 
 
-A managed career path is the basis for all professions. It is based primarily on a set of agreed upon competencies and levels. These levels are determined outside of organizations and employers, most often by a group of existing senior practicioners within a geography or other context. For example, the modern building architecture competency model in America is decided by a group within the American Institute of Architecture (aia.org) and its partners in government and industry. A managed career path is most commonly applied to professionals whose work has the ability to impact public safety, corporate interests or national safety (see [Safety and Liability](safety_liability.md)). It does not mean that all members of the profession do that level of work, nor does it limit other benefits of hiring a managed career professional. 
+A managed career path is the basis for all professions. It is based primarily on a set of agreed-upon competencies and levels. These levels are determined outside of organizations and employers, most often by a group of existing senior practitioners within a geography or other context. For example, the modern building architecture competency model in America is decided by a group within the American Institute of Architecture (aia.org) and its partners in government and industry. A managed career path is most commonly applied to professionals whose work has the ability to impact public safety, corporate interests, or national safety (see [Safety and Liability](https://usc-word-edit.officeapps.live.com/we/safety_liability.md)). It does not mean that all members of the profession do that level of work, nor does it limit other benefits of hiring a managed career professional. 
 
-In a managed career path, demonstrated excellence in appropriate competencies are the primary method for career advancement. This advancement is noted by more senior professionals in a form of career journal which each member of the profession must maintain. 
+In a managed career path, demonstrated excellence in appropriate competencies is the primary method for career advancement. This advancement is noted by more senior professionals in the form of a career journal, which each member of the profession must maintain.
 
 # Why is Career Path Important to Architects
 
-The question of career path is deeply important to architects. It determines many of the qualities which allow them to perform well in their expected jobs. Some jobs become managed from when they are founded and some remain role-based. The determining factors for this from research in the field of professions* seems to be:
+The question of career path is fundamental to architects. It determines many of the qualities that allow them to perform well in their expected jobs. Some jobs become managed from when they are founded, and some remain role-based. The determining factors for this from research in the field of professions* seem to be: 
 
-1. Importance of the job to safety, financial outcomes or societal impacts
+- Importance of the job to safety, financial outcomes, or societal impacts 
 
-2. Liability and security related to the execution and outcome of professional decisions. 
+- Liability and security related to the execution and outcome of professional decisions. 
 
-3. The group desire of the professionals to maintain minimum competency standards. Normally this results from a desire to keep quality and pricing manageable. 
+- The group desires the professionals to maintain minimum competency standards. Usually this results from a desire to keep quality and pricing manageable. 
 
-4. External requirements such as governments, standards or other that demand certain levels for certain jobs. 
+- External requirements such as governments, standards, or others demand certain levels for specific jobs. 
 
-For those jobs to be similar in nature and activity across employers and for employers to be able to hire reasonably qualified individuals into the role. There are a set of tradeoffs from either approach to architect career path. 
+For those jobs to be similar in nature and activity across employers and for employers to be able to hire reasonably qualified individuals for the role. There are a set of tradeoffs between either approach and the architect's career path.
 
 |      | Role Based                                                                                                                                                  | Managed                                                                                                                                                                                    |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Pros | - easily adapted to organization, less expensive upfront, follows management preferences                                                                    | - high level of excellence across companies, excellent outcomes, repeatable success and value, better adoption of technology, secure and safe, better value and reliability, international |
-| Cons | - lower quality of employee, requires much higher training costs, lower level of outcomes, high turnover, lack of agreed value, much more expensive overall | - lower management control and customization, increase cost of individual professionals                                                                                                    |
+| Pros | - easily adapted to the organization, less expensive upfront, follows management preferences                                                                | - high level of excellence across companies, excellent outcomes, repeatable success and value, better adoption of technology, secure and safe, better value and reliability, international |
+| Cons | - lower quality of employee, requires much higher training costs, lower level of outcomes, high turnover, lack of agreed value, much more expensive overall | - lower management control and customization, increased cost of individual professionals                                                                                                   |
 
 ## The Case for a Managed Career Path for Architects
 
-There are benefits in both random (current) and managed (future) career paths. The case for making architecture a managed profession stems from a few critical factors:
+There are benefits in both random (current) and managed (future) career paths. The case for making architecture a managed profession stems from a few critical factors: 
 
-- **Rising Levels of Societal Impact:** The impact of technology is growing daily. This impact, not just threats but things like subscription models, is becoming increasily visible to the average person. This rising friction with individuals creates a demand for trusted professionals in similar ways to medicine and law. While the average person will likely not hire an architect soon, society is in need of the trust that profession creates to ensure that corporate interests or complexity do not rule their lives. 
+- **Rising Levels of Societal Impact:** The impact of technology is growing daily. This impact, not just threats but things like subscription models, is becoming increasingly visible to the average person. This rising friction with individuals creates a demand for trusted professionals similar to medicine and law. While the average person will likely not hire an architect soon, society is in need of the trust that the profession creates to ensure that corporate interests or complexity do not rule their lives. 
 
-- **Regulatory Pressure:** Increasing pressure is coming to bear on all aspects of technology as it relates to government and regulation. From things like sustainability, privacy and accountability to impacts to purchasing, monopolies, identity and security. The more prevelant technology becomes in society, the more regulation that needs to be met to ensure appropriate use. In all industries where this level of regulation exists, professionals rise to meet the challenge and guide clients through the process. Doing so while creating value for clients and employers is the art and the science of architecture. 
+- **Regulatory Pressure:** Increasing pressure is coming to bear on all aspects of technology as it relates to government and regulation. From things like sustainability, privacy, and accountability to impacts on purchasing, monopolies, identity, and security. The more prevalent technology becomes in society, the more regulation needs to be met to ensure appropriate use. In all industries where this level of regulation exists, professionals rise to meet the challenge and guide clients through the process. Doing so while creating value for clients and employers is the art and the science of architecture. 
 
-- **New Technology Opportunties/Threats:** Avoiding catastrophies in both small and large scopes is one function of modern professions. Non-professionals are not allowed to play with dangerous research or deploy dangerous products in most fields. For example, laypeople are not allowed to do bio-research or build complex structures (buildings) because they can harm peole. The rise of the use of internet, AI, mobile platforms, and even social media and identity can harm both individuals and society. These threats are emerging faster and faster and it has become essential to have professionals to understand their implications before they are simply released to regular people or companies. In addition to threats, most organizations are not able to realize the benefit of new technologies in a repeatable way. Agility, AI, Cloud, Mobility, Digital Transformation, Manufacturing, and much much more suffer from poor learning delivering poor results primarily due to lack of skilled and capable teams and leaders. The randomized backgrounds and skill sets of role-based architects are unlikely to be able to scale to achieve these needed results. 
+- **New Technology Opportunities/Threats:** Avoiding catastrophes in both small and large scopes is one function of modern professions. Non-professionals cannot play with dangerous research or deploy dangerous products in most fields. For example, laypeople cannot do bio-research or build complex structures (buildings) because they can harm people. The rise of the use of the internet, AI, mobile platforms, and even social media and identity can harm both individuals and society. These threats are emerging faster and faster, and it has become essential to have professionals understand their implications before they are simply released to regular people or companies. In addition to threats, most organizations are not able to realize the benefits of new technologies in a repeatable way. Agility, AI, Cloud, Mobility, Digital Transformation, Manufacturing, and much more suffer from poor learning, delivering poor results primarily due to a lack of skilled and capable teams and leaders. The randomized backgrounds and skill sets of role-based architects are unlikely to be able to scale to achieve these needed results. 
 
-- **Severe Deman/Quality Problems:** The demand for high-quality architecture professionals is growing daily. This demand can no longer be met in the role-based education methods. The system has tens if not hundreds of thousands of opportunities where a skilled architect is needed and yet no consistent method of generating them. This makes it extremely important to create a consitent and repeatable method for generating architects globally. Due to the other reason it is even more important that this be externally managed by the professionals themselves so that corporate interests do not negate the benefits. Due to this demand growth and the likely hood that it will continue for many decades it becomes very important that a managed profession emerge to meet those demands. 
+- **Severe Deman/Quality Problems:** The demand for high-quality architecture professionals is growing daily. This demand can no longer be met in the role-based education methods. The system has tens if not hundreds of thousands of opportunities where a skilled architect is needed and yet no consistent method of generating them. This makes it extremely important to create a consistent and repeatable method for generating architects globally. Due to the other reason it is even more important that this be externally managed by the professionals themselves so that corporate interests do not negate the benefits. Due to this demand growth and the likely hood that it will continue for many decades it becomes very important that a managed profession emerge to meet those demands.
 
 ### Benefits of a Managed Profession
 

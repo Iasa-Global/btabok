@@ -11,7 +11,7 @@ tags:
 ---
 
 > "A service is a logical representation of a repeatable activity that has a specified outcome. It is self-contained and is a 'black box' to its consumers." 
-**Open Group, Service-Oriented Architecture Ontology Version 2.0**
+> **Open Group, Service-Oriented Architecture Ontology Version 2.0**
 
 # What is a Service
 
@@ -40,12 +40,11 @@ processes and technology, a service may also be composed of people who
 provide the service, process which describes the workings of the service
 and technology which automates the service.
 
-![image001](media/services_overview1.png) 
+![Screenshot 2024-07-02 at 14.51.19.png](../../media/a29347b318b06bdc8c49150f124d054436279955.png)
 
 In this article services are considered in two contexts:
 
-- **business service** -- services which provide business value from
-  the capability to the consumer
+- **business capability** -- a business capability which provide measured business value from the capability to the consumer
 
 - **technical services** -- automated services using technology to
   provide value to the consumer
@@ -259,7 +258,6 @@ capability, where "Customer Details" are required from the consumer, and
 the result of the interaction is that the consumer receives a "Customer
 Membership Number".
 
- 
 [![image001](media/services_canvas4.png)](https://iasa-global.github.io/btabok/service_contract_canvas.html){:target="_blank"}
 
 **Step 2: Service Level Agreement**
@@ -338,7 +336,6 @@ describe. It recommended to start with the simple commonplace scenarios
 before tackling more complex or special case scenarios.
 
 Detail the expected outcome the service will provide from the scenario.
-
 
 [![image001](media/services_canvas5.png)](https://iasa-global.github.io/btabok/service_blueprint_canvas.html){:target="_blank"}
 
@@ -444,7 +441,6 @@ When working with the Service Domain Canvas it is recommended that a workshop me
 **Step 1: Confirm the Service Domain**
 
 To start the workshop make a short statement describing the Service Domain and ensure that all participants in the workshop are agreed upon the scope and context of the Service Domain.
-
 
 [![image001](media/services_canvas7.png)](https://iasa-global.github.io/btabok/service_domain_canvas.html){:target="_blank"}
 
