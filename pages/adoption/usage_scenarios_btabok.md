@@ -71,7 +71,7 @@ Design methodologies for architecture are relatively difficult to find, especial
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. Rotation, technical depth vs breadth, and specialization.
 
-1. [Mentoring in Architecture](mentoring.md)
+1. [Mentoring in Architecture](../btabok_overview/mentoring.md)
 
 ## Legacy Systems Modernization
 
