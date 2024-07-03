@@ -47,21 +47,15 @@ Here is the starting list of scenarios,  feel free to add additional scenarios a
 
 The competency model of the BTABoK is at the core of the practice. It is the most robust and well-documented competency model for architects on the market. In this article we are going to evaluate methods for adoption and their benefits to your organization.
 
-## What's With All the Canvases
+## Authoring For the BTABoK
 
 This series of articles describes the Structured Canvas Approach and how to use it. It lays out basic artifact relationships to the scenarios in this document and describes other aspects like relationships to architecture tools, storage of models/canvases, and implementation patterns in lifecycles and deliverables.
 
-- An Overview of the Structured Canvas/Concept Approach
+- Found an Error
+
+- Updating an Article
 
 - [Creating/Updating a Canvas](../btabok_overview/creating_a_canvas.md)
-
-- Understanding Sub-Groupings of Canvases
-
-- Core Canvases Maybe All You Need
-
-- From Canvas to Tools and Back (Why We Need Better Tools)
-
-- Usage in the Real World
 
 ## Designing with the BTABoK Series
 
@@ -77,6 +71,8 @@ Design methodologies for architecture are relatively difficult to find, especial
 
 As an aspiring architect, whether you are more of a developer or fill another role, your number 1 goal should be to understand where you fall in the competency model. This you can do through the free assessment at assessments.iasaglobal.org. Rotation, technical depth vs breadth, and specialization.
 
+1. [Mentoring in Architecture](mentoring.md)
+
 ## Legacy Systems Modernization
 
 The demands on business to meet customer needs are a key factor in maintaining competitiveness. A common challenge faced by business is the management, replacement, and decommissioning of legacy systems. What happens when your key IT systems just aren’t keeping up with the demands of the business? Perhaps the system no longer fits with the business process and is too expensive to change, or the maintenance costs are seriously cutting into your profit margin. Perhaps it is a change in the direction or strategy of the business which means that the IT landscape needs to change.
@@ -90,5 +86,3 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 This article explores the relationship to architects, emergent design, and tasks associated with architecture in an extended team model. It looks at architecture competencies and their application to non-architect roles and how to utilize the BTABoK in those environments as well as the tradeoffs necessary to make that work. In addition, we will discuss a full architect position and how to execute successfully in multiple fast-paced teams. 
 
 - [How Much Architecture and When?](../btabok_overview/how_much_architecture_and_when.md) 
-
-## 
