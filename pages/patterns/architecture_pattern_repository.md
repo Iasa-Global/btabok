@@ -111,6 +111,21 @@ Patterns can be classified according to the following broad disciplines:
                  </div>
              </div>
          </div>
+          <div class="col-md-4 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-plus-circle fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Ambassador Pattern</h4>
+                     <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
+                     <a href="aggregator_pattern.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
                  <div class="panel-heading">
