@@ -122,7 +122,7 @@ Patterns can be classified according to the following broad disciplines:
                  <div class="panel-body">
                      <h4>Ambassador Pattern</h4>
                      <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
-                     <a href="aggregator_pattern.html" class="btn btn-primary">Learn More</a>
+                     <a href="ambassador_pattern.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
