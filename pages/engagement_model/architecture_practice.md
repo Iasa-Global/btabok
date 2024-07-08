@@ -143,6 +143,22 @@ As a part of the practice and engagement model there should be clear objectives 
 
 [![image001](media/a_p005.png)](https://iasa-global.github.io/btabok/architect_team_goals_canvas.html){:target="_blank"}
 
+## Architects and Change/Transformation
+
+The BTABoK is heavily weighted towards a transformation based practice model. That means the entire BTABoK is oriented towards innovation, change, transformation and not run the business or design a business narratives. This focuses the architecture practice on business and technology strategy and execution.
+
+### The BTABoK and Demand Management
+
+![Value Capture - Page 3 (1).svg](../../media/1f9c9ecf6cd2442875532a90cad198eb819f2e6a.svg)
+
+The suggested primary demand management method for architects in an enterprise landscape is a paring of business architects (which follow the competency model) with relationship managers and business owners. The business architects are directly aligned with solution architects which they bring in very early in innovation and experimentation. This creates a shared ownership of strategy, structure, value and decisions between strategy and execution. It is necessary in this model to deeply align business and solution architects and their deliverables. 
+
+<img title="" src="../../media/1ab7c9498a0081b0fd68cfc0ab6cf42538c61879.png" alt="bus2sol.png" width="555">
+
+
+
+
+
 ## Growing Acceptance/Awareness
 
 The architecture practice as a whole, not just the steering body must represent itself as a professional group that serves a valuable and essential function of the enterprise. It also must strive to demonstrate this to the industry. The purpose of the first is to always grow awareness around how the organization perceives architecture as an organizational capability. The purpose of the second is to ensure that the organization is desirable as an employer or client in the architecture community and profession. This is also a secondary outcome of the presentation and contribution of thought leadership back into the community of architects.
