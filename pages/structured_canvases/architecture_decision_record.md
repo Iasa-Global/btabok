@@ -21,10 +21,6 @@ Overall, ADRs offer several significant benefits. They foster informed decision-
 - **Traceability and Consistency:** ADRs help trace architectural decisions back to business requirements and ensure consistency in architectural approaches over time.
 - **Reduced Risks:** By carefully documenting the rationale behind decisions, ADRs help mitigate risks associated with changing architectural direction.
 
-![Screenshot 2024-03-28 at 11.39.29.png](../../media/7d34222be8e8f4fb719156dd93bd0eaf0a186d09.png)
-
-![](../../media/4452948d1341f45845fc33bdc0cd36031f720d58.svg)
-
 ## How to use this card
 
 
