@@ -41,7 +41,8 @@ This method is built to optimize value streams and large solutions which require
 
 <div role="tabpanel" class="tab-pane" id="assessment">
     <h2>Assessment</h2>
-    <img src="\media\QATTCard001.png">
+    <img src="media\QATTCard001.png">
+    <img src="media/QATTCard001.png">
     <img src= "https://github.com/Iasa-Global/btabok/blob/main/pages/top_menu/media/QATTCard001.png" width="1200" height="900" alt="Assessment"> 
     <p>Architecture Assessments are the methods employed to design, review and assess architecture choices against options and to review the choices made in relation to the outcomes expected in the product/project. The goals of assessment are to find missing elements of architecture, things that wont meet quality attribute requirements or design tradeoffs that are not effective for the intended purpose.</p>
 </div>
