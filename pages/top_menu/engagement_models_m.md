@@ -41,14 +41,12 @@ This method is built to optimize value streams and large solutions which require
 
 <div role="tabpanel" class="tab-pane" id="assessment">
     <h2>Assessment</h2>
-     <img src="media/QATTCard001.png" alt="Assessment" width="500" height="600"> 
-   
+    <img src="\media\QATTCard001.png"  width="100%" height="100%" alt="Assessment"> 
     <p>Architecture Assessments are the methods employed to design, review and assess architecture choices against options and to review the choices made in relation to the outcomes expected in the product/project. The goals of assessment are to find missing elements of architecture, things that wont meet quality attribute requirements or design tradeoffs that are not effective for the intended purpose.</p>
 </div>
 
 <div role="tabpanel" class="tab-pane" id="agiledevOps">
     <h2>Agile DevOps</h2>
-    
     <img src= "https://btabok.iasaglobal.org/media/agiledevOps001.png" alt="Agile DevOps"> 
     <p>Agile DevOps delivery is the heart of most development and IT shops. The ITABoK makes plenty of room for both agile and traditional methods. The basis for the ITABoK is bottom up architecture, meaning architects are actively involved during delivery not in up front design. This means that architects are actively engaged with teams, projects, products and value streams in the business.</p>
 </div>
