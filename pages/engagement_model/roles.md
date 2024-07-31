@@ -167,6 +167,12 @@ It is very common for professionals to provide 'secondary benefits'. This phrase
 
 It is absolutely essential that secondary benefits nor other role activities not be construed as the primary purpose of the profession. This results in the utter chaos of the current professional marketplace. For example, the phrase 'going native' is often applied to software architects who double as software engineers. And many business and enterprise architects use the phrase 'architecting the business' which is an abuse of the term as it implies that the secondary benefit of having a part in the design of a business strategy is their primary function. As a side note, even this expression is inaccurate as architecture is not a verb and thus it should have been 'designing the business'. This is a point of serious contention in the industry, though the BTABoK method clarifies this very specifically. Architecture as used in the modern enterprise and not referring to protected uses such as building or marine architecture is business technology strategy and decision rights protection, methods and competencies extend only to business/technical strategy and execution.  
 
+## Architects and Change/Transformation
+
+The BTABoK is heavily weighted towards a transformation based practice model. That means the entire BTABoK is oriented towards innovation, change, transformation and not run the business or design a business narratives. This focuses the architecture practice on business and technology strategy and execution. 
+
+The BTABoK and 
+
 ## Architects Wear Multiple Masks
 
 In many cases, architects must act as different types of people to accomplish their goals and the outcomes and value of the profession.

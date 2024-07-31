@@ -11,7 +11,7 @@ tags:
 ---
 
 > "It takes leadership to improve safety."
-**Jackie Stewart**
+> **Jackie Stewart**
 
 # Introduction
 

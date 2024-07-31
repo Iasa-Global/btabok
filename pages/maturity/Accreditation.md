@@ -6,6 +6,7 @@ toc: true
 permalink: accreditation.html
 folder: top_menu
 summary: ""
+
 ---
 
 ## Accreditation Method for the BTABOK Partnership Program

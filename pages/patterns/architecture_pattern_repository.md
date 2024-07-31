@@ -18,7 +18,19 @@ Developers must design clean, clearly designed code to avoid bug creep into the 
 
 However, it is not required to solve all problems “from scratch”. It is preferable to learn from and deploy the lessons from the captured experiences of other designers.
 
-Design Patterns are reusable solutions to common problems in software system design.
+### Definitions
+
+The purpose of this library is to create a central pattern language which aids in the delivery of architecture. First some basic vocabulary. 
+
+Design Pattern - Design Patterns are reusable solutions to common problems in software system design.
+
+Reference Design or Architecture - A combination of patterns and design decisions that work well together to solve a larger scoped technical or business problem. 
+
+Design or Architecture Style - a connected suite of patterns which enable a design direction across a multi-application roadmap. 
+
+[Principles](../engagement_model/principles.md) - a suite of decisions which have been selected by an architecture practice. 
+
+![](diagrams/overview.drawio.svg)          
 
 ## History of Design Patterns
 
@@ -67,15 +79,9 @@ The specification of a Design Pattern is usually subjective. However, most speci
 | Usage scenario         | Where this pattern would be applicable                                                                                                                                                |
 | Structure              |  How to construct an implementation based on this pattern                                                                                                                             |
 | Stakeholders           | Other entities with whom the construct in question would interact, and how the interaction would take place. The individual responsibilities of all the actors in the given scenario. |
-| Expected Behaviour     | The consequences of the usage of the pattern in a given situation                                                                                                                     |
+| Expected Behaviour     | The consequences of the usage of the pattern in a given situation    
 
-## Classification of Pattern Types
-
-Patterns can be classified according to the following broad disciplines:
-
-* Reference Models
-* Architecture Styles
-* Design Patterns
+                                                                                 |
 
 ## Catalog of Patterns
 
@@ -94,6 +100,8 @@ Patterns can be classified according to the following broad disciplines:
 2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
 
 3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
+
+4 [Reference Architectures](https://medium.com/geekculture/reference-architectures-e98595545baa)
 
 <div class="row">
          <div class="col-md-4 col-sm-6">

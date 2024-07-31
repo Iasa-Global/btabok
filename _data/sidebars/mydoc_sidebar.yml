@@ -347,6 +347,10 @@ entries:
       url: accreditation.html
       output: web
 
+    - title: Mentoring Programs
+      url: mentoring.html
+      output: web
+
   - title: Topic Areas
     output: web
     folderitems:

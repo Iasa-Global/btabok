@@ -187,9 +187,9 @@ The following tools and techniques can be useful in managing architecture decisi
 
 ## Decision Bias Calibrator
 
-[![image001](media/decisions008.png)](https://iasa-global.github.io/btabok/architecture_decision_cascade_card.html){:target="_blank"}
+[![image001](media/decisions004.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_1.html){:target="_blank"}
 
-[![image001](media/decisions009.png)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
+[![image001](media/decisions005.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
 
 # References
 

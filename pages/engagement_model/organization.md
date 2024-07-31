@@ -120,6 +120,10 @@ Use these areas of the canvas to describe elements of the current people model, 
 
 This area relates to the overall quality of the current/future capability. It describes efficiency of the practice (how lean and focused it is) versus its efficacy (how well it compares with architecture capability in the marketplace). These two ratings will allow the organization to target specific areas of improvement in the practice.
 
+Architects 
+
+This area relates to the overall quality of the current/future capability. It describes efficiency of the practice (how lean and focused it is) versus its efficacy (how well it compares with architecture capability in the marketplace). These two ratings will allow the organization to target specific areas of improvement in the practice.
+
 # Lines of Reporting and the Organization
 
 One of the most difficult areas to achieve balance in an architecture organization is reporting structure. There are numerous types of reporting structures which impact the organization in both positive and negative ways.
