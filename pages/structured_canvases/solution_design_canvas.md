@@ -46,7 +46,7 @@ Guide the team to reach a concise, shared problem statement. Write this prominen
 
 ## Downloads
 
-[Download PPT](media/ppt/business_model_canvas.ppt){:target="_blank"}
+[Download PPT](media/ppt/solution_design_canvas.pptx){:target="_blank"}
 
 ## Canvas Sections and Links to BTABoK
 
