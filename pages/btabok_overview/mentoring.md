@@ -16,8 +16,6 @@ As the landscape of business and technology evolves, the role of Business Techno
 
 A mentoring program aims to provide BT Architects with the knowledge, skills, and guidance needed to excel in their roles and drive successful business transformations. But it also serves to protect clients and the public from unhealthy practices and damaging technology. It ensures not just that the person has learned something but that they are qualified to provide guidance in business technology direction. Mentoring is the backbone of a healthy and mature profession. 
 
-Why is this Important
-
 ## Understanding Mentoring
 
 There are three broad areas of architecture mentoring. These correspond to the career level of the architect and the goal of the mentoring as mentoring activities need to be slightly different for each area and type of learning and experience acquisition.
