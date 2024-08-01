@@ -14,15 +14,15 @@ tags:
 
 As the landscape of business and technology evolves, the role of Business Technology(BT) Architects becomes increasingly critical. To support the development of these professionals, the profession needs a comprehensive mentoring method to guide the development of architect competencies and measured results.
 
-A mentoring program aims to provide BT Architects with the knowledge, skills, and guidance needed to excel in their roles and drive successful business transformations. The program combines structured components with flexible, free mentoring hours to create a well-rounded and supportive learning environment. 
+A mentoring program aims to provide BT Architects with the knowledge, skills, and guidance needed to excel in their roles and drive successful business transformations. But it also serves to protect clients and the public from unhealthy practices and damaging technology. It ensures not just that the person has learned something but that they are qualified to provide guidance in business technology direction. Mentoring is the backbone of a healthy and mature profession. 
+
+Why is this Important
 
 ## Understanding Mentoring
 
 There are three broad areas of architecture mentoring. These correspond to the career level of the architect and the goal of the mentoring as mentoring activities need to be slightly different for each area and type of learning and experience acquisition.
 
 ![e943e5b33c14cc6629b7b7438a3150bff42c331c.jpg](../../media/8983d36fb310234d9fb66b40c62c8f78a02347f9.jpg)
-
-
 
 ### 1. Early Stage Mentoring
 
@@ -108,21 +108,31 @@ The Iasa Global Mentoring Program for BT Architects is structured to address the
 
 #### Structured Learning
 
-The core of the mentoring program is a series of structured learning modules designed to provide comprehensive coverage of BT architecture principles and practices.  
+A mentoring program must have enough structured learning to cover both the concepts and the competencies of architecture to support the early-stage growth of an architecture professional. 
 
-6. Introduction to BT Architecture: An overview of BT architecture, its importance, and its role in the ecosystem. 
+##### Learning Tasks
 
-7. BT Strategy and Planning: Techniques for developing and implementing effective BT strategies. 
+The primary concepts in mentoring are the learning tasks that demonstrate the competency model. The following shows example mentoring tasks would would be used by the mentor to develop particular architecture competencies. Each task is be aligned with a managed competency (or more than one). The mentee must show progress in the competency by delivering higher and higher quality outputs on tasks and assignments. 
 
-8. Architecture Frameworks and Methodologies: Exploration of popular frameworks and methodologies used in BT architecture. 
+<img title="" src="../../media/a743115530def7b5a59ae0ef0b557a83555bc425.svg" alt="Your paragraph text (1).svg" width="301" data-align="inline">
 
-9. Technology Integration and Innovation: Strategies for integrating new technologies and fostering innovation within an organization. 
+The core of the mentoring program is a series of structured learning modules which provide tasks to the architects designed to provide comprehensive coverage of BT architecture principles and practices.  Examples of the categories of skills developed are:
 
-10. Change Management and Leadership: Approaches to leading change and managing the human aspects of business transformation. 
+1. Introduction to BT Architecture: An overview of BT architecture, its importance, and its role in the ecosystem. 
 
-11. Metrics and Value Measurement: Tools and techniques for measuring the success and impact of BT initiatives. 
+2. BT Strategy and Planning: Techniques for developing and implementing effective BT strategies. 
 
-Each module includes readings, case studies, practical exercises, and assessments to ensure thorough understanding and application of the material. 
+3. Architecture Frameworks and Methodologies: Exploration of popular frameworks and methodologies used in BT architecture. 
+
+4. Technology Integration and Innovation: Strategies for integrating new technologies and fostering innovation within an organization. 
+
+5. Change Management and Leadership: Approaches to leading change and managing the human aspects of business transformation. 
+
+6. Metrics and Value Measurement: Tools and techniques for measuring the success and impact of BT initiatives. 
+
+7. Stakeholder Management: Tools for understanding and working with people. 
+
+Each module includes readings, case studies, practical exercises, and assessments to ensure a thorough understanding and application of the material. 
 
 #### Mentoring Circles
 
