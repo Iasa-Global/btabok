@@ -1,4 +1,5 @@
 ---
+
 title: Manifesto
 tags: [business_model]
 keywords:
@@ -6,7 +7,9 @@ summary: "Iasa Global's position and principles on the practice of business tech
 sidebar: mydoc_sidebar
 permalink: manifesto.html
 folder: manifesto
+
 ---
+
 Our collective experience designing and building complex systems and providing technology strategy guidance to our clients and employers led the members of Iasa Global to create the Business Technology Architecture Body of Knowledge (BTABoK), now in its third edition. Our aim was to create a body of knowledge to teach, guide, and lead fellow architects to advance their skills in our profession, creating increased value for our clients and employers through better and more reliable outcomes. The BTABoK consists of a core set of compentencies in five pillars:
 
 - Buisness Technology Strategy
