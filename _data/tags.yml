@@ -1,0 +1,33 @@
+# Note:
+# If you are using the createtag script, don't leave a blank line at the end of this file.
+# In other words, the last line must be the last tag in the allowed-tags list. 
+allowed-tags:
+  - digital_customer
+  - digital_business
+  - digital_employee
+  - digital_operations
+  - operating_model
+  - value_model
+  - people_model
+  - architecture_practice
+  - business
+  - business_capabilities
+  - chief
+  - engagement_model
+  - core
+  - information
+  - infrastructure
+  - software
+  - solution
+  - business_technology_strategy
+  - human_dynamics
+  - design
+  - it_environment
+  - quality_attributes
+  - business_architecture
+  - information_architecture
+  - infrastructure_architecture
+  - software_architecture
+  - btabok_adoption
+
+# Copyright 2022 IASA

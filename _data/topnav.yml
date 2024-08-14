@@ -1,0 +1,39 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: GitHub
+      external_url: https://github.com/Iasa-Global/btabok
+    #- title: News
+    #  url: /news
+
+#Topnav dropdowns
+
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: BTABoK
+      folderitems:
+        - title: Getting Started
+          url: get_started_m.html
+        - title: Manifesto
+          url: manifesto.html
+        - title: Engagement Model
+          url: engagement_models_m.html
+        - title: Competency Model
+          url: competency_model_m.html
+        - title: Maturity Model
+          url: maturity_model_m.html
+        - title: Topic Areas
+          url: topic_areas_m.html
+        - title: Structured Canvases
+          url: structured_canvases_m.html
+        - title: Ethics and Principles
+          url: ethics_and_principles.html
+        - title: Dictionary
+          url: glossary.html
+        - title: Contributors
+          url: contributors.html               
+
+# Copyright 2022 IASA 
