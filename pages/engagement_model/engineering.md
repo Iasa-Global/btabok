@@ -65,8 +65,6 @@ The work on Jobs to Be Done focuses on what a customer is trying to do, not what
 
 The strategy has done fantastic work with the JTBD canvases. They provide significant business thought leadership, and their work can be found here: [https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/?gclid=CjwKCAiA6seQBhAfEiwAvPqu17VCLBjeX6BJ7DbeMNrvkm2zld5N98Qbt0qSiidyuRmYFNz1ZVWOKRoCvqkQAvD_BwE){:target="_blank"}. Their canvases have offered many of the thought patterns that shaped the customer elements of the BTABoK Structured Canvas Approach.
 
-
-
 # Strategies for Engineering
 
 Good customer focus aims to understand their needs and match them. Connecting this to technology to drive a digital business model is… digital transformation. Succeeding is Digital Advantage. The development of a customer-driven engagement model takes much time and patience.
@@ -80,8 +78,6 @@ The first step in driving digital customer engagement is adjusting the engagemen
 Architects work towards objectives measured by numerous stakeholders (including the customers themselves) and need to define what a great set of annual objectives and key results would be based on being customer-focused. Architecture practices should create a set of OKRs that relate to customer engagement. Example or standard metrics have been provided as a starting point at the end of this article.
 
 The goal of the objectives includes the entire spectrum of architects and how their objectives align with each other. This is the most challenging part of an architecture practice but is especially difficult for architects to report to entirely different groups. The business architect’s objectives in driving digital engagement must merge effectively with the infrastructure or software architects. The goal of the activity is to create, discuss and maintain these objectives while measuring actual outcomes for the architecture practice overall.
-
-
 
 ## Doing Engagement Work with Product Management
 

@@ -11,9 +11,9 @@ tags:
 ---
 
 > "A group of businesses or business activities that affect each other and work well together"
-**definition of Ecosystem, Cambridge Dictionary**
+> **definition of Ecosystem, Cambridge Dictionary**
 
-# What is the Ecosystem 
+# What is the Ecosystem
 
 The Ecosystem represents the external environment within which an organization participates, interacts and is affected by other parties in
 the ecosystem. Typical parties in an ecosystem are:
