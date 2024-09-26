@@ -12,6 +12,7 @@ folder: patterns
 
 *Grady Booch, Design Patterns: Elements of Reusable Object-Oriented Software*
 
+
 ## Design Patterns
 
 Developers must design clean, clearly designed code to avoid bug creep into the system, and avoid complexity. Designing a system is not easy.
@@ -81,7 +82,8 @@ The specification of a Design Pattern is usually subjective. However, most speci
 | Stakeholders           | Other entities with whom the construct in question would interact, and how the interaction would take place. The individual responsibilities of all the actors in the given scenario. |
 | Expected Behaviour     | The consequences of the usage of the pattern in a given situation    
 
-                                                                                 |
+
+## Classification of Pattern Types
 
 ## Catalog of Patterns
 
