@@ -11,7 +11,7 @@ tags:
 ---
 
 > "Quality is never an accident. It is always the result of intelligent effort."
-**John Ruskin**
+> **John Ruskin**
 
 # What are Quality Attributes
 
@@ -37,7 +37,7 @@ The following table lists a partial set of quality attributes for software proje
 | Scalable  | Securable (confidential, data integrity, available)  | Sustainable  |
 | Testable (compliant)  | Usable  |   |
 
-# In practice 
+# In practice
 
 We will show how to get started with analyzing a project for quality attributes and establishing the development effort as part of an architectural runway.  The software architect, by virtue of seeing most of the solution to be developed, can follow a process below for translating quality attribute statements (proto-requirements) into backlog and eventually a system which embodies these values. 
 
@@ -59,11 +59,11 @@ Finally, the architect may need to provide guidance on what should happen in neg
 
 So, if fundamentally, this is only five steps, how hard could it be? 
 
-1.  Identify key quality attributes in a short list and prioritize them
-2.  Develop epic scope statements for the top 1-5 quality attributes 
-3.  Break these down for each into specific backlog enablers and guidance 
-4.  Identify tools involved and method to monitor achievement across the program increments 
-5.  Plan for negative scenarios 
+1. Identify key quality attributes in a short list and prioritize them
+2. Develop epic scope statements for the top 1-5 quality attributes 
+3. Break these down for each into specific backlog enablers and guidance 
+4. Identify tools involved and method to monitor achievement across the program increments 
+5. Plan for negative scenarios 
 
 Well, the best laid plans rarely survive first contact with the enemy.  This is an analytical strategy that assumes we have very good information about our environment, that the statements can be broken down into tasks which will cover all contingencies in those environments, and that nothing changes by the time we deploy.   
 
@@ -71,7 +71,7 @@ Does that mean that all hope is lost?  No.  But we need to watch a couple thin
 
 For the first steps, we may use a canvas or card like the one shown below to capture our starting point: epic title, principles, enablers (suggested to be put in Backlog or Jira), and monitoring strategy. 
 
-![image001](media/q_a002.png)
+[![image001](media/q_a002.png)](https://iasa-global.github.io/btabok/quality_attributes_canvas.html){:target="_blank"}
 
 ## A quality attribute planning canvas
 
@@ -80,34 +80,34 @@ Under design principles, we may start with some organizational standards or anal
 
 Filling in the enabler architecture runway also seems deceptively simple, so take a look at the sample below for a security epic for the number of sub-tasks identified through a series of meetings with the team, stakeholders, and outside security consultants on a relatively non-complex development.  This part of the card may involve a series of discussions and prioritization within the epic -- several whiteboards may be erased during the process. 
 
--   Define operational trust levels (3) for the application 
--   Define secure networking approach 
--   Firewalls and communication pattern monitoring 
--   Inter-site communications over TLS 
--   VPN and second factor for tunnels 
--   Data in flight encrypted from terminal/endpoint to destination service; intermediate services cannot decrypt traffic 
--   Define secure compute platform 
--   API authentication mechanism (user ID's from OAuth, JWT tokens) 
--   API roles and authorization in features 
--   Use of vault for secrets (passwords, certificates, credentials) 
--   Regular rotation of credentials 
--   Antimalware on platform 
--   Hosting platform controls 
--   Define secure storage platform 
--   Selection of a database supporting encrypted columns 
--   Database access controls (user ID's, roles, server-to-server tunnel) 
--   No direct database access (must be through API or components) 
--   Data at rest will be encrypted with XYZ standard; only certain PII will be retained (identify fields) 
--   Application development standards 
--   Code modules signed 
--   Containers and applications scanned 
--   Vulnerability testing plan with external test organization 
--   Integration standards with partners 
--   Regular operational reviews 
--   Rolling passwords 
--   Only certain partner methods in use; 1000-eyes reports from partner 
--   Registered endpoints with back-end partner 
--   Written standards for integration 
+- Define operational trust levels (3) for the application 
+- Define secure networking approach 
+- Firewalls and communication pattern monitoring 
+- Inter-site communications over TLS 
+- VPN and second factor for tunnels 
+- Data in flight encrypted from terminal/endpoint to destination service; intermediate services cannot decrypt traffic 
+- Define secure compute platform 
+- API authentication mechanism (user ID's from OAuth, JWT tokens) 
+- API roles and authorization in features 
+- Use of vault for secrets (passwords, certificates, credentials) 
+- Regular rotation of credentials 
+- Antimalware on platform 
+- Hosting platform controls 
+- Define secure storage platform 
+- Selection of a database supporting encrypted columns 
+- Database access controls (user ID's, roles, server-to-server tunnel) 
+- No direct database access (must be through API or components) 
+- Data at rest will be encrypted with XYZ standard; only certain PII will be retained (identify fields) 
+- Application development standards 
+- Code modules signed 
+- Containers and applications scanned 
+- Vulnerability testing plan with external test organization 
+- Integration standards with partners 
+- Regular operational reviews 
+- Rolling passwords 
+- Only certain partner methods in use; 1000-eyes reports from partner 
+- Registered endpoints with back-end partner 
+- Written standards for integration 
 
 The monitoring and testing of the attributes goes through a series of maturity steps as the environment becomes more realistic.  For instance, we may start with virtual machines in an easily obtained environment to evaluate a first prototype.  Our testing may be limited to throughput on a performance aspect of the solution, testing whether the core algorithm or workflow is workable (in the right ballpark).  We may move to a second environment where we are distributed on different types of hardware that our customer may have; again, we will measure our performance attribute and may introduce other scenarios like diversity of workloads representative of the "real world."  Finally, we may get close to go-live with a pre-production replica in the customer's environment for more testing, adding the negative conditions -- timing interactions or other hard-to-simulate tests.   
 
@@ -121,11 +121,11 @@ Quality attributes are an area heavily influenced by our experience and ability 
 
 QA failures happen in *all* organizations -- large ones with many resources and well-known names, ones with very smart technology architects, through to small organizations with big responsibilities.  When systems are moved into environments they were not designed for, or a quality attribute previously thought not important enough to design becomes acute, the results are often dramatic: 
 
--   Security failures leading to loss of revenue, loss of personal information or intellectual property, and breach of customer trust 
--   Accessibility failures leading to compliance violations and lost customers 
--   Safety failures in medical, aircraft and manufacturing equipment leading to loss of life or injury 
--   Performance failures on public sector web sites leading to inaccessible benefits 
--   Availability and reliability failures leading to late payment reconciliation, or worse all-night operational troubleshooting situations (yeah, you've been on those calls)! 
+- Security failures leading to loss of revenue, loss of personal information or intellectual property, and breach of customer trust 
+- Accessibility failures leading to compliance violations and lost customers 
+- Safety failures in medical, aircraft and manufacturing equipment leading to loss of life or injury 
+- Performance failures on public sector web sites leading to inaccessible benefits 
+- Availability and reliability failures leading to late payment reconciliation, or worse all-night operational troubleshooting situations (yeah, you've been on those calls)! 
 
 Certain quality attributes may seem to pair well together -- for example, reliability and availability -- while others may have natural tension between them: usability and security.  Some may have specific compliance requirements while others may be quality observations made by an actual or persona-driven customer.  Quality attributes are some of the most difficult system aspects for a software architect to balance. 
 
@@ -143,7 +143,7 @@ The business sponsor says that your component needs to be 99.99% available (~5
 
 ![image001](media/q_a003.png)
 
-## Example system under analysis for high availability 
+## Example system under analysis for high availability
 
 In addition to listing some of the hidden dependencies in our solution (lower right) -- certificates that may expire, a Kubernetes host environment that might restart our program, hardware that might fail, networking connections which might be unavailable -- we must predict some of the threats to availability from our environment such as client disconnects, service provider being down, or even a store being destroyed by natural disaster.  We may have to do "chaos" testing -- knocking out pieces of the system randomly, to simulate failures.  To identify what happens as a result of each of these losses of capabilities, we will have to restore operations through architected use of retry logic, transactions, guaranteed persistence mechanisms (quorum), etc. -- even for a 2-node system like this.  Our business sponsor should certainly be made aware of the increased resources, costs, and complexity from the simple, initial statement! 
 
@@ -153,18 +153,18 @@ In addition to listing some of the hidden dependencies in our solution (lower r
 
 We have identified five primary pitfalls to successfully architecting quality attributes: 
 
-1.  Edge conditions may not be obvious -- brainstorm and use the team's and the customers' experiences to build a list of tests or failure modes periodically 
-2.  The gap between the test environment and the target (real-world) environment may miss some characteristics or it may be impossible to test situations without having the target environment 
-3.  The conditions or definition of the attribute may change over time, revisit it on a periodic basis 
-4.  The team may not have resources needed to implement the complete attribute scope, and  
-5.  Decisions made inside the team may not be visible to the architect -- a developer may implement a feature in a certain way that detracts from quality and the impact may not be seen until later.  Agile refactoring and regular peer reviews can help catch these earlier. 
+1. Edge conditions may not be obvious -- brainstorm and use the team's and the customers' experiences to build a list of tests or failure modes periodically 
+2. The gap between the test environment and the target (real-world) environment may miss some characteristics or it may be impossible to test situations without having the target environment 
+3. The conditions or definition of the attribute may change over time, revisit it on a periodic basis 
+4. The team may not have resources needed to implement the complete attribute scope, and  
+5. Decisions made inside the team may not be visible to the architect -- a developer may implement a feature in a certain way that detracts from quality and the impact may not be seen until later.  Agile refactoring and regular peer reviews can help catch these earlier. 
 
 ## See also (other BTABOK articles):
 
--   [Requirements](requirements.md){:target="_blank"}, elicitation 
--   Residual [design](design.md){:target="_blank"}, evolutionary architecture 
--   Testing [strategies](strategy.md){:target="_blank"}
--   [Agile process](agility.md){:target="_blank"}, architectural runway 
+- [Requirements](requirements.md){:target="_blank"}, elicitation 
+- Residual [design](design.md){:target="_blank"}, evolutionary architecture 
+- Testing [strategies](strategy.md){:target="_blank"}
+- [Agile process](agility.md){:target="_blank"}, architectural runway 
 
 # References and Further Reading
 

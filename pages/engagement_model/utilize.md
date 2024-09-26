@@ -61,15 +61,15 @@ The architecture team should regularly identify critical areas of the organizati
 
 Utilization should directly impact the jobs that an induvial does and how they execute that job.
 
--   More than 50 percent of newly launched products fall short of the company's projected expectations.
--   Only 1 in 100 new products covers its development costs.
--   Only 1 in 300 new products has a significant impact on customer purchase behaviour, the product category, or the company's growth trajectory.
+- More than 50 percent of newly launched products fall short of the company's projected expectations.
+- Only 1 in 100 new products covers its development costs.
+- Only 1 in 300 new products has a significant impact on customer purchase behaviour, the product category, or the company's growth trajectory.
 
 ![image001](media/utilize001.png)
 
 The Customer articles go into JBTD in significant detail, but notice that is infact is seeking to understand utilization from the provider and not features or measurements. It is experiential initially which then drives understanding of important measures, correlation to outcomes, and fuels innovation.
 
-![image001](media/utilize002.png)
+[![image001](media/utilize002.png)](https://iasa-global.github.io/btabok/strategyn_jtbd_canvas.html){:target="_blank"}
 
 Figure 1 Strategyn JTBD Canvas
 

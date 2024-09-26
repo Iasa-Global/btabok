@@ -10,15 +10,13 @@ tags:
   - software_architecture
 ---
 
-Description
-===========
+# Description
 
 All business and IT architecture have three critical components mainly Services, Workflow and Messaging, which comes under Software Architecture. But, not necessarily all business architectures cover all the aspects of Services, Workflow and Messaging, it actually depends upon the business model and various business drivers you are using to achieve the goal.
 
 Architects are expected to be able to recognize all the major components of the process, in defining the Service Component, Designing the Workflow and implementing the various Messaging protocols. It is important that framework must be able to define people, process, technology, and information channels based on the problem in-hand. We can define the Services and the people required to manage the same.
 
-Overview
-========
+# Overview
 
 While developing an organization's service model, an architect must define the top level business functions first. Once the business functions are defined, they are further sectioned into services that represent the processes and activities needed to manage the assets of an organization in their various states.
 
@@ -42,7 +40,7 @@ The Service Architecture should be design keeping in mind the below building blo
 -   Message Processing Logic (mostly used in web-service related architectures)
 -   Service Component (core service logic)
 
-### **Service Component Architecture (SCA)**
+**Service Component Architecture (SCA)**
 
 To Understand why SCA? It is first important to know what SCA? Service Component Architecture (SCA) is a set of specifications which describe a model for building applications and systems using a Service-Oriented Architecture (SOA). SCA extends and complements prior approaches to implementing services, and SCA builds on open standards such as Web services.
 
@@ -50,7 +48,7 @@ To Understand why SCA? It is first important to know what SCA? Service Component
 
 SCA is based on the idea that business function is provided as a series of services, which are assembled together to create solutions that serve a particular business need. These composite applications can contain both new services created specifically for the application and also business function from existing systems and applications, reused as part of the composition. SCA provides a model both for the composition of services and for the creation of service components, including the reuse of existing application function within SCA compositions.
 
-### **Designing Workflow**
+**Designing Workflow**
 
 Workflow? Workflow is fundamentally about the organization of work. It is a set of activities that coordinate people and / or software. Communicating this organization to humans and automated processes is the value-add that workflow provides to our solutions. Workflow may consist of other workflows (each of which may consist of aggregated services). The workflow model encourages reuse and agility, leading to more flexible business processes.
 
@@ -64,12 +62,12 @@ While Designing Workflow Architect may use two mode either a Textual or Graphica
 
 ![workflow_IASA](media/services_wm002.png)
 
-### **Workflow Reference Model**
+**Workflow Reference Model**
 
 ![workflow_referencemodel](media/services_wm003.png)
 
 **Building the Messaging Architecture**
----------------------------------------
+
 
 It is foremost important that the design of Messaging Architecture is such that the messaging framework must be capable of supporting the publish-and-subscribe MEP (Message Exchange Pattern) and associated complex event processing and tracking. One of the problems with the distributed systems built today is that they are fragile. As one part of the system slows down, the effect tends to ripple out and cripple the entire system. One of the primary design goals of ESB should be to eliminate that, the guideline should be available to developers to write code that is robust in production environments. That robustness prevents data loss under failure conditions.
 
@@ -101,8 +99,7 @@ The three basic message exchange patterns mostly followed are datagram, request-
 
 ![message_exchange_architecture](media/services_wm005.gif)
 
-Proven Practices
-================
+# Proven Practices
 
 -   SCA elements to be designed and divided in logical groups for better manageability.
 -   Develop an architecture that can Masks the complexity of heterogeneous technology
@@ -117,8 +114,7 @@ Proven Practices
 -   Subject matter experts need to be involved in all stages of development they can be both Functional expert and technical expert to ensure unique process is discovered for each of the services.
 -   The key challenge is also to identify the appropriate approach required for each project and selling to the stakeholders, even when they hold a different view.
 
-Methods and Processes
-=====================
+# Methods and Processes
 
 Design requires the use of techniques, tools, patterns, methodologies, and a host of other tools to assist in providing predictable, repeatable success. There is both art and science in architecture, but leveraging methods and processes will help architects be effective at designing solutions
 
@@ -142,7 +138,7 @@ Design requires the use of techniques, tools, patterns, methodologies, and a hos
 -   Learner will be able to explain how an architect applies design patterns and common design principles in the design process.
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Learner will be able to explain SCA (Service Component Architecture).
 -   Learner will be able to define and design the Workflow across business
@@ -153,7 +149,7 @@ Design requires the use of techniques, tools, patterns, methodologies, and a hos
 -   Learner will be able to explain how to focus on design simplicity and still meets customer's needs.
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   Learner will be able to drive the introduction of new design methods and processes into the organization
 -   Learner will be able to mentor team for designing of Service Architecture, Workflow Implementation and Utilizing the Messaging Pattern.
@@ -162,10 +158,9 @@ Design requires the use of techniques, tools, patterns, methodologies, and a hos
 
  |
 
-Resources
-=========
+# Resources
 
-### **Blogs/Webcasts/News/Reference Resources:**
+**Blogs/Webcasts/News/Reference Resources:**
 
 *Images are sourced from google
 
@@ -183,10 +178,9 @@ Resources
 
 <https://www.opengroup.org/>
 
-Author
-======
+**Author**
 
-## **Pankaj Dev**
+**Pankaj Dev**
 **Lead MECOMS, Product Development -- Ferranti Computer Systems**
 
 

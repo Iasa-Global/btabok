@@ -1,3 +1,16 @@
+---
+title: "Adopting the Competency Model"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+folder: btabok_overview
+permalink: adopting_the_competency_model.html
+summary: "Tools for adopting the btabok in everyday practice."
+tags: 
+  - digital_business
+  - engagement_model
+---
+
 # Adopting the BTABoK Competency Model
 
 The BTABoK competency model was established to guide and manage architects in their careers and serve as a shared competency management tool for organizations that employ architects. The competency model is based on years of research from practicing architects and creates a stable base for employing, educating, and working with architects of all types.

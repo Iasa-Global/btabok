@@ -25,8 +25,6 @@ Topic Areas
 2. Security
 3. Sustainability
 
-
-
 Trends and techniques cover the following areas for version 3.0:
 
 1. **_Cloud_** as an emerging platform

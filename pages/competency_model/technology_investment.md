@@ -48,9 +48,9 @@ A business process, process step, or activity can be manual, supported by techno
 | **CITA -- Associate** | -   Learner will be able to analyze a business process to determine the sub-units that need technology support (these may be discrete steps or groups of steps or activities)
 | | -   Learner will be able to combine the results of this analysis into requirements for technology architects using an accepted standard approach for defining requirements
 | | -   Learner will be able to evaluate results of technology support against the needs of the process steps or activities
-| **CITA -- Specialist** | -   Learner will be able to appraise the needs of a business process as a whole and optimize the overall level of technology support for the entire process
+| **CITA -- Professional** | -   Learner will be able to appraise the needs of a business process as a whole and optimize the overall level of technology support for the entire process
 | |-   Learner will be able to coordinate with business analysts, software architects, solution architects, information architects, and infrastructure architects to design the optimum solution for supporting the business process given the tradeoffs in the business and technology domains
-| **CITA -- Professional** | -   Learner will be able to synthesize new methods for providing technology support to business process
+| **CITA -- Distinguished** | -   Learner will be able to synthesize new methods for providing technology support to business process
 | | -   Learner will be able to adapt technology support for one process to the needs of another to enhance the reuse of technical assets
 | | -   Learner will be able mentor less experienced architects in the skills required for this capability
 | | -   Learner will be able to optimize technology support to business processes across the enterprise
@@ -67,10 +67,10 @@ A portfolio of business change investments consists of both business change (e.g
 | **CITA -- Associate** | -   Learner will be able to classify a project proposal as business change or technology
 | | -   Learner will be able to combine business change and technology projects into coherent sets of investments
 | | -   Learner will be able to analyze projects of both kinds to assess the degree of alignment with the strategic goals of the business
-| **CITA -- Specialist** | -   Learner will be able to apply portfolio management techniques to assess how well a project fits the needs of the business
+| **CITA -- Professional** | -   Learner will be able to apply portfolio management techniques to assess how well a project fits the needs of the business
 | | -   Learner will be able to argue the relative benefits of specific projects of both kinds
 | | -   Learner will be able to assess and select among a set of possible technology approaches to support a given business change project
-| **CITA -- Professional** | -   Learner will be able to compare and contrast various approaches to technology projects to best meet the needs of the business in both the short and long terms
+| **CITA -- Distinguished** | -   Learner will be able to compare and contrast various approaches to technology projects to best meet the needs of the business in both the short and long terms
 | | -   Learner will be able to assess the value of the entire investment portfolio in terms of the degree to which it is aligned with changes required in the business
 | | -   Learner will be able to argue for changes that are necessary, but not requested, including identifying dependencies and securing their inclusion in the portfolio
 
@@ -86,11 +86,11 @@ Like any investment portfolio, there is risk to be managed. In addition to exter
 | **CITA -- Associate** | -   Learner will be able to assess a risk and estimate both its likelihood and potential impact
 | | -   Learner will be able to analyze the risks for an entire portfolio and rank them using one or more appropriate risk ranking schemes
 | | -   Learner will be able to identify several ways to mitigate a given risk and explain the relative benefits of one over the others
-| **CITA -- Specialist** | -   Learner will be able to identify and analyze external and execution risks relevant to a specific project
+| **CITA -- Professional** | -   Learner will be able to identify and analyze external and execution risks relevant to a specific project
 | | -   Learner will be able to formulate multiple mitigation approaches for each risk
 | | -   Learner will be able to use scenario-based planning as a risk management tool
 | | -   Learner will be able to write scenarios using one of the previously developed scenario pattern
-| **CITA -- Professional** | -   Learner will be able to create mechanism to ensure external and execution risks are identified, assessed, and mitigated
+| **CITA -- Distinguished** | -   Learner will be able to create mechanism to ensure external and execution risks are identified, assessed, and mitigated
 | | -   Learner will be able to mentor others in identifying risks
 | | -   Learner will be able to evaluate risk analysis to determine its completeness and effectiveness
 | | -   Learner will be able to judge the relative value of various mitigation techniques and rank them in order of effectiveness

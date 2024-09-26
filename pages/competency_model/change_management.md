@@ -73,10 +73,10 @@ Change implementation planning and management is the process for deploying and i
 | **CITA- Foundation** | -   Learner will be able to clearly outline the planning and management functions of change management
 | **CITA -- Associate** | -   The Learner will be able to articulate the key considerations and implications to developing a change implementation plan
 | | -   The Learner will be able to describe the change management function and the concerns it addresses
-| **CITA -- Specialist** | -   The Learner will be able to demonstrate having created or contributed to change plans in practice
+| **CITA -- Professional** | -   The Learner will be able to demonstrate having created or contributed to change plans in practice
 | | -   The Learner will be able to develop a change plan based on their project requirements
 | | -   Learner will have worked directly on the implementation of 2-3 medium sized project architectures
-| **CITA -- Professional** | -   The Learner will have experience with change management planning and management in complex environments
+| **CITA -- Distinguished** | -   The Learner will have experience with change management planning and management in complex environments
 | | -   The Learner will be able to develop change plans and guide them through change control processes in complex organizations
 | | -   The Learner will be able to modify architectures based on feedback working with change management teams in complex environments
 
@@ -89,10 +89,10 @@ Integrated approach to leadership and management that enables controlled and sus
 | **CITA- Foundation** | -   The Leaner is able to articulate the concerns of the change management function and its role in ongoing operational environments
 | **CITA -- Associate** | -   The Learner is able to describe the requirements and value of change management to sustained IT operations
 | | -   The Learner can describe the key roles and responsibilities in transformation management leveraging one or more industry frameworks
-| **CITA -- Specialist** | -   Learner will have worked on multiple project interacting with transformation management teams
+| **CITA -- Professional** | -   Learner will have worked on multiple project interacting with transformation management teams
 | | -   Learner will be able to leverage transformation management concepts to develop architectures better aligned to sustained operations
 | | -   Learner is able to identify and articulate challenges to sustained operations external to but impacted by their project
-| **CITA -- Professional** | -   Learner is to demonstrate examples of leveraging awareness of transformation management to improve their architecture
+| **CITA -- Distinguished** | -   Learner is to demonstrate examples of leveraging awareness of transformation management to improve their architecture
 | | -   Learner shall be able to assess readiness factors for architectural change including common maturity models
 | | -   Learner will be able to articulate the risk of each readiness factor and identify mitigating actions to manage the risk
 | | -   Learner will be able to describe having implemented risk management actions into their architectures in complex environments.
@@ -107,10 +107,10 @@ The coordination of information strategy matters where the adoption of a common 
 | **CITA -- Associate** | -   Learner is able to describe the components of complete and accurate change requests
 | | -   Learner can demonstrate comprehension of sources of operational data critical to the development of sound architectural plans including standards documents, communication plans, definition documents, and change requests
 | | -   Learner can articulate the benefits of change management communications to various stakeholders in an organization
-| **CITA -- Specialist** | -   Learner will have participated in projects and can articulate their role in developing and communicating documentation through the change control process
+| **CITA -- Professional** | -   Learner will have participated in projects and can articulate their role in developing and communicating documentation through the change control process
 | | -   Learner will be able to articulate risks in failure to clearly coordinate information sources through change management
 | | -   Learner will be able to articulate the value to their architecture of utilizing change management
-| **CITA -- Professional** | -   Learner will have experience coordinating information flow between systems on 2-3 complex projects
+| **CITA -- Distinguished** | -   Learner will have experience coordinating information flow between systems on 2-3 complex projects
 | | -   Learner will be able to articulate having leveraged information control strategies to have improved the quality, reduced the risk, or increased the value of their architectures in practice
 
 # Resources

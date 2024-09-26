@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: investment_prioritization_and_planning.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Investment, Prioritization and Planning (IPP) are a set of practices focused on the management of asset and portfolio lifecycle, including planning and managing under a comprehensive understanding of the different investment approaches required for each."
 tags: 
   - business_technology_strategy
 ---
@@ -116,8 +116,8 @@ The process of modeling what a business does to reach its objectives (its capabi
 | **CITA- Foundation** | -   Learners will be able to name the capabilities that conforms the approach to implement an IPfM discipline
 | **CITA -- Associate** | -   Learners will be able to describe each capability and how it relates to business and IT.
 | | -   Learners will be able to describe each capability and understands the main goals for their implementation
-| **CITA -- Specialist** | -   Learners will be able to implement the Simplify and Standardize capabilities and address the common challenges into their business during their implementation
-| **CITA -- Professional** | -   *Learners will be able to implement the Centralize and Automate capabilities and address the common challenges into their business during their implementation.*
+| **CITA -- Professional** | -   Learners will be able to implement the Simplify and Standardize capabilities and address the common challenges into their business during their implementation
+| **CITA -- Distinguished** | -   *Learners will be able to implement the Centralize and Automate capabilities and address the common challenges into their business during their implementation.*
 
 ## Supplier Relationship Management
 
@@ -127,9 +127,9 @@ The Supplier Relationship Management process is focused on the identification an
 | :-: | :-: |
 | **CITA- Foundation** | -   Learners will be able to name the industry trends and economic factors that impact into their IT investments portfolio.
 | **CITA -- Associate** | -   Learners will be able to align the prioritization and planning with the strategy goals of their organization.
-| **CITA -- Specialist** | -   Learners will be able to identify and describe the AS-IS model for the prioritization and planning cycle work in their organization.
+| **CITA -- Professional** | -   Learners will be able to identify and describe the AS-IS model for the prioritization and planning cycle work in their organization.
 | | -   Learners will be able to define the TO-BE model for the prioritization and planning cycle work in their organization.
-| **CITA -- Professional** | -   *Learners will be able to implement the IPfM discipline in their organizations providing guidance and leading practices*
+| **CITA -- Distinguished** | -   *Learners will be able to implement the IPfM discipline in their organizations providing guidance and leading practices*
 | | -   *Learners will be able to determine who should own a technology investment budget according to the implementation of the selection framework for IT suppliers*
 
 ## Procurement Management
@@ -140,9 +140,9 @@ The Procure Management process is focused on the management of, and the provisio
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to name some policies, standards or regulations that ensure better procurement practices.
 | **CITA -- Associate** | -   Learner will be able to define policies, standards or regulations that ensure better procurement practices.
-| **CITA -- Specialist** | -   Learners will be able to identify and describe the AS-IS model for the procurement cycle work in their organization.
+| **CITA -- Professional** | -   Learners will be able to identify and describe the AS-IS model for the procurement cycle work in their organization.
 | | -   Learners will be able to define the TO-BE model for the procurement cycle work in their organization
-| **CITA -- Professional** | -   *Learners will be able to implement an effective IPfM discipline through the implementation of the procurement and sourcing strategy across their organizations.*
+| **CITA -- Distinguished** | -   *Learners will be able to implement an effective IPfM discipline through the implementation of the procurement and sourcing strategy across their organizations.*
 
 # Resources
 

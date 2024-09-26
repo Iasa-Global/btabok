@@ -85,12 +85,12 @@ EA are the catalyst for organizational change and the mediator between business 
 | **CITA -- Associate** | -   The Learner is able to articulate the key considerations how the change is part of the corporate strategy.
 | | -   The Learner is able to speak to the different processes and interdependencies between these processes associated with the change.
 | | -   The learner is able to initiate the change.
-| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of how to lead an organizational change.
+| **CITA -- Professional** | -   The Learner will be able to demonstrate working knowledge of how to lead an organizational change.
 | | -   The learner is able to translate central vision into a change initiative.
 | | -   The Learner is able to discuss architectural implications of the change on corporate environment.
 | | -   The leaner is able to articulate the discovery phase findings to various stockholders.
 | | -   The leaner is able to articulate cost implication of proposed change
-| **CITA -- Professional** | -   The Learner will have experience with delivering architectural programs leveraging complex environments.
+| **CITA -- Distinguished** | -   The Learner will have experience with delivering architectural programs leveraging complex environments.
 | | -   The Learner has experience developing and building transition plan through a successful change.
 | | -   The learner understand the dynamics and the culture of the organization and create the strategic plans to transition to the target state.
 | | -   The Learner is able to accelerate and focus the change.

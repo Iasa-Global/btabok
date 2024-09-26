@@ -16,6 +16,14 @@ entries:
       url: get_started_m.html
       output: web
 
+    - title: What is Architecture
+      url: what_is_architecture.html
+      output: web
+
+    - title: BTABoK Guides
+      url: usage_scenarios_btabok.html
+      output: web
+
 # Engagement Model
 
   - title: Engagement Model
@@ -180,7 +188,7 @@ entries:
           output: web
 
         - title: Governance
-          url: governance.html
+          url: governance_em.html
           output: web
 
         - title: Product & Project
@@ -259,6 +267,10 @@ entries:
           url: organization.html
           output: web
 
+        - title: Career
+          url: career.html
+          output: web
+
         - title: Roles
           url: roles.html
           output: web
@@ -288,47 +300,55 @@ entries:
     folderitems:
 
     - title: Business Technology Strategy
-      url: bts_m.html
+      url: tag_business_technology_strategy.html
       output: web
 
     - title: Human Dynamics
-      url: human_dynamics_m.html
+      url: tag_human_dynamics.html
       output: web
 
     - title: Design
-      url: design_m.html
+      url: tag_design.html
       output: web
 
     - title: IT Environment
-      url: it_environment_m.html
+      url: tag_it_environment.html
       output: web
 
     - title: Quality Attributes
-      url: quality_attributes_m.html
+      url: tag_quality_attributes.html
       output: web
   
     - title: Business Architecture
-      url: business_architecture_m.html
+      url: tag_business_architecture.html
       output: web
 
     - title: Information Architecture
-      url: information_architecture_m.html
+      url: tag_information_architecture.html
       output: web
 
     - title: Infrastructure Architecture
-      url: infrastructure_architecture_m.html
+      url: tag_infrastructure_architecture.html
       output: web
 
     - title: Software Architecture
-      url: software_architecture_m.html
+      url: tag_software_architecture.html
       output: web
 
-  - title: Maturity Model
+  - title: Org Readiness
     output: web
     folderitems:
 
     - title: Overview
       url: maturity_model_m.html
+      output: web
+
+    - title: Accredited Partner
+      url: accreditation.html
+      output: web
+
+    - title: Mentoring Programs
+      url: mentoring.html
       output: web
 
   - title: Topic Areas
@@ -339,40 +359,68 @@ entries:
       url: topic_areas_m.html
       output: web
 
-  - title: Structed Canvases
+    - title: Artificial Intelligence
+      url: ai_ml.html
+      output: web
+
+    - title: Systems
+      url: systems.html
+      output: web
+
+    - title: DevOps
+      url: dev_ops.html
+      output: web
+
+    - title: Cloud
+      url: cloud.html
+      output: web
+
+    - title: Security
+      url: security.html
+      output: web
+
+    - title: Integration
+      url: integration.html
+      output: web
+
+    - title: Sustainability
+      url: sustainability.html
+      output: web
+
+  - title: Structured Canvases
     output: web
     folderitems:
 
     - title: Business
-      url: business_sc.html
+      url: tag_business.html
       output: web
 
     - title: Chief
-      url: chief_sc.html
+      url: tag_chief.html
       output: web
 
     - title: Core
-      url: core_sc.html
+      url: tag_core.html
       output: web
 
     - title: Engagement Model
-      url: engagement_model_sc.html
+      url: tag_engagement_model.html
       output: web
 
     - title: Information
-      url: information_sc.html
+      url: tag_information.html
       output: web
 
     - title: Infrastructure
-      url: infrastructure_sc.html
+      url: tag_infrastructure.html
       output: web
 
     - title: Software
-      url: software_sc.html
+      url: tag_software.html
       output: web
 
-    - title: Solution
-      url: solution_sc.html
+    - title: Solution 
+      url: tag_solution.html
       output: web
 
   - title: Ethics and Principles
@@ -391,4 +439,4 @@ entries:
 #
 #    - title: Overview
 #      url: manifesto.html
-#      output: web
+#      output: web 

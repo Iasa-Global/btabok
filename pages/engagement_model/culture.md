@@ -163,13 +163,14 @@ There are many tools available to diagnose culture in the marketplace. As a part
 
 The WCD provides a tool to understand how culture can be understood from a information sharing, learning, responsibility, collaboration, failure and ideas perspective.
 
-![image001](media/culture005.png)
+[![image001](media/culture005.png)](https://iasa-global.github.io/btabok/westrum_culture_diagnostic.html){:target="_blank"}
 
 ## Culture Map
 
 The BTABoK follows the folks at strategyzer quite closely. They provide a Culture Map tool to help understand the dynamics and implementation of culture.
 
-![image001](media/culture006.png)
+
+[![image001](media/culture006.png)](https://iasa-global.github.io/btabok/culture_map_canva.html){:target="_blank"}
 
 # Hacking the Architecture Culture
 

@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: demand_signal_card.html
 folder: structured_canvases
+summary: "Demand Signal Card"
 tags: 
   - business
   - chief
@@ -14,14 +15,14 @@ tags:
   - solution
 ---
 
-![image001](media/demand_signal_card001.svg)
+![image001](media/demand_signal_card.svg)
 
 [Download PPT](media/ppt/demand_signal_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Problem |   |   |
-| Options |   |   |
-| Progress |   |   |
-| Actions |   |   |
-| Insights |   |   |
+| Area     | Description | Links To |
+| -------- | ----------- | -------- |
+| Problem  |             |          |
+| Options  |             |          |
+| Progress |             |          |
+| Actions  |             |          |
+| Insights |             |          |

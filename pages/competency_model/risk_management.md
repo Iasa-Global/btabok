@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: risk_management.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Risk Management for an architect is an ongoing effort to offset occurrences which would jeopardize or negatively impact the value generated from a project, program or set of activities."
 tags: 
   - business_technology_strategy
 ---
@@ -64,10 +64,10 @@ Enterprise architecture input and decision making for EA owned risks (technical 
 | **CITA -- Associate** | -   Support and participate in risk management organization activities.
 | | -   Awareness and collaboration with risk operations staff.
 | | -   Awareness and application of risk operation requirements.
-| **CITA -- Specialist** | -   Leadership in project risk management and value activities.
+| **CITA -- Professional** | -   Leadership in project risk management and value activities.
 | | -   Implement all risk management operations policies.
 | | -   Establish project level risk tolerance and requirements.
-| **CITA -- Professional** | -   Enterprise level risk management integration.
+| **CITA -- Distinguished** | -   Enterprise level risk management integration.
 | | -   Aid in establishment of enterprise risk management.
 | | -   Development of risk personnel and policies related to architecture.
 
@@ -82,10 +82,10 @@ Risk identification involves the skills necessary to identify risks and their as
 | **CITA -- Associate** | -   Participate in risk identification activities.
 | | -   Identify areas of risk exposure in an organization.
 | | -   Interact with stakeholders to elicit risk areas.
-| **CITA -- Specialist** | -   Lead risk identification activities at the project level.
+| **CITA -- Professional** | -   Lead risk identification activities at the project level.
 | | -   Catalog and characterize risks associated with project impacts.
 | | -   Communicate and lead stakeholder analysis of risks.
-| **CITA -- Professional** | -   Lead enterprise level risk management integration with architect engagement model.
+| **CITA -- Distinguished** | -   Lead enterprise level risk management integration with architect engagement model.
 | | -   Identify major risks in future business and technical strategy.
 | | -   Lead executive level stakeholder identification of risk.
 
@@ -104,9 +104,9 @@ Risk mitigation is the process of addressing identified risks. The risk organiza
 | | -   Define risk mitigation techniques in multiple scenarios
 | **CITA -- Associate** | -   Apply risk mitigation techniques to project level scope.
 | | -   Identify areas for risk mitigation and the most effective approach.
-| **CITA -- Specialist** | -   Take responsibility for risk mitigation techniques on project scoped activities.
+| **CITA -- Professional** | -   Take responsibility for risk mitigation techniques on project scoped activities.
 | | -   Lead project teams and stakeholder to appropriately address risks.
-| **CITA -- Professional** | -   Lead enterprise level risk mitigation activities within architecture initiatives.
+| **CITA -- Distinguished** | -   Lead enterprise level risk mitigation activities within architecture initiatives.
 | | -   Address critical enterprise class risks within technical and business activities.
 
 ## Risks Assessment
@@ -132,9 +132,9 @@ Risk = Probability of risk occurrence x Impact of exposure or negative consequen
 | | -   Understand critical risk analysis tools and techniques
 | **CITA -- Associate** | -   Support risk analysis methods
 | | -   Identify risk impacts for project level impacts
-| **CITA -- Specialist** | -   Analyze total risk exposure
+| **CITA -- Professional** | -   Analyze total risk exposure
 | | -   Lead stakeholder communication in risk analysis
-| **CITA -- Professional** | -   Develop architectural analysis tools within EA strategies for risk analysis
+| **CITA -- Distinguished** | -   Develop architectural analysis tools within EA strategies for risk analysis
 | | -   Estimate risk exposure for major business and technical strategies
 | | -   Lead executive risk analysis sessions to address risk types and impacts.
 

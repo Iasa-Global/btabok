@@ -16,12 +16,12 @@ tags:
 
 Learner must be through various QAs and its definitions and primary applicability explained under Quality Attribute Pillar. In this the focus is mainly on
 
--   How to discover a QA?
--   How to choose which QA to prioritize
--   Why to de-prioritize a QA so that another QA can be prioritized? What trade-Offs?
--   How to identify a tangible cost involved in implementing a QA?
--   How to identify and list out tangible benefits of a QA? This helps in prioritizing a QA over another.
--   How to enable decision making using QA cost and benefits?
+- How to discover a QA?
+- How to choose which QA to prioritize
+- Why to de-prioritize a QA so that another QA can be prioritized? What trade-Offs?
+- How to identify a tangible cost involved in implementing a QA?
+- How to identify and list out tangible benefits of a QA? This helps in prioritizing a QA over another.
+- How to enable decision making using QA cost and benefits?
 
 # Overview
 
@@ -45,23 +45,23 @@ Refer [Requirement discovery and constraint Analysis under Business Technology S
 
 The first step in collecting ASR is to read the requirement documents carefully. Look for requirements that fall in one of the following categories:
 
-1.  Allocation of responsibilities:
-    1.  Find out how the responsibilities are allocated to various elements of software.
-2.  Coordination Model
-    1.  List out elements that must or must not coordinate
-    2.  Determine properties of the coordination
-    3.  Choose the communication method within or without the system.
-3.  Data Model
-    1.  How the data of the system should be created, stored, accessed, changed, destroyed etc.?
-4.  Management of Resources
-    1.  Decisions which affect resource management
-5.  Mapping among architectural elements
-    1.  Locate any identified mapping structure defined. For e.g. mapping of modules to runtime elements, runtime elements to processors etc
-6.  Choice of Technology
-    1.  Are there any technologies identified to be used? Is there a particular environment the system has to run?
-7.  Binding Time decisions
-    1.  This covers every other category listed above. In each case there is a binding time decision involved.
-    2.  For e.g. in resource management, the system should be able to accept a new device that is plugged in at runtime.
+1. Allocation of responsibilities:
+   1. Find out how the responsibilities are allocated to various elements of software.
+2. Coordination Model
+   1. List out elements that must or must not coordinate
+   2. Determine properties of the coordination
+   3. Choose the communication method within or without the system.
+3. Data Model
+   1. How the data of the system should be created, stored, accessed, changed, destroyed etc.?
+4. Management of Resources
+   1. Decisions which affect resource management
+5. Mapping among architectural elements
+   1. Locate any identified mapping structure defined. For e.g. mapping of modules to runtime elements, runtime elements to processors etc
+6. Choice of Technology
+   1. Are there any technologies identified to be used? Is there a particular environment the system has to run?
+7. Binding Time decisions
+   1. This covers every other category listed above. In each case there is a binding time decision involved.
+   2. For e.g. in resource management, the system should be able to accept a new device that is plugged in at runtime.
 
 ## Quality Attribute Workshop (QAW)
 
@@ -103,20 +103,20 @@ Stakeholders should understand that same requirement can have very different imp
 
 As seen above the writing of an appropriate QA Scenario is very important to get the ASR right. Quality attribute scenario has the following important parts:
 
-1.  Who is Stimulating?
-    1.  It could be a human, a computer, fault in the system etc
-2.  What it does to the system?
-    1.  It could be an event that occurs, an attack in progress etc
-    2.  It could be a user clicking on the menu, typing in the text box etc
-3.  What response to give to the stimulus received?
-4.  How to measure the response?
-    1.  Is it satisfactory to prevent the attack? Or, additionally, inform the people watching the system and log the information too?
-    2.  In case of performance, is it sufficient to measure the latency? Or, need to look into the processing time too.
-5.  What environment this stimulus occurs in?
-    1.  Do we have control over the environment? Can we change it for the better?
-    2.  If not, do we have to prepare our system to handle such issues better next time?
-6.  Artifacts
-    1.  Is it a specific component of the system that is affected or a sub-system?
+1. Who is Stimulating?
+   1. It could be a human, a computer, fault in the system etc
+2. What it does to the system?
+   1. It could be an event that occurs, an attack in progress etc
+   2. It could be a user clicking on the menu, typing in the text box etc
+3. What response to give to the stimulus received?
+4. How to measure the response?
+   1. Is it satisfactory to prevent the attack? Or, additionally, inform the people watching the system and log the information too?
+   2. In case of performance, is it sufficient to measure the latency? Or, need to look into the processing time too.
+5. What environment this stimulus occurs in?
+   1. Do we have control over the environment? Can we change it for the better?
+   2. If not, do we have to prepare our system to handle such issues better next time?
+6. Artifacts
+   1. Is it a specific component of the system that is affected or a sub-system?
 
 Two characteristic comes if QA is written this way. One, since specific measurement of the response has to be documented, the scenario becomes testable. Second, since we know clearly the stimulus, response, environment it occurs in and the artifacts it affects, it is unambiguous.
 
@@ -128,13 +128,13 @@ The testing of QA differs from one attribute to another.  Some of them can be t
 
 Assume the software has used Model View Controller (MVC) design. We need to know the following information
 
--   Arrival rate of events
--   Selected Queue discipline
--   Selected scheduling algorithm
--   Service time for events
--   Network topology
--   What time it takes to process the message in view/model/controller
--   Bandwidth of the network connect to view/model/controller
+- Arrival rate of events
+- Selected Queue discipline
+- Selected scheduling algorithm
+- Service time for events
+- Network topology
+- What time it takes to process the message in view/model/controller
+- Bandwidth of the network connect to view/model/controller
 
 With these details one can calculate the latency of the system.
 
@@ -154,21 +154,21 @@ The most common evaluation method is Architecture Trade-off Analysis Method(ATAM
 
 It has 4 phases as follows:
 
--   Partnership and preparation. Here the evaluation team leadership meet to list out the details for ATAM exercise. Information gathering for the exercise is done here.
--   (evaluation phase 1) This is a continuation of the phase one with more analysis.
-    -   Details on business drivers
-    -   During QAW the architecture was not detailed enough. By now the architect will be able to cover all necessary parts in enough details for the participants to evaluate the system.
-    -   List out architectural approaches.
-    -   Generate Quality Attribute Utility tree.
-    -   Analyze approaches taken
--   Some more evaluation (evaluation phase 2)
-    -   There is a gap between the first evaluation and this one.
-    -   A summary of the first evaluation is created.
-    -   More scenarios are analyzed if required.
-    -   Brainstorming on scenarios takes place. Scenarios are prioritized.
-    -   Architectural approaches are analyzed.
-    -   Present the result of the evaluation to the stakeholders
--   Follow-up. Prepare final report and submit.
+- Partnership and preparation. Here the evaluation team leadership meet to list out the details for ATAM exercise. Information gathering for the exercise is done here.
+- (evaluation phase 1) This is a continuation of the phase one with more analysis.
+  - Details on business drivers
+  - During QAW the architecture was not detailed enough. By now the architect will be able to cover all necessary parts in enough details for the participants to evaluate the system.
+  - List out architectural approaches.
+  - Generate Quality Attribute Utility tree.
+  - Analyze approaches taken
+- Some more evaluation (evaluation phase 2)
+  - There is a gap between the first evaluation and this one.
+  - A summary of the first evaluation is created.
+  - More scenarios are analyzed if required.
+  - Brainstorming on scenarios takes place. Scenarios are prioritized.
+  - Architectural approaches are analyzed.
+  - Present the result of the evaluation to the stakeholders
+- Follow-up. Prepare final report and submit.
 
 ## Economic analysis of Quality Attributes
 
@@ -262,18 +262,18 @@ Refer individual Quality Attributes under [Quality Attribute Pillar](qap.md){:ta
 
 # Related Capabilities
 
--   Business Technology Strategy Pillar
-    -   Business Valuation
-    -   Requirement Discovery and constraint analysis
--   Design
-    -   Requirement Modeling
--   IT Environment
-    -   Testing methods, tools, and techniques
--   Quality Attribute Pillar
-    -   Balancing and Optimizing Quality Attributes
-    -   Performance, Reliability, Availability, Scalability
-    -   Security
-    -   Usability et al
+- Business Technology Strategy Pillar
+  - Business Valuation
+  - Requirement Discovery and constraint analysis
+- Design
+  - Requirement Modeling
+- IT Environment
+  - Testing methods, tools, and techniques
+- Quality Attribute Pillar
+  - Balancing and Optimizing Quality Attributes
+  - Performance, Reliability, Availability, Scalability
+  - Security
+  - Usability et al
 
 # Resources
 

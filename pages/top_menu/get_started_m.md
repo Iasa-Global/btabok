@@ -9,9 +9,8 @@ summary: "The most important is it connects all types of architects instead of d
 toc_sticky: true
 ---
 
-
 > "I think it’s my adventure, my trip, my journey, and I guess my attitude is, let the chips fall where they may."
-**Leonard Nimoy**
+> **Leonard Nimoy**
 
 # Forward to Getting Started by Paul Preiss
 
@@ -43,7 +42,7 @@ Digital transformation is a vendor phrase. It is about changing into something a
 
 ## What Goes Where
 
-![image001](media/get_started_m01.png)
+![image001](media/get_started_m.png)
 
 The right hand navigation leads to semi-independent areas of knowledge exploration in the BTABoK and Iasa. The engagement model is represented by the primary diagram, however it is matched by the competency model, topic areas, the maturity model and structured canvases. All of these areas are connected under the BTABoK umbrella but may be used in independent ways.
 
@@ -63,7 +62,7 @@ The events then should be treated as things that neither the architects nor the 
 
 ## The Outcome Model
 
-The outcome model is the set of articles dedicated to what all members of a business hope to achieve. These are not just the concerns of the architects or technologists but the goals of the entire business as it relates to digital advantage. Thus the outcome model is how digital advantage is measured and is directly related to the Maturity Model used to measure the architecture practice. Each of the outcome articles relates to its area of impact (the IBAM areas) while the areas inside the circles relate to specifically to architecture, how it is executed, and how it creates these outcomes.
+The outcome model is the set of articles dedicated to what all members of a business hope to achieve. These are not just the concerns of the architects or technologists but the goals of the entire business as it relates to digital advantage. Thus the outcome model is how digital advantage is measured and is directly related to the Maturity Model used to measure the architecture practice. Each of the outcome articles relates to its area of impact (the IBAM areas) while the areas inside the circles relate specifically to architecture, how it is executed, and how it creates these outcomes.
 
 The outcome model while directly shared with other business units should be the primary focus of the entire architecture practice. It should also be the commitment of any vendor and especially service integrators who provide architects to the enterprise to achieve results in these areas (see architecture practice article). Thus, the digital business model is as much the responsibility of a software architect as it is for a business architect. At the same time, maximizing digital operations excellence such as velocity, etc are as much the responsibility of the business architect as they are the information and infrastructure architects.
 
@@ -77,7 +76,7 @@ The value model was named based on the techniques to understand quality, value, 
 
 ## The People Model
 
-The people model is named primarily to deal with the people side of architecture, namely architects themselves. Note, this is different from the competency model which is a separately maintained body of knowledge on the competencies of an individual architect, including their specializatation. However it is the people model which connects the two bodies of knowledge together. It also includes things like how to organize architects, role descriptions, community methods and other valuable tools in practices especially as they grow beyond a couple of dozen architects towards the large value areas.
+The people model is named primarily to deal with the people side of architecture, namely architects themselves. Note, this is different from the competency model which is a separately maintained body of knowledge on the competencies of an individual architect, including their specialization. However it is the people model which connects the two bodies of knowledge together. It also includes things like how to organize architects, role descriptions, community methods and other valuable tools in practices especially as they grow beyond a couple of dozen architects towards the large value areas.
 
 ## The Architecture Practice
 
@@ -133,7 +132,7 @@ Service integrators and vendors have a very difficult position in maintaining ar
 
 ## Government or NGO Adoption
 
-Mission based organizations have as strong or even stronger need for architecture than for-profit companies as in many cases the problem space is much bigger and has very real impact on peoples lives. In addition value is much harder to understand in a mission based organization as it cannot be aligned to profitability. Many non-profits and government agencies have to deal with very high safety and liability issues, risk aversion, and beauracratic or political difficulties. This is a very exciting place to get architecture done but requires very careful handling and setup of federated methods across agencies, states, provinces, local governments etc. This often creates significant complexity as well as duplication of effort and difficulties in funding.
+Mission based organizations have as strong or even stronger need for architecture than for-profit companies as in many cases the problem space is much bigger and has very real impact on people's lives. In addition value is much harder to understand in a mission based organization as it cannot be aligned to profitability. Many non-profits and government agencies have to deal with very high safety and liability issues, risk aversion, and beauracratic or political difficulties. This is a very exciting place to get architecture done but requires very careful handling and setup of federated methods across agencies, states, provinces, local governments etc. This often creates significant complexity as well as duplication of effort and difficulties in funding.
 
 ## For-Profit Adoption
 

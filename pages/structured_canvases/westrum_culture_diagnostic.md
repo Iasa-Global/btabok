@@ -5,16 +5,17 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: westrum_culture_diagnostic.html
 folder: structured_canvases
+summary: "The Westrum Culture Diagnostic helps teams and organizations understand the culture they are working within to better understand their engagement model."
 tags: 
   - engagement_model
   - chief
 ---
 
-The WCD helps teams and organizations understand the culture they are working within to better understand their engagement model. The diagnostic provides clear set of tools to describe the environment related to its support for safety and cultural characteristics.
+The Westrum Culture Diagnostic helps teams and organizations understand the culture they are working within to better understand their engagement model. The diagnostic provides clear set of tools to describe the environment related to its support for safety and cultural characteristics.
 
-![image001](../../media/83543645a4cdd8a79a8696bcf5a7bfa99cd3c685.png)
+![image001](media/westrum_culture_diagnostic_card.svg)
 
-[Download PPT](media/ppt/value_stream_canvas.ppt){:target="_blank"}
+[Download PPT](media/ppt/westrum_culture_diagnostic_card.ppt){:target="_blank"}
 
 | Area                  | Description                                                                                                                                  | Links To                                                                                                  |
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
@@ -24,4 +25,4 @@ The WCD helps teams and organizations understand the culture they are working wi
 | Responsibility        | Describes how responsibility is shared, sought for and achieved.                                                                             | Not Applicable                                                                                            |
 | Collaboration         | Describes how well cross-function, multi-level collaboration is encouraged and rewarded.                                                     | Collaboration (article), Communication Strategy Canvas (informs), Collaboration Planning Canvas (informs) |
 | Failure               | Describes how well failures (excluding causing harm on purpose) are treated as a learning opportunity and are not punished.                  | Not Applicable                                                                                            |
-| Ideas                 | Describes how new ideas, innovation are treated and welcomed in the organization.                                                            | Not Applicable.                                                                                           |
+| Ideas                 | Describes how new ideas, and innovation are treated and welcomed in the organization.                                                        | Not Applicable.                                                                                           |

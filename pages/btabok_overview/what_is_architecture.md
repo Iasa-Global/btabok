@@ -1,14 +1,24 @@
+---
+title: "What is Architecture"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: what_is_architecture.html
+folder: btabok_overview
+summary: ""
+---
+
 # What is Architecture?
 
 ## Iasa Definition
 
 [![defs](../../media/9245879d936d8cdd2f62e9953f49d63c79e859c5.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/defs.png)
 
-The Iasa community feels that both sides of those definitions, when blended are a good definition. **IT architecture is the art and science of designing and delivering valuable technology strategy.**
+The Iasa community feels that both sides of those definitions, when blended are a good definition. **Business Technology architecture is the art and science of designing and delivering valuable technology strategy.
 
-We must be able to describe a strategy for solving business problem with IT. By having business skills, we speak the language of business to executive sponsors to understand what drives the organization, what challenges they face, and what others in their domain are doing and what challenges they face.
+We must be able to describe a strategy for solving business problem with BT. By having business skills, we speak the language of business to executive sponsors to understand what drives the organization, what challenges they face, and what others in their domain are doing and what challenges they face.
 
-We must use our broad technical skills to evaluate the existing IT environment, the staff and skills they have, how they operate and at what operational maturity level. We must use the language of architecture to speak with our peers, understand and communicate effectively so we can make sure various teams, projects, and solutions all integrate successfully into an existing operational environment.
+We must use our broad technical skills to evaluate the existing BT environment, the staff and skills they have, how they operate and at what operational maturity level. We must use the language of architecture to speak with our peers, understand and communicate effectively so we can make sure various teams, projects, and solutions all integrate successfully into an existing operational environment.
 
 We also must use past deep technical expertise to quickly explore and learn new technologies we may not have experience with. We must be able to speak the language of technology to subject matter experts in order to have relevant conversations with them and have any credibility when speaking with them. If we don’t we risk them taking a path other than the one we suggest, and that could have a negative impact on the value the solution provides.
 
@@ -16,7 +26,7 @@ We also must use past deep technical expertise to quickly explore and learn new 
 
 Is there confusion over what architecture is? No, not really. There are just different aspects of what architects do based on the role they play in their organization. The good news is these differing descriptions align well.
 
-If you look at the definition of architect in any dictionary, you’ll see the definition of a building architect highlighting a blend of art, science, and practice. There are now parallel descriptions for IT architecture that describes the art, science, and practice of organizing and integrating computer systems. From MIT, the description offered is more knowing the business process and reflecting a solution with IT. From SEI, the description offered sounds more like the definition found in dictionaries, focusing on the technical aspects of designing or engineering a complex solution.
+If you look at the definition of architect in any dictionary, you’ll see the definition of a building architect highlighting a blend of art, science, and practice. There are now parallel descriptions for BT architecture that describes the art, science, and practice of organizing and integrating computer systems. From MIT, the description offered is more knowing the business process and reflecting a solution with IT. From SEI, the description offered sounds more like the definition found in dictionaries, focusing on the technical aspects of designing or engineering a complex solution.
 
 Various definitions Include:
 
@@ -34,7 +44,7 @@ The **software architecture** of a program or computing system is the structur
 
 ## **A Profession**
 
-Iasa’s vision is to turn IT Architecture into a profession, which is a group of people pursuing a learned art with a common calling. There is some controversy around what constitutes a profession, but most agree it is educable, essential, has a large common body of knowledge, has specializations, can be practiced for an entire career, and often has certifications and a code of ethics.
+Iasa’s vision is to turn BT Architecture into a profession, which is a group of people pursuing a learned art with a common calling. There is some controversy around what constitutes a profession, but most agree it is educable, essential, has a large common body of knowledge, has specializations, can be practiced for an entire career, and often has certifications and a code of ethics.
 
 [<img title="" src="../../media/dc515056a41b7cf550195c40b874de0192bac925.png" alt="prof" data-align="right" width="355">](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/prof.png)
 
@@ -58,7 +68,7 @@ Just as there are different archetypes for architects, each of us has a unique b
 
 As architects, we face many challenges that go beyond the current projects we may be engaged in, from a lack of understanding of what we do, what value IT does or can bring to an organization, ill-defined structure that has grown over time, and not having true authority to use as a lever.
 
-IT ARCHITECTS’ CHALLENGES:  
+BT ARCHITECTS’ CHALLENGES:  
 • Lack of understanding of the architect specialization and no direct authority as an architect  
 • Existing misalignments between technology and “the business” seen as insurmountable  
 • Overcoming ad hoc infrastructures
@@ -74,7 +84,7 @@ In some organizations, budgets and authority over IT are centralized, whereas in
 
 We work in environments that have grown over time but are poorly documented and not well conceived. There are many isolated technical projects going on, but they do not reflect the existing environment and are created in silos. These are operated together and become the infrastructure.
 
-In summary, the IT architect profession is in its infancy. Various groups have various descriptions for architects and architecture and use different terms and titles interchangeably. Based on your own work environment and background, you will have your own perspective on which skills are essential and what the role of an architect and value of architecture are.  
+In summary, the BT architect profession is in its infancy. Various groups have various descriptions for architects and architecture and use different terms and titles interchangeably. Based on your own work environment and background, you will have your own perspective on which skills are essential and what the role of an architect and value of architecture are.  
 [![figure5](../../media/b55c2146770d6a828870ce1e440b40d84d887346.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/figure5.png)
 
-Through collaborative work with architects across the globe, the Iasa community defines IT architecture as the art or science of designing and delivering valuable technology strategies. We also define the IT architect as the technology strategist for the business. Our goal is to formalize the IT architect profession, creating a common body of knowledge and a common language.
+Through collaborative work with architects across the globe, the Iasa community defines BT architecture as the art or science of designing and delivering valuable technology strategies. We also define the BT architect as the technology strategist for the business. Our goal is to formalize the BT architect profession, creating a common body of knowledge and a common language.

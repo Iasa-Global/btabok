@@ -11,12 +11,12 @@ tags:
 ---
 
 > "If you could get all the people in the organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time."
-**Patrick Lencioni**
+> **Patrick Lencioni**
 
 # What is Organization
 
 > Noun -- "​an organized group of people with a particular purpose, such as a business or government department."
-**-- Oxford dictionary, definition of Organization.**
+> **-- Oxford dictionary, definition of Organization.**
 
 Organization in architecture is the structure, reporting, and administration and implementation of the group of internal architects, extended team members and external influences which shape an architecture practice. It also determines career path and deeply impacts the people in and related to the architecture organization.
 
@@ -24,9 +24,9 @@ Organization in architecture is the structure, reporting, and administration and
 
 The terms organization, team, and practice can be used in extremely different ways and creates confusion within a company or group of people. All are used in both noun and verb forms to denote subtly different ideas. For the purpose of the BTABoK:
 
--   The (an) organization is the entire group of architects within the company, how they organize themselves or are organized by the company whether non-profit or traditional.
--   The (a) practice is the purposeful method and structure the architects use to connect their engagement model to the company (or companies). The concept of practice is thus similar to organization but denotes that it is more actively engaged in designing, leading and managing itself. Similar to the way practice is used with doctors, accountants, and building architects.
--   A team is a loosely defined group of people that implies a much smaller size than the overall group of architects and may include or be entirely made up of either architects or non-architects.
+- The (an) organization is the entire group of architects within the company, how they organize themselves or are organized by the company whether non-profit or traditional.
+- The (a) practice is the purposeful method and structure the architects use to connect their engagement model to the company (or companies). The concept of practice is thus similar to organization but denotes that it is more actively engaged in designing, leading and managing itself. Similar to the way practice is used with doctors, accountants, and building architects.
+- A team is a loosely defined group of people that implies a much smaller size than the overall group of architects and may include or be entirely made up of either architects or non-architects.
 
 # Why is Organization Important
 
@@ -59,10 +59,10 @@ Another opportunity is the focus on vendor based relationships and hybrid center
 ## Organization Versus Practice
 
 > Noun -- "the carrying out or exercise of a profession, especially that of a doctor or lawyer."
-**Oxford dictionary.**
+> **Oxford dictionary.**
 
 > Noun -- "the business or premises of a doctor or lawyer."
-**-- Oxford dictionary**
+> **-- Oxford dictionary**
 
 For the purposes of the BTABoK, the term organization is used to most often because a 'practice model' is not currently implemented in companies related to IT in general, and architecture specifically. To achieve a practice model a few basic principles have to be enforced throughout reporting and career growth.
 
@@ -92,7 +92,7 @@ The assumption in a practice is different than a corporate organization. In a pr
 
 To begin the development of the organization the team must define the elements to be resolved for this area of the BTABoK engagement model and how they relate to the overall people model. To begin it is important to describe the overall architecture capability desired and its current state. The architecture capability card can help understand what is currently happing and opportunities for improvement.
 
-![image001](media/organization002.png)
+[![image001](media/organization002.png)](https://iasa-global.github.io/btabok/architect_organization_canvas.html){:target="_blank"}
 
 ## Using the Canvas
 
@@ -110,13 +110,17 @@ In addition it is important to understand what types of architects work at the c
 
 The canvas includes areas to describe coverage and scope of the team (refer to the scope and coverage article for more information). Use this to understand how the architects engage with the company. The architect engagement touchpoints canvas can be used to help identify the types and areas of engagement. And is included in that article.
 
-![image001](media/organization003.png)
+[![image001](media/organization003.png)](https://iasa-global.github.io/btabok/architects_engagement_touchpoints.html){:target="_blank"}
 
 ## People, Process and Technology
 
 Use these areas of the canvas to describe elements of the current people model, the process/lifecycle models and the supporting tools and technology which impact the architecture capability both positively and negatively. These areas are the most useful when describing elements in active terms, such as 'new architects receive basic and advanced architecture training', 'the architects get involved in projects very late'. Use this section to find opportunities for maturity.
 
 ## Performance, Maturity and Strategy
+
+This area relates to the overall quality of the current/future capability. It describes efficiency of the practice (how lean and focused it is) versus its efficacy (how well it compares with architecture capability in the marketplace). These two ratings will allow the organization to target specific areas of improvement in the practice.
+
+Architects 
 
 This area relates to the overall quality of the current/future capability. It describes efficiency of the practice (how lean and focused it is) versus its efficacy (how well it compares with architecture capability in the marketplace). These two ratings will allow the organization to target specific areas of improvement in the practice.
 
@@ -129,7 +133,6 @@ Reporting in the context of the BTABoK is related to three primary areas; a) who
 ## Federated Reporting (Silos)
 
 In a federated architecture model architects report directly into line of business owners or separate organizations. These reporting structures are very fragmented and variable so it is difficult to gather data on them. It is very common in these models for architects to be completely unaware of other architect groups that may sit near them in the same building. However, federated reporting structures can be a great benefit to coverage and scope if they are used in co-ordination with a rigorous and powerful community model like a center of excellence. Still practice based assessment and career advancement will likely be impacted by the line of business owner unless a practice based method like mentoring and rotation are used. If done wisely a federated reporting model will be more agile and be viewed by stakeholders and delivering a lot of value.
-
 
 ![image001](media/organization004.png)
 
@@ -149,24 +152,26 @@ A somewhat new method of reporting has emerged from agile methods combined with 
 
 In many organizations business architects report to a different management group than other architects. This has both positive and negative consequences and should be addressed in a truly robust organizational model.
 
-Think about different reporting structure and use a rating system to determine impact. For example the above scenario might result in (as seen in numerous Iasa corporate assessments) the following
+Think about different reporting structure and use a rating system to determine impact. For example, the above scenario might result in (as seen in numerous Iasa corporate assessments) the following.
 
-| Reporting Impact | Rating | Positive | Negative |
-| Architect Communication | Very low |   | Difficulty in communication and lack of shared language even where skillsets are similar. |
-| Community Involvement | Very Low |   | There is no community extant. |
-| Stakeholder Understanding | Medium Low |   | Low/Medium. The stakeholders seem independently ok with this but confusion arises commonly. |
-| Skillset Compatibility | Low |   | The groups have significant skill differences leading to communication problems. |
-| Training | Low |   | There is no sharing training. |
-| Shared Value Delivery | Medium | Both teams are delivering value and contributing to architecture. | It is difficult to share value goals with so much |
-| Stakeholder Access | High | This arrangement allows access to business stakeholders unavailable to reporting to an IT group. | Possibly a negative in that the access is not delivering as much value as it could. |
-| Lifceycle/Process | Very Low |   | Constant bickering and re-orgs and confusion about process touchpoints and handoffs. |
-| Etc. |   |   |   |
+| Reporting Impact          | Rating     | Positive                                                                                         | Negative                                                                                           |
+| ------------------------- | ---------- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| Architect Communication   | Very low   | Clear roles and responsibilities can help mitigate communication issues.                         | Difficulty in communication and lack of shared language even where skillsets are similar.          |
+| Community Involvement     | Very Low   | Potential for growth if community is established.                                                | No existing community support.                                                                     |
+| Stakeholder Understanding | Medium Low | Stakeholders are generally informed and supportive.                                              | Low/Medium. The stakeholders seem independently ok with this but confusion arises commonly.        |
+| Skillset Compatibility    | Low        | Opportunities for skill development and training to align team capabilities.                     | The groups have significant skill differences leading to communication problems.                   |
+| Training                  | Low        | Opportunity to establish a structured training program.                                          | Lack of shared training programs.                                                                  |
+| Shared Value Delivery     | Medium     | Both teams are delivering value and contributing to architecture.                                | Difficulty in aligning and sharing value goals.                                                    |
+| Stakeholder Access        | High       | This arrangement allows access to business stakeholders unavailable to reporting to an IT group. | Possibly a negative in that the access is not delivering as much value as it could.                |
+| Lifceycle/Process         | Very Low   | Opportunity to streamline and clarify processes to reduce confusion.                             | Constant disputes and reorganisation, leading to confusion about process touchpoints and handoffs. |
+| Collaboration Tools       | Medium     | Implementation of collaboration tools can enhance communication and coordination.                | Lack of effective collaboration tools hinders communication.                                       |
+| Performance Metrics       | Medium     | Establishing clear performance metrics can drive improvements and accountability.                | Inconsistent or unclear performance metrics can lead to confusion and lack of direction.           |
 
 # Practice Based Methods
 
 The following practice based techniques and methods will aid the organization in growing the recognition of value as well as the competencies of its practitioners. The team goals canvas is an interesting tool to help align a practice.
 
-![image001](media/organization007.png)
+[![image001](media/organization007.png)](https://iasa-global.github.io/btabok/architect_team_goals_canvas.html){:target="_blank"}
 
 ## Mentors, Administrators and Career Path
 
@@ -192,4 +197,4 @@ Bass, Len; Weber, Ingo; Zhu, Liming (2015). DevOps: A Software Architect's Persp
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)z

@@ -115,11 +115,11 @@ An architect is responsible for linking technology decisions with business strat
 | | -   The associate must be able to differentiate between different scenario to describe how different policies impact quality attribute trade-offs inherent in those scenarios.
 | | -   The associate needs to understand how device management policies relate to configuration Management.
 | | -   The associate should be able to use an appropriate reference model to match a given set of user scenarios.
-| **CITA -- Specialist** | -   The specialist is able to discuss the architectural implications various kinds of devices that includes mobile data management, embedded devices etc.
+| **CITA -- Professional** | -   The specialist is able to discuss the architectural implications various kinds of devices that includes mobile data management, embedded devices etc.
 | | -   The specialist is able to describe how to manage these device policies and formulate complex policies from overall design considerations.
 | | -   The specialist is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
 | | -   The specialist is able to customize areas of the design to meet unique scenarios.
-| **CITA -- Professional** | -   The professional will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams.
+| **CITA -- Distinguished** | -   The professional will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams.
 | | -   The professional has an ability to change their device management policies based on further discussion with different stakeholders and explain in detail all the aspects required in making trade-off in the architecture based on requirements and how they impact quality attributes.
 | | -   The professional will understand different approaches to manage devices in modalities such as IoT and mobile device management.
 | | -   The professional will be able to articulate the impact of decisions from different layers in the device architecture have on their management.

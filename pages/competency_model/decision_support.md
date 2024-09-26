@@ -48,8 +48,8 @@ Is there a need for skills in business intelligence to enable decision support?
 | | -   Manage decision support environments and connections
 | | -   Business decision management and documentation
 | **CITA -- Associate** | -   Start list items here...
-| **CITA -- Specialist** | -   Identify key decision support opportunities
-| **CITA -- Professional** | -   Start list items here...
+| **CITA -- Professional** | -   Identify key decision support opportunities
+| **CITA -- Distinguished** | -   Start list items here...
 
 # Resources
 

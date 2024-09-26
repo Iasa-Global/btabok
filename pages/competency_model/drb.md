@@ -77,11 +77,11 @@ Initial step in DR/BCP planning process and should include the: Assessment and p
 | **CITA- Foundation** | -   The Learner should be able to identify the key requirements for DR and BCP planning.
 | **CITA -- Associate** | -   The Learner is able to articulate the key considerations in the DR/BCP planning including RTO and RPO definition.
 | | -   The Learner is able to speak to the different processes and interdependencies between these processes.
-| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of different business impact analysis processes.
+| **CITA -- Professional** | -   The Learner will be able to demonstrate working knowledge of different business impact analysis processes.
 | | -   The Learner is able to discuss the architectural implications of DR/BCP plans, including capacity planning, data and networking implication
 | | -   The leaner is able to articulate the finding of the business impact analysis to various stockholders.
 | | -   The leaner is able to articulate cost implication of the defined RPO/RTO analysis. Also the ability to articulate cost/benefit analysis based on various RPO/RTO parameters.
-| **CITA -- Professional** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
+| **CITA -- Distinguished** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
 | | -   The Learner has experience developing and building DR/BCP plan based on the business impact analysis
 | | -   The Learner has an ability to change their DR/BCP plans based on findings from business impact analysis and cost analysis.
 

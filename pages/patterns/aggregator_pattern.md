@@ -34,34 +34,34 @@ The Aggregator allows for endpoint consolidation which can perform an entire ope
 
 The Aggregator is efficient when:
 
-*   Used as a collection point for data from microservices, and not as a switch or router;
-*   When the collected data must be processed according to certain rules
-*   When the transaction rate is low
-*   When the risk due to the Fan-out Antipattern is low (ie. when multiple services fail leading to a potential slowing down or disruption of services)
-*   When data provider services are asynchronous
+* Used as a collection point for data from microservices, and not as a switch or router;
+* When the collected data must be processed according to certain rules
+* When the transaction rate is low
+* When the risk due to the Fan-out Antipattern is low (ie. when multiple services fail leading to a potential slowing down or disruption of services)
+* When data provider services are asynchronous
 
 ## Advantages of the Aggregator Pattern
 
-*   Reduces the communication overhead between a client and the services from whom it requires data
-*   Architecturally, allows for simple endpoint consolidation of discrete functionality.
-*   Aggregator can be positioned anywhere in the in the architecture to provide a single point of composition.
-*   Aggregator allows for changes in the backend without clients having to worry about service endpoint definitions changing.
+* Reduces the communication overhead between a client and the services from whom it requires data
+* Architecturally, allows for simple endpoint consolidation of discrete functionality.
+* Aggregator can be positioned anywhere in the in the architecture to provide a single point of composition.
+* Aggregator allows for changes in the backend without clients having to worry about service endpoint definitions changing.
 
 ## Disadvantages of the Aggregator Pattern
 
 Some issues with the usage of this pattern may be:
 
-*   Updates to the implementation due to new service additions may require us to redesign the code.
-*   Increased risk of latency or failure when one or more of the data provider microservices (or their dependencies) fail
-*   Troubleshooting may be laborious
+* Updates to the implementation due to new service additions may require us to redesign the code.
+* Increased risk of latency or failure when one or more of the data provider microservices (or their dependencies) fail
+* Troubleshooting may be laborious
 
 ## Comparison: Aggregator vs API Gateway
 
-*   API gateway can also be position anywhere in the system but this pattern is traditionally used more as an entry point.
-*   API gateway functions as a single entry point as well just like the aggregator but it traditionally does not store data, however, technically it will partially store the information whilst performing API composition. Data is not retained once the composition is complete.
-*   API gateway will drop the entire operation during API composition and return an error to client If one of the endpoints returns a failure.
-*   API gateway provides request routing for the client based on rules defined. The Aggregator may not.
-*   API gateway can provide authentication and authorization for incoming requests from clients based on defined conditions.
+* API gateway can also be position anywhere in the system but this pattern is traditionally used more as an entry point.
+* API gateway functions as a single entry point as well just like the aggregator but it traditionally does not store data, however, technically it will partially store the information whilst performing API composition. Data is not retained once the composition is complete.
+* API gateway will drop the entire operation during API composition and return an error to client If one of the endpoints returns a failure.
+* API gateway provides request routing for the client based on rules defined. The Aggregator may not.
+* API gateway can provide authentication and authorization for incoming requests from clients based on defined conditions.
 
 ## Contextual Example
 

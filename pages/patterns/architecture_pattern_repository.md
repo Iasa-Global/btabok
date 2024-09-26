@@ -19,7 +19,19 @@ Developers must design clean, clearly designed code to avoid bug creep into the 
 
 However, it is not required to solve all problems “from scratch”. It is preferable to learn from and deploy the lessons from the captured experiences of other designers.
 
-Design Patterns are reusable solutions to common problems in software system design.
+### Definitions
+
+The purpose of this library is to create a central pattern language which aids in the delivery of architecture. First some basic vocabulary. 
+
+Design Pattern - Design Patterns are reusable solutions to common problems in software system design.
+
+Reference Design or Architecture - A combination of patterns and design decisions that work well together to solve a larger scoped technical or business problem. 
+
+Design or Architecture Style - a connected suite of patterns which enable a design direction across a multi-application roadmap. 
+
+[Principles](../engagement_model/principles.md) - a suite of decisions which have been selected by an architecture practice. 
+
+![](diagrams/overview.drawio.svg)          
 
 ## History of Design Patterns
 
@@ -55,44 +67,43 @@ Once the problem has been studied, designing with patterns will result in a cohe
 
 The specification of a Design Pattern is usually subjective. However, most specifications usually conform to the basic template below.
 
-| **Term**               | **Description**                                                                                                                                                                       |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Name                   | A short descriptive appellation for the pattern, usually indicative of its purpose.                                                                                                   |
-| Functional description | A description of what the pattern does.                                                                                                                                               |
-| Synonyms               | Other names for the pattern                                                                                                                                                           |
-| Classification         | Behavioural, Creational, Structural, and so on.
+| **Term**               | **Description**                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------- |
+| Name                   | A short descriptive appellation for the pattern, usually indicative of its purpose. |
+| Functional description | A description of what the pattern does.                                             |
+| Synonyms               | Other names for the pattern                                                         |
+| Classification         | Behavioural, Creational, Structural, and so on.                                     |
+
                                             |
+
 | Motivation             | A description of the problem for which this pattern could be the solution                                                                                                             |
 | Usage scenario         | Where this pattern would be applicable                                                                                                                                                |
 | Structure              |  How to construct an implementation based on this pattern                                                                                                                             |
 | Stakeholders           | Other entities with whom the construct in question would interact, and how the interaction would take place. The individual responsibilities of all the actors in the given scenario. |
-| Expected Behaviour     | The consequences of the usage of the pattern in a given situation                                                                                                                     |
+| Expected Behaviour     | The consequences of the usage of the pattern in a given situation    
+
 
 ## Classification of Pattern Types
 
-Patterns can be classified according to the following broad disciplines:
-
-* Enterprise Architecture
-* Enterprise Application Architecture
-* Software Architecture
-* Software Design
-
 ## Catalog of Patterns
-
-### Enterprise Architecture Catalog
-
-### Enterprise Application Architecture Patterns
-
-### Software Architecture Patterns
 
 ### Software Design Pattern Types and Catalog
 
-| **Pattern Type** | **Architectural Relevance**        | **Patterns**                                                                     |
-|------------------|------------------------------------|----------------------------------------------------------------------------------|
-| Cloud            | Infrastructure, Software, Solution | Cloud Patterns Library |
-| Microservices    | Infrastructure, Software, Solution | Microservices Patterns Library                                                   |
-| Software Design  | Software, Solution                 | Software Patterns Library (example: Gang of Four                                 |
+| **Pattern Type**                                                  | **Architectural Relevance**        | **Patterns**                                     |
+| ----------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------ |
+| [Cloud](https://iasa-global.github.io/btabok/cloud_patterns.html) | Infrastructure, Software, Solution | Cloud Patterns Library                           |
+| Microservices                                                     | Infrastructure, Software, Solution | Microservices Patterns Library                   |
+| Software Design                                                   | Software, Solution                 | Software Patterns Library (example: Gang of Four |
 
+## References
+
+1 [Microsoft Architecture Catalog]("https://learn.microsoft.com/en-us/azure/arch)
+
+2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
+
+3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
+
+4 [Reference Architectures](https://medium.com/geekculture/reference-architectures-e98595545baa)
 
 <div class="row">
          <div class="col-md-4 col-sm-6">
@@ -107,6 +118,21 @@ Patterns can be classified according to the following broad disciplines:
                      <h4>Aggregator Pattern</h4>
                      <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
                      <a href="aggregator_pattern.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+          <div class="col-md-4 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-plus-circle fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Ambassador Pattern</h4>
+                     <p>The Aggregator is a microservice by itself. It provides a unified API to a client obtain data from various microservices.</p>
+                     <a href="ambassador_pattern.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>

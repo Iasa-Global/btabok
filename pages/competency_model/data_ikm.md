@@ -155,8 +155,8 @@ A knowledge management project should support the activities that comprise a kno
 | **CITA- Foundation** | -   Learner will be able to name the steps in the KM Process and understand what they are.
 | **CITA -- Associate** | -   Learner will be able to identify and describe the differences between the steps of a basic SDLC (conception, requirements, development, test, transition, deployment) and the steps of the KM process
 | | -   Learner will be able to identify the joint points between the SDLC and the KM process.
-| **CITA -- Specialist** | -   Learner will be able to identify and describe when it is most appropriate to use the different steps of the KM Process whit different SDLC, and highlight the advantages and disadvantages of each
-| **CITA -- Professional** | -   *Learner will be able to customize the KM Process to get advantage over the different SDLCs and identify what is the most effective thing to do*
+| **CITA -- Professional** | -   Learner will be able to identify and describe when it is most appropriate to use the different steps of the KM Process whit different SDLC, and highlight the advantages and disadvantages of each
+| **CITA -- Distinguished** | -   *Learner will be able to customize the KM Process to get advantage over the different SDLCs and identify what is the most effective thing to do*
 | | -   *Learner will know the risk of missing out activities defined in the KM process and be able to justify this where appropriate*
 
 ## Knowledge Management Infrastructure (system)
@@ -176,10 +176,10 @@ Typical utilization scenarios comprise discussion groups, search engines, inform
 | **CITA -- Associate** | -   Learner will be able to use a number of the tools and techniques
 | | -   Learner will be able to identify the common use scenarios for the KM infrastructure
 | | -   Learner will be able to identify the different common concepts ontology for the KM infrastructure
-| **CITA -- Specialist** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
 | | -   Learner will be able to identify the most favourable use scenarios for the KM infrastructure
 | | -   Learner will be able to define the concepts that underlying the KM ontology
-| **CITA -- Professional** | -   *Learner will be able to drive the introduction of new tools and technique into the organization*
+| **CITA -- Distinguished** | -   *Learner will be able to drive the introduction of new tools and technique into the organization*
 | | -   Learner will be able to design the use scenarios for the KM infrastructure
 | | -   *Learner will be able to define the ontology for the OM*
 

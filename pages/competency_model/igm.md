@@ -138,11 +138,11 @@ Information architects ongoing efforts will include watching for and mitigating:
 | | -   Assist in preparation of standards, policies and other documents requiring review by a senior architect for approval by information governance council
 | | -   Run calculations to estimate value of information assets under guidance of a senior architect
 | | -   Implement plans from a senior architect to support information governance projects and initiatives
-| **CITA -- Specialist** | Learner will be able to:
+| **CITA -- Professional** | Learner will be able to:
 | | -   Prepare standards, policies and other documents for approval by information governance council
 | | -   Assess calculation techniques to estimate value of information assets
 | | -   Provide technical support and guidance for information governance projects and initiatives
-| **CITA -- Professional** | Learner will be able to:
+| **CITA -- Distinguished** | Learner will be able to:
 | | -   Justify to members of council the value of information as an asset using metrics and with an understanding of the business' strategy
 | | -   Review and critique estimated values of information assets
 | | -   Review technology, processes and value for information governance projects and initiatives

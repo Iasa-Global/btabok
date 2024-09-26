@@ -86,7 +86,7 @@ Some of the Quality Attributes that could be associated with Change Management; 
 *   **CITA – Specialist** Learner will be able to describe the relationship between Quality Attributes relating to Change Management, either that have negative, neutral or positive relationship
 *   Learner will be able to describe to stakeholders the trade offs between conflicting Change Management in detail for a solution
 *   **CITA – Professional** Learner will be able to document the Quality Attributes that are linked to the Architecturally Significant Decisions
-*   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate
+*   Learner will know the risk of not meeting the correct level of Quality on one or more of the Attributes and be able to justify this where appropriate.
 
 ## Organisations Strategy
 

@@ -40,13 +40,13 @@ To effectively provide coverage for architecture activities, the architecture te
 
 The canvas below provides a tool for estimating coverage. Think of each of the columns as different areas of business and technology. The rows highlight the level of stakeholders such as the executive level and their involvement includes the senior most executives in the organization, which may be a small or large group. The columns at first seem odd but they are organized around change/transformation in relation to large and small technology decisions. Using this tool, the architecture practice can quickly decide where it is currently providing effective coverage and where it needs to grow.
 
-![image001](media/coverage002.png)
+[![image001](media/coverage002.png)](https://iasa-global.github.io/btabok/architects_engagement_touchpoints.html){:target="_blank"}
 
 Figure 2 Architect Engagement Canvas
 
 ## Extended Teams Can Only Cover So Much
 
-The most important lesson in coverage is that it is the architect competencies that matter most in value and structural outcomes. These do not necessarily correspond to title, they must be measured and maintained regularly and include all 5 pillars in the [competency model](competency.md){:target="_blank"}. It is possible to scale coverage in the short term with an extended team model, but it requires significant mentoring and effort that begins to shift the architecture practice towards an oversight or governance focus that has meant the end of so many architecture teams. To stay pro-active and innovation focused (see [architecture practice](architecture_practice.md){:target="_blank"}, [engagement model](engagement.md){:target="_blank"}, [governance](governance.md){:target="_blank"}, and [innovation](innovate.md){:target="_blank"} to understand these relationships) the architecture team must stay actively involved from strategy to execution to measurement. Thus, the extended team should become the source of new architects as the maturity of the practice builds.
+The most important lesson in coverage is that it is the architect competencies that matter most in value and structural outcomes. These do not necessarily correspond to title, they must be measured and maintained regularly and include all 5 pillars in the [competency model](competency.md){:target="_blank"}. It is possible to scale coverage in the short term with an extended team model, but it requires significant mentoring and effort that begins to shift the architecture practice towards an oversight or governance focus that has meant the end of so many architecture teams. To stay pro-active and innovation focused (see [architecture practice](architecture_practice.md){:target="_blank"}, [engagement model](engagement.md){:target="_blank"}, [governance](governance_em.md){:target="_blank"}, and [innovation](innovate.md){:target="_blank"} to understand these relationships) the architecture team must stay actively involved from strategy to execution to measurement. Thus, the extended team should become the source of new architects as the maturity of the practice builds.
 
 ![image001](media/coverage003.png)
 

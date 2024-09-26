@@ -73,10 +73,10 @@ The structure of the code can change significantly during this refactoring exerc
 | | -   Learner will be able to outline the benefits of decomposition and reuse
 | **CITA -- Associate** | -   Learner will be able to analyze an existing design or system and identify where decomposition would be beneficial.
 | | -   Learner will be able to analyze an existing design or system and identify a section which can be refactored for reuse.
-| **CITA -- Specialist** | -   Learner can design a system with reuse in mind.
+| **CITA -- Professional** | -   Learner can design a system with reuse in mind.
 | | -   Learner will be able to formulate a plan for decomposing a design or system.
 | | -   Learner will be able to demonstrate where decomposition and reuse are beneficial.
-| **CITA -- Professional** | -   Learner will be able to mentor developers and assess whether decomposition has been applied correctly or taken too far.
+| **CITA -- Distinguished** | -   Learner will be able to mentor developers and assess whether decomposition has been applied correctly or taken too far.
 | | -   Learner will be able to evaluate the cost benefit of a decomposition and refactoring exercise.
 
 ## Pre-Built Component Selection
@@ -105,9 +105,9 @@ Taking this example a step further we can set-up our abstraction layer to load t
 | **CITA -- Associate** | -   Learner will be able to evaluate several pre-built components, listing the pro's and con's of each.
 | | -   Learner will be able to explain why a poorly selected component is unsuitable.
 | | -   Learner will be able to design an abstraction layer for a pre-built component.
-| **CITA -- Specialist** | -   Learner will be able to perform a detailed analysis of costs, compatibility, interoperability etc.
+| **CITA -- Professional** | -   Learner will be able to perform a detailed analysis of costs, compatibility, interoperability etc.
 | | -   Learner will be able to design a system where pre-built components can be replaced easily.
-| **CITA -- Professional** | -   Learner will be able to mentor developers in pre-built component selection and explain how to choose the correct component.
+| **CITA -- Distinguished** | -   Learner will be able to mentor developers in pre-built component selection and explain how to choose the correct component.
 
 ## Reusable Component Design
 
@@ -135,10 +135,10 @@ Presenting and demonstrating reuse to the development team is an opportunity to 
 | | -   Learner will be able to explain why cataloging reusable components is important.
 | **CITA -- Associate** | -   Learner will be able to explain why a reusable component should be developed.
 | | -   Learner will be able to review a catalog of reusable component and select a suitable component.
-| **CITA -- Specialist** | -   Learner will be able design a reusable component taking future use cases into consideration.
+| **CITA -- Professional** | -   Learner will be able design a reusable component taking future use cases into consideration.
 | | -   Learner will be able to document and publish details of reusable components.
 | | -   Learner will be able to present on reusable components and explain how and when they should be used.
-| **CITA -- Professional** | -   Learner will be able to assess whether the documentation in the component catalog is of sufficient detail.
+| **CITA -- Distinguished** | -   Learner will be able to assess whether the documentation in the component catalog is of sufficient detail.
 | | -   Learner will be able to mentor others on reusable component design and how to document and present details of reusable components.
 
 # Related Capabilites

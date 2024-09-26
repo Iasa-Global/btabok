@@ -104,8 +104,8 @@ Hence, a good practice is a highly recommended in today's dynamic business env
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will realise that information operations are critical to the business; beginning to take actions (in people/organization, process and technologies) to gain operational control and visibility.
 | **CITA -- Associate** | -   Learner will define the information operational services for the organisation to move to a managed environment, for example, for day-to-day IT support processes and improved success in project management to become more customer- centric and increase customer satisfaction.
-| **CITA -- Specialist** | -   Learner will influence the senior management/stakeholders to enable information operational services. Helps organisation to gain efficiencies and service quality through standardisation, policy development, governance structures and implementation of proactive, processes, such as change and release management.
-| **CITA -- Professional** | -   Learner will be a trusted partner to the business for increasing the value and competitiveness of business processes, as well as the business as a whole.
+| **CITA -- Professional** | -   Learner will influence the senior management/stakeholders to enable information operational services. Helps organisation to gain efficiencies and service quality through standardisation, policy development, governance structures and implementation of proactive, processes, such as change and release management.
+| **CITA -- Distinguished** | -   Learner will be a trusted partner to the business for increasing the value and competitiveness of business processes, as well as the business as a whole.
 
 # Resources
 

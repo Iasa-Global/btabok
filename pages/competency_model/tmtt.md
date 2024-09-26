@@ -106,8 +106,8 @@ Capabilities to guide a testing process inside a project, understanding the over
 | | -   Learning can demonstrate experience recommending testing structuration strategies
 | | -   Learning can conduct testing review or inspections processes.
 | **CITA -- Associate** |
-| **CITA -- Specialist** |
 | **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 ## Test Management, Monitoring and Control
 
@@ -117,7 +117,7 @@ Experience integrating testing practices within the development of projects arou
 | :-: | :-: |
 | **CITA- Foundation** |
 | **CITA -- Associate** |
-| **CITA -- Specialist** | -   Recognizes importance of independent testing
+| **CITA -- Professional** | -   Recognizes importance of independent testing
 | | -   Knows the activities for test planning, lifecycle and estimation
 | | -   Knows how to measure progress in testing evaluation
 | | -   Knows how to organize and present an architecture evaluation session.
@@ -130,7 +130,7 @@ Experience integrating testing practices within the development of projects arou
 | | -   Best practices according the project context
 | | -   Assume critical position regarding the status of the product and the evidence delivered over the performed testing.
 | | -   Know the benefits of testing in modifiability or maintenance of legacy software.
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 ## Dynamic Test Process and Automation
 
@@ -140,13 +140,13 @@ Experience integrating testing practices within the development of projects arou
 | :-: | :-: |
 | **CITA- Foundation** |
 | **CITA -- Associate** |
-| **CITA -- Specialist** | -   Involve configuration management and test automation as needed to reduce timeboxes side project SDLCs.
+| **CITA -- Professional** | -   Involve configuration management and test automation as needed to reduce timeboxes side project SDLCs.
 | | -   Involve best techniques practices inside software development cycles and justify it.
 | | -   Collaboration with the product testing team to define the best strategies to engage in the management of each project to be undertaken.
 | | -   Ensure the proper use of testing tools within the organization.
 | | -   Actively collaborate to produce nonfunctional viewing requirements and testing strategies involved to measure.
 | | -   Know how to measure the testing results to compare this information with the expectations of the product architecture delivered
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 ## Test Improvement and Financials
 
@@ -156,8 +156,8 @@ Related with the capability to apply testing techniques in each of the projects 
 | :-: | :-: |
 | **CITA- Foundation** |
 | **CITA -- Associate** |
-| **CITA -- Specialist** |
-| **CITA -- Professional** | -   Learner knows the basis implications to include different sets of testing practices inside the development process.
+| **CITA -- Professional** |
+| **CITA -- Distinguished** | -   Learner knows the basis implications to include different sets of testing practices inside the development process.
 | | -   Standardize techniques and tools used at organization level.
 | | -   Decide for a project how much testing is enough including technical safety and business risks.
 | | -   Learner can demonstrate experience in defining a complete testing strategy for the project understanding the budget implications (Tradeoff between testing and its respective cost).

@@ -93,9 +93,9 @@ Processes and activities related to identifying and harvesting reusable solution
 | **CITA- Foundation** | -   Learner will be able to name the various types of patterns commonly used by the current organization and understand their purpose
 | **CITA -- Associate** | -   Learner will be able to use a number of patterns in their design activities
 | | -   Learner will be able to document design patterns
-| **CITA -- Specialist** | -   Learner will commonly use patterns in their architecture and design.
+| **CITA -- Professional** | -   Learner will commonly use patterns in their architecture and design.
 | | -   Learner can communicate patterns and their value to others.
-| **CITA -- Professional** | -   Learner will be able to act as a mentor for design patterns
+| **CITA -- Distinguished** | -   Learner will be able to act as a mentor for design patterns
 | | -   Learner can speak publicly on design patterns and participate in industry forums.
 
 ## Leverage of Styles, Patterns and Anti-Patterns
@@ -108,8 +108,8 @@ Usage of good styles and well-known patterns, as well as avoidance of recognized
 | | -   Learner will be able to explain patterns they have encountered or used in previous work.
 | | -   Learner understands the difference between patterns and styles
 | **CITA -- Associate** | -   Learner understands the value and implications of using patterns during design.
-| **CITA -- Specialist** | -   Learner will be an expert in design patterns and be able to highlight the advantages and disadvantages of different patterns
-| **CITA -- Professional** | -   Learner will be able to drive the introduction of design patterns into the organization
+| **CITA -- Professional** | -   Learner will be an expert in design patterns and be able to highlight the advantages and disadvantages of different patterns
+| **CITA -- Distinguished** | -   Learner will be able to drive the introduction of design patterns into the organization
 
 ## Pattern Evaluation
 
@@ -119,8 +119,8 @@ Patterns could be evaluated against different quality attributes. Patterns are o
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will understand the relation between patterns and quality attributes
 | **CITA -- Associate** | -   Learner knows how to balance quality attributes using patterns
-| **CITA -- Specialist** | -   Learner is using patterns to balance different quality attributes during design
-| **CITA -- Professional** | -   Learner uses architectural patterns and styles to balance quality attributes at the enterprise level
+| **CITA -- Professional** | -   Learner is using patterns to balance different quality attributes during design
+| **CITA -- Distinguished** | -   Learner uses architectural patterns and styles to balance quality attributes at the enterprise level
 | | -   Learner facilitates balancing and optimization of quality attributes using patterns and styles throughout the organization
 
 # Related Capabilities

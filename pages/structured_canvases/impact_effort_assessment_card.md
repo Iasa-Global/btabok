@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: impact_effort_assessment_card.html
 folder: structured_canvases
+summary: "Impact Effort Assessment Card"
 tags: 
   - business
   - chief
@@ -14,7 +15,7 @@ tags:
   - solution
 ---
 
-![image001](media/impact_effort_assessment_card001.svg)
+![image001](media/impact_effort_assessment_card.svg)
 
 [Download PPT](media/ppt/impact_effort_assessment_card.ppt){:target="_blank"}
 

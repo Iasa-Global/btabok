@@ -124,7 +124,7 @@ The Solution Architect has mastered the fundamental skills in architecture and h
 
 (Source IASA Job Descriptions)
 
-4.3 - Business (A-BA) 
+4.3 - Business (A-BA)
 -------------------------
 
 The business architect provides leadership of business initiatives through technology strategy by participating in the development of a business strategy to accomplish specific business goals. They provide innovation and opportunity recognition within business units. Specifically, the business architect has mastered the delivery of value through technology support of business strategy. The business architect has developed their understanding of business valuation, business process and business strategy delivery. They act as a liaison from the technology groups to enhance business development and have tremendously advanced skills in business valuation of technology as well has human dynamics.
@@ -200,9 +200,9 @@ Extended teams provide the inputs, outputs and often governance to the architect
 
 Job Descriptions describe the context, scope, duties, tasks and deliverables of the IT Architect.   The Job Description will include the position within the organisation from the perspective of deliverables, the IT Architecture Engagement and management reporting.
 
--   Skill required for the Job are defined in terms of IASA 5 Pillars including qualifications and maturity required of the skill to complete the tasks with competence.
--   Governance processes will identify RACI (Responsible, Accountable, Consulted and Informed) and the decision rights, these need to be linked to the qualitied Job Descriptions.
--   Job Descriptions can be defined for internal and external resources. An organisation may depend on external resources to complete activities they are not always part of the IT Architecture Organisation.
+- Skill required for the Job are defined in terms of IASA 5 Pillars including qualifications and maturity required of the skill to complete the tasks with competence.
+- Governance processes will identify RACI (Responsible, Accountable, Consulted and Informed) and the decision rights, these need to be linked to the qualitied Job Descriptions.
+- Job Descriptions can be defined for internal and external resources. An organisation may depend on external resources to complete activities they are not always part of the IT Architecture Organisation.
 
 (Source created for BTABoK 3.0)
 
@@ -241,8 +241,8 @@ A business case captures the reasoning for initiating a project and what value t
 
 Some things to consider:
 
--   What is the business need?
--   What approaches should be considered?
+- What is the business need?
+- What approaches should be considered?
 
 Business cases have some key components, including an executive summary which is normally only one or two paragraphs long and provides high level details of the need and how it aligns with the organization's business objectives. There will not be many details available so project overview, evaluation, and project selection justification will be high level.
 
@@ -280,9 +280,9 @@ Coverage is the scope, number of services and deliverables provided by the IT Ar
 
 The coverage at the;
 
--   Strategic level is the complete scope of the Enterprise under evaluation
--   Tactical level is the project or system under evaluation
--   Operational is the continuous service improvement activities that the IT Architect performs
+- Strategic level is the complete scope of the Enterprise under evaluation
+- Tactical level is the project or system under evaluation
+- Operational is the continuous service improvement activities that the IT Architect performs
 
 (Source Created for BTABoK 3.0)
 
@@ -309,8 +309,8 @@ One of the keyways architects add value is through structured architecture analy
 
 Quality attributes provide a way for the IT Architect to explore the level of service needed with stakeholders.
 
--   Quality Attributes cut across all IT Architecture concerns also called systemic qualities *ilities
--   Examples are Security, Performance, Manageability, Flexibility, Usability, Resilience, Availability, etc.
+- Quality Attributes cut across all IT Architecture concerns also called systemic qualities *ilities
+- Examples are Security, Performance, Manageability, Flexibility, Usability, Resilience, Availability, etc.
 
 Additionally, some quality attributes compliment, while other are counter to each other. Iasa organizes key quality attributes under usage related, support related, operation related, and security. This makes it easier to consider attributes you need to consider in your design and provides a way to discuss trade-offs with stakeholders. For instance, providing greater personalization will have a negative impact on supportability. Please note, this is a small portion of the quality attributes that are in use in the industry.
 
@@ -328,8 +328,8 @@ Value Streams are a series of activities that are performed by the IT Architectu
 
 Value management is the most critical task of the architect. Value figures should be available from business case to business capability measurement. Value should;
 
--   Represent the delta between capability pre and post delivery
--   Be rolled up through business, information, software and infrastructure architectures into the enterprise architecture
+- Represent the delta between capability pre and post delivery
+- Be rolled up through business, information, software and infrastructure architectures into the enterprise architecture
 
 Architects create models in order to determine what potential approaches should be explored and determine which will provide the greatest value at the lowest risk. These models are typically created at a very high level and are used to help you better explore various aspects of a business case.
 
@@ -345,13 +345,13 @@ This section defines the terms related to the Operating Model within the Engagem
 
 Services here as they are natural outcomes of capability-based thinking the following are some of the examples of Service Thinking. Services are in this context are not technical elements like SOA or microservices
 
--   Services are what customers want
--   A service offered by an Enterprise to its customers or other participants in its ecosystem (suppliers, partners).
--   A Service recognized as a Product and offered to Service Consumers on a commercial basis or to support commercial activity
--   A service that offers clear value to the consumer but not offered on a commercial basis is also a service.
--   A human service offered on a commercial basis as a professional service.
--   A service offered to a supplier or partner 'upstream' or another ecosystem player on a non-commercial basis.
--   A government service offered to a citizen to complete a legally required activity
+- Services are what customers want
+- A service offered by an Enterprise to its customers or other participants in its ecosystem (suppliers, partners).
+- A Service recognized as a Product and offered to Service Consumers on a commercial basis or to support commercial activity
+- A service that offers clear value to the consumer but not offered on a commercial basis is also a service.
+- A human service offered on a commercial basis as a professional service.
+- A service offered to a supplier or partner 'upstream' or another ecosystem player on a non-commercial basis.
+- A government service offered to a citizen to complete a legally required activity
 
 (Source IASA Solution Architecture Course)
 
@@ -360,16 +360,16 @@ Services here as they are natural outcomes of capability-based thinking the foll
 
 Architecture assignment is the process, methods and goals which describe the way a team of architects engages in work with a customer or organization. It requires more than just assigning an architect on a project or product. It also specifies:
 
--   How architects choose work within the portfolio (or continuous delivery cycle).
--   How architects work together to grow in experience, mentor, and ensure success.
--   How the team prioritizes work with a client or project management office or agile releases.
--   How the team delivers the roadmap.
+- How architects choose work within the portfolio (or continuous delivery cycle).
+- How architects work together to grow in experience, mentor, and ensure success.
+- How the team prioritizes work with a client or project management office or agile releases.
+- How the team delivers the roadmap.
 
 Assignment Methodology. Depending on organizational maturity and architecture maturity as well as work delivery methodology in use the architecture team must customize their process. Generally, there are three methods in practice at organizations for work assignment with plenty of overlap and situations where multiple methods are in use.
 
--   Stakeholder-Driven Methods
--   PMO Methods
--   Agile Methods
+- Stakeholder-Driven Methods
+- PMO Methods
+- Agile Methods
 
 Understanding Work Priority. Within any method of change priorities must be established to allow the architecture team to assign the most appropriate architect(s).  Once architectural priority is determined architects may be assigned to the work.
 
@@ -384,23 +384,23 @@ IT Architecture products and services along with their deliverables are guided b
 
 Setup and Strategic Planning stages will decide the following (they are all decisions that are made);
 
--   IT Architecture Principles
--   IT Architecture Policies
--   IT Architecture Guidelines
--   Technology Standards including associated skill sets
+- IT Architecture Principles
+- IT Architecture Policies
+- IT Architecture Guidelines
+- Technology Standards including associated skill sets
 
 Tactical Planning stage will decide the following (guided from the strategic decisions);
 
--   Solutions or approach to be taken for Architectural Significant Requirements
--   Project level architecture decisions including short term technical debt or work arounds
--   Requirements traceability decisions for solution components.
+- Solutions or approach to be taken for Architectural Significant Requirements
+- Project level architecture decisions including short term technical debt or work arounds
+- Requirements traceability decisions for solution components.
 
 Operational and Continuous improvement activities will decide the following (guide by Strategic and Tactical decisions)
 
--   Application evolutionary roadmaps
--   Technology evolutionary roadmaps
--   Skills and training roadmaps
--   Engagement Model operating model improvements
+- Application evolutionary roadmaps
+- Technology evolutionary roadmaps
+- Skills and training roadmaps
+- Engagement Model operating model improvements
 
 (Source created for BTABoK 3.0)
 
@@ -419,10 +419,10 @@ There is both art and science in architecture but leveraging tools and best prac
 
 Design is a human activity, and you are successful in creating architecture when you effectively work with other people and have a common goal or vision. As an architect, you must create a vision that others can understand and support.
 
--   Design is a fundamental human activity.
--   Design is the conception and planning of all the products made by human beings.
--   Design is creating things intentionally.
--   Design is a purposeful creative action.
+- Design is a fundamental human activity.
+- Design is the conception and planning of all the products made by human beings.
+- Design is creating things intentionally.
+- Design is a purposeful creative action.
 
 (Source BTABoK 2.0)
 
@@ -431,11 +431,11 @@ Design is a human activity, and you are successful in creating architecture when
 
 When you consider who the stakeholders are for your project consider who will be impacted by delivery against the project.
 
--   Will there be a group of people that will become irrelevant or displaced when your project is delivered?
--   Will the operations team or user support teams have to support new products and processes?
--   Will the end users have to learn to do things in a different way?
--   Was this project prioritized over another project?
--   Is the executive sponsor for your project going to gain visibility over other executives as a result of your project?
+- Will there be a group of people that will become irrelevant or displaced when your project is delivered?
+- Will the operations team or user support teams have to support new products and processes?
+- Will the end users have to learn to do things in a different way?
+- Was this project prioritized over another project?
+- Is the executive sponsor for your project going to gain visibility over other executives as a result of your project?
 
 There are any numbers of people that can be added to the stakeholder and communications list. Spending the time to compile the list will help the IT Architect craft their communications plan and monitor the progress of their solution.
 
@@ -448,14 +448,14 @@ An architectural requirement is a representation of an architectural concern tha
 
 A requirement is architectural if it:
 
--   Impacts the technology strategy at a level at or above the team defined impact level, or
--   It is structurally important to one or more quality attributes, or
--   It is important enough to an identified and important stakeholder, or
+- Impacts the technology strategy at a level at or above the team defined impact level, or
+- It is structurally important to one or more quality attributes, or
+- It is important enough to an identified and important stakeholder, or
 
 Develop requirements that impact the technology strategy by ensuring that:
 
--   They are of the appropriate scope (not too low or too high)
--   They extract constraints and opportunities to impact actual value
+- They are of the appropriate scope (not too low or too high)
+- They extract constraints and opportunities to impact actual value
 
 Requirements need to be traced from their source to their final outcome.   This is completed using the requirements traceability matrix.   A requirement may or may not be fulfilled in the solution.  If the requirement is fulfilled the technology, process or manual activity needs to be documented.  If the requirement is not fulfilled that should also be documented as a gap.
 
@@ -468,9 +468,9 @@ Document or diagram describing decisions made, solution designs, risk register, 
 
 Deliverables must demonstrate that value of the IT Architecture Engagement.  Deliverables will be different for;
 
--   Strategic Planning activities
--   Tactical/Project activities
--   Operational/Continuous Improvement activities
+- Strategic Planning activities
+- Tactical/Project activities
+- Operational/Continuous Improvement activities
 
 (Source created for BTABoK 3.0)
 
@@ -490,9 +490,9 @@ Architecture methods and tools is defined as; the strategic and tactical use of 
 
 Architecture Tools;
 
--   Strategy, objective tracking and visualization
--   Visualization techniques
--   Methodology tracking throughout the life cycle
+- Strategy, objective tracking and visualization
+- Visualization techniques
+- Methodology tracking throughout the life cycle
 
 (Source IASA BTABoK 2.0)
 
@@ -514,24 +514,24 @@ Architects are expected to show competence in designing solutions that achieve r
 
 Governance
 
--   Governance is necessary to ensure delivery against plan
--   A technology strategy is only as good as what is delivered
--   Architects attach to the existing corporate governance mechanisms
--   We are responsible for the COST and VALUE of technology delivered
--   Governance defines who, when and how by:
-    -   Setting up governance bodies which define policies, standards and guidelines regarding a variety of what subjects.
-    -   Monitoring and enforcing these standards throughout Enterprise
+- Governance is necessary to ensure delivery against plan
+- A technology strategy is only as good as what is delivered
+- Architects attach to the existing corporate governance mechanisms
+- We are responsible for the COST and VALUE of technology delivered
+- Governance defines who, when and how by:
+  - Setting up governance bodies which define policies, standards and guidelines regarding a variety of what subjects.
+  - Monitoring and enforcing these standards throughout Enterprise
 
 Governance is about decision making when faced with choices (new services, changes to services, retirement of services) based on a set of principles (goals)
 
--   Bringing the right groups of people together to clarify what needs to happen and evaluate what could get in the way (who has decision-making authority?)
--   Addresses how expected performance will be evaluated
--   Decides priorities and justifiable level of efforts (resource commitments)
--   Making it clear what processes and activities should or should not happen
--   Seek out risks and provide open discussions and clear approaches to addressing risks
--   Ensures compliance by communicating expectations, regulations, policies, and procedures
--   Capturing and documenting processes and their results as evidence
--   The governance structure will give us a Champion to help address items that impact the workload of stakeholders from outside of our own Branch
+- Bringing the right groups of people together to clarify what needs to happen and evaluate what could get in the way (who has decision-making authority?)
+- Addresses how expected performance will be evaluated
+- Decides priorities and justifiable level of efforts (resource commitments)
+- Making it clear what processes and activities should or should not happen
+- Seek out risks and provide open discussions and clear approaches to addressing risks
+- Ensures compliance by communicating expectations, regulations, policies, and procedures
+- Capturing and documenting processes and their results as evidence
+- The governance structure will give us a Champion to help address items that impact the workload of stakeholders from outside of our own Branch
 
 Most organizations accomplish IT governance by creating groups, such as steering committees, that bring the right parties together to make decisions on a regular basis.
 
@@ -551,9 +551,9 @@ The architecture roadmap is a tool used to describe the transition between two s
 
 CCB -- There are multiple types of roadmap with different uses:
 
--   Architecture roadmap should focus on how the IT plans meet the business objectives
--   Product roadmap will show how new capabilities will delivered over time
--   System roadmap will focus on the lifecycle of the systems
+- Architecture roadmap should focus on how the IT plans meet the business objectives
+- Product roadmap will show how new capabilities will delivered over time
+- System roadmap will focus on the lifecycle of the systems
 
 7.14    Experiments (OM-E)
 --------------------------
@@ -585,30 +585,25 @@ Agility is the ability to move quickly and easily, this can be applied to an org
 
 When applied to the Business, agility means the organisation can:
 
--   Adapt quickly to market changes -- internally and externally
--   Respond rapidly and flexibly to customer demands
--   Adapt and lead change in a productive and cost-effective way without compromising quality
--   Continuously be at a competitive advantage
+- Adapt quickly to market changes -- internally and externally
+- Respond rapidly and flexibly to customer demands
+- Adapt and lead change in a productive and cost-effective way without compromising quality
+- Continuously be at a competitive advantage
 
 Business agility is concerned with the adoption of the evolution of values, behaviours and capabilities. These enable businesses and individuals to be more adaptive, creative and resilient when dealing with complexity, uncertainty and change leading to improved well-being and better outcomes. An agile business is an organisation that embraces the agile philosophy and values at its core, from its people and culture, to its structure and technology. Consequently, an agile business is customer centric.
 
 Agility at the software level defined in the agile manifesto, which aims to uncover better ways of developing software by doing it and helping others do it. Focusing on the core values of:
 
--   Individuals and interactions over processes and tools
--   Working software over comprehensive documentation
--   Customer collaboration over contract negotiation
--   Responding to change over following a plan
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
 That is, while there is value in the items on the right, we value the items on the left more.
 
 The architecture must enable both these needs, by focusing on supporting the team to develop the Product with the right Quality Attributes (flexibility, maintainability and scalability) and an evolvable architecture with a cost effective TCO.
 
 Source adapted from: [https://www.agilebusiness.org/page/WhatisBusinessAgility](https://www.agilebusiness.org/page/WhatisBusinessAgility){:target="_blank"} and [https://agilemanifesto.org/](https://en.wikipedia.org/wiki/Technical_debt){:target="_blank"}
-
-
-
-
-
 
 8.3 - Business Capabilities (O-BC)
 --------------------------------------
@@ -621,9 +616,9 @@ Capabilities are operational in nature. Another way to think about them is as a 
 
 Business capabilities are: ​
 
--   Demonstrable: They have defined inputs and outputs. ​
--   Addressable: They are independent of other capabilities and organizational boundaries. ​
--   Measurable: You can measure their business value and performance characteristics. ​
+- Demonstrable: They have defined inputs and outputs. ​
+- Addressable: They are independent of other capabilities and organizational boundaries. ​
+- Measurable: You can measure their business value and performance characteristics. ​
 
 Capabilities are considered regardless of where they reside inside or outside the organization. ​
 
@@ -631,10 +626,10 @@ An organization's abilities that have potential for development or use. ​
 
 Characteristics: ​
 
--   Strategic: What an organization needs to do to execute strategy​
--   Used to provide focus for taking strategy to action​
--   Abstracts or ignores implementation details​
--   Very stable; an organization's capabilities do not change unless the business model changes significantly​
+- Strategic: What an organization needs to do to execute strategy​
+- Used to provide focus for taking strategy to action​
+- Abstracts or ignores implementation details​
+- Very stable; an organization's capabilities do not change unless the business model changes significantly​
 
 (Source IASA Core Course)
 
@@ -645,11 +640,11 @@ Culture can be defined as the ethnical culture of a global organization, a techn
 
 Managing the culture is affected by many factors:
 
--   Inter and Intra-team friendships
--   Physical barriers
--   Methodologies
--   Tools such as email vs. surface mail and wiki vs. bulletin board
--   Top performers have mastered the art of office politics
+- Inter and Intra-team friendships
+- Physical barriers
+- Methodologies
+- Tools such as email vs. surface mail and wiki vs. bulletin board
+- Top performers have mastered the art of office politics
 
 (Source IASA BTABoK 2.0)
 
@@ -704,9 +699,9 @@ It is in effect how each architect in the company touches the rest of the busine
 
 Engagement Model is a set of conversations, rules and task expectations between a team and their expected partners which align different levels of thinking and strategy
 
--   Organizational or company level -- senior leadership with chief architect, with strategic documents/priorities/metrics
--   Business unit level -- between the sponsors of a project or program and designated subset of architecture team, measured in quarterly milestones and KPI's
--   Execution level -- the project team and key individuals as subject-matter-experts, or required for user adoption and a single architect for the project, measured against risk elements and project schedule and stage gates
+- Organizational or company level -- senior leadership with chief architect, with strategic documents/priorities/metrics
+- Business unit level -- between the sponsors of a project or program and designated subset of architecture team, measured in quarterly milestones and KPI's
+- Execution level -- the project team and key individuals as subject-matter-experts, or required for user adoption and a single architect for the project, measured against risk elements and project schedule and stage gates
 
 (Source IASA Core Course)
 

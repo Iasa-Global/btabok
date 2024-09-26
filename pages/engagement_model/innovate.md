@@ -11,10 +11,9 @@ tags:
 ---
 
 > "For good ideas and true innovation, you need human interaction, conflict, argument, debate."
-**Margaret Heffernan**
+> **Margaret Heffernan**
 
 # What Does it Mean to Innovate
-
 
 verb (used without object), in-no-vat-ed, in-no-vat-ing.
 
@@ -43,7 +42,6 @@ Innovation is an overloaded term similar to architecture and agile. Often corpor
 # Why is Innovation Important to Architects
 
 ![image001](media/innovate001.jpg)
-
 Figure 1 MIT Sloan Innovation and Disruption
 
 The architecture practice is a major source of innovation for the digital advantage of a company within the limits of risk-appetite and safety and liability limits of the organization.
@@ -54,16 +52,16 @@ Although people tend to think of products when they think of innovations, there 
 
 of innovations. Thinking of innovation in broad terms can help a company look for sources of new value outside of traditional products.
 
-| **Type** | **Example** |
-| --- | --- |
-| New Products, Services or Technologies | Consider the impact of products such as the light bulb, automobile, personal computer and the Internet |
-| New Customer Experiences | Furniture retailing was transformed by having customers\
-co-create and assemble furniture |
-| New Processes | Dell's build-to-order personal computer process has dramatically changed the way people purchase technology |
-| New Channels | Netflix transformed the movie rental business by using the Internet and mail to rent DVDs with no late fees |
-| New Business Models | Southwest Airlines, JetBlue, and other low-cost airline business models have demonstrated profitability and changed the nature of competition in the airline industry. |
-| New Markets | Novocaine was developed for general surgery, but took off among dentists (much to the dismay of its inventor) |
-| New Organizations | eBay has thousands of "employees" who pay the company to work for it! |
+| **Type**                               | **Example**                                                                                                                                                            |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| New Products, Services or Technologies | Consider the impact of products such as the light bulb, automobile, personal computer and the Internet                                                                 |
+| New Customer Experiences               | Furniture retailing was transformed by having customers\                                                                                                               |
+| Co-create and assemble furniture       |                                                                                                                                                                        |
+| New Processes                          | Dell's build-to-order personal computer process has dramatically changed the way people purchase technology                                                            |
+| New Channels                           | Netflix transformed the movie rental business by using the Internet and mail to rent DVDs with no late fees                                                            |
+| New Business Models                    | Southwest Airlines, JetBlue, and other low-cost airline business models have demonstrated profitability and changed the nature of competition in the airline industry. |
+| New Markets                            | Novocaine was developed for general surgery, but took off among dentists (much to the dismay of its inventor)                                                          |
+| New Organizations                      | eBay has thousands of "employees" who pay the company to work for it!                                                                                                  |
 
 ## Types of Innovation
 
@@ -72,7 +70,6 @@ Greg Satel has done a great deal of work in the innovation space. This diagram d
 ![image001](media/innovate002.png)
 
 Tim Kastelle has also done significant work in the innovation space. He defines his matrix based on how well the group does innovation and how committed to innovation it is.
-
 
 ![image001](media/innovate003.png)
 
@@ -86,7 +83,7 @@ As an architect especially as a heavily technical architect it is essential that
 
 ## Blue Ocean Canvas
 
-![image001](media/innovate005.png)
+[![image001](media/innovate005.png)](https://iasa-global.github.io/btabok/blue_ocean_canvas.html){:target="_blank"}
 
 # Managing and Maximizing Innovation
 
@@ -120,16 +117,31 @@ The following shows a Gartner version of the quick ideation and design thinking 
 
 ![image001](media/innovate006.png)
 
+## Innovation as a part of the Lifecycle
+
+![Screenshot 2024-04-20 at 15.23.29.png](../../media/ee4f363bc112dac0c894c1d9823dbfb0f1265dc9.png)
+
+- **Interpret**  
+  In this stage, a researcher gathers information by interpreting signals from a multitude of indicators. This might involve observing user behavior, conducting interviews, or collecting data through surveys. The goal is to understand what problem needs to be solved or what opportunity exists.
+
+- **Experiment** In this stage, the researcher experiments with possible solutions. This might involve creating prototypes, testing different designs with users, or developing a business model.
+
+- **Innovate** Based on the results of the experiments, the researcher refines the solution and develops a new idea or product.
+
+- **Commit** This stage involves securing resources to bring the new idea or product to market. This might involve getting approval from management, securing funding, or building a team.
+
+- **Extract** This stage involves launching the new idea or product and measuring its success. The researcher monitors how the market responds and uses this information to improve the product or develop new ones.
+
 ## Innovation and Future-Casting
 
 The idea that people can see the future is clearly ridiculous. What they can do is see what's around them, imagine what could be and tell stories about the future for others.
 
 Futurecasting is simply envisioning a potential future based on a certain set of assumptions about the world and usually constrained or bounded in some way.
 
--   Linear approaches to dealing with the future lead to missed opportunities
--   People lack to tools to describe potential futures
--   Missed opportunities where key trends were ignored
--   There is no safe space to imagine and play with ideas
+- Linear approaches to dealing with the future lead to missed opportunities
+- People lack to tools to describe potential futures
+- Missed opportunities where key trends were ignored
+- There is no safe space to imagine and play with ideas
 
 In thinking about the future it's critical to create the sense of urgency that the future is coming faster and that the waves will simply not stop coming not matter how hard we wish them to. With wave after wave of disruption coming in increasingly shorter cycles, how valid are the linear multi-year plans we create based on assumption about the future that are eroded as soon as we hit save.
 
@@ -137,9 +149,9 @@ There are many big things coming with significant research and data that foresha
 
 As a species we are addicted to certainty and this addiction leads us into believing that we have the ability to predict the future.
 
--   Assumptions are not information
--   Assumptions are the absence of information
--   Assumptions once accepted or documented are treated as information
+- Assumptions are not information
+- Assumptions are the absence of information
+- Assumptions once accepted or documented are treated as information
 
 Our job when futurecasting is to create space to imagine and storytell while remaining grounded about our inability to predict future events accurately.
 
@@ -147,14 +159,13 @@ The future isn't certain. We struggle to understand the impact of the future and
 
 Challenges
 
--   We miss signals that could impact our organisations
--   We have no process to understand the signals
--   We miss opportunities to benefit from these potential futures
--   We drift into unwanted futures
+- We miss signals that could impact our organisations
+- We have no process to understand the signals
+- We miss opportunities to benefit from these potential futures
+- We drift into unwanted futures
 
 There is an excellent technique and metaphor described by Jane McGonigal.
-
-![image001](media/innovate007.png)
+[![image001](media/innovate007.png)](https://iasa-global.github.io/btabok/future_casting_canvas.html){:target="_blank"}
 
 Figure 2 Future Casting -- Artwork by Gar Mac Criosta
 
@@ -163,16 +174,18 @@ The future sends signals, the team can think of those signals as jellybeans. Jel
 This technique has been turned into the future-casting signal card and future-casting canvas below.
 
 ![image001](media/innovate008.png)
-
 Figure 3 Signal Cards
 
-![image001](media/innovate009.png)
-
+[![image001](media/innovate009.png)](https://iasa-global.github.io/btabok/future_casting_canvas.html){:target="_blank"}
 Figure 4 Future Casting Canvas
 
 # References and Further Reading
 
 [https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/](https://sloanreview.mit.edu/article/how-useful-is-the-theory-of-disruptive-innovation/){:target="_blank"}
+
+Innovation [Innovation explained – Definition, Types and Meaning of Innovation (morethandigital.info)](https://morethandigital.info/en/innovation-definition-innovation-types-and-meaning/)
+
+[8 Types of Innovation (With Examples and Integration Tips) | Indeed.com Australia](https://au.indeed.com/career-advice/career-development/types-of-innovation)
 
 HBR article on Taxonomy of Innovation
 

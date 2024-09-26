@@ -86,7 +86,7 @@ The BTABoK and many other bodies of knowledge describe the business case as an e
 
 The Iasa has two primary templates for use in business case planning. The NABC or Needs Approach Benefits and Consideration, card is effectively a business case on a page and can be very useful where large numbers of business cases need to be evaluated together or against each other.
 
-![image001](media/i_p002.png)
+[![image001](media/i_p002.png)](https://iasa-global.github.io/btabok/business_case_nabc_card.html){:target="_blank"}
 
 Figure 1 The NABC -- Needs Approach Benefits Considerations
 
@@ -116,7 +116,8 @@ Often business architects form the tip of the spear in more advanced architectur
 
 The BTABoK contains many tools for developing the architecture standard practice. For example the Engagement Process tool can be used to evaluate the current and future state documentation, process and tools the architects use to manage their lifecycles and handoffs. For mor information review the Lifecycle article.
 
-![image001](media/i_p004.png)
+[![image001](media/i_p004.png)](https://iasa-global.github.io/btabok/lifecycle_planning_canvas.html){:target="_blank"}
+
 
 # Applying investment planning techniques in practice
 
@@ -134,7 +135,7 @@ Using business architecture tools related to digital business models, mission mo
 
 Architects are generally a very scarce resource in an organization. Many teams comprise less than 1% of the total IT footprint (size of staff plus consultants and vendors). This means that architect teams must be careful with their time. When value and effort are properly aligned in the investment value stream architects will spend little or no time on low value activities and leave that work to traditional technical and business staff. The following chart shows how proper investment planning can impact architecture work. For more information review the [Assignment article.](assignment.md){:target="_blank"}
 
-![image001](media/i_p005.png)
+[![image001](media/i_p005.png)](https://iasa-global.github.io/btabok/impact_effort_assessment_card.html){:target="_blank"}
 
 ## How many business cases do architects create
 

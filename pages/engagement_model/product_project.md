@@ -11,14 +11,14 @@ tags:
 ---
 
 > "A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal."
-**pmi.org**
+> **pmi.org**
 
 # What are Products and Projects?
 
 For many years the primary approach to planning the development of IT solutions to business problems has been based on putting together project teams. This is a temporary team focused on building software which was funded for the duration of the build, justified by the production of a business case. This was usually supported by a waterfall SDLC and could often deliver pretty good results. This could work because in the past many systems were digitizing a manual business process which was well understood and slow to evolve.
 
 > A project is temporary in that it has a defined beginning and end in time, and therefore defined scope and resources. It is unique in that it is not a routine operation, but a specific set of operations designed to accomplish a singular goal.
->
+> 
 > *pmi.org*
 
 If you want to discover more about projects there are many sources available, useful resources can be found here: https://www.apm.org.uk/
@@ -30,7 +30,7 @@ This shift toward agile means the delivery of new functionality can be a steady 
 
 > **A definition:**\
 > A product is something (physical or not) that is created through a process and that provides benefit to a market.  
->
+> 
 > *mountaingoatsoftware.com*
 
 Interestingly neither SAFE nor Less provide a simple definition of what a product is, although the concept is central to their frameworks, so we need to clarify this further to make it useful.
@@ -47,23 +47,23 @@ In small organizations or startups there is often a simple mapping between what 
 
 We need a way of bridging this gap in meaning, thinking about the business view of Products they:
 
--   Must create measurable value for the business​,
--   Must have clear value propositions tailored to the target market or users group,
--   Often has a Product Manager (PM) who is responsible for delivering this value to the business​.
+- Must create measurable value for the business​,
+- Must have clear value propositions tailored to the target market or users group,
+- Often has a Product Manager (PM) who is responsible for delivering this value to the business​.
 
 Before you start developing a new product or feature from the business perspective, you should be able to answer the following questions:​
 
--   What challenge, problem or opportunity have we identified for the business?​
--   How important is this problem we are trying to solve to our market/users?​
--   Can we accurately describe and engage with this target market or user?​
--   Have we validated our assumptions and if not, what is the best way to quickly validate them?​
--   How will we measure if we are successful or not?​
+- What challenge, problem or opportunity have we identified for the business?​
+- How important is this problem we are trying to solve to our market/users?​
+- Can we accurately describe and engage with this target market or user?​
+- Have we validated our assumptions and if not, what is the best way to quickly validate them?​
+- How will we measure if we are successful or not?​
 
 Looking at the products on the technology side they:
 
--   Are the building blocks that make up the Business Products that ultimately deliver value to your business
--   May be defined with shareability in mind (to enable multiple Business Products)
--   Early in a products life may not have an actual technical solution identified
+- Are the building blocks that make up the Business Products that ultimately deliver value to your business
+- May be defined with shareability in mind (to enable multiple Business Products)
+- Early in a products life may not have an actual technical solution identified
 
 When you are looking at how to build the IT solutions to deliver these business products, thing start to get complicated. Ideally to deliver maximum business agility from the product features you would have a direct one to one mapping to the work products delivered by the IT organization. However, this would lead to huge amounts of duplication and waste, as well as data being siloed within these systems.
 
@@ -82,24 +82,28 @@ The product approach defines an approximate lifecycle that all products go throu
 
 The key focus of the architect in these phases of the life cycle are:
 
--   Introduction -- Innovation and exploring the solution
--   Growth -- focus on delivering quality attributes, assessing the impact of new features and managing technical debt
--   Maturity -- watching for unexpected changes in use that might impact quality attributes and ensuring that the applications that deliver the product are evergreened
--   Decline -- controlled release of the IT resources
+- Introduction -- Innovation and exploring the solution
+- Growth -- focus on delivering quality attributes, assessing the impact of new features and managing technical debt
+- Maturity -- watching for unexpected changes in use that might impact quality attributes and ensuring that the applications that deliver the product are evergreened
+- Decline -- controlled release of the IT resources
 
-## Product Owner Role
+## Agile Product Owner
 
-The role of the product owner is critical in the Scrum based agile approaches as they provide direction for the engineering team. It is important that the architect works closely with the product owner, but their responsibilities are different:
+The role of the product owner is critical in agile approaches as they provide direction for the engineering team. It is important that the architect works closely with the product owner, but their responsibilities are different. The combination of the product owner, the architect (technical product owner) and technical lead (engineer) is essential to the outcome of the product delivery lifycycle. It has been found that having all three of these roles creates much healthier outcomes than any single person more than one of them. 
 
-| **Product Owner** | **Architect** |
-| --- | --- |
-| Decides what features will be built and in which order focus on business priority | Advices on the order of features bases on efficiency and technical dependencies |
-| Choices the release date and content | Advices on risk and cost of these dates |
-| Ensures profitability (ROI) | Identifies TCO |
-| Prioritizes features and outcomes according to market value | Identifies possible technical debt incurred in prioritization |
-| Accepts or rejects work results | Ensures quality of work results |
+| **Product Owner**                                                                  | **Architect**                                                                                                                             | Technical Lead                                                                                         |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Decides what features will be built and in which order focus on business priority. | Advises on the order of features bases on technical strategy and technical dependencies.                                                  | Delivers to the backlog of features, epics and requirements. Decides team prioirities.                 |
+| Choooses the release date and content.                                             | Advises on risk and cost of these dates, connects with roadmap of dependencies.                                                           | Delivers to roadmaps and sprints.                                                                      |
+| Ensures profitability (ROI)                                                        | Identifies TCO and technical contribution to ROI.                                                                                         | Ensures cost and quality adherence in implementation.                                                  |
+| Prioritizes features and outcomes according to market value.                       | Identifies possible technical debt incurred in prioritization. Decides baseline design patterns and epics to support primary feature set. | Decides pattern usage guidelines with architect and team to ensure principles are met during delivery. |
+| Accepts or rejects work results.                                                   | Ensures quality of work results.                                                                                                          |                                                                                                        |
 
 The architect plays an important part in delivering a successful product over the whole of it lifetime.
+
+## Product Manager
+
+Product managers are signficantly different than a product owner role. Product management includes a rich history of product planning for customer consumption and the business and outcome planning that goes into product delivery. 
 
 # References and Further Reading
 

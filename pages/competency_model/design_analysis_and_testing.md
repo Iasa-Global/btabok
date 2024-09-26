@@ -41,9 +41,9 @@ Highest priority techniques such as selected ATAM techniques, failure analysis, 
 | | -   Compare and contrast two evaluation methods of your choice (SAAM, ATAM, ARID, ALMA, SBAR, PBA...)
 | | -   After identifying wrong design choices, how can you mitigate that risk?
 | | -   How do you perform design analysis and validation on highly agile project?
-| **CITA -- Specialist** | -   What was the chosen assessment method you used to assess the entire system design?
+| **CITA -- Professional** | -   What was the chosen assessment method you used to assess the entire system design?
 | | -   How did you budget for design analysis and how did you explain/defend it in front of the sponsor?
-| **CITA -- Professional** | -   What new patterns did you discover and document through design analysis?
+| **CITA -- Distinguished** | -   What new patterns did you discover and document through design analysis?
 | | -   What were the triggers that motivated you to perform design validation
 
 # Resources

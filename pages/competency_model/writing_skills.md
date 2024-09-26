@@ -82,10 +82,10 @@ The ability to express information clearly with organized thought. Use of an ove
 | **CITA -- Associate** | -   Learner will have a basic understanding of what phrases and words are effective in achieving accuracy and avoiding ambiguity
 | | -   Learner will be familiar with business and technology terminology of the larger organization and industry
 | | -   Learner will have the ability to write for the distinct audiences of collaborators and stakeholders
-| **CITA -- Specialist** | -   Learner will have a solid structure and flow in their writing
+| **CITA -- Professional** | -   Learner will have a solid structure and flow in their writing
 | | -   Lerner will be able to express information accurately and avoid ambiguity
 | | -   Learner will have the ability to write for audiences of any discipline
-| **CITA -- Professional** | -   Learner will have excellent structure and flow in their writing
+| **CITA -- Distinguished** | -   Learner will have excellent structure and flow in their writing
 | | -   Lerner will have in-depth knowledge of all relevant business and technology terminology
 | | -   Learner will have the ability to write for executive stakeholders or author public information representing the larger organization
 
@@ -100,11 +100,11 @@ Effective communication with the purpose of information exchange or coordination
 | **CITA -- Associate** | -   Learner will have a fine-tuned tone in the communication that encourages collaboration
 | | -   Learner will be able to communicate technical and business information of medium to high complexity
 | | -   Learner will be familiar with multiple written communication applications, such as email, messaging and social media postings
-| **CITA -- Specialist** | -   Leaner's communication is concise and to the point
+| **CITA -- Professional** | -   Leaner's communication is concise and to the point
 | | -   Learner will be able to communicate technical and business information of high complexity
 | | -   Leaner will be able to influence the direction of communication threads
 | | -   Learner will be able to rely on written communication as the only available communication channel
-| **CITA -- Professional** | -   Learner will have a polished style of written communication, which is suitable for any audience
+| **CITA -- Distinguished** | -   Learner will have a polished style of written communication, which is suitable for any audience
 | | -   Learner will be familiar with etiquette of international communication
 | | -   Learner will be able to redirect and recover communication threads that are stuck or moving in the wrong direction
 
@@ -118,8 +118,8 @@ Ability to use text formatting to structure text and make it more readable. The 
 | | -   Learner will be familiar with the document formatting practices of her immediate environment. E.g. learner will know the document templates used in his organization.
 | **CITA -- Associate** | -   Learner will be able to use text formatting techniques to achieve good structuring of written text
 | | -   Learner will be proficient in using most common document formatting practices and use them effectively.
-| **CITA -- Specialist** | -   No additional objectives
-| **CITA -- Professional** |-   No additional objectives
+| **CITA -- Professional** | -   No additional objectives
+| **CITA -- Distinguished** |-   No additional objectives
 
 # Related Capabilities
 

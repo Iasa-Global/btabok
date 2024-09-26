@@ -234,11 +234,11 @@ An architect is responsible for linking technology decisions with business strat
 | | -   The associate must be able to differentiate between different scenario to describe how different policies impact quality attribute trade-offs inherent in those scenarios.
 | | -   The associate needs to understand how data center management policies relate to ITIL standards at a high level.
 | | -   The associate should be able to use an appropriate reference model to match a given set of user scenarios.
-| **CITA -- Specialist** | -   The specialist is able to discuss the architectural implications various kinds of data centers.
+| **CITA -- Professional** | -   The specialist is able to discuss the architectural implications various kinds of data centers.
 | | -   The specialist is able to describe how to manage these data center policies along with architectures to arrive at clear evaluation criteria for scenarios.
 | | -   The specialist is able to articulate cost implication of the defined design. Also the ability to articulate cost/benefit analysis based on various solution options.
 | | -   The specialist is able to customize areas of the design to meet unique scenarios.
-| **CITA -- Professional** | -   The professional will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams.
+| **CITA -- Distinguished** | -   The professional will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams.
 | | -   The professional has an ability to change their data center design based on further discussion with different stakeholders and explain in detail all the aspects required in making trade-off in the architecture based on requirements and how they impact quality attributes.
 | | -   The professional will understand different approaches to data center design in including data center network, storage and processing technologies.
 | | -   The professional will be able to articulate the impact of decisions from different layers in the data center design.

@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: strategy_development_and_rationalization.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "The process of strategy development and rationalization defines how the business architect and IT architect work together."
 tags: 
   - business_technology_strategy
 ---
@@ -89,11 +89,11 @@ Scenarios are developed and tested against the information captured in the SWOT.
 | :-: | :-: |
 | | -   Apply the analysis techniques to simple problem areas
 | | -   Identify and recommend which technique to use for any specific problem area
-| **CITA -- Specialist** | Learner will be able to: |
+| **CITA -- Professional** | Learner will be able to: |
 | :-: | :-: |
 | | -   Explain how to use multiple techniques
 | | -   Apply a number of techniques to a scenario
-| **CITA -- Professional** | Learner will be able to: |
+| **CITA -- Distinguished** | Learner will be able to: |
 | :-: | :-: |
 | | -   Introduce new techniques into an organisation
 | | -   Lead the application of strategic management with senior stakeholders to produce an organization level strategy
@@ -123,11 +123,11 @@ The communication of the strategy also needs to be considered, as will only be u
 | | -   Contribute to activities which create the strategy
 | | -   Apply the strategy to projects they are involved in and describe how it has influenced decisions
 | :-: | :-: |
-| **CITA -- Specialist** | Learner will be able to: |
+| **CITA -- Professional** | Learner will be able to: |
 | | -   Lead the creation of sections of the strategy in their specialty
 | | -   Recommend new techniques to the organisation within these sections
 | :-: | :-: |
-| **CITA -- Professional** | Learner will be able to: |
+| **CITA -- Distinguished** | Learner will be able to: |
 | | -   Develop the approach to strategy development with senior stakeholders
 | | -   Lead the creation of multiple sections of the strategy, including negotiations with external parties
 | | -   Develop a communication plan for the strategy
@@ -177,12 +177,12 @@ The architect must be able to apply the risk taxonomy in the context of their or
 | | -   Understand the level of risk the organization will tolerate and the reasons behind this
 | | -   Identify areas for innovation within the area they work in
 | :-: | :-: |
-| **CITA -- Specialist** | Learner will be able to: |
+| **CITA -- Professional** | Learner will be able to: |
 | | -   Lead innovation sessions using the appropriate tools
 | | -   Assess the appropriateness of adopting innovation based on the business value which can be gained.
 | | -   Understand the cumulative nature of the risk exposure due to innovation within the organisation
 | :-: | :-: |
-| **CITA -- Professional** | Learner will be able to: |
+| **CITA -- Distinguished** | Learner will be able to: |
 | | -   Introduce an innovation adoption process into an organisation
 | | -   Apply strategy canvas maps and value mapping strategies to identify open market spaces where innovation can produce new products or services
 | | -   Identify and justify significant innovations which need C-Level approval
@@ -217,11 +217,11 @@ When looking at adoption from the perspective of the product, the Hyper-Cycle, p
 | | - Analyse specific areas to with regards to new technology adoption
 | | - Apply the organisational risk appetite to recommendations for new technology.
 | :-: | :-: |
-| **CITA -- Specialist** | Learner will be able to: |
+| **CITA -- Professional** | Learner will be able to: |
 | | -   Monitor and evaluate significant areas to recommend when new technology should be adopted
 | | -   Apply the risk attitude of the organisation to justifications, balanced against the potential of missed opportunities
 | :-: | :-: |
-| **CITA -- Professional** | Learner will be able to: |
+| **CITA -- Distinguished** | Learner will be able to: |
 | | -   Monitor the market for disruptive innovations and develop opportunities within the organisation
 | | -   Produce strategies which include the interaction of multiple new technologies and how they will impact the organisation
 
@@ -279,11 +279,11 @@ The above list is not exhaustive; this is a technique which should be used where
 | :-: | :-: |
 | | -   Apply the principles and Policies on projects to make decisions
 | | -   Identify principles and policies within their area of expertise
-| **CITA -- Specialist** | Learner will be able to: |
+| **CITA -- Professional** | Learner will be able to: |
 | :-: | :-: |
 | | -   Identify exceptions to principles and policies and justify them appropriately, based on the effect on business value
 | | -   Develop a full set of principles working with the experts across multiple areas
-| **CITA -- Professional** | Learner will be able to: |
+| **CITA -- Distinguished** | Learner will be able to: |
 | :-: | :-: |
 | | -   Introduce the concept of IT principles and policies into an organisation
 | | -   Extend the areas covered by IT principles as the organisation changes

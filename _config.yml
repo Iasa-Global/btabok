@@ -19,7 +19,7 @@ github_editme_path: Iasa-Global/btabok/blob/main/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 google_analytics: 
-# if you have google-analytics ID, put it in. if not, edit this value to blank.
+# (UA-XXXXXXXXX-X)
 
 host: 127.0.0.1
 # the preview server used. Leave as is.
@@ -64,6 +64,9 @@ collections:
     output: false
   engagements:
     output: true
+  my_collection:
+    output: true
+    permalink: /:collection/:name
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
   
 defaults:
@@ -118,5 +121,7 @@ description: "The Business Technology Architecture Body of Knowledge (Btabok) is
 
 github: [metadata]
 
+permalink: /:categories/:year/:month/:day/:title:output_ext
 
-# Copyright 2022 IASA 202222
+
+# Copyright 2022 IASA

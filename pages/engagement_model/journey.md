@@ -11,7 +11,7 @@ tags:
 ---
 
 > "You’ve got to start with the customer experience and work back the technology, not the other way round."
-**Steve Jobs**
+> **Steve Jobs**
 
 # Introduction
 
@@ -33,33 +33,34 @@ The most obvious answer to this is, it is the organization and the sponsor that 
 
 The customer journey map helps identify the full interaction lifecycle of our customer (based on personas) to engaging with the organization.
 
-![image001](media/journey001.jpg)
+[![image001](media/journey001.jpg)](https://iasa-global.github.io/btabok/customer_journey_map.html){:target="_blank"}
 
 ## Journey Stage Card
 
 For each of the stages of a customer journey we can identify the details of the interaction and opportunities based on it using the journey stage card.
 
-![image001](media/journey002.jpg)
+[![image002](media/journey002.jpg)](https://iasa-global.github.io/btabok/journey_stage_canvas.html){:target="_blank"}
 
 ## Customer Persona Card
 
-![image001](media/journey003.jpg)
+[![image003](media/journey003.jpg)](https://iasa-global.github.io/btabok/persona_card.html){:target="_blank"}
 
 Which bring us to the next question, how do we discover this Customer?
 
 ![image001](media/journey004.png)
-Business Model
+<br>Business Model<br>
 
 Developing (or using if they already exist) both of two models are the first step in this discovery. The first is the _Business Model (BM)_. The Business Model is interesting because not only is it a concise one pager that gives us a high level and extremely pertinent view, but developing it also helps in situating the problem and solution in the larger context and not just within a narrower product/service related paradigm. In my opinion, developing this model is also a great way to up our game and get access to business and the real decision makers as well as to make sure we have a shared vision of where value is and what it means for the Customer. The BM describes important aspects; from the Customer Segment, distribution channels, revenue to be realized and the cost that will be incurred before that happens, to the key value proposition for the service/product. 
 
 The second is the 5P’s marketing model.
 
-
-![image001](media/journey005.png)5 P’s
+![image001](media/journey005.png)
+<br>5 P’s<br>
 
 The 5P’s is normally what the marketing folk use to understand and describe the ecosystem for the product/service to be developed. This model is more focused on the product/service and defines the attributes of the Product, the Pricing strategies, the channels or Places through which the product can be distributed, the Promotional strategies that would influence consumption of the product, and the People at whom the product is aimed as well as the kind of experience they would expect and their specific needs that need to be fulfilled.
 
-![image001](media/journey006.png)Solution Ecosystem
+![image001](media/journey006.png)
+<br>Solution Ecosystem<br>
 
 With the above two models as our foundation we can now delve deeper into the problem space to expand our knowledge of the Customer by modelling the overall [ecosystem](ecosystem.md){:target="_blank"} perspective. If we take the diagram here, we can see it is the way an organization like IASA would be described. In the centre we have what IASA needs to do for its Customer, the budding architect; work with him to grow his skills and get him certified. And the challenges the budding architect will face in his journey juxtaposed against the gains or value that he can/will enjoy. Around this core is an understanding of the resistance the budding architect will consider in terms of dampeners, pitted against what will induce him to work with IASA; the enablers. We also have the activities IASA will have to conduct to make its position stronger and more meaningful as well as the competitors it will have to contend with. To an extent this is like the high-level description of the system we used to do earlier during the requirements gathering phase. The difference is in the model we use. The key advantage of this to what would otherwise have been a document is now a pictorial representation making it easier to understand and communicate with. Having modelled the 90000-foot view of the problem/solution space we need to get closer to the Customer and understand and model his [_viewpoint_](views.md){:target="_blank"} and describe how we can enable him.
 
@@ -79,7 +80,7 @@ On the left is an example of a Persona. Notice the photo of Ian. It puts a human
 
 The detailed model enables us to gain an accurate understanding of the Persona not just in terms of what he wants to do and therefore what we should focus our resources on developing for, the kind of experience he wants to have through his engagement with the technology and also how we can achieve non-functional attributes across common resources, for example based on when Persona(s) are most likely to access the system we could spin of multiple Virtual Machines (VM).
 
-![image001](media/journey009.png)
+[![image001](media/journey009.png)](https://iasa-global.github.io/btabok/stakeholder_empathy_map.html){:target="_blank"}
 
 Most people use a combination of two approaches; interviews and/or questionnaires. The questionnaire has the advantage of reaching to a larger cross-section of people than we would encounter through interview/workshops. If this questionnaire is well framed it could help us understand almost all the aspects of the Persona. However, to get into the shoes of the Persona, an exercise in genuine empathy, interviews are a great tool. The intent of the interview should be to understand what drives the person, his behavioural patterns in terms of several factors, for example, quality, construction of worktime, what does work satisfaction mean to him, interaction preferences and so on. The empathy map on the left can help describe your sense of the Persona; what does he think about tasks, outcomes, his work; how does he feel as he goes about the lifecycle; where does he get information, who does he trust; how does he see the work environment and his sense of himself within it; how does he engage with others (say & do); the pain both emotional and physical as well the value or gains he sees as he performs his tasks. As a word of caution, the tool only aids expression. The ability to demonstrate genuine empathy is what is important. Watching popular TV interviewers is a great place to learn how to inculcate empathy. Another way is watching and observing the users as they go about their work and then writing up what you observed and how you felt through that observation. And still another is being in touch with your own emotional self as you go about using products/services.
 

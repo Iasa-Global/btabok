@@ -242,13 +242,13 @@ The dimension of Process, Methods and Tools contains all of the tools, technique
 -   Learners will be able to describe the different methods to cover each discipline of Software Engineering.
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Learners will be able to define the right tools regarding the methods and the chosen processes for the construction of software.
 -   Learners will be able to define approaches for applying the different disciplines along the Software life-cycle
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   *Learners will be able to define a consistent strategic decision-making processes to track the value realization for the software.*
 -   *Learners will be able to define key performance indicators across the different phases of the process to create software.*
@@ -272,14 +272,14 @@ The dimension of Project Management & Process Improvements contains the manageme
 -   Learners will be able to define activities, standards and constraints that ensure better Project Management practices.
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Learners will be able to identify and describe the AS-IS model for the Project Management cycle work in their organization.
 -   Learners will be able to define the TO-BE model for the Project Management cycle work in their organization
 -   Learners will be able to create a transformation plan to move toward the TO-BE desired model across the business.
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   *Learners will be able to implement an effective Project Management discipline through the implementation of the Project Management methodologies, formal processes for risk and issue management; clear change-control policies; standardized reporting to convey clear messages to all stakeholder groups; as well as a standardized set of project deliverables.*
 
@@ -303,13 +303,13 @@ The last dimension addresses the way in which the non-functional attributes of t
 -   Learners will be able to identify the non-functional requirements for a software product and map them to the right quality attributes.
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Learners will be able to define approaches to meet the goals defined by the quality attributes.
 -   Learners will be able to create models and views in function to the quality attributes for the software product.
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   *Learners will be able to balance and optimize the quality attributes in function to the value realization of the software product and the alignment with the business goals.*
 

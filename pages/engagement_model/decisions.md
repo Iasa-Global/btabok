@@ -11,7 +11,7 @@ tags:
 ---
 
 > "Making good decisions is a crucial skill at every level."
-**Peter Drucker**
+> **Peter Drucker**
 
 # Architecturally Significant Decisions
 
@@ -31,14 +31,14 @@ Envision an enterprise or company, then imagine all the teams in the organizatio
 
 Decisions have an impact radius that can be much larger than many think. By understanding decision scope you can determine appropriate characteristics of the decision, its [velocity](velocity.md){:target="_blank"} and its type. Determining a decisions scope and impact is essential to ensuring that appropriate decision tools are used.
 
-| **Scope** | **Decision Management** |
-| --- | --- |
-| **[Ecosystem](ecosystem.md){:target="_blank"}** | These decisions will impact not only the enterprise but its entire ecosystem as well. A governments choice of procurement requirements for vendors or standards for banking are examples. An enterprise choosing to enforce standards on its customers or suppliers are others. |
-| **Enterprise** | Decisions which impact the entire enterprise. Choice of ERP, cloud strategy, or similar. These are slightly different from standards or guardrails which guide decisions at a lower level. |
-| [**Value Stream**](value_streams.md){:target="_blank"} | Those decisions which impact an entire value stream for a company. |
-| **Solution** | A solution level decision impacts multiple services and products and supports a value stream. |
-| **Product/Service** | Decisions which are limited to impact on a specific product or service but which do not impact neighboring products or services. |
-| **Module** | Decisions for a sub-component of a system. |
+| **Scope**                                              | **Decision Management**                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Ecosystem](ecosystem.md){:target="_blank"}**        | These decisions will impact not only the enterprise but its entire ecosystem as well. A governments choice of procurement requirements for vendors or standards for banking are examples. An enterprise choosing to enforce standards on its customers or suppliers are others. |
+| **Enterprise**                                         | Decisions which impact the entire enterprise. Choice of ERP, cloud strategy, or similar. These are slightly different from standards or guardrails which guide decisions at a lower level.                                                                                      |
+| [**Value Stream**](value_streams.md){:target="_blank"} | Those decisions which impact an entire value stream for a company.                                                                                                                                                                                                              |
+| **Solution**                                           | A solution level decision impacts multiple services and products and supports a value stream.                                                                                                                                                                                   |
+| **Product/Service**                                    | Decisions which are limited to impact on a specific product or service but which do not impact neighboring products or services.                                                                                                                                                |
+| **Module**                                             | Decisions for a sub-component of a system.                                                                                                                                                                                                                                      |
 
 ## Manage Decisions Effectively Across the Enterprise
 
@@ -46,12 +46,12 @@ To effectively manage decisions, the architecture team should put in place a dec
 
 ## A Decision Management Method/Process
 
-1.  As a team identify critical levels of and types of decisions as well as their complexity or scope of impact.
-2.  Identify which of these decisions the team has the ability to be proactively involved in (able to work towards the decision in a multi-functional environment.
-3.  Identify decisions which the team cannot (time, access, scope) be proactively involved.
-4.  Identify critical [stakeholders](stakeholders.md){:target="_blank"} as a part of the [extended team](extended_team.md){:target="_blank"} involved in the architecture lifecycle who may be mentored into rigorous decision methods.
-5.  Create a set of engagement models principles to address each of these situations based on the outcomes the team would like to achieve.
-6.  Revisit during engagement method update.
+1. As a team identify critical levels of and types of decisions as well as their complexity or scope of impact.
+2. Identify which of these decisions the team has the ability to be proactively involved in (able to work towards the decision in a multi-functional environment.
+3. Identify decisions which the team cannot (time, access, scope) be proactively involved.
+4. Identify critical [stakeholders](stakeholders.md){:target="_blank"} as a part of the [extended team](extended_team.md){:target="_blank"} involved in the architecture lifecycle who may be mentored into rigorous decision methods.
+5. Create a set of engagement models principles to address each of these situations based on the outcomes the team would like to achieve.
+6. Revisit during engagement method update.
 
 ![image001](media/decisions001.png)
 
@@ -59,7 +59,7 @@ Figure 1 Architecture Traceability
 
 Use the architecture decision record card as a way to identify option categories and comparisons for framework decisions. The cards can be used on all but the most complex decision categories. To use the card download the PowerPoint file and a) if using alone simply fill out the card with the decision context, linkage to requirements, and other fields, or b) print at canvas size and use sticky notes with a team to brainstorm decision categories and other fields.
 
-![image001](media/decisions002.jpg)
+[![image001](media/decisions002.jpg)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
 ## Decisions Come with Cognitive Biases
 
@@ -72,34 +72,34 @@ Figure 3 Cognitive Bias
 
 To re-enforce a decision and to ensure it is as free of bias as possible, use the decision bias calibrator card to understand and reframe the decision away from biases.
 
-![image001](media/decisions004.jpg)
+[![image001](media/decisions004.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_1.html){:target="_blank"}
 
-![image001](media/decisions005.jpg)
+[![image001](media/decisions005.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
 
 ## Decisions and their Characteristics and Methods
 
 Decisions can be implemented in numerous ways and have many characteristics. While this article includes all of them, normally only one or two are used except for the biggest decisions. These techniques are further expanded in the [Value Methods](https://btabok.iasaglobal.org/btabok_3/value-methods/) article. 
 
-| **Method** | **Decision Management** | **Characteristics** |
-| --- | --- | --- |
-| **Budgeted Evaluation** | The most sophisticated form of decision where a team is assigned to research the decision and make a determination. | Reversibility -- near impossible;\
-Duration -- long;\
-Information Quality -- high;\
-Effort -- very high;\
-Scope -- enterprise, ecosystem; |
-| **Bake-off** | Take three of the scenarios, tools and services and implement something smaller in all of them. Compare them using other methods based on the results. | Reversibility -- near impossible;\
-Duration -- long;\
-Information Quality -- high;\
-Effort -- very high;\
-Scope -- enterprise, value stream, product; |
-| **Cost Benefit Analysis** | Valuation is used to do a cost/benefit analysis of a set of options and is mostly used for product purchases or framework evaluations. | Reversibility, duration and information quality -- medium; Effort -- medium;\
-Scope product/value stream; |
-| **Scoring** | Scoring is a numerical method for doing trade-off analysis based on expert/team opinion of options. Each option is scored on a scale or a weighted scale and the totals drive the outcomes. | Reversibility, duration and IQ -- low to medium;\
-Effort -- medium;\
-Scope -- product, team; |
-| **Opinion** | Little to no decision criteria is used on the decision but an expert or team opinion is used. | Reversibility, duration and IQ -- very low;\
-Effort -- very low;\
-Scope -- module or code; |
+| **Method**                                  | **Decision Management**                                                                                                                                                                     | **Characteristics**                                                           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Budgeted Evaluation**                     | The most sophisticated form of decision where a team is assigned to research the decision and make a determination.                                                                         | Reversibility -- near impossible;\                                            |
+| Duration -- long;\                          |                                                                                                                                                                                             |                                                                               |
+| Information Quality -- high;\               |                                                                                                                                                                                             |                                                                               |
+| Effort -- very high;\                       |                                                                                                                                                                                             |                                                                               |
+| Scope -- enterprise, ecosystem;             |                                                                                                                                                                                             |                                                                               |
+| **Bake-off**                                | Take three of the scenarios, tools and services and implement something smaller in all of them. Compare them using other methods based on the results.                                      | Reversibility -- near impossible;\                                            |
+| Duration -- long;\                          |                                                                                                                                                                                             |                                                                               |
+| Information Quality -- high;\               |                                                                                                                                                                                             |                                                                               |
+| Effort -- very high;\                       |                                                                                                                                                                                             |                                                                               |
+| Scope -- enterprise, value stream, product; |                                                                                                                                                                                             |                                                                               |
+| **Cost Benefit Analysis**                   | Valuation is used to do a cost/benefit analysis of a set of options and is mostly used for product purchases or framework evaluations.                                                      | Reversibility, duration and information quality -- medium; Effort -- medium;\ |
+| Scope product/value stream;                 |                                                                                                                                                                                             |                                                                               |
+| **Scoring**                                 | Scoring is a numerical method for doing trade-off analysis based on expert/team opinion of options. Each option is scored on a scale or a weighted scale and the totals drive the outcomes. | Reversibility, duration and IQ -- low to medium;\                             |
+| Effort -- medium;\                          |                                                                                                                                                                                             |                                                                               |
+| Scope -- product, team;                     |                                                                                                                                                                                             |                                                                               |
+| **Opinion**                                 | Little to no decision criteria is used on the decision but an expert or team opinion is used.                                                                                               | Reversibility, duration and IQ -- very low;\                                  |
+| Effort -- very low;\                        |                                                                                                                                                                                             |                                                                               |
+| Scope -- module or code;                    |                                                                                                                                                                                             |                                                                               |
 
 As the organization begins to manage decisions more effectively there will be types of decisions the architecture team chooses to ignore and styles that become comfortable. Use the minimum decision tools necessary to get to a 70-80% assurance and move on.
 
@@ -113,8 +113,8 @@ The extended team needs to be explicitly brought into the decision making proces
 
 If a large extended team is used as most large agile programs attempt, the extended team needs to be trained to recognize ASDs and mentored regularly with architecture consults. This method is in place whenever there are more than 3-5 teams without an assigned architect at the CITA-Professional level or above. The following techniques can make teams function effectively with a high penetration of architects to developers:
 
-1.  The 1 to 3 ratio is effective in project based work, where up to 3 projects are assigned 1 solution architect. However these projects cannot become huge as a single architect cannot be proactive on more than 1 large project.
-2.  The 1 to 5 ratio is effective in teams/product based work where up to 5 teams are assigned to 1 solution architect. The architect remains proactive in each of these cases.
+1. The 1 to 3 ratio is effective in project based work, where up to 3 projects are assigned 1 solution architect. However these projects cannot become huge as a single architect cannot be proactive on more than 1 large project.
+2. The 1 to 5 ratio is effective in teams/product based work where up to 5 teams are assigned to 1 solution architect. The architect remains proactive in each of these cases.
 
 ## You Are the Technical Product Owner
 
@@ -134,13 +134,13 @@ As you progress through a project you learn more, you become smarter so you must
 
 In summary:
 
--   Keep as many options open for as long as possible
--   Commit when you must or when you have a good reason to
+- Keep as many options open for as long as possible
+- Commit when you must or when you have a good reason to
 
 **Because:**
 
--   Later you are smarter, you know more
--   Wait to make decisions... and wait... and wait... until conditions are met.
+- Later you are smarter, you know more
+- Wait to make decisions... and wait... and wait... until conditions are met.
 
 This is the Last Responsible Moment to make the decision, Glenn Ballard and Todd Zabelle introduced the concept of "last responsible moment" as a foundational principle of lean project management and set based design. They define it as "the point in time at which there is no longer sufficient lead time to realize [an] alternative [design]."
 
@@ -148,8 +148,7 @@ This is the Last Responsible Moment to make the decision, Glenn Ballard and Todd
 
 One decision tends to lead to another. However, it is distinctly important to consider how one impacts another and whether that deserves its own independent tradeoff analysis. Having an HTML front end generally necessitates a web server, but which one and how will it impact the other elements and structural integrity of your architecture? Decision cascades are a means by which some decisions get covered up and cause systemic problems later. As the organization gets more experience making decisions first order objects, these cascades tend to get halted around elements that have deep structural or business outcomes.
 
-
-![image001](media/decisions006.jpg)
+[![image001](media/decisions006.jpg)](https://iasa-global.github.io/btabok/architecture_decision_cascade_card.html){:target="_blank"}
 
 ## Decisions Affect the Enterprise
 
@@ -157,12 +156,12 @@ There are numerous sources of decisions which are often controlled by architectu
 
 To effectively deal with decision scopes a number of different techniques should be in considered in the architect engagement model.
 
-1.  Architecture decision records can be used for all significant solution level decisions.
-2.  A process of architectural analysis will assist in ensuring solution decisions adhere to architecture principles.
-3.  A program level architecture community can manage architectural decisions and how they cascade through the program. This community would regularly review and discuss architectural roadmaps and changes brought about by solution decisions.
-4.  A decision repository can make architecture decisions easier to review and discuss.
-5.  A chief architect program responsible for essential technical services and business capabilities will aid in outcomes related to principles within those areas.
-6.  Architects should actively participate in the governance aspects of the organization.
+1. Architecture decision records can be used for all significant solution level decisions.
+2. A process of architectural analysis will assist in ensuring solution decisions adhere to architecture principles.
+3. A program level architecture community can manage architectural decisions and how they cascade through the program. This community would regularly review and discuss architectural roadmaps and changes brought about by solution decisions.
+4. A decision repository can make architecture decisions easier to review and discuss.
+5. A chief architect program responsible for essential technical services and business capabilities will aid in outcomes related to principles within those areas.
+6. Architects should actively participate in the governance aspects of the organization.
 
 ## Decision Registries and the Repository
 
@@ -184,14 +183,13 @@ The following tools and techniques can be useful in managing architecture decisi
 
 ## Architecture Decision Record
 
-![image001](media/decisions007.png)
+[![image001](media/decisions007.png)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
 
 ## Decision Bias Calibrator
 
+[![image001](media/decisions004.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_1.html){:target="_blank"}
 
-![image001](media/decisions008.png)
-
-![image001](media/decisions009.png)
+[![image001](media/decisions005.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
 
 # References
 

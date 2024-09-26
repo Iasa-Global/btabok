@@ -11,22 +11,20 @@ tags:
 ---
 
 > "People think the free market is a philosophy; they believe it is a creed. It is none of those things. The free market is a bathroom scale; it is a measuring tape; it's simply a measurement."
-**P. J. O'Rourke**
+> **P. J. O'Rourke**
 
 # What is Measurement
 
-
 Measure
 
-1.  ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units. "the amount of water collected is measured in pints."
-2.  assess the importance, effect, or value of (something). "it is hard to measure teaching ability."
+1. ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units. "the amount of water collected is measured in pints."
+2. assess the importance, effect, or value of (something). "it is hard to measure teaching ability."
 
 The definitions of 'to measure' give a clear picture of why it is critical to an organization. Measurement is the act of understanding the standard units or value of anything. The measurement consists of agreements surrounding what is to be measured, what teams are used to measure it, and what the resulting measurement means or indicates. This process is neither easy nor exceptionally accurate. Even in common measurements like the kilogram and the pound, there has been considerable variation in methods and techniques, and meaning. However, no company or government agency could understand their product, service, or capabilities without measurement, much less set a plan for change and growth.
 
 The basis for measurement is a set of commonly held beliefs about what a symbol or a particular unit of measure means and what it represents. For example, is the kilogram a unit of weight? How does it relate to a team of mass? And how are those two things related to developing a turbine engine or a bottle of cola? These tools, while initially appearing simple, are in fact regulated and debated around the world. This underlies the business companies do every day, from currencies to shipping. Thus understanding measurements are critical to understanding business. Business capabilities, value methods, and realization of benefits are all underscored by costs to lead time measurements. In one instance, a significant charity converted or compared all measures internally to a 'unit of a good,' allowing them to compare and contrast projects, programs, and proposals based on how good they would be for humanity.
 
 ## Measurement as a Continuous Event
-
 
 Measuring is as natural to humans as breathing. Employees, owners, investors, journalists, employees are constantly measuring everything around them, from team satisfaction to payscales. To do this, they use a continuous set of internal measures, which are generally very 'fuzzy' and often quite personal. Job satisfaction, work effectiveness, and efficiency are all a part of these internal measures people use to understand how they fit in their environment and how well that environment is functioning.
 
@@ -50,13 +48,12 @@ Figure 1 Value Categories in Measurement
 
 The critical aspect of understanding measures are:
 
-1.  The idea or object to be measured.
-2.  The units of measurement.
-3.  The outputs or correlations to the measurement.
-4.  The translation between those items to meaning.
+1. The idea or object to be measured.
+2. The units of measurement.
+3. The outputs or correlations to the measurement.
+4. The translation between those items to meaning.
 
 An excellent measurement includes a solid understanding of what is being measured. For example, in a value stream, lead time is a measurement that represents the total time it takes for an item to move forward, including both direct and wait time.
-
 
 ![image001](media/measures002.jpg)
 
@@ -88,17 +85,17 @@ Every architect should consistently practice measurement calculation and communi
 
 In the following benefits realization view, measures are used for cost and benefits and those that can be considered technical debt versus technical investment.
 
-![image001](media/measures003.jpg)
-
+[![image001](media/measures003.jpg)](https://iasa-global.github.io/btabok/benefits_realization_view_canvas.html){:target="_blank"}
+<br />
 Figure 3 Benefits Realization View
 
 ## Collect Measurements Like Patterns
 
 Standard measures can be calculated and collected in the same way technologists use patterns. This should be done alongside value methods, as said before. The BTABoK is beginning to catalog standard value measures though it will not house specific measures by the industry as that is far beyond the scope. When engaging in value models with clients, the architect must gather as many measures as possible as they become the language of value for outcomes and objectives. The benefits card below lists some possible benefits measures and how they can be achieved.
 
-![image001](media/measures004.png)
-
-Figure 4 Benefits Card
+[![image001](media/measures004.png)](https://iasa-global.github.io/btabok/benefits_card_layout-b_canvas.html){:target="_blank"}
+<br /> 
+Figure 4 Benefits Card Layout-B
 
 ## Build a Measurement Culture
 
@@ -110,18 +107,20 @@ It should be noted that technology itself has its limits in current understandin
 
 The benefits dependency network can often help to connect these technical measures with impacts to more common business measures allowing architects to help the organization understand these decisions.
 
-![image001](media/measures005.png)
+[![image001](media/measures005.png)](https://iasa-global.github.io/btabok/jtbd_timeline_canvas.html){:target="_blank"}
+<br />
 Figure 4 JBTD Timeline Canvas
 
-![image001](media/measures005.jpg)
+[![image001](media/measures005.jpg)](https://iasa-global.github.io/btabok/benefits_dependency_network_canvas.html){:target="_blank"}
+<br />
 Figure 5 Benefits Dependency Network
 
 ## Use Measurement in Technical Debt
 
 The technical debt metaphor has its roots in converting technology choices to measurements that can help deliver value. A team or product may implement features in a less desirable way to improve delivery time. But this must be translated into clear value measures to identify a payback period and amount for these decisions. This makes decisions related to technical debt ripe for measurement. The technical loan card can be used alongside measures to frame all technical debt as a financial payback problem.
 
-![image001](media/measures006.png)
-
+[![image001](media/measures006.png)](https://iasa-global.github.io/btabok/technical_loan_request_card.html){:target="_blank"}
+<br />
 Figure 6 Technical Loan Card
 
 # References and Further Reading

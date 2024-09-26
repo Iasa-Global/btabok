@@ -11,7 +11,7 @@ tags:
 ---
 
 > "A service is a logical representation of a repeatable activity that has a specified outcome. It is self-contained and is a 'black box' to its consumers." 
-**Open Group, Service-Oriented Architecture Ontology Version 2.0**
+> **Open Group, Service-Oriented Architecture Ontology Version 2.0**
 
 # What is a Service
 
@@ -40,12 +40,11 @@ processes and technology, a service may also be composed of people who
 provide the service, process which describes the workings of the service
 and technology which automates the service.
 
-![image001](media/services_overview1.png) 
+![Screenshot 2024-07-02 at 14.51.19.png](../../media/a29347b318b06bdc8c49150f124d054436279955.png)
 
 In this article services are considered in two contexts:
 
-- **business service** -- services which provide business value from
-  the capability to the consumer
+- **business capability** -- a business capability which provide measured business value from the capability to the consumer
 
 - **technical services** -- automated services using technology to
   provide value to the consumer
@@ -259,7 +258,7 @@ capability, where "Customer Details" are required from the consumer, and
 the result of the interaction is that the consumer receives a "Customer
 Membership Number".
 
-![image001](media/services_canvas4.png) 
+[![image001](media/services_canvas4.png)](https://iasa-global.github.io/btabok/service_contract_canvas.html){:target="_blank"}
 
 **Step 2: Service Level Agreement**
 
@@ -338,7 +337,7 @@ before tackling more complex or special case scenarios.
 
 Detail the expected outcome the service will provide from the scenario.
 
-![image001](media/services_canvas5.png)
+[![image001](media/services_canvas5.png)](https://iasa-global.github.io/btabok/service_blueprint_canvas.html){:target="_blank"}
 
 **Step 2: Consumer and Provider Frontstage actions**
 
@@ -399,7 +398,7 @@ structure of the service domains can depend on a number of factors such
 as culture of the company, specialist skills or organizational
 structure.
 
-![image001](media/services_landscape6.png)
+[![image001](media/services_landscape6.png)](https://iasa-global.github.io/btabok/service_landscape_canvas.html){:target="_blank"}
 
 The canvas above shows a simple way to create a service landscape using
 service domains and stakeholders. This can be performed by individual
@@ -437,62 +436,35 @@ Domain Canvas can be used. This canvas can be used to describe the
 current strategy for services in the service domain providing the basis
 for a target architecture.
 
-When working with the Service Domain Canvas it is recommended that a
-workshop method is used and that the stakeholders for the service domain
-are participants. The canvas can be placed on a whiteboard and sticky
-notes can be used to attach information to the canvas. The following
-method can be used perform the workshop:
+When working with the Service Domain Canvas it is recommended that a workshop method is used and that the stakeholders for the service domain are participants. The canvas can be placed on a whiteboard and sticky notes can be used to attach information to the canvas. The following method can be used perform the workshop:
 
 **Step 1: Confirm the Service Domain**
 
-To start the workshop make a short statement describing the Service
-Domain and ensure that all participants in the workshop are agreed upon
-the scope and context of the Service Domain.
+To start the workshop make a short statement describing the Service Domain and ensure that all participants in the workshop are agreed upon the scope and context of the Service Domain.
 
-![image001](media/services_canvas7.png)
+[![image001](media/services_canvas7.png)](https://iasa-global.github.io/btabok/service_domain_canvas.html){:target="_blank"}
 
 **Step 2: List the services**
 
-Participants list the existing services in the domain and required
-services on sticky notes and place each service on a row in the canvas.
-When listing the services, indicate whether the service is an existing
-service or a new service.
+Participants list the existing services in the domain and required services on sticky notes and place each service on a row in the canvas. When listing the services, indicate whether the service is an existing service or a new service.
 
 **Step 3: Analyze services**
 
-For each service the participants list the following attributes on
-sticky notes:
+For each service the participants list the following attributes on sticky notes:
 
-- **Service Type** -- indicates whether the service is manual (human),
-  semi-automated or fully automated.
+- **Service Type** -- indicates whether the service is manual (human), semi-automated or fully automated.
 
-- **Value** -- a statement of the value which is provided by the
-  service
+- **Value** -- a statement of the value which is provided by the service
 
-- **Dependencies** -- indicates if the service is internal to the
-  service domain, or if it has dependencies to other service domains
-  or external consumers
+- **Dependencies** -- indicates if the service is internal to the service domain, or if it has dependencies to other service domains or external consumers
 
-- **Strategic Intention** -- indicates the intention of the
-  stakeholders in maintaining the service using the TIME method
-  (tolerate, invest, migrate or eliminate)
+- **Strategic Intention** -- indicates the intention of the stakeholders in maintaining the service using the TIME method (tolerate, invest, migrate or eliminate)
 
-The notes are then placed in the correct column on the canvas and the
-participants discuss the attributes until agreement is reached.
+The notes are then placed in the correct column on the canvas and the participants discuss the attributes until agreement is reached.
 
-Step 3 should be repeated for all services on the canvas.
+**Step 3 should be repeated for all services on the canvas.**
 
-Once the canvas is complete the participants will have a proposal for
-managing services within the service domain. The service type gives an
-indication of the type of resources needed in order to deliver the
-service, technical, human or both. It should be clear from the strategic
-intention which services receive investment and which services are
-marked for retirement. This is motivated by the value provided by the
-service, high value services should receive more investment. The
-dependencies give an indication of the effort that will be required to
-achieve the strategic intention, for example, a service with many
-dependents may require significant effort to eliminate or migrate the
-service.
+Once the canvas is complete the participants will have a proposal for managing services within the service domain. The service type gives an indication of the type of resources needed in order to deliver the service, technical, human or both. It should be clear from the strategic intention which services receive investment and which services are marked for retirement. This is motivated by the value provided by the service, high value services should receive more investment. The dependencies give an indication of the effort that will be required to achieve the strategic intention, for example, a service with many dependents may require significant effort to eliminate or migrate the service.
 
 # References and further reading
 

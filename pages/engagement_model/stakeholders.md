@@ -155,18 +155,13 @@ used with participants in workshop format.
 
 **Step 1: Identify the Stakeholders**
 
-Handout sticky notes to the participants and ask them to write down all
-stakeholders they can think of concerning the given context (one
-stakeholder per sticky note). This exercise should be time bound,
-usually 10-15 mins. The participants should do this without conferring
-with each other.
+Handout sticky notes to the participants and ask them to write down all stakeholders they can think of concerning the given context (one stakeholder per sticky note). This exercise should be time bound, usually 10-15 mins. The participants should do this without conferring with each other.
 
 **Step 2: Prioritize the stakeholders**
 
-Ask each participant to place the stakeholders on the Power-Interest
-Grid according to the perceived interest and power of the stakeholder.
+Ask each participant to place the stakeholders on the Power-Interest Grid according to the perceived interest and power of the stakeholder. 
 
-![image001](media/stakeholders002.png)
+[![image001](media/stakeholders002.png)](https://iasa-global.github.io/btabok/power_interest_grid.html){:target="_blank"}
 
 **Step 3: Reach consensus**
 
@@ -262,7 +257,7 @@ in connecting the stakeholders with relationship lines. At this point
 the participants only need to indicate that they are aware that a
 relationship exists between stakeholders.
 
-![image001](media/stakeholders003.png)
+[![image001](media/stakeholders003.png)](https://iasa-global.github.io/btabok/stakeholder_ecosystem_canvas.html){:target="_blank"}
 
 **Step 5: Assess the relationships**
 
@@ -324,7 +319,7 @@ stakeholder can be associated with more than one of the proposed
 changes. Also ask the participants to think about how the stakeholder is
 currently positioned to the proposed change.
 
-![image001](media/stakeholders004.png)
+[![image001](media/stakeholders004.png)](https://iasa-global.github.io/btabok/stakeholder_motivation_canvas.html){:target="_blank"}
 
 **Step 3: Position the stakeholders**
 
@@ -370,12 +365,9 @@ Gather factual information about the stakeholder:
 
 **Step 2: Set the context**
 
-Set the context by asking the stakeholder a question often related to
-what are the participants trying to achieve. For example, "Why should I
-replace the business system?" or "Why should I support the new data
-center?".
+Set the context by asking the stakeholder a question often related towhat are the participants trying to achieve. For example, "Why should I replace the business system?" or "Why should I support the new data center?".
 
-![image001](media/stakeholders005.png)
+[![image001](media/stakeholders005.png)](https://iasa-global.github.io/btabok/stakeholder_empathy_map.html){:target="_blank"}
 
 **Step 3: Put yourself in the stakeholder's shoes**
 
@@ -419,12 +411,7 @@ stakeholders receive information that satisfies their needs, and at the
 same time the architect distributes effort effectively across the
 stakeholders.
 
-A communication strategy is used as a plan to organize the distribution
-of information and plan consultation with stakeholders. A communication
-strategy can be organized into a number of communication methods. The
-communication method provides a channel for providing information and
-consultation to stakeholders. Examples of different communication
-methods are:
+A communication strategy is used as a plan to organize the distribution of information and plan consultation with stakeholders. A communication strategy can be organized into a number of communication methods. The communication method provides a channel for providing information and consultation to stakeholders. Examples of different communication methods are:
 
 - Reference groups
 
@@ -436,26 +423,16 @@ methods are:
 
 - On-line conferences
 
-A communication method also has a format. The format may describe the
-subject of the communication, how often the communication occurs and
-communication type (information, consulting, decisions\...).
+A communication method also has a format. The format may describe the subject of the communication, how often the communication occurs and communication type (information, consulting, decisions\...).
 
-Each communication method will also have a list of stakeholders whose
-needs will be fulfilled by the communication method. The same
+Each communication method will also have a list of stakeholders whose needs will be fulfilled by the communication method. The same
 stakeholder may be present in a number of communication methods.
 
-![image001](media/stakeholders006.png)
+[![image001](media/stakeholders006.png)](https://iasa-global.github.io/btabok/communication_strategy.html){:target="_blank"}
 
-The canvas above shows an example of a communication strategy. There are
-different ways to work with this canvas, sometimes the stakeholders may
-be filled in and then communication method defined, or some
-communication methods can be defined first and then stakeholders
-assigned. The priority of the stakeholder is an important factor in
-determining the communication methods to be used.
+The canvas above shows an example of a communication strategy. There are different ways to work with this canvas, sometimes the stakeholders may be filled in and then communication method defined, or some communication methods can be defined first and then stakeholders assigned. The priority of the stakeholder is an important factor in determining the communication methods to be used.
 
-Once the communication strategy is complete it can be implemented and
-then revisited as the stakeholder ecosystem changes. The communication
-strategy gives a practical plan for managing stakeholder communication.
+Once the communication strategy is complete it can be implemented and then revisited as the stakeholder ecosystem changes. The communication strategy gives a practical plan for managing stakeholder communication.
 
 # References and further reading
 

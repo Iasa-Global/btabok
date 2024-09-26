@@ -72,10 +72,10 @@ The Software Engineering Institute (SEI) Capability Maturity Model Integration®
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner is aware of the Application Life cycle management tools and templates and the concepts of the Traceability management
 | **CITA -- Associate** | -   Learner has an application knowledge on the ALM tools that supports the traceability and relate the Traceability reports to its intended purpose during the course of the SDLC
-| **CITA -- Specialist** | -   Learner has a working knowledge on various ALM tools that support different methodologies of SDLC in building the products
+| **CITA -- Professional** | -   Learner has a working knowledge on various ALM tools that support different methodologies of SDLC in building the products
 | | -   Learner knows how to model the templates for all work products that capture the information of traceability throughout SDLC
 | | -   Has an experience in using the tools successfully in delivering Waterfall/ Agile driven Projects
-| **CITA -- Professional** | -   Learner has an experience to synthesize the traceability (both forward and backward) reports that help Organization realize the benefits of maintaining bidirectional traceability through the realization of the following:
+| **CITA -- Distinguished** | -   Learner has an experience to synthesize the traceability (both forward and backward) reports that help Organization realize the benefits of maintaining bidirectional traceability through the realization of the following:
 | | -   Analyze the impact of a change in case of any changes in Business requirements
 | | -   All work products affected by a changed requirement
 | | -   All requirements affected by a change or defect in a work product
@@ -92,10 +92,10 @@ Documentation, visualization and description techniques that help establishing t
 | | -   Learner knows how the development work products together help in building the product and establishing the bi-directional traceability
 | **CITA -- Associate** | -   Learner has a working knowledge of using the templates for various work products that record the activities towards building the product in SDLC
 | | -   Learner has a knowledge of building a traceability matrix that summarizes in matrix form from business requirements to their associated functional requirements and then on to other work product elements
-| **CITA -- Specialist** | -   Learner has a working knowledge of modeling the Traceability Matrix
+| **CITA -- Professional** | -   Learner has a working knowledge of modeling the Traceability Matrix
 | | -   Learner should be able to relate the functional requirements to its source (business requirements)
 | | -   Learner should be able to break-down the functional requirements at a unit-level to be able to trace it to the underlying work products that implement the requirement
-| **CITA -- Professional** | -   Learner summarizes the goal of meeting the Business needs of the Product by assessing the Traceability Matrix that helps in documenting both Forward and Backward Traceability across all of the work product
+| **CITA -- Distinguished** | -   Learner summarizes the goal of meeting the Business needs of the Product by assessing the Traceability Matrix that helps in documenting both Forward and Backward Traceability across all of the work product
 | | -   Learner should be able to provide recommendations and directions in establishing the Traceability templates that aids to reduce the risk of missing out developing a feature related to a business requirement
 | | -   Assess the current status of the requirements and the project\
     o Identify missing requirements\
@@ -111,9 +111,9 @@ The process of checking that a product, service, or system meets specifications 
 | | -   Learner is aware of the tools and processes to conduct Verification and Valid
 | **CITA -- Associate** | -   Learner has a working knowledge of developing required tests (Test Cases) for the Functional requirements
 | | -   Learner has a working knowledge of developing a Test Plan that helps in provides the strategies of Verification and Validation techniques
-| **CITA -- Specialist** | -   Learner reviews the Test activities (Test Plans, Test Cases etc.) and provide the feedback
+| **CITA -- Professional** | -   Learner reviews the Test activities (Test Plans, Test Cases etc.) and provide the feedback
 | | -   Learner has working knowledge of leading the Test Activities and build the Test Reports out of the test activities
-| **CITA -- Professional** | -   Learner synthesizes the Traceability Reports, Test Reports, and Traceability Matrix and ensures the following
+| **CITA -- Distinguished** | -   Learner synthesizes the Traceability Reports, Test Reports, and Traceability Matrix and ensures the following
 | | -   Proper direction of evolving product that we are building the **right product**
 | | -   The evolving product remains on correct track vis-a-vis to the original and/or evolving requirements (that we are building the Product right)
 

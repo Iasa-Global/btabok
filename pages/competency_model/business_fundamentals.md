@@ -136,20 +136,22 @@ Aside from understanding how the organization is managed, architects need manage
 
 These place heavy demands on the individual which is why it is crucial that he/she master the arts of managing oneself and his/her boss. Personal Renewal is key to an effective manager as burnout can very subtly degrade performance. The manager has to understand the continuing education required and be disciplined in passionately pursuing this.
 
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** Learner will be able tolocate and describe the Vision and Mission Statement of the organization
-*   locate and describe the overall goals of the organization and the goals of the individual business units
-*   locate and describe the internal structure of the organization
-*   list the important management skills
-*   **CITA – Associate** Learner will be able toclassify the organization by industry type
-*   infer the motivations of stakeholders by their respective locations in the organizational hierarchy
-*   illustrate any organization using the templates already learnt
-*   **CITA – Specialist** Learner will be able todeconstruct the vision and mission statement into goals
-*   organize corporate goals, business unit goals and team goals into traceable relationships
-*   outline a checklist of steps to take in evaluating the business capabilities of an organization
-*   report on the pain points facing the organization based on an analysis of business fundamentals
-*   **CITA – Professional** Learner will be able todevise target organizational structures or new capabilities to leapfrog organizational performance
-*   devise a transformation plan that will address pain points facing the organization
-*   advertise the value of architects engaging in business fundamentals and/or generate a media product for this purpose
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** |-   Learner will be able to locate and describe the Vision and Mission Statement of the organization
+| |-   Learner will be able to locate and describe the overall goals of the organization and the goals of the individual business units
+| |-   Learner will be able to locate and describe the internal structure of the organization
+| |-   Learner will be able to list the important management skills
+| **CITA – Associate** |-   Learner will be able to classify the organization by industry type
+| |-   Learner will be able to infer the motivations of stakeholders by their respective locations in the organizational hierarchy
+| |-   Learner will be able to illustrate any organization using the templates already learnt
+| **CITA – Specialist** |-   Learner will be able to deconstruct the vision and mission statement into goals
+| |-   Learner will be able to organize corporate goals, business unit goals and team goals into traceable relationships
+| |-   Learner will be able to outline a checklist of steps to take in evaluating the business capabilities of an organization
+| |-   Learner will be able to report on the pain points facing the organization based on an analysis of business fundamentals
+| **CITA – Professional** |-   Learner will be able to devise target organizational structures or new capabilities to leapfrog organizational performance
+| |-   Learner will be able to devise a transformation plan that will address pain points facing the organization
+| |-   Learner will be able to advertise the value of architects engaging in business fundamentals and/or generate a media product for this purpose
 
 ## Marketing and Sales
 
@@ -183,17 +185,19 @@ Closing the sale is another area where architects can make a difference. How can
 
 Sales is not confined to direct selling(selling in person). Unattended sales channels such as website, kiosk or vending machine also require architect skills to enhance the user experience, simplify processes, protect privacy and remove wastages.
 
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** Learner will be able todescribe the 4P’s of the Marketing Mix
-*   list the steps in the Marketing Strategy process
-*   list the steps in the Sales process
-*   **CITA – Associate** Learner will be able toillustrate the concept of the Marketing Mix for a given product/service
-*   brainstorm how technology can enhance the Marketing Strategy and Marketing Mix
-*   compare and contrast differences between sales and marketing
-*   **CITA – Specialist** Learner will be able todeconstruct a given scenario and organize the relevant pieces of information for consumption by the appropriate step(s) in the Marketing Strategy Process.
-*   compare the Marketing Mixes of two competing products and give an opinion on the strategy employed in each
-*   analyze a given sales process and evaluate where technology can add value
-*   **CITA – Professional** Learner will be able toconstruct a Technology Strategy to support a Marketing Strategy
-*   construct a Technology Strategy to support a Sales Strategy
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** |-   Learner will be able to describe the 4P’s of the Marketing Mix
+| |-   Learner will be able to list the steps in the Marketing Strategy process
+| |-   Learner will be able to list the steps in the Sales process
+| **CITA – Associate** |-   Learner will be able to illustrate the concept of the Marketing Mix for a given product/service
+| |-   Learner will be able to brainstorm how technology can enhance the Marketing Strategy and Marketing Mix
+| |-   Learner will be able to compare and contrast differences between sales and marketing
+| **CITA – Specialist** |-   Learner will be able to deconstruct a given scenario and organize the relevant pieces of information for consumption by the appropriate step(s) in the Marketing Strategy Process.
+| |-   Learner will be able to compare the Marketing Mixes of two competing products and give an opinion on the strategy employed in each
+| |-   Learner will be able to analyze a given sales process and evaluate where technology can add value
+| **CITA – Professional** |-   Learner will be able to construct a Technology Strategy to support a Marketing Strategy
+| |-   Learner will be able to construct a Technology Strategy to support a Sales Strategy
 
 ## Financial Management
 
@@ -232,19 +236,22 @@ An overview of accounting will take the architect through the following concepts
 *   financial statements which are the balance sheet, the profit and loss statement as well as the statement of cashflows
 *   managerial accounting which is used to diagnose and control performance using variances
 *   cost accounting which includes activity based costing
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** Learner will be able toExplain what Financial Management is and why every organization requires it
-*   Explain what is Capital Budgeting, Capital Structure, Nett Present Value and Discounted Cash Flow
-*   Recognize a proprietorship, partnership or corporation when presented
-*   Describe and recognize the three financial statements
-*   **CITA – Associate** Learner will be able toCalculate the DCF of a hypothetical investment using the NPV
-*   Carry out capital budgeting using an investment prioritization method
-*   Construct fresh financial statements using those of the previous year and a string of transactions
-*   **CITA – Specialist** Learner will be able toEvaluate the financial merits of at least two competing investments
-*   Evaluate risk to business and technology strategies for a given scenario
-*   Analyse financial performance using Du Pont chart, price and volume variances
-*   **CITA – Professional** Learner will be able toSynthesize technology strategies to enhance M & A outcomes given at least two different M & A scenarios
-*   Devise a checklist for reporting the financial management status of an organization
-*   Construct an approach to derive accurate costing using activity based costing
+
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** |-   Learner will be able toExplain what Financial Management is and why every organization requires it
+| |-   Learner will be able to explain what is Capital Budgeting, Capital Structure, Nett Present Value and Discounted Cash Flow
+| |-   Learner will be able to recognize a proprietorship, partnership or corporation when presented
+| |-   Learner will be able to describe and recognize the three financial statements
+| **CITA – Associate** |-   Learner will be able toCalculate the DCF of a hypothetical investment using the NPV
+| |-   Learner will be able to carry out capital budgeting using an investment prioritization method
+| |-   Learner will be able to construct fresh financial statements using those of the previous year and a string of transactions
+| **CITA – Specialist** |-   Learner will be able toEvaluate the financial merits of at least two competing investments
+| |-   Learner will be able to evaluate risk to business and technology strategies for a given scenario
+| |-   Learner will be able to analyse financial performance using Du Pont chart, price and volume variances
+| **CITA – Professional** |-   Learner will be able to synthesize technology strategies to enhance M & A outcomes given at least two different M & A scenarios
+| |-   Learner will be able to devise a checklist for reporting the financial management status of an organization
+| |-   Learner will be able to construct an approach to derive accurate costing using activity based costing
 
   
 
@@ -293,22 +300,25 @@ The global economy is growing increasingly service-based which means architects 
 *   Resolution Management – both problem and incident management
 *   Supplier Management – controlling supplier dependencies through the use of contracts and SLAs
 *   Customer Relationship Management – optimising the customer interface to ensure excellent customer service and satisfaction
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** Learner will be able to:Explain the 5 S’s of Operations
-*   Explain the 6 M’s of Capacity
-*   Name the reasons for holding inventory
-*   Recall the critical components of service delivery
-*   **CITA – Associate** Learner will be able to:Use Linear Programming to locate operational sweet spots
-*   Apply the Critical Path Method to locate bottlenecks and “crash” a project
-*   Apply Queueing Theory to solve a real world problem
-*   Simulate the workings of service delivery components in a hypothetical organization
-*   **CITA – Specialist** Learner will be able to:Analyze given statistical process data to evaluate its acceptability within tolerances
-*   Prove to a hypothetical set of stakeholders how technology can improve capacity planning in a given organization
-*   Classify the different concerns of each stakeholder for a given inventory management scenario
-*   Recommend how the components of service delivery would collaborate in a given list of scenarios
-*   **CITA – Professional** Learner will be able to:Write a justification to the different stakeholders of Inventory Management explaining the rationale of your Inventory Management Technology Strategy and its implications or tradeoffs they will need to accept
-*   Hypothesize how technology can be applied to facilitate JIT manufacturing
-*   Imagine how consumer demand and preferences can be tracked and integrated into corporate information systems for a given organization
-*   Develop a generic service delivery architecture for a given organization covering the four specializations
+
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: | 
+| **CITA- Foundation** |-   Learner will be able to:Explain the 5 S’s of Operations
+| |-   Learner will be able to explain the 6 M’s of Capacity
+| |-   Learner will be able to name the reasons for holding inventory
+| |-   Learner will be able to recall the critical components of service delivery
+| **CITA – Associate** |-   Learner will be able to:Use Linear Programming to locate operational sweet spots
+| |-   Learner will be able to apply the Critical Path Method to locate bottlenecks and “crash” a project
+| |-   Learner will be able to apply Queueing Theory to solve a real world problem
+| |-   Learner will be able to simulate the workings of service delivery components in a hypothetical organization
+| **CITA – Specialist** |-   Learner will be able to:Analyze given statistical process data to evaluate its acceptability within tolerances
+| |-   Learner will be able to prove to a hypothetical set of stakeholders how technology can improve capacity planning in a given organization
+| |-   Learner will be able to classify the different concerns of each stakeholder for a given inventory management scenario
+| |-   Learner will be able to recommend how the components of service delivery would collaborate in a given list of scenarios
+| **CITA – Professional** |-   Learner will be able to write a justification to the different stakeholders of Inventory Management explaining the rationale of your Inventory Management Technology Strategy and its implications or tradeoffs they will need to accept
+| |-   Learner will be able to hypothesize how technology can be applied to facilitate JIT manufacturing
+| |-   Learner will be able to imagine how consumer demand and preferences can be tracked and integrated into corporate information systems for a given organization
+| |-   Learner will be able to develop a generic service delivery architecture for a given organization covering the four specializations
 
 ## Human Resources
 
@@ -334,19 +344,21 @@ Performance Appraisals are a powerful means of developing human capital as they 
 
 The management of human capital in an organization is subject to scrutiny by external parties namely the government and labour unions. Regulators monitor for conformance to labour laws and often require submission of reports to demonstrate this. Automation of this process would save precious manhours. Technology can develop early warning systems help prevent accidents in the factory, reducing government fines for such incidents and elevate the status of the organization as a caring employer.
 
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** Learner will be able to:Recall the parts of the HR lifecycle
-*   Provide examples of different ways employees can be trained
-*   Explain the meaning of industrial relations
-*   Outline the objectives of a Performance Appraisal
-*   **CITA – Associate** Learner will be able to:Relate how the hierarchy of needs impacts the selection of rewards to employees
-*   Identify the challenges an organization faces in the various stages of the Recruitment
-*   Identify the needs of effective Training and Development programmes
-*   **CITA – Specialist** Learner will be able to:Discover how technology can enhance Training and Development
-*   Discover how technology can enhance the Recruitment process
-*   Evaluate some common employee performance problems with possible solutions
-*   **CITA – Professional** Learner will be able to:Formulate an experimental approach to Training and Development
-*   Hypothesize how technology could be used to enhance the image of an organization as an admired employer
-*   Model a way to hire the most qualified candidate
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** |-   The Learner will be able to recall the parts of the HR lifecycle
+| |-   Learner will be able to provide examples of different ways employees can be trained
+| |-   Learner will be able to explain the meaning of industrial relations
+| |-   Learner will be able to outline the objectives of a Performance Appraisal
+| **CITA- Associate** |-   The Learner will be able to relate how the hierarchy of needs impacts the selection of rewards to employees
+| |-   Learner will be able to identify the challenges an organization faces in the various stages of the Recruitment
+| |-   Learner will be able to identify the needs of effective Training and Development programmes
+| **CITA- Specialist** |-   The Learner will be able to discover how technology can enhance Training and Development
+| |-   Learner will be able to discover how technology can enhance the Recruitment process
+| |-   Learner will be able to evaluate some common employee performance problems with possible solutions
+| **CITA- Professional** |-   The Learner will be able to formulate an experimental approach to Training and Development
+| |-   Learner will be able to hypothesize how technology could be used to enhance the image of an organization as an admired employer
+| |-   Learner will be able to model a way to hire the most qualified candidate
 
 ## Product Management
 
@@ -385,18 +397,20 @@ The process begins when someone gets an **idea** for a new product. Not all idea
 
 **Reviews** are conducted to optimise and improve the product further throughout its **use**\-life. When the product is deemed to have reached the end of its relevance to the market, it is **scrapped.**
 
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** The Learner will be able to:Differentiate between development and marketing activities from a given list
-*   Summarise what is performed during each step of the Product Lifecycle
-*   Explain the importance of product differentiation
-*   **CITA – Associate** The Learner will be able to:Simulate what activities and outcomes might have taken place in the Product Lifecycle of a product they are familiar with
-*   Demonstrate how technology could enhance Product Development
-*   Illustrate Product Positioning using a few products in the same category but different price range
-*   **CITA – Specialist** The Learner will be able to:Debate on the strengths of two competing products eg IOS vs Android devices and dissect the underlying reasons why these have been developed differently
-*   Analyse who are the stakeholders that Product Management has to collaborate with within the organization
-*   Evaluate how pricing affects the attractiveness of different products
-*   **CITA – Professional** The Learner will be able to:Synthesize a Business Architecture (people and processes) for Product Management
-*   Synthesize a Data Architecture (information structure and flows) for Product Management
-*   Synthesize an Application Architecture (Information System Services) for Product Management
+| **Iasa Certification Level** | **Learning Objective** |
+| :-: | :-: |
+| **CITA- Foundation** |-   The Learner will be able to Differentiate between development and marketing activities from a given list
+| | -   Learner will be able to summarise what is performed during each step of the Product Lifecycle
+| | -   Learner will be able to explain the importance of product differentiation
+| **CITA- Associate** |-   The Learner will be able to Simulate what activities and outcomes might have taken place in the Product Lifecycle of a product they are familiar with
+| | -   Learner will be able to demonstrate how technology could enhance Product Development
+| | -   Learner will be able to illustrate Product Positioning using a few products in the same category but in different price range
+| **CITA – Specialist** |-   The Learner will be able to Debate on the strengths of two competing products eg IOS vs Android devices and dissect the underlying reasons why these have been developed differently
+| |-   Learner will be able to analyse who are the stakeholders that Product Management has to collaborate with within the organization
+| |-   Learner will be able to evaluate how pricing affects the attractiveness of different products
+| **CITA – Professional** |-   The Learner will be able to Synthesize a Business Architecture (people and processes) for Product Management
+| |-   Learner will be able to synthesize a Data Architecture (information structure and flows) for Product Management
+| |-   Learner will be able to synthesize an Application Architecture (Information System Services) for Product Management
 
 # Related Capabilities
 
