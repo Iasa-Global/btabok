@@ -73,14 +73,11 @@ The specification of a Design Pattern is usually subjective. However, most speci
 | Functional description | A description of what the pattern does.                                             |
 | Synonyms               | Other names for the pattern                                                         |
 | Classification         | Behavioural, Creational, Structural, and so on.                                     |
-
-                                            |
-
-| Motivation             | A description of the problem for which this pattern could be the solution                                                                                                             |
-| Usage scenario         | Where this pattern would be applicable                                                                                                                                                |
-| Structure              |  How to construct an implementation based on this pattern                                                                                                                             |
+| Motivation             | A description of the problem for which this pattern could be the solution           |
+| Usage scenario         | Where this pattern would be applicable                                              |
+| Structure              |  How to construct an implementation based on this pattern                           |
 | Stakeholders           | Other entities with whom the construct in question would interact, and how the interaction would take place. The individual responsibilities of all the actors in the given scenario. |
-| Expected Behaviour     | The consequences of the usage of the pattern in a given situation    
+| Expected Behaviour     | The consequences of the usage of the pattern in a given situation                   |    
 
 
 ## Classification of Pattern Types
@@ -92,16 +89,16 @@ The specification of a Design Pattern is usually subjective. However, most speci
 | **Pattern Type**                                                  | **Architectural Relevance**        | **Patterns**                                     |
 | ----------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------ |
 | [Cloud](https://iasa-global.github.io/btabok/cloud_patterns.html) | Infrastructure, Software, Solution | Cloud Patterns Library                           |
-| Microservices                                                     | Infrastructure, Software, Solution | Microservices Patterns Library                   |
+| [Microservices](https://iasa-global.github.io/btabok/microservices_patterns.html)                                                     | Infrastructure, Software, Solution | Microservices Patterns Library                   |
 | Software Design                                                   | Software, Solution                 | Software Patterns Library (example: Gang of Four |
 
 ## References
 
-1 [Microsoft Architecture Catalog]("https://learn.microsoft.com/en-us/azure/arch)
+1 [Microsoft Architecture Catalog](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
-2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
+2 [Patterns for Resilient Applications (TechTarget)](https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications)
 
-3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
+3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 4 [Reference Architectures](https://medium.com/geekculture/reference-architectures-e98595545baa)
 
