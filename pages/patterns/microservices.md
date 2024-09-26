@@ -4,7 +4,7 @@ tags: [architecture]
 keywords: microservices
 summary: "Repository of Microservices Patterns"
 sidebar: mydoc_sidebar
-permalink: microservice_patterns.html
+permalink: microservices.html
 folder: patterns
 
 ---
