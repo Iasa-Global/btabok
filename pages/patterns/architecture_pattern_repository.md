@@ -94,11 +94,11 @@ The specification of a Design Pattern is usually subjective. However, most speci
 
 ## References
 
-1 [Microsoft Architecture Catalog]("https://learn.microsoft.com/en-us/azure/architecture/patterns/")
+1 [Microsoft Architecture Catalog](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 
-2 [Patterns for Resilient Applications (TechTarget)]("https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications")
+2 [Patterns for Resilient Applications (TechTarget)](https://www.techtarget.com/searchcloudcomputing/tip/5-cloud-design-patterns-to-create-resilient-applications)
 
-3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture]("https://martinfowler.com/eaaCatalog/")
+3 [Martin Fowler's Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 4 [Reference Architectures](https://medium.com/geekculture/reference-architectures-e98595545baa)
 
