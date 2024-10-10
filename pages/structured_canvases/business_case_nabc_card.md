@@ -68,14 +68,14 @@ The Business Case Canvas is a relatively simple tool and doesn’t require any s
 
 [Download PPT](media/ppt/business_case_nabc_card.ppt){:target="_blank"}
 
-| Area                                             | Description                                                                                                                                                      | Links To                             |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| Need                                             | The need is a description of the drivers for the project. It should be driven from OKRs and should not include any of the approach section or proposed solution. | OKRs (derived from)                  |
-| Approach                                         | The approach is the proposed solution to the need. It would contain a description of the product, project, or other proposed solution.                           | Product Canvas, Solution Canvas      |
-| Benefit(s)/Value                                 | The measured or expected benefits of the solution.                                                                                                               | Benefits Card (may use)              |
-| Costs(s)                                         | The expected costs of the solution, product or project.                                                                                                          | Risk and Cost Card                   |
-| Return on Investment                             | Calculated outcomes based on time, cost, benefits etc                                                                                                            | Benefits Card                        |
-| Considerations, Competition, Alternatives, Risks | The other alternatives and risks to the approach                                                                                                                 | Decision Records, Risk and Cost Card |
+| Area                                             | Description                                                                                                                                                      | Links To                                              |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Need                                             | The need is a description of the drivers for the project. It should be driven from OKRs and should not include any of the approach section or proposed solution. | OKRs (derived from)                                   |
+| Approach                                         | The approach is the proposed solution to the need. It would contain a description of the product, project, or other proposed solution.                           | Product Canvas, Solution Canvas                       |
+| Benefit(s)/Value                                 | The measured or expected benefits of the solution.                                                                                                               | Benefits Card (may use), [ASR](asr.md) (traceability) |
+| Costs(s)                                         | The expected costs of the solution, product or project.                                                                                                          | Risk and Cost Card                                    |
+| Return on Investment                             | Calculated outcomes based on time, cost, benefits etc                                                                                                            | Benefits Card                                         |
+| Considerations, Competition, Alternatives, Risks | The other alternatives and risks to the approach                                                                                                                 | Decision Records, Risk and Cost Card                  |
 
 ## Use this in Miro
 
