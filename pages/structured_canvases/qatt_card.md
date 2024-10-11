@@ -33,9 +33,9 @@ Quality attributes are the non-functional characteristics that define the succes
 Here is a step-by-step description of how to fill out the QAT card, based on the information in the image:
 
 1. Fill in the header information. This includes the date, the domain, who owns the card, and the version number.
-2. In the “About this” section, there is a placeholder that says “template.” This section may be used to provide more information about the template itself, or it may be left blank.
-3. The next section is titled, “Quality Attribute / Quality Attribute Requirement / Characteristics / Sur-Characteristics.” It appears that this section is used to brainstorm a list of quality attributes that are important to the project, as well as the requirements for those attributes, and any characteristics or sur-characteristics that are relevant.
-4. The section titled, “Source of Stimulus / Environment” may be used to identify the different stimuli that the project will be exposed to, as well as the environment in which it will exist.
+2. In the “Quality Attribute” section, This section is used to name the quality attribute
+3. The next section is titled, “Quality Attribute Requirement / Characteristics / Sub-Characteristics.” This section is used to describe the requirement that links to the quality attribute. Characteristics should be used to describe the nature of the requirement and it impact. 
+4. The section titled, “Source of Stimulus / Environment” may be used to identify the different stimuli that the system will be exposed to, as well as the environment in which it will exist.
 5. The section titled, “Stimulus / Artifact / Response / Response Measure” may be used to define the specific responses that the project will have to different stimuli, as well as how those responses will be measured.
 6. The section titled, “Trade-Offs” may be used to identify any trade-offs that need to be made between different quality attributes.
 7. The section titled, “Pros” and “Cons” may be used to list the advantages and disadvantages of different approaches to meeting the quality attribute requirements.
