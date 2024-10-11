@@ -29,9 +29,6 @@ Quality attributes are the non-functional characteristics that define the succes
 
 ## How to use this card
 
-The image you sent me appears to be a template for a QAT card, which stands for Quality Attribute Template.
-
-The QAT card seems to be a tool that can be used to define quality attributes for a project. It appears to be divided into sections that prompt the user to consider different aspects of the project, such as the domain, quality attributes, sources of stimulus, and responses.
 
 Here is a step-by-step description of how to fill out the QAT card, based on the information in the image:
 
