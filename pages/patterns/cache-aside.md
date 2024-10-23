@@ -20,7 +20,7 @@ If the cache does not provide this functionality "under the hood" with read-thro
 ## Structure
 This pattern is a "lazy-load" solution to the problem above. The application fetches data from the data store when required and stores it in the cache. When it updates the data, it deletes the data in the cache and updates the data store.
 
-![cacheaside](images/cacheaside.png)
+![cacheaside](media/cacheaside.png)
 
 ## Advantages
 - The cache only contains data that the application actually needs.
