@@ -12,8 +12,6 @@ summary: ""
 
 ## Iasa Definition
 
-[![defs](../../media/9245879d936d8cdd2f62e9953f49d63c79e859c5.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/defs.png)
-
 The Iasa community feels that both sides of those definitions, when blended are a good definition. **Business Technology architecture is the art and science of designing and delivering valuable technology strategy.
 
 We must be able to describe a strategy for solving business problem with BT. By having business skills, we speak the language of business to executive sponsors to understand what drives the organization, what challenges they face, and what others in their domain are doing and what challenges they face.
@@ -46,8 +44,6 @@ The **software architecture** of a program or computing system is the structur
 
 Iasa’s vision is to turn BT Architecture into a profession, which is a group of people pursuing a learned art with a common calling. There is some controversy around what constitutes a profession, but most agree it is educable, essential, has a large common body of knowledge, has specializations, can be practiced for an entire career, and often has certifications and a code of ethics.
 
-[<img title="" src="../../media/dc515056a41b7cf550195c40b874de0192bac925.png" alt="prof" data-align="right" width="355">](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/prof.png)
-
 Twenty years ago, you were a project manager because you could manage projects, and you could manage projects because you had managed projects. Does that sound like your experience as an architect today?
 
 There was no formal training or common set of tools, languages, or process for project management. Now, there are tools, training, common language, common tools, and various but related approaches to managing projects.
@@ -55,8 +51,6 @@ There was no formal training or common set of tools, languages, or process for p
 ### **What is an Architect?**
 
 Put three architects in a room and they can discuss why they are architects and the other two are not until their throats are sore. Typically, they possess the same core set of skills and values, but each, based on his or her company’s organizational structure, will resonate with a different archetype.
-
-[![figure3](../../media/db351d0669f71e566329c91410ab63df2523a41b.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/figure3.png)  
 Iasa research suggests that most architects fall into one or two of these architect archetypes. All have similar foundational skills, but each has a different perspective based on his or her architectural practice. Do you see one or two that resonate with you?
 
 From Iasa’s perspective, an architect is the technology strategist for the business. To be a technology strategist requires that he or she have a broad understanding of technology that spans programming and development of custom applications, the infrastructure environment that the solution must reside in, and the operational environment that provides support.
@@ -64,7 +58,6 @@ From Iasa’s perspective, an architect is the technology strategist for the bus
 ### **Specializations**
 
 Just as there are different archetypes for architects, each of us has a unique background. Some start as a developer and grow business skills, and possibly infrastructure skills. Some come from an infrastructure or operations background and grow business or developer skills, while others come from a business background and grow technical competence out of passion or need.  
-[![figure4](../../media/43467469a451b8ac2785ff84fe81da8ca83b1b1d.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/figure4.png)
 
 As architects, we face many challenges that go beyond the current projects we may be engaged in, from a lack of understanding of what we do, what value IT does or can bring to an organization, ill-defined structure that has grown over time, and not having true authority to use as a lever.
 
@@ -85,6 +78,6 @@ In some organizations, budgets and authority over IT are centralized, whereas in
 We work in environments that have grown over time but are poorly documented and not well conceived. There are many isolated technical projects going on, but they do not reflect the existing environment and are created in silos. These are operated together and become the infrastructure.
 
 In summary, the BT architect profession is in its infancy. Various groups have various descriptions for architects and architecture and use different terms and titles interchangeably. Based on your own work environment and background, you will have your own perspective on which skills are essential and what the role of an architect and value of architecture are.  
-[![figure5](../../media/b55c2146770d6a828870ce1e440b40d84d887346.png)](https://btabok.iasaglobal.org/wp-content/uploads/2015/08/figure5.png)
+
 
 Through collaborative work with architects across the globe, the Iasa community defines BT architecture as the art or science of designing and delivering valuable technology strategies. We also define the BT architect as the technology strategist for the business. Our goal is to formalize the BT architect profession, creating a common body of knowledge and a common language.
