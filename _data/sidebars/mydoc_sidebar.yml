@@ -351,6 +351,10 @@ entries:
       url: mentoring.html
       output: web
 
+    - title: Career Path
+      url: career.html
+      output: web
+
   - title: Topic Areas
     output: web
     folderitems:
