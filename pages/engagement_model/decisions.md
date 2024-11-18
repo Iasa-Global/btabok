@@ -57,9 +57,19 @@ To effectively manage decisions, the architecture team should put in place a dec
 
 Figure 1 Architecture Traceability
 
+### Types of Decsions
+
+There are numerous types of decsions in an architecture. The BTABoK currently recognizes the following types of decisions. 
+
+### Using Decision Records
+
 Use the architecture decision record card as a way to identify option categories and comparisons for framework decisions. The cards can be used on all but the most complex decision categories. To use the card download the PowerPoint file and a) if using alone simply fill out the card with the decision context, linkage to requirements, and other fields, or b) print at canvas size and use sticky notes with a team to brainstorm decision categories and other fields.
 
 [![image001](media/decisions002.jpg)](https://iasa-global.github.io/btabok/architecture_decision_record.html){:target="_blank"}
+
+Structural Decision Records
+
+![structural decision](../structured_canvases/media/adr_structural.svg)
 
 ## Decisions Come with Cognitive Biases
 

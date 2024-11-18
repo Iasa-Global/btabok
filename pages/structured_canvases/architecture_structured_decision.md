@@ -17,7 +17,7 @@ The Business Technology Architecture Body of Knowledge (BTABOK) highlights the c
 - **Risk Management:** By documenting potential drawbacks and alternatives, ADRs enable proactive risk mitigation.
 - **Learning & Improvement:** They allow architects to revisit past decisions, analyze their outcomes, and learn from both successes and failures.
 
-![image001](media/architecture_decision_record.svg)
+![image001](media/adr_structural.svg)
 
 ## How to Use this Card
 

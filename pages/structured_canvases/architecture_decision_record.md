@@ -14,7 +14,7 @@ The ADR provides a decision management tool for discrete decisions for traceabil
 
 Overall, ADRs offer several significant benefits. They foster informed decision-making by providing context for future choices. They contribute to sound architectural governance by creating an easily auditable trail of how and why architectural choices were made. Finally, ADRs streamline collaboration, improve knowledge sharing, and ultimately contribute to better alignment between architectural initiatives and overall business goals.
 
-![image001](media/adr_structural.svg)
+![image001](media/architecture_decision_record.svg)
 
 ADRs are essential for several reasons:
 
