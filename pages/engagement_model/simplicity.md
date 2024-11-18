@@ -11,14 +11,14 @@ tags:
 ---
 
 > "Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art."
-**Frederic Chopin**
+> **Frederic Chopin**
 
 # What Is Simplicity
 
 Simplicity, noun
 
-1.  the quality or condition of being easy to understand or do.
-2.  the quality or condition of being plain or uncomplicated in form or [design](design.md){:target="_blank"}.
+1. the quality or condition of being easy to understand or do.
+2. the quality or condition of being plain or uncomplicated in form or [design](design.md){:target="_blank"}.
 
 Simplicity as a function of an enterprise, business context or design is difficult to fully define especially in modern complex businesses, projects and [ecosystems](ecosystem.md){:target="_blank"}. The goal is to make our environments 'as simple as possible but no simpler', though Einstein's actual quote was much more complex.
 
@@ -68,16 +68,16 @@ Simplicity and Complexity/Structure go hand in hand. The goal of this article is
 
 There are many many papers on understanding code complexity in traditional code bases, however modern architecture has significantly higher numbers of areas where complexity can hide. Thus it is important
 
-| Area | Description | Types of Measures |
-| --- | --- | --- |
-| Cyclomatic | The number of pathways through a code base or set of services during execution. | Cyclomatic Complexity |
-| Delivery | The method used to create code and deploy to production. | DevOps, Development Lead Times, Code Commits, Production Releases per Month/Year, Framework Utilization |
-| Integration | Service dependencies internal and external and their level of coupling. | Service interface contracts, service SLA, service interdependence, transaction telemetry |
-| [Stakeholder](stakeholders.md){:target="_blank"} | Stakeholder power/interest and effectiveness of stakeholder understanding and management | Stakeholder management plans, well understood roles, stakeholder communication |
-| [Quality Attribute(s)](quality_attributes.md/){:target="_blank"} | Cross cutting concerns such as security and performance. | Measures by type of quality attribute, up-time, mean time to recovery, systemic performance, infrastructure dashboards |
-| Domain | [Value stream](value_streams.md){:target="_blank"} or business area including conceptual or IP based complexity | Domain dependency visualizations, conceptual complexity (ex. DNA modifications vs retail store), [business capability](business_capabilities.md){:target="_blank"} measures, business process measures |
-| Political | Simplicity in communication and [culture](culture.md){:target="_blank"} related to human politics. | Architect stakeholder maps with assessments of complex political landscapes |
-| Information | Data, Integration and Usage related to complexity of the information stored and used regularly in an organization. | Domain driven design tools, data interdependency, information utilization, information ownership grids |
+| Area                                                             | Description                                                                                                        | Types of Measures                                                                                                                                                                                      |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cyclomatic                                                       | The number of pathways through a code base or set of services during execution.                                    | Cyclomatic Complexity                                                                                                                                                                                  |
+| Delivery                                                         | The method used to create code and deploy to production.                                                           | DevOps, Development Lead Times, Code Commits, Production Releases per Month/Year, Framework Utilization                                                                                                |
+| Integration                                                      | Service dependencies internal and external and their level of coupling.                                            | Service interface contracts, service SLA, service interdependence, transaction telemetry                                                                                                               |
+| [Stakeholder](stakeholders.md){:target="_blank"}                 | Stakeholder power/interest and effectiveness of stakeholder understanding and management                           | Stakeholder management plans, well understood roles, stakeholder communication                                                                                                                         |
+| [Quality Attribute(s)](quality_attributes.md/){:target="_blank"} | Cross cutting concerns such as security and performance.                                                           | Measures by type of quality attribute, up-time, mean time to recovery, systemic performance, infrastructure dashboards                                                                                 |
+| Domain                                                           | [Value stream](value_streams.md){:target="_blank"} or business area including conceptual or IP based complexity    | Domain dependency visualizations, conceptual complexity (ex. DNA modifications vs retail store), [business capability](business_capabilities.md){:target="_blank"} measures, business process measures |
+| Political                                                        | Simplicity in communication and [culture](culture.md){:target="_blank"} related to human politics.                 | Architect stakeholder maps with assessments of complex political landscapes                                                                                                                            |
+| Information                                                      | Data, Integration and Usage related to complexity of the information stored and used regularly in an organization. | Domain driven design tools, data interdependency, information utilization, information ownership grids                                                                                                 |
 
 Another area to look at is Fitness Functions as defined by Neal Ford, Rebecca Parsons and Patrick Kua in their [book on Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures){:target="_blank"}.
 
@@ -97,15 +97,15 @@ Would adding a configuration server to the design make things more simple? When 
 
 So how does the architect decide whether adding the configuration server would be a benefit? The answer is to create a measurement of simplicity based on the benefits of adding the service versus the costs. In this case it would be simple enough to determine a figure for the difficulty caused by having to shut down all services for configuration change, the possible risks of using configuration files over a service and the frequency of changes. Comparing those to the operational overhead of managing a basic configuration service would likely result, barring unforeseeable complexity in the environment, in an affirmative decision that adding the service would be simpler.
 
-|   | Config File | Config Server |
-| --- | --- | --- |
-| Operational Cost (in hrs) |   |   |
-| Operational Cost (in money) |   |   |
-| Development Cost (in hrs) |   |   |
-| Infrastructure Complexity |   |   |
-| Software Complexity |   |   |
-| Configuration Delta |   |   |
-| Risk of Bad Configuration |   |   |
+|                             | Config File | Config Server |
+| --------------------------- | ----------- | ------------- |
+| Operational Cost (in hrs)   |             |               |
+| Operational Cost (in money) |             |               |
+| Development Cost (in hrs)   |             |               |
+| Infrastructure Complexity   |             |               |
+| Software Complexity         |             |               |
+| Configuration Delta         |             |               |
+| Risk of Bad Configuration   |             |               |
 
 *Relationship to Tech Debt in terms of legacy
 
