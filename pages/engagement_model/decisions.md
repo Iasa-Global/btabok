@@ -61,6 +61,22 @@ Figure 1 Architecture Traceability
 
 There are numerous types of decsions in an architecture. The BTABoK currently recognizes the following types of decisions. 
 
+- Structural: A structural decision relates modifications in software, infrastructure, or information structural design elements and components.
+  
+  - Pattern A pattern decision record involves the choice between a pattern or reference model, it is a type of structural decision
+  
+  - Technology Dependency: A structural dependency relating to how two component depend on each other.
+  
+  - Quality Attribute Decision
+
+- Product/Framework: A product decision involves a tradeoff analysis between two or more product options.
+
+- Constraint: A constraint decision is one which is made based on following the accepted principles of the profession or the client. Often derived from principles or constraint ASRs
+  
+  - [Cascade](../structured_canvases/architecture_decision_cascade_card.md): A cascade decision is one where options become limited by a decision in a related impact area. It is also applies to ‘contained’ areas.
+  
+  - [Principle](principles.md): A principle decision is a constraint imposted by a principle card. 
+
 ### Using Decision Records
 
 Use the architecture decision record card as a way to identify option categories and comparisons for framework decisions. The cards can be used on all but the most complex decision categories. To use the card download the PowerPoint file and a) if using alone simply fill out the card with the decision context, linkage to requirements, and other fields, or b) print at canvas size and use sticky notes with a team to brainstorm decision categories and other fields.
@@ -85,6 +101,16 @@ To re-enforce a decision and to ensure it is as free of bias as possible, use th
 [![image001](media/decisions004.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_1.html){:target="_blank"}
 
 [![image001](media/decisions005.jpg)](https://iasa-global.github.io/btabok/decision_bias_calibrator_2.html){:target="_blank"}
+
+## Decision Interactions
+
+Decisions interact with each other through modifications in quality attributes or requirements or because they cascade. In addition two factors should be considered when making decisions. 
+
+Decision Conformance is the amount of decisions which conform with each other. This concept is related to views and viewpoints. Conformance
+means your architecture views/models are balanced in relationship to each other while still not ‘perfect’. 
+
+Decision Compatibility a state in which two things are able to exist or occur together without problems or conflict.
+"he argues for the compatibility of science and religion" The basics of the decision must be compatible with the benefits/’form’ of the requirements 
 
 ## Decisions and their Characteristics and Methods
 

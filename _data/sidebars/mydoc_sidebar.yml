@@ -339,8 +339,8 @@ entries:
     output: web
     folderitems:
 
-    - title: Overview
-      url: maturity_model_m.html
+    - title: Maturity Mode
+      url: maturity_model.html
       output: web
 
     - title: Accredited Partner
