@@ -31,13 +31,9 @@ Engineering is a powerful branch of modern science and a set of deeply influenti
 
 An architectural engagement model must have a stable and well thought out stance on the relationship between architects and engineers to become mature. All too often, the architecture practice is assumed to be well related to engineers or be a part of engineering without forethought or analysis. This leads to many failed programs. 
 
-
-
 # Are Architects Engineers?
 
 The Iasa and the BTABoK is predicated on a major belief. That architecture is a distinct profession. Disitinct in that while it may overlap with other professions, may work in tandem with other professionals, it is a complete and valuable profession all on its own. Just as there is a distinction between a structural engineer and a building architect, the BTABoK requires that there be a clear distinction between an engineer and an architect. However, what that distinction is exactly is not the same as in the building trade. 
-
-
 
 # Engagement Approach
 
@@ -109,8 +105,6 @@ Architects are responsible at all levels of scope for digital engagement. The BT
 [Jobs-to-be-Done | Learn And Apply The Framework](https://strategyn.com/jobs-to-be-done/){:target="_blank"}
 
 https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca{:target="_blank"}
-
-
 
 …
 

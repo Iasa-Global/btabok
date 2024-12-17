@@ -50,7 +50,7 @@ We can look at financial debt management for some interesting guidance on how to
 
 ### Technology Type Reference Model
 
-###### <img src="../../media/c6bc7ab2cfd816ceba118890c89e0c39a2657921.png" title="" alt="Value Capture - Page 4.png" width="539">
+###### <img title="" src="../../media/c6bc7ab2cfd816ceba118890c89e0c39a2657921.png" alt="Value Capture - Page 4.png" width="745">
 
 # Approach to Technical Landscape
 

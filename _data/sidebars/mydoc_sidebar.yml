@@ -339,7 +339,7 @@ entries:
     output: web
     folderitems:
 
-    - title: Maturity Mode
+    - title: Maturity Model
       url: maturity_model.html
       output: web
 
