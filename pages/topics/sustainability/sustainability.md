@@ -17,7 +17,7 @@ In the context of IT architecture, sustainability refers to the long-term viabil
 
 ## Impact Areas
 
-![]()
+![media/sustainable_canvases.jpg]()
 
 These are the areas of impact.
 
