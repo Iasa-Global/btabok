@@ -23,13 +23,13 @@ These are the areas of impact.
 
 | Concepts                                                              | Competencies | Canvases        |
 | --------------------------------------------------------------------- | ------------ | --------------- |
-| [Patterns](sustainability/patterns.md)                                |              |                 |
-| [Quality Attributes](sustainability/sustainable_quality_attribute.md) |              |                 |
+| [Patterns](../sustainability/patterns.md)                                |              |                 |
+| [Quality Attributes](../sustainability/sustainable_quality_attribute.md) |              |                 |
 | Decisions                                                             |              | Decision Record |
-| [Principles](sustainability/sustainable_principle.md)                 |              | Principle Card  |
-| [Objectives](sustainability/objectives.md)                            |              |                 |
+| [Principles](../sustainability/sustainable_principle.md)                 |              | Principle Card  |
+| [Objectives](../sustainability/objectives.md)                            |              |                 |
 | Risk                                                                  |              |                 |
-| [Mindset](sustainability/mindset.md)                                  |              |                 |
+| [Mindset](../sustainability/mindset.md)                                  |              |                 |
 |                                                                       |              |                 |
 
 Sustainability in IT architecture is closely tied to Environmental, Social, and Governance (ESG) considerations. ESG aims to balance the triple bottom line of economic, social, and environmental performance by integrating sustainable practices into business operations and strategies. In the context of IT architecture, this means:
