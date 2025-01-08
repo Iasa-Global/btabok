@@ -1,4 +1,4 @@
-```yaml
+---
 title: "Sustainable Uptime Pattern"
 keywords: 
 sidebar: mydoc_sidebar
@@ -6,7 +6,7 @@ toc: true
 permalink: sustainable_uptime_pattern.html
 folder: patterns
 summary: "The Ambassador pattern is a structural design pattern used primarily in distributed computing to offload common client-side network-related tasks."
-```
+---
 
 # Sustainable Uptime Pattern (Green Orchestrator)
 

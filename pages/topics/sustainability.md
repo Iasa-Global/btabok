@@ -49,7 +49,7 @@ Whilst sustainable architecture choices apply across the layers of architecture 
 1. **Organisational Sustainability** (influenced by business architecture and leveraging technologies to make the organisation more sustainable)
 2. **Technology Sustainability** (i.e. what is the footprint of your systems and technology)
 
-Whilst all organisations should strive to consider both of these areas; the sector of your organisation, the regulatory compliance regime you operate under and leadership priorities will likely influence whether you focus on Organisational or Technology sustainability. For example if your organisation operates in (or uses a lot of suppliers from) an energy intense or industrial sector focusing on Organisational Sustainability is likely to have the greatest impact. However if your organisation operates in the technology, finance or knowledge work / services sectors then your technology might have the greatest impact and that should be prioritised.
+Whilst all organisations should strive to consider both of these areas; the sector of your organisation, the regulatory compliance regime you operate under and leadership priorities will likely influence whether you focus on Organisational or Technology sustainability. For example, if your organisation operates in (or uses a lot of suppliers from) an energy-intensive or industrial sector focusing on Organisational Sustainability is likely to have the greatest impact. However, if your organisation operates in the technology, finance, or knowledge work/services sectors then your technology might have the greatest impact, and that should be prioritized.
 
 ## Impact Areas
 
@@ -61,7 +61,7 @@ These are the areas of impact.
 | [Quality Attributes](sustainability/sustainable_quality_attribute.md) |              |                 |
 | Decisions                                                             |              | Decision Record |
 | [Principles](sustainability/sustainable_principle.md)                 |              | Principle Card  |
-| Objectives                                                            |              |                 |
+| [Objectives](sustainability/objectives.md)                            |              |                 |
 | Risk                                                                  |              |                 |
 | [Mindset](sustainability/mindset.md)                                  |              |                 |
 |                                                                       |              |                 |
