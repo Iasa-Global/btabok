@@ -11,7 +11,8 @@ tags:
   - sustainability
 ---
 
-*Note this is an initial stub / work in progress page. We are working to create a comprehensive architecture sustainability model.*
+*Note this is an initial stub / work in progress page. We are working to create a comprehensive architecture sustainability model.
+
 In the context of IT architecture, sustainability refers to the long-term viability and adaptability of an organization's technology infrastructure, considering both environmental and social impact. This encompasses the responsible management of resources, energy consumption, and waste reduction while maintaining a high level of performance and efficiency.
 
 Sustainability in IT architecture is closely tied to Environmental, Social, and Governance (ESG) considerations. ESG aims to balance the triple bottom line of economic, social, and environmental performance by integrating sustainable practices into business operations and strategies. In the context of IT architecture, this means:
@@ -49,3 +50,18 @@ Whilst sustainable architecture choices apply across the layers of architecture 
 2. **Technology Sustainability** (i.e. what is the footprint of your systems and technology)
 
 Whilst all organisations should strive to consider both of these areas; the sector of your organisation, the regulatory compliance regime you operate under and leadership priorities will likely influence whether you focus on Organisational or Technology sustainability. For example if your organisation operates in (or uses a lot of suppliers from) an energy intense or industrial sector focusing on Organisational Sustainability is likely to have the greatest impact. However if your organisation operates in the technology, finance or knowledge work / services sectors then your technology might have the greatest impact and that should be prioritised.
+
+## Impact Areas
+
+These are the areas of impact. 
+
+| Concepts                                                              | Competencies | Canvases        |
+| --------------------------------------------------------------------- | ------------ | --------------- |
+| [Patterns](sustainability/patterns.md)                                |              |                 |
+| [Quality Attributes](sustainability/sustainable_quality_attribute.md) |              |                 |
+| Decisions                                                             |              | Decision Record |
+| [Principles](sustainability/sustainable_principle.md)                 |              | Principle Card  |
+| Objectives                                                            |              |                 |
+| Risk                                                                  |              |                 |
+| [Mindset](sustainability/mindset.md)                                  |              |                 |
+|                                                                       |              |                 |

@@ -253,7 +253,6 @@ achieved by a given time period.
 
 [![image001](media/objectives_scorecard1.png)](https://iasa-global.github.io/btabok/strategy_scorecard_canvas.html){:target="_blank"}
 
-
 The Strategy Scorecard Canvas above shows a representation of a balanced
 scorecard, where Objectives (or objectives), measurements, targets and
 initiatives are defined.

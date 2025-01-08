@@ -1,40 +1,34 @@
----
-title: "Ambassador Pattern"
+```yaml
+title: "Sustainable Uptime Pattern"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: ambassador_pattern.html
+permalink: sustainable_uptime_pattern.html
 folder: patterns
 summary: "The Ambassador pattern is a structural design pattern used primarily in distributed computing to offload common client-side network-related tasks."
+```
 
----
-
-# Ambassador Pattern
+# Sustainable Uptime Pattern (Green Orchestrator)
 
 ## Overview
 
-The Ambassador pattern is a structural design pattern used primarily in distributed computing to offload common client-side network-related tasks. It acts as an intermediary between the client and the remote service, handling tasks such as logging, retries, circuit breaking, and security. This pattern helps in managing the complexity of service interactions and improves modularity, reusability, and separation of concerns.
+The zero uptime pattern is a design solution in sustainability to turn off services, including all resource consumption, when they are not being used. 
 
 ## Intent
 
-The primary intent of the Ambassador pattern is to encapsulate the complexities and additional responsibilities associated with remote service interactions. By introducing an Ambassador, clients are relieved from handling repetitive and potentially error-prone tasks, allowing them to focus on core business logic.
+The primary intent of the Sustainable Uptime pattern is to utilize the lowest possible number of resources at all times. It includes movement and location awareness of services based on their current load. 
 
 ## Structure
 
-1. **Client**: The component that requires access to the remote service.
-2. **Ambassador**: The intermediary that manages communication with the remote service, handling cross-cutting concerns.
-3. **RemoteService**: The actual service that performs the required operations.
+1. **Green Orchestrator**: Capture and predict utilization within availablity requirements and instantiate, move and turn off containers and services based on utilization, sustainability configuration. 
 
 ## Responsibilities
 
-- **Logging**: Capture and log details about requests and responses.
-- **Retries**: Implement retry logic for transient failures.
-- **Circuit Breaking**: Monitor and manage the availability of the service to prevent cascading failures.
-- **Security**: Handle authentication and authorization tasks.
+- **Telemetry**: Capture usage and scale
 
 ## Implementation
 
-Below are code examples of the Ambassador pattern in Java and Python, followed by a Mermaid diagram to illustrate the structure.
+Below are 
 
 ### Java Example
 
@@ -51,7 +45,7 @@ Below are code examples of the Ambassador pattern in Java and Python, followed b
 ### Mermaid Diagram
 
 ```mermaid
-classDiagram     class Client {         +main(args: String[]): void     }      class RemoteService {         <<interface>>         +fetchData(): String     }      class RealRemoteService {         +fetchData(): String     }      class Ambassador {         -RemoteService remoteService         +fetchData(): String     }      Client --> Ambassador     Ambassador --> RemoteService     RealRemoteService --> RemoteService
+classDiagram     class Client {         +main(args: String[]): void     }      class RemoteService {         <>         +fetchData(): String     }      class RealRemoteService {         +fetchData(): String     }      class Ambassador {         -RemoteService remoteService         +fetchData(): String     }      Client --> Ambassador     Ambassador --> RemoteService     RealRemoteService --> RemoteService
 ```
 
 #### Benefits
@@ -68,3 +62,5 @@ classDiagram     class Client {         +main(args: String[]): void     }      c
 By implementing the Ambassador pattern, developers can significantly reduce the boilerplate code in clients and focus on core functionality, thus improving the overall architecture of distributed systems.
 
 ## Related Patterns
+
+Scalability Patterns
