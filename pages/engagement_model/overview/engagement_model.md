@@ -27,3 +27,7 @@ Access the elements in the value model by clicking on them in the Engagement Mod
 <Short descritpion of what the people model is>
 
 Access the elements in the people model by clicking on them in the Engagement Model Chart, or by navigating to the element in the sidebar.
+
+# The ITUM Lifecycle
+
+![](./media/EM02_itum_loop.png)
