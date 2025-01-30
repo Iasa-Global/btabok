@@ -292,8 +292,8 @@ Architects are responsible at all levels of scope for digital engagement. The BT
 
 [https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a{:target="_blank"}](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a%7B:target="_blank"%7D)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)[Know Your Customers&rsquo; &ldquo;Jobs to Be Done&rdquo;](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done){:target="_blank"}
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)[Know Your Customers&rsquo; &ldquo;Jobs to Be Done&rdquo;](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done){:target="_blank"}
 
 https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a{:target="_blank"}
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

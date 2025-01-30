@@ -408,7 +408,7 @@ https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca{:target="_blank"}
 
 https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a{:target="_blank"}
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
 
 ```yaml
 title: "Engagement"
@@ -615,10 +615,10 @@ https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca{:target="_blank"}
 
 https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a{:target="_blank"}
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)[https://hbr.org/2016/09/know-your-customers-jobs-to-be-done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done){:target="_blank"}
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)[https://hbr.org/2016/09/know-your-customers-jobs-to-be-done](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done){:target="_blank"}
 
 [https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a](https://medium.com/the-xplane-collection/updated-empathy-map-canvas-46df22df3c8a){:target="_blank"}
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
