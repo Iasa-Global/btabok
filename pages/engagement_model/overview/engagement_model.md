@@ -2,7 +2,7 @@
 
 The following chart shows the engagement model representing the IASA world of architecture. Click on the elements to learn more about the architecture topics.
 
-![](./media/EM01_engagement_model_map.png)
+<img src="./media/EM01_engagement_model_map.png" style="max-width: 900px; width: auto; height: auto;">
 
 # The Outcome Model
 
