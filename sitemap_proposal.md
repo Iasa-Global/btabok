@@ -24,7 +24,6 @@ The following is a proposal for a collective structure for the BTABoK:
       + Infrastructure Architecture
       + Enterprise Architecture?
       + Solution Architecture?
-    + Canvas Library
   + Engagement Model (pages/engagement_model)
     + Overview (clickable model diagram as centerpeice)
     + The Architecture Practice
@@ -38,6 +37,7 @@ The following is a proposal for a collective structure for the BTABoK:
     + Operating Model
     + Value Model
     + People Model
+    + Canvas Library
   + Specializations (Topic Areas) (pages/specializations)
     + Artificial Intelligence
     + System
