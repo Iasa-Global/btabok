@@ -2,7 +2,65 @@
 
 The following chart shows the engagement model representing the IASA world of architecture. The engagement model is composed of four sub-models represented by rings in the diagram. The sub-models contain elements representing essential architecture topics. Click on the elements to learn more about the architecture topics.
 
-<img src="./media/EM01_engagement_model_map.png" style="max-width: 700px; width: auto; height: auto;">
+<map name="rage_image_map">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/ecosystem.html" coords="45,199,95,261" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/engagement.html" coords="101,134,155,180" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/journey.html" coords="175,78,222,127" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/innovate.html" coords="322,30,381,78" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/strategy.html" coords="464,59,496,97" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/agility.html" coords="528,101,569,148" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/business_models.html" coords="597,176,639,229" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/business_capabilities.html" coords="622,261,674,304" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/transform.html" coords="619,334,684,370" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/culture.html" coords="605,440,648,497" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/mindset.html" coords="546,537,577,583" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/collaboration.html" coords="428,612,475,654" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/utilize.html" coords="326,631,379,678" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/automation.html" coords="224,601,267,646" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/safety_liability.html" coords="142,550,171,611" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/velocity.html" coords="87,501,122,546" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/simplicity.html" coords="57,426,96,467" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/measures.html" coords="23,334,81,368" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/services.html" coords="414,126,441,164" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/assignment.html" coords="460,150,502,175" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/architecture_lifecycle.html" coords="506,183,535,230" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/decisions.html" coords="546,240,572,273" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/design.html" coords="556,292,586,331" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/architecture_pattern_repository.html" coords="552,351,582,391" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/stakeholders.html" coords="537,420,575,454" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/requirements.html" coords="490,480,527,519" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/views.html" coords="442,525,469,567" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/quality_attributes.html" coords="372,546,404,596" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/deliverables.html" coords="298,556,330,592" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/legacy_modernization.html" coords="234,522,260,565" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/repository.html" coords="181,490,206,521" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/architecture_tools.html" coords="139,437,169,479" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/quality_assurance.html" coords="112,368,148,413" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/governance_em.html" coords="115,294,149,330" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/product_project.html" coords="138,228,166,265" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/roadmap.html" coords="178,178,204,213" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/experiments.html" coords="234,134,263,176" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/objectives.html" coords="422,210,454,245" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/technical_debt.html" coords="467,258,498,298" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/investment_planning.html" coords="484,324,520,372" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/scope_context.html" coords="471,396,500,436" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/structural_complexity.html" coords="431,447,461,487" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/coverage.html" coords="372,482,396,518" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/principles.html" coords="305,479,332,519" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/analysis.html" coords="250,449,275,494" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/value_streams.html" coords="209,394,234,448" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/benefits_realization.html" coords="191,329,223,383" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/value_methods.html" coords="207,266,234,308" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/risk_methods.html" coords="243,219,268,257" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/extended_team.html" coords="416,300,447,340" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/organization.html" coords="411,371,445,406" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/roles.html" coords="373,421,399,452" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/competency.html" coords="299,412,329,446" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/job_description.html" coords="254,348,287,391" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/community.html" coords="259,293,291,318" alt="" target="_blank">
+    <area shape="rect" href="https://iasa-global.github.io/btabok/architecture_practice.html" coords="327,323,380,374" alt="" target="_blank">
+</map>
+<img src="media/EM04_BTABoK_map.png" alt="" usemap="#rage_image_map">
 
 ## The Outcome Model
 
@@ -55,7 +113,7 @@ These spikes represent change points within an organization and may be visible o
 
 You may look at this initially and see a lifecycle model; after delving into the sections you have the most use for initially, you may return to this model and find quality and maturity aspects to bring to your growing practice.  As a mature architect, you may contribute back to the model your own experiences combining models in your organization and creating a collaborative solution design process.  Through your growth as an architect, the concepts in this engagement model will be explored, brought into your personal practice, and expanded as you adapt them in your organization.
 
-![](./media/EM02_itum_loop.png)
+<img src="./media/EM05_BTABoK_map - spikes.png" style="max-width: 400px; width: auto; height: auto;center;">
 
 ## Innovate
 
@@ -97,7 +155,7 @@ PP: Measurement is a set of techniques used to identify positive and negative ou
 
 # The Digtal Stakeholders
 
-![DigitalStakeholders](./media/EM03_digital_stakeholders.png)
+<img src="./media/EM06_BTABoK_map - stakeholders.png" style="max-width: 400px; width: auto; height: auto;center;">
 
 ## The Digital Customer
 
