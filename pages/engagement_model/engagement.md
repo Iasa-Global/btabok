@@ -76,19 +76,11 @@ Much is said about customers, but it is often difficult to know who the customer
 
 The BTABoK uses the following definitions:
 
-<<<<<<< HEAD
 1.  Client: The client hires the architect. The client may thus be the architect's employer, or if the architect is a cosultant, the entity that contracts with them for services.
 2.  Customer: The customer is always client's external customer; the person who decides to purchase, use, provide use of, or direct the use of a product provided by the client. The customer is the real decision-maker.
 3.  Economic Buyer: The economic buyer is the ultimate source of funds supporting the architect's work. They may be the client's boss, or an external client who contracts with the architect.
 4.  User: The product user is the one who directly engages with it. Thus, the customer of children’s toys is the parent while the child is user (the parent may also be a user).
 5.  Stakeholder: The stakeholder is anyone, internal or external to the client, involved with or who has an interest the client or customer ecosystem, and impacts the success of the product or the architect’s work.
-=======
-1. Client: The client is always the architect’s client or employer. Thus the client is never the customer of the business but the person or business who pays the company.
-2. Customer: The customer is always the person who decides to purchase, use, provide use of, or direct the use of the product. The customer is the real decision-maker.
-3. Economic Buyer: The economic buyer is the person or group who pays for the product or job. They may be the customer’s boss, a purchasing department, or the parents are both the customer and the economic buyer in the previous example.
-4. User: The product used is the one who directly engages with it. Thus, the customer of children’s toys is the parent. At the same time, the user is the child (or, in many cases, the parents as well).
-5. Stakeholder: The stakeholder is anyone involved with the client or the customer ecosystem, which impacts the success of the product or the architect’s work. Customers should never be called stakeholders.
->>>>>>> 17cfe8b3f96af55975a0149e266dfbb33b47d1d7
 
 Many of the tools in this article can be used for any of the previous examples of individuals. The following persona card is used to get into the mind of a person or group of people who have a similar story. It makes a customer segment into a real person. It is easier to design success for Tom, the father of 2, who picks his kids up from school at 3:30 and works a job as a virtual assistant, lives in Breda, and likes American football than design for a ‘user.’ It is also easier to understand his jobs to be done (get the kids home safely while succeeding at work) and his experiences, what his friends say, etc. The Persona Card is the first step in understanding the mind and emotions of a customer in a particular scenario.
 
