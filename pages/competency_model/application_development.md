@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: application_development.html
 folder: competency_model
-summary: "The ability to understand how applications are developed is a key skill for architects, they play a pivotal role working with the project manager to define the approach for a project."
+summary: "Application development defines and describes the varying approaches to building applications and includes COTS package selection and implementation and infrastructure upgrades."
 tags: 
   - it_environment
 ---
@@ -44,9 +44,9 @@ Understand the various activities which are undertaken as part of software devel
 | | -   Learner will be able to name the elements that are involved in SDLC, namely Roles, Artifacts and Activities
 | **CITA -- Associate** | -   Learner will be able to describe the differences between various SDLC
 | | -   Learner will be able to describe the key elements of each of the SDLCs and the dependencies
-| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which SDLC, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be able to describe when it is most appropriate to use which SDLC, and highlight the advantages and disadvantages of each
 | | -   Learner will be able to describe how use at least one of the SDLCs in detail for a project and be able to set up the functions
-| **CITA -- Professional** | -   Learner will be able to use parts of different SDLCs together in a project when this is the most effective thing to do
+| **CITA -- Distinguished** | -   Learner will be able to use parts of different SDLCs together in a project when this is the most effective thing to do
 | | -   Learner will know the risk of missing out activities defined in the SDLC and be able to justify this where appropriate
 
 ## Application Life Cycle Management
@@ -60,10 +60,10 @@ Understand the full life span of an application, including governance, developm
 | | -   Learner will be able to describe the requirements of the ALM activities on the development of simple/small to medium projects
 | | -   Learner will be able to define in detail two of the activities
 | | -   Learner will be able to understand if a solution is aligned with the existing Enterprise Architecture
-| **CITA -- Specialist** | -   Learner will be able to describe the requirements of the ALM activities on the development of large and complex project environments
+| **CITA -- Professional** | -   Learner will be able to describe the requirements of the ALM activities on the development of large and complex project environments
 | | -   Learner will be able to define in detail all of the activities
 | | -   Learner will be describe the impact of the project on the existing Enterprise Architecture
-| **CITA -- Professional** | -   Learner will be able to suggest significant improvements in the activities
+| **CITA -- Distinguished** | -   Learner will be able to suggest significant improvements in the activities
 | | -   Learner will be recommend solutions which will move the organization towards the target Enterprise Architecture
 
 ## Development Technique and Tools
@@ -77,9 +77,9 @@ Architects will need to advise on the appropriate tools for each of the activiti
 | **CITA -- Associate** | -   Learner will be able to use a number of the tools and techniques
 | | -   Learner will be able to carry out code reviews
 | | -   Learner will be to identify the set of types of tools to be used
-| **CITA -- Specialist** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
 | | -   Learner will be able to carry out code reviews on complex areas
-| **CITA -- Professional** | -   Learner will be able to drive the introduction of new tools and technique into the organization
+| **CITA -- Distinguished** | -   Learner will be able to drive the introduction of new tools and technique into the organization
 | | -   Learner will be able to act as a mentor for the tools and techniques
 | | -   Learner will be involved in defining the code review process and the checklists to be used
 
@@ -93,9 +93,9 @@ Understand when it is appropriate use a COTS product to meet the business need, 
 | | -   Learner will be described the obvious cases where a COTS product should be selected and why
 | **CITA -- Associate** | -   Learner will be describe how to carry out a COTS selection process using a weighted scoring process
 | | -   Learner will be able to define the appropriate areas for COTS product consideration
-| **CITA -- Specialist** | -   Learner will be able to define a weighted scoring process for a project including aspects of ALM
+| **CITA -- Professional** | -   Learner will be able to define a weighted scoring process for a project including aspects of ALM
 | | -   Learner will be able to be involved in negotiations with suppliers on the solution and how it will integrate with other systems
-| **CITA -- Professional** | -   Learner will be able to define the changes to the existing SDLC and ALM when a COTS product is being used
+| **CITA -- Distinguished** | -   Learner will be able to define the changes to the existing SDLC and ALM when a COTS product is being used
 | | -   Learner will be able to understand the sophisticated factors which influences product selection in an organization, including politics, alignment with strategy and risk profile
 
 ## Measuring Application Development
@@ -108,10 +108,10 @@ The architect will facilitate improvements by changing approaches and working pr
 | | -   Learner will be able to name the commonly used models
 | **CITA -- Associate** | -   Learner will be able identify some metrics to use on projects and how to measure them
 | | -   Learner will be to define some problems with metrics
-| **CITA -- Specialist** | -   Learner will be able to identify a coherent set of metrics to use in projects
+| **CITA -- Professional** | -   Learner will be able to identify a coherent set of metrics to use in projects
 | | -   Learners will be able to predict negative effects of measurement and devised ways to apply these which result in desired outcome
 | | -   Learner will be able to define the models and describe how they are used
-| **CITA -- Professional** | -   Learner will be able to define new metrics and improve the process as a consequence of measurement
+| **CITA -- Distinguished** | -   Learner will be able to define new metrics and improve the process as a consequence of measurement
 | | -   Learner will be able to work with the stakeholders to understand how to define apply SLAs
 
 # Related Capabilities

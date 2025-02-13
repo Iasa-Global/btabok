@@ -58,7 +58,7 @@ Step 1 in any Value Stream activity is finding the value streams. A number of st
 
 -   Option 4: Financial -- find and follow the money
 -   Option 5: Operational -- find and follow the activity
--   Option 6: [Governance](governance.md){:target="_blank"} -- find and follow the outcomes (rules, policies, principles)
+-   Option 6: [Governance](governance_em.md){:target="_blank"} -- find and follow the outcomes (rules, policies, principles)
 
 ## Capability Value Stream Mapping
 
@@ -239,4 +239,4 @@ References
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

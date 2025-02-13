@@ -86,8 +86,8 @@ Often frameworks, platforms, components and technologies use the principle of l
 | **CITA -- Associate** | -   The learner will be able to choose appropriate platforms and layered architectures for systems delivery
 -   The learner will be able to model a layered application, system, or technology
 -   The learner
-| **CITA -- Specialist** | -   The learner will utilize layering effectively in systems they have designed themselves.
-| **CITA -- Professional** |
+| **CITA -- Professional** | -   The learner will utilize layering effectively in systems they have designed themselves.
+| **CITA -- Distinguished** |
 
 # Resources
 

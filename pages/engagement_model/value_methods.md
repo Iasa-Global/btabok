@@ -62,7 +62,7 @@ Depending on the context, the business function, and the company in question, an
 
 In the development of an engagement model these activities are called 'The Red Thread' and are included in the Design Traceability as well as [Business Technology Strategy](strategy.md){:target="_blank"} competencies.
 
-f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](governance.md){:target="_blank"}, [analysis](analysis.md){:target="_blank"} and [extended team](extended_team.md){:target="_blank"}.
+f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](governance_em.md){:target="_blank"}, [analysis](analysis.md){:target="_blank"} and [extended team](extended_team.md){:target="_blank"}.
 
 If the Architect performing these activities results in better outcomes, but there isn't a measure for how much each activity is worth to the effort in dollars, how is value defined?
 
@@ -70,7 +70,7 @@ If the Architect performing these activities results in better outcomes, but the
 
 The word 'value' itself has some problems in this context. The main issue is that value can be extremely subjective. What is of value to one Director of Application Development may not be of value to a Senior Manager of Risk and Compliance both [stakeholders](stakeholders.md){:target="_blank"} then have differing perspective on value for initiatives.
 
-![image001](media/v_m001.png)
+[![image001](media/v_m001.png)](https://iasa-global.github.io/btabok/stakeholder_initiative_canva.html){:target="_blank"}
 
 For this reason, architects need to be looking at outcomes when we are defining value. Outcomes in the BTABoK are defined using objectives. Acceptable or expected outcomes of an effort will be core to the effort, defined up front, and will provide the standard against which to measure for value.
 
@@ -136,7 +136,7 @@ How long did it take? 
 
 -   [Roadmaps](roadmap.md){:target="_blank"} 
 -   Sequencing and Prioritization  
--   [Governance](governance.md){:target="_blank"} (Reviews, Toll-Gates) 
+-   [Governance](governance_em.md){:target="_blank"} (Reviews, Toll-Gates) 
 -   [Stakeholder](stakeholders.md){:target="_blank"} Communication 
 -   Engagement Models 
 
@@ -256,7 +256,7 @@ An Architect impacts Cost when delivering or performing any of the following:
 
 Any successful Cost Reduction or Cost Avoidance effort is attributable to analysis and activities primarily performed by an Architect. It is a powerful metric for demonstrating the Value that Architecture can deliver.
 
-![image001](media/v_m004.png)
+[![image001](media/v_m004.png)](https://iasa-global.github.io/btabok/risk_and_cost_card.html){:target="_blank"}
 
 ## Revenue
 
@@ -294,7 +294,7 @@ An Architect impacts Revenue when delivering or performing any of the following:
 -   Stakeholder Communication
 -   Engagement Models
 
-![image001](media/v_m007.png)
+[![image001](media/v_m007.png)](https://iasa-global.github.io/btabok/benefits_card_layout-b_canvas.html){:target="_blank"}
 
 New Revenue or Increased Existing Revenue is a result of the entire effort. It is difficult to attribute any portion of this Value directly to, say, a really good Capability Model. But as in the examples above, the rigor that Architecture brings to delivering the product or service is an important aspect of the Value equation and should be front and center in the Value Story.
 
@@ -364,7 +364,7 @@ Simplicity and reuse are one of the most commonly mentioned value categories but
 | Reduced Technical Debt | The amount of technical debt is the number of poor decisions which lock the orgaization into a single technology choice. | Measure technical debt as the cost to reverse a decision. |
 | Increased Reuse | Reuse refers to the number of systems which utilize a single business or technical function. | Measure API level calls and which systems are dependent. |
 
-![image001](media/v_m012.png)
+[![image001](media/v_m012.png)](https://iasa-global.github.io/btabok/technical_loan_request_card.html){:target="_blank"}
 
 ## Market Dynamics
 
@@ -376,7 +376,7 @@ Critical market changes are driven by technology innovation whether it is disrup
 | SWOT | Tool to understand the strengths, weaknesses, opportunities and threats within a particular activity. | Requires a multi-disciplinary approach to correctly understand the organization. |
 | Platform Design Toolkit | The toolkit provides platform thinking which enables organizations to understand themselves as a part of an ecosystem of change. | [https://platformdesigntoolkit.com/](https://platformdesigntoolkit.com/){:target="_blank"} |
 
-![image001](media/v_m013.png)
+[![image001](media/v_m013.png)](https://iasa-global.github.io/btabok/market_segmentation_canvas.html){:target="_blank"}
 
 ## Doing Good
 
@@ -394,4 +394,4 @@ To be effective in growing and innovating in this space it is necessary to exten
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

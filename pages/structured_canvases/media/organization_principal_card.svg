@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" viewBox="0 0 960 720" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="clippath0" transform="">
+      <path d="M 0 179.604 L 657.483 179.604 L 657.483 0 L 0 0 Z" style="fill: none; clip-rule: nonzero;"/>
+    </clipPath>
+  </defs>
+  <style>
+    text.canvas {
+        font-family: Verdana;
+        fill: black;
+    }
+    rect.canvas {
+        stroke:black;
+        stroke-width:4; 
+        fill:white;
+    }
+  </style>
+  <rect class="canvas" x="638" y="10" width="144" height="41" style="stroke-width: 0; fill: lightgrey;"/>
+  <rect class="canvas" x="788" y="10" width="139" height="41" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="644" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Date:</text>
+  <text class="canvas" x="794" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Version:</text>
+  <rect class="canvas" x="25" y="60" width="900" height="600" style=""/>
+  <rect class="canvas" y="210" width="600" height="150" style="" x="25"/>
+  <text class="canvas" x="20" y="32" width="100" height="20" font-size="1.4em" font-weight="500" style="white-space: pre-wrap; font-size: 21px;">ORGANIZATION PRINCIPLE CARD</text>
+  <text class="canvas" x="35" y="234.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Busines Drivers:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" transform="matrix(1, 0, 0, 1, 4.793536, 6.472379)"><tspan x="26" y="90">Describe the forces at play, including technological, </tspan><tspan x="26" dy="1em">​</tspan><tspan>political, social, and project local.</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the tensions &amp; dependencies</tspan><tspan x="26" dy="1em">​</tspan><tspan>Describe the facts as you know them</tspan><tspan x="26" dy="1em">​</tspan></text>
+  <text class="canvas" x="21" y="678" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">V3.07 2020-11-29 Contributors include Iasa and Gar Mac Críosta</text>
+  <text class="canvas" x="21" y="690" width="100" height="40" font-size="0.6em" style="white-space: pre-wrap; font-size: 9px;">This work is licensed under a Creative Commons Attribution-NonCommercial--ShareAlike 4.0 International License. <a xlink:href="http://creativecommons.org/licenses/by-sa/4.0">Licence details</a></text>
+  <g transform="matrix(0.264361, 0, 0, -0.264361, 770.92865, 713.30719)" style="">
+    <g transform="">
+      <path d="M 0 0 L 657.483 0 L 657.483 179.604 L 0 179.604 Z" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+      <path d="M 159.811 19.771 L 18.778 19.771 L 18.778 160.804 L 159.811 160.804 Z" style="fill: rgb(26, 132, 201); fill-opacity: 1;"/>
+      <path d="M 80.023 160.796 L 98.568 160.796 L 98.568 19.778 L 80.023 19.778 Z" style="fill: rgb(92, 168, 219); fill-opacity: 1;"/>
+      <path d="M 319.377 19.765 L 178.345 19.765 L 178.345 160.801 L 319.377 160.801 Z" style="fill: rgb(116, 185, 223); fill-opacity: 1;"/>
+      <path d="M 0 179.604 L 657.483 179.604 L 657.483 0 L 0 0 Z" style="fill: none;"/>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(225.981 77.5073)">
+        <path d="M 0 0 L 43.202 0 L 29.966 39.168 C 26.046 51.042 23.03 60.855 20.928 68.598 C 19.165 59.378 16.8 50.328 13.834 41.452 Z M -35.712 -57.745 L 12.283 83.297 L 30.322 83.297 L 81.47 -57.745 L 62.574 -57.745 L 48.167 -15.05 L -4.665 -15.05 L -18.229 -57.745 Z" style="fill: rgb(216, 234, 242); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="">
+        <path d="M 479.038 19.771 L 338.007 19.771 L 338.007 160.804 L 479.038 160.804 Z" style="fill: rgb(216, 234, 242); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(356.3379 66.1172)">
+        <path d="M 0 0 L 16.359 1.352 C 17.138 -5.549 18.94 -11.207 21.774 -15.623 C 24.609 -20.045 29.008 -23.615 34.972 -26.343 C 40.938 -29.067 47.647 -30.432 55.111 -30.432 C 61.731 -30.432 67.58 -29.402 72.646 -27.323 C 77.719 -25.261 81.494 -22.425 83.967 -18.816 C 86.435 -15.215 87.682 -11.316 87.682 -7.107 C 87.682 -2.846 86.479 0.874 84.062 4.054 C 81.65 7.235 77.698 9.917 72.202 12.092 C 68.674 13.521 60.889 15.75 48.822 18.761 C 36.754 21.771 28.32 24.622 23.491 27.29 C 17.234 30.705 12.58 34.949 9.509 40.008 C 6.444 45.065 4.913 50.739 4.913 57.016 C 4.913 63.91 6.786 70.352 10.549 76.349 C 14.308 82.34 19.801 86.893 27.027 89.999 C 34.247 93.107 42.273 94.658 51.108 94.658 C 60.834 94.658 69.412 93.038 76.842 89.795 C 84.278 86.549 89.994 81.783 93.99 75.482 C 97.99 69.188 100.144 62.054 100.445 54.09 L 83.756 52.739 C 82.858 61.322 79.828 67.807 74.663 72.192 C 69.5 76.576 61.87 78.769 51.778 78.769 C 41.271 78.769 33.606 76.762 28.809 72.751 C 23.996 68.744 21.595 63.91 21.595 58.259 C 21.595 53.345 23.299 49.303 26.702 46.136 C 30.048 42.96 38.777 39.711 52.903 36.382 C 67.024 33.054 76.713 30.156 81.969 27.685 C 89.615 24.027 95.258 19.404 98.904 13.8 C 102.545 8.199 104.37 1.741 104.37 -5.564 C 104.37 -12.804 102.369 -19.622 98.376 -26.038 C 94.373 -32.443 88.644 -37.424 81.159 -40.987 C 73.672 -44.542 65.261 -46.319 55.899 -46.319 C 44.033 -46.319 34.092 -44.515 26.075 -40.906 C 18.053 -37.294 11.761 -31.858 7.203 -24.61 C 2.639 -17.364 0.237 -9.16 0 0" style="fill: rgb(155, 188, 208); fill-opacity: 1;"/>
+      </g>
+      <g transform="">
+        <path d="M 638.702 19.765 L 497.668 19.765 L 497.668 160.801 L 638.702 160.801 Z" style="fill: rgb(155, 188, 208); fill-opacity: 1;"/>
+      </g>
+      <g transform="translate(545.3047 77.5073)">
+        <path d="M 0 0 L 43.201 0 L 29.965 39.168 C 26.048 51.042 23.037 60.855 20.928 68.598 C 19.164 59.378 16.807 50.328 13.837 41.454 Z M -35.711 -57.745 L 12.286 83.297 L 30.322 83.297 L 81.474 -57.745 L 62.573 -57.745 L 48.165 -15.05 L -4.663 -15.05 L -18.227 -57.745 Z" style="fill: rgb(26, 132, 201); fill-opacity: 1;"/>
+      </g>
+    </g>
+  </g>
+  <text class="canvas" x="29.216" y="82.355" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">NAME:</text>
+  <text class="canvas" x="28.087" y="581.061" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">LINKED DECSIONS:</text>
+  <text class="canvas" width="100" height="20" style="fill: rgb(148, 148, 148); font-size: 8px; white-space: pre-wrap;" x="29.477" y="593.457">What other decsions are related to this decsion? </text>
+  <rect class="canvas" x="625" y="210" width="300" height="150" style="fill: none;"/>
+  <rect class="canvas" x="325" y="210" width="300" height="150" style="fill: none;"/>
+  <rect class="canvas" x="25" y="360" height="150" style="" width="300"/>
+  <rect class="canvas" x="625" y="360" width="300" height="150" style="fill: none;"/>
+  <rect class="canvas" x="325" y="360" width="300" height="150" style="fill: none;"/>
+  <rect class="canvas" y="510" width="450" height="150" style="" x="25"/>
+  <rect class="canvas" x="475" y="510" width="450" height="150" style="fill: none;"/>
+  <text class="canvas" x="333" y="233.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Rationale:</text>
+  <text class="canvas" x="636" y="232.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Linked Principles:</text>
+  <text class="canvas" x="35" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Implications:</text>
+  <text class="canvas" x="334" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Actions:</text>
+  <text class="canvas" x="637" y="381.057" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Decisions:</text>
+  <text class="canvas" x="35" y="530" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Identified Expectations:</text>
+  <text class="canvas" x="485" y="530" width="100" height="20" style="white-space: pre-wrap; font-size: 15px;">Allowed Exemptions:</text>
+  <rect class="canvas" x="488.445" y="10" width="144" height="41" style="stroke-width: 0; fill: lightgrey;"/>
+  <text class="canvas" x="494.445" y="26" width="100" height="20" font-size="0.8em" style="white-space: pre-wrap; font-size: 12px;">Scope:</text>
+</svg>

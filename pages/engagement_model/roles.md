@@ -11,12 +11,12 @@ tags:
 ---
 
 > "All the world's a stage, and all the men and women but merely players."
-**William Shakespeare**
+> **William Shakespeare**
 
 # What are Roles
 
 > "...The function assumed or part played by a person or thing in a particular situation.."
-**definition from Oxford Dictionary**
+> **definition from Oxford Dictionary**
 
 The definition of role provides a unique insight into the need for very careful analysis of the difference between a role of a regular employee and role(s) for professionals. These are very different concepts. The role of a regular employee may be somewhat agreed upon by human resources or other external resources, but there is extreme variation in the industry based on the needs of the individual organization. A profession on the other hand manages the activities of its members with extreme care and they must adhere within the scope of professional activities to modern best practices as defined by the overarching body of professionals. This may include enforcement through legislation, litigation, liability, and other methods.
 
@@ -30,13 +30,13 @@ With the competency model and the job definitions provided by the BTABoK, there 
 
 This topic is at the core of creating a profession from the chaotic mess that is today's technology world.  While there are many successful deliveries, the chaos described here is more about the massive difficulties in repeating those successes regularly and efficiently across employers and clients. Effectively, the world of architecture must move to official designations with meaning derived from successful practice, not just successful career advancement. This is best highlighted in how one achieves titles and how one advances to senior levels within their specialization or within the overall profession. In a practice model, a large group of organizations must change the following:
 
-1.  Adopting an externally agreed competency model for architects and measuring achievements within those competencies during the professional's employment (most of this will be done for the organization by the external professional association... Iasa, and the individuals themselves).
-2.  Applying the title only to those who have achieved externally verifiable evidence of advancement in those competencies.
-3.  Removing the title based on ethical breaches, principles, and practices from those that cannot or will not deliver successfully.
-4.  Creating opportunities to practice the competencies under guided mentoring from qualified mentors either internally or externally.
-5.  Supporting a career advancement method based primarily on achievements within the competency model.
-6.  Adopting a method by which the most critical see [Safety and Liability](safety_liability.md){:target="_blank"} class of problems/solutions cannot be worked on by non-professionals.
-7.  Requiring (or at least preferring) vendors and external partners to adhere to the same levels of standards of practice.
+1. Adopting an externally agreed competency model for architects and measuring achievements within those competencies during the professional's employment (most of this will be done for the organization by the external professional association... Iasa, and the individuals themselves).
+2. Applying the title only to those who have achieved externally verifiable evidence of advancement in those competencies.
+3. Removing the title based on ethical breaches, principles, and practices from those that cannot or will not deliver successfully.
+4. Creating opportunities to practice the competencies under guided mentoring from qualified mentors either internally or externally.
+5. Supporting a career advancement method based primarily on achievements within the competency model.
+6. Adopting a method by which the most critical see [Safety and Liability](safety_liability.md){:target="_blank"} class of problems/solutions cannot be worked on by non-professionals.
+7. Requiring (or at least preferring) vendors and external partners to adhere to the same levels of standards of practice.
 
 This list may sound very intense to individuals in today's chaotic environment. However, the techniques involved may be adopted gradually, with significant benefits to all parties involved. In addition, if a practice adopts these methods according to the recommended engagement model methods, it will significantly lower the total cost of architecture, increase the value generated and effectively pay for itself.
 
@@ -69,7 +69,6 @@ Specializations in Architecture
 
 The primary focus of an architecture practice is to maximize the value created from technology strategy throughout an organization. This is extremely well documented in the value article as well as throughout the BTABoK. However, it is in the nature of complex professions like architecture for individuals to specialize in specific functions of this objective. In many cases, specialists will be involved in activities that aren't exactly architecture as well.
 
-
 ![image001](media/roles003.png)
 
 **The first rule of specialization is that ALL specialization is based on a common competency foundation.** As long as that is the case, specialization creates a significant advantage, especially in large architecture practices.
@@ -77,6 +76,14 @@ The primary focus of an architecture practice is to maximize the value created f
 In the BTABoK all architects are required to have a minimum level of competence in the 5 pillars of architecture. This creates the common language, shared purpose, and value potential of the entire practice model.
 
 Once baseline competence is established, preferably early in a practitioner's career, then specialization is mostly based on two very poorly understood competency models seen below.
+
+## Career Levels
+
+The career path is based on significant and measurable competency gains in the 5 pillars of the competency model. 
+
+![Screenshot 2024-03-20 at 16.29.54.png](../../media/21bc95873091b6eacceb46f933a972955b406280.png)
+
+The recommended career path is based on levels of seniority in measured skills as opposed to domain based or scope based titles. 
 
 ## Technical to Business And Breadth to Depth
 
@@ -106,13 +113,13 @@ The profession must be based on equal buy in to descriptions -- possible relatio
 
 The business architect specialization focuses deeply on integrating with all areas of the organization's business and operational units. Their primary responsibility is to work with business stakeholders to optimize business strategy with the maximum strategic digital gain. Business architects spend significant portions of their time working with models and canvases that are distinctly about business decisions. However, in the BTABoK (as opposed to other competency models) business architects retain a strong degree of technical skill, thus allowing them to function as a digital strategists partnered with other business units. The degree of technical skill retained is primarily based on their background and is very well defined if they follow the BTABoK competency and career path. This structure for the business architect specialization creates significant benefits for the architecture practice:
 
--   Business architects are able to work alongside more technical specialists and speak the same language
--   The career path for all architects remains based on the same competency model
--   The architecture practice helps to shape strategy throughout the organization, optimizing digital outcomes
--   The architecture practice is able to acquire the business information, insights, and objectives that allow for effective decisions in the more technical/depth areas of architecture
--   The architecture practice generates more measurable business outcomes for the organization
--   Success is measured at value stream, capability, and objectives levels instead of at IT delivery
--   The architecture practice may communicate directly with areas it does not traditionally reach
+- Business architects are able to work alongside more technical specialists and speak the same language
+- The career path for all architects remains based on the same competency model
+- The architecture practice helps to shape strategy throughout the organization, optimizing digital outcomes
+- The architecture practice is able to acquire the business information, insights, and objectives that allow for effective decisions in the more technical/depth areas of architecture
+- The architecture practice generates more measurable business outcomes for the organization
+- Success is measured at value stream, capability, and objectives levels instead of at IT delivery
+- The architecture practice may communicate directly with areas it does not traditionally reach
 
 In the BTABoK, board-certified Chief Business Architects largely replace the business-facing portion of the 'enterprise architect' practice.
 
@@ -160,6 +167,12 @@ It is very common for professionals to provide 'secondary benefits'. This phrase
 
 It is absolutely essential that secondary benefits nor other role activities not be construed as the primary purpose of the profession. This results in the utter chaos of the current professional marketplace. For example, the phrase 'going native' is often applied to software architects who double as software engineers. And many business and enterprise architects use the phrase 'architecting the business' which is an abuse of the term as it implies that the secondary benefit of having a part in the design of a business strategy is their primary function. As a side note, even this expression is inaccurate as architecture is not a verb and thus it should have been 'designing the business'. This is a point of serious contention in the industry, though the BTABoK method clarifies this very specifically. Architecture as used in the modern enterprise and not referring to protected uses such as building or marine architecture is business technology strategy and decision rights protection, methods and competencies extend only to business/technical strategy and execution.  
 
+## Architects and Change/Transformation
+
+The BTABoK is heavily weighted towards a transformation based practice model. That means the entire BTABoK is oriented towards innovation, change, transformation and not run the business or design a business narratives. This focuses the architecture practice on business and technology strategy and execution. 
+
+The BTABoK and 
+
 ## Architects Wear Multiple Masks
 
 In many cases, architects must act as different types of people to accomplish their goals and the outcomes and value of the profession.
@@ -196,4 +209,4 @@ Enough cannot be said about an architect's potential role in society. In an incr
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

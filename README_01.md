@@ -4,7 +4,7 @@ Welcome to the Iasa BTABoK. This is the primary source material for the BTABoK w
 
 ## Who is the BTABoK for?
 
-The BTABoK was designed ground up to be a practical resource for any type of architect in any type of organization. It includes as much business as technical thinking as well as up to date tools in both of these spaces. It has a very strong approach to stakeholder management as well as an easy to use competency model which can be modified for your organization. 
+The BTABoK was designed ground up to be a practical resource for any type of architect in any type of organization. It includes as much business as technical thinking as well as up to date tools in both of these spaces. It has a very strong approach to stakeholder management as well as an easy to use competency model which can be modified for your organization...
 
 ## What is in this Site?
 
@@ -15,6 +15,7 @@ The BTABoK repository includes all of the main content for the BTABoK. It is nav
 1. The Engagement Model - includes the articles related to building and managing an architecture practice. 
    
    1. While we are experimenting we have uploaded this articles 
+      
       * [__Design__](./pages/engagement_model/design.md)
       * [__Requirements__](./pages/engagement_model/requirements.md)
       * [__Requirements Modeling__](./pages/competency_model/requirements_modeling.md)

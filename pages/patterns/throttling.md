@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: throttling.html
 folder: patterns
-summary: " "
+summary: "The throttling pattern is used to allow a service to maintain a steady pace when process multiple customer requests."
 ---
 
 The throttling pattern is used to allow a service to maintain a steady pace when process multiple customer requests.

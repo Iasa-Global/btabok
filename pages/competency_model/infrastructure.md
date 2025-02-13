@@ -68,9 +68,9 @@ Processes and services that are used to run IT as a business, including manageme
 | **CITA- Foundation** | -   Learner will be able to identify the key functions of IT Operations Management and the roles involved
 | **CITA -- Associate** | -   The Learner is able to articulate the key considerations and concerns of IT operations management
 | | -   The Learner is able to speak to the roles involved, interactions, and processes
-| **CITA -- Specialist** | -   The Learner will be able to demonstrate working knowledge of IT Operations Management processes and be able to discuss interacting with them
+| **CITA -- Professional** | -   The Learner will be able to demonstrate working knowledge of IT Operations Management processes and be able to discuss interacting with them
 | | -   Learner is able to discuss the architectural implications of IT Operations
-| **CITA -- Professional** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
+| **CITA -- Distinguished** | -   The Learner will have experience with delivering architectural programs leveraging complex environments and can discuss working with engineering and operational teams
 | | -   The Learner has experience developing and building processes and services for IT Operations and can discuss how they impact IT quality
 | | -   The Learner has examples of changing their architecture based on IT Operations concerns and can detail the decision tradeoff process
 
@@ -85,10 +85,10 @@ Planning, design, engineering, and construction of data centers & computer rooms
 | **CITA -- Associate** | -   Learner can describe the conceptual design of a datacenter
 | | -   Learner can describe all components of a modern datacenter and current trends
 | | -   Learner can articulate the decision tradeoff process between private, hybrid, and public cloud providers
-| **CITA -- Specialist** | -   Learner has designed solutions which require considerations of redundancy, virtualization, and efficiencies of design
+| **CITA -- Professional** | -   Learner has designed solutions which require considerations of redundancy, virtualization, and efficiencies of design
 | | -   Learner has experience designing and implementing server based computing solutions, storage area networks, network designs, and security controls
 | | -   Learner has participated on projects involving storage area networking, networking, or rack based server deployments
-| **CITA -- Professional** | -   Learner has demonstrated expertise implementing data center solutions in complex environments
+| **CITA -- Distinguished** | -   Learner has demonstrated expertise implementing data center solutions in complex environments
 | | -   Learner has designed, or participated in the design, of large, complex datacenter designs
 | | -   Learner has modified a design to take into account the concerns of data center facilities including modification to cloud deployment
 | | -   Learner is able to articulate detailed concerns in areas of datacenter design such as heating, ventilation and air conditioning (HVAC), redundant power designs, network monitoring, and business continuity.
@@ -102,10 +102,10 @@ Activities that focus on capabilities to get access to devices or networks from 
 | **CITA- Foundation** | -   Learner understands the basics of network topologies and can articulate concerns of technologies such as packet-switched networks
 | **CITA -- Associate** | -   Learner is able to show understanding of the concerns of security and reliability to network design
 | | -   Learner is able to describe remote access solutions that would be appropriate to a set of requirements
-| **CITA -- Specialist** | -   Learner has worked on projects involving network design
+| **CITA -- Professional** | -   Learner has worked on projects involving network design
 | | -   Learner is able to discuss topics such types of encryption appropriate to a concern
 | | -   Learner has experience managing the network implications of an organization into the architecture and can describe the considerations and trade-offs made
-| **CITA -- Professional** | -   Learner has implemented networking solutions in complex organizations
+| **CITA -- Distinguished** | -   Learner has implemented networking solutions in complex organizations
 | | -   Learner has experience with the implications of network congestion, reliability and saturation and can suggest approaches to managing them
 | | -   Learner understands and can articulate the requirements and impact of their design to network operations and has examples of trade-offs required
 

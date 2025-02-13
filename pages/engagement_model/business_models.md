@@ -46,10 +46,10 @@ The set of capabilities for any enterprise is defined primarily by the industry 
 
 Strategic focus is a combination of business focus and anchor competitive necessity, concepts introduced by Perry, Stott, and Smallwood in _Real-Time Strategy_. They define business focus as how the organization intends to create industry leadership. The selected business focus provides guardrails and guidance to everything the business does. Their four business focuses are:
 
-*   Product/service
-*   Customer
-*   Technology
-*   Production capacity
+* Product/service
+* Customer
+* Technology
+* Production capacity
 
 A product- or service-focused company is organized around its products and services. New products and services are derived from current products and services. Core capabilities include product/service design, manufacturing, engineering, and customer service. Sales, delivery, and custom applications are either support services or may be outsourced to partners.
 
@@ -63,10 +63,10 @@ A company focused on production capacity aims to keep its production system runn
 
 In addition to business focus, Perry, Stott, and Smallwood identify four competitive necessities. They call these competitive necessities because each one has a minimum level of competence that an organization must have to even compete in a given industry. The four necessities are:
 
-*   Cost
-*   Quality
-*   Speed
-*   Service
+* Cost
+* Quality
+* Speed
+* Service
 
 Each necessity has implications for organizations in a given market. For instance, the highest cost firm will likely not survive long as competitors undercut its ability to lower prices. On the other hand, being the lowest cost firm is at best a short-term position as competitors will continuously find ways to cut their costs. Likewise, a firm cannot compete if it is perceived by the market to have the lowest quality levels. Having the highest quality in a market might help a firm survive, but that firm is unlikely to dominate its market. Poor service leads to a bad reputation that can take years or decades to shake.
 
@@ -90,13 +90,13 @@ For any given product, and to some extent service, it can be built internally, b
 
 The Business Model Canvas provides a very easy way to structure the results of the previous analysis and leads to a fairly complete model. The canvas, shown in Figure 2, consists of nine boxes that together constitute a complete business model. We will deal with only four of the boxes in this article; the others will be dealt with in other articles.
 
-![image001](media/b_m002.jpg)
+[![image001](media/b_m002.jpg)](https://iasa-global.github.io/btabok/business_model_canvas.html){:target="_blank"}
 
 The mission model
 
 canvas can be used to model beneficiaries over customers in non-profit, government or mission based businesses.
 
-![image001](media/b_m003.jpg)
+[![image001](media/b_m003.jpg)](https://iasa-global.github.io/btabok/mission_vision_card.html){:target="_blank"}
 
 Figure 3. Mission Model Canvas.
 
@@ -124,7 +124,7 @@ Gains are more difficult, and are not simply the opposite of pains. Gains are th
 
 Once completed, the right side of the value proposition canvas becomes part of the customer persona for that segment. Keep it, and keep it up to date. Revisit the entire customer persona on a regular basis.
 
-![image001](media/b_m004.png)
+[![image001](media/b_m004.png)](https://iasa-global.github.io/btabok/value_proposition_canva.html){:target="_blank"}
 
 Figure 4. Value Proposition Canvas (credit: Business Model Generation, 2010).
 
@@ -134,18 +134,17 @@ The collection of channels defines how an organization communicates with and rea
 
 They go on to say that each channel has one or more of five distinctive phases:
 
-1.  Awareness
-2.  Evaluation
-3.  Purchase
-4.  Delivery
-5.  After sales
+1. Awareness
+2. Evaluation
+3. Purchase
+4. Delivery
+5. After sales
 
 Channels can be direct, where the customer interacts directly with the organization, or indirect, where they interact with a partner such as a retail chain, wholesaler, or online seller. Channels can also be owned and controlled by the company or by a partner.
 
 With direct channels, the customer experience can be controlled, not only the value proposition itself, but the context around it. Nordstrom offers extraordinary service as part of its value proposition, and the entire in-store experience is designed to deliver on that.
 
-
-![image001](media/b_m005.jpg)
+[![image001](media/b_m005.jpg)](https://iasa-global.github.io/btabok/customer_journey_map.html){:target="_blank"}
 
 Figure 5. Customer Journey Map Canvas.
 
@@ -153,12 +152,12 @@ Figure 5. Customer Journey Map Canvas.
 
 The types of relationships maintained with each customer segment determines how easy or difficult it can be to acquire new customers and keep existing customers. The relationship with a given customer can also influence what kind and how much business they do with the organization. _Business Model Canvas_4 give a number of types of relationships that can be established with a customer. Multiple types of relationships with each customer segment are possible as well. The types are:
 
-*   Personal assistance
-*   Dedicated personal assistance
-*   Self-service
-*   Automated service
-*   Communities
-*   Co-creation
+* Personal assistance
+* Dedicated personal assistance
+* Self-service
+* Automated service
+* Communities
+* Co-creation
 
 From another angle, you need to decide whether repeat business from existing customers (car dealers try to work this way) is preferred over just taking them as they come (most retailers work this way).
 
@@ -202,7 +201,7 @@ As the operating model is designed and built, individual processes contribute in
 
 Understanding a digital business is critical in the success of any architecture initiative. Based on the BTABoK a digital business is one in which technology drivers fundamentally impact the behavior and value generated by the business model. In non-profits this may be interpreted as the value model or mission model. The goal of architecture in the BTABoK is to optimize the outcomes from technology impacts to the business model and the value it generates for customers and shareholders.
 
-![image001](media/b_m002.jpg)
+[![image001](media/b_m002.jpg)](https://iasa-global.github.io/btabok/business_model_canvas.html){:target="_blank"}
 
 [BUSINESS-MODEL-CANVAS.ppt](media/ppt/business_model_canvas.ppt){:target="_blank"}
 
@@ -234,4 +233,4 @@ van der Pijl, Patrick, Justin Lokitz, and Lisa Kay Solomon, _Design a Better Bus
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

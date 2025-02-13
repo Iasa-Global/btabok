@@ -32,7 +32,7 @@ Information modeling in IT Architecture takes many forms, all of which have repr
 -   ER diagrams: data modeling specific for database design
 -   Information flow diagrams: indicates origin of data and its uses (process or systems) throughout either the enterprise, line of business (LOB) or system, depending on the context
 -   Data models: depending on level of detail, describes the entities and its relationships detailing attributes, types and multiplicity of an entity to other entities
--   Data lifecycles: how data is created, used and retained (archived or destroyed)
+-   Data lifecycles: how data is created, used and retained (archived or destroyed).
 
 Models will vary depending on a number of factors: usage (whether analytical or transactional), focus (global, enterprise, LOB or system) and level of detail (conceptual, logical, or physical). For example, customer data from an online application will differ from the data used to gather statistics on customer location, where the model of the former would have a normalized structure and the latter a star or snowflake schema. Modeling also can indicate boundaries showing the limits of the information flow needed for regulatory compliance or business access restrictions having audit trails and tight security around authentication and authorization. Models may be relevant either for only a small group of individuals for a specific business process need, or it could be recognized as a global industry-standard.
 
@@ -67,12 +67,12 @@ Similar to Requirements Discovery capability, the focus here is to discover the 
 -   Learner will be able to participate in requirements and model discovery sessions
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Learner will be able to conduct requirements and model discovery sessions, which includes involving determining entities and relationships by asking key probing questions.
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   Learner will be able to mentor key individuals to conduct requirements and model discovery sessions
 
@@ -135,8 +135,8 @@ A wide variety of tools are available to assist architects with the creation and
 | | -   Learner able to follow model logic
 | **CITA -- Associate** | -   Learner will be able to discover detailed cardinality and optionality of relationships
 | | -   Learner will be able to normalize and de-normalize structures
-| **CITA -- Specialist** | -   Learner will be able to conduct sessions to discover data models
-| **CITA -- Professional** | -   Learner will be able to optimize model for usage and purpose
+| **CITA -- Professional** | -   Learner will be able to conduct sessions to discover data models
+| **CITA -- Distinguished** | -   Learner will be able to optimize model for usage and purpose
 | | -   Learner will be able to ask key questions of SMEs to aid in discovery, translating answers to model notation
 
 ## Analyze Information Models
@@ -161,9 +161,9 @@ Physical models provide technology detail to be able to spec and build out the s
 | | -   Learner will be able to identify differences in forms of dimensional modeling (star and snowflake schemas) and entity relationship modeling
 | **CITA -- Associate** | -   Learner will be able to identify whether model is appropriate for usage, scope, level of detail and purpose
 | | -   Learner will be able to identify when normal form versus non-normalized structure is needed
-| **CITA -- Specialist** | -   Learner will be adjust model appropriate for usage, scope and flexibility for future changes
+| **CITA -- Professional** | -   Learner will be adjust model appropriate for usage, scope and flexibility for future changes
 | | -   Learner will be able match models with known common data model patterns
-| **CITA -- Professional** | -   Learner will be able critique models knowing when to need to follow common data model patterns and when differences are appropriate as dictated by requirements
+| **CITA -- Distinguished** | -   Learner will be able critique models knowing when to need to follow common data model patterns and when differences are appropriate as dictated by requirements
 
 ## Model Information Flows and Lifecycles
 
@@ -178,9 +178,9 @@ These important aspects of information can be captured in models, where:
 | | -   Learner will be able to understand information lifecycle diagrams
 | **CITA -- Associate** | -   Learner will be able to assist in documenting information flow diagrams
 | | -   Learner will be able to assist in documenting information lifecycle diagrams
-| **CITA -- Specialist** | -   Learner will be able to discover, document and analyze information flow diagrams
+| **CITA -- Professional** | -   Learner will be able to discover, document and analyze information flow diagrams
 | | -   Learner will be able to discover, document and analyze information lifecycle diagrams
-| **CITA -- Professional** | -   Learner will be able to describe and critique each piece of the information flow diagrams
+| **CITA -- Distinguished** | -   Learner will be able to describe and critique each piece of the information flow diagrams
 | | -   Learner will be able to describe and critique each piece of the information lifecycle diagrams
 
 # Resources

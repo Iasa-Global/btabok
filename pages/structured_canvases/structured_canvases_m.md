@@ -9,7 +9,6 @@ folder: structured_canvases
 
 The Iasa Structure Canvas Approach (SCA) provides a set of tools for the practicing architecture team. It includes over 75 canvases, cards, worksheets and documents all linked together but usable separately. Some of these were invented elsewhere, such as the business model canvas. The BTABoK team and Iasa have connected them in such a way to drive traceability, solve common architecture challenges (like describing design benefits and tradeoffs), all while creating the least necessary documentation set (a minimum viable architecture) and providing valuable, stakeholder education, buy-in and understanding. Combined with our stakeholder-driven architecture and architecture patterns library, it provides the most robust toolset ever created for a working architecture practice, for business, solution and enterprise.
 
-
 ## Welcome to the canvas library
 
 Scroll through the list of canvas and cards below or select using the filter on the left.
@@ -29,7 +28,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Business</h4>
-                     <a href="business_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_business.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -57,7 +56,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Chief</h4>
-                     <a href="chief_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_chief.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -74,7 +73,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Core</h4>
-                     <a href="core_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_core.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -88,7 +87,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Engagement Model</h4>
-                     <a href="engagement_model_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_engagement_model.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -102,7 +101,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Information</h4>
-                     <a href="information_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_information.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -119,7 +118,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Infrastructure</h4>
-                     <a href="infrastructure_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_infrastructure.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -133,7 +132,7 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Software</h4>
-                     <a href="software_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_software.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
@@ -147,9 +146,8 @@ We are also looking for worked examples to include; please let us know (send ema
                  </div>
                  <div class="panel-body">
                      <h4>Solution</h4>
-                     <a href="solution_sc.html" class="btn btn-primary">Learn More</a>
+                     <a href="tag_solution.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
 </div>
-

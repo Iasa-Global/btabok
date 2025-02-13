@@ -11,7 +11,7 @@ tags:
 ---
 
 > "It takes leadership to improve safety."
-**Jackie Stewart**
+> **Jackie Stewart**
 
 # Introduction
 
@@ -137,4 +137,4 @@ Safety is the forgotten quality attribute. It covers a wide range of aspects rel
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

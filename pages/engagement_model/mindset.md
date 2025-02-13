@@ -55,7 +55,7 @@ KPMG defines four key aspects of the impact of Digital Mindset:  
 These elements of mindset can seriously impact the ability of an organization to take advantage of technology to shift its day-to-day work into true digital [business models](business_models.md){:target="_blank"}. For each stakeholder there is a a need to understand their personal relationship with technology and its impact on their work and lives.  
 
 ![image001](media/mindset001.png)
-_Change Resistance – Art by Gar Mac Criosta_ 
+_Change Resistance – Art by Gar Mac Criosta
 
 # Why is Mindset Important to Architects 
 
@@ -91,7 +91,8 @@ By critically examining the overall practice it becomes clear that architects 
 
 ## Use a Stakeholder Driven Approach
 
-![image001](media/STAKEHOLDER ENGAGEMENT MAP CARD-075.jpg)
+
+[![image001](media/STAKEHOLDER-ENGAGEMENT-MAP-CARD-075.jpg)](https://iasa-global.github.io/btabok/scarf_stakeholder_assessment.html){:target="_blank"}
 
 While many if not most successful architects have a natural set of human dynamics competencies whether from natural inclination or the demands of the job, very few use a rigorous stakeholder driven approach. This is an approach which uses multiple tools to understand the stakeholder ecosystem to drive the Digital Employee. Using this approach can drastically alter the success of the architecture practice by enabling the architects to make clear and objective decisions and proactively engage stakeholders in ways that are most comfortable to them. In many cases it also uncovers many areas of resistance which might have gone unknown otherwise.  
 
@@ -114,10 +115,11 @@ As discussed in [Investment Prioritization](investment_planning.md){:target="_b
 David Rock has done excellent work in understanding how stakeholders react to change and its personal impact. In the SCARF assessment method, the team can understand how digital changes affect a stakeholder or stakeholder community. SCARF stands for Status, Certainty, Autonomy, Relatedness and Fairness. It can be used with the provided scarf assessment card to assess the perceived impact to a particular stakeholder group.  
 
 ![image001](media/mindset003.png)
-_SCARF Impact_ 
+SCARF Impact
 
-![image001](media/mindset004.png)
-_SCARF Assessment_
+
+[![image001](media/mindset004.png)](https://iasa-global.github.io/btabok/stakeholder_engagement_map_card.html){:target="_blank"}
+SCARF Assessment
 
 Context: Enterprise Transformation 
 
@@ -197,4 +199,4 @@ As professionals it is the architects responsibility to give truth over convenie
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

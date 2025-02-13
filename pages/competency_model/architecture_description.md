@@ -74,10 +74,10 @@ An Architecture Description Language (ADL) is a notation for representing archit
 | | -   Learner will be able to explain how to transform collected architectural information and intents into viable models.
 | | -   Learner will be able to depict functional requirements of the architecture.
 | | -   Learner will be able to explain the vocabulary of their preferred Architecture Description Language (ADL).
-| **CITA -- Specialist** | -   Learner will be able to compare interests of target audience for conceptual, logical and implementation descriptions of architecture.
+| **CITA -- Professional** | -   Learner will be able to compare interests of target audience for conceptual, logical and implementation descriptions of architecture.
 | | -   Learner will be able to describe as-is and to-be architecture and how to notate the gaps.
 | | -   Learner will be able to compare and contrast ADLs such as UML and ArchiMate (or an internal/corporate ADL).
-| **CITA -- Professional** | -   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
+| **CITA -- Distinguished** | -   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
 | | -   Learner will be able to drive the introduction of new ADLs and AD processes, tools and techniques into the organization.
 | | -   Learner will act as a mentor for the AD tools, processes and techniques.
 | | -   Learner will speak publically and contribute to the development of AD processes & techniques and ADLs.
@@ -93,9 +93,9 @@ Architects will need to advise on the appropriate tools & techniques to support 
 | | -   Learner will be able to understand and explain the Architecture Descriptions developed for projects within the organization.
 | **CITA -- Associate** | -   Learner will be able to use a number of the tools and techniques
 | | -   Learner will participate in project architecture reviews within the organization, and will understand the role of the architecture review in the organizations' governance processes.
-| **CITA -- Specialist** | -   Learner will be expert in a number of the tools and techniques, and be able to highlight the advantages and disadvantages of each.
+| **CITA -- Professional** | -   Learner will be expert in a number of the tools and techniques, and be able to highlight the advantages and disadvantages of each.
 | | -   Learner will lead the review of Architecture Descriptions for projects within the organization.
-| **CITA -- Professional** | -   Learner will be able to participate in the evaluation and selection of new tools and techniques into the organization.
+| **CITA -- Distinguished** | -   Learner will be able to participate in the evaluation and selection of new tools and techniques into the organization.
 | | -   Learner will mentor others in the development and review of Architecture Descriptions
 | | -   Learner will be leading the definition of the architecture review process for Architecture Descriptions within the origination.
 

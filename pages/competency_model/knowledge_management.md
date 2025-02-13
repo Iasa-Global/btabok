@@ -60,9 +60,9 @@ Organisations generate a significant quantity of information and content.  The 
 | | -   Learner will be able to name the elements that are involved in Content Generation and  Activities
 | **CITA -- Associate** | -   Learner will be able to describe the differences between various methods of generate Information/Content
 | | -   Learner will be able to describe the key elements of each of the   Data and Information and the dependencies
-| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which Information and Data gathering, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be able to describe when it is most appropriate to use which Information and Data gathering, and highlight the advantages and disadvantages of each
 | | -   Learner will be able to describe how use at least one of the methods of Information and Data Generation in detail for a project and be able to set up the functions
-| **CITA -- Professional** | -   Learner will be able to use parts of different Information gathering techniques together in a project when this is the most effective thing to do
+| **CITA -- Distinguished** | -   Learner will be able to use parts of different Information gathering techniques together in a project when this is the most effective thing to do
 | | -   Learner will know the risk of missing out activities defined in the Information gathering and be able to justify this where appropriate
 
 ## Knowledge Codification
@@ -77,9 +77,9 @@ Users accession the information need to able to find the right knowledge and in 
 | | -   Learner will be able to name the elements that are involved in Content Codification and  Activities
 | **CITA -- Associate** | -   Learner will be able to describe the differences between various methods of Codify Information/Content
 | | -   Learner will be able to describe the key elements of each of the   Codification and the dependencies
-| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which Codification techniques, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be able to describe when it is most appropriate to use which Codification techniques, and highlight the advantages and disadvantages of each
 | | -   Learner will be able to describe how use at least one of the methods of Codification in detail for a project and be able to set up the functions
-| **CITA -- Professional** | -   Learner will be able to use parts of different Information Codification techniques together in a project when this is the most effective thing to do
+| **CITA -- Distinguished** | -   Learner will be able to use parts of different Information Codification techniques together in a project when this is the most effective thing to do
 | | -   Learner will know the risk of missing out activities defined in the Codification and processing and be able to justify this where appropriate
 
 ## Knowledge Application
@@ -94,9 +94,9 @@ The knowledge must be made accessible to applications within the  organisation,
 | | -   Learner will be able to name the elements that are involved in Knowledge Application and  Activities
 | **CITA -- Associate** | -   Learner will be able to describe the differences between various methods of Applying Knowledge Management
 | | -   Learner will be able to describe the key elements of each of the   Knowledge Application and the dependencies
-| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which Knowledge Application, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be able to describe when it is most appropriate to use which Knowledge Application, and highlight the advantages and disadvantages of each
 | | -   Learner will be able to describe how use at least one of the methods of Knowledge Application in detail for a project and be able to set up the functions
-| **CITA -- Professional** | -   Learner will be able to use parts of different Knowledge Application techniques together in a project when this is the most effective thing to do
+| **CITA -- Distinguished** | -   Learner will be able to use parts of different Knowledge Application techniques together in a project when this is the most effective thing to do
 | | -   Learner will know the risk of missing out activities defined in the Knowledge Application and be able to justify this where appropriate
 
 ## Knowledge Transfer
@@ -111,9 +111,9 @@ In some cases for regulatory reasons a record is kept about who access the infor
 | | -   Learner will be able to name the elements that are involved in Information Sharing and  Activities
 | **CITA -- Associate** | -   Learner will be able to describe the differences between various methods of Sharing Information/Content
 | | -   Learner will be able to describe the key elements of each of the   ways Information can be Shared and the dependencies
-| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which Knowledge Sharing methods, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be able to describe when it is most appropriate to use which Knowledge Sharing methods, and highlight the advantages and disadvantages of each
 | | -   Learner will be able to describe how use at least one of the methods of Knowledge Sharing in detail for a project and be able to set up the functions
-| **CITA -- Professional** | -   Learner will be able to use parts of different Information Sharing techniques together in a project when this is the most effective thing to do
+| **CITA -- Distinguished** | -   Learner will be able to use parts of different Information Sharing techniques together in a project when this is the most effective thing to do
 | | -   Learner will know the risk of missing out activities defined in the Information Sharing and be able to justify this where appropriate
 
 

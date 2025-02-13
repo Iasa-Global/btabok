@@ -5,21 +5,19 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: release_roadmap_canvas.html
 folder: structured_canvases
+summary: "Release Roadmap Canvas"
 tags: 
   - business
-  - information
-  - infrastructure
-  - software
   - solution
 ---
 
-![image001](media/release_roadmap_canvas001.svg)
+![image001](media/release_roadmap_canvas.svg)
 
 [Download PPT](media/ppt/release_roadmap_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Goal and Deadline |   |   |
-| Stakeholders |   |   |
-| Features |   |   |
-| Key Dependencies |   |   |
+| Area              | Description | Links To |
+| ----------------- | ----------- | -------- |
+| Goal and Deadline |             |          |
+| Stakeholders      |             |          |
+| Features          |             |          |
+| Key Dependencies  |             |          |

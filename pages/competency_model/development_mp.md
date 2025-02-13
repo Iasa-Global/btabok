@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: development_mp.html
 folder: competency_model
-summary: ""
+summary: "Development, Methodologies and Processes"
 tags:
   - software_architecture
 ---

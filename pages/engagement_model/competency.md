@@ -14,14 +14,14 @@ tags:
 
 Competence: such as
 
-1.  the quality or state of having sufficient knowledge, judgment, skill, or strength (as for a particular duty or in a particular respect)
-2.  law : legal authority, ability, or admissibility.
+1. the quality or state of having sufficient knowledge, judgment, skill, or strength (as for a particular duty or in a particular respect)
+2. law : legal authority, ability, or admissibility.
 
 Competency is by far the most important aspect to a profession of architecture and to the individual practitioner. It includes all of the skills necessary to be successful in general as an architect and, in specific, within the context of organizations who employ or hire architects to deliver value. In this document, skills and competencies will be used interchangeably though formally the Iasa Competency Model uses the following hierarchy:
 
-1.  Competency Pillar: one of the 5 pillars of competency for architects including, business technology strategy, design, human dynamics, IT environment, and quality attributes.
-2.  Competency: one of the 42 total items within the Iasa 5 Pillars such as investment planning, whole systems design, application development, etc.
-3.  Skill: a specific actionable skill within a competency which has attached learning objectives, growth levels and learning materials. May also be thought of as a sub-competency.
+1. Competency Pillar: one of the 5 pillars of competency for architects including, business technology strategy, design, human dynamics, IT environment, and quality attributes.
+2. Competency: one of the 42 total items within the Iasa 5 Pillars such as investment planning, whole systems design, application development, etc.
+3. Skill: a specific actionable skill within a competency which has attached learning objectives, growth levels and learning materials. May also be thought of as a sub-competency.
 
 Competency is therefore the combined skills necessary to be a successful architect which an architect hones, develops and grows throughout their career. It is necessary to understand that a competency is focused on a general skill and not a single technology, product, or technique. For example, the BTABoK lists application development, not C#, Java, JavaScript, etc. The use of the term application development is used instead of software engineering as engineering is a field of practice and not a single competency.
 
@@ -43,13 +43,13 @@ In addition, the competency model will define the career growth techniques and m
 
 Competence overall is made of individual competencies and their skills, knowledge and experience as per the Iasa Competency Taxonomy Figure. It is important to identify specific skills and acquire both knowledge and experience within the competency. The Iasa Competency Taxonomy uses 5 levels to measure a skill based on the individuals knowledge, experience and overall set of skills.
 
-| **Level** | **Description** | **Explanation** |
-| --- | --- | --- |
-| **1** | Awareness | Has general awareness of the concept and can use shared language. |
-| **2** | Basic | Has knowledge from training or study on the topic and some amount of experience related to the learning. |
-| **3** | Delivery | Has knowledge and experience with smaller scoped engagements and is developing depth within the competency. |
-| **4** | Experienced | Has developed sufficient experience and knowledge to work with the competency as senior levels. |
-| **5** | Shaping | Has developed significant industry level competency and is shaping the industries understanding through papers, research and leadership. |
+| **Level** | **Description** | **Explanation**                                                                                                                          |
+| --------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**     | Awareness       | Has general awareness of the concept and can use shared language.                                                                        |
+| **2**     | Basic           | Has knowledge from training or study on the topic and some amount of experience related to the learning.                                 |
+| **3**     | Delivery        | Has knowledge and experience with smaller scoped engagements and is developing depth within the competency.                              |
+| **4**     | Experienced     | Has developed sufficient experience and knowledge to work with the competency as senior levels.                                          |
+| **5**     | Shaping         | Has developed significant industry level competency and is shaping the industries understanding through papers, research and leadership. |
 
 ## Relationship to Blooms Hierarchy
 
@@ -87,25 +87,25 @@ The engagement model for a practice should define the competency framework they 
 
 The team should review the competency framework to ensure that it provides enough guidance to ensure success for the practice. The following principles should dominate the selection of the framework.
 
--   The competency model should be easy to understand and follow. Each competency should be unambiguously defined and explained along with any sub-competencies.
--   The competencies should include multiple levels of achievement to allow for growth of the architect throughout their career.
--   The competencies should be the baseline for specialization. Shared competencies between specializations should be identified as well as differentiators for specializations.
--   It should be clear what the target value of the competencies are and the type of architect they create.
--   The competencies should be maintained by an open body but adaptable to an organization, culture or climate.
--   The competencies should include learning strategies which allow the individual or team to assess their current skill and acquire new ones.
+- The competency model should be easy to understand and follow. Each competency should be unambiguously defined and explained along with any sub-competencies.
+- The competencies should include multiple levels of achievement to allow for growth of the architect throughout their career.
+- The competencies should be the baseline for specialization. Shared competencies between specializations should be identified as well as differentiators for specializations.
+- It should be clear what the target value of the competencies are and the type of architect they create.
+- The competencies should be maintained by an open body but adaptable to an organization, culture or climate.
+- The competencies should include learning strategies which allow the individual or team to assess their current skill and acquire new ones.
 
 ## Assessing Your Competencies
 
 There are numerous methods for competency assessment. The most rigorous is certification by both test (knowledge) and board examination (experience). However, certification should be attempted when the architects have a degree of understanding of their current competency levels. Reliable methods for competency assessment include:
 
--   Self assessment -- the Iasa maintains a tool for self assessments against the Iasa competency model (send email to <contactus@iasaglobal.org> for access -- this is available to full members)
+- Self assessment -- the Iasa maintains a tool for self assessments against the Iasa competency model (send email to <contactus@iasaglobal.org> for access -- this is available to full members)
 
 ![image001](media/competency002.png)
 
 Self-Assessment Tool -- Full Member Access
 
--   Peer assessment -- it is useful to have peers and mentors do assessments of an individual giving them feedback on their skills
--   Mentoring assignments -- mentors can assign tasks and experiments which the architect completes to demonstrate skills.
+- Peer assessment -- it is useful to have peers and mentors do assessments of an individual giving them feedback on their skills
+- Mentoring assignments -- mentors can assign tasks and experiments which the architect completes to demonstrate skills.
 
 ## Adapting the Iasa Competency Model
 
@@ -169,11 +169,11 @@ TOGAF skills are used in enterprise architecture engagement models to help defin
 
 Notes on the Framework
 
--   A competency framework for architecture should not use architecture as a skills category as it is extremely confusing over time.
--   While levels are listed there is no definitive text on each competency, making them difficult to define and connect together.
--   No learning objectives are given between the levels of skill thus it is difficult to determine what differences the levels entail. For example it is difficult to understand what a 3 versus a 4 in written communication really means.
--   There is no concept of career progression in the framework. Thus an IT application architect is presented at a single level instead of having multiple levels.
--   It is difficult to determine how specializations connect with each other nor how they work in relation to each others competencies. Specialization does not build on top of a general body of knowledge.
+- A competency framework for architecture should not use architecture as a skills category as it is extremely confusing over time.
+- While levels are listed there is no definitive text on each competency, making them difficult to define and connect together.
+- No learning objectives are given between the levels of skill thus it is difficult to determine what differences the levels entail. For example it is difficult to understand what a 3 versus a 4 in written communication really means.
+- There is no concept of career progression in the framework. Thus an IT application architect is presented at a single level instead of having multiple levels.
+- It is difficult to determine how specializations connect with each other nor how they work in relation to each others competencies. Specialization does not build on top of a general body of knowledge.
 
 ## European e-Competence Framework
 
@@ -189,4 +189,4 @@ The European e-CF is an IT skills framework which lists architecture as a set of
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

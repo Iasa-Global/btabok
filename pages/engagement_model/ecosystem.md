@@ -11,9 +11,9 @@ tags:
 ---
 
 > "A group of businesses or business activities that affect each other and work well together"
-**definition of Ecosystem, Cambridge Dictionary**
+> **definition of Ecosystem, Cambridge Dictionary**
 
-# What is the Ecosystem 
+# What is the Ecosystem
 
 The Ecosystem represents the external environment within which an organization participates, interacts and is affected by other parties in
 the ecosystem. Typical parties in an ecosystem are:
@@ -194,7 +194,7 @@ customers.
 The following is an Ecosystem Map Canvas, it shows an ecosystem, rather
 like a universe of different parties around a particular Subject.
 
-![image001](media/ecosystem_eco1.png) 
+[![image001](media/ecosystem_eco1.png)](https://iasa-global.github.io/btabok/ecosystem_map_canvas.html){:target="_blank"}
 
 The ecosystem map consists of four concepts:
 
@@ -289,7 +289,7 @@ dimensions have been identified in the ecosystem which provide services
 or products to the customer when they want to get a cup of Tinkelman
 coffee.
 
-![image001](media/ecosystem_eco2.png) 
+[![image001](media/ecosystem_eco2.png)](https://iasa-global.github.io/btabok/ecosystem_map_canvas.html){:target="_blank"}
 
 In the above map, notice that the customer values transport to the
 coffee shop, in particular through the taxi service company "TAXI-HI R",
@@ -312,7 +312,7 @@ Several dimensions have been identified in the ecosystem, which perhaps
 represent types of business, but may also represent
 [capabilities](business_capabilities.md){:target="_blank"} which are of interest to Tinkleman.
 
-![image001](media/ecosystem_eco3.png) 
+[![image001](media/ecosystem_eco3.png)](https://iasa-global.github.io/btabok/ecosystem_map_canvas.html){:target="_blank"}
 
 In this ecosystem there are a number of partnerships with several
 companies, BIG BEANS for provision of coffee beans, LBN GOODS for
@@ -346,7 +346,7 @@ opportunity.
 This provides a way of examining the ecosystem from a strategic
 perspective.
 
-![image001](media/ecosystem_eco4.png) 
+[![image001](media/ecosystem_eco4.png)](https://iasa-global.github.io/btabok/ecosystem_map_canvas.html){:target="_blank"}
 
 # Influencing the Ecosystem
 
@@ -386,4 +386,8 @@ take action, gives a competitive advantage to the organization.
 
 ![image001](media/by-nc.png)
 
+<<<<<<< HEAD
 BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+=======
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+>>>>>>> 17cfe8b3f96af55975a0149e266dfbb33b47d1d7

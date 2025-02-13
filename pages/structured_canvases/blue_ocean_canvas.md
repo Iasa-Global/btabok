@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: blue_ocean_canvas.html
 folder: structured_canvases
+summary: "Blue Ocean Canvas"
 tags: 
   - business
   - chief
@@ -18,9 +19,9 @@ tags:
 
 [Download PPT](media/ppt/blue_ocean_canvas.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Strategy Canvas |   |   |
-| Four Actions / ERRC Grid |   |   |
-| Six Paths Framework |   |   |
-| Buyer Utility Map |   |   |
+| Area                     | Description | Links To |
+| ------------------------ | ----------- | -------- |
+| Strategy Canvas          |             |          |
+| Four Actions / ERRC Grid |             |          |
+| Six Paths Framework      |             |          |
+| Buyer Utility Map        |             |          |

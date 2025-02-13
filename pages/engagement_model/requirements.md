@@ -11,7 +11,7 @@ tags:
 ---
 
 > "The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems."
-**Paul Preiss**
+> **Paul Preiss**
 
 # Architecturally Significant Requirements
 
@@ -21,7 +21,7 @@ Requirements are recognized and developed throughout the entire portfolio of the
 
 For the purpose of the BTABoK, all thinking, ideas and desires about a business or technology system can be characterized as requirements, though depending on the full engagement model in use by an organization they may be called other names and use other format. 
 
-![Figure_1](media/requirements001.png)
+[![image001](media/requirements001.png)](https://iasa-global.github.io/btabok/ars_card.html){:target="_blank"}
 
 ## Description
 
@@ -29,8 +29,8 @@ Architectural requirements are hard to determine, primarily because they need to
 
 ASR representation in the [lifecycle](architecture_lifecycle.md){:target="_blank"}.
 
-|  Characteristic       |  Explanation                                     |
-|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Characteristic           | Explanation                                                                                                                                                                                                                                                                  |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Innovation/Ideation**  | ASRs are represented as ideas and characteristics according to the innovation cycle. These are funneled either into experimentation or into a business case by a value stream owner. All ASRs at this level are considered architecturally relevant.                         |
 | **Business Case**        | ASRs are represented as course-grained ideas with the goal of understanding program cost or value generation. Traditionally these are used for rough scoping purposes to satisfy budget and staffing needs. Most ASRs at this level are considered architecturally relevant. |
 | **Epic/Solution Story**  | For details on Epic and Story level integration with ASRs see the Lean and Agile Integration. Some ASRs at this level are considered architecturally relevant.                                                                                                               |
@@ -44,9 +44,9 @@ The BTABoK simplifies the guidelines for identifying ASRs. There are three prima
 
 Requirements are typically placed into these categories:
 
--   Functional requirement ─ Describe the functionality that the system is to execute; for example, formatting some text or modulating a signal. They are sometimes known as features.
--   Non-functional requirements ─ Are the ones that act to constrain the solution. Nonfunctional requirements are known as quality attribute requirements.
--   Constraint requirements ─ Are the ones that act to constrain the solution. No matter how the problem is solved the constraint requirements must be adhered to.
+- Functional requirement ─ Describe the functionality that the system is to execute; for example, formatting some text or modulating a signal. They are sometimes known as features.
+- [Quality Attribution](quality_attributes.md) requirements ─ Sometimes known as non-functional requirements. Quality attributes describe cross-solution needs which are structurally relevant and impact the qualities of an entire solution space. Nonfunctional requirements are known as quality attribute requirements.
+- Constraint requirements ─ These are the requirements that act to constrain the solution. No matter how the problem is solved the constraint requirements must be adhered to. Examples of constraint requirements are standards compliance or principles alignment. 
 
 ## Architectural Relevance
 
@@ -54,14 +54,14 @@ Much work has gone into what makes a requirement significant to an architect. Th
 
 The following describe categories of impact which potentially make a requirement relevant to the architecture.
 
-1.  Requirements which deeply impact relevant product or frameworks within the business and technical roadmap.
-2.  Requirements which impact managed quality attributes.
-3.  Requirements which impact capabilities of the organization or the roadmap.
-4.  Requirements which are deeply political or have an executive champion.
-5.  Requirements which imply innovative business models or approaches.
+1. Requirements which deeply impact relevant product or frameworks within the business and technical roadmap.
+2. Requirements which impact managed quality attributes.
+3. Requirements which impact capabilities of the organization or the roadmap.
+4. Requirements which are deeply political or have an executive champion.
+5. Requirements which imply innovative business models or approaches.
 
 > "The vast majority of ‘requirements’ are not required for value. They are really more about the preferences of a single system user. Start learning value management over user preferences now for better systems."
-**Paul Preiss**
+> **Paul Preiss**
 
 Architects are(n’t) engineers (btabok principle), which impacts the level and type of requirements to help understand critical design decisions but doing so based on best case overall value. Define what makes for a relevant architecture decision. Although this is a complicated topic in more mature environments which should use a calculation based on strategic importance.
 
@@ -77,8 +77,8 @@ When you are in the process of design you should gather any requirements that le
 
 Another area of requirement decisions are those that deeply impact [quality attributes](quality_attributes.md){:target="_blank"}. Often called the ‘\~ilities and \~illiancies’ of a system, these are the horizontal cross-cutting concerns that impact a system such as performance, security, usability, RAS, and flexibility. During a requirements gathering phase the architect should be deeply alert for any requirement or idea that impact one of these items and should illicit requirements that allow for measurement of effective quality attributes. A great tool for the practicing architect is to build a set of questions which have definite impact on quality attributes and can be measured. Here are a couple of examples from my own practice:
 
--   “How many concurrent users do we need to support and in what portions of the system?”
--   “How flexible and decoupled should the system be? Which functional components will change often over time?”
+- “How many concurrent users do we need to support and in what portions of the system?”
+- “How flexible and decoupled should the system be? Which functional components will change often over time?”
 
 ## Technical Capability Impacts
 
@@ -96,15 +96,14 @@ The final type of architecturally significant requirement often comes from the a
 
 Architectural requirements generally do no match detailed requirements specifications. Instead the following chart identifies areas of importance for ASRs.
 
-| Characteristic |  Explanation                                                                                                                            |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| **Complete**       | The requirement is fully stated in one place with no missing information.                                                                  |
-| **Traceable**      | The requirement meets all or part of a business need as stated by stakeholders and authoritatively documented.                             |
-| **Current**        | The requirement has not been made obsolete by the passage of time.                                                                         |
-| **Verifiable**     | The implementation of the requirement can be determined through one of four possible methods: inspection, demonstration, test or analysis. |
-| **Valuable**       | The implementation of the requirement can demonstrate measurable value to one or more areas of the organization.                           |
-
+| Characteristic | Explanation                                                                                                                                |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Complete**   | The requirement is fully stated in one place with no missing information.                                                                  |
+| **Traceable**  | The requirement meets all or part of a business need as stated by stakeholders and authoritatively documented.                             |
+| **Current**    | The requirement has not been made obsolete by the passage of time.                                                                         |
+| **Verifiable** | The implementation of the requirement can be determined through one of four possible methods: inspection, demonstration, test or analysis. |
+| **Valuable**   | The implementation of the requirement can demonstrate measurable value to one or more areas of the organization.                           |
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

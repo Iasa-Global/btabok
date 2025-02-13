@@ -9,7 +9,7 @@ summary: "When collaboration works well, it leads to significant gains in produc
 ---
 
 > "You are in the customer experience business &mdash; whether you know it or not."
-**Harley Manning and Kerry Bodine in "Outside-In"**
+> **Harley Manning and Kerry Bodine in "Outside-In"**
 
 # Introduction
 
@@ -99,4 +99,4 @@ This exercise results in a complete model of the processes required to deliver v
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

@@ -95,9 +95,9 @@ It is common that large organizations mandate a framework which is defined in t
 | | -   Learner will be able to name some of the different types of views and viewpoints
 | **CITA -- Associate** | -   Learner will be able to describe the differences between various views and viewpoints
 | | -   Learner will be able to describe the key elements of the commonly used views and viewpoints (covering functional, information and deployment as a minimum)
-| **CITA -- Specialist** | -   Learner will be able to describe when it is most appropriate to use which views and viewpoints, and highlight the advantages and disadvantages of each
+| **CITA -- Professional** | -   Learner will be able to describe when it is most appropriate to use which views and viewpoints, and highlight the advantages and disadvantages of each
 | | -   Learner will be able to describe how use at least one of the sets of views and viewpoints in detail for a project and be able to produce them
-| **CITA -- Professional** | -   Learner will be able to identify new views and viewpoints for groups of stakeholders
+| **CITA -- Distinguished** | -   Learner will be able to identify new views and viewpoints for groups of stakeholders
 | | -   Learner will know the risk of missing out some views and viewpoints and be able to justify this where appropriate
 
 ## Application of Views and Viewpoints
@@ -110,10 +110,10 @@ When the appropriate viewpoints have been selected, the architect needs to be ab
 | **CITA -- Associate** | -   Learner will be able to describe the activities and how they relate to each other across different Viewpoints
 | | -   Learner will be able to use the commonly found models to produce Views on medium complexity projects
 | | -   Learner will be able to use at least one of the modelling tools, like Enterprise Architect, Magic Draw, Rational Software Architect or Archi to define the models
-| **CITA -- Specialist** | -   Learner will be able to use all the appropriate Viewpoints on the development of large and complex project environments
+| **CITA -- Professional** | -   Learner will be able to use all the appropriate Viewpoints on the development of large and complex project environments
 | | -   Learner will be able to define in detail all of the activities
 | | -   The Learner will be able to relate the Views to the stakeholders objectives
-| **CITA -- Professional** | -   Learner will be able to suggest significant specializations in the Viewpoints for an organization
+| **CITA -- Distinguished** | -   Learner will be able to suggest significant specializations in the Viewpoints for an organization
 | | -   Learner will be able to propose new combinations of Veiwpoints
 
 ## View and Viewpoint Management
@@ -126,9 +126,9 @@ Ideally a mature architecture organisation should have a process in place to ma
 | | -   Learner will be able to explain the reasons for managing Views and Viewpoints
 | **CITA -- Associate** | -   Learner will be able to construct simple Views for inclusion in the process
 | | -   Learner will be able to describe how and why they applied the Viewpoints for a project
-| **CITA -- Specialist** | -   Learner will be able to critique content for inclusion in the repository
+| **CITA -- Professional** | -   Learner will be able to critique content for inclusion in the repository
 | | -   Learner will be able to define the principles to apply governing inclusion
-| **CITA -- Professional** | -   Learner will be able to create meta-models for use by others
+| **CITA -- Distinguished** | -   Learner will be able to create meta-models for use by others
 | | -   Learner will be able to invent and reinforce the management process
 
 # Capabilities Resources

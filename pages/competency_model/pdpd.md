@@ -38,9 +38,9 @@ Demonstrated competence in highest-priority management techniques.
 | **CITA -- Associate** | -   What are current trends in application distribution, delivery and deployment?
 | | -   Describe a guardrail, best practice or standard relevant for application packaging.
 | | -   How do you deploy an application to a given PaaS platform?
-| **CITA -- Specialist** | -   When your solution retires in 10 years, how did you envision data access for reporting and regulatory compliance needs?
+| **CITA -- Professional** | -   When your solution retires in 10 years, how did you envision data access for reporting and regulatory compliance needs?
 | | -   How much re-packaging would your solution require to make its installation SaaS-ready?
-| **CITA -- Professional** | -   How did you assure transactional installation, so administrator could roll it back completely if requested?
+| **CITA -- Distinguished** | -   How did you assure transactional installation, so administrator could roll it back completely if requested?
 | | -   Who and when updated the CMDB with the new information?
 
 Resources

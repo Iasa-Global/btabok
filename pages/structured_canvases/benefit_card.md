@@ -5,6 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: benefit_card.html
 folder: structured_canvases
+summary: "Benefit Card"
 tags: 
   - business
   - chief
@@ -14,11 +15,11 @@ tags:
 
 [Download PPT](media/ppt/benefit_card.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Benefit |   | OKR, NABC |
-| Changes Required |   | BDN |
-| Benefit Realization |   |   |
-| Benefit Measures |   |   |
-| Benefits Alignment |   |   |
-| Stakeholders |   |   |
+| Area                | Description | Links To  |
+| ------------------- | ----------- | --------- |
+| Benefit             |             | OKR, NABC |
+| Changes Required    |             | BDN       |
+| Benefit Realization |             |           |
+| Benefit Measures    |             |           |
+| Benefits Alignment  |             |           |
+| Stakeholders        |             |           |

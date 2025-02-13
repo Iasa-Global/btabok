@@ -8,7 +8,7 @@ BTABoK provides the tools and resources needed by individuals and organizations 
 
 ## Who is the BTABoK for?
 
-The BTABoK was designed ground up to be a practical resource for any type of architect in any type of organization. It includes as much business as technical thinking as well as up to date tools in both of these spaces. It has a very strong approach to stakeholder management as well as an easy to use competency model which can be modified for your organization.
+The BTABoK was developed from the ground up to be a practical resource for any type of architect in any type of organization. It includes as much business as technical thinking as well as up to date tools in both of these spaces. It has a very strong approach to stakeholder management as well as an easy to use competency model which can be modified for your organization.
 
 ## What is in this Site?
 
@@ -34,7 +34,7 @@ The BTABoK is inclusive of all specializations, sub-specializations and career l
 
 ## What is Architecture
 
-As the favorite topic of architects everywhere, what is architecture and what are architects is central to the theme of the BTABoK. Read the [What is Architecture Article](../btabok/what_is_architecture.md). 
+As the favorite topic of architects everywhere, what is architecture and what are architects is central to the theme of the BTABoK. Read the [What is Architecture Article](/pages/btabok_overview/what_is_architecture.md). 
 
 ## Roadmap
 
@@ -60,6 +60,151 @@ The major elements of the guidelines include
 - Images – standard images should be stored in the media folder in png format. The images must be licensed for free use or created by the author of the article and express permissions put in the GitHub ‘add’ comments. This frees us from concern over image licensing issues.
 - Canvases – canvases and cards should be stored in two primary formats – ppt and SVG. This makes the editing of canvases relatively easy for anyone in the world as well as making them usable to architects doing presentations. These should be stored in media/canvases for the SVG files and media/files for the ppt files (the SVG files are considered the master copy).
 - Linking – linking should always be relative within the BTABoK as the files are published to gitpages. However, the goal is to convert these to published files on the official WordPress pages as well. This will be covered in a separate section.
+
+
+# Introduction
+
+The following guidelines are intended for use when writing
+articles for the ITABoK 3.0. The aim of the guidelines is to support authors in
+writing articles to a similar structure and writing style.
+
+In the following sections the term “Subject Matter” is used
+to refer to the subject being described by an author in an article.
+
+# Writing Style
+
+Articles for the ITABoK are written in third-person form
+which is commonly used in academic texts.
+
+“Writing in [third
+person](https://www.yourdictionary.com/third-person#websters) is writing from
+the third-person point of view, or outsider looking in, and uses pronouns like
+he, she, it, or they. It differs from the [first
+person](https://examples.yourdictionary.com/examples/examples-of-writing-in-first-person.html), which uses pronouns
+such as I and me, and from the [second
+person](https://examples.yourdictionary.com/reference/examples/examples-of-writing-in-second-person.html), which uses pronouns
+such as you and yours.” - **YourDictionary.com**
+
+It is also preferable to provide use the noun (or the role
+of the person, architect, stakeholder, consumer) rather than using the pronoun
+“he” or “she” in order to avoid gender issues.
+
+# Basic Article Structure
+
+Articles can sometimes vary in structure due to the nature
+of the subject matter. However, the following provides a basic generic
+structure.
+
+## What is “The Subject Matter”
+
+The first section in the article gives a brief description
+of what the subject matter is. Standard definitions or quotes may be used to
+support this section. The aim of this section is to ensure that the reader
+understands what the “Subject Matter” is before reading the rest of the
+article. This can also be important since certain “Subject Matters” can be
+discussed in different contexts, this section provides the opportunity to set
+the “Subject Matter” in context.
+
+```
+**For example:  
+**A roadmap is a visual description which shows a plan against time for
+achieving one or more goals or objectives.
+```
+
+## Why we need “The Subject Matter”
+
+The second section of the article describes why we need the
+“Subject Matter” or why the “Subject Matter” is important. Before discussing
+deeper concepts or practices it is important that the reader understands why
+the “Subject Matter” in real terms. Describe the key benefits of addressing the
+“Subject Matter” or the negative effects if the “Subject Matter” is not
+addressed.
+
+```
+**For example:  
+**Roadmaps are important as they provide a common understanding for
+stakeholders regarding the current status of a business initiative and
+also a broad plan for future deliverables, goals and objectives.
+```
+
+## “Subject Matter” Approach
+
+The third section lists a set of key factors which are
+considered important when approaching the “Subject Matter”. These key factors
+are expressed as small sections with a memorable statement as a title.
+
+```
+**For example:**  
+“Plan the Journey”,  
+“Monitor the technical debt”,  
+“Start small, scale fast”.
+```
+
+This provides the reader with an overview of the key factors
+in the “Subject Matter” and the statement as a title should make these factors
+more memorable to the reader. The reader and the author can also reflect on
+these key factors in the “Concepts and Practices” sections of the article where
+practical examples can be given.
+
+## Concepts
+
+The concepts of the “Subject Matter” can be described in a
+series of sections which describe important areas of the “Subject Matter”. The
+structure and naming of the concept sections will vary depending on the
+“Subject Matter” and how the author wants to present the “Subject Matter” to
+the reader. It is important when writing the concept sections that the reader
+feels that the sections flow from one to the other and that knowledge is gained
+step by step.
+
+One technique is to create an overview concept which links
+the following concept sections so the reader understands how the different
+concept sections are connected.
+
+Another technique is to start the concept at an abstract
+level and use a “top-down” description describing the concept in more detail as
+the author moves down the sections.
+
+## Techniques and Canvases
+
+When describing concepts practical advice may be provided by
+the author regarding how to work with the “Subject Matter”. This may involve
+providing a canvas or a technique which will help the reader to actively work
+with the “Subject Matter”. When describing how to use a canvas or a technique
+the following structure may be useful.
+
+1.       Provide a short text describing why the technique
+or canvas is useful
+
+2.       Describe any preparation that that should be
+done before starting
+
+3.       Describe in sequential steps (Step1, Step2,
+Step3….) how the reader uses the technique or canvas
+
+The description of a technique or canvas can be described as
+part of concept section, where the technique or practice is directly related to
+the given concept. However, they can also be provided as separate sections as
+appropriate.
+
+## Add or edit images to our repositoriy
+
+1. Only images in .png or .svg format will be accepted.
+2. The images will have to be added to the folder that has the name media.
+3. What name is given to the file?
+    - We name the image file with the same name as the file we are editing, only we add the consecutive number. Example: xyz.md is the file to edit, the image file would be xyz01.png
+4. Label to display the image: 
+
+```
+![](media/name_of_the_image_01.svg) or ![](media/name_of_the_image_01.png)
+
+```
+
+## References and Further Reading
+
+At the end of each article there should be a section for
+“References and Further Reading” which contains a list of books, articles or
+texts which have been used in constructing the article, or which are useful to
+the reader for further reading on the “Subject Matter”.
 
 ## Additional Help Needed
 

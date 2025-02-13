@@ -68,9 +68,9 @@ Structured, open interactions can help improve the quality of Peer interaction. 
 | **CITA -- Associate** | -   Learner will learn to identify the background of the peer.
 | | -   Learner will learn to analyze the situation during a Peer Interaction.
 | | -   Learner will learn to identify methods to control her/his response to given situations.
-| **CITA -- Specialist** | -   Learner will apply an appropriate response to a given situation.
+| **CITA -- Professional** | -   Learner will apply an appropriate response to a given situation.
 | | -   Learner will understand the needs of the peer and identify a win-win situation (if required)...
-| **CITA -- Professional** | -   Learner will work with peers to solve a problem and effectively address personal conflicts if any.
+| **CITA -- Distinguished** | -   Learner will work with peers to solve a problem and effectively address personal conflicts if any.
 | | -   Learner will be able to set a common platform for working with the peer(s).
 
 # Resources

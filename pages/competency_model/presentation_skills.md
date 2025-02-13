@@ -94,8 +94,8 @@ The ability to deliver a message in front of an audience that is clear, concise 
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to prepare an outline for a 15 minute presentation
 | **CITA -- Associate** | -   Learner will be able to prepare a basic presentation for a 15 minute presentation
-| **CITA -- Specialist** | -   Learner will be able to develop a 15 minute presentation on a given topic to include supporting graphics, PowerPoint file, content, and references
-| **CITA -- Professional** | -   Learner will be able to deliver a 15 minute presentation to an audience while demonstrating a mastery of the material, utilizing the proper cadence for the material and audience, demonstrating audience eye contact and engagement
+| **CITA -- Professional** | -   Learner will be able to develop a 15 minute presentation on a given topic to include supporting graphics, PowerPoint file, content, and references
+| **CITA -- Distinguished** | -   Learner will be able to deliver a 15 minute presentation to an audience while demonstrating a mastery of the material, utilizing the proper cadence for the material and audience, demonstrating audience eye contact and engagement
 | | -   Learner will answer relevant questions while maintaining control of the presentation
 
 ## Information Visualization
@@ -106,9 +106,9 @@ The ability to represent complex data and ideas with graphics, charts, diagrams 
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to identify key data points within a given set of data
 | **CITA -- Associate** | -   Learner will be able to represent identified data points utilizing graphics, charts, diagrams, and pictures
-| **CITA -- Specialist** | -   Learner will be able to validate data
+| **CITA -- Professional** | -   Learner will be able to validate data
 | | -   Learner will be able to identify gaps within data
-| **CITA -- Professional** | -   Learner will be able to articulate the meaning of the data to a given audience and answer questions regarding that data
+| **CITA -- Distinguished** | -   Learner will be able to articulate the meaning of the data to a given audience and answer questions regarding that data
 | | -   Learner will know how to present data to facilitate overall understanding of the desired message
 
 ## Presentation Punctuality and Coherence
@@ -119,8 +119,8 @@ The ability to manage a presentation and keep it on-track, on-time, and on-messa
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to prepare a 15 minute presentation that is relevant, coherent, and can be delivered in the allotted time
 | **CITA -- Associate** | -   Learner will be able to deliver a 15 minute presentation within the given timeframe
-| **CITA -- Specialist** | -   Learner will be able to effectively manage a presentation while responding to questions, comments, and distractions
-| **CITA -- Professional** | -   Learner will be able to adjust a presentation, on-the-fly, to effectively deliver the intended message based on the interaction and feedback, both verbal and non-verbal, of the audience
+| **CITA -- Professional** | -   Learner will be able to effectively manage a presentation while responding to questions, comments, and distractions
+| **CITA -- Distinguished** | -   Learner will be able to adjust a presentation, on-the-fly, to effectively deliver the intended message based on the interaction and feedback, both verbal and non-verbal, of the audience
 
 ## Impromptu Presentation
 
@@ -130,8 +130,8 @@ Utilize a given unscheduled encounter to provide an update or further a project 
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner will be able to develop a 60 second elevator pitch that describes the current projects or project status
 | **CITA -- Associate** | -   Learner will be able to deliver a 60 second elevator pitch that describes the current projects or project status
-| **CITA -- Specialist** | -   Learner will be able to adjust the elevator pitch based on the position of the person in the elevator
-| **CITA -- Professional** | -   Learner will be able to utilize targeted questioning based on the feedback from the person in the elevator to further the conversation
+| **CITA -- Professional** | -   Learner will be able to adjust the elevator pitch based on the position of the person in the elevator
+| **CITA -- Distinguished** | -   Learner will be able to utilize targeted questioning based on the feedback from the person in the elevator to further the conversation
 
 ## Written Presentation
 
@@ -141,8 +141,8 @@ The ability to clearly communicate in the written form. The document should have
 | :-: | :-: |
 | **CITA- Foundation** | -   Learner can develop a presentation that is free from grammatical error
 | **CITA -- Associate** | -   Learner can develop or update a presentation that is free from grammatical error and tells a story that is pertinent to the audience
-| **CITA -- Specialist** | -   Learner is able to...
-| **CITA -- Professional** | -   Learner routinely evaluates potential investments in terms of the effects they have on company health and performance
+| **CITA -- Professional** | -   Learner is able to...
+| **CITA -- Distinguished** | -   Learner routinely evaluates potential investments in terms of the effects they have on company health and performance
 | | -   Learner measures and monitors company performance
 | | -   Learner evaluates financing and funding options using financial analysis
 | | -   Learner can troubleshoot the financial performance of a process or business unit to determine the root causes of poor (or good) performance
@@ -156,10 +156,10 @@ Understand the three fundamental flows in a business: information, funds, and go
 | **CITA- Foundation** | -   Learner can name and describe the three fundamental flows
 | **CITA -- Associate** | -   Learner can identify the three flows in a case study or business
 | |-   Learner can describe when the flows intersect and why, and describe what that means
-| **CITA -- Specialist** | -   Learner can identify, describe and document each of the flows in their company
+| **CITA -- Professional** | -   Learner can identify, describe and document each of the flows in their company
 | | -   Learner can describe how a project might affect one or more of the flows
 | | -   Learner can identify when a project has not considered a flow even though there is likely an effect on that flow
-| **CITA -- Professional** | -   Learner demonstrates deep understand of the three flows within the context of his or her company
+| **CITA -- Distinguished** | -   Learner demonstrates deep understand of the three flows within the context of his or her company
 | | -   Learner can evaluate a potential investment in terms of the effects it might have on each of the flows
 
 # Resources

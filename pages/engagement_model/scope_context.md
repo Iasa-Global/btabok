@@ -10,7 +10,7 @@ tags:
   - value_model
 ---
 
-> "I saw in details while she saw in scope. Not seeing the scope is why I am here and she is not. I took each element spearately and never looked to see that they never did fit together properly."
+> "I saw in details while she saw in scope. Not seeing the scope is why I am here and she is not. I took each element separately and never looked to see that they never did fit together properly."
 **Erin Morgenstern, The Night Circus**
 
 Scope and context are the dual sides of understanding an architecture engagement based on its level of impact and the environment within which it occurs. The clarity of scope and context can save an architect or a team a great deal and are as important as any document or technology technique. Without them the architect
@@ -80,4 +80,4 @@ The answers to these questions defines the context.
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

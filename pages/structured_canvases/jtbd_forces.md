@@ -5,20 +5,18 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: jtbd_forces.html
 folder: structured_canvases
+summary: "JTBD Forces"
 tags: 
   - business
   - chief
-  - information
-  - infrastructure
-  - software
   - solution
 ---
 
-![image001](media/jtbd_forces001.svg)
+![image001](media/jtbd_forces.svg)
 
 [Download PPT](media/ppt/jtbd_forces.ppt){:target="_blank"}
 
-| Area | Description | Links To |
-| --- | --- | --- |
-| Forces Promoting Change |   |   |
-| Forces Blocking Change |   |   |
+| Area                    | Description | Links To |
+| ----------------------- | ----------- | -------- |
+| Forces Promoting Change |             |          |
+| Forces Blocking Change  |             |          |

@@ -28,5 +28,6 @@ allowed-tags:
   - information_architecture
   - infrastructure_architecture
   - software_architecture
+  - btabok_adoption
 
 # Copyright 2022 IASA

@@ -163,13 +163,13 @@ The capability involves defining outcomes, commitment, roles and responsibilitie
 -   Identify areas for integrating GRC system to existing operating model
 
  |
-| **CITA -- Specialist** |
+| **CITA -- Professional** |
 
 -   Take responsibility for assigning management responsibilities to achieve system goals
 -   Lead GRC teams and stakeholders to appropriately address roles and responsibilities
 
  |
-| **CITA -- Professional** |
+| **CITA -- Distinguished** |
 
 -   Lead enterprise level GRC organizing and overseeing activities within architecture initiatives
 -   Address critical enterprise class GRC initiatives within technical and business activities
@@ -189,10 +189,10 @@ The capability involves identifying, analyzing and optimizing risk mitigation. R
 | | -   Identify areas for risk exposure, impact, mitigation and the most effective approach
 | | -   Support and participate in risk management organization and identification activities
 | | -   Awareness and collaboration with risk operations staff and risk operation requirements
-| **CITA -- Specialist** | -   Take responsibility for risk mitigation techniques on GRC activities
+| **CITA -- Professional** | -   Take responsibility for risk mitigation techniques on GRC activities
 | | -   Lead GRC teams and stakeholders in risk analysis and to appropriately address risks
 | | -   Lead risk identification, analyze exposure and use classification techniques for risks (confidentiality, integrity, availability)
-| **CITA -- Professional** | -   Lead enterprise level risk mitigation activities within architecture initiatives and engagement model
+| **CITA -- Distinguished** | -   Lead enterprise level risk mitigation activities within architecture initiatives and engagement model
 | | -   Identify and address critical enterprise class risks in future business and technology strategy and activities
 
 ## Prevent and promote
@@ -204,9 +204,9 @@ The capability involves defining code of conduct, policies, preventative control
 | | -   Define preventative control techniques in multiple scenarios
 | **CITA -- Associate** | -   Apply preventative control techniques to business
 | | -   Identify areas which have undesirable events and the most effective approach
-| **CITA -- Specialist** | -   Take responsibility for preventative control techniques on business technology activities
+| **CITA -- Professional** | -   Take responsibility for preventative control techniques on business technology activities
 | | -   Lead GRC teams and stakeholders to appropriately address desirable conduct
-| **CITA -- Professional** | -   Lead enterprise level GRC activities within architecture initiatives for awareness and education
+| **CITA -- Distinguished** | -   Lead enterprise level GRC activities within architecture initiatives for awareness and education
 | | -   Address critical enterprise class preventative controls within technical and business activities
 
 ## Detect and discern
@@ -219,9 +219,9 @@ The capability involves defining hotline and notification, inquiry and survey, a
 | | -   Understand GRC system weaknesses
 | **CITA -- Associate** | -   Apply information gathering and analysis techniques for detective controls
 | | -   Identify areas for control and the most effective approach
-| **CITA -- Specialist** | -   Take responsibility for stakeholder concerns on GRC activities
+| **CITA -- Professional** | -   Take responsibility for stakeholder concerns on GRC activities
 | | -   Lead GRC teams and stakeholders to appropriately address GRC system weaknesses
-| **CITA -- Professional** | -   Lead enterprise level control activities within architecture initiatives
+| **CITA -- Distinguished** | -   Lead enterprise level control activities within architecture initiatives
 | | -   Address technical and business activities on an enterprise level regarding detective controls
 
 ## Respond and resolve
@@ -234,9 +234,9 @@ The capability involves performing internal review and investigation, third-part
 | | -   Define response and recovery techniques in multiple scenarios for noncompliance
 | **CITA -- Associate** | -   Apply corrective control techniques to business technology activities
 | | -   Identify areas for crisis response and recovery and the most effective approach
-| **CITA -- Specialist** | -   Take responsibility for crisis response and recovery techniques business technology activities
+| **CITA -- Professional** | -   Take responsibility for crisis response and recovery techniques business technology activities
 | | -   Lead GRC teams and stakeholders to appropriately address GRC system failures
-| **CITA -- Professional** | -   Lead crisis response and recovery activities within architecture initiatives on an enterprise level
+| **CITA -- Distinguished** | -   Lead crisis response and recovery activities within architecture initiatives on an enterprise level
 | | -   Address critical enterprise class unethical conduct events and noncompliance within technical and business activities
 
 ## Monitor and measure
@@ -249,9 +249,9 @@ The capability involves defining context monitoring, performance monitoring and 
 | | -   Define improvement techniques in multiple scenarios
 | **CITA -- Associate** | -   Apply improvement techniques within GRC business technology activities
 | | -   Identify areas for improvement and the most effective approach
-| **CITA -- Specialist** | -   Take responsibility for performance monitoring and evaluation techniques on business technology activities
+| **CITA -- Professional** | -   Take responsibility for performance monitoring and evaluation techniques on business technology activities
 | | -   Lead GRC teams and stakeholders to appropriately address systematic improvement and assurance
-| **CITA -- Professional** | -   Lead enterprise level performance monitoring and evaluation activities within architecture initiatives
+| **CITA -- Distinguished** | -   Lead enterprise level performance monitoring and evaluation activities within architecture initiatives
 | | -   Lead systematic improvement and assurance on an enterprise level within technical and business activities
 
 ## Inform and integrate
@@ -264,9 +264,9 @@ The capability involves defining and performing information management and docum
 | | -   Define information management techniques in multiple scenarios
 | **CITA -- Associate** | -   Apply information management techniques within business technology activities
 | | -   Identify areas for communication type and the most effective approach
-| **CITA -- Specialist** | -   Take responsibility for information management techniques on technology and infrastructure activities
+| **CITA -- Professional** | -   Take responsibility for information management techniques on technology and infrastructure activities
 | | -   Lead GRC teams and stakeholders to appropriately address information management and documentation
-| **CITA -- Professional** | -   Lead enterprise level risk information management activities within architecture initiatives
+| **CITA -- Distinguished** | -   Lead enterprise level risk information management activities within architecture initiatives
 | | -   Lead communication on an enterprise level within technical and business activities
 
 ## Context and culture
@@ -279,9 +279,9 @@ The capability involves defining and incorporating external and internal busines
 | | -   Define context in which the organization operates
 | **CITA -- Associate** | -   Apply business context techniques within business technology activities
 | | -   Identify the most effective approach to achieve desired organizational outcomes through culture within business and technical activities
-| **CITA -- Specialist** | -   Take responsibility for stimulating healthy culture and values within business and technical activities
+| **CITA -- Professional** | -   Take responsibility for stimulating healthy culture and values within business and technical activities
 | | -   Lead teams and stakeholders to appropriately address culture and value issues
-| **CITA -- Professional** | -   Lead enterprise level organizational activities within architecture initiatives regarding culture and values
+| **CITA -- Distinguished** | -   Lead enterprise level organizational activities within architecture initiatives regarding culture and values
 | | -   Address critical enterprise level culture and value activities within technical and business activities
 
 Resources

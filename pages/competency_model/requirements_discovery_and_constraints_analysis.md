@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: requirements_discovery_and_constraints_analysis.html
 folder: competency_model
-summary: "The ability to understand how strategy is developed and rationalized is skill for architects."
+summary: "Requirements Discovery and Constraints Analysis are the tools and techniques for understanding business requirements with multiple strategic impacts, including how such requirements and constraints are formed internally and externally."
 tags: 
   - business_technology_strategy
 ---
@@ -48,8 +48,8 @@ Requirements definition is the outcome of requirements discovery process. It is 
 | | -   Learner is able to define high level architecture viewpoints based on requirements
 | **CITA -- Associate** | -   Learner is able to discover explicit and implicit requirements
 | | -   Learner is able to illustrate traceability between requirements and architecture
-| **CITA -- Specialist** | -   Learner is able to discover and model requirements in their area of specialization
-| **CITA -- Professional** | -   Learner is able to lead requirements discovery at an enterprise level
+| **CITA -- Professional** | -   Learner is able to discover and model requirements in their area of specialization
+| **CITA -- Distinguished** | -   Learner is able to lead requirements discovery at an enterprise level
 | | -   Learner is able to formulate requirements discovery in context of the industry trends and emerging technologies
 
 ## Scoping and Needs Assessment
@@ -64,10 +64,10 @@ A needs assessment is a process for determining and addressing needs, or "gaps" 
 | **CITA -- Associate** | -   Learner is able to describe common methods applied for needs assessment
 | | -   Learner is able to apply need analysis techniques to identify gaps and future state requirements
 | | -   Learner is able to collect unstated customer needs
-| **CITA -- Specialist** | -   Learner can define data required for needs assessment in context of industry
+| **CITA -- Professional** | -   Learner can define data required for needs assessment in context of industry
 | | -   Learner can conduct needs assessment in context of their area of specialization
 | | -   Learner is able to synthesize unstated customer needs
-| **CITA -- Professional** | -   Learner can lead needs assessment at enterprise level
+| **CITA -- Distinguished** | -   Learner can lead needs assessment at enterprise level
 | | -   Learner can interpret complex, unstated or abstract needs at an enterprise level
 
 ## Constraints Analysis
@@ -81,9 +81,9 @@ Constraints analysis is the process of identifying and analyzing barriers that b
 | **CITA -- Associate** | -   Learner is able to recognize common business constraints
 | | -   Learner is able to infer industry constraints related to their area of scope
 | | -   Learner is able to perform constraint analysis in context of the business and solution strategy
-| **CITA -- Specialist** | -   Learner is able to perform constraint analysis in context of the business technology strategy
+| **CITA -- Professional** | -   Learner is able to perform constraint analysis in context of the business technology strategy
 | | -   Learner is able to assess constraints related to their area of specialization
-| **CITA -- Professional** | -   Learner is able to perform constraint analysis in context of the business technology strategy at an enterprise level
+| **CITA -- Distinguished** | -   Learner is able to perform constraint analysis in context of the business technology strategy at an enterprise level
 | | -   Learner is able to assess constraints related to enterprise architecture
 
 ## Usability Requirements Analysis
@@ -99,9 +99,9 @@ Usability requirements are the establishment, clarification and communication of
 | **CITA -- Associate** | -   Learner is able to model usability scenarios and constraints as distinct set of requirements
 | | -   Learner is able to identify usability concerns relevant to the domain
 | | -   Learner is able to identify usability requirements in compliance with regulatory or statutory requirements
-| **CITA -- Specialist** | -   Learner is able to define usability needs and architecture standards for the enterprise
+| **CITA -- Professional** | -   Learner is able to define usability needs and architecture standards for the enterprise
 | | -   Learner is able to define information architecture requirements for usability
-| **CITA -- Professional** | -   Learner is able to describe usability engineering techniques
+| **CITA -- Distinguished** | -   Learner is able to describe usability engineering techniques
 | | -   Learner is able to assess usability needs relevant to the industry
 | | -   Learner is able to drive enterprise practices in line with emerging practices and enhancements in usability
 

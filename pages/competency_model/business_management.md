@@ -12,7 +12,7 @@ tags:
 
 # Description
 
-From time to time, one of the major challenges an Architect usually faces is misalignment between technology and “the business”. Therefore, they need to have in-depth understandings on organization profile particularly its vision, mission, goals and objectives. Digging in deeper, they need to identify multi-faceted business elements ranging from business environments, terms, values, benefits, drivers, principles, strategy, plans, needs, functions, services, processes, roles, capabilities and impacts to later on identify business problems and most importantly business opportunities.
+One of the major challenges an Architect usually faces is misalignment between technology and “the business”. Therefore, they need to have in-depth understandings on organization profile particularly its vision, mission, goals and objectives. Digging in deeper, they need to identify multi-faceted business elements ranging from business environments, terms, values, benefits, drivers, principles, strategy, plans, needs, functions, services, processes, roles, capabilities and impacts to later on identify business problems and most importantly business opportunities.
 
 In such cases, there might be a need to verify and update the currently documented business strategy and plans, and/or to bridge between high-level business drivers, business strategy, and goals on the one hand, and the specific, relevant business requirements.
 
@@ -36,25 +36,25 @@ In relation to BPM, the Architect will deliver value by implementing improvement
 
 The Architect should be having in-depth understandings on Business Architecture and Business Capability Analysis by having following competencies:
 
-*   Problem Solving
-*   Systems Thinking
-*   Business Principles and Practices
-*   Industry Knowledge
-*   Organization Knowledge
-*   Solution Knowledge
+* Problem Solving
+* Systems Thinking
+* Business Principles and Practices
+* Industry Knowledge
+* Organization Knowledge
+* Solution Knowledge
 
 Furthermore, in the case of BPM, the Architect is required to challenge the status quo, dig to understand the root causes of a problem, assess why things are being done in a particular way, and encourage subject matter experts (SMEs) to consider new ideas and approaches to make their processes more efficient and effective. They are also required to understand, articulate, and move back and forth between internal and external views of the processes under analysis.
 
 Due to the effects that changes to processes have on the working habits of individuals, interaction skills are valuable in a BPM initiative as they are likely to involve all levels of the organization and then communicate across organizational boundaries as well as outside their organizations. To be more precise, the necessary skills are:
 
-*   Business Process Re-engineering
-*   Lean
-*   Six Sigma
-*   Cost Analysis
-*   Define Measure Analyze Improve Control (DMAIC)
-*   Value Added Analysis
-*   Value Stream Analysis
-*   Root-Cause Analysis
+* Business Process Re-engineering
+* Lean
+* Six Sigma
+* Cost Analysis
+* Define Measure Analyze Improve Control (DMAIC)
+* Value Added Analysis
+* Value Stream Analysis
+* Root-Cause Analysis
 
 **What is their ownership in this skill?**
 
@@ -66,12 +66,12 @@ Organizations that hold a process-centric view treat BPM as an ongoing effort an
 
 The Architect would be expected to be able to:
 
-*   Understand the framework including its structure, people, processes and technology that supports organization’s strategy
-*   Accurately identify current enterprise business capabilities
-*   Accurately identify gaps that prevent organization from achieving desired outcomes
-*   Accurately identify shortcomings, problems and limitations of existing solution
-*   Appropriately focus on how organization performs work to deliver value across multiple functional areas to customers and stakeholders
-*   Attain comprehensive views of value delivery spanned across the entire organization
+* Understand the framework including its structure, people, processes and technology that supports organization’s strategy
+* Accurately identify current enterprise business capabilities
+* Accurately identify gaps that prevent organization from achieving desired outcomes
+* Accurately identify shortcomings, problems and limitations of existing solution
+* Appropriately focus on how organization performs work to deliver value across multiple functional areas to customers and stakeholders
+* Attain comprehensive views of value delivery spanned across the entire organization
 
 # Proven Practices
 
@@ -107,40 +107,40 @@ Ideally, the Architect works at highest levels of abstraction, ambiguity and com
 
 Prioritize capability gaps in relation to values (business and customer) and various risks (business, technology, organizational and market). The Architect should be able to provide a framework for scoping and planning by identifying shared understanding of outcomes, pinpointing alignment with strategy, as well as categorizing scope and prioritization filter.
 
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** The Learner shall be able to describe what organization, or part of organization, is able to do
-*   The Learner shall be able to comprehend the value of full support from senior leadership
-*   The Learner shall be able to attain participation and involvement from business owners and Subject Matter Experts (SMEs)
-*   The Learner shall be able to understand organization ability to act on or transform to achieve business goal and business objective
-*   **CITA – Associate** The Learner shall identify current and desired capabilities to accommodate performance expectations, given the business strategy
-*   The Learner is able to understand capabilities impact value by considering revenue, cost, service and compliance
-*   The Learner must be able to assess organization ability to offer new products and or services
-*   The Learner must be able to identify risks and their impacts within performance’s capability or when lacking of performance
-*   **CITA – Specialist** The Learner shall have work experience in assisting the development of an organization’s Business Capability Analysis
-*   The Learner shall have work experience in improving performance of existing business capability
-*   The Learner shall be able to identify specific performance gap between current and desired state, given the business strategy
-*   The Learner shall be able to produce recommendations or proposals for solutions as basis for product road map and release planning
-*   **CITA – Professional** The Learner can demonstrate experience of conducting Business Capability Analysis for large organization
-*   The Learner can demonstrate experience in identifying and leveraging values and risks in developing Business Capability Analysis
-*   The Learner shall ensure capabilities should support organization in terms of competitive advantage and value proposition
-*   The Learner shall demonstrate how to align business initiatives across multiple aspects of the organization
-*   The Learner must attain support from executives as well as business owners and SME as the stakeholders in developing Business Capability Analysis
+* **Iasa Certification Level** **Learning Objective** **CITA- Foundation** The Learner shall be able to describe what organization, or part of organization, is able to do
+* The Learner shall be able to comprehend the value of full support from senior leadership
+* The Learner shall be able to attain participation and involvement from business owners and Subject Matter Experts (SMEs)
+* The Learner shall be able to understand organization ability to act on or transform to achieve business goal and business objective
+* **CITA – Associate** The Learner shall identify current and desired capabilities to accommodate performance expectations, given the business strategy
+* The Learner is able to understand capabilities impact value by considering revenue, cost, service and compliance
+* The Learner must be able to assess organization ability to offer new products and or services
+* The Learner must be able to identify risks and their impacts within performance’s capability or when lacking of performance
+* **CITA – Professional** The Learner shall have work experience in assisting the development of an organization’s Business Capability Analysis
+* The Learner shall have work experience in improving performance of existing business capability
+* The Learner shall be able to identify specific performance gap between current and desired state, given the business strategy
+* The Learner shall be able to produce recommendations or proposals for solutions as basis for product road map and release planning
+* **CITA – Distinguished** The Learner can demonstrate experience of conducting Business Capability Analysis for large organization
+* The Learner can demonstrate experience in identifying and leveraging values and risks in developing Business Capability Analysis
+* The Learner shall ensure capabilities should support organization in terms of competitive advantage and value proposition
+* The Learner shall demonstrate how to align business initiatives across multiple aspects of the organization
+* The Learner must attain support from executives as well as business owners and SME as the stakeholders in developing Business Capability Analysis
 
 ## BUSINESS PROCESS MANAGEMENT
 
 Address single process with limited scope or might address all processes in the organization with focus on how the processes of an organization can be changed in order to improve and meet business objectives as an ongoing effort and an integral part of ongoing management and organization operational activities.
 
-*   **Iasa Certification Level** **Learning Objective** **CITA- Foundation** The Learner shall have deep understandings on root causes of business problem and or business opportunity
-*   The Learner shall be able to see the patterns in process, data and technology that commonly utilized across the organization
-*   **CITA – Associate** The Learner shall be able to articulate and leverage internal and external views of business processes under analysis
-*   The Learner shall be able to facilitate efficient execution of business operation by leveraging patterns in common process, data and technology
-*   The Learner shall be able to frequently negotiate and arbitrate between individuals with different opinions from time to time
-*   **CITA – Specialist** The Learner shall have work experience in exposing and resolving conflicts between different stakeholders within the organization
-*   The Learner can demonstrate how to get the involvement, support and fruitful participation from all levels of the organization
-*   The Learner can demonstrate how to effectively and efficiently communicate across organizational boundaries as well as outside the organization
-*   The Learner shall have working experience in capitalizing current and future business models
-*   **CITA – Professional** The Learner can demonstrate experience of developing BPM for large organization
-*   The Leaner shall have work experience in influencing interconnections between business processes, technology, data and people
-*   The Learner shall have work experience in assisting and or facilitating BPM execution to drive business performance throughout the organization
+* **Iasa Certification Level** **Learning Objective** **CITA- Foundation** The Learner shall have deep understandings on root causes of business problem and or business opportunity
+* The Learner shall be able to see the patterns in process, data and technology that commonly utilized across the organization
+* **CITA – Associate** The Learner shall be able to articulate and leverage internal and external views of business processes under analysis
+* The Learner shall be able to facilitate efficient execution of business operation by leveraging patterns in common process, data and technology
+* The Learner shall be able to frequently negotiate and arbitrate between individuals with different opinions from time to time
+* **CITA – Professiona** The Learner shall have work experience in exposing and resolving conflicts between different stakeholders within the organization
+* The Learner can demonstrate how to get the involvement, support and fruitful participation from all levels of the organization
+* The Learner can demonstrate how to effectively and efficiently communicate across organizational boundaries as well as outside the organization
+* The Learner shall have working experience in capitalizing current and future business models
+* **CITA – Distinguished** The Learner can demonstrate experience of developing BPM for large organization
+* The Leaner shall have work experience in influencing interconnections between business processes, technology, data and people
+* The Learner shall have work experience in assisting and or facilitating BPM execution to drive business performance throughout the organization
 
 # Resources
 
@@ -160,7 +160,7 @@ International Institute of Business Analysis (IIBA) Business Analysis Competency
 
 [https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx](https://www.iiba.org/Careers/Business-Analysis-Competency-Model.aspx){:target="_blank"}
 
-## Training: 
+## Training:
 
 IASA Architect Core
 

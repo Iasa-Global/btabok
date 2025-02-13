@@ -36,10 +36,10 @@ Scale of a project also impacts design. In small-scale projects, there may be ve
 
 # Corporate Best Practices
 
--   Establish common design methods and processes with appropriate tooling support. The level of commonality that can be achieved will be dependent on organizational structure, for example highly federated organizations tend to have greater diversity as a consequence of their business model. As always, architecture must be linked to business value so uniformity for the sake of uniformity doesn't add value.
--   Develop a repository where design artefacts can be shared, discovered and reused by architects. This helps deliver value by allowing architects to discover and reuse content, or actively collaborate on the development of new content. Without this, there is a risk that multiple independent designs for the same problem will be developed across an organization.
--   Adopt and adapt industry standard design methods and processes in preference to "home-grown" alternatives -- the availability of training and tooling is a significant benefit to this approach, as is the ability to recruit suitably skilled individuals.
--   Subject matter experts and junior architects often have a tendency towards building over buying, and building over reusing existing IP. This can lead to unnecessary cost in new development and additional maintenance costs. A key part of the design process is the recognition of opportunities to reuse or purchase functionality over building your own. Architects provide a unique cross discipline view of the activities involved in projects, across the business and the technical areas. The key challenge here is identifying the appropriate approach required for each project and selling to the stakeholders, even when they hold a different view.
+- Establish common design methods and processes with appropriate tooling support. The level of commonality that can be achieved will be dependent on organizational structure, for example highly federated organizations tend to have greater diversity as a consequence of their business model. As always, architecture must be linked to business value so uniformity for the sake of uniformity doesn't add value.
+- Develop a repository where design artefacts can be shared, discovered and reused by architects. This helps deliver value by allowing architects to discover and reuse content, or actively collaborate on the development of new content. Without this, there is a risk that multiple independent designs for the same problem will be developed across an organization.
+- Adopt and adapt industry standard design methods and processes in preference to "home-grown" alternatives -- the availability of training and tooling is a significant benefit to this approach, as is the ability to recruit suitably skilled individuals.
+- Subject matter experts and junior architects often have a tendency towards building over buying, and building over reusing existing IP. This can lead to unnecessary cost in new development and additional maintenance costs. A key part of the design process is the recognition of opportunities to reuse or purchase functionality over building your own. Architects provide a unique cross discipline view of the activities involved in projects, across the business and the technical areas. The key challenge here is identifying the appropriate approach required for each project and selling to the stakeholders, even when they hold a different view.
 
 # Sub-Components Skills
 
@@ -49,22 +49,22 @@ Design requires the use of techniques, tools, patterns, methodologies, and a hos
 
 There is both art and science in architecture, but leveraging methods and processes will help architects be effective at designing solutions.
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to name the various types of design methods and processes used by the current organization and understand what they are used for
-| | -   Learner will be able to explain the design methodology or tool of choice
-| **CITA -- Associate** | -   Learner will be able to use a number of design methods and processes
-| | -   Learner will be able to explain the signs of poor design
-| | -   Learner will be able to explain MDA (Model Driven Architecture) and its impact on the design process.
-| | -   Learner will be able to explain how an architect applies design patterns and common design principles in the design process.
-| | -   Learner will be able to name some principles and tenets that help delivering efficient designs.
-| **CITA -- Specialist** | -   Learner will be able to articulate the value of good design process to business stakeholders.
-| | -   Learner will be an expert in some of the design methods and processes, and be able to highlight the advantages and disadvantages of each
-| | -   Learner will be able to explain how to design for operations
-| | -   Learner will be able to explain how to focus on design simplicity and still meets customer's needs.
-| **CITA -- Professional** | -   Learner will be able to drive the introduction of new design methods and processes into the organization
-| | -   Learner will be able to act as a mentor for the design methods and processes
-| | -   Learner will be able to measure or control the design quality on the project.
+| **Iasa Certification Level** | **Learning Objective**                                                                                                                                    |
+|:----------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to name the various types of design methods and processes used by the current organization and understand what they are used for |
+|                              | -   Learner will be able to explain the design methodology or tool of choice                                                                              |
+| **CITA -- Associate**        | -   Learner will be able to use a number of design methods and processes                                                                                  |
+|                              | -   Learner will be able to explain the signs of poor design                                                                                              |
+|                              | -   Learner will be able to explain MDA (Model Driven Architecture) and its impact on the design process.                                                 |
+|                              | -   Learner will be able to explain how an architect applies design patterns and common design principles in the design process.                          |
+|                              | -   Learner will be able to name some principles and tenets that help delivering efficient designs.                                                       |
+| **CITA -- Professional**     | -   Learner will be able to articulate the value of good design process to business stakeholders.                                                         |
+|                              | -   Learner will be an expert in some of the design methods and processes, and be able to highlight the advantages and disadvantages of each              |
+|                              | -   Learner will be able to explain how to design for operations                                                                                          |
+|                              | -   Learner will be able to explain how to focus on design simplicity and still meets customer's needs.                                                   |
+| **CITA -- Distinguished**    | -   Learner will be able to drive the introduction of new design methods and processes into the organization                                              |
+|                              | -   Learner will be able to act as a mentor for the design methods and processes                                                                          |
+|                              | -   Learner will be able to measure or control the design quality on the project.                                                                         |
 
 ## Design Tools and Techniques
 
@@ -72,29 +72,29 @@ Architects will need to advise on the appropriate tools for each of the architec
 
 Methodologies and Concepts
 
--   Models are critical for simplifying both software and the software process.
--   Simple design focuses on delivering a system that balances delivering on the immediate needs while considering future needs.
--   There are multiple levels or concerns in software development
--   Do not mix modeling notations in the same concern
--   Each model should represent the same level of granularity
+- Models are critical for simplifying both software and the software process.
+- Simple design focuses on delivering a system that balances delivering on the immediate needs while considering future needs.
+- There are multiple levels or concerns in software development
+- Do not mix modeling notations in the same concern
+- Each model should represent the same level of granularity
 
-| **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** | -   Learner will be able to name the various types of design tools and techniques used by the current organization and understand what they are used for
-| | -   Learner will be able to understand design models and documentation.
-| | -   Learner will be able to explain the design process
-| | -   Learner will be involved in design reviews
-| | -   Learner will be able to draw a sample design model used in the past
-| **CITA -- Associate** | -   Learner will be able to use a number of the design tools and techniques
-| | -   Learner will be able to participate in the design process
-| | -   Learner will be able to carry out design reviews
-| | -   Learner will be able to share experiences: e.g. is UML (or ArchiMate) a good visualization tool to support design process?
-| **CITA -- Specialist** | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each
-| | -   Learner will be able to carry out design reviews on complex areas.
-| | -   Learner can explain their level of concern on a project and how to design and model it.
-| **CITA -- Professional** | -   Learner will be able to drive the introduction of new tools and techniques into the organization
-| | -   Learner will be able to act as a mentor for the tools and techniques
-| | -   Learner will be involved in defining the design review process and the checklists to be used.
+| **Iasa Certification Level** | **Learning Objective**                                                                                                                                   |
+|:----------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| **CITA- Foundation**         | -   Learner will be able to name the various types of design tools and techniques used by the current organization and understand what they are used for |
+|                              | -   Learner will be able to understand design models and documentation.                                                                                  |
+|                              | -   Learner will be able to explain the design process                                                                                                   |
+|                              | -   Learner will be involved in design reviews                                                                                                           |
+|                              | -   Learner will be able to draw a sample design model used in the past                                                                                  |
+| **CITA -- Associate**        | -   Learner will be able to use a number of the design tools and techniques                                                                              |
+|                              | -   Learner will be able to participate in the design process                                                                                            |
+|                              | -   Learner will be able to carry out design reviews                                                                                                     |
+|                              | -   Learner will be able to share experiences: e.g. is UML (or ArchiMate) a good visualization tool to support design process?                           |
+| **CITA -- Professional**     | -   Learner will be an expert in some of the tools and techniques and be able to highlight the advantages and disadvantages of each                      |
+|                              | -   Learner will be able to carry out design reviews on complex areas.                                                                                   |
+|                              | -   Learner can explain their level of concern on a project and how to design and model it.                                                              |
+| **CITA -- Distinguished**    | -   Learner will be able to drive the introduction of new tools and techniques into the organization                                                     |
+|                              | -   Learner will be able to act as a mentor for the tools and techniques                                                                                 |
+|                              | -   Learner will be involved in defining the design review process and the checklists to be used.                                                        |
 
 # Related Capabilities
 
@@ -113,9 +113,10 @@ Patterns provide a mechanism to document an approach that has been successfully 
 # Author
 
 ![Sean Gordon](media/s_gordon.jpg)
-## Sean Gordon
-*Technical Expert for Solution Architecture -- Chevron*
 
+## Sean Gordon
+
+*Technical Expert for Solution Architecture -- Chevron*
 
 Sean Gordon works for Chevron (<http://www.chevron.com/>) where he is Technical Expert for Solution Architecture. He has over 25 years of IT experience including 10 years working for Microsoft as a consultant in Architecture and Enterprise Integration. His current focus is on developing Target Architectures for Chevron's various asset classes.
 

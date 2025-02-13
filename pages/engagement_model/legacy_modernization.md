@@ -12,21 +12,13 @@ tags:
   - operating_model
 ---
 
-> "...the process of making a system, methods, etc. more modern and more
-suitable for use at the present time."
+> "...the process of making a system, methods, etc. more modern and more suitable for use at the present time."
 **- definition of Modernization, Oxford Dictionary**
 
 # What is Legacy Modernization
 
-All systems have a life cycle, starting with the inception and
-construction of the system, moving into the maintenance of the system
-and eventually decommissioning at the end of the life cycle. During the
-life cycle, the system delivers value to the organization and its
-customers, and it is desirable to sustain and even increase this value
-delivery during the lifetime of the system. Even if the system is well
-maintained, the surrounding world is in constant change, for example,
-the discovery of new technologies, changes in laws and regulations, or
-changes in the way business is done.
+All systems have a life cycle, starting with the inception and construction of the system, moving into the maintenance of the system
+and eventually decommissioning at the end of the life cycle. During the life cycle, the system delivers value to the organization and its customers, and it is desirable to sustain and even increase this value delivery during the lifetime of the system. Even if the system is well maintained, the surrounding world is in constant change, for example, the discovery of new technologies, changes in laws and regulations, or changes in the way business is done.
 
 To prolong a system lifetime we need to make changes accordingly to
 ensure sustainability, where sustainability can be defined as "the value
@@ -290,28 +282,19 @@ applications are then categorized as follows:
   applications may be targets for modernization through
   re-engineering.
 
-- **Invest** -- the application provides high value and is a target
-  for investment.
+- **Invest** -- the application provides high value and is a target for investment.
 
-- **Migrate** -- the application function provides value but is no
-  longer effective, modernization may be achieved by migrating
-  functions or data to a modern platform.
+- **Migrate** -- the application function provides value but is no longer effective, modernization may be achieved by migrating functions or data to a modern platform.
 
-- **Eliminate** -- the application no longer provides value and is
-  eliminated. The application may be replaced completely by another
+- **Eliminate** -- the application no longer provides value and is eliminated. The application may be replaced completely by another
   application.
 
-The diagram below shows an example of a TIME model based on Tinkelman
-Coffee Shop.
+The diagram below shows an example of a TIME model based on Tinkelman Coffee Shop. 
 
-![image001](media/legacymodernization_time1.png)
+[![image001](media/legacymodernization_time1.png)](https://iasa-global.github.io/btabok/time_model_canvas.html){:target="_blank"}
 
 
-In the example above, several applications are supporting the Tinkelman
-business capabilities. Notice that the same application may support
-several capabilities. This means that it is possible to migrate or
-eliminate an application in one capability but continue to invest in the
-application for another capability.
+In the example above, several applications are supporting the Tinkelman business capabilities. Notice that the same application may support several capabilities. This means that it is possible to migrate or eliminate an application in one capability but continue to invest in the application for another capability.
 
 The COFI-BIZ is a business system widely used in several capabilities.
 However, the logistics module of COFI-BIZ is no longer supported and
@@ -435,4 +418,4 @@ the new system, this may involve using time-consuming manual processes.
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

@@ -5,7 +5,7 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: analysis.html
 folder: engagement_model
-summary: "Analysis of the architecture helps us to understand the nature of that compromise.  Many of the architecturally significant requirements are expressions of desired quality attributes."
+summary: "Analysis of the architecture helps us to understand the nature of that compromise.  Many of the architecturally significant requirements are expressions of desired quality attributes." 
 tags: 
   - value_model
 ---
@@ -183,5 +183,5 @@ Christopher Alexander, *The Nature of Order*, 1 edition (Berkeley, Calif: Center
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
 
