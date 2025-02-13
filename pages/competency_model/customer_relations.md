@@ -26,7 +26,7 @@ Five personality dynamics prevail in relatively consistent but unequal *proporti
 3.  Examine
     1.  Develop an implementation plan using data. Create schedules, budgets, timetables, clear roles and rules, etc.  Predict problems.  Find faults.
 4.  Execute
-    1.  Aggressively implement the plan. Hold people accountable.  Measure performance.    Strive for completion.
+    1.  Aggressively implement the plan. Hold people accountable. Measure performance. Strive for completion.
 5.  Evaluate
     1.  Evaluate the preceding four Dynamics by examining external success (e.g., cost, time, quality, profit) and internal satisfaction (engagement, absence of stress). Adapt the process to increase success and satisfaction going forward.
 
@@ -48,7 +48,7 @@ Top technology priorities for business leaders all center on improving CX in ord
 
 There is a gap in the general approach to problem solving between design agencies and enterprise architects.  The former use Design Thinking practices, such as empathy and prototyping, while enterprise architects use deductive reasoning and quantitative analysis, or Systems Thinking.
 
-CX, EA, BP -- operate tightly
+Customer experience (CX), enterprise architecture (EA), business processes (BP) -- operate tightly
 
 -   CX: Delight Customers
     -   New digital channels

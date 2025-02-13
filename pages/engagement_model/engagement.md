@@ -30,24 +30,24 @@ Verb: engaging
 
 “ – Oxford dictionary
 
-Engagement is an interesting word as it can mean so many things to so many people. Even the definitions of engaging are significantly varied all the way from hiring (employing a plumber) to attraction (he or she was highly engaging). Some definitions, of course, are more modern than others due to variations in other languages and contexts. However, in the BTABoK, engagement is about imagining the digital customer/beneficiary (as in all customer-related articles, the beneficiary of a mission, government, or non-profit can be substituted with minimum changes). It is about how the customer engages with the organization and how the organization engages with the customer. Every time the customer hears, sees, describes, interacts with, or thinks about the company is the overall engagement product. The architect’s purview is how this is impacted by digital strategy and execution.
+Engagement is an interesting word as it can mean so many things to so many people. Even the definitions of engaging are significantly varied all the way from hiring (employing a plumber) to attraction (he or she was highly engaging). Some definitions, of course, are more modern than others due to variations in other languages and contexts. However, in the BTABoK, engagement is about imagining the digital customer/beneficiary (as in all customer-related articles, the beneficiary of a mission, government, or non-profit can be substituted with minimum changes). It is about how the customer interacts with the organization and how the organization interacts with the customer. Every time the customer hears, sees, describes, interacts with, or thinks about the company is the overall engagement product. The architect’s purview is how this is impacted by digital strategy and execution.
 
-Thinking of engagement as a set of outcomes is beneficial. By nature, most individuals think of the customer from the inside out (look ‘out’ at the customer). There are often many essential things that have to change to impact engagement outcomes positively. However, it is also necessary to consider engagement from the customers ‘outside-in’ perspective. While in some circumstances, this is hard to do, for example, in legal negotiations or financial trading scenarios, it is essential to use methods by which the customer (as well as client, user, and decision-makers) can be understood. The capabilities and services which impact them can be modified, experimented with, measured, and improved.
+Thinking of engagement as a set of outcomes is beneficial. By nature, most individuals think of the customer from the inside out (look ‘out’ at the customer). There are often many essential things that have to change to impact engagement outcomes positively. However, it is also necessary to consider engagement from the customers ‘outside-in’ perspective. While this is hard to do in some circumstances, for example, in legal negotiations or financial trading scenarios, it is essential to use methods by which the customer (as well as client, user, and other stakeholders) can be understood. The capabilities and services which impact them can be modified, experimented with, measured, and improved.
 
 # Why Do We Need Customer Engagement?
 
-The BTABoK is based on an architecture practice creating digital outcomes reliably. And results are about customers/beneficiaries. Customers buy products. Customers tell their friends. Customers make emotional decisions. Customers are people. Understanding how people interact with the company, the product, environment, mood, and personal relationships is the key to creating lasting value for them and receiving value in return.
+The BTABoK is based on an architecture practice creating digital outcomes reliably and results are about customers and beneficiaries. Customers buy products. Customers tell their friends. Customers make emotional decisions. Customers are people. Understanding how people interact with the company, the product, environment, mood, and personal relationships is the key to creating lasting value for them and receiving value in return.
 
-Architects, as digital innovators driving digital advantage, must be customer-obsessed. From business architecture to infrastructure to complex systems, each decision may fundamentally impact a customer, changing how they behave and perceive a company.
+Architects, as digital innovators driving digital advantage, must be customer-focused. From business architecture to infrastructure to complex systems, each decision may fundamentally impact a customer, changing how they behave and perceive a company.
 
 ![image001](media/engagement001.png)
 Figure 1 Empathy and Features
 
-Tinder, as a dating application, changed the world with a tiny feature, the swipe. This feature was easy to implement from a code perspective but has quite literally changed the world of dating forever. For this reason, customer engagement is not about selling but about empathy and understanding. Think of the number of technology implementation decisions made in an average enterprise in a day. How many of them are genuine customer engaged? Architects using the BTABoK will be able to answer that question with tangible metrics.
+Tinder, as a dating application, changed the world with a tiny feature, the swipe. This feature was easy to implement from a code perspective but has quite literally changed the world of dating forever. For this reason, customer engagement is not about selling but about empathy and understanding. Think of the number of technology implementation decisions made in an average enterprise in a day. How many of them have a positive effect on customer engagement? Architects using the BTABoK will be able to answer that question with tangible metrics.
 
 # Engagement Approach
 
-The BTABoK suggests that architecture practices be explicitly measured on IBAM (see getting started and architecture practice articles). As a part of imagining the digital customer, there are three primary areas an organization can understand and lead the competition. It is about understanding the landscape in which customers interact in customer ecosystems. Customer journeys are about understanding all of the touchpoints of a customer with the company or around the company. In customer engagement, it is about understanding the customer.
+The BTABoK suggests that architecture practices be explicitly measured on IBAM (see getting started and architecture practice articles). As a part of imagining the digital customer, there are three primary areas an organization can understand and lead the competition: the landscape in which customers interact in customer ecosystems, customer journeys and understanding all of the touchpoints between a customer and the company or around the company, and understanding the customer.
 
 ## PRINCIPLE: Stop Doing Architecture, Start Digitally Enhancing Your Customer
 
@@ -55,7 +55,7 @@ One of the fundamental principles of the BTABoK is to stop ‘doing architecture
 
 ## PRINCIPLE: Customer Obsessed Architect Practices Succeed
 
-The architecture practice may do a lot of good in structural management, stakeholder collaboration, and digital operations. However, no single more extraordinary set of outcomes exists that beat creating, growing, and positively impacting customers. This relationship has always existed in businesses. Thus, a customer-obsessed architecture practice will likely be the most successful type of practice.
+The architecture practice may do a lot of good in structural management, stakeholder collaboration, and digital operations. However, no single more extraordinary set of outcomes exists than creating, growing, and positively impacting customers. This relationship has always existed in businesses. Thus, a customer-focused architecture practice will likely be the most successful type of practice.
 
 ## Engagement is About Empathy
 
@@ -67,7 +67,7 @@ The Persona Card contains what is called a set of empathy map ideas. The Empathy
 
 ![Figure 2 Empathy Map](media/engagement002.png)Figure 2 Empathy Map
 
-Notice that the customer has pains and gains; they see things, hear things, say things and do something. This tool is the beginning of understanding the actual customer. The BTABoK has created several canvases that include these empathy notions. They can be used to formally understand how empathy and business technology strategy align.
+Notice that the customer has pains and gains; they see things, hear things, say things and do things. This tool is the beginning of understanding the actual customer. The BTABoK has created several canvases that include these empathy notions. They can be used to formally understand how empathy and business technology strategy align.
 
 ## Know Who Your Real Customer Is
 
@@ -75,11 +75,11 @@ Much is said about customers, but it is often difficult to know who the customer
 
 The BTABoK uses the following definitions:
 
-1.  Client: The client is always the architect’s client or employer. Thus the client is never the customer of the business but the person or business who pays the company.
-2.  Customer: The customer is always the person who decides to purchase, use, provide use of, or direct the use of the product. The customer is the real decision-maker.
-3.  Economic Buyer: The economic buyer is the person or group who pays for the product or job. They may be the customer’s boss, a purchasing department, or the parents are both the customer and the economic buyer in the previous example.
-4.  User: The product used is the one who directly engages with it. Thus, the customer of children’s toys is the parent. At the same time, the user is the child (or, in many cases, the parents as well).
-5.  Stakeholder: The stakeholder is anyone involved with the client or the customer ecosystem, which impacts the success of the product or the architect’s work. Customers should never be called stakeholders.
+1.  Client: The client hires the architect. The client may thus be the architect's employer, or if the architect is a cosultant, the entity that contracts with them for services.
+2.  Customer: The customer is always client's external customer; the person who decides to purchase, use, provide use of, or direct the use of a product provided by the client. The customer is the real decision-maker.
+3.  Economic Buyer: The economic buyer is the ultimate source of funds supporting the architect's work. They may be the client's boss, or an external client who contracts with the architect.
+4.  User: The product user is the one who directly engages with it. Thus, the customer of children’s toys is the parent while the child is user (the parent may also be a user).
+5.  Stakeholder: The stakeholder is anyone, internal or external to the client, involved with or who has an interest the client or customer ecosystem, and impacts the success of the product or the architect’s work.
 
 Many of the tools in this article can be used for any of the previous examples of individuals. The following persona card is used to get into the mind of a person or group of people who have a similar story. It makes a customer segment into a real person. It is easier to design success for Tom, the father of 2, who picks his kids up from school at 3:30 and works a job as a virtual assistant, lives in Breda, and likes American football than design for a ‘user.’ It is also easier to understand his jobs to be done (get the kids home safely while succeeding at work) and his experiences, what his friends say, etc. The Persona Card is the first step in understanding the mind and emotions of a customer in a particular scenario.
 
@@ -87,11 +87,11 @@ Many of the tools in this article can be used for any of the previous examples o
 
 ## What Jobs is the Customer Doing
 
-The work on Jobs to Be Done focuses on what a customer is trying to do, not what product they are using. For example, while a person may order a bottle of wine at dinner, they may be trying to impress a client with their sophistication. There are countless examples, but the most famous is “People don’t want a quarter-inch drill. They want a quarter-inch hole.” – Theodore Levitt. The goal of using the Jobs to Be Done method is to understand what the customer is trying to achieve and align architecture decisions with that goal. For example, a customer often does not want to take a flight; they want to be at a meeting in a particular city at a specific time. Thus the architect is actively focused on helping the customer to finish their job, not simply interact with the company.
+The work on Jobs to Be Done focuses on what a customer is trying to do, not what product they are using. For example, while a person may order a bottle of wine at dinner, they may be trying to impress a client with their sophistication. There are countless examples, but the most famous is “People don’t want a quarter-inch drill. They want a quarter-inch hole.” – Theodore Levitt. The goal of using the Jobs to Be Done method is to understand what the customer is trying to achieve and then align architecture decisions with that goal. For example, a customer often does not want to take a flight; they want to be at a meeting in a particular city at a specific time. Thus the architect is actively focused on helping the customer to finish their job, not simply interact with the company.
 
 ![image001](media/engagement004.png)
 
-The strategy has done fantastic work with the JTBD canvases. They provide significant business thought leadership, and their work can be found here: [https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/?gclid=CjwKCAiA6seQBhAfEiwAvPqu17VCLBjeX6BJ7DbeMNrvkm2zld5N98Qbt0qSiidyuRmYFNz1ZVWOKRoCvqkQAvD_BwE){:target="_blank"}. Their canvases have offered many of the thought patterns that shaped the customer elements of the BTABoK Structured Canvas Approach.
+Strategyn has done fantastic work with the JTBD canvases. They provide significant business thought leadership, and their work can be found here: [https://strategyn.com/jobs-to-be-done/](https://strategyn.com/jobs-to-be-done/?gclid=CjwKCAiA6seQBhAfEiwAvPqu17VCLBjeX6BJ7DbeMNrvkm2zld5N98Qbt0qSiidyuRmYFNz1ZVWOKRoCvqkQAvD_BwE){:target="_blank"}. Their canvases have offered many of the thought patterns that shaped the customer elements of the BTABoK Structured Canvas Approach.
 
 Doing things right requires an up-front investment of time. Asking difficult questions causes discomfort, people struggle, awkward silences ensue. Architects will need to get comfortable with the unknown. Market researchers and product developers can focus too heavily on the superficial questions— probing into whether customers like this or that better. People miss the decisions managers seek to justify their conclusions, and data is rarely readily available about Jobs to be Done. Companies already incumbent in an industry tend to ignore \[new\] niches, focusing on their business as they’ve traditionally defined it.
 

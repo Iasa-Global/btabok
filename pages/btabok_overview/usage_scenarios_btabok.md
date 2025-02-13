@@ -72,7 +72,6 @@ The btabok actually
 
 ## BTABoK for Business Architects
 
-There
 Scott Whitmire has this
 
 ## BTABoK for Enterprise Architects
