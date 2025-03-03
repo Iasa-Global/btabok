@@ -148,21 +148,7 @@ The specification of a Design Pattern is usually subjective. However, most speci
                  </div>
              </div>
          </div>
-         <div class="col-md-4 col-sm-6">
-             <div class="panel panel-default text-center">
-                 <div class="panel-heading">
-                     <span class="fa-stack fa-5x">
-                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                           <i class="fa fa-server fa-stack-1x fa-inverse"></i>
-                     </span>
-                 </div>
-                 <div class="panel-body">
-                     <h4>Proxy Pattern</h4>
-                     <p>When upgrading from a monolithic architecture to a microservice-based architecture, the designer(s) can encounter situations where one service depends upon another.</p>
-                     <a href="proxy_pattern.html" class="btn btn-primary">Learn More</a>
-                 </div>
-             </div>
-         </div>
+         
 </div>
 
 <div class="row">
@@ -259,4 +245,37 @@ The specification of a Design Pattern is usually subjective. However, most speci
                  </div>
              </div>
          </div>
+</div>
+<div class="row">
+         <div class="col-md-4 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-cogs fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Strangler Pattern</h4>
+                     <p>The strangler pattern is a legacy modernization pattern used to extract a critical piece of functionality for scalability and upgrades.</p>
+                     <a href="strangler_pattern.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+         <div class="col-md-4 col-sm-6">
+             <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                     <span class="fa-stack fa-5x">
+                           <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                           <i class="fa fa-server fa-stack-1x fa-inverse"></i>
+                     </span>
+                 </div>
+                 <div class="panel-body">
+                     <h4>Proxy Pattern</h4>
+                     <p>When upgrading from a monolithic architecture to a microservice-based architecture, the designer(s) can encounter situations where one service depends upon another.</p>
+                     <a href="proxy_pattern.html" class="btn btn-primary">Learn More</a>
+                 </div>
+             </div>
+         </div>
+</div>
 </div>
