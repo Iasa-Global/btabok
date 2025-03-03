@@ -27,8 +27,6 @@ This guide aims to demonstrate how to edit Markdown files on GitHub using the Ma
    
    Open your terminal or command prompt and execute the following command:
    
-   bash
-   
    Copy code
    
    `git clone <repository_URL>`
@@ -55,8 +53,6 @@ This guide aims to demonstrate how to edit Markdown files on GitHub using the Ma
    
    Once you're satisfied with your edits, return to your terminal or command prompt. Execute the following commands:
    
-   sql
-   
    Copy code
    
    `git status git add . git commit -m "Describe your changes here"`
@@ -66,8 +62,6 @@ This guide aims to demonstrate how to edit Markdown files on GitHub using the Ma
 6. **Push Changes to GitHub:**
    
    Push the committed changes to your GitHub repository by executing the following command:
-   
-   perl
    
    Copy code
    
