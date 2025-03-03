@@ -1,3 +1,15 @@
+---
+title: "Writing an Article"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: becoming_an_author.html
+folder: btabok_overview
+summary: "This article will help you get started as an author."
+tags: 
+  - business_technology_strategy
+---
+
 This guide aims to demonstrate how to edit Markdown files on GitHub using the Mark Text editor. Users will learn how to clone a repository, open a Markdown file in Mark Text, make edits, and create a pull request to submit their changes for review.
 
 **Audience:** This guide is suitable for users familiar with GitHub and Markdown syntax.

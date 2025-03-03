@@ -16,6 +16,10 @@ entries:
       url: get_started_m.html
       output: web
 
+    - title: Writing Articles Introduction
+      url: becoming_an_author.html
+      output: web
+
     - title: What is Architecture
       url: what_is_architecture.html
       output: web
