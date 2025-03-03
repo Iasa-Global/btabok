@@ -1,5 +1,4 @@
 ---
-
 title: "Sustainable Patterns"
 keywords: 
 sidebar: mydoc_sidebar
@@ -12,4 +11,4 @@ summary: "Sustainability patterns are reusable solutions to common sustainabilit
 
 ## Patterns
 
-[Sustainable Uptime Pattern](..\sustainability\sustainable_uptime_pattern.md)
+[Sustainable Uptime Pattern](sustainable_uptime_pattern.md)
