@@ -18,11 +18,13 @@ tags:
 The Ecosystem represents the external environment within which an organization participates, interacts and is affected by other parties in
 the ecosystem. Typical parties in an ecosystem are:
 
-- Suppliers
+- Suppliers and Partners
 - Customers
+- Investors (owners and long-term lenders)
 - Competitors
 - Government Agencies
-- Partners
+- Communities
+- Employees
 
 An ecosystem may be created by design, or may naturally evolve and grow as a consequence of innovation. Ecosystems are adaptive, self-organizing
 and scalable, they are loosely coupled and there is no explicit control of the parties in the ecosystem. By nature they are complex disordered
@@ -37,7 +39,7 @@ organization.
 
 It is important for the architect to understand the ecosystem in order
 to uncover opportunities and mitigate risks. Understanding how an
-organization provides value for its customers, provides the basis for
+organization provides value for its customers provides the basis for
 innovation and optimization of operations. The strategies and
 [decisions](decisions.md){:target="_blank"} an organization has made to integrate with the
 ecosystem are a key factor in forming an architecture. Architects who
@@ -81,7 +83,7 @@ against the ecosystem is good practice and supports sustainability.
 In order to understand the ecosystem it is important to understand the
 [customer journey,](customer_journey.md){:target="_blank"} including the customer interaction with
 parties external to the organization. This provides the basis for
-potential collaboration, and an understanding about how parties can work
+potential collaboration and an understanding about how parties can work
 together to provide a greater value for the customer. For example, when
 a customer purchases a car, the car dealer has a partnership with
 insurance companies, so the car dealer can help the customer sign an
@@ -281,7 +283,7 @@ perspective.
 
 The following example uses a fictional "Tinkleman Coffee Roasters"
 company, where the subject is a customer to a Tinkleman Coffee Shop. In
-this ecosystem, the aspects essential, valued and desirable are used to
+this ecosystem, the aspects essential, valued, and desirable are used to
 indicate how important the parties are to the customer. Several
 dimensions have been identified in the ecosystem which provide services
 or products to the customer when they want to get a cup of Tinkelman
@@ -384,4 +386,8 @@ take action, gives a competitive advantage to the organization.
 
 ![image001](media/by-nc.png)
 
+<<<<<<< HEAD
 BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+=======
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+>>>>>>> 17cfe8b3f96af55975a0149e266dfbb33b47d1d7

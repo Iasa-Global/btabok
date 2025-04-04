@@ -19,18 +19,18 @@ In the context of IT architecture, sustainability refers to the long-term viabil
 
 ![iasa canvases](media/sustainable_canvases.jpg)
 
-These are the areas of impact.
+In the sustainability program a number of changed practices are necessary for the default architecture practice. In addition there is a great deal of knowledge being generated about patterns and best practices. Below is the area 
 
-| Concepts                                                              | Competencies | Canvases        |
-| --------------------------------------------------------------------- | ------------ | --------------- |
+| Concepts                                                                 | Competencies | Canvases        |
+| ------------------------------------------------------------------------ | ------------ | --------------- |
 | [Patterns](../sustainability/patterns.md)                                |              |                 |
 | [Quality Attributes](../sustainability/sustainable_quality_attribute.md) |              |                 |
-| Decisions                                                             |              | Decision Record |
+| Decisions                                                                |              | Decision Record |
 | [Principles](../sustainability/sustainable_principle.md)                 |              | Principle Card  |
 | [Objectives](../sustainability/objectives.md)                            |              |                 |
-| Risk                                                                  |              |                 |
+| Risk                                                                     |              |                 |
 | [Mindset](../sustainability/mindset.md)                                  |              |                 |
-|                                                                       |              |                 |
+|                                                                          |              |                 |
 
 Sustainability in IT architecture is closely tied to Environmental, Social, and Governance (ESG) considerations. ESG aims to balance the triple bottom line of economic, social, and environmental performance by integrating sustainable practices into business operations and strategies. In the context of IT architecture, this means:
 

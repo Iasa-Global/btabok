@@ -1,3 +1,15 @@
+---
+title: "Writing an Article"
+keywords: 
+sidebar: mydoc_sidebar
+toc: true
+permalink: becoming_an_author.html
+folder: btabok_overview
+summary: "This article will help you get started as an author."
+tags: 
+  - business_technology_strategy
+---
+
 This guide aims to demonstrate how to edit Markdown files on GitHub using the Mark Text editor. Users will learn how to clone a repository, open a Markdown file in Mark Text, make edits, and create a pull request to submit their changes for review.
 
 **Audience:** This guide is suitable for users familiar with GitHub and Markdown syntax.
@@ -14,8 +26,6 @@ This guide aims to demonstrate how to edit Markdown files on GitHub using the Ma
    Begin by navigating to the GitHub repository containing the Markdown file you wish to edit. Click on the "Code" button and copy the repository's URL.
    
    Open your terminal or command prompt and execute the following command:
-   
-   bash
    
    Copy code
    
@@ -43,8 +53,6 @@ This guide aims to demonstrate how to edit Markdown files on GitHub using the Ma
    
    Once you're satisfied with your edits, return to your terminal or command prompt. Execute the following commands:
    
-   sql
-   
    Copy code
    
    `git status git add . git commit -m "Describe your changes here"`
@@ -54,8 +62,6 @@ This guide aims to demonstrate how to edit Markdown files on GitHub using the Ma
 6. **Push Changes to GitHub:**
    
    Push the committed changes to your GitHub repository by executing the following command:
-   
-   perl
    
    Copy code
    

@@ -19,7 +19,7 @@ A stakeholder is a person or organization which as an interest or
 concern in a given [objective](objectives.md){:target="_blank"}, [business case](../structured_canvases/business_case_sc.md){:target="_blank"} or
 [assignment](assignment.md){:target="_blank"}. Stakeholders have a vested interest in the success of assignments, which can affect the stakeholder positively or negatively. A stakeholder may use their influence to promote and help an assignment succeed, or hinder the success of an assignment if the resulting architecture is negative for the stakeholder. Some stakeholders may play an active part by contributing to the initiative, while other stakeholders play a more passive role.
 
-Examples of typical stakeholders are customers, executives or company
+Examples of typical stakeholders are customers, suppliers and partners, communities and regulators, investors, employees, executives or company
 departments.
 
 # Why are stakeholders important
@@ -444,4 +444,4 @@ Once the communication strategy is complete it can be implemented and then revis
 
 ![image001](media/by-nc.png)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)

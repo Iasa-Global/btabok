@@ -6,6 +6,8 @@ toc: true
 permalink: dmp.html
 folder: competency_model
 summary: "Regardless of the main focus of the method (artifacts, use cases, attributes, or domain), the architectural design process includes the following aspects."
+tags:
+  - software_architecture
 ---
 
 # Description
