@@ -63,6 +63,10 @@ If there are many commit items in the pull request there is the option to **Squa
 
 Other teams and individuals will be working with content on their own contribution branches and committing their work to the candidate branch. In order to keep a contribution branch updated, the contributors will want to update their own contribution branch with new content from the candidate branch.
 
+## Somthing from Candidate
+
+Merge check
+
 
 
 
