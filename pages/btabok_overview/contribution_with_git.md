@@ -52,6 +52,7 @@ The following process is used:
 1. Select the contribution branch
 2. Select **Compare & Pull Request**
 3. Select **base:candidate** as the branch to merge to
+3. Select **base:candidate** as the branch to merge to and **base:contribution/xxx** as the committing branch
 4. Add a description for the Pull Request
 5. Click **Create Pull Request**
 
@@ -64,12 +65,6 @@ If there are many commit items in the pull request there is the option to **Squa
 Other teams and individuals will be working with content on their own contribution branches and committing their work to the candidate branch. In order to keep a contribution branch updated, the contributors will want to update their own contribution branch with new content from the candidate branch.
 
 ## Somthing from Candidate
+The same pull request process is used but the committing branch will be **base:candidate** and the branch to merge to will be **base:contribution/xxx**.
 
-Merge check
-
-
-
-
-
-
-
+If there are no conflicts the content from candidate branch will be merged into the contribution branch.
