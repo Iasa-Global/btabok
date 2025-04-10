@@ -43,6 +43,10 @@ Using the web interface contributors can open any markdown file and edit the con
 
 Alternatively, GitHub Desktop can be used to clone the repository to your local computer and work with content locally. GitHub Desktop keeps track of the files that are changed and when the content is ready for commit, all the changed files can be committed and merged with changes that other contributors have committed.
 
+## Somthing from Candidate
+
+Merge check
+
 
 
 
