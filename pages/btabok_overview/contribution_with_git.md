@@ -41,15 +41,30 @@ In order to add content to the branch there are a number of options. Contributor
 
 Using the web interface contributors can open any markdown file and edit the content and then commit the content to the branch. A commit is made for each change to each file using the option to **commit directly** to the branch.
 
-Alternatively, GitHub Desktop can be used to clone the repository to your local computer and work with content locally. GitHub Desktop keeps track of the files that are changed and when the content is ready for commit, all the changed files can be committed and merged with changes that other contributors have committed.
+Alternatively, GitHub Desktop can be used to clone the repository to your local computer and work with content locally. GitHub Desktop keeps track of the files that are changed and when the content is ready for commit, all the changed files can be committed. However, merge conflicts will have to managed manually.
 
-## Somthing from Candidate
+## Commit Changes to Candidate branch
 
-Merge check
+When the content in the contribution branch is ready for review it can be committed to the candidate branch in preparation for publishing. In order to commit content to the candidate branch a pull request is created.
 
+The following process is used:
 
+1. Select the contribution branch
+2. Select **Compare & Pull Request**
+3. Select **base:candidate** as the branch to merge to and **base:contribution/xxx** as the committing branch
+4. Add a description for the Pull Request
+5. Click **Create Pull Request**
 
+A Pull Request is created and will show if there are any conflicts with the changes on the candidate branch. An editor can be given as a reviewer and if there are no conflicts the changes can be merged to the candidate branch by selecting **Merge Pull Request**.
 
+If there are many commit items in the pull request there is the option to **Squash And Merge**, which squashes the commit items into a single commit, this can make the branch history more manageable.
 
+## Updating Contribution branch from Candidate
 
+Other teams and individuals will be working with content on their own contribution branches and committing their work to the candidate branch. In order to keep a contribution branch updated, the contributors will want to update their own contribution branch with new content from the candidate branch.
 
+SOME OTHER STUFF!!!!
+
+The same pull request process is used but the committing branch will be **base:candidate** and the branch to merge to will be **base:contribution/xxx**.
+
+If there are no conflicts the content from candidate branch will be merged into the contribution branch.
