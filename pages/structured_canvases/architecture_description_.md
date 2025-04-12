@@ -13,7 +13,6 @@ tags:
 
 # Description
 
-
 The Architecture Description describes the architecture of a system (or systems), and provides detailed architecture communication, includes diagramming notation, architecture views and viewpoints. The goal of the Architecture Description (AD) is to transform the collected and organized architectural information and intents into viable models, describing the functional and non-functional requirements of the architecture. The Architecture Description also captures the principles which guide the development of the architecture, significant architecture decisions and acts as a repository of knowledge for the architecture of a system.
 
 Architecture Descriptions are generally expressed in a formal Architecture Description Language (ADL), such as UML; or in a more informal "boxes and connectors" style of language.
@@ -32,36 +31,36 @@ Architecture description is the end-product of an architecture development proce
 
 The AD should support the necessary views and perspectives needed to satisfy the requirements to both model the solution, and communicate the architecture to the key stakeholders (not just technologists). For example, a successful AD should:
 
--   Be suitable for communicating architecture to all interested parties.
--   Support the tasks of architecture creation, refinement, and validation.
--   Provide a basis for further implementation -- so it must be able to add information to the AD to enable the final system specification to be derived from the AD.
--   Provide the ability to represent most of the common architectural styles.
--   Support analytical capabilities or provide quick generating prototype implementations.
--   Provide Architecture vision and views
-    -   **Conceptual Descriptions and Notations** -- Standard notations for representing architectural concepts that help promote mutual communication and understanding of high-level ideas, sketches and solution concepts.
-    -   **Logical Descriptions and Notations** -- Notations and descriptions that promote the embodiment of early design decisions, and creation of a transferable abstraction of a system, comprised of components and connections among them.
-    -   **Implementation Descriptions and Notations** -- Specific, concrete and implementation-ready descriptions of envisioned system that allow analysis, feasibility testing and implementation of architectural design decisions.
--   Summarize major competitive products
--   Provide an analysis of pros/cons in features and in technical implementations
--   Document patterns used
--   Document principles
--   Explicitly state known constraints and risks
--   Describe value to the business
--   State existing standards and strategies which will guide the development of the architecture
+- Be suitable for communicating architecture to all interested parties.
+- Support the tasks of architecture creation, refinement, and validation.
+- Provide a basis for further implementation -- so it must be able to add information to the AD to enable the final system specification to be derived from the AD.
+- Provide the ability to represent most of the common architectural styles.
+- Support analytical capabilities or provide quick generating prototype implementations.
+- Provide Architecture vision and views
+  - **Conceptual Descriptions and Notations** -- Standard notations for representing architectural concepts that help promote mutual communication and understanding of high-level ideas, sketches and solution concepts.
+  - **Logical Descriptions and Notations** -- Notations and descriptions that promote the embodiment of early design decisions, and creation of a transferable abstraction of a system, comprised of components and connections among them.
+  - **Implementation Descriptions and Notations** -- Specific, concrete and implementation-ready descriptions of envisioned system that allow analysis, feasibility testing and implementation of architectural design decisions.
+- Summarize major competitive products
+- Provide an analysis of pros/cons in features and in technical implementations
+- Document patterns used
+- Document principles
+- Explicitly state known constraints and risks
+- Describe value to the business
+- State existing standards and strategies which will guide the development of the architecture
 
 # Corporate Best Practices
 
--   Adopt industry standards wherever possible -- the easy availability of tooling and training is a significant benefit.
--   When adopting a standard AD, resist the urge to customize too much in the early phases of the adoption. Early customization requests often come from poor understanding. Grow maturity before adapting a standard.
--   Establish and formalize your architecture review process early.
--   The contents of the AD must add value to some part of the solution process:
-    -   Balance the level of rigor required in your AD with the needs of your organization.
-    -   Consider varying the rigor of your AD with project complexity and risk.
--   Architecture Description should be developed by a single architect or a small cohesive team of architects to ensure that the vision is coherent & consistent.
--   Adapt to fit the needs of your organization -- Even when adopting AD & ADL standards organizations may need to adapt and modify to suit pre-existing architecture work, or to better support the way the particular organization operates.
--   Connecting with Stakeholders
-    -   The architecture will be more acceptable to a stakeholder if reflected from their view point.
-    -   Create different models and views for the same concepts to suit people in different roles, responsibilities, and background
+- Adopt industry standards wherever possible -- the easy availability of tooling and training is a significant benefit.
+- When adopting a standard AD, resist the urge to customize too much in the early phases of the adoption. Early customization requests often come from poor understanding. Grow maturity before adapting a standard.
+- Establish and formalize your architecture review process early.
+- The contents of the AD must add value to some part of the solution process:
+  - Balance the level of rigor required in your AD with the needs of your organization.
+  - Consider varying the rigor of your AD with project complexity and risk.
+- Architecture Description should be developed by a single architect or a small cohesive team of architects to ensure that the vision is coherent & consistent.
+- Adapt to fit the needs of your organization -- Even when adopting AD & ADL standards organizations may need to adapt and modify to suit pre-existing architecture work, or to better support the way the particular organization operates.
+- Connecting with Stakeholders
+  - The architecture will be more acceptable to a stakeholder if reflected from their view point.
+  - Create different models and views for the same concepts to suit people in different roles, responsibilities, and background
 
 # Sub-Components Skills
 
@@ -70,88 +69,102 @@ The AD should support the necessary views and perspectives needed to satisfy the
 An Architecture Description Language (ADL) is a notation for representing architectures with the purpose of capturing the output of the architecture design process, aiding communication with stakeholders and capturing a model of the system. ADLs can be formal or informal, and typically consist of "box and line" style diagrams although textual ADLs exist. For further information on ADLs see the Resources section at the end of this topic.
 
 | **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** |
+|:----------------------------:|:----------------------:|
+| **CITA- Foundation**         |                        |
 
--   Learner will be able to describe the audience for conceptual, logical, and implementation diagrams.
+- Learner will be able to describe the audience for conceptual, logical, and implementation diagrams.
+  
+  |
+  | **CITA -- Associate** |
 
- |
-| **CITA -- Associate** |
+- Learner will be able to explain the design flow from conceptual to implementation description of architecture artifacts.
 
--   Learner will be able to explain the design flow from conceptual to implementation description of architecture artifacts.
--   Learner will be able to explain how to transform collected architectural information and intents into viable models.
--   Learner will be able to depict functional requirements of the architecture.
--   Learner will be able to explain the vocabulary of their preferred Architecture Description Language (ADL).
+- Learner will be able to explain how to transform collected architectural information and intents into viable models.
 
- |
-| **CITA -- Specialist** |
+- Learner will be able to depict functional requirements of the architecture.
 
--   Learner will be able to compare interests of target audience for conceptual, logical and implementation descriptions of architecture.
--   Learner will be able to describe as-is and to-be architecture and how to notate the gaps.
--   Learner will be able to compare and contrast ADLs such as UML and ArchiMate (or an internal/corporate ADL).
+- Learner will be able to explain the vocabulary of their preferred Architecture Description Language (ADL).
+  
+  |
+  | **CITA -- Specialist** |
 
- |
-| **CITA -- Professional** |
+- Learner will be able to compare interests of target audience for conceptual, logical and implementation descriptions of architecture.
 
--   Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
--   Learner will be able to drive the introduction of new ADLs and AD processes, tools and techniques into the organization.
--   Learner will act as a mentor for the AD tools, processes and techniques.
--   Learner will speak publically and contribute to the development of AD processes & techniques and ADLs.
+- Learner will be able to describe as-is and to-be architecture and how to notate the gaps.
 
- |
+- Learner will be able to compare and contrast ADLs such as UML and ArchiMate (or an internal/corporate ADL).
+  
+  |
+  | **CITA -- Professional** |
+
+- Learner will be able to describe how to create/adopt effective architecture approaches, methodologies, or reference models.
+
+- Learner will be able to drive the introduction of new ADLs and AD processes, tools and techniques into the organization.
+
+- Learner will act as a mentor for the AD tools, processes and techniques.
+
+- Learner will speak publically and contribute to the development of AD processes & techniques and ADLs.
+  
+  |
 
 ## Architecture Tools & Techniques
 
 Architects will need to advise on the appropriate tools & techniques to support the development and management of Architecture Descriptions, and participate in their evaluation and selection. The architect will guide the project on the adoption of architecture tools and techniques, and provide assistance and mentoring to the team as required.
 
 | **Iasa Certification Level** | **Learning Objective** |
-| :-: | :-: |
-| **CITA- Foundation** |
+|:----------------------------:|:----------------------:|
+| **CITA- Foundation**         |                        |
 
--   Learner will be able to name the various types of tools and techniques used in the current organization and understand what they are used for.
--   Learner will be involved as an observer in project Architecture review to understand of the elements of an architecture review and their role in the process.
--   Learner will be able to understand and explain the Architecture Descriptions developed for projects within the organization.
+- Learner will be able to name the various types of tools and techniques used in the current organization and understand what they are used for.
 
- |
-| **CITA -- Associate** |
+- Learner will be involved as an observer in project Architecture review to understand of the elements of an architecture review and their role in the process.
 
--   Learner will be able to use a number of the tools and techniques
--   Learner will participate in project architecture reviews within the organization, and will understand the role of the architecture review in the organizations' governance processes.
+- Learner will be able to understand and explain the Architecture Descriptions developed for projects within the organization.
+  
+  |
+  | **CITA -- Associate** |
 
- |
-| **CITA -- Specialist** |
+- Learner will be able to use a number of the tools and techniques
 
--   Learner will be expert in a number of the tools and techniques, and be able to highlight the advantages and disadvantages of each.
--   Learner will lead the review of Architecture Descriptions for projects within the organization.
+- Learner will participate in project architecture reviews within the organization, and will understand the role of the architecture review in the organizations' governance processes.
+  
+  |
+  | **CITA -- Specialist** |
 
- |
-| **CITA -- Professional** |
+- Learner will be expert in a number of the tools and techniques, and be able to highlight the advantages and disadvantages of each.
 
--   Learner will be able to participate in the evaluation and selection of new tools and techniques into the organization.
--   Learner will mentor others in the development and review of Architecture Descriptions
--   Learner will be leading the definition of the architecture review process for Architecture Descriptions within the origination.
+- Learner will lead the review of Architecture Descriptions for projects within the organization.
+  
+  |
+  | **CITA -- Professional** |
 
- |
+- Learner will be able to participate in the evaluation and selection of new tools and techniques into the organization.
+
+- Learner will mentor others in the development and review of Architecture Descriptions
+
+- Learner will be leading the definition of the architecture review process for Architecture Descriptions within the origination.
+  
+  |
 
 # Related Capabilities
 
--   [Requirements Modeling](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-modeling/)
--   [Views and Viewpoints](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/views-and-viewpoints/)
--   [Design Patterns and Styles](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-patterns-and-styles/)
--   [Whole Systems Design](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/)
--   [Design Methods and Processes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-methods-and-processes/)
--   [Software Architecture Tools](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/software-architecture-tools/)
--   [Writing Skills](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/writing-skills/)
+- [Requirements Modeling](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/requirements-modeling/)
+- [Views and Viewpoints](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/views-and-viewpoints/)
+- [Design Patterns and Styles](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-patterns-and-styles/)
+- [Whole Systems Design](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/whole-system-design/)
+- [Design Methods and Processes](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/design-methods-and-processes/)
+- [Software Architecture Tools](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/software-architecture-tools/)
+- [Writing Skills](https://btabok.iasaglobal.org/btabok_3/capability-descriptions/writing-skills/)
 
 # Resources
 
 ## Architecture Description
 
--   ISO/IEC/IEE 42010 "Systems and software engineering -- Architecture description"\
-    (supersedes IEEE 1471) -- <https://standards.ieee.org/findstds/standard/42010-2011.html>
--   Architectural Blueprints -- The 4+1 View Model of Software Architecture -- <http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf>
--   Software Systems Architecture, Rozanski & Woods -- <http://www.viewpoints-and-perspectives.info>
--   Documenting Software Architectures -- Views and Beyond, Clements et. al. -- <http://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering/dp/0321552687>
+- ISO/IEC/IEE 42010 "Systems and software engineering -- Architecture description"\
+  (supersedes IEEE 1471) -- <https://standards.ieee.org/findstds/standard/42010-2011.html>
+- Architectural Blueprints -- The 4+1 View Model of Software Architecture -- <http://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf>
+- Software Systems Architecture, Rozanski & Woods -- <http://www.viewpoints-and-perspectives.info>
+- Documenting Software Architectures -- Views and Beyond, Clements et. al. -- <http://www.amazon.com/Documenting-Software-Architectures-Beyond-Engineering/dp/0321552687>
 
 ## Architecture Description Languages
 
@@ -159,21 +172,21 @@ Architects will need to advise on the appropriate tools & techniques to support 
 
 Architecture Description languages are still largely a research activity with only 2 languages really considered "mainstream", with UML an established and generally accepted "lingua franca" of software design, and ArchiMate being a recently emerging but widely supported ADL.
 
--   UML -- <http://www.uml.org>
--   ArchiMate -- <http://www.opengroup.org/subjectareas/enterprise/archimate>
+- UML -- <http://www.uml.org>
+- ArchiMate -- <http://www.opengroup.org/subjectareas/enterprise/archimate>
 
 ### Architecture Description Languages ("Experimental")
 
 There are a large number of less well known and less well supported ADL, including those below. When considering the selection of an ADL it is important to take into account the level of adoption and tool support available for that ADL. Unless you operate in a very specialized domain it is likely that one of the mainstream ADLs will meet your needs, in addition to having readily accessible training and tool support.
 
--   xADL -- <http://isr.uci.edu/projects/xarchuci/>
--   ACME / ADML (CMU/USC) -- <http://www-2.cs.cmu.edu/~acme/>
--   Rapide (Stanford) -- <http://complexevents.com/stanford/rapide/>
--   Wright(CMU) -- <http://www.cs.cmu.edu/~able/wright/>
--   Unicon (CMU) --
--   ByADL (Build Your ADL) -- University of L'Aquila -- <http://byadl.di.univaq.it/>
--   LePUS3 and Class-Z (University of Essex) -- <http://lepus.org.uk/>
--   ABACUS (UTS) -- <http://www.avolution.com.au/> 
+- xADL -- <http://isr.uci.edu/projects/xarchuci/>
+- ACME / ADML (CMU/USC) -- <http://www-2.cs.cmu.edu/~acme/>
+- Rapide (Stanford) -- <http://complexevents.com/stanford/rapide/>
+- Wright(CMU) -- <http://www.cs.cmu.edu/~able/wright/>
+- Unicon (CMU) --
+- ByADL (Build Your ADL) -- University of L'Aquila -- <http://byadl.di.univaq.it/>
+- LePUS3 and Class-Z (University of Essex) -- <http://lepus.org.uk/>
+- ABACUS (UTS) -- <http://www.avolution.com.au/> 
 
 # Author
 
