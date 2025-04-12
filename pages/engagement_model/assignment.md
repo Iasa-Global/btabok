@@ -128,7 +128,6 @@ As a part of the assignment, each architect should sit down with their partners 
 
 [![image001](media/agile_team_designer.svg)](https://iasa-global.github.io/btabok/agile_team_designer.html){:target="_blank"}
 
-
 ## Assignments by Across Specializations
 
 The larger the architecture practice the more likely there will be specialization within the team. Even small teams have this as architects are clearly aligned with particular depth areas such as business, software, information, or infrastructure. The goal of the assignment by specialization is to ensure that the team does not lose it's cohesion and connected value. If that can be maintained specialization brings a huge value to a growing team.
