@@ -1,0 +1,167 @@
+{
+    "canvas": {
+      "title": "ARS CARD",
+      "x": 0,
+      "y": 0,
+      "width": 943,
+      "height": 694,
+      "sections": [
+        {
+          "title": "ARCHITECTURALLY RELEAVANT STORY/EPIC:",
+          "content": "FOR <CUSTOMER> WHO <DOES SOMETHING> THE <SOLUTION> IS A <SOMETHING> THAT <PROVIDES VALUE> UNLIKE <THE COMPETITION, THE CURRENT SOLUTION>",
+          "x": 31,
+          "y": 71,
+          "width": 943,
+          "height": 84
+        },
+        {
+          "title": "SYSTEMIC IMPACTS:",
+          "content": "",
+          "x": 31,
+          "y": 171,
+          "width": 943,
+          "height": 83
+        },
+        {
+          "title": "ARCHITECTURE RELAVANCE:",
+          "content": "",
+          "x": 31,
+          "y": 264,
+          "width": 314,
+          "height": 216,
+          "sections": [
+            {
+              "title": "FINANCIAL",
+              "content": "no impact                                    significant impact",
+              "x": 57,
+              "y": 320,
+              "width": 306,
+              "height": 30
+            },
+            {
+              "title": "ROADMAP",
+              "content": "low                                                         high",
+              "x": 57,
+              "y": 355,
+              "width": 306,
+              "height": 30
+            },
+            {
+              "title": "QUALITY ATT",
+              "content": "low                                                         high",
+              "x": 57,
+              "y": 390,
+              "width": 306,
+              "height": 30
+            },
+            {
+              "title": "RISK",
+              "content": "low                                                         high",
+              "x": 57,
+              "y": 425,
+              "width": 306,
+              "height": 30
+            }
+          ]
+        },
+        {
+          "title": "ARCHITECTURE COMPLEXITY:",
+          "content": "",
+          "x": 315,
+          "y": 264,
+          "width": 629,
+          "height": 216,
+          "sections": [
+            {
+              "title": "COST",
+              "content": "no return                                       high return",
+              "x": 384,
+              "y": 320,
+              "width": 217,
+              "height": 30
+            },
+            {
+              "title": "PRINCIPLES",
+              "content": "complex                minor non-compliance                 microvariance                   major",
+              "x": 647,
+              "y": 320,
+              "width": 296,
+              "height": 30
+            },
+            {
+              "title": "LEGAL & COMP",
+              "content": "no impact                                    significant impact",
+              "x": 355,
+              "y": 355,
+              "width": 246,
+              "height": 30
+            },
+            {
+              "title": "SKILLS",
+              "content": "available                                                   unavailable",
+              "x": 662,
+              "y": 355,
+              "width": 281,
+              "height": 30
+            },
+            {
+              "title": "POLITICS",
+              "content": "low visibility                                     high visibility",
+              "x": 373,
+              "y": 390,
+              "width": 228,
+              "height": 30
+            },
+            {
+              "title": "DOABILITY",
+              "content": "doable                                                       impossible",
+              "x": 663,
+              "y": 390,
+              "width": 280,
+              "height": 30
+            },
+            {
+              "title": "CONSTRAINTS",
+              "content": "no constraints                                      constraints",
+              "x": 358,
+              "y": 425,
+              "width": 242,
+              "height": 30
+            },
+            {
+              "title": "other_________",
+              "content": "___________________________",
+              "x": 627,
+              "y": 425,
+              "width": 316,
+              "height": 30
+            }
+          ]
+        },
+        {
+          "title": "STRATEGY & PLAN:",
+          "content": "",
+          "x": 31,
+          "y": 495,
+          "width": 943,
+          "height": 77
+        },
+        {
+          "title": "BENEFITS MEASURES:",
+          "content": "",
+          "x": 31,
+          "y": 581,
+          "width": 483,
+          "height": 77
+        },
+        {
+          "title": "STAKEHOLDERS:",
+          "content": "",
+          "x": 483,
+          "y": 581,
+          "width": 491,
+          "height": 77
+        }
+      ]
+    }
+  }
