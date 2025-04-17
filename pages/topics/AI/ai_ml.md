@@ -51,3 +51,26 @@ Here are three reasons why AI is important:
 • **Enhanced Patient Care**: AI can improve patient outcomes by analyzing medical images, detecting anomalies, and alerting doctors to potential health issues earlier, allowing for more effective treatment and prevention of diseases.
 
 ***Note: These points highlight only a few examples of the many benefits AI brings to various industries and applications.
+
+
+#AI Architectures
+
+##Generative AI
+
+###Agentic AI
+
+####MCP (Model Context Protocol)
+
+**Problem Statement**
+Agentic AI allows for models to not only generate text for a client / end user, but to perform actions on their behalf with NLP as the input API. There are a variety of different actions that a client / end user may wish the agent to perform, and each action requires:
+
+> The model can communicate with the third-party system to perform the action
+> The model has sufficient authentication / authorization from the third-party system to act on behalf of the user
+
+**Technical Solution**
+MCP (Model Context Protocol) is an open source standard that was created by Perplexity in early 2025, and has gained industry-wide adoption, that allows for (A) authentication/authorization, (B) action discovery, and (C) action execution. Third-party services which wish to make their API functionality discoverable and actionable by an agent can implement the MCP Server to facilitate the communication to their internal systems.
+
+**Implications**
+Because agents are non-deterministic, some third-party services are hesitant adopt MCP without having full control over all possible ways that agents may interact with their systems. An API-first approach that has been so popular in the technical industry has led to a deterministic view of system functionality, so it is no surprise that the non-deterministic nature of API is met with some resistance.
+
+The other major criticism of MCP is that the authentication and authorization is distributed to each disparate system the agent needs to communicate with, rather than a centralized authority such as Microsoft Entra. Most large organizations only have a single IDP that all auth_n/auth_z requests must route through. This approach is still compatible with MCP if it is only used within an organization's walled garden, but this approach does not scale to the reality of all of the third-party systems that a user wants the agent to interact with. No organization is going to prevent the user from authenticating with a third-party service to perform a third-party action, simply because the organization has a centralized IDP but the action the user wants to perform isn't inside of the organization. MCP's decentralized nature embraces the inherently decentralized nature of Agentic AI.
