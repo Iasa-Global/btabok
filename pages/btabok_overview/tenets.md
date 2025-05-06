@@ -3,7 +3,7 @@ title: "Tenets"
 keywords: 
 sidebar: mydoc_sidebar
 toc: true
-permalink: contribution_with_git.html
+permalink: tenets.html
 folder: btabok_overview
 summary: "The tenets of the BTABoK."
 tags: 
