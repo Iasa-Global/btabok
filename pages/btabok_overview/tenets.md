@@ -18,7 +18,7 @@ The BTABoK tenets are the core principles and foundational beliefs that underpin
 ## Technology Agnostic
 
 The BTABoK relevance remains consistent regardless of the specific technology platforms, products, or vendors involved. By focusing on foundational principles rather than transient tools, the BTABoK ensures that architectural approaches remain adaptable, sustainable, and aligned with strategic business goals over time.
-!COMMENT This is good
+
 
 ## Open
 
