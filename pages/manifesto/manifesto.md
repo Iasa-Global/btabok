@@ -28,15 +28,18 @@ In addition, we have defined five specialties that build on this common core by 
 
 We believe:
 
-- The practice of business technology architecture is a profession with a unique and esoteric body of knowledge
-- Knowledge in a profession is attained by achieving mastery, through education and practice, of the of skills, concepts, and facts contained within the body of knowledge
+- The practice of business technology architecture is a profession with a unique and learnable body of knowledge
+- Knowledge in a profession is attained by achieving mastery, through education and practice, of the competencies, concepts, and topic areas contained within the body of knowledge
 - Mastery is proven through formal certification that consists of examination and peer review
 - A professional is ethically and legally responsible for the outcomes of their work
 
-We adopt the following principles:
+We adopt the following tenets:
 
 - Business technology architecture consists of a core set of competencies with additional competencies defined for each recognized specialty
 - Mastery of competence is a life-long process that requires continued education and practice
 - Specific technologies, architecture styles, architecture tools, and platforms are not competencies
-- A business technology architect is identified by what they know and do, not the title of their current job
-- There is a level of scope at which an architect cannot retain their proactive activities and become management
+- A business technology architect is identified by measurements of these competencies, their experience in achieving outcomes for their clients
+- The designation of architect and career achievement may only be granted by the professional measurement of competencies, not conferred by their employers/clients
+- No specialization may signficantly reduce the overall effectiveness of other specialization or the profession, thus specializations must be balanced with each other
+- It is the aim of any professional body of knowledge to create a career path for the entire profession
+- We use seniority and specialization based titles over scope based titles for architect careers 
