@@ -15,7 +15,7 @@ tags:
 
 The BTABoK tenets are the core principles and foundational beliefs that underpin and guide the Business Technology Body of Knowledge. They serve as the blueprint for its structure and evolution, providing a stable foundation upon which new knowledge and practices are built.
 
-## Technology Agnostic
+## Technology Agnostic ccb - maybe Technology neutral?
 
 The BTABoK relevance remains consistent regardless of the specific technology platforms, products, or vendors involved. By focusing on foundational principles rather than transient tools, the BTABoK ensures that architectural approaches remain adaptable, sustainable, and aligned with strategic business goals over time.
 
@@ -31,4 +31,12 @@ The BTABoK  is scalable and adaptable, making it relevant for organizations of a
 ## Reflects Business Needs
 
 The BTABoK remains highly relevant because it is grounded in the real-world needs and priorities of modern businesses. As organizations evolve in response to market demands, technological advancements, and operational challenges, the BTABoK  evolves alongside them. This ensures it stays aligned with current business realities, enabling architects to deliver value-driven solutions that are both practical and forward-looking.
+
+## Context Aware
+
+The BTABoK supports multiple contexts and provides guidance aligned with these different contexts. This includes system type, industry, size, risk and business criticality.
+
+## Continuous Leaning and Adaption
+
+Architecture is a discipline of perpetual learning. The BTABok should foster a culture of retrospection, share learnings from success and failure, and stay current with evolving practices and technologies.
 
