@@ -53,7 +53,7 @@ Key techniques include:
 
 ## Sustainable Data Principles
 
-[The first of many submissions for example principles. ](./sutainable_data_principles.md)
+[The first of many submissions for example principles. ](./sustainable_data_principles.md)
 
 ## Ensure alignment with value outcomes
 
