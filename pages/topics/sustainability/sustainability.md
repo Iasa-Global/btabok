@@ -11,61 +11,165 @@ tags:
   - sustainability
 ---
 
-*Note this is an initial stub / work in progress page. We are working to create a comprehensive architecture sustainability model.
+# Sustainability Architecture
 
-In the context of IT architecture, sustainability refers to the long-term viability and adaptability of an organization's technology infrastructure, considering both environmental and social impact. This encompasses the responsible management of resources, energy consumption, and waste reduction while maintaining a high level of performance and efficiency.
+---
 
-## Impact Areas
+> *This is a living document and anchor page for sustainable architecture within the BTABoK. It is intended as both a philosophical grounding and a practical guide to integrating sustainability deeply into architectural thinking, planning, and decision-making.*
+
+---
+
+## Introduction
+
+Sustainability in architecture is no longer a peripheral concern—it is foundational. Architects today face dual pressures: to deliver fast, scalable, cost-effective solutions, and to do so in a way that minimizes harm and maximizes benefit for society and the planet. As IT systems proliferate and digitization becomes ubiquitous, the consequences of architecture decisions ripple outward—across time, geographies, industries, and ecosystems.
+
+Sustainable architecture represents a deliberate design paradigm that emphasizes long-term viability, circular economy thinking, and the intelligent use of resources. It is deeply tied to both environmental stewardship and social responsibility, reflected in Environmental, Social, and Governance (ESG) frameworks and the United Nations’ Sustainable Development Goals (SDGs).
+
+This section of the BTABoK introduces architects to the competencies, canvases, tools, and thought frameworks necessary to design systems and organizations that are not only effective but ethically and environmentally conscious.
+
+---
+
+## BTABoK’s Role in Sustainable Architecture
+
+The **Business Technology Architecture Body of Knowledge (BTABoK)** is uniquely positioned to support sustainability by integrating sustainability considerations directly into architectural thinking. This is achieved through:
+
+- **Decision-Centric Thinking**: Every architectural decision becomes an opportunity to reduce harm and increase sustainability value. BTABoK decision records, principles, and canvases help track and justify sustainable choices.
+
+- **Competency-Based Development**: Architects must learn to advise stakeholders on trade-offs that include sustainability alongside cost, risk, and performance. BTABoK's competency models elevate sustainability to a first-class consideration.
+
+- **Holistic Engagement Models**: BTABoK encourages architects to influence business model design, culture, and governance—amplifying sustainability impact beyond IT.
+
+This framework supports sustainability across multiple architecture domains: business, information, application, infrastructure, security, integration, and operations.
+
+---
+
+## Engagement with Global Movements
+
+We align with global initiatives such as:
+
+- **[SustainableArchitectures.org](https://sustainablearchitectures.org/)**: A collaborative platform providing reference models, patterns, and metrics for sustainable architecture.
+
+- **[Green Software Foundation (GSF)](https://greensoftware.foundation/)**: Leading best practices for carbon-efficient software, measurement (SCI—Software Carbon Intensity), and green software engineering.
+
+- **Sustainable IT and ESG Reporting**: Tools and frameworks enabling architects to quantify impact, influence procurement, and drive operational excellence aligned with sustainability goals.
+
+These initiatives recognize architecture as a pivotal force in enabling and enforcing sustainability across systems and ecosystems.
+
+---
+
+## Key Impact Areas
+
+The following represents critical research and development areas of the BTABoK to provide both ready made examples and structured reasoning tools for architects of all types to enhance their engagement with sustainable techniques... we are designing a set of prototype canvases, cards and prefilled examples to use in your architecture program and to provide a mature sustainable architecture method. 
 
 ![iasa canvases](media/sustainable_canvases.jpg)
 
-In the sustainability program a number of changed practices are necessary for the default architecture practice. In addition there is a great deal of knowledge being generated about patterns and best practices. Below is the area 
+The Sustainable Impact Zones
 
-| Concepts                                                                 | Competencies | Canvases        |
-| ------------------------------------------------------------------------ | ------------ | --------------- |
-| [Patterns](../sustainability/patterns.md)                                |              |                 |
-| [Quality Attributes](../sustainability/sustainable_quality_attribute.md) |              |                 |
-| Decisions                                                                |              | Decision Record |
-| [Principles](../sustainability/sustainable_principle.md)                 |              | Principle Card  |
-| [Objectives](../sustainability/objectives.md)                            |              |                 |
-| Risk                                                                     |              |                 |
-| [Mindset](../sustainability/mindset.md)                                  |              |                 |
-|                                                                          |              |                 |
+The BTABoK is a complete set of techniques for running an architecture practice. Sustainability impacts a number of those areas deeply. 
 
-Sustainability in IT architecture is closely tied to Environmental, Social, and Governance (ESG) considerations. ESG aims to balance the triple bottom line of economic, social, and environmental performance by integrating sustainable practices into business operations and strategies. In the context of IT architecture, this means:
+Example:
 
-1. **Energy Efficiency**: Designing data centers with efficient power management systems to reduce energy consumption and carbon footprint.
-2. **Resource Management**: Implementing resource-sharing and virtualization techniques to optimize hardware utilization and minimize resource waste.
-3. **Waste Reduction**: Implementing recycling programs for used or obsolete equipment and reducing electronic waste production.
-4. **Supply Chain Transparency**: Ensuring fair labor practices and ethical supply chain management to promote social responsibility.
+Sustainable Principles: Click Here for a Fully Worked Sustainable Principles Article as well as example Data Principles 
 
-The United Nations' Sustainable Development Goals (SDGs) also play a significant role in shaping the future of sustainability in IT architecture. The 17 SDGs aim to address global challenges, such as climate change, inequality, and access to education and healthcare, through collaborative efforts and policy changes.
+| BTABoK Concepts                          | Competencies        | Canvases            |
+| ---------------------------------------- | ------------------- | ------------------- |
+| Patterns                                 | Sustainable Design  | Pattern Library     |
+| Quality Attributes                       | Systems Thinking    | Quality Trade-offs  |
+| Decisions                                | Decision Leadership | Decision Record     |
+| [Principles](./sustainable_principle.md) | Value Translation   | Principle Card      |
+| Objectives                               | Strategic Alignment | Objective Mapping   |
+| Risk                                     | Risk Management     | Risk Ledger         |
+| Mindset                                  | Change Enablement   | Sustainability Lens |
 
-By incorporating sustainability principles into IT architecture, organizations can create more resilient, adaptable, and environmentally conscious infrastructure, ultimately contributing to a more sustainable future for our planet.
+---
 
-The decisions every organisation makes  have a future impact and often have implications beyond their organisation. The first step is raise awareness of the need to consider sustainability issues in architecture and design processes so they can be considered alongside typical considerations of business impact, quality, cost & compliance. Architects should consider what environmental debt has their organisation (and potentially the wider ecosystem they operate in) built up that now needs to be addressed systematically? How do we advise our stakeholder to build more sustainable systems and architectures to avoid these issues?
+## Themes in Sustainable Architecture
 
-Conscious, sustainable business is no longer a nice to have - consumers and business customers, employees, stakeholders and investors want to do work with organisations that (pragmatically) do the right thing.   
+### 1. **Minimizing Environmental Footprint**
 
-Architects have a challenge to pragmatically navigate a way that allows their organisations to adapt - and continue to be adaptable, whilst ensuring that the way forward aligns with being a sustainable organisation that builds towards the much needed more positive society of tomorrow.
+- Embed the Software Carbon Intensity (SCI) metric into DevOps and CI/CD pipelines.
 
-Whilst very important topics this goes beyond climate change and sustainability - there are a whole spectrum of Sustainable Development Goals and quality attributes that organisations need to consider including:
+- Reduce cloud waste through intelligent auto-scaling, efficient code, and data lifecycle management.
 
-- Climate change & impacts on food production and health
-- Sustainability, biodiversity & protecting ecosystems
-- Diversity, the increasing digital divide & social inclusion
-- Cybersecurity & privacy
-- Responsible consumption and production (of energy and products/services)
+- Select green cloud providers that publish carbon transparency reports.
 
-You shouldn't just think of this as someone else’s problem - don't just try and outsource it. I.e. How does your supply chain and extended enterprise / business ecosystem tackle these challenges? What is your total footprint?
+### 2. **Organizational Sustainability**
 
-Architects are responsible for advising organisations on business and technology choices. The Architecture of tomorrow ideally  to be compatible with the triple bottom line of social and environmental concerns as well as profits. Architects therefore need to consider the wider impacts of their recommendations and choices (and make decision-makers aware of them).
+- Promote adaptive business architectures that respond to environmental risks and supply chain disruption.
 
-Whilst sustainable architecture choices apply across the layers of architecture it can be helpful to break them into 2 categories:
+- Architect for longevity: systems that can be adapted, re-used, or repurposed.
 
-1. **Organisational Sustainability** (influenced by business architecture and leveraging technologies to make the organisation more sustainable)
-2. **Technology Sustainability** (i.e. what is the footprint of your systems and technology)
+- Foster inclusive digital experiences and equity of access.
 
-Whilst all organisations should strive to consider both of these areas; the sector of your organisation, the regulatory compliance regime you operate under and leadership priorities will likely influence whether you focus on Organisational or Technology sustainability. For example, if your organisation operates in (or uses a lot of suppliers from) an energy-intensive or industrial sector focusing on Organisational Sustainability is likely to have the greatest impact. However, if your organisation operates in the technology, finance, or knowledge work/services sectors then your technology might have the greatest impact, and that should be prioritized.
+### 3. **Social and Ethical Responsibility**
+
+- Design for digital inclusion—accessibility, localization, affordability.
+
+- Implement responsible AI and data governance practices.
+
+- Encourage sustainable procurement policies in architecture choices.
+
+### 4. **Systemic Thinking and Life-Cycle Awareness**
+
+- Apply circular economy thinking: How can we extend the lifecycle of systems, components, and data?
+
+- Use service-oriented and modular design to decouple and incrementally evolve capabilities.
+
+- Decommission and sunset legacy systems responsibly.
+
+---
+
+## The Sustainable Architect’s Mindset
+
+Architects must go beyond compliance checklists. Sustainability requires a **mindset shift**—from short-term optimization to long-term responsibility, from siloed decisions to ecosystem awareness.
+
+Ask:
+
+- What environmental debt does our architecture incur?
+
+- How do we embed sustainability into every layer—data, integration, security, operations?
+
+- Can we justify a decision’s impact over a 10–20 year horizon?
+
+Architects are now stewards of digital ecosystems. Their role is not just to design functional systems, but systems that preserve resources, protect rights, and promote equity.
+
+---
+
+## Areas of Focus: Organizational vs. Technological Sustainability
+
+| Focus Area         | Description                                                                                                                 |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| **Organizational** | How the business operates, sources, delivers, and governs for sustainability. Includes business models, ESG, and reporting. |
+| **Technological**  | The direct impact of digital systems—power usage, emissions, scalability, design practices, and supply chain footprint.     |
+
+**BTABoK helps architects assess both lenses**, recognizing the balance depends on context: regulatory environment, sector intensity, digital maturity, and leadership culture.
+
+---
+
+## Next Steps
+
+Sustainable architecture is not a static goal—it is a continuous capability. Through the BTABoK, we aim to:
+
+- Build maturity models to assess sustainability readiness.
+
+- Curate principles and patterns based on successful implementations.
+
+- Integrate sustainability deeply into training, certifications, and architecture reviews.
+
+### Further Reading:
+
+- SustainableArchitectures.org Reference Model
+
+- [Green Software Foundation Principles](https://greensoftware.foundation)
+
+- [BTABoK: Principles](../sustainability/sustainable_principle.md)
+
+- [BTABoK: Patterns](../sustainability/patterns.md)
+
+---
+
+## Final Thought
+
+We are at an inflection point. The digital systems we architect today shape the world of tomorrow. Sustainability is no longer optional—it is essential. The BTABoK exists to help architects rise to that challenge: not just to build systems, but to build futures.
 
 ## 

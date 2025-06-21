@@ -13,6 +13,8 @@ tags:
 
 ## **Data Management Principles**
 
+![Sample Principle Card](./media/sample_principle_card.png)
+
 ### REFLECT
 
 *Consider the purpose, quality, and impact of data usage—ensuring it aligns with ethical, sustainable, and organizational commitments.*
@@ -320,8 +322,6 @@ for use across the data lifecycle.
 |                                                                        | Align data models with business intent and analytical use cases              | Ensures relevancy and avoids unused or redundant fields    | Reduces data bloat and simplifies analytics               |
 |                                                                        | Embed quality KPIs (accuracy %, completeness %, etc.) in dashboards          | Surfaces issues early in the data lifecycle                | Drives continuous improvement and accountability          |
 |                                                                        | Design interfaces that highlight stale or low-quality data                   | Promotes user awareness of data reliability                | Avoids erroneous actions based on bad data                |
-
-
 
 ---
 
