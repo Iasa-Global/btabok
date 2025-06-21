@@ -3,7 +3,7 @@ title: "Sustainability Data Principles"
 keywords: Sustainability Data Principles
 sidebar: mydoc_sidebar
 toc: true
-permalink: sustainability_data_principles.html
+permalink: sustainable_data_principles.html
 folder: engagement_model
 summary: "Sustainable architecture is evolving to meet increasing stakeholder demands and accompanying advances in information technology."
 tags: 
