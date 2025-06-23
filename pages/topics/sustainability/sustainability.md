@@ -57,11 +57,17 @@ These initiatives recognize architecture as a pivotal force in enabling and enfo
 
 ---
 
-## Key Impact Areas
+## Key Research Areas
 
 The following represents critical research and development areas of the BTABoK to provide both ready made examples and structured reasoning tools for architects of all types to enhance their engagement with sustainable techniques... we are designing a set of prototype canvases, cards and prefilled examples to use in your architecture program and to provide a mature sustainable architecture method. 
 
-![iasa canvases](media/sustainable_canvases.jpg)
+| Research and Contribution Groups | Description                                                                                                                                          | Primary Contributions                                                                                                |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Strategy and Governance          | The strategy and governance group is working to align the strategic elements of architecture contributions to green/sustainable outcomes.            | Sustainble/ESG principles, alignment and objectives, business strategy impacts, value                                |
+| Risk, Compliance and Security    | The group is dedicated to uncovering usable and replicable techniques to ensure sustainable outcomes against international standards.                | Risk analysis mehthods, compliance framework rankings, security design patterns                                      |
+| Solution Architecture            | The bottom up design and construction of modern software systems maximizing the utilization of sustainable software, cloud and data techniques.      | Solution Design and Patterns, Priniples, Reference Models                                                            |
+| Infrastructure Architecture      | The application of sustainable outcomes to modify infrastructure reference models and outcomes.                                                      | Infrastructure design techniques, cloud, engergy consumption and usage, data center design                           |
+| Data and Responsible AI          | The aligned use of data with sustainable patterns and to enhance sustainbable objectives. This group works most closely with the AI research groups. | Partnering with AI architectures group, data structures, ontologies and advanced information architecture techniques |
 
 The Sustainable Impact Zones
 
