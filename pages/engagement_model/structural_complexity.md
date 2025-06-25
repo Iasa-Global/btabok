@@ -11,8 +11,8 @@ tags:
 ---
 
 > "Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it."
-**Alan Perlis**
- 
+> **Alan Perlis**
+
 # Complexity definition
 
 Many ideas exist on the definition of complexity. We find 'Complex' is defined in Cynefin, a framework created by Dave Snowden based on his works. Complex can also be found within VUCA, used by the US war college and created by Warren Bennis and Burt Nanus.

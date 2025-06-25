@@ -1,5 +1,4 @@
 ---
-
 title: Manifesto
 tags: [business_model]
 keywords:
@@ -28,7 +27,7 @@ In addition, we have defined five specialties that build on this common core by 
 
 We believe:
 
-- The practice of business technology architecture is a profession with a unique and esoteric body of knowledge
+- The practice of business technology architecture is a profession with a unique  body of knowledge
 - Knowledge in a profession is attained by achieving mastery, through education and practice, of the of skills, concepts, and facts contained within the body of knowledge
 - Mastery is proven through formal certification that consists of examination and peer review
 - A professional is ethically and legally responsible for the outcomes of their work
