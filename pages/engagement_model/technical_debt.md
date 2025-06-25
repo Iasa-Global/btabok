@@ -1,4 +1,4 @@
-```
+---
 title: "Technical Debt"
 keywords: 
 sidebar: mydoc_sidebar
@@ -12,7 +12,7 @@ authors:
     role: "Primary Author"
   - name: "Gunnar Menzel"
     role: "Supporting Author"
-```
+---
 
 >   "It's OK to borrow against the future, as long as you pay it off." **Ward Cunningham**
 
