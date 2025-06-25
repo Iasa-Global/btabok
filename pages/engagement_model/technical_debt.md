@@ -267,7 +267,7 @@ Calculating the cost of unplanned outages requires dealing with assumptions, dir
 4.  **Intangible Cost**: Reputation damage and customer trust erosion
 5.  **Opportunity Cost**: Missed business opportunities
 
-![Outage Cost](media/outage_cost.png)
+![Outage Cost](./media/costofoutage.png)
 
 While direct financial, productivity, and recovery costs are relatively straightforward to calculate, estimating intangible and opportunity costs requires more sophisticated modeling based on customer behavior, market conditions, and competitive landscape.
 
