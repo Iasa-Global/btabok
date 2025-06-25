@@ -6,12 +6,8 @@ toc: true
 permalink: technical_debt.html
 folder: engagement_model
 summary: "The term was first used by Ward Cunningham, one of the authors of the Agile Manifesto, who said that some problems with code are like financial debt."
-tags:   - value_model
-authors:
-  - name: "Chris Cooper-Bland"
-    role: "Primary Author"
-  - name: "Gunnar Menzel"
-    role: "Supporting Author"
+tags:   
+  - operating_model
 ---
 
 >   "It's OK to borrow against the future, as long as you pay it off." **Ward Cunningham**
