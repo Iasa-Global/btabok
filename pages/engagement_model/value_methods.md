@@ -133,6 +133,8 @@ This is value framing at the component level—making the case for investment no
 
 Each of the six value categories is both a lens and a method space. Below, we detail what each category entails, what techniques are associated with it, and how architects apply them in practice.
 
+![Value Categories](media/value_categories.png)
+
 ### 1. Financial Value
 
 **Definition**: The measurable impact resulting from an architectural decision or investment. This includes revenue generation, cost reduction, cost avoidance, and productivity gains that translate into financial outcomes. More advanced methods begin to approach financial modeling in other capital or IP rich investments. 
