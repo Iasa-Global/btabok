@@ -5,393 +5,621 @@ sidebar: mydoc_sidebar
 toc: true
 permalink: value_methods.html
 folder: engagement_model
-summary: "From a business perspective, Architecture is in many cases not seen as contributing to the creation of value."
+summary: "Value Methods provides architects with structured approaches to identifying, measuring, and predicting value in technology investment, aligned with the six BTABoK value categories."
 tags: 
   - value_model
 ---
 
 # Value Methods
 
-As the practice improves [competencies](../competency_model/competency_model_m.md){:target="_blank"} at describing value in order to get projects funded, it can provide measurement tooling so the operations team can capture evidence based on metrics and can capture additional evidence over time. Once done, it provides the CxO the information they need to provide evidence of business impact delivered through technology. Through effort, this can over time or sometimes quickly shift attitudes about architecture and allow earlier access in the lifecycle which can be leveraged to create even greater impact.
+Architects are not mere stewards of technology—they are creators of the future. Like their counterparts in building architecture, they use structured design, applied science, and human insight to shape environments that unlock potential. In the digital world, architects innovate with code, systems, and ecosystems. They define the frameworks through which value emerges.
 
-But what about business functions that are perceived to have no direct relationship to value creation?
+Their craft is not limited to systems diagrams or governance meetings. Architects deeply understand how businesses are structured—how money flows, where capabilities exist, and how decisions ripple through an organization. In the modern enterprise, every business outcome is enabled—or constrained—by technology. That means architects do not just influence outcomes; they shape the pathways to achieving them.
 
-From a business perspective, Architecture is in many cases not seen as contributing to the creation of value. In fact, it is frequently viewed as a drag on value creation. A value sinkhole, or cost center, potentially even one that slows time to value.
+Understanding financial models, market forces, experience design, and operational flows is essential. Architects are artists, scientists, and strategists—building the future through measurable impact.
 
-This has several causes. Among them are some architects' penchant for philosophical 'ivory tower' thinking, various overzealous attempts at governance and control that slows product development, the perceived lack of actionable Architecture work products, overreliance on complex frameworks and models and what often appears to be no quantifiable ROI. In short, the business often believes Architecture costs too much, takes too long, delivers nothing tangibly useful and interferes with activities that do (e.g. Product Development). 
+Yet too often, the architecture discipline is treated as a background utility. This misunderstanding stems not from a lack of impact, but a lack of clear articulation. That’s where value methods come in.
 
-The reality is that Architecture is not a business function and doesn't show up as a plus or minus in the value equation. It is a *discipline* that impacts how well each of the business functions that create value are performed. Bad application architecture results in bad Development outcomes which impacts the value of the product or service delivered. No one wants to buy bad products. Revenue isn't what it could have been. Better Architecture would have increased the quality of the product. Better products leads to increased revenue. With this as the lens, Architecture is revealed to be directly tied to delivery of value.
+This article defines and operationalizes *value methods*—techniques for understanding, measuring, and predicting value in technology investment. These are the tools architects use not only to justify their work but to shape, scale, and evolve the value landscape of the enterprise.
 
-Architecture as a business discipline creates value. And this holds true whether it is Enterprise Architecture, Business Architecture, Software Architecture, Information Architecture, Integration Architecture, Infrastructure Architecture, Security Architecture, or any other form of Architecture. Wherever the Architect is practicing his or her craft, the chances that value will be realized go up. Way up.
+> **Note**: This article merges and extends the original BTABoK Value Methods article with a deeper explanation of each method, more industry references, and clearer examples of application.
 
-# Why Are Value Methods Important to Architects
+## Definitions
 
-*Because everyone wants better business and technology outcomes.*
+Before we explore categories and methods, it’s important to define what we mean by "value" and other key terms:
 
-The reality is that stronger Architecture results in better outcomes. It is therefore incumbent upon Architects to understand how to identify, measure and articulate the value they provide that ultimately drive better outcomes.
+- **Value** – The measurable benefit realized from a change or investment, relative to its cost and risk. Value may be financial (revenue), operational (efficiency), experiential (user satisfaction), or social (public good).
 
-One cannot measure what has not been defined. Therefore, begin with defining the value an Architect brings to the table.
+- **Value Method** – A structured technique for identifying, quantifying, or validating value. Examples include ROI, Net Present Value, and Time-to-Value.
 
-As mentioned earlier, an Architect's value is related to the rigor or discipline that their activities impart to the effort in question. It isn't as simple as saying "A logical architecture is worth $5K of value," however, it is possible to look at the activities performed by the Architect to help get to an answer.
+- **Outcome** – A defined result of a change or effort, often expressed as a measurable objective or key result.
 
-**What are the architects activities?**
+- **Architectural Contribution** – The specific impact that architectural work has on an outcome (e.g. reducing rework, enabling reuse, clarifying options).
 
-Depending on the context, the business function, and the company in question, an Architect may be performing many different tasks. They may not all be related to the Value Story, but at the highest level we can say that an Architect's activities and work products seek to improve the overall performance of a function. These activities are performed in some fashion and in varying degrees by all types of Architects and can be bundled into several key meta-activities:
+## A Real-World Framing: "Tinkleman"
 
-1.  Describe the Context of the Change
-    -   Why is change needed in this context?
-    -   What is happening in the market/business/program/application that is driving this change?
-    -   What does this change affect?
-2.  Define the Improvement
-    -   What is being changed?
-    -   What does the current state look like?
-    -   What will the target state look like? (i.e. How will it be changed?)
-3.  Collect the Data
-    -   What will it take to make the change?
-    -   What are the costs (financial, performance, quality, resources, time, functionality)?
-    -   What are the benefits (same possible aspects as above)?
-4.  Perform the Analyses
-    -   How well do the proposed changes meet the need? (i.e. What will success look like?)
-    -   Are there alternative options for making the change?
-    -   What are the costs vs. benefits over time?
-    -   What are the associated risks of making or not making the change?
-5.  Report the Results
-    -   How will this change be explained to stakeholders?
-    -   What does this change tell us about other changes? (i.e. What is being learned?)
-    -   Is this change actually achieving the desired outcome?
+Imagine the fictional company Tinkleman, a specialty coffee roaster expanding through a franchise model. They are considering whether to invest in a custom franchise management platform or purchase and customize an off-the-shelf (COTS) solution.
 
-In the development of an engagement model these activities are called 'The Red Thread' and are included in the Design Traceability as well as [Business Technology Strategy](strategy.md){:target="_blank"} competencies.
+As the architect, your role is to lead value discovery: What is the right path to achieve stakeholder outcomes with the highest overall value?
 
-f these activities are not performed, or not performed well, the overall effort in question will suffer and expected benefit may not be realized. The Architect delivers value by executing these activities themselves (e.g. developing solution architecture) or ensuring that someone else executes them according to a standard (e.g. [governance](governance_em.md){:target="_blank"}, [analysis](analysis.md){:target="_blank"} and [extended team](extended_team.md){:target="_blank"}.
+You apply a method: a side-by-side cost-benefit and strategic alignment analysis. Over two weeks, you:
 
-If the Architect performing these activities results in better outcomes, but there isn't a measure for how much each activity is worth to the effort in dollars, how is value defined?
+- Identify six ecosystem integration risks of the COTS option.
+- Forecast a 14-month breakeven on a custom build with 20% reduced cost of ownership.
+- Model the reuse of three core APIs in future digital services.
+- Surface a brand protection KPI aligned to stakeholder goals.
 
-**What is it Worth?**
+The resulting narrative—"value through speed, control, and future growth"—drives consensus. This is value methods in practice.
 
-The word 'value' itself has some problems in this context. The main issue is that value can be extremely subjective. What is of value to one Director of Application Development may not be of value to a Senior Manager of Risk and Compliance both [stakeholders](stakeholders.md){:target="_blank"} then have differing perspective on value for initiatives.
+## Why Value Methods Matter
 
-[![image001](media/v_m001.png)](https://iasa-global.github.io/btabok/stakeholder_initiative_canva.html){:target="_blank"}
+Architecture efforts often compete with delivery teams for budget, attention, and strategic trust. Too often, architecture is seen as abstract or indirect—a “soft” function whose value is difficult to quantify. This perception weakens influence, limits early involvement, and invites cutbacks in constrained environments.
 
-For this reason, architects need to be looking at outcomes when we are defining value. Outcomes in the BTABoK are defined using objectives. Acceptable or expected outcomes of an effort will be core to the effort, defined up front, and will provide the standard against which to measure for value.
+**Value Methods directly counter this by equipping architects with ways to define, measure, and demonstrate outcomes in business terms.**
 
-To apply a formula to the Architect and their activities, the outcomes reflect the result of the effort in question as a measure against the cost of that effort against the time to achieve that effort. In effect, value is defined as follows:
+They shift the architect's role from technical expert to *decision enabler*—someone who ensures investments go to the right things, at the right time, in the right way.
 
-**Value Aspect**
+### Common Challenges Architects Face Without Value Methods
 
-**Attributes**
+- Decisions made purely on urgency or intuition
 
-Did we do what we said we'd do?
+- Projects launched without measurable objectives
 
--   What were the expectations (OKRs, KPIs) for the effort?
--   Were they achieved, not achieved, exceeded?
--   Are they quantitative or qualitative in nature?
--   KPI's may reflect a level of quality, performance, growth, reduction, be denominated in dollars, time, people... in effect KPIs and OKRs are complicated
+- Architecture bypassed in favor of “just building something”
 
-What did it cost?
+- Governance treated as a bottleneck rather than a value check
 
--   Costs incurred delivering the change 
--   Costs required to operate and maintain the change 
--   New costs resulting from the change 
--   Hidden costs (brand, morale, reputation, etc.) 
--   Costs include hardware and software, people, office space,  other overhead costs (electricity), OpEx, CapEx... this is where understanding the fundamentals of valuation are so necessary for Architects
+- Difficulty influencing strategic planning or roadmaps
 
-How long did it take?
+### What Value Methods Enable
 
--   Time to deliver versus the expectation laid out as part of the KPIs 
--   The impact of being behind or ahead of schedule (for the entire effort, for just a phase of the effort) 
--   Must include all lifecycle phases (e.g. Plan -- Build -- Deploy) 
+Each of the five architect roles defined by the BTABoK leverages value methods in distinct ways to influence technology investment and business outcomes:
 
-Each of these components of value will have differing units of measurement associated with them depending on the context.
+- **Business Architects** use value methods to connect business models, capabilities, and strategies to quantifiable outcomes. They often lead the framing of business cases and ensure technology initiatives align with strategic objectives.
 
-But this definition of "Value" is for the value of entire effort and doesn't reflect any individual role's part in delivering that value. How do we represent what part the Architect is playing for each Value Aspect? How does the Architect is contribute to the overall delivery of Value?
+- **Information Architects** apply value models to define the impact of data quality, accessibility, and security on business operations. Their metrics include risk avoidance, compliance costs, and information reuse.
 
-**Value Aspect**
+- **Software Architects** use value methods to evaluate trade-offs in design, performance, and scalability. They contribute through cost/benefit analysis of different solution approaches and by accelerating time-to-value through reuse and automation.
 
-**What is the Architect Contributing?**
+- **Infrastructure Architects** focus on reliability, scalability, and operational efficiency. Their use of value methods often centers on TCO models, cost reduction, and enabling agility through platform investments.
 
-Did we do what we said we'd do? 
+- **Solution Architects** integrate inputs from all domains and are responsible for ensuring that individual project efforts deliver intended outcomes. They frequently apply ROI, IRR, and risk models to guide delivery teams and stakeholders.
 
--   Create and/or Review Business Case 
--   Manage and Prioritize Initiative Portfolio [Investment Prioritization](investment_planning.md){:target="_blank"} 
--   Risk/Compliance Analyses and Assessments 
--   Capture and Analyze Architecturally Significant Requirements 
--   Reference Architectures: Master, Context, Product-Specific 
--   Specialists in the Architecture Practice: Solution, Security, Data, Integration, etc. 
--   Capability Models [Business Capabilities](business_capabilities.md){:target="_blank"}, Technical Services) 
--   Standards and Frameworks [Principles](principles.md){:target="_blank"} 
--   Define and Articulate Solution Options [Decisions](decisions.md){:target="_blank"} 
--   [Objectives](objectives.md){:target="_blank"} (Key Performance Indicators / Success Metrics) 
--   [Stakeholder](stakeholders.md){:target="_blank"} Alignment 
+Together, these roles form a value-aware practice—one that connects architectural insight to measurable impact. Rather than simply responding to business initiatives, architects help initiate, frame, and shape them based on evidence of value.
 
-What did it cost? 
+Value methods empower architects to engage early, aligning technical options with strategic goals. They provide a structured basis for prioritizing initiatives not just by urgency or preference, but by expected return, mission alignment, or speed to value. Trade-offs become transparent: different architectural paths can be evaluated based on the outcomes they enable or constrain.
 
--   Cost/Benefit Definition and Data Collection 
--   Cost-Benefit Analyses 
--   Standards and Frameworks (For Financial Analyses) 
--   Workforce Management Analyses 
--   Budgeting 
--   Financial Management and Reporting 
+And because value is measured across time—not just at the start—architecture’s role can be continuously validated. Each touchpoint with delivery, governance, and stakeholders becomes an opportunity to reaffirm architecture’s contribution to results.
 
-How long did it take? 
+###### A Short Example
 
--   [Roadmaps](roadmap.md){:target="_blank"} 
--   Sequencing and Prioritization  
--   [Governance](governance_em.md){:target="_blank"} (Reviews, Toll-Gates) 
--   [Stakeholder](stakeholders.md){:target="_blank"} Communication 
--   Engagement Models 
+At a regional health provider, an architecture team was asked to validate a new appointment scheduling tool. Rather than evaluate features alone, they modeled:
 
-The Architect doesn't deliver value simply by drawing a Technical Services Model for the SuperWidget product. After all, if it were a bad or confusing or incomplete diagram it wouldn't be viewed as adding value but probably the opposite. The value is not in the drawing itself but in the information that it captures, the manner in which it codifies that information and the clarity with which it conveys it to [stakeholders](stakeholders.md){:target="_blank"}.
+- Cost to implement
 
-It is the quality of the work product delivered (or activity performed) by the Architect that determines the degree of Value they contribute to the overall effort. It is these work products, or activities, that capture, codify and convey that help determine the overall outcomes. The better these are, the more positive the outcome, the more Value delivered.
+- Cost of current inefficiencies (no-shows, staff churn)
 
-Which begs the question, how does one measure that?
+- Benefits of faster turnaround and reduced call center load
 
-# The Four Most Common Methods
+They found the savings from reduced call volume alone exceeded implementation costs within 9 months.
 
-The purpose of measuring value is to help make decisions on whether to invest or not and once executed, to determine if that investment is realizing the expected benefits. As a result, value measurements may require some hard work, math, and plenty of analysis. Measuring value can sometimes have limits where the return on investment is non-financial or where it merely enables some other value-producing effort. For example, to measure the Value of the SuperWidget to the company, we may be looking at any of the following:
+**The result**: The proposal moved from low priority to executive-backed—and architecture was given further ownership of integration and patient-facing services.
 
--   Improved Customer Satisfaction
--   Reduced Production Incidents
--   Improved Adherence to Regulatory and Compliance Standards
--   Protection of the Company Brand
--   Increased Revenue
+### A Technical Project Example
 
-And there could be others. This points to the importance of ongoing assessments of outcomes delivered, which are measured against a baseline, and they value they provide not just at the end of an initiative, but on a continuous basis. Given their skillset and typical presence across many domains of business technology, Architects are well-positioned to perform this valuation work.
+At a financial services company, a **Software Architect** working on a digital onboarding platform was tasked with evaluating the performance and maintainability of a customer identity verification service. The service had grown organically and had accumulated high coupling and duplicated logic across its validation and exception handling layers.
 
-In order to measure the value of an Architect's contributions they are often stuck trying to determine whether or not the work-products produced, or activities performed by the Architect were 'good' and therefore contributed to successful outcomes. As this can become subjective, a useful proxy can be found by looking at the [lifecycle](architecture_lifecycle.md){:target="_blank"} of work in which the Architect is engaged and objectively measuring one or more of the following key attributes:
+Using value methods at the component level, the architect conducted the following analyses:
 
-1.  the **Quality** of the output
-2.  the **Cost** of delivery
-3.  the **Revenue** realized
-4.  the T**imeliness** of the effort.
+- **Technical debt scoring**: By using a maintainability index and estimated rework cost, they quantified the effort required to untangle the logic and enforce single-responsibility across three modules.
 
-## Quality
+- **Service invocation profiling**: Analysis of production logs revealed that 78% of error conditions were routed through one shared module with a 600ms delay. The team modeled the impact of refactoring to reduce median response time by 180ms.
 
-Measuring Value by assessing quality of what has been delivered is useful across many delivery scenarios. In addition, it is especially useful in cases where risk and compliance, security and privacy or even simple customer experience issues are paramount. Did quality improve? If so, by how much?
+- **Time-to-value projection**: By creating a simulation using current regression fix cycles, they predicted a 25% acceleration in bug resolution during integration testing—saving an estimated 70 hours per quarter.
 
-Quality as a Value metric can be measured objectively in several ways:
+The architect packaged this analysis into a short presentation with pre- and post-refactor graphs, and included a simple ROI calculator. Though the task was scoped as a minor code improvement, the business stakeholders greenlit it as a priority because of the measurable time savings and downstream impact on customer onboarding SLAs.
 
-1.  Production Incidents Over Time
+This is value framing at the component level—making the case for investment not just based on code elegance or intuition, but measurable business impact.
 
-![image001](media/v_m002.png)
+- Communicating value in business terms
 
-1.  User or Customer Sentiment
+- Justifying architecture engagement
 
-![image001](media/v_m003.png)
+- Guiding trade-offs and prioritization
 
-1.  Speed of Delivery and "Doneness" of Requirements\
-    In most development environments, especially those using Agile delivery, new iterations of applications are rapidly released to users. Rate of delivery is an important quality metric due to the fact that new releases typically contain fixes or enhancements to address user needs or wants. A higher frequency of releases that are delivered to the user should results in higher user satisfaction and better application quality.
+- Measuring what works—and what doesn’t
 
-    This can be measured quantitatively in several ways:
+## The Six BTABoK Value Categories (Expanded)
 
-    1.  Number of releases -- This is the basic count of how frequently new features are delivered to users.
-    2.  Agile stories which are "done" in a certain time period -- Counting the number of "stories," or user requirements, which are actually shipped to the user, provides a more granular measure of the rate of delivery and thus quality.
-    3.  User consumption of releases -- For example, measuring the number of users who download or install a new patch or software update.
-2.  Exemption and Tollgate Pass Ratio\
-    The rate at which applications progress through the Software Development Lifecycle is often controlled by quality checks at specific points in the process. These tollgates exist to prevent poor quality applications or applications that may generate incidents from moving into production as-is.
+Each of the six value categories is both a lens and a method space. Below, we detail what each category entails, what techniques are associated with it, and how architects apply them in practice.
 
-    Assessing the number of times an application passes each of these reviews versus how many times it fails that check is a metric that can be used to describe quality. While the raw score lacks context (i.e. why did it fail the check?), it is a measurable and comparable metric. In addition the number of exemptions (failures during analysis which get overridden can be exceptionally valuable in understand architect influence and the value of engagement model and directly lead to the accrual of healthy vs unhealthy technical debt.
+### 1. Financial Value
 
-Not every approach is valid all of the time. But chances are good that one of these methods will work when faced with a scenario where the objective measurement of Quality resonates the most in articulating Value delivered.
+**Definition**: The measurable impact resulting from an architectural decision or investment. This includes revenue generation, cost reduction, cost avoidance, and productivity gains that translate into financial outcomes. More advanced methods begin to approach financial modeling in other capital or IP rich investments. 
 
-Tenet: Aggressively Find Stakeholder Value Metrics.
+**Common Techniques**:
 
-The architect practice should consistently and aggressively discover objectives, KPIs and other capability analysis measures in common use in the organization. This should include all architects and tracked as a part of the engagement model and be included in the [role](roles.md){:target="_blank"} and [job descriptions](job_description.md){:target="_blank"}.
+- **Cost-Benefit Analysis (CBA)**: Compares total benefits of a proposal against its costs. This is often the foundational technique.
+- **Net Present Value (NPV)**: Calculates the present value of future cash flows using a discount rate. Vital for comparing projects with different timelines.
+- **Internal Rate of Return (IRR)**: The discount rate at which NPV equals zero—used for assessing relative project desirability.
+- **Return on Investment (ROI)**: Ratio of net gain to cost. Simple but limited—it does not factor in time.
+- **Break-Even Analysis**: Identifies the point where costs equal revenue.
 
-Quality as a Measure
+**Industry Practice**: Financial valuation is heavily used in enterprise capital planning. Architects should partner with finance teams to ensure assumptions are grounded in real baselines and that models align with project accounting standards.
 
-In order to leverage Quality as the measurement, an effective baseline and established KPIs are necessary. For example, to know what 'good' looks like in terms of Production Incidents, a baseline or target must have first been defined at the outset of the effort (Something an Architect can do, incidentally).
+**Applied Example**: For a $3M cloud modernization, the architecture team models a 28% IRR and a 2.5-year payback period. The model includes not just license savings but also labor and incident cost reductions.
 
-An Architect impacts Quality by delivering or performing any of the following:
+**Scenario**: A Solution Architect working with finance stakeholders identifies that consolidating four separate billing engines into a single cloud-native platform could save over $1.1M in annual licensing and operational overhead. Using a TCO model and projected NPV over five years, the architect demonstrates a 3x return by year three. These findings enable approval and reallocation of funding from a stalled CRM upgrade.
 
--   Engagement Models
--   Exemptions/Pass/Fail Rates (Architecture Analysis)
--   Risk/Compliance Analyses and Assessments
--   Capture and Analyze Architecturally Significant Requirements
--   Reference Architectures: Master, Context, Product-Specific
--   Specialists in the Architecture Practice: Solution, Security, Data, Integration, etc.
--   Standards and Frameworks (Principles)
--   Define and Articulate Solution Options (Decisions)
--   Objectives (Key Performance Indicators / Success Metrics)
+Architects provide the framing for financial value by modeling alternative futures, identifying redundancies, and translating complexity into decision-ready metrics. This ensures that investments are not just technically sound, but economically defensible. Often this role needs deep connection with Finance, Sales and Operations to measure and understand these outcomes. 
 
-Any positive Quality measurement is attributable, at least in part, to the Architect and Architecture. This would then become part of the Value Story and articulated as such.
+### 2. Time Value
 
-## Cost
+**Definition**: Value realized by accelerating delivery, increasing responsiveness, or meeting critical timing constraints such as fiscal, legal, or market-driven deadlines.
 
-A cost perspective on delivering Value would be useful in scenarios where operational efficiencies are being sought. For example, application rationalizations, budget cuts or post-merger integrations are prime scenarios for this type of measure. In these cases, a large reduction in run-rate operating cost (cost reduction) or a large planned cost not incurred (cost avoidance) is associated with a large amount of Value delivered. What was the cost of delivering the output and was this less than expected?
+**Common Value Methods**:
 
-Cost as a Value metric can be measured objectively in two main ways:
+- Time to Value (TTV)
 
-1.  Cost Reduction\
-    **Cost reduction, also called Cost-saving measures,** are any actions that lower current spending, investment, or debt levels. They result in a tangible financial benefit for the organization and are measurable. The amount of money saved as a result of these measures should always be reflected in the financial statements and next year's budget. Actual cost savings should be visible in the financial statements compared to prior periods; planned cost savings should be reflected in the budget.
+- Cycle Time Reduction Analysis
 
-    Some examples of cost saving measures are: reduction of employees, renegotiation of existing contracts, negotiated price decreases for materials, elimination of software or hardware costs.
+- Opportunity Cost Estimation
 
-2.  Cost Avoidance\
-    **Cost avoidance measures** are any actions that result in avoiding costs in the future. They represent potential increases in costs that are averted through specific preemptive actions. These measures will never be reflected in the budget or the financial statements.
+- Lead Time Metrics
 
-    Some examples of cost avoidance measures are: a reduction of a proposed price increase from a vendor, the elimination of the need for additional headcount through process improvements, or a change in maintenance schedules for critical equipment to avoid work stoppages. A common example is implementing a new process for $X that negates the need to continue to do something else that costs $2X.
+- Timeboxing & Scenario Modeling
 
-In some cases, both reduction and avoidance are part of the same cost-based Value measure. However, most scenarios that Architects are familiar with (e.g. program delivery) cost avoidance is the metric that is most often associated with Value. That is, we planned on the SuperWidget project costing $350K to deliver, but because of the Workforce Management Analysis conducted by the Architecture team, we are able to save on labor and deliver for $200K. A cost avoidance of $150K. The Architecture team can and should claim some part of that Value delivery.
+**Metrics Examples**:
 
-Cost as the measurement requires a baseline. In order to know what a Cost Reduction is worth in terms of value, the existing run-rate must be known. Similarly, for Cost Avoidance, it must be known up front what costs are expected to be incurred so that the avoidance can be calculated.
+- Days saved to launch or reach breakeven
 
-*Tenet: How Many Business Cases Does the Team Write Themselves*
+- Cycle time reduction per release or iteration
 
-*The practice should be challenged and have a shared objective to write as many business cases as are possible and submit them through the same channels other business units do. This provides a measure of innovation.*
+- Project delivery variance against schedule
 
-An Architect impacts Cost when delivering or performing any of the following:
+- Opportunity value of releasing early (revenue gain or market share)
 
--   Create and/or Review Business Case
--   Manage and Prioritize Initiative Portfolio
--   Capture and Analyze [Requirements](requirements.md){:target="_blank"}
--   Define and Articulate Solution Options [Decisions](decisions.md){:target="_blank"}
--   Cost/Benefit Definition and Data Collection
--   Cost-Benefit Analyses
--   Standards and Frameworks (For Financial Analyses)
--   Workforce Management Analyses [Assignment](assignment.md){:target="_blank"}
--   Budgeting (Benefits Realization)
--   Financial Management and Reporting (Benefits Realization)
--   Sequencing and Prioritization [Investment Planning](investment_planning.md){:target="_blank"} and Prioritization
+**Techniques**:
 
-Any successful Cost Reduction or Cost Avoidance effort is attributable to analysis and activities primarily performed by an Architect. It is a powerful metric for demonstrating the Value that Architecture can deliver.
+- **Cycle Time Reduction Analysis**: Identify slow points in delivery pipelines or operational workflows. Often performed through value stream mapping—a Lean technique used to visualize, analyze, and improve end-to-end delivery flow.
 
-[![image001](media/v_m004.png)](https://iasa-global.github.io/btabok/risk_and_cost_card.html){:target="_blank"}
+- **Lead Time Metrics**: Track time from request to fulfillment for architectural deliverables, product releases, or technical components. Frequently used in Agile and DevOps performance analysis.
 
-## Revenue
+- **Timeboxing & Scenario Modeling**: Estimate project outcomes using different delivery cadences, identifying fast-path versus deferred benefits.
 
-The measurement of Value most often used is based on the metric of Revenue. This makes sense since revenue is perhaps the most clearly visible result of the delivery of Project X or Program Y and is reported monthly, quarterly and annually. Measuring Value by comparing revenue is most useful in scenarios that involve discreet products and services or other offerings with a direct association to a line of business. What was the revenue derived from the output of the effort?
+- **Opportunity Cost Estimation**: Model what is lost—financially or competitively—by being late. Particularly relevant in seasonal, launch-driven, or regulatory projects.
 
-Revenue as a Value metric is usually measured objectively in one of two ways:
+These techniques are rooted in Lean and Agile disciplines. Value stream analysis in particular helps architects identify and address architectural bottlenecks that delay flow—enabling smoother, faster delivery across teams.
 
-1.  Existing Revenue Increase Over Time\
-    Organic Growth of existing revenue streams is a useful way of measuring the value of Project XYZ and the impact of architecture on growing the business. The example below is existing revenue growth that is PROJECTED, but the measurement of ACTUAL growth after the projects have gone live is similar.
+**Scenario**: An Infrastructure Architect identifies that enabling automated provisioning of dev/test environments using Infrastructure as Code (IaC) can shave 10 days off every sprint cycle for three teams. By modeling cumulative time savings across a year and converting developer days to potential feature throughput, the architect shows how the platform investment would recover costs within two quarters.
 
-![image001](media/v_m005.png)
+Architects drive time value by reducing latency in the delivery lifecycle—whether through standardization, automation, reuse, or early validation. They make time visible as a constraint and a lever in every planning conversation.
 
-1.  New Revenue Added\
-    Growth of revenue by adding new business as a result of Project XYZ that didn't already exist previously is a variation on the theme. In the example below, specific projects are projected to lead to new revenue by way of mergers and acquisitions.
+### 3. Simplicity Value
 
-![image001](media/v_m006.png)
+**Definition**: Value created by reducing complexity in systems, processes, or decision logic—leading to better maintainability, lower operational costs, and increased change readiness. Simplicity also refers to architectural clarity: fewer components, cleaner contracts, and more reusable elements.
 
-There is a fine line between these two Revenue metrics and usually only one is applicable in a given context. In the case of existing revenue lines that are enhanced, the context typically involves an existing product or service that is having an update or new version. That is, the Revenue baseline for that business activity already exists and absent any other changes the increase (or decrease) in Revenue post-delivery is attributable to the work effort. In the case of new Revenue, the context involves a new product or service offering where none previously existed. In this case, even without a baseline for the related business activity, resulting revenue is entirely attributable to the work effort.
+**Common Value Methods**:
 
-An Architect impacts Revenue when delivering or performing any of the following:
+- Technical Debt Valuation
 
--   Create and/or Review Business Case
--   Manage and Prioritize Initiative Portfolio
--   Capture and Analyze Requirements
--   Reference Architectures: Master, Generic, Product-Specific
--   Other Architectures: Solution, Security, Data, Integration, etc.
--   Capability Models (Business, Technical)
--   Standards and Frameworks (Define, Publish, Socialize)
--   Define and Articulate Solution Options
--   Key Performance Indicators / Success Metrics
--   Stakeholder Alignment
--   Budgeting
--   Financial Management and Reporting
--   Roadmaps
--   Stakeholder Communication
--   Engagement Models
+- Maintainability Index Scoring
 
-[![image001](media/v_m007.png)](https://iasa-global.github.io/btabok/benefits_card_layout-b_canvas.html){:target="_blank"}
+- Architecture Decision Records (ADR) Traceability
 
-New Revenue or Increased Existing Revenue is a result of the entire effort. It is difficult to attribute any portion of this Value directly to, say, a really good Capability Model. But as in the examples above, the rigor that Architecture brings to delivering the product or service is an important aspect of the Value equation and should be front and center in the Value Story.
+- Reuse Impact Estimation
 
-## Timeliness
+**Metrics Examples**:
 
-The fourth most common way to measure Value is to assess the time to market. The oft-quoted phrase that time is money has some bearing on this. This is a useful metric for determining Value in scenarios involving net-new products or services, partnerships with third parties, regulatory compliance efforts, and efforts that are tied to the calendar year (e.g. open enrollment at a health payor). How long did it take to deliver the output and was this less than expected?
+- Number of legacy components decommissioned
 
-Time as a Value metric is typically measured objectively in one of two ways:
+- Ratio of reused vs duplicated code or services
 
-1.  On-time Delivery\
-    This metric effectively depends on two things: the SCOPE of what is being done and WHEN it is expected to be delivered. In the example tracker below, targeted savings are measured by initiative over time.
+- Estimated rework hours avoided
 
-![image001](media/v_m008.png)
+- Average time-to-onboard new team members (a proxy for system clarity)
 
-1.  Accelerated Delivery\
-    Value is measured by the degree to which various business and IT activities are sped up. These are quantitative measures that can be directly tied to dollars if need be.
+**Techniques**:
 
-![image001](media/v_m009.png)
+- **Technical Debt Valuation**: Assign cost to poor design choices or deferred refactoring. 
 
-These metrics are mutually exclusive and only one is applicable in any context. In the on-time scenario, the Value delivered is that expectations were met, i.e. things worked as they should have. This isn't always the most powerful argument except in cases where the business is routinely impacted by delayed delivery. In those instances, the Value of delivering on-time is comparatively enhanced. Accelerated Delivery scenarios involve leveraging Architecture to accelerate the lifecycle usually by streamlining existing processes (for example via frameworks or new methodologies) or enabling large scale reuse of existing capabilities.
+- **Modularity Analysis**: Identify and quantify cohesion/coupling issues that increase maintenance cost.
 
-Time as a Value metric requires a baseline to be meaningful. If the program doesn't know how long it expects to take to deliver the SuperWidget, then shaving 3 months off by reusing existing Integration Architectures won't be perceived as Value delivery. This is true for any Time as a Value metric.
+- **System Rationalization Mapping**: Visualize overlapping capabilities or duplicated systems to identify targets for simplification.
 
-An Architect impacts Timeliness when delivering or performing any of the following:
+- **Service/API Dependency Auditing**: Highlight excessive interdependencies and candidates for consolidation or redesign.
 
--   Manage and Prioritize Initiative Portfolio
--   Capture and Analyze Requirements
--   Reference Architectures: Master, Generic, Product-Specific
--   Other Architectures: Solution, Security, Data, Integration, etc.
--   Capability Models (Business, Technical)
--   Standards and Frameworks (Define, Publish, Socialize)
--   Define and Articulate Solution Options
--   Stakeholder Alignment
--   Roadmaps
--   Sequencing and Prioritization
--   Governance (Reviews, Toll-Gates)
--   Stakeholder Communication
--   Engagement Models
+**Scenario**: A Software Architect working on a logistics platform identifies that five internal services all implement near-identical logic for address validation. By consolidating these into a single internal API, the team eliminates 3,500 lines of duplicated code, reduces defect rates by 12%, and cuts onboarding time for new developers by 20%. A rough debt valuation shows an annual savings of over $110K in maintenance effort.
 
-## The Value Measure
+Architects create simplicity by advocating for reuse, establishing clear interfaces, and documenting decisions. They reduce future effort by improving structure today—and use value methods to quantify that benefit for stakeholders who may otherwise overlook it.
 
-While these four approaches to measuring outcomes will produce the metric needed to demonstrate Value delivery by Architecture, the metric alone is useless if it is not paired with a compelling narrative. In the case of Revenue as a Value metric, it is extremely difficult to tie part of a revenue increase directly to an Architecture activity or work-product. The case can still be made, however, with a good narrative produced for the right audience backed by the underlying data.
+### 4. Contextual (Constituent) Value
 
-Understanding how to compose and deliver a Value Story that resonates with the audience is one of the most critical skills for an Architect. It isn't just smoke and mirrors. It is a data-driven story that demonstrates how and where Architecture delivers Value.
+**Definition**: Contextual value, often considered a form of 'soft value,' refers to improvements in the quality of interaction, trust, understanding, or support between an organization and its ecosystem—whether internal stakeholders, customers, suppliers, or partners. It includes attributes like usability, fairness, clarity, accessibility, and shared alignment.
 
-Another Method for Assessing Value
+This category often drives long-term loyalty, reduces friction in collaboration, and builds social capital within digital and operational ecosystems.
 
-The challenge with trying to describe value is in determining how value will be measured and where the value will come from. In the example, customers can complete a sales in person, on the phone, and online. The cost of sale online is least expensive and cost in store is most expensive.
+**Common Value Methods**:
 
+- Stakeholder Satisfaction Indices
 
-![image001](media/v_m010.png)
+- Net Promoter Score (NPS) or Developer Experience (DX) metrics
 
-## Constituent and Operational Value
+- Ecosystem Fit Assessments
 
-![image001](media/v_m011.png)
+- Interoperability Maturity Scoring
 
-This value category includes operational measures and stakeholder measures. These are business measures which are used by stakeholders to make decisions but which may not be directly related to financial outcomes. For example a customer survey done on the website or the time to clean an airplane are useful measures whether they are related back to financial returns or not.
+**Metrics Examples**:
 
-To understand how to measure success in this category think about the way you would measure a successful manufacturing line. How quickly items come off the line? How many defects are there per 100 items?
+- Number of partner touchpoints simplified
 
-## Simplicity and Reuse
+- Time saved by external teams using exposed APIs
 
-Simplicity and reuse are one of the most commonly mentioned value categories but surprisingly little is known about how to measure them. Making something simpler is difficult to describe in relation to making it more flexible.
+- Stakeholder satisfaction pre/post capability rollout
 
-| **Outcome** | **Description** | **Measure** |
-| --- | --- | --- |
-| Reduced Technical Debt | The amount of technical debt is the number of poor decisions which lock the orgaization into a single technology choice. | Measure technical debt as the cost to reverse a decision. |
-| Increased Reuse | Reuse refers to the number of systems which utilize a single business or technical function. | Measure API level calls and which systems are dependent. |
+- Accessibility compliance improvements
 
-[![image001](media/v_m012.png)](https://iasa-global.github.io/btabok/technical_loan_request_card.html){:target="_blank"}
+**Techniques**:
 
-## Market Dynamics
+- **Stakeholder Journey Mapping**: Identify pain points and delays in interaction with architectural components or decisions.
 
-Critical market changes are driven by technology innovation whether it is disruptive or incremental. The architect team should measure impacts and use innovation methods to look at possible market impacts. Competitive analysis tools and market trend techniques are invaluable.
+- **Customer Journey Mapping**: Understand how external users or consumers experience the system, focusing on usability, friction, and satisfaction.
 
-| **Tool** | **Description** | **Use** |
-| --- | --- | --- |
-| PESTLE | Used to derive the forces at work on the enterprise such as political, environment, legal forces. | Focus on the impacts to the particular portion of your business being impacted. |
-| SWOT | Tool to understand the strengths, weaknesses, opportunities and threats within a particular activity. | Requires a multi-disciplinary approach to correctly understand the organization. |
-| Platform Design Toolkit | The toolkit provides platform thinking which enables organizations to understand themselves as a part of an ecosystem of change. | [https://platformdesigntoolkit.com/](https://platformdesigntoolkit.com/){:target="_blank"} |
+- **Partner Enablement Audits**: Analyze the ease with which external or internal consumers can access and adopt solutions.
 
-[![image001](media/v_m013.png)](https://iasa-global.github.io/btabok/market_segmentation_canvas.html){:target="_blank"}
+- **Interoperability Scoring**: Rate the compatibility of systems and services against industry standards or ecosystem norms.
 
-## Doing Good
+- **Usability Benchmarking**: Especially for internal platforms, developer-facing tools, and shared interfaces.
 
-Most government agencies and non-profits use separate tools from their for profit counterparts as they are not in the business to make money but to provide value to their citizen, stakeholder or mission. The do good category is used to describe value in these scenarios.
+**Scenario**: A Solution Architect working with a procurement team identifies that third-party vendors experience 4x longer onboarding when interacting with internal integration APIs due to insufficient documentation and inconsistent data contracts. By investing in an API developer portal, contract standardization, and support SLAs, the team cuts vendor integration time by 65% and receives positive partner feedback. While this doesn’t immediately drive revenue, it strengthens the organization's platform position and lowers operational overhead.
 
-| Mission Model Canvas |   |   |
-| --- | --- | --- |
-| A Unit of Good | A measured shared unit which correlates to goodness for the primary constituent of the organization. | This may come from the achievement section of the MMC. |
+Architects unlock contextual value by removing friction—structurally and culturally. They clarify interactions, document assumptions, promote inclusive and standards-aligned designs, and anticipate the needs of external and downstream users. These actions build the invisible but essential scaffolding for trust, speed, and cooperation in the digital business ecosystem.
 
-To be effective in growing and innovating in this space it is necessary to extend beyond the cost savings and reuse space and extend into the benefits space. To do this for a business case rate the business case on its target achievements and give them a score in relation to your overall mission. For example, at Iasa, holding an event for architects may get a value to membership rating of 2 (on a scale from one to ten) but the development of a accreditation for masters degrees in architecture gets a 8. These may be arbitrary scales but they will keep you focused on innovation as opposed to simple cost reduction.
+### 5. Market Development Value
 
-# References
+**Definition**: Market development value reflects the architect’s contribution to enabling new business—whether that means reaching new customer segments, launching new products, scaling through partners, or expanding into adjacent markets. It often connects innovation, scalability, and extensibility to revenue potential.
 
-**IT Value Network: From Investement to Stakeholder Value**
+**Common Value Methods**:
 
-![image001](media/by-nc.png)
+- [Market Segmentation Canvas](../structured_canvases/market_segmentation_canvas.md)
 
-BTABoK 3.0 by [IASA](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial--NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/)
+- Total Addressable Market (TAM) Modeling
+
+- Product/Platform Fit Analysis
+
+- Revenue Forecasting by Channel
+
+**Metrics Examples**:
+
+- Revenue added through new product or channel
+
+- Time to launch in a new market or segment
+
+- Conversion uplift due to platform capabilities
+
+- Partner co-sell enablement rates
+
+**Techniques**:
+
+- **Innovation Accounting** (from Lean Startup): Tracks learning, pivots, and progress toward validated market fit.
+
+- **Platform Extension Modeling**: Forecasts how modular or API-based offerings enable new third-party contributions or reuse. Focus on both Product articles and Technical Landscape techniques.
+
+- **Opportunity Portfolio Prioritization**: Helps teams compare potential business impact across new offerings. This should be done with the Business Case and Strategic Roadmapping Technique in [Roadmapping](./roadmap.md). 
+
+- **Business Model Experimentation**: Aligns technical prototypes with customer desirability and commercial feasibility.
+
+**Scenario**: A Business and Software Architecture team is working with a telecom company launching prepaid micro-services in underserved markets. By replatforming core billing and customer provisioning into a modular microservice model, they unlock the ability to support white-labeled offerings and regional co-branding. Forecasts show a $6M incremental revenue opportunity across 18 months due to faster market entry and scalable partner engagement.
+
+Architects accelerate market development by designing for extensibility, integration, and experimentation. They enable new business models to emerge by ensuring the underlying systems are scalable, modular, and accessible—technically and contractually. This is how architecture supports not just transformation, but true market innovation.
+
+### 6. Doing Good (Mission Value)
+
+**Definition**: This category encompasses the value created when architecture supports public, ethical, or mission-aligned outcomes—particularly in non-profit, educational, healthcare, and government sectors. It reflects a commitment to equity, access, impact, and purpose-driven goals that transcend financial return.
+
+**Common Value Methods**:
+
+- Mission Model Canvas (MMC)
+
+- Social Return on Investment (SROI)
+
+- Benefit Scoring Against Strategic Objectives
+
+- Outcomes-Based Evaluation
+
+**Metrics Examples**:
+
+- Number of constituents reached or served
+
+- Units of positive impact (e.g. patients treated, students trained)
+
+- Accessibility compliance or equity improvements
+
+- Reduction in service gaps for vulnerable populations
+
+**Techniques**:
+
+- **Mission Mapping**: Aligns architecture work with organization-wide goals around social benefit, transparency, and public good.
+
+- **SROI Modeling**: Uses proxies to assign financial value to non-monetary outcomes (e.g. time saved for a parent applying for benefits).
+
+- **Impact Attribution Modeling**: Distinguishes between direct, indirect, and enabled value across a mission-oriented program.
+
+- **Ethical Framing and Design Criteria**: Architecture artifacts include considerations for fairness, privacy, and access.
+
+**Scenario**: A public health agency is rolling out a regional vaccination appointment platform. An Information Architect ensures that the system meets accessibility standards, supports multiple languages, and integrates seamlessly with legacy health records. The team uses MMC and SROI analysis to project a 2.8x return in terms of public health outcomes, particularly among rural populations. This positions the architecture team as key enablers of a public mission.
+
+Architects amplify mission value by advocating for inclusivity, ethical design, and measurable impact. They elevate the conversation from "what does this cost?" to "who does this serve, and how well?" Even when outcomes are difficult to monetize, architects help define success in human terms—and structure systems to deliver on that definition.
+
+---
+
+## Applying the Value Method Lifecycle
+
+Architecture teams should operationalize value analysis in the same way they do requirements or design. A repeatable lifecycle includes:
+
+### 1. Define Context & Outcomes
+
+- Use OKRs and stakeholder maps
+- Identify value categories affected
+- Capture constraints, deadlines, expectations
+
+### 2. Select Techniques
+
+- Use a table of techniques (see above) and match to initiative context
+- Prioritize methods that clarify investment tradeoffs
+
+### 3. Model Scenarios
+
+- Compare solution paths (e.g., COTS vs. build vs. hybrid)
+- Include base, worst, and best-case outcomes
+
+### 4. Evaluate & Communicate
+
+- Visualize with value radar charts, impact maps
+- Summarize with confidence levels
+- Publish in business cases, dashboards, roadmaps
+
+### 5. Measure & Adjust
+
+- Track KPIs over time
+- Integrate into agile/DevOps metrics where possible
+- Use retrospectives and benefits realization reviews
+
+> **Tenet**: Value realization must be traced from planning through to operation—not assumed at deployment.
+
+---
+
+## Method Catalog (Extended Table)
+
+| Technique                | Purpose                                     | Tools                      | Use Cases                      |
+| ------------------------ | ------------------------------------------- | -------------------------- | ------------------------------ |
+| CBA                      | Compare expected benefits to expected costs | Excel, ROI tools           | Business case framing          |
+| NPV                      | Present value of future benefits            | Financial modeling         | Multi-year platform shifts     |
+| IRR                      | Rate of return vs. discount rate            | Finance tools              | Comparing build/invest options |
+| TCO                      | Total lifecycle cost                        | Apptio, FinOps             | Cloud migration analysis       |
+| Reuse Index              | % of services reused across systems         | Archimate, CMDB            | Service enablement, simplicity |
+| Time-to-Value            | Time from start to measurable outcome       | Jira, Agile metrics        | DevOps, innovation programs    |
+| Technical Debt Valuation | Reverse cost of refactoring                 | SonarQube, CAST            | Legacy modernization           |
+| SROI                     | Financial proxies for social impact         | Impact frameworks          | Non-profit/mission projects    |
+| Interop Score            | Readiness for platform participation        | APIs, standards checklists | Ecosystem integration          |
+
+## Value Measurement Methods
+
+This section outlines foundational and advanced techniques architects can use to evaluate technology investments, especially at the level of components, systems, and service choices.
+
+The purpose of measurement is not to build perfect financial models, but to bring clarity and comparability to decisions. Value measurement gives architects a way to make tradeoffs visible—and defensible.
+
+While advanced valuation practices exist in the finance world, architects can benefit from understanding the basics and applying them with enough rigor to guide priorities and outcomes.
+
+> 📚 For in-depth financial modeling guidance, refer to corporate finance texts or practitioner references such as Brealey & Myers' *Principles of Corporate Finance* or Steven Jenner’s *Benefits Realisation Management*.
+
+Below are practical value measurement methods commonly used in architecture:
+
+### Cost-Benefit Analysis (CBA)
+
+A foundational technique comparing the total cost of an initiative to the estimated benefits. Often used early in business case development.
+
+- Tool: Spreadsheet or financial model
+
+- Challenge: Requires estimation of intangible benefits
+
+### Net Present Value (NPV)
+
+Discounts future cash flows to present value. Helps compare investments with different timelines.
+
+- Tool: NPV formula or financial calculator
+
+- Inputs: Expected annual benefits, discount rate, lifespan
+
+### Internal Rate of Return (IRR)
+
+IRR estimates the annualized effective return rate on an investment. It’s the rate at which NPV becomes zero. However, IRR can be misleading when used on uneven cash flows or projects with multiple periods of negative cash flow—it may yield multiple results or overstate potential returns. For architecture decisions, IRR is best applied cautiously and always in conjunction with NPV or payback periods.
+
+- Tool: Financial calculators, Excel IRR function
+
+- Use case: Comparing technology upgrade paths with consistent benefit streams
+
+### Discounted Cash Flow (DCF)
+
+A method for valuing a project, investment, or system by estimating future cash flows and discounting them to present value. DCF models can be adapted for long-term infrastructure, platforms, or APIs with measurable cost/benefit over time.
+
+- Tool: Spreadsheet templates, financial modeling tools
+
+- Challenge: Requires assumptions on usage/adoption, growth, and maintenance horizon
+
+### Options Pricing for Technology Decisions
+
+A more advanced method from financial economics that treats flexibility (e.g. deferring, expanding, or abandoning a decision) as a *real option*. Architects can use this in scenario modeling where timing, uncertainty, or changeability matter.
+
+- Common tool: Black-Scholes or binomial option models
+
+- Use case: Deferring a platform build in favor of third-party investment that could unlock a better future outcome
+
+> For a deeper dive, refer to: Tom Copeland & Vladimir Antikarov’s *Real Options* or MIT’s Sloan Finance materials.
+
+### Total Cost of Ownership (TCO)
+
+Estimates the full cost over a system’s life: acquisition, maintenance, operations, decommissioning.
+
+- Key to comparing cloud vs. on-prem vs. SaaS
+
+### Technical Debt Valuation
+
+Estimates the cost of deferred decisions. Can be expressed as:
+
+- Cost to refactor
+
+- Increased defects or time-to-change
+
+- Productivity loss
+
+### Social ROI (SROI)
+
+Used in nonprofit and public initiatives to assign proxy financial value to social outcomes (e.g. reduced wait times, increased access).
+
+- Example: “Each early intervention saves $1,100 in healthcare costs.”
+
+### Time to Value (TtV)
+
+Measures how quickly benefits begin to accrue. Especially important in competitive or seasonal markets.
+
+- KPI: “Project breakeven reached in Q3 instead of Q4.”
+
+### Reuse Index
+
+Ratio of reused components to newly built ones.
+
+- Tool: Dependency maps, service catalog audit
+
+---
+
+## Scenario Example: Tinkleman Coffee
+
+Tinkleman is considering building a franchise management platform. Two options:
+
+- Buy and customize a COTS product
+
+- Build a lightweight cloud-native solution
+
+Value Analysis:
+
+- CBA shows build is 20% cheaper over 5 years
+
+- NPV favors build due to extensibility
+
+- Time-to-market favors COTS by 3 months
+
+- Reuse index for build is higher (shared auth and POS integration)
+
+- Contextual alignment better in COTS (partners already using it)
+
+Decision: build, due to long-term reuse and lower TCO. But mitigation is needed for the time delay.
+
+## Value Storytelling: Communication as Practice
+
+Value storytelling is the architect’s most important communication tool. It provides a structured method for connecting business goals to technical proposals. By narrating how architecture enables measurable results, architects bridge the gap between decision-makers and system complexity. It ensures stakeholders not only understand the proposal but are equipped to evaluate its impact in terms that matter to them.
+
+A good value story helps a stakeholder understand the relationship between:
+
+- The desired benefit or outcome
+
+- The technology change proposed
+
+- The trade-offs involved
+
+- The evidence behind the recommendation
+
+Value stories are often structured as a five-step technique:
+
+1. **Describe the Context** – Clarify the business or operational situation that justifies the effort. This might include internal inefficiencies, market shifts, or regulatory triggers.
+
+2. **Define the Benefit** – What specific value is being targeted? Use language appropriate to the stakeholder—financial, operational, reputational, or social.
+
+3. **Propose the Technology Impact** – What solution or change will enable this benefit? Describe the change with just enough technical detail to support credibility.
+
+4. **Evaluate the Trade-offs** – Present the risks, alternatives, and cost/value balance. Use value methods to support the rationale.
+
+5. **Summarize the Recommendation** – Close with a confident, stakeholder-relevant framing: why this change, why now, and what result they can expect.
+
+> Value storytelling turns data into insight, and insight into action. It’s how architecture becomes part of the business conversation, not just the delivery pipeline.
+
+---
+# BTABoK Owner and Author
+
+The BTABoK owner is the primary contributor and concept owner. This person is the primary editorial lead for the concept. Any member may contact the Iasa to create a discussion, change or challenge to this article. The primary contributor will help navigate a discussion to update this concept within the btabok based on the challenge criteria. 
+
+![Paul Preiss](media/Paul-Preiss.png)
+**Chitra Sundaram**
+*CEO, Iasa - https://www.linkedin.com/in/ppreiss/ 
+
+Paul Preiss is the CEO and Founder of the Iasa, one of the largest business technology architect associations in the world. Through his time at Iasa, Paul has taken the association from a single user group in Austin Tx to an international organization with chapters in over 50 countries. Paul's vision is a unified architecture profession with effective education, credentials and ethics which fully supports corporate strategy and delivery. He is a tireless advocate for the field and speaks on topics ranging form architecture ethics to best the best setup and structure for architecture teams. Paul has spoken at hundreds of events as well as held conferences and training for architects all over the world. He is an expert software and enterprise architect in practice and continues to work with companies on optimizing their technology strategy. 
+
+Prior to developing Iasa, Paul was the chief architect for Dell Pan Asia where he helped to integrate the technology strategy across 14 countries. He also served as the chief architect for the Sears point of sale replacement in North America consisting of 2000 stores and thousands of suppliers as well as the chief architect for a digital asset management firm, Ancept.
+
+## **References**:
+
+**Architecture and Value in Practice**
+
+- IASA Global. BTABoK (Business Technology Architecture Body of Knowledge). [https://iasaglobal.org/](https://iasaglobal.org/)
+
+- The Open Group. TOGAF Standard, 10th Edition. https://pubs.opengroup.org/
+
+- IEEE 1471 / ISO/IEC/IEEE 42010: Systems and software engineering — Architecture description
+
+**Technology Investment and Valuation**
+
+- Brealey, Richard A., and Stewart C. Myers. *Principles of Corporate Finance*, McGraw-Hill.
+
+- Jenner, Steven. *Managing Benefits* and *Benefits Realisation Management*.
+
+- Ward, J., & Peppard, J. *The Strategic Management of Information Systems* (Wiley).
+
+- Copeland, Tom & Antikarov, Vladimir. *Real Options: A Practitioner’s Guide*.
+
+- Amram, Martha & Kulatilaka, Nalin. *Real Options: Managing Strategic Investment in an Uncertain World*.
+
+- MIT Sloan School of Management – Finance Lecture Series. https://mitsloan.mit.edu
+
+- Harvard Business Review articles on digital transformation, agile finance, and innovation metrics
+
+**Public Sector and Mission Value**
+
+- NSW Government, Business Case Guidelines: https://www.finance.nsw.gov.au
+
+- UK HM Treasury, *The Green Book: Appraisal and Evaluation in Central Government*
+
+- OECD Observatory of Public Sector Innovation: https://oecd-opsi.org/
+
+- Social Value UK and Social Value International: https://www.socialvalueint.org/
+
+- Center for Digital Government. Research and guidance on IT investment in the public sector.
+
+**Agile, Lean and Innovation Value Methods**
+
+- Eric Ries. *The Lean Startup*.
+
+- Steve Blank. *The Startup Owner’s Manual*.
+
+- Lean Value Tree and Innovation Accounting: https://leanvaluebook.com
+
+- SAFe (Scaled Agile Framework) guidance on value streams and metrics.
+
+- McKinsey, BCG, and Gartner research on digital platform value and IT economics.
+
+**Ethics, Accessibility, and Human-Centered Value**
+
+- World Wide Web Consortium (W3C) Accessibility Standards: https://www.w3.org/WAI/
+
+- ISO 9241-210: Human-centred design for interactive systems
+
+- Center for Humane Technology. https://www.humanetech.com/
+
+- Inclusive Design Toolkit, University of Cambridge: https://www.inclusivedesigntoolkit.com/
+
+- [Platform Design Toolkit](https://platformdesigntoolkit.com/)
+
+- [Stephen Jenner – Benefits Realisation Management](http://www.stephenjenner.com/my-books/)
+
+- [Ward & Peppard – Strategic Management of Information Systems]
+
+BTABoK 3.0 by [IASA Global](https://iasaglobal.org/) is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). Based on a work at [https://btabok.iasaglobal.org/](https://btabok.iasaglobal.org/).
