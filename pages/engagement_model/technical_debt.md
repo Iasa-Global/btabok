@@ -28,11 +28,11 @@ There is more information about it here: https://www.agilealliance.org/introduct
 
 In recent years the use of the term has exploded everywhere, now all teams seem to talk about technical debt, so it is helpful to extend the original definition to cover the full range of ways the term is used today, which are:
 
--   **Short term gain over long term pain** -- the original use, to describe the times you do something which will deliver business value now, but, will be more expensive in the long term because it increases complexity or impacts work in the future.
--   **Snowball of Technical Debt** -- an accumulation of the design and development decisions made that product significant negative impact on the maintainability of a software product.
--   **Wither on the Vine** -- as changes are made to a system there is no code or architecture refactoring, so the original decisions, which were fine at the time have become invalidated. Leading to a system that impossible to change.
--   **Legacy debt** -- the technology or approach is old and hard to support. This has become a very widely used meaning for technical debt and is the result of past decisions about upgrading software that negatively affects its future, typically failure to invest or poorly managed risks.
--   **Code Bloat** -- use of unnecessary frameworks or libraries adds complexity and dependencies for little benefit.
+- **Short term gain over long term pain** -- the original use, to describe the times you do something which will deliver business value now, but, will be more expensive in the long term because it increases complexity or impacts work in the future.
+- **Snowball of Technical Debt** -- an accumulation of the design and development decisions made that product significant negative impact on the maintainability of a software product.
+- **Wither on the Vine** -- as changes are made to a system there is no code or architecture refactoring, so the original decisions, which were fine at the time have become invalidated. Leading to a system that impossible to change.
+- **Legacy debt** -- the technology or approach is old and hard to support. This has become a very widely used meaning for technical debt and is the result of past decisions about upgrading software that negatively affects its future, typically failure to invest or poorly managed risks.
+- **Code Bloat** -- use of unnecessary frameworks or libraries adds complexity and dependencies for little benefit.
 
 These debt classifications or comments are in many ways increasing the problem space, as uninformed debt classification can be as big a problem as not properly calculating debt at all. The appropriate classification and measurement scheme has been adopted and promoted in the BTABoK below.
 
@@ -60,11 +60,11 @@ Research conducted by Enterprise Management Associates in February 2024, intervi
 
 The cost of outages can be categorized into five distinct aspects:
 
--   **Direct Financial Cost**: Immediate revenue loss
--   **Productivity Cost**: Lost employee productivity during downtime
--   **Recovery and Repair Cost**: Resources required to restore service
--   **Intangible Cost**: Reputation damage and customer trust erosion
--   **Opportunity Cost**: Missed business opportunities during outage periods
+- **Direct Financial Cost**: Immediate revenue loss
+- **Productivity Cost**: Lost employee productivity during downtime
+- **Recovery and Repair Cost**: Resources required to restore service
+- **Intangible Cost**: Reputation damage and customer trust erosion
+- **Opportunity Cost**: Missed business opportunities during outage periods
 
 ### 2. Increased Maintenance and Change Costs
 
@@ -82,21 +82,19 @@ The Log4Shell vulnerability exemplifies how unmanaged technical debt can create 
 
 There is a tendency to call anything that is less than perfect technical debt, probably because it creates a false legitimacy, as technical debt is part of the agile ethos now. There is general agreement that the following should definitely not be called technical debt:
 
--   Unfinished stories -- these are just unfinished stories, trying to legitimize them as technical debt and hoping to catch up later, maybe in a hardening sprint, is the slippery slope to failure.
--   Defects are not Technical Debt -- Low quality in the form of defects is not technical debt because they have an immediate impact and need to be resolved immediately, although defects may be a symptom of technical debt
--   Lack of Process is not Technical Debt -- but lack of process, the wrong process or failure to follow process can result in inappropriate technical debt occurring.
--   New features not yet implemented (for whatever reason) are not Technical Debt, but insufficient initial requirements can lead to shortcuts being taken to plug the perceived gaps, introducing Technical Debt
+- Unfinished stories -- these are just unfinished stories, trying to legitimize them as technical debt and hoping to catch up later, maybe in a hardening sprint, is the slippery slope to failure.
+- Defects are not Technical Debt -- Low quality in the form of defects is not technical debt because they have an immediate impact and need to be resolved immediately, although defects may be a symptom of technical debt
+- Lack of Process is not Technical Debt -- but lack of process, the wrong process or failure to follow process can result in inappropriate technical debt occurring.
+- New features not yet implemented (for whatever reason) are not Technical Debt, but insufficient initial requirements can lead to shortcuts being taken to plug the perceived gaps, introducing Technical Debt
 
 ## Causes of Technical Debt
-
-
 
 ![picture from Martin Fowler on Technical Debt](media/t_d001.png)
 
 [Technical Debt Quadrant](https://www.martinfowler.com/bliki/TechnicalDebtQuadrant.html)
 
--   Prudent vs Reckless -- Prudent is choosing to do something because you understand the consequences, whilst Reckless is not caring or thinking about it.
--   Deliberate vs Inadvertent -- Deliberate is taking the time to make a conscious choice and looking at the options, whilst inadvertent is not knowing or understanding what will happen because of that choice.
+- Prudent vs Reckless -- Prudent is choosing to do something because you understand the consequences, whilst Reckless is not caring or thinking about it.
+- Deliberate vs Inadvertent -- Deliberate is taking the time to make a conscious choice and looking at the options, whilst inadvertent is not knowing or understanding what will happen because of that choice.
 
 In fact, only top right quadrant fits the original definition of Technical Debt, being a conscious decision taken for sound business reasons.
 
@@ -122,19 +120,19 @@ It is obvious that technical debt is not going to go away by itself, so organiza
 
 The different types of technical debt need to be managed in different ways, by different levels in the organization: Most organizations need a signficant amount of work to create a quantification and categorization scheme for technical debt to be be able to measure it effectively. The following categorization scheme has been created for the BTABoK:
 
-| **Type of Debt**  | **Description**                                                                                                                             | **BTABoK Concept Reference**                                                       |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| Code Debt         | Poorly developed code. Including all aspects of software development.                                                                       | Engineering Article                                                                |
-| Structural Debt   | This includes large structural decisions and designs most commonly impacting quality attributes.                                            | Complexity, Design, Patterns, Quality Attribute Articles                           |
-| Q/A Debt          | This includes poor testing decisions at all levels of scope.                                                                                | Quality Assurance, Governance, Analysis Articles                                   |
-| Value Debt        | This includes systems that do not align with the value creation requirements of the business client.                                        | Business Technology Strategy, Valuation, Benefits Realization, Investment Articles |
-| Legacy Debt       | This includes legacy that has begun to negatively impact both structural and value outcomes due to the inability to change the technology.  | Legacy Modernization Article                                                       |
-| Organization Debt | This includes decisions that do not align with the organizaitonal structures of the client.                                                 | Stakeholders, Culture, Human Dynamics Articles                                     |
+| **Type of Debt**  | **Description**                                                                                                                            | **BTABoK Concept Reference**                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Code Debt         | Poorly developed code. Including all aspects of software development.                                                                      | Engineering Article                                                                |
+| Structural Debt   | This includes large structural decisions and designs most commonly impacting quality attributes.                                           | Complexity, Design, Patterns, Quality Attribute Articles                           |
+| Q/A Debt          | This includes poor testing decisions at all levels of scope.                                                                               | Quality Assurance, Governance, Analysis Articles                                   |
+| Value Debt        | This includes systems that do not align with the value creation requirements of the business client.                                       | Business Technology Strategy, Valuation, Benefits Realization, Investment Articles |
+| Legacy Debt       | This includes legacy that has begun to negatively impact both structural and value outcomes due to the inability to change the technology. | Legacy Modernization Article                                                       |
+| Organization Debt | This includes decisions that do not align with the organizaitonal structures of the client.                                                | Stakeholders, Culture, Human Dynamics Articles                                     |
 
 ## Other Categorization Schemes
 
 | **Scheme**                       | **Example Categories**                                       | **Source**                                                                                                                                   |
-|----------------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Ward Cunningham’s Taxonomy**   | Prudent vs. reckless, deliberate vs. inadvertent             | Ward Cunningham (1992), wiki.c2.com                                                                                                          |
 | **Artifact-Based**               | Code, architecture, test, infrastructure, documentation      | Kruchten, Nord & Ozkaya (2012), *IEEE Software*, DOI                                                                                         |
 | **Lifecycle Phase-Based**        | Design, requirements, testing, deployment, operations        | Li, Avgeriou & Liang (2015), *Journal of Systems and Software*, DOI                                                                          |
@@ -146,10 +144,10 @@ The different types of technical debt need to be managed in different ways, by d
 
 It is essential to be able to measure debt to be able to manage it, this gives a number of benefits:
 
--   It allows you to see the size of the problem and although it is unlikely debt can ever be totally eliminated but it can be kept within certain thresholds.
--   With historical data it is possible to see if things are getting better or worse and determine the level of investment required to hit thresholds and objectives.
--   Developers and Managers want to be able to understand analyze the debt and see the impact of investments.
--   Information is needed to help evaluate risk, set priorities and target effort to most effectively reduce debt and avoid paying the interest, especially at short notice.
+- It allows you to see the size of the problem and although it is unlikely debt can ever be totally eliminated but it can be kept within certain thresholds.
+- With historical data it is possible to see if things are getting better or worse and determine the level of investment required to hit thresholds and objectives.
+- Developers and Managers want to be able to understand analyze the debt and see the impact of investments.
+- Information is needed to help evaluate risk, set priorities and target effort to most effectively reduce debt and avoid paying the interest, especially at short notice.
 
 As part of keeping control of technical debt the expectations must be clear, by having the right things in place such as: a definition of done which includes Quality Attributes, coding standards and peer reviews in place, IT Principles, and capturing your decisions to incur technical debt using an ADR or an Architecture Loan Request for a significant issue.
 
@@ -161,8 +159,8 @@ While there is extensive research material related to measuring technical debt, 
 
 Where:
 
--   **Remediation Cost**: Estimated effort to fix the issues
--   **Development Cost**: Effort it took to build the system or feature
+- **Remediation Cost**: Estimated effort to fix the issues
+- **Development Cost**: Effort it took to build the system or feature
 
 A Technical Debt Ratio (TDR) of 5% means that for every 100 hours of development, 5 hours are needed to fix technical debt. This metric provides a standardized way to compare technical debt across different systems and applications.
 
@@ -171,7 +169,7 @@ A Technical Debt Ratio (TDR) of 5% means that for every 100 hours of development
 For application-specific technical debt assessment, organizations can calculate the TDR for individual systems. For example, a heavily customized SAP platform might show:
 
 | Component | Development Cost | Annual Maintenance | Remediation Cost | TDR |
-|-----------|------------------|--------------------|------------------|-----|
+| --------- | ---------------- | ------------------ | ---------------- | --- |
 | SAP Core  | £800,000         | £120,000           | £80,000          | 25% |
 
 In this example, the overall TDR is 25%, meaning that for every £1 spent on building and maintaining the SAP platform, an additional £0.25 is needed to address technical debt.
@@ -181,7 +179,7 @@ In this example, the overall TDR is 25%, meaning that for every £1 spent on bui
 The TDR formula can also be applied to hardware components such as servers, storage, and network components. This is particularly important when operating shared platforms that host applications. For infrastructure platforms, organizations can use:
 
 | Component Type | Initial Cost   | Annual TD Cost | TDR     |
-|----------------|----------------|----------------|---------|
+| -------------- | -------------- | -------------- | ------- |
 | Servers        | £1,200,000     | £350,000       | 29%     |
 | Storage        | £800,000       | £200,000       | 25%     |
 | Network        | £800,000       | £185,000       | 23%     |
@@ -197,17 +195,17 @@ Calculating the likelihood of cyber-attack risk due to technical debt can be ach
 
 Where:
 
--   **V** = Number of known vulnerabilities (weighted by severity)
--   **E** = Exposure level (1-10 scale)
--   **A** = Attractiveness to attackers (1-10 scale)
--   **C** = Cyber maturity or control strength (1-10 scale)
+- **V** = Number of known vulnerabilities (weighted by severity)
+- **E** = Exposure level (1-10 scale)
+- **A** = Attractiveness to attackers (1-10 scale)
+- **C** = Cyber maturity or control strength (1-10 scale)
 
 #### Vulnerability Scoring (V)
 
 Vulnerabilities are weighted by their CVSS (Common Vulnerability Scoring System) scores:
 
 | Severity Level | CVSS Range | Weight | Meaning                                                  |
-|----------------|------------|--------|----------------------------------------------------------|
+| -------------- | ---------- | ------ | -------------------------------------------------------- |
 | Low            | 0.1-3.9    | 1      | Minor risk, unlikely to be exploited                     |
 | Medium         | 4.0-6.9    | 2      | Moderate risk, may be exploited under certain conditions |
 | High           | 7.0-8.9    | 3      | Serious risk, likely to be exploited                     |
@@ -216,7 +214,7 @@ Vulnerabilities are weighted by their CVSS (Common Vulnerability Scoring System)
 #### Exposure Level (E)
 
 | Score | Description                                                            |
-|-------|------------------------------------------------------------------------|
+| ----- | ---------------------------------------------------------------------- |
 | 1-2   | Fully internal systems, no external access                             |
 | 3-4   | Limited external access, strong segmentation                           |
 | 5-6   | Some public-facing services, moderate segmentation                     |
@@ -226,7 +224,7 @@ Vulnerabilities are weighted by their CVSS (Common Vulnerability Scoring System)
 #### Attractiveness to Attackers (A)
 
 | Score | Description                                                                      |
-|-------|----------------------------------------------------------------------------------|
+| ----- | -------------------------------------------------------------------------------- |
 | 1-2   | Low-value data, minimal brand recognition                                        |
 | 3-4   | Small business, limited customer data                                            |
 | 5-6   | Mid-sized firm, some sensitive data                                              |
@@ -236,7 +234,7 @@ Vulnerabilities are weighted by their CVSS (Common Vulnerability Scoring System)
 #### Control Strength (C)
 
 | Score | Description                                                             |
-|-------|-------------------------------------------------------------------------|
+| ----- | ----------------------------------------------------------------------- |
 | 1-2   | Minimal controls, no monitoring, slow patching                          |
 | 3-4   | Basic controls, limited visibility, reactive response                   |
 | 5-6   | Moderate controls, some automation, average patching                    |
@@ -246,7 +244,7 @@ Vulnerabilities are weighted by their CVSS (Common Vulnerability Scoring System)
 #### CAL Risk Assessment Scale
 
 | CAL Score | Risk Level    | Interpretation                                     |
-|-----------|---------------|----------------------------------------------------|
+| --------- | ------------- | -------------------------------------------------- |
 | 0-100     | Low Risk      | Strong controls, low exposure, few vulnerabilities |
 | 101-200   | Moderate Risk | Some exposure or vulnerabilities, but manageable   |
 | 201-350   | High Risk     | Significant vulnerabilities or weak controls       |
@@ -257,11 +255,11 @@ Vulnerabilities are weighted by their CVSS (Common Vulnerability Scoring System)
 
 Calculating the cost of unplanned outages requires dealing with assumptions, direct and indirect costs across five categories:
 
-1.  **Direct Financial Cost**: Immediate revenue loss during downtime
-2.  **Productivity Cost**: Lost employee productivity
-3.  **Recovery and Repair Cost**: Resources required to restore service
-4.  **Intangible Cost**: Reputation damage and customer trust erosion
-5.  **Opportunity Cost**: Missed business opportunities
+1. **Direct Financial Cost**: Immediate revenue loss during downtime
+2. **Productivity Cost**: Lost employee productivity
+3. **Recovery and Repair Cost**: Resources required to restore service
+4. **Intangible Cost**: Reputation damage and customer trust erosion
+5. **Opportunity Cost**: Missed business opportunities
 
 ![Outage Cost](./media/costofoutage.png)
 
@@ -277,32 +275,14 @@ The amount of investment you make in technical debt depends on where you are in 
 
 Addressing technical debt involves a strategic process that includes:
 
-1.  **Identifying** technical debt through assessment and measurement
-2.  **Prioritizing** based on business impact and risk
-3.  **Resolving** through systematic remediation programs
+1. **Identifying** technical debt through assessment and measurement
+2. **Prioritizing** based on business impact and risk
+3. **Resolving** through systematic remediation programs
 
 Organizations must first outline the level of technical debt they carry and the related additional cost to successfully justify any change initiative. This requires a systematic approach to measurement and ongoing monitoring.
 
 # Methods and tools
 
-## SQALE
-
-**S**oftware **Q**uality **A**ssessment based on **L**ifecycle **E**xpectations (SQALE) is an extensive open-source standardized framework with the objectives of:
-
--   Supporting the evaluation of a software application's source code in the most objective, accurate, reproducible, and automated way possible.
--   Providing an efficient method for managing Technical Debt.
-
-It is based on the software lifecycle and specifically designed to measure technical debt.
-
-The Standard Definition and multiple whitepapers are available on the site [www.sqale.org](http://www.sqale.org/){:target="_blank"}
-
-In summary, organizations can use SQALE to establish their own concrete definition of "right code" and what constitutes technical debt and what doesn't, by:
-
--   Providing metrics about how far away the code is from the "right code" and what needs to be done
--   Describing standard graphical and numeric views that provide easy visualization of the debt
--   Giving multiple viewpoints of the analysis, the developer’s point of view, and the owner/user’s point of view
-
-At the basic level, it can give a baseline of the current technical debt levels to start working from and can then be incorporated into the SDLC and CI or Regression to generate live dashboards to see the impact of each build on the debt backlog.
 
 ## SonarQube
 
@@ -328,10 +308,10 @@ Technical debt is a complex topic that can be used as a valuable tool to deliver
 
 As an architect, whenever you use technical debt or encounter it, the key thing is to capture as much context as possible and identify a plan to address it. This requires:
 
-1.  **Systematic measurement** using established metrics like Technical Debt Ratio
-2.  **Comprehensive assessment** covering application, infrastructure, and security dimensions
-3.  **Strategic prioritization** based on business impact and risk
-4.  **Proactive management** through regular monitoring and remediation programs
+1. **Systematic measurement** using established metrics like Technical Debt Ratio
+2. **Comprehensive assessment** covering application, infrastructure, and security dimensions
+3. **Strategic prioritization** based on business impact and risk
+4. **Proactive management** through regular monitoring and remediation programs
 
 Addressing technical debt is not just a matter of improving IT efficiency; it is a strategic imperative for safeguarding business continuity and enhancing overall organizational resilience. Embracing a proactive approach to technical debt management will not only optimize current operations but also pave the way for future innovations and sustainable growth.
 
