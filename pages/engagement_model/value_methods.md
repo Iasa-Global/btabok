@@ -73,7 +73,7 @@ They shift the architect's role from technical expert to *decision enabler*—so
 
 ### What Value Methods Enable
 
-Each of the five architect roles defined by the BTABoK leverages value methods in distinct ways to influence technology investment and business outcomes:
+Each of the five architect specialization defined by the BTABoK leverages value methods in distinct ways to influence technology investment and business outcomes:
 
 - **Business Architects** use value methods to connect business models, capabilities, and strategies to quantifiable outcomes. They often lead the framing of business cases and ensure technology initiatives align with strategic objectives.
 
@@ -85,11 +85,11 @@ Each of the five architect roles defined by the BTABoK leverages value methods i
 
 - **Solution Architects** integrate inputs from all domains and are responsible for ensuring that individual project efforts deliver intended outcomes. They frequently apply ROI, IRR, and risk models to guide delivery teams and stakeholders.
 
-Together, these roles form a value-aware practice—one that connects architectural insight to measurable impact. Rather than simply responding to business initiatives, architects help initiate, frame, and shape them based on evidence of value.
+Together, these specializations form a value-aware practice—one that connects architectural insight to measurable impact. Rather than simply responding to business initiatives, architects help initiate, frame, and shape them based on evidence of value.
 
 Value methods empower architects to engage early, aligning technical options with strategic goals. They provide a structured basis for prioritizing initiatives not just by urgency or preference, but by expected return, mission alignment, or speed to value. Trade-offs become transparent: different architectural paths can be evaluated based on the outcomes they enable or constrain.
 
-And because value is measured across time—not just at the start—architecture’s role can be continuously validated. Each touchpoint with delivery, governance, and stakeholders becomes an opportunity to reaffirm architecture’s contribution to results.
+And because value is measured across time—not just at the start—architects can be continuously validated. Each touchpoint with delivery, governance, and stakeholders becomes an opportunity to reaffirm architecture’s contribution to results.
 
 ###### A Short Example
 
