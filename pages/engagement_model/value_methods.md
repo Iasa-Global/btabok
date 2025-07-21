@@ -413,7 +413,7 @@ The purpose of measurement is not to build perfect financial models, but to brin
 
 While advanced valuation practices exist in the finance world, architects can benefit from understanding the basics and applying them with enough rigor to guide priorities and outcomes.
 
-> 📚 For in-depth financial modeling guidance, refer to corporate finance texts or practitioner references such as Brealey & Myers' *Principles of Corporate Finance* or Steven Jenner’s *Benefits Realisation Management*.
+> For in-depth financial modeling guidance, refer to corporate finance texts or practitioner references such as Brealey & Myers' *Principles of Corporate Finance* or Steven Jenner’s *Benefits Realisation Management*.
 
 Below are practical value measurement methods commonly used in architecture:
 
