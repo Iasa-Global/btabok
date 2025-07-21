@@ -551,7 +551,10 @@ Value stories are often structured as a five-step technique:
 The BTABoK owner is the primary contributor and concept owner. This person is the primary editorial lead for the concept. Any member may contact the Iasa to create a discussion, change or challenge to this article. The primary contributor will help navigate a discussion to update this concept within the btabok based on the challenge criteria. 
 
 ![Paul Preiss](media/Paul-Preiss.png)
-**Chitra Sundaram**
+
+
+
+
 *CEO, Iasa - https://www.linkedin.com/in/ppreiss/ 
 
 Paul Preiss is the CEO and Founder of the Iasa, one of the largest business technology architect associations in the world. Through his time at Iasa, Paul has taken the association from a single user group in Austin Tx to an international organization with chapters in over 50 countries. Paul's vision is a unified architecture profession with effective education, credentials and ethics which fully supports corporate strategy and delivery. He is a tireless advocate for the field and speaks on topics ranging form architecture ethics to best the best setup and structure for architecture teams. Paul has spoken at hundreds of events as well as held conferences and training for architects all over the world. He is an expert software and enterprise architect in practice and continues to work with companies on optimizing their technology strategy. 
