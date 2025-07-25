@@ -16,8 +16,7 @@ tags:
 # What is a Service
 
 In the IT sector the term "service" is widely used in a number of
-contexts. In the context of this article, services are a way of
-realising a of realizing a [capability](business_capabilities.md){:target="_blank"}. This is to say that
+contexts. In the context of this article, services are a way of realizing a [capability](business_capabilities.md){:target="_blank"}. This is to say that
 a capability will deliver value though providing services.
 
 The Open Group provides a description of the characteristics of service
