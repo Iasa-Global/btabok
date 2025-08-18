@@ -85,4 +85,7 @@ In this series of short articles, we will look at how we can use the BTABoK to h
 
 This article explores the relationship to architects, emergent design, and tasks associated with architecture in an extended team model. It looks at architecture competencies and their application to non-architect roles and how to utilize the BTABoK in those environments as well as the tradeoffs necessary to make that work. In addition, we will discuss a full architect position and how to execute successfully in multiple fast-paced teams. 
 
-- [How Much Architecture and When?](../btabok_overview/how_much_architecture_and_when.md) 
+- [How Much Architecture and When?](https://iasa-global.github.io/btabok/engagement_models_m.html)
+
+<!-- [How Much Architecture and When?](../btabok_overview/how_much_architecture_and_when.md) -->
+
