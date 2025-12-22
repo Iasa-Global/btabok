@@ -14,9 +14,9 @@ permalink: index.html
             // Initialize navgoco with default options
             $("#mysidebar").navgoco({
                 caretHtml: '',
-                accordion: true,
-                openClass: 'active', // open
-                save: false, // leave false or nav highlighting doesn't work right
+                accordion: false,
+                openClass: 'active',
+                save: true,
                 cookie: {
                     name: 'navgoco',
                     expires: false,
@@ -26,6 +26,12 @@ permalink: index.html
                     duration: 400,
                     easing: 'swing'
                 }
+            });
+
+            // Ensure the active page's parent section is always expanded
+            $("#mysidebar li.active").parents("li").each(function() {
+                $(this).addClass("active open");
+                $(this).children("ul").show();
             });
 
             $("#collapseAll").click(function(e) {
